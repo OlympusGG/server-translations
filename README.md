@@ -9,8 +9,10 @@
   </a>
 </div>
 <br/><br/>
-[![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/rRS52ed)
 <!-- NosWings Header ><-->
+
+
+[![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/rRS52ed)
 
 Our server supports multilanguages, but since we don't have native speakers of each country playing our server, we will need your help to get the most accurate translations !
 
