@@ -1,5 +1,5 @@
 
-# NosWings.Website.Translation
+# NosWings.Server.Translation
 
 <!-- NosWings Header ><-->
 <div align="center">
