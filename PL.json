@@ -104,7 +104,7 @@
   "DO_YOU_WANT_START_RAID": "Czy chcesz rozpocząć rajd?",
   "DONE": "Gotowe!",
   "DROP_MAP_FULL": "Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.",
-  "DROPPED_ITEM": "Zdobyłeś: x{1} {0}",
+  "DROPPED_ITEM": "Zdobyłeś: {1}x {0}",
   "EFFECT_ACTIVATED": "Efekt {0} został aktywowany!",
   "EFFECT_TERMINATED": "Straciłeś efekt {0}.",
   "EMO_BLOCKED": "Emotikony zostały zablokowane",
