@@ -157,9 +157,9 @@ FRIEND_REQ_UNLOCKED: Zaproszenia do przyjaciół zostały odblokowane
 FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
 GAME_MASTER_OFF: Nie możesz tego zrobić!
-GET_PROTECTION_POWER_0: Utracono błogosławieństwo mocy ochronnej!
-GET_PROTECTION_POWER_1: Pobłogosławiono Cię mocą ochroną aniołów!
-GET_PROTECTION_POWER_2: Pobłogosławiono Cię mocą ochroną demonów!
+GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
+GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
+GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GIFTED: Otrzymano {0} przesyłek!
 GOLD_TS_END: 'Nagroda: {0} złota'
 GROUP_ADMIN: Wyznaczono Cię na lidera grupy!
@@ -295,7 +295,7 @@ NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 NO_SP: Brak założonej Karty Specjalisty!
 NO_TALENT_ARENA: Arena Talentów nie jest otwarta!
 NO_TEAM_ARENA: Nie znaleziono uczestników.
-NO_WEAPON: Nie nosisz odpowiedniej broni!
+NO_WEAPON: Brak broni do użycia!
 NO_WIG: Nie nosisz peruki!
 NO_WINGS: Nie posiadasz skrzydeł przyjaźni!
 NOT_ADVENTURER: Tylko Poszukiwacz Przygód może zmienić klasę!
