@@ -172,8 +172,8 @@ GROUP_LEFT: Opuszczono grupę
 GROUP_MEMBER_ALREADY_IN_FAMILY: Jeden z członków grupy należy już do rodziny!
 GROUP_REQ_BLOCKED: Zaproszenia do grupy zostały zablokowane
 GROUP_REQ_UNBLOCKED: Zaproszenia do grupy zostały odblokowane
-GROUP_REQUEST: Wysłano zaproszenie do grupy gracza{0}
-GROUP_SHARE_INFO: Wysłałeś prośbę o udostępnienie punktu powrotu członkom grupy.
+GROUP_REQUEST: Wysłano zaproszenie do grupy gracza {0}
+GROUP_SHARE_INFO: Wysłano prośbę o udostępnienie punktu powrotu członkom grupy.
 HAS_SHOP_OPENED: Nie możesz handlować z osobami mającymi otwarty sklep.
 HEAD_UNDEMOTABLE: Nie możesz zdegradować szefa rodziny!
 HERO_CHAT_BLOCKED: Czat bohatera został zablokowany
@@ -196,7 +196,7 @@ ICEBREAKER_WIN: '#ICEBREAKER_WIN'
 IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć!
 IN_BATTLE: Nie możesz zapraszać gracza, który jest w trakcie walki.
 IN_WAITING_FOR: Oczekujesz na gracza {0}.
-INCOMING_EXCHANGE: 'Czy zaakceptować prośbę wymiany od {0} [Poziom: {1}]?'
+INCOMING_EXCHANGE: 'Czy zaakceptować wymianę od gracza {0} [Poziom: {1}(+{2})]?'
 INFO_BAZAAR: Nie możesz otworzyć NosBazaru w tym miejscu, ponieważ nie posiadasz Medalu NosHandlarza.
 INSTANTBATTLE_MINUTES: Błyskawiczna Bitwa rozpocznie się za {0} min.
 INSTANTBATTLE_MINUTES_REMAINING: Błyskawiczna Bitwa zakończy się za {0} min.
@@ -213,7 +213,7 @@ INSTANTBATTLE_SUCCEEDED: Wygrano Błyskawiczną Bitwę!
 INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
-INVITED_YOU_SHARE: 'Czy chcesz ustawić jako punkt powrotu od gracza {0}?'
+INVITED_YOU_SHARE: 'Czy chcesz ustawić punkt powrotu od gracza {0}?'
 ITEM_ACQUIRED: 'Otrzymano'
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Otrzymałeś przedmiot od potwora!
 ITEM_ACQUIRED_LOD: 'Otrzymano przedmiot:'
@@ -293,7 +293,7 @@ NO_FAMILY_RIGHT: Nie posiadasz uprawnień.
 NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
 NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 NO_SP: Brak założonej Karty Specjalisty!
-NO_TALENT_ARENA: Nie znaleziono Areny Talentów!
+NO_TALENT_ARENA: Arena Talentów nie jest otwarta!
 NO_TEAM_ARENA: Nie znaleziono uczestników.
 NO_WEAPON: Nie nosisz odpowiedniej broni!
 NO_WIG: Nie nosisz peruki!
@@ -377,7 +377,7 @@ RARIFY_SUCCESS: 'Hazard powiódł się! Nowy poziom unikalności: {0}'
 RECEIVED_ITEM: 'Otrzymano przedmiot: {0}'
 REFILL_MINIGAME: 'Wkład mini-gry: {0}'
 REFUSED_GROUP_REQUEST: Gracz {0} odrzucił Twoje zaproszenie do grupy.
-REFUSED_SHARE: Odmówiłeś udostępnienia punktu powrotu członkom grupy.
+REFUSED_SHARE: Odmówiono udostępnienia punktu powrotu członkom grupy.
 REMOVE_FROM_BAZAAR: Zakończono sprzedaż, otrzymujesz {0} szt. złota.
 REMOVE_SP: Nie możesz nauczyć się umiejętnóści, dopóki jesteś na Karcie Specjalisty.
 REMOVE_VEHICLE: Przed transformacją musisz zejść z pojazdu.
