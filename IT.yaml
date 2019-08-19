@@ -8,6 +8,7 @@ ACT4_RAID_OPEN: ACT4 RAID aperto.
 ADD_OPTION_ON_STUFF: Vuoi aggiungere opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L’opzione esistente sarà rimossa e sostituita da una nuova. La probabilità di successo è attualmente del 50 %. Ti va di continuare?
 ADMINISTRATOR: Administratore
+ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Gli avventurieri non possono usare quest'oggetto!
 ALREADY_EXCHANGE: L'utente sta già scambiando.
 ALREADY_FRIEND: Voi due siete già amici.
@@ -26,6 +27,7 @@ AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
 AMULET_DESTROYED: Amuleto distrutta !
 AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
+ARCHER: '#ARCHER'
 ARENA_CALLED: '#ARENA_CALLED'
 ARENA_KILL: '#ARENA_KILL'
 ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
@@ -33,8 +35,11 @@ ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
 ARENA_TALENT_LEFT: '#ARENA_TALENT_LEFT'
 ARENA_TEAM_FOUND: '#ARENA_TEAM_FOUND'
 ARENA_TEAM_LEAVE: '#ARENA_TEAM_LEAVE'
+ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
 ASK_BIND: Vuoi davvero usare questo oggetto? L'oggetto sarà di uso esclusivo tuo.
+ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
+ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
 ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
 ASK_ENTRY_IN_FIRST_ROOM: Iniziare la missione ?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
@@ -75,7 +80,7 @@ CALIGOR_REALM_OPEN: Il regno di Caligor è stata apperto
 CANNOT_LEAVE_FAMILY: Sei il capo della famiglia, non puoì lasciare la tua famiglia.
 CANT_ATTACK: Non puoi ancora attaccare
 CANT_CHANGE_MESSAGE: Hai già modificato il motto del giorno, riprova domani.
-CANT_CREATE_RAIDS: Non puoi apprire lo Raid qui
+CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Non puoi equipaggiare una SP distrutta
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
 CANT_KICK_HEAD: Non puoi cacciato il tuo capo
@@ -134,6 +139,7 @@ EXCHANGE_UNLOCKED: '>Da questo momento in poi gli scambi verranno accettati.'
 FAIRY_LEVELUP: La potenza della tua fata è aumentata di {0} livello.
 FAIRYMAX: la tua fata ha raggiunto il livello massimo
 FAIRYSTATS: '#FAIRYSTATS'
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: La famiglia {0} è stata fondata!
 FAMILY_FULL: Non puoi aggiungere altri membri nella tua famiglia, perché non c’è abbastanza spazio
 FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
@@ -143,6 +149,10 @@ FAMILY_INVITED: Giocatore {0} è stato invitato!
 FAMILY_JOINED: Giocatore {0} si è unito alla famiglia {1} !
 FAMILY_LEAVE: Hai lasciato la famiglia.
 FAMILY_NAME_ALREADY_USED: Il nome della famiglia è già stato preso!
+FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
+FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
+FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
+FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
 FAMILY_REQ_LOCKED: Da questo momento in poi gli inviti nelle Famiglie verranno bloccati.
 FAMILY_REQ_UNLOCKED: Gli inviti nelle Famiglie sono stati abilitati
 FAMILY_UP: Congratulazione, La tua famiglia a salire di livello!
@@ -158,9 +168,9 @@ FRIEND_REQ_UNLOCKED: Le richieste d'amicizia sono state abilitate.
 FRIEND_REQUEST_BLOCKED: Il gioccatore {0} ha riffiutato la tua richiesta
 FXP_INCREASE: La tua famiglia ha fatto progressi!
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
-GET_PROTECTION_POWER_0: '#GET_PROTECTION_POWER_0'
-GET_PROTECTION_POWER_1: Hai ottenuto il potere della protezione degli angeli.
-GET_PROTECTION_POWER_2: Hai ottenuto il potere della protezione dei demoni.
+GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
+GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
+GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: Hai ricevuto {0} regalo/i
 GOLD_TS_END: ">Sei stato ricompensato per aver portato a termine una missione. Hai ricevuto: [{0} Oro]. E' possibile che riceva meno esperienza e oro perchè il tuo livello è troppo alto."
 GROUP_ADMIN: Sei il capogruppo!
@@ -196,6 +206,7 @@ ICEBREAKER_STARTED: Il Icebreaker ha iniziato!
 ICEBREAKER_WIN: Avete vinto il Icebreaker
 IMPOSSIBLE_TO_USE: Non è possibile utilizzarlo al momento
 IN_BATTLE: Non puoi invitare i giocatori mentre combattono!
+IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In attesa di {0}
 INCOMING_EXCHANGE: '#INCOMING_EXCHANGE'
 INFO_BAZAAR: Non puoi aprire il NosBazar perchè non possiedi l'oggetto richiesto !
@@ -243,9 +254,10 @@ LOSE_REP: Reputazione - {0}
 LOW_JOB_LVL: Il livello di lavoro è troppo basso.
 LOW_RAID_LEVEL: Il tuo livello è troppo basso per ottenere una ricompensa, continuare?
 LVL_REQUIRED: Lo specialista deve essere almeno di livello {0} per essere migliorato!
+MAGICAN: '#MAGICAN'
 MAIL_DELETED: La nota è stata cancellata.
 MAILED: Hai spedito una nota.
-MAP_MISSING: '#MAP_MISSING'
+MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Massimo soldi raggiunto!
 MAX_GOLD_BANK_REACHED: Massimo soldi raggiunto nella banca
 MAX_MATES_COUNT: Non puoi avere piu di compagno
@@ -262,6 +274,7 @@ MINILAND_NEED_LOCK: Devi prima bloccare la Mini-Land per costruire.
 MINILAND_PRIVATE: La Mini-Land adesso è pubblica.
 MINILAND_PUBLIC: La Mini-Land adesso è pubblica
 MINILAND_VISITOR: 'Visite Totali: {0}, Visite Giornaliere: {1}'
+MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Impossibile, il mostro è troppo alto livello
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
@@ -294,6 +307,8 @@ NO_FAMILY: Ti bisogna di una famiglia per entrare qui.
 NO_FAMILY_RIGHT: '>Non disponi dei diritti necessari.'
 NO_FAMILY_WAREHOUSE: Nessun magazzino di famiglia trovato.
 NO_GILLION: Ti serve più di Pietra Gilion
+NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
+NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
 NO_SP: Nessuna carta speciale in uso
 NO_TALENT_ARENA: '#NO_TALENT_ARENA'
 NO_TEAM_ARENA: '#NO_TEAM_ARENA'
@@ -331,9 +346,14 @@ ONLY_HEAD_CAN_BUY: '#ONLY_HEAD_CAN_BUY'
 ONLY_PROMOTE_ASSISTANT: Puoi soltanto promuovere un vice a capo famiglia!
 ONLY_RAID_LEADER_CAN_START: Solamente lo capo dello squadro puo comminciare l'avventura
 OPEN_BANK: '#OPEN_BANK'
+PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
+PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: '#PARTNER_AUTO_RELIVE_DISABLED'
 PARTNER_AUTO_RELIVE_ENABLED: '#PARTNER_AUTO_RELIVE_ENABLED'
 PARTNER_BACKPACK: '#PARTNER_BACKPACK'
+PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
+PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
+PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
 PERFECTSP_ATTACK: Attacco
 PERFECTSP_DEFENSE: Difesa
 PERFECTSP_ELEMENT: Elemento
@@ -416,6 +436,7 @@ SHELL_OPTION_SET: Le opzioni sono state aggiunte
 SHELL_RARITY_TOO_HIGH: Il livelo di rarità è troppo alto per quest'attrezzatura
 SHIP_MINUTES: La nave partirà in {0} minuti
 SHIP_SECONDS: La nave partirà in {0} secondi
+SHIP_SETOFF: '#SHIP_SETOFF'
 SHOP_EMPTY: Il negozio non può essere vuoto
 SHOP_NEAR_PORTAL: Non puoi aprire un negozio così vicino ad un portale!
 SHOP_NOT_ALLOWED: Non puoi aprire il negozio nelle mappe generali.
@@ -435,6 +456,7 @@ SP_LEVELUP: Il lavoro del tuo specialista è aumentato
 SP_NO_REMOVE_DEBUFFS: Un effetto negativo impedisce di rimuovere la SP
 SP_NOPOINTS: Non hai punti SP rimasti! Non puoi trasformarti ora!
 SP_POINTS_ADDED: Hai ricevuto {0} punti SP!
+SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
 SP_RESURRECTED: L'anima della SP ha ripreso vita!
 SP_USE_NEEDED: Devi essere trasformato per resettare i punti sp!
 SPEAKER: '#SPEAKER'
@@ -446,8 +468,10 @@ SUM_SUCCESS: La somma è riuscita!
 SUPER_REWARD: Qualcuno ha vinto la lotteria alla scatola misteriosa!
 SUPPORT: Supporto
 SURE_TO_DELETE: L'item verrà distrutto.
+SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
+TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Ora sei il capogruppo
 TELEPORTED_IN: '#TELEPORTED_IN'
 TOO_LOW_LVL: Il tuo livello non corrisponde

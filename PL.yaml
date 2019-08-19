@@ -8,6 +8,7 @@ ACT4_RAID_OPEN: Rajd {0} został otwarty!
 ADD_OPTION_ON_STUFF: Czy chcesz dodać opcję? Jeśli tak, ten przedmiot będzie przywiązany tylko do Ciebie.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: Opcja zostanie zastąpiona nową. Masz 50% szans na powodzenie, w przeciwnym razie przedmiot zostanie zniszczony. Czy chcesz kontynuować?
 ADMINISTRATOR: Administrator
+ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Poszukiwacze Przygód nie mogą użyć tego przedmiotu!
 ALREADY_EXCHANGE: Gracz aktualnie handluje z kimś innym.
 ALREADY_FRIEND: Już jesteście przyjaciółmi!
@@ -26,6 +27,7 @@ AMMO_LOADED_ARCHER: Strzały załadowane!
 AMMO_LOADED_SWORDSMAN: Belty załadowane!
 AMULET_DESTROYED: 'UWAGA: zaklęcie ochronne amuletu znikneło!'
 AMULET_FAIL_SAVED: Dzięki amuletowi, przedmiot został uratowany od zniszczenia!
+ARCHER: '#ARCHER'
 ARENA_CALLED: Uczestnik wezwał gracza {0}!
 ARENA_KILL: Gracz {0} został zabity przez gracza {1}.
 ARENA_NOT_OPEN: Arena Talentów nie jest jeszcze otwarta!
@@ -33,8 +35,11 @@ ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
 ARENA_TALENT_LEFT: Pomyślnie wyszedłeś z Areny Talentów.
 ARENA_TEAM_FOUND: Znaleziono drużynę.
 ARENA_TEAM_LEAVE: Pomyślnie wyszedłeś z drużyny.
-ARENA_TICKET_LEFT: 'Pozostało {0}x wstępów na Arenę Talentów.'
+ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
+ARENA_TICKET_LEFT: Pozostało {0}x wstępów na Arenę Talentów.
 ASK_BIND: Czy chcesz założyć ten przedmiot? Po założeniu nie będzie już zdatny do handlu.
+ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
+ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
 ASK_CHANGE_SPAWNLOCATION: Czy chcesz ustawić tę wioskę miejscem ożywienia?
 ASK_ENTRY_IN_FIRST_ROOM: Rozpocząć misję?
 ASK_FAMILY_INVITED: Zostałeś zaproszony do rodziny {0}, czy chcesz dołączyć?
@@ -68,13 +73,14 @@ BLACKLIST_DELETED: Usunięto z czarnej listy.
 BUFF_BLOCKED: Ikony buffów zablokowane.
 BUFF_UNLOCKED: Ikony buffów odblokowane.
 BUY_ITEM: Gracz {0} kupił &lt;{2}x {1}&gt;
-BUY_ITEM_VALID: 'Kupiłeś {0}x {1}.'
+BUY_ITEM_VALID: Kupiłeś {0}x {1}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
 CALIGOR_REALM_OPEN: Portal do Królestwa Caligora został otwarty!
 CANNOT_LEAVE_FAMILY: Szef nie może opuścić rodziny!
 CANT_ATTACK: Nie możesz teraz atakować!
 CANT_CHANGE_MESSAGE: Dziś już modyfikowałeś swoją wiadomość dnia. Spróbuj ponownie jutro!
+CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Nie możesz założyć zniszczonej Karty Specjalisty
 CANT_JOIN_ARENA_IN_RAID: Nie możesz dołączyć do rajdu na arenie!
 CANT_KICK_HEAD: Nie możesz wyrzucić szefa!
@@ -133,6 +139,7 @@ EXCHANGE_UNLOCKED: Handel odblokowano
 FAIRY_LEVELUP: Twoja {0} zdobyła kolejny poziom!
 FAIRYMAX: Twoja wróżka osiągneła maksymalny poziom!
 FAIRYSTATS: 'Doświadczenie wróżki: {0}/{1}.'
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: Rodzina {0} została założona!
 FAMILY_FULL: Rodzina jest pełna!
 FAMILY_GROUP_NOT_FULL: Aby założyć rodzinę, musisz posiadać pełną grupę!
@@ -142,6 +149,10 @@ FAMILY_INVITED: Gracz {0} został zaproszony do rodziny.
 FAMILY_JOINED: Gracz {0} dołączył do rodziny {1}.
 FAMILY_LEAVE: Wyszedłeś z rodziny.
 FAMILY_NAME_ALREADY_USED: Nazwa rodziny jest już zajęta!
+FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
+FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
+FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
+FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
 FAMILY_REQ_LOCKED: Zaproszenia do rodziny zostały zablokowane
 FAMILY_REQ_UNLOCKED: Zaproszenia do rodziny zostały odblokowane
 FAMILY_UP: Poziom rodziny został zwiększony!
@@ -157,9 +168,9 @@ FRIEND_REQ_UNLOCKED: Zaproszenia do przyjaciół zostały odblokowane
 FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
 GAME_MASTER_OFF: Nie możesz tego zrobić!
-GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
 GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
+GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
 GIFTED: Otrzymano {0} przesyłek!
 GOLD_TS_END: 'Nagroda: {0} złota'
 GROUP_ADMIN: Wyznaczono Cię na lidera grupy!
@@ -195,6 +206,7 @@ ICEBREAKER_STARTED: '#ICEBREAKER_STARTED'
 ICEBREAKER_WIN: '#ICEBREAKER_WIN'
 IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć!
 IN_BATTLE: Nie możesz zapraszać gracza, który jest w trakcie walki.
+IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: Oczekujesz na gracza {0}.
 INCOMING_EXCHANGE: 'Czy zaakceptować wymianę od gracza {0} [Poziom: {1}(+{2})]?'
 INFO_BAZAAR: Nie możesz otworzyć NosBazaru w tym miejscu, ponieważ nie posiadasz Medalu NosHandlarza.
@@ -213,8 +225,8 @@ INSTANTBATTLE_SUCCEEDED: Wygrano Błyskawiczną Bitwę!
 INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
-INVITED_YOU_SHARE: 'Czy chcesz ustawić punkt powrotu od gracza {0}?'
-ITEM_ACQUIRED: 'Otrzymano'
+INVITED_YOU_SHARE: Czy chcesz ustawić punkt powrotu od gracza {0}?
+ITEM_ACQUIRED: Otrzymano
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Otrzymałeś przedmiot od potwora!
 ITEM_ACQUIRED_LOD: 'Otrzymano przedmiot:'
 ITEM_BOUND_TO: '(Grupa) [{1}]: {2}x {0}'
@@ -242,8 +254,10 @@ LOSE_REP: Utracono {0} reputacji.
 LOW_JOB_LVL: Twoja profesja jest zbyt niska!
 LOW_RAID_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
 LVL_REQUIRED: Do ulepszenia Karty Specjalisty potrzebna jest {0} profesja.
+MAGICAN: '#MAGICAN'
 MAIL_DELETED: Notka usunięta.
 MAILED: Notka wysłana!
+MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
 MAX_MATES_COUNT: Osiągnięto maksymalną ilość NosKumpli!
@@ -260,6 +274,7 @@ MINILAND_NEED_LOCK: Musisz ustawić Mini-Land na zablokowany, aby móc modyfikow
 MINILAND_PRIVATE: Mini-Land jest prywatny.
 MINILAND_PUBLIC: Mini-Land jest publiczny.
 MINILAND_VISITOR: 'Łączna liczba wizyt: {0}. Dzienna liczba wizyt: {1}'
+MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Musisz mieć wyższy poziom od potwora, którego chcesz złapać!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od twojego, aby go schwytać!
 MONSTER_MUST_BE_LOW_HP: Potwór mu
@@ -284,7 +299,7 @@ NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
 NEED_TEAM: Potrzebujesz drużyny, aby rozpocząć rajd.
 NEW_LEADER: Mianowano Cię nowym liderem grupy!
 NEW_MISSION: Nowy cel misji!
-NEW_NAME_PET_MAX_LENGTH: 'Nazwa NosKumpla jest za długa, maksymalnie 14 znaków!'
+NEW_NAME_PET_MAX_LENGTH: Nazwa NosKumpla jest za długa, maksymalnie 14 znaków!
 NO_AMMO_ADVENTURER: Nie masz wystarczająco amunicji. Kup w sklepie ze sprzętem.
 NO_AMMO_ARCHER: Nie masz wystarczająco strzał. Kup w sklepie ze sprzętem.
 NO_AMMO_SWORDSMAN: Nie masz wystarczająco belt. Kup w sklepie ze sprzętem.
@@ -292,6 +307,8 @@ NO_FAMILY: Nie jesteś w rodzinie.
 NO_FAMILY_RIGHT: Nie posiadasz uprawnień.
 NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
 NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
+NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
+NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
 NO_SP: Brak założonej Karty Specjalisty!
 NO_TALENT_ARENA: Arena Talentów nie jest otwarta!
 NO_TEAM_ARENA: Nie znaleziono uczestników.
@@ -329,9 +346,14 @@ ONLY_HEAD_CAN_BUY: Tylko szef rodziny może to kupić!
 ONLY_PROMOTE_ASSISTANT: Na szefa rodziny możesz awansować tylko zastępcę!
 ONLY_RAID_LEADER_CAN_START: Tylko lider może rozpocząć rajd!
 OPEN_BANK: Witaj w banku! W czym możemy Ci pomóc?
+PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
+PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: Po śmierci NosKumpel wróci do Mini-Landu.
 PARTNER_AUTO_RELIVE_ENABLED: Po śmierci NosKumpel zostanie ożywiony Ziarnami Mocy.
 PARTNER_BACKPACK: Czy otworzyć plecak partnera?
+PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
+PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
+PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
 PERFECTSP_ATTACK: Atak
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
@@ -414,6 +436,7 @@ SHELL_OPTION_SET: Dodano nową opcję.
 SHELL_RARITY_TOO_HIGH: Unikalność osłony jest zbyt wysoka.
 SHIP_MINUTES: Statek odpłynie za {0} min.
 SHIP_SECONDS: Statek odpłynie za {0} sek.
+SHIP_SETOFF: '#SHIP_SETOFF'
 SHOP_EMPTY: Sklep nie może być pusty!
 SHOP_NEAR_PORTAL: Nie możesz otworzyć sklepu blisko portalu!
 SHOP_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu!
@@ -433,6 +456,7 @@ SP_LEVELUP: Poziom profesji Karty Specjalisty został podwyższony!
 SP_NO_REMOVE_DEBUFFS: Nie możesz się przetransformować, gdyż posiadasz negatywne efekty!
 SP_NOPOINTS: Nie posiadasz wystarczająco punktów SP, aby się przetransformować.
 SP_POINTS_ADDED: Dodano {0} punktów SP!
+SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
 SP_RESURRECTED: Dusza Karty Specjalisty została wskrzeszona!
 SP_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SPEAKER: GŁOŚNIK
@@ -444,8 +468,10 @@ SUM_SUCCESS: Łączenie się udało.
 SUPER_REWARD: Gracz {0} wygrał {1} w tajemniczym pudełku!
 SUPPORT: Wsparcie
 SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
+SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: Musisz opuścić grupę, aby dołączyć do Areny Talentów.
 TALENT_ARENA_NO_MORE_TICKET: Nie posiadasz wystaczająco wejściówek, aby dołączyć!
+TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Nowym liderem grupy został gracz {0}
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
 TOO_LOW_LVL: Twój poziom jest za niski!
@@ -453,7 +479,7 @@ TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.
 TRANSFORM_DISAPPEAR: Czas odnowienia zniknął.
 TRANSFORMATION_NEEDED: Musisz przetransformować się w Kartę Specjalisty, aby to zrobić!
-TRY_FAILED_WAIT: 'Próba nieudana! Spróbuj ponownie za {0} sek.'
+TRY_FAILED_WAIT: Próba nieudana! Spróbuj ponownie za {0} sek.
 TS_PENALTY: '#TS_PENALTY'
 TS_TUTORIAL: '#TS_TUTORIAL'
 UI_BLOCKED: Interfejs został zablokowany!
@@ -487,8 +513,8 @@ WIN_SP_POINT: 'Punkty SP: +{0}'
 WITHDRAW_BANK: 'Wypłacono: {0}'
 XP_NOTFIRSTHIT: Jako że nie uderzyłeś pierwszy, otrzymujesz tylko część doświadczenia.
 YOU_ARE_RAID_LEADER: Zostałeś mianowany nowym liderem rajdu!
-YOU_ASK_FOR_EXCHANGE: 'Poprosiłeś gracza {0} o wymianę.'
-YOU_CATCHED_PET_X: 'Złapano {0}!'
+YOU_ASK_FOR_EXCHANGE: Poprosiłeś gracza {0} o wymianę.
+YOU_CATCHED_PET_X: Złapano {0}!
 YOU_CREATED_FAMILY_X: '#YOU_CREATED_FAMILY_X'
 YOU_GET_PET: Otrzymano {0}!
 YOU_HAVE_LIFE: 'Pozostałe życia: {0}'

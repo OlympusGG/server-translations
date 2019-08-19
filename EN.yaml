@@ -8,6 +8,7 @@ ACT4_RAID_OPEN: The raid {0} is open !
 ADD_OPTION_ON_STUFF: Do you want to add an option on this stuff ? If yes, this item will be link to you only.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: The option will be replace by the new. You've 50% of chance to win, else the item will be destroyed. Do you want to continue ?
 ADMINISTRATOR: Administrator
+ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Adventurers can't use that item!
 ALREADY_EXCHANGE: User is in exchange!
 ALREADY_FRIEND: You are already Friends!
@@ -26,6 +27,7 @@ AMMO_LOADED_ARCHER: Arrow loaded!
 AMMO_LOADED_SWORDSMAN: Crossbow bolts loaded, Chaaaarge!
 AMULET_DESTROYED: 'CAUTION : The protection spell has expired'
 AMULET_FAIL_SAVED: The item is not destroyed, thanks to the amulet
+ARCHER: '#ARCHER'
 ARENA_CALLED: 'A participant has called : {0}'
 ARENA_KILL: '{0} has been killed by {1}.'
 ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
@@ -33,8 +35,11 @@ ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
 ARENA_TALENT_LEFT: You successfully left the Talent Arena!
 ARENA_TEAM_FOUND: Participants found!
 ARENA_TEAM_LEAVE: You successfully left the Team
+ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
 ASK_BIND: Do you want to wear that item? this will bind that item to your character.
+ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
+ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
 ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
 ASK_ENTRY_IN_FIRST_ROOM: Do you want to start the mission ?
 ASK_FAMILY_INVITED: You've been invited to family {0}, do you want to join?
@@ -75,7 +80,7 @@ CALIGOR_REALM_OPEN: The portal to Caligor is opened
 CANNOT_LEAVE_FAMILY: The family head can't exit the family.
 CANT_ATTACK: You can't attack right now.
 CANT_CHANGE_MESSAGE: You already modified your message today. Retry tomorrow!
-CANT_CREATE_RAIDS: '#CANT_CREATE_RAIDS'
+CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: You can't wear destroyed specialist card
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
 CANT_KICK_HEAD: You can't kick the Family head.
@@ -134,6 +139,7 @@ EXCHANGE_UNLOCKED: Exchange allowed
 FAIRY_LEVELUP: Your {0} level increased
 FAIRYMAX: Your fairy has reached max level!
 FAIRYSTATS: 'Fairy XP: {0}/{1}'
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: The family {0} was founded!
 FAMILY_FULL: '#FAMILY_FULL'
 FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
@@ -143,6 +149,10 @@ FAMILY_INVITED: Player {0} has been invited!
 FAMILY_JOINED: Player {0} joined the family {1}!
 FAMILY_LEAVE: '#FAMILY_LEAVE'
 FAMILY_NAME_ALREADY_USED: This family name is already in use!
+FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
+FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
+FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
+FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
 FAMILY_REQ_LOCKED: Family request blocked
 FAMILY_REQ_UNLOCKED: Family request allowed
 FAMILY_UP: The family level increased
@@ -158,9 +168,9 @@ FRIEND_REQ_UNLOCKED: Friend request allowed
 FRIEND_REQUEST_BLOCKED: Friend request blocked
 FXP_INCREASE: Your family won {0} experience points.
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
-GET_PROTECTION_POWER_0: '#GET_PROTECTION_POWER_0'
-GET_PROTECTION_POWER_1: You were blessed by power of angel.
-GET_PROTECTION_POWER_2: You were blessed by power of demon.
+GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
+GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
+GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: You received {0} gift/s!
 GOLD_TS_END: '#GOLD_TS_END'
 GROUP_ADMIN: You are the group admin!
@@ -196,6 +206,7 @@ ICEBREAKER_STARTED: '#ICEBREAKER_STARTED'
 ICEBREAKER_WIN: '#ICEBREAKER_WIN'
 IMPOSSIBLE_TO_USE: Can't use that right now!
 IN_BATTLE: You can't invite players when battling.
+IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In Waiting for {0}
 INCOMING_EXCHANGE: '#INCOMING_EXCHANGE'
 INFO_BAZAAR: You cannot open the bazaar because you do not possess the required object.
@@ -243,9 +254,10 @@ LOSE_REP: You've lost {0} reputation
 LOW_JOB_LVL: Your joblevel is too low!
 LOW_RAID_LEVEL: You must be level {0} to join the raid.
 LVL_REQUIRED: Specialist with level {0} required for upgrade!
+MAGICAN: '#MAGICAN'
 MAIL_DELETED: The mail has been removed!
 MAILED: You've sent a mail!
-MAP_MISSING: '#MAP_MISSING'
+MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Maximum amount of gold reached!
 MAX_GOLD_BANK_REACHED: Maximum amount of gold reached in bank
 MAX_MATES_COUNT: Maximum amount of Mates reached!
@@ -262,6 +274,7 @@ MINILAND_NEED_LOCK: You need to lock your mini-land to make modifications.
 MINILAND_PRIVATE: The mini-land is now private.
 MINILAND_PUBLIC: The mini-land is now public.
 MINILAND_VISITOR: 'Total visits: {0}, Daily visits: {1}'
+MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Monster level must be less
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
@@ -294,6 +307,8 @@ NO_FAMILY: You don't have a family.
 NO_FAMILY_RIGHT: You don't have family rights.
 NO_FAMILY_WAREHOUSE: No family warehouse found.
 NO_GILLION: You don't have enough gillion stone !
+NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
+NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
 NO_SP: You're not wearing specialist card!
 NO_TALENT_ARENA: '#NO_TALENT_ARENA'
 NO_TEAM_ARENA: No participants found
@@ -331,9 +346,14 @@ ONLY_HEAD_CAN_BUY: '#ONLY_HEAD_CAN_BUY'
 ONLY_PROMOTE_ASSISTANT: You can only promote an assistant to the family head!
 ONLY_RAID_LEADER_CAN_START: '#ONLY_RAID_LEADER_CAN_START'
 OPEN_BANK: '#OPEN_BANK'
+PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
+PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: '#PARTNER_AUTO_RELIVE_DISABLED'
 PARTNER_AUTO_RELIVE_ENABLED: '#PARTNER_AUTO_RELIVE_ENABLED'
 PARTNER_BACKPACK: '#PARTNER_BACKPACK'
+PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
+PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
+PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
@@ -416,6 +436,7 @@ SHELL_OPTION_SET: A new option has been added.
 SHELL_RARITY_TOO_HIGH: The shell rarity is too high.
 SHIP_MINUTES: The ship will set off in {0} minutes !
 SHIP_SECONDS: '>The ship will set off in {0} seconds !'
+SHIP_SETOFF: '#SHIP_SETOFF'
 SHOP_EMPTY: Shop cannot be empty!
 SHOP_NEAR_PORTAL: You cannot create shop so close to portal!
 SHOP_NOT_ALLOWED: You can't open shops on global maps.
@@ -435,6 +456,7 @@ SP_LEVELUP: SP level increased!
 SP_NO_REMOVE_DEBUFFS: '#SP_NO_REMOVE_DEBUFFS'
 SP_NOPOINTS: You have no SP Points left! You can't transform now!
 SP_POINTS_ADDED: You received {0} SP Points!
+SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
 SP_RESURRECTED: Your specialist's soul has been resurrected!
 SP_USE_NEEDED: '#SP_USE_NEEDED'
 SPEAKER: '#SPEAKER'
@@ -446,8 +468,10 @@ SUM_SUCCESS: '>Summing succeeded!'
 SUPER_REWARD: '{0} won an {1} in the mystery box !'
 SUPPORT: WH
 SURE_TO_DELETE: Are you sure you want to delete this item?
+SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
+TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
 TELEPORTED_IN: You will be teleported in {0} seconds.
 TOO_LOW_LVL: Your level is too low!

@@ -8,6 +8,7 @@ ACT4_RAID_OPEN: Le raid de l'Act4 est maintenant ouvert
 ADD_OPTION_ON_STUFF: Souhaites-tu ajouter une option à cet équipement ?
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L'option existante sera supprimée et remplacée par une nouvelle.
 ADMINISTRATOR: Administrateur
+ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Ton personnage ne remplit pas les conditions requises pour utiliser cet objet.
 ALREADY_EXCHANGE: Utilisateur déjà en échange.
 ALREADY_FRIEND: Déjà amis
@@ -26,6 +27,7 @@ AMMO_LOADED_ARCHER: Les flèches ont été rechargées.
 AMMO_LOADED_SWORDSMAN: Les carreaux ont été rechargées.
 AMULET_DESTROYED: L'amulette a été détruite.
 AMULET_FAIL_SAVED: La tentative a échoué mais l'objet a été sauvé grâce à l'amulette
+ARCHER: '#ARCHER'
 ARENA_CALLED: "Un autre participant l'appellera rapidement : {0}"
 ARENA_KILL: 'Vous avez tué un joueur '
 ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
@@ -33,8 +35,11 @@ ARENA_PENALTY_NOTICE: Si tu annules l'inscription, tu recevras une pénalité.
 ARENA_TALENT_LEFT: "{0} a quitté l'arène d'équipe."
 ARENA_TEAM_FOUND: Participants inscrits trouvés.
 ARENA_TEAM_LEAVE: Le participant a annulé l'inscription
+ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
 ASK_BIND: Cet objet ne pourra plus être commercé, Veux-tu le porter ?
+ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
+ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
 ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
 ASK_ENTRY_IN_FIRST_ROOM: Souhaites-tu commencer la mission ?
 ASK_FAMILY_INVITED: "{0} t'invite à rejoindre la famille {1}"
@@ -75,7 +80,7 @@ CALIGOR_REALM_OPEN: Le portail vers Caligor est maintenant ouvert.
 CANNOT_LEAVE_FAMILY: Le chef de famille ne peut pas quitter
 CANT_ATTACK: Tu ne peux pas encore l'utiliser.
 CANT_CHANGE_MESSAGE: Tu ne peux pas modifier ton message aujourd'hui car il a déjà été modifié.
-CANT_CREATE_RAIDS: Vous ne pouvez pas créer de raids.
+CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Tu ne peux pas l'équiper car l'âme est détruite.
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
 CANT_KICK_HEAD: Vous ne pouvez pas virer le chef de famille.
@@ -134,6 +139,7 @@ EXCHANGE_UNLOCKED: A partir de maintenant, tu débloques les échanges.
 FAIRY_LEVELUP: '{0} a progressé !'
 FAIRYMAX: Ta fée a atteint le niveau maximum
 FAIRYSTATS: 'Fée Exp : {0}/{1]'
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: Félicitations ! La famille {0} a été fondée !
 FAMILY_FULL: Ta famille est pleine !
 FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
@@ -143,6 +149,10 @@ FAMILY_INVITED: '{0} a été invité'
 FAMILY_JOINED: '{0} a rejoint : {1}'
 FAMILY_LEAVE: Tu as quitté la famille.
 FAMILY_NAME_ALREADY_USED: Tu ne peux pas utiliser ce nom de famille car il est déjà utilisé
+FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
+FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
+FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
+FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
 FAMILY_REQ_LOCKED: A partir de maintenant, tu bloques les invitations de famille
 FAMILY_REQ_UNLOCKED: A partir de maintenant, tu débloques les invitaitons de famille
 FAMILY_UP: Niveau de famille augmenté !
@@ -158,9 +168,9 @@ FRIEND_REQ_UNLOCKED: A partir de maintenant, tu débloques les demandes d'amis.
 FRIEND_REQUEST_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FXP_INCREASE: '{0} a rapporté {1} FXP en montant niveau {2}'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
-GET_PROTECTION_POWER_0: Tu es neutre.
-GET_PROTECTION_POWER_1: Tu as obtenu le pouvoir de l'Ange grâce à l'Oeuf de Latheore.
-GET_PROTECTION_POWER_2: Tu as obtenu le pouvoir du Démon grâce à l'Oeuf de Latheore.
+GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
+GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
+GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: 'Nouveaux paquets arrivés : {0}'
 GOLD_TS_END: Tu es récompensé car tu as fini la mission. Tu as reçu [{0} or] . Il est possible que tu gagnes moins d'or et de réputation si ton niveau est trop élevé pour cette mission !
 GROUP_ADMIN: Tu es le maître du groupe.
@@ -196,6 +206,7 @@ ICEBREAKER_STARTED: L'IceBreaker a commencé
 ICEBREAKER_WIN: Vous avez gagné l'IceBreaker
 IMPOSSIBLE_TO_USE: C'est impossible de l'utiliser
 IN_BATTLE: Impossible de commercer avec un joueur en plein combat.
+IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: En attente {0}
 INCOMING_EXCHANGE: '#INCOMING_EXCHANGE'
 INFO_BAZAAR: Avec la médaille NosMarchand, tu peux utiliser le NosBazaar à tout moment sur les cartes générales.
@@ -243,9 +254,10 @@ LOSE_REP: Réputation - {0}
 LOW_JOB_LVL: Ton niveau de métier n'est pas assez élevé
 LOW_RAID_LEVEL: Le niveau du raid est inférieur au tien, tu ne recevras donc aucune récompense
 LVL_REQUIRED: '{0} niveaux de métiers sont nécessaires pour équiper la carte spécialiste.'
+MAGICAN: '#MAGICAN'
 MAIL_DELETED: La note a été supprimée.
 MAILED: La note a été envoyée.
-MAP_MISSING: Map manquante
+MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Le montant maximal d'or a été atteint.
 MAX_GOLD_BANK_REACHED: Le montant maximal d'or en banque a été atteint.
 MAX_MATES_COUNT: Tu ne peux adopter plus de familiers
@@ -262,6 +274,7 @@ MINILAND_NEED_LOCK: Ton mini-pays a besoin d'être verrouillé pour effectuer de
 MINILAND_PRIVATE: le Mini-Pays est maintenant privé.
 MINILAND_PUBLIC: Le Mini-Pays est maintenant ouvert au public
 MINILAND_VISITOR: "Total des visiteurs : {0} Visiteurs d'aujourd'hui : {1}"
+MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Le niveau du monstre doit être inférieur au vôtre pour être capturé
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
@@ -294,6 +307,8 @@ NO_FAMILY: Pas de famille
 NO_FAMILY_RIGHT: Tu ne disposes pas des droits nécessaires
 NO_FAMILY_WAREHOUSE: Aucun entrepôt de famille n'a été trouvé
 NO_GILLION: Pas de pierre gillion
+NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
+NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
 NO_SP: Aucune carte spécialiste n'est équipée
 NO_TALENT_ARENA: '#NO_TALENT_ARENA'
 NO_TEAM_ARENA: Aucun participant trouvé.
@@ -331,9 +346,14 @@ ONLY_HEAD_CAN_BUY: '#ONLY_HEAD_CAN_BUY'
 ONLY_PROMOTE_ASSISTANT: Seuls les assistants peuvent être promus au rang de Tête de famille
 ONLY_RAID_LEADER_CAN_START: 'Seul le chef de raid peut lancer '
 OPEN_BANK: Voulez-vous ouvrir la banque ?
+PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
+PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: '#PARTNER_AUTO_RELIVE_DISABLED'
 PARTNER_AUTO_RELIVE_ENABLED: '#PARTNER_AUTO_RELIVE_ENABLED'
 PARTNER_BACKPACK: '#PARTNER_BACKPACK'
+PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
+PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
+PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
 PERFECTSP_ATTACK: Attaque
 PERFECTSP_DEFENSE: Défense
 PERFECTSP_ELEMENT: Element
@@ -416,6 +436,7 @@ SHELL_OPTION_SET: Une nouvelle option a été ajoutée.
 SHELL_RARITY_TOO_HIGH: La rareté de la rune est trop élevée pour être appliquée à cet équipement.
 SHIP_MINUTES: Le bateau partira dans {0} minutes.
 SHIP_SECONDS: Le bateau va larguer les amarres dans  {0} secondes.
+SHIP_SETOFF: '#SHIP_SETOFF'
 SHOP_EMPTY: Aucun objet ne peut être vendu.
 SHOP_NEAR_PORTAL: Tu ne peux pas ouvrir le magasin près du portail.
 SHOP_NOT_ALLOWED: Tu ne peux pas ouvrir de magasin dans cette zone.
@@ -435,6 +456,7 @@ SP_LEVELUP: Le niveau de spécialiste a augmenté.
 SP_NO_REMOVE_DEBUFFS: Vous ne pouvez retirer votre spécialiste car vous subissez de mauvais effets
 SP_NOPOINTS: Tu n'as plus de points SP. Par conséquent la transformation est impossible.
 SP_POINTS_ADDED: Tes points de spécialiste de base ont été augmentés de  {0}.
+SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
 SP_RESURRECTED: L'âme reprend vie
 SP_USE_NEEDED: Vous devez vous transformer en spécialiste pour accepter les changements de points.
 SPEAKER: '#SPEAKER'
@@ -446,8 +468,10 @@ SUM_SUCCESS: La combinaison a réussi !
 SUPER_REWARD: Quelqu'un a gagné le gros lot au jeu de la boite mystère !
 SUPPORT: NH
 SURE_TO_DELETE: L'objet va être détruit.
+SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
+TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Vous êtes maintenant le chef du groupe.
 TELEPORTED_IN: Vous allez être téléporté dans {0} secondes.
 TOO_LOW_LVL: Ton niveau de combat n'est pas assez élevé.
