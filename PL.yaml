@@ -105,7 +105,7 @@ COMPLIMENT_RECEIVED: Gracz {0} cię pochwalił.
 COSTUME_BLOCKED: Kostiumy zostały zablokowane
 COSTUME_UNLOCKED: Kostiumy zostały odblokowane
 CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
-CREATE_FAMILY: Nazwa rodziny:
+CREATE_FAMILY: 'Nazwa rodziny:'
 DIGNITY_LOST: 'Zmniejszono godność: {0}'
 DIGNITY_RESTORED: Twoja godność została odnowiona!
 DISMISS_FAMILY: Opuść rodzinę
