@@ -121,7 +121,7 @@ DONE: Gotowe!
 DROP_MAP_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 DROPPED_ITEM: 'Zdobyto: {1}x {0}'
 EFFECT_ACTIVATED: Efekt {0} został aktywowany!
-EFFECT_TERMINATED: Stracono efekt: {0}.
+EFFECT_TERMINATED: 'Stracono efekt: {0}.'
 EFFECT_TITLE_DISABLED: Efekt tytułu został wyłączony
 EFFECT_TITLE_ENABLED: Efekt tytułu został włączony
 EMO_BLOCKED: Emotikony zostały zablokowane
