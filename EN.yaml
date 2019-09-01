@@ -46,6 +46,7 @@ ASK_FAMILY_INVITED: You've been invited to family {0}, do you want to join?
 ASK_JOIN_TEAM_TS: Do you want to join your team?
 ASK_KICK_PET: '#ASK_KICK_PET'
 ASK_OPEN_BOX: Do you want to open this box?
+ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Your pet reached max level!
 ASK_RELEASE_PET: Do you want to take out your NosMate ?
 ASK_REVIVE: Do you want to revive? It will cost you 10 Seeds of Power
@@ -77,6 +78,7 @@ BUY_ITEM_VALID: You bought {1} of {0}
 CALIGOR_REALM_CLOSED: The portal to Caligor is now closed
 CALIGOR_REALM_LOCKED: The portal to Caligor is locked
 CALIGOR_REALM_OPEN: The portal to Caligor is opened
+CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: The family head can't exit the family.
 CANT_ATTACK: You can't attack right now.
 CANT_CHANGE_MESSAGE: You already modified your message today. Retry tomorrow!
@@ -89,6 +91,7 @@ CANT_KICK_YOURSELF: You can't kick yourself.
 CANT_MOVE: Teleportation in cooldown.
 CANT_UPGRADE_DESTROYED_SP: You can't upgrade sp with dead soul!
 CANT_USE_ITEM: You can't use this item.
+CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: You can't use that
 CAPTURE_FAILED: Capture failed! Retry
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: '#CAPTURE_MONSTER_CANNOT_BE_CAPTURED'
@@ -103,6 +106,11 @@ CHARACTER_LOGGED_IN: '{0} has logged in'
 CHARACTER_LOGGED_OUT: '{0} has logged out'
 CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
 CLASS_CHANGED: Your class has been changed.
+COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
+COMMANDS_HELP: '#COMMANDS_HELP'
+COMMANDS_TITLE: '#COMMANDS_TITLE'
+COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
+COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: You can only compliment one player per day.
 COMPLIMENT_GIVEN: You complimented {0}
 COMPLIMENT_LOGIN_COOLDOWN: You have to wait {0} minutes before you can compliment someone.
@@ -136,6 +144,8 @@ EXCHANGE_NOT_ALLOWED_IN_RAID: You can't exchange in raid
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: You can't exchange with raid member
 EXCHANGE_REFUSED: '{0} refused your exchange request.'
 EXCHANGE_UNLOCKED: Exchange allowed
+EXPEVENT_DISABLED: '#EXPEVENT_DISABLED'
+EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: Your {0} level increased
 FAIRYMAX: Your fairy has reached max level!
 FAIRYSTATS: 'Fairy XP: {0}/{1}'
@@ -172,6 +182,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: You received {0} gift/s!
+GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: '#GOLD_TS_END'
 GROUP_ADMIN: You are the group admin!
 GROUP_BLOCKED: User blocked group invites.
@@ -239,11 +250,15 @@ ITEM_NOT_SOLDABLE: Item can't be sold!
 ITEM_NOT_TRADABLE: Item can't be traded!
 ITEM_TIMEOUT: Item is no longer valid.
 ITEM_UNFIXED: You've removed blockade of upgrade level from your item!
+ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Job level has been increased!
 JOIN_TEAM: You join a raid team!
 JOINED_GROUP: You joined a group!
 KICK_RAID: Do you want to kick {0} from raid?
 KICKED_FROM_RAID: You have been kicked from raid.
+LANGUAGE: '#LANGUAGE'
+LANGUAGE_CHANGED: '#LANGUAGE_CHANGED'
+LANGUAGE_CURRENT: '#LANGUAGE_CURRENT'
 LEAVE_GROUP: '{0} left the party'
 LEFT_RAID: '{0} left the raid'
 LEVELUP: Your level has been increased!
@@ -278,8 +293,11 @@ MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Monster level must be less
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
+MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
+MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Mouse locked on enemy
 MOUSE_UNLOCKED: Mouse moving freely
+MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -298,6 +316,7 @@ NEED_FAMILY: '#NEED_FAMILY'
 NEED_PERFUM_TO_CHANGE_SHELL: You cannot change the shell, you need parfum.
 NEED_TEAM: A team must first be created for the raid
 NEW_LEADER: You are the new party leader!
+NEW_MAIL: '#NEW_MAIL'
 NEW_MISSION: New mission goal.
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
 NO_AMMO_ADVENTURER: You don't have enough ammo. Buy it in equipment shop.
@@ -390,12 +409,15 @@ RAID_JOIN: '{0} join the raid team.'
 RAID_LEFT: '#RAID_LEFT'
 RAID_LEVEL_INCORRECT: As the raid recommended level does not correspond to your level, a raidbox cannot be given even if the raid task is completed.
 RAID_MEMBER_DEAD: '#RAID_MEMBER_DEAD'
+RAID_NO_EXIST: '#RAID_NO_EXIST'
+RAID_NO_EXIST_OR_STARTED: '#RAID_NO_EXIST_OR_STARTED'
 RAID_REGISTERED: '#RAID_REGISTERED'
 RAID_SUCCEED: "[{1}'s team] {0}'s raid team succeeded"
 RAID_UNREGISTERED: The Raidteam is now unregistered.
 RARIFY_FAILED: Gambling failed! The item disappeared.
 RARIFY_FAILED_ITEM_SAVED: Gambling failed, but the Item was saved from destruction.
 RARIFY_SUCCESS: 'Gambling succeeded! New Rare level: {0}'
+RATES: '#RATES'
 RECEIVED_ITEM: '#RECEIVED_ITEM'
 REFILL_MINIGAME: '#REFILL_MINIGAME'
 REFUSED_GROUP_REQUEST: '{0} refused your group request.'
@@ -406,12 +428,14 @@ REMOVE_VEHICLE: Before transforming you should remove your vehicle.
 REPUT_DECREASE: Reputation decreased!
 REPUT_DECREASED: Reputation decreased!
 REPUT_INCREASE: Reputation increased!
+REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
 RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
 RESTORE_DIGNITY: You've restored some of your dignity!
 RESURRECT_IN_SECONDS: '#RESURRECT_IN_SECONDS'
 RIVAL_ARENA_TEAM_FOUND: Enemy team found.
 SAME_FACTION: '#SAME_FACTION'
+SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
 SCROLL_PROTECT_USED: Protect scroll has been used!
 SEARCH_ARENA_TEAM: Searching for a team
 SEARCH_RIVAL_ARENA_TEAM: Searching opposing team
@@ -420,6 +444,8 @@ SEED_USED: Seeds of power used!
 SELECT_ORDER_ARENA: Choice the order of participation or it will be determinated randomly!
 SELECT_ORDER_ARENA_TIME: One minute remaining before the begin of the fight. Good luck!
 SELL_ITEM_VALIDE: 'Sold: {0} &lt;{1} : piece &gt;'
+SERVER_INFORMATION: '#SERVER_INFORMATION'
+SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Sex has been changed!
 SHARING: Sharing with everyone
 SHARING_BY_ORDER: Sharing by order
@@ -451,12 +477,14 @@ SKILL_LEARNED: You learned a new skill!
 SKILL_NEED_COOLDOWN: '#SKILL_NEED_COOLDOWN'
 SKILLS_IN_LOADING: You need to wait until skill cooldown finishes!
 SP_BLOCKED: You can't change sp now!
+SP_DEBUFFS: '#SP_DEBUFFS'
 SP_IN_COOLDOWN: '#SP_IN_COOLDOWN'
 SP_LEVELUP: SP level increased!
 SP_NO_REMOVE_DEBUFFS: '#SP_NO_REMOVE_DEBUFFS'
 SP_NOPOINTS: You have no SP Points left! You can't transform now!
 SP_POINTS_ADDED: You received {0} SP Points!
 SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
+SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: Your specialist's soul has been resurrected!
 SP_USE_NEEDED: '#SP_USE_NEEDED'
 SPEAKER: '#SPEAKER'
@@ -503,6 +531,8 @@ VISIBLE_TITLE_DISABLED: '#VISIBLE_TITLE_DISABLED'
 VISIBLE_TITLE_ENABLED: '#VISIBLE_TITLE_ENABLED'
 WANT_TO_SAVE_POSITION: Do you want to save your position?
 WARNING_INFO: "You've been warned: {0} times."
+WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
+WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Spring^Melody
 WHISPER_BLOCKED: Whisper blocked
 WHISPER_UNLOCKED: Whisper allowed

@@ -46,6 +46,7 @@ ASK_FAMILY_INVITED: Du wurdest in die {0} Familie eingeladen, möchtest du beitr
 ASK_JOIN_TEAM_TS: Willst du deiner Gruppe beitreten?
 ASK_KICK_PET: '#ASK_KICK_PET'
 ASK_OPEN_BOX: Raidkiste öffnen?
+ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Petslots um 10 erhöhen?
 ASK_RELEASE_PET: Soll das NosMate ins Miniland zurückkehren?
 ASK_REVIVE: Hier fortfahren? Es werden 10 Saat der Macht verbraucht.
@@ -77,6 +78,7 @@ BUY_ITEM_VALID: Du hast {1} von {0} gekauft
 CALIGOR_REALM_CLOSED: Caligors Reich wurde geschlossen.
 CALIGOR_REALM_LOCKED: Du kannst nicht mehr beitreten.
 CALIGOR_REALM_OPEN: Caligors Reich wurde geöffnet.
+CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen.
 CANT_ATTACK: Du kannst gerade nicht angreifen.
 CANT_CHANGE_MESSAGE: Du hast deinen Spruch des Tages heute schon bearbeitet. Versuch es morgen nochmal!
@@ -89,6 +91,7 @@ CANT_KICK_YOURSELF: Du kannst dich nicht selbst entfernen.
 CANT_MOVE: Du kannst dich in Kürze bewegen
 CANT_UPGRADE_DESTROYED_SP: Du kannst zerstörte Spezialistenkarten nicht verbessern.
 CANT_USE_ITEM: Du kannst das jetzt nicht benutzen.
+CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: Du kannst das jetzt nicht machen.
 CAPTURE_FAILED: Fangen fehlgeschlagen!
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: '#CAPTURE_MONSTER_CANNOT_BE_CAPTURED'
@@ -103,6 +106,11 @@ CHARACTER_LOGGED_IN: '{0} hat sich gerade eingeloggt.'
 CHARACTER_LOGGED_OUT: '{0} hat sich gerade ausgeloggt.'
 CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
 CLASS_CHANGED: Deine Klasse hat sich geändert.
+COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
+COMMANDS_HELP: '#COMMANDS_HELP'
+COMMANDS_TITLE: '#COMMANDS_TITLE'
+COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
+COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: Du kannst nur einen Spieler pro Tag anhimmeln.
 COMPLIMENT_GIVEN: Du hast {0} angehimmelt.
 COMPLIMENT_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden anhimmeln kannst.
@@ -136,6 +144,8 @@ EXCHANGE_NOT_ALLOWED_IN_RAID: Du darfst in einem Raid nicht tauschen!
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du darfst nicht mit einem Raid Mitglied tauschen!
 EXCHANGE_REFUSED: Tausch abgelehnt!
 EXCHANGE_UNLOCKED: Von jetzt an akzeptierst du Tauschgeschäfte.
+EXPEVENT_DISABLED: '#EXPEVENT_DISABLED'
+EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: Dein/e {0} ist im Level aufgestiegen!
 FAIRYMAX: Deine Fee hat das maximale Level erreicht!
 FAIRYSTATS: 'Feen XP: {0}/{1}'
@@ -172,6 +182,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: Du hast ein Geschenk von {0} erhalten!
+GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: Du hast {0} Gold als Belohnung erhalten
 GROUP_ADMIN: Du wurdest zum Gruppenführer ernannt!
 GROUP_BLOCKED: Der andere Spieler blockiert Gruppeneinladungen.
@@ -239,11 +250,15 @@ ITEM_NOT_SOLDABLE: Du kannst dieses Item nicht verkaufen.
 ITEM_NOT_TRADABLE: Du kannst dieses Item nicht tauschen.
 ITEM_TIMEOUT: Item ist nicht mehr benutzbar.
 ITEM_UNFIXED: Das Item ist nicht mehr fixiert!
+ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Dein Joblevel hat sich erhöht!
 JOIN_TEAM: Du trittst einem Raidteam bei
 JOINED_GROUP: '{0} ist der Gruppe beigetreten.'
 KICK_RAID: Willst du {0} kicken?
 KICKED_FROM_RAID: Du wurdest aus dem Team gekickt!
+LANGUAGE: '#LANGUAGE'
+LANGUAGE_CHANGED: '#LANGUAGE_CHANGED'
+LANGUAGE_CURRENT: '#LANGUAGE_CURRENT'
 LEAVE_GROUP: '{0} hat die Gruppe verlassen.'
 LEFT_RAID: '{0} hat das Team verlassen.'
 LEVELUP: Dein Level hat sich erhöht!
@@ -278,8 +293,11 @@ MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Das Level des Monster muss unter deinem liegen.
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
+MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
+MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Mausfalle aktiviert.
 MOUSE_UNLOCKED: Mausfalle deaktiviert.
+MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -298,6 +316,7 @@ NEED_FAMILY: '#NEED_FAMILY'
 NEED_PERFUM_TO_CHANGE_SHELL: '#NEED_PERFUM_TO_CHANGE_SHELL'
 NEED_TEAM: Es muss zuerst ein Team für den Raid gegründet werden.
 NEW_LEADER: Du bist Gruppenmeister.
+NEW_MAIL: '#NEW_MAIL'
 NEW_MISSION: Ein neues Missionsziel.
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
 NO_AMMO_ADVENTURER: Keine Steine vorhanden - Kaufe welche im Shop.
@@ -390,12 +409,15 @@ RAID_JOIN: '{0} ist dem Raidteam beigetreten.'
 RAID_LEFT: '#RAID_LEFT'
 RAID_LEVEL_INCORRECT: Da dein Level nicht dem empfohlenen Level entspricht wirst du keine Raidbox als Belohnung erhalten.
 RAID_MEMBER_DEAD: '{0} ist gestorben!'
+RAID_NO_EXIST: '#RAID_NO_EXIST'
+RAID_NO_EXIST_OR_STARTED: '#RAID_NO_EXIST_OR_STARTED'
 RAID_REGISTERED: Das Raidteam ist jetzt gelistet.
 RAID_SUCCEED: "[{1}'s Team] {0}'s raid Team war erfolgreich"
 RAID_UNREGISTERED: Das Raidteam ist jetzt ungelistet.
 RARIFY_FAILED: Das Wetten ist fehlgeschlagen. Das Item ist verschwunden.
 RARIFY_FAILED_ITEM_SAVED: Das Wetten ist fehlgeschlagen, doch das Item wurde vor der Zerstörung geschützt.
 RARIFY_SUCCESS: 'Das Wetten war erfolgreich! Neues Seltenheitslevel: {0}'
+RATES: '#RATES'
 RECEIVED_ITEM: '#RECEIVED_ITEM'
 REFILL_MINIGAME: '#REFILL_MINIGAME'
 REFUSED_GROUP_REQUEST: '{0} hat deine Gruppeneinladungen abgelehnt.'
@@ -406,12 +428,14 @@ REMOVE_VEHICLE: Steige von deinem Reittier herunter, damit du deine Spezialisten
 REPUT_DECREASE: Ruf verringert!
 REPUT_DECREASED: Ruf verringert!
 REPUT_INCREASE: Ruf erhöht!
+REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
 RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
 RESTORE_DIGNITY: Du hast einen Teil deiner Würde wiederhergestellt!
 RESURRECT_IN_SECONDS: '#RESURRECT_IN_SECONDS'
 RIVAL_ARENA_TEAM_FOUND: Gegnerisches Team gefunden.
 SAME_FACTION: '#SAME_FACTION'
+SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
 SCROLL_PROTECT_USED: Schutzrolle wurde benutzt!
 SEARCH_ARENA_TEAM: Suche nach einem Team
 SEARCH_RIVAL_ARENA_TEAM: Suche gegnerisches Team
@@ -420,6 +444,8 @@ SEED_USED: Du hast Saat der Macht verbraucht.
 SELECT_ORDER_ARENA: Wählt eine Reihenfolge oder diese wird zufällig gewählt.
 SELECT_ORDER_ARENA_TIME: Noch eine Minute bis der Kampf beginnt. Viel Glück!
 SELL_ITEM_VALIDE: '{0}: Verkauft &lt;{1} : Stück &gt;'
+SERVER_INFORMATION: '#SERVER_INFORMATION'
+SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Dein Geschlecht hat sich verändert!
 SHARING: Teilen als Gruppe.
 SHARING_BY_ORDER: Nach der Reihe plündern.
@@ -451,12 +477,14 @@ SKILL_LEARNED: Du hast einen neuen Skill gelernt.
 SKILL_NEED_COOLDOWN: '#SKILL_NEED_COOLDOWN'
 SKILLS_IN_LOADING: Sie müssen warten, bis die Fähigkeiten wieder aufgeladen werden
 SP_BLOCKED: Du kannst deine Spezialistenkarte jetzt nicht wechseln.
+SP_DEBUFFS: '#SP_DEBUFFS'
 SP_IN_COOLDOWN: '#SP_IN_COOLDOWN'
 SP_LEVELUP: Das Joblevel deiner SP hat sich erhöht!
 SP_NO_REMOVE_DEBUFFS: Du kannst dich wegen schlechten Effekten nicht verwandeln!
 SP_NOPOINTS: Du hast keine SP Punkte mehr übrig! Du kannst dich jetzt nicht verwandeln!
 SP_POINTS_ADDED: '#SP_POINTS_ADDED'
 SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
+SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wiederhergestellt!
 SP_USE_NEEDED: Du musst dich zum Spezialisten transformieren um Punkte zu verteilen.
 SPEAKER: '#SPEAKER'
@@ -503,6 +531,8 @@ VISIBLE_TITLE_DISABLED: '#VISIBLE_TITLE_DISABLED'
 VISIBLE_TITLE_ENABLED: '#VISIBLE_TITLE_ENABLED'
 WANT_TO_SAVE_POSITION: Möchtest du deinen Standort speichern?
 WARNING_INFO: 'Du wurdest verwarnt: {0} mal.'
+WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
+WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Frühlings-Melodie
 WHISPER_BLOCKED: Von jetzt an blockst du Flüstern.
 WHISPER_UNLOCKED: Von jetzt an akzeptierst du Flüstern.

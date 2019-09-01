@@ -46,6 +46,7 @@ ASK_FAMILY_INVITED: "{0} t'invite à rejoindre la famille {1}"
 ASK_JOIN_TEAM_TS: Voulez-vous rejoindre l'équipe ?
 ASK_KICK_PET: '#ASK_KICK_PET'
 ASK_OPEN_BOX: Tu souhaites voir ce qu'il y a dedans ?
+ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Vous possédez déjà le nombre maximum de nosmate
 ASK_RELEASE_PET: Voulez-vous sortir le nosmate de sa perle ?
 ASK_REVIVE: Continuer ici ? Tu perdras 10 graines de pouvoir.
@@ -77,6 +78,7 @@ BUY_ITEM_VALID: Tu as acheté {1} de {0}
 CALIGOR_REALM_CLOSED: Le portail vers Caligor est maintenant fermé.
 CALIGOR_REALM_LOCKED: Le portail vers Caligor est maintenant bloqué.
 CALIGOR_REALM_OPEN: Le portail vers Caligor est maintenant ouvert.
+CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Le chef de famille ne peut pas quitter
 CANT_ATTACK: Tu ne peux pas encore l'utiliser.
 CANT_CHANGE_MESSAGE: Tu ne peux pas modifier ton message aujourd'hui car il a déjà été modifié.
@@ -89,6 +91,7 @@ CANT_KICK_YOURSELF: Tu ne peux pas te virer toi même
 CANT_MOVE: Tu pourras bientôt te déplacer.
 CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas l'améliorer car l'âme est détruite.
 CANT_USE_ITEM: Tu ne peux pas utiliser l'objet.
+CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: Tu ne peux pas effectuer cette action maintenant.
 CAPTURE_FAILED: La capture a échouée
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: '#CAPTURE_MONSTER_CANNOT_BE_CAPTURED'
@@ -103,6 +106,11 @@ CHARACTER_LOGGED_IN: '{0} est en ligne.'
 CHARACTER_LOGGED_OUT: '{0} est hors ligne.'
 CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
 CLASS_CHANGED: Félicitations. Tu as changé de métier !
+COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
+COMMANDS_HELP: '#COMMANDS_HELP'
+COMMANDS_TITLE: '#COMMANDS_TITLE'
+COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
+COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: Tu ne peux admirer un joueur qu'une seule fois par jour.
 COMPLIMENT_GIVEN: Tu as admiré {0}
 COMPLIMENT_LOGIN_COOLDOWN: Tu dis attendre {0} minutes avant de pouvoir admirer de nouveau.
@@ -136,6 +144,8 @@ EXCHANGE_NOT_ALLOWED_IN_RAID: Echange non autorisé durant un raid
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Echange non autorisé avec un membre du raid
 EXCHANGE_REFUSED: Echange refusé
 EXCHANGE_UNLOCKED: A partir de maintenant, tu débloques les échanges.
+EXPEVENT_DISABLED: '#EXPEVENT_DISABLED'
+EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: '{0} a progressé !'
 FAIRYMAX: Ta fée a atteint le niveau maximum
 FAIRYSTATS: 'Fée Exp : {0}/{1]'
@@ -172,6 +182,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: 'Nouveaux paquets arrivés : {0}'
+GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: Tu es récompensé car tu as fini la mission. Tu as reçu [{0} or] . Il est possible que tu gagnes moins d'or et de réputation si ton niveau est trop élevé pour cette mission !
 GROUP_ADMIN: Tu es le maître du groupe.
 GROUP_BLOCKED: Le joueur a bloqué les demandes de groupe
@@ -239,11 +250,15 @@ ITEM_NOT_SOLDABLE: Cet objet ne peut pas être vendu.
 ITEM_NOT_TRADABLE: Tu ne peux pas échanger cet objet.
 ITEM_TIMEOUT: La limite de temps d'utilisation de cet objet est expiré.
 ITEM_UNFIXED: Tu as supprimé l'effet négatif qui empêchait toutes améliorations de ton arme.
+ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Ton niveau de métier a augmenté.
 JOIN_TEAM: Vous avez rejoint l'équipe de raid
 JOINED_GROUP: Groupe rejoint
 KICK_RAID: Voulez-vous exclure {0} du raid ?
 KICKED_FROM_RAID: Vous avez été exclu du raid
+LANGUAGE: '#LANGUAGE'
+LANGUAGE_CHANGED: '#LANGUAGE_CHANGED'
+LANGUAGE_CURRENT: '#LANGUAGE_CURRENT'
 LEAVE_GROUP: '{0} a quitté le groupe'
 LEFT_RAID: Tu as quitté l'équipe du raid
 LEVELUP: Ton niveau de combat a augmenté.
@@ -278,8 +293,11 @@ MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Le niveau du monstre doit être inférieur au vôtre pour être capturé
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
+MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
+MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: A partir de maintenant, tu bloques le suivi de cible.
 MOUSE_UNLOCKED: A partir de maintenant, tu débloques le suivi de cible
+MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: Ne partagez pas votre mot de passe !
 MSG_UNDER_CHAT1: 'Lien du Discord : https://discord.gg/rRS52ed '
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -298,6 +316,7 @@ NEED_FAMILY: '#NEED_FAMILY'
 NEED_PERFUM_TO_CHANGE_SHELL: Tu ne peux pas changer la rune de cet équipement, l'âme est liée à un autre joueur.
 NEED_TEAM: "Une équipe de raid doit d'abord avoir été formée "
 NEW_LEADER: Vous êtes maintenant le chef du groupe
+NEW_MAIL: '#NEW_MAIL'
 NEW_MISSION: Nouvel  objectif de mission !
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
 NO_AMMO_ADVENTURER: Tu n'as pas assez de munitions. Achètes-en dans le magasin.
@@ -390,12 +409,15 @@ RAID_JOIN: "{0} a rejoint l'équipe"
 RAID_LEFT: Tu as quitté l'équipe du raid
 RAID_LEVEL_INCORRECT: Ton niveau ne correspond pas au niveau requis pour ce raid, par conséquent tu ne recevras aucune récompense.
 RAID_MEMBER_DEAD: "Le membre de l'équipe : {0} est mort"
+RAID_NO_EXIST: '#RAID_NO_EXIST'
+RAID_NO_EXIST_OR_STARTED: '#RAID_NO_EXIST_OR_STARTED'
 RAID_REGISTERED: L'équipe de raid a été enregistrée dans la liste
 RAID_SUCCEED: "[Equipe de {1}] L'équipe de raid {0} a mené à bien sa mission."
 RAID_UNREGISTERED: Votre équipe a bien été supprimée de la liste des raids
 RARIFY_FAILED: L'objet a disparu car le pari a échoué
 RARIFY_FAILED_ITEM_SAVED: Le pari a échoué. Heureusement, le parchemin protecteur a protégé l'objet
 RARIFY_SUCCESS: 'Pari réussi ! Niveau de rareté : {0}'
+RATES: '#RATES'
 RECEIVED_ITEM: '#RECEIVED_ITEM'
 REFILL_MINIGAME: Rechargement du mini-jeu
 REFUSED_GROUP_REQUEST: Demande de groupe refusée
@@ -406,12 +428,14 @@ REMOVE_VEHICLE: "Tu ne peux pas faire ça tant que tu n'as pas enlevé la transf
 REPUT_DECREASE: Réputation réduite.
 REPUT_DECREASED: Réputation réduite.
 REPUT_INCREASE: Les points de réputation ont été augmentés
+REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: L'entrée vers Caligor va réapparaître !
 RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
 RESTORE_DIGNITY: 'Dignité augmentée : +1'
 RESURRECT_IN_SECONDS: Resurrection dans {0} secondes
 RIVAL_ARENA_TEAM_FOUND: Une équipe adverse a été trouvée
 SAME_FACTION: Même faction
+SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
 SCROLL_PROTECT_USED: Le parchemin protecteur a été utilisé
 SEARCH_ARENA_TEAM: Recherche de l'équipe.
 SEARCH_RIVAL_ARENA_TEAM: Chercher l'équipe adverse
@@ -420,6 +444,8 @@ SEED_USED: Tu as utilisé des graines de pouvoir
 SELECT_ORDER_ARENA: Choisis l'ordre dans lequel les participants vont combattre sinon cet ordre sera déterminé au hasard
 SELECT_ORDER_ARENA_TIME: 'Plus que 1 minute avant le début du combat ! Bonne chance '
 SELL_ITEM_VALIDE: L'objet n'est pas vendable
+SERVER_INFORMATION: '#SERVER_INFORMATION'
+SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Tu as changé de sexe.
 SHARING: La collecte d'objet a été modifiée, partager en tant que groupe
 SHARING_BY_ORDER: La collecte d'objet a été modifiée, partager en ordre
@@ -451,12 +477,14 @@ SKILL_LEARNED: Tu as appris une nouvelle compétence !
 SKILL_NEED_COOLDOWN: La compétence recharge ! {0} secondes restantes
 SKILLS_IN_LOADING: Tu peux te transformer une fois que tous les temps de rechargement des compétences sont écoulés.
 SP_BLOCKED: Il est impossible d'échanger les cartes de spécialiste pendant la transformation.
+SP_DEBUFFS: '#SP_DEBUFFS'
 SP_IN_COOLDOWN: Pour équiper votre spécialiste, vous devez attendre que toutes vos compétences soient rechargées
 SP_LEVELUP: Le niveau de spécialiste a augmenté.
 SP_NO_REMOVE_DEBUFFS: Vous ne pouvez retirer votre spécialiste car vous subissez de mauvais effets
 SP_NOPOINTS: Tu n'as plus de points SP. Par conséquent la transformation est impossible.
 SP_POINTS_ADDED: Tes points de spécialiste de base ont été augmentés de  {0}.
 SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
+SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: L'âme reprend vie
 SP_USE_NEEDED: Vous devez vous transformer en spécialiste pour accepter les changements de points.
 SPEAKER: '#SPEAKER'
@@ -503,6 +531,8 @@ VISIBLE_TITLE_DISABLED: '#VISIBLE_TITLE_DISABLED'
 VISIBLE_TITLE_ENABLED: '#VISIBLE_TITLE_ENABLED'
 WANT_TO_SAVE_POSITION: Voulez-vous sauvegarder votre position ?
 WARNING_INFO: 'Tu as été averti : {0} fois.'
+WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
+WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Mélodie^du^pringtemps
 WHISPER_BLOCKED: À partir de maintenant, tu débloques les chuchotements.
 WHISPER_UNLOCKED: À partir de maintenant, tu débloques les chuchotements.

@@ -46,6 +46,7 @@ ASK_FAMILY_INVITED: Otrzymano zaproszonie do rodziny {0}, czy chcesz dołączyć
 ASK_JOIN_TEAM_TS: Czy chcesz dołączyć do reszty grupy?
 ASK_KICK_PET: Czy chcesz, aby NosKumpel wrócił do Mini-Landu?
 ASK_OPEN_BOX: Czy chcesz otworzyć pudło?
+ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Czy chcesz powiększyć ilość miejsc na NosKumpli?
 ASK_RELEASE_PET: Czy chcesz wyciągnąć NosKumpla z perły?
 ASK_REVIVE: Czy chcesz się tutaj wskrzesić? Będzie to kosztować 10 Ziaren Mocy.
@@ -77,6 +78,7 @@ BUY_ITEM_VALID: Kupiono {0}x {1}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
 CALIGOR_REALM_OPEN: Portal do Królestwa Caligora został otwarty!
+CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Szef nie może opuścić rodziny!
 CANT_ATTACK: Nie możesz teraz atakować!
 CANT_CHANGE_MESSAGE: Dziś już modyfikowano wiadomość dnia. Spróbuj ponownie jutro!
@@ -89,6 +91,7 @@ CANT_KICK_YOURSELF: Nie możesz wyrzucić siebie!
 CANT_MOVE: Odczekaj chwilę, aby przenieść się na inną mapę.
 CANT_UPGRADE_DESTROYED_SP: Nie możesz ulepszyć zniszczonej Karty Specjalisty.
 CANT_USE_ITEM: Nie możesz użyć tego przedmiotu.
+CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: Nie możesz tego zrobić.
 CAPTURE_FAILED: Oswojenie nieudane!
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: Nie możesz złapać tego potwora!
@@ -103,6 +106,11 @@ CHARACTER_LOGGED_IN: '{0} zalogował się.'
 CHARACTER_LOGGED_OUT: '{0} wylogował się.'
 CHARACTER_NOT_IN_FRIENDLIST: Gracz nie znajduje się na liście przyjaciół.
 CLASS_CHANGED: Twoja klasa postaci została zmieniona.
+COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
+COMMANDS_HELP: '#COMMANDS_HELP'
+COMMANDS_TITLE: '#COMMANDS_TITLE'
+COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
+COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: Pochwalić kogoś możesz tylko raz dziennie.
 COMPLIMENT_GIVEN: Pochwalono gracza {0}.
 COMPLIMENT_LOGIN_COOLDOWN: Musisz odczekać jeszcze {0} min aby pochwalić kogoś.
@@ -136,6 +144,8 @@ EXCHANGE_NOT_ALLOWED_IN_RAID: Nie możesz handlować podczas rajdu.
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Nie możesz handlować z innymi uczestnikami rajdu.
 EXCHANGE_REFUSED: Handel odrzucono.
 EXCHANGE_UNLOCKED: Handel odblokowano
+EXPEVENT_DISABLED: '#EXPEVENT_DISABLED'
+EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: Twoja {0} zdobyła kolejny poziom!
 FAIRYMAX: Twoja wróżka osiągneła maksymalny poziom!
 FAIRYSTATS: 'Doświadczenie wróżki: {0}/{1}.'
@@ -172,6 +182,7 @@ GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
 GIFTED: Otrzymano {0} przesyłek!
+GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: 'Nagroda: {0} złota'
 GROUP_ADMIN: Wyznaczono Cię na lidera grupy!
 GROUP_BLOCKED: Gracz blokuje zaproszenia do grupy.
@@ -239,11 +250,15 @@ ITEM_NOT_SOLDABLE: Nie możesz sprzedać tego przedmiotu.
 ITEM_NOT_TRADABLE: Nie możesz handlować tym przedmiotem.
 ITEM_TIMEOUT: Przedmiot wygasł.
 ITEM_UNFIXED: Odblokowano utrwalony przedmiot.
+ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Twoja profesja została podwyższona!
 JOIN_TEAM: Dołączono do zespołu rajdu!
 JOINED_GROUP: Dołączono do grupy.
 KICK_RAID: Czy chcesz wyrzucić gracza {0} z rajdu?
 KICKED_FROM_RAID: Wyrzucono Cię z rajdu.
+LANGUAGE: '#LANGUAGE'
+LANGUAGE_CHANGED: '#LANGUAGE_CHANGED'
+LANGUAGE_CURRENT: '#LANGUAGE_CURRENT'
 LEAVE_GROUP: Gracz {0} odszedł z grupy.
 LEFT_RAID: Gracz {0} odszedł z rajdu.
 LEVELUP: Poziom twojej postaci został podwyższony!
@@ -278,8 +293,11 @@ MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
 MOB_LVL_MUST_BE_LESS: Musisz mieć wyższy poziom od potwora, którego chcesz złapać!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od twojego, aby go schwytać!
 MONSTER_MUST_BE_LOW_HP: Potwór musi posiadać 50% Punktów Zdrowia, aby go złapać.
+MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
+MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
+MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -298,6 +316,7 @@ NEED_FAMILY: Wymagana jest rodzina, aby to zrobić.
 NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
 NEED_TEAM: Potrzebujesz drużyny, aby rozpocząć rajd.
 NEW_LEADER: Mianowano Cię nowym liderem grupy!
+NEW_MAIL: '#NEW_MAIL'
 NEW_MISSION: Nowy cel misji!
 NEW_NAME_PET_MAX_LENGTH: Nazwa NosKumpla jest za długa, maksymalnie 14 znaków!
 NO_AMMO_ADVENTURER: Nie masz wystarczająco amunicji. Kup w sklepie ze sprzętem.
@@ -390,12 +409,15 @@ RAID_JOIN: Gracz {0} dołączył do drużyny rajdu.
 RAID_LEFT: Gracz {0} wyszedł z drużyny rajdu.
 RAID_LEVEL_INCORRECT: Jako że zalecany poziom rajdu nie odpowiada Twojemu poziomowi, po jego pomyślnym ukończeniu nie otrzymasz Pudła Rajdu.
 RAID_MEMBER_DEAD: Członek rajdu {0} zginął!
+RAID_NO_EXIST: '#RAID_NO_EXIST'
+RAID_NO_EXIST_OR_STARTED: '#RAID_NO_EXIST_OR_STARTED'
 RAID_REGISTERED: Zarejestrowano rajd!
 RAID_SUCCEED: Drużyna gracza {0} pomyślnie ukończyła rajd {1}
 RAID_UNREGISTERED: Drużyna nie jest już zarejestrowana
 RARIFY_FAILED: Hazard się nie powiódł! Przedmiot zniknął.
 RARIFY_FAILED_ITEM_SAVED: Hazard się nie powiódł, ale przedmiot został ochroniony przed zniszczeniem.
 RARIFY_SUCCESS: 'Hazard powiódł się! Nowy poziom unikalności: {0}'
+RATES: '#RATES'
 RECEIVED_ITEM: 'Otrzymano przedmiot: {0}'
 REFILL_MINIGAME: 'Wkład mini-gry: {0}'
 REFUSED_GROUP_REQUEST: Gracz {0} odrzucił Twoje zaproszenie do grupy.
@@ -406,12 +428,14 @@ REMOVE_VEHICLE: Przed transformacją musisz zejść z pojazdu.
 REPUT_DECREASE: Reputacja zmniejszona!
 REPUT_DECREASED: Reputacja zmniejszona!
 REPUT_INCREASE: Reputacja zwiększona!
+REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: Czy wskrzesić się w Królestwie Caligora?
 RESPAWNLOCATION_CHANGED: Miejsce ożywienia zostały zmienione!
 RESTORE_DIGNITY: Przywrócono trochę godności!
 RESURRECT_IN_SECONDS: Wkrótce wrócisz do żywych...
 RIVAL_ARENA_TEAM_FOUND: Znaleziono przeciwną drużynę.
 SAME_FACTION: Nie możesz przemienić się w tę samą frakcję.
+SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
 SCROLL_PROTECT_USED: Użyto Zwoju Ochrony!
 SEARCH_ARENA_TEAM: Szukanie drużyny
 SEARCH_RIVAL_ARENA_TEAM: Szukanie przeciwnej drużyny
@@ -420,6 +444,8 @@ SEED_USED: Użyto Ziaren Mocy.
 SELECT_ORDER_ARENA: Wybierz kolejność uczestnictwa, albo inaczej zostanie ona ustalona losowo!
 SELECT_ORDER_ARENA_TIME: Pozostała minuta do rozpoczęcia walki. Powodzenia!
 SELL_ITEM_VALIDE: Sprzedano {1}x {0}
+SERVER_INFORMATION: '#SERVER_INFORMATION'
+SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Płeć została zmieniona!
 SHARING: 'Dzielenie: każdy w grupie'
 SHARING_BY_ORDER: 'Dzielenie: kolejność'
@@ -451,12 +477,14 @@ SKILL_LEARNED: Nauczono się nowej umiejętnóści!
 SKILL_NEED_COOLDOWN: Umiejętność jest w trakcie odnowy.
 SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
 SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
+SP_DEBUFFS: '#SP_DEBUFFS'
 SP_IN_COOLDOWN: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 SP_LEVELUP: Poziom profesji Karty Specjalisty został podwyższony!
 SP_NO_REMOVE_DEBUFFS: Nie możesz się przetransformować, gdyż posiadasz negatywne efekty!
 SP_NOPOINTS: Nie posiadasz wystarczająco punktów SP, aby się przetransformować.
 SP_POINTS_ADDED: Dodano {0} punktów SP!
 SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
+SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: Dusza Karty Specjalisty została wskrzeszona!
 SP_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SPEAKER: GŁOŚNIK
@@ -503,6 +531,8 @@ VISIBLE_TITLE_DISABLED: Wyłączono widoczność tytułu!
 VISIBLE_TITLE_ENABLED: Włączono widoczność tytułu!
 WANT_TO_SAVE_POSITION: Czy chcesz zapisać swoją pozycję?
 WARNING_INFO: 'Ilość otrzymanych ostrzeżeń: {0}.'
+WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
+WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Wiosenna^Melodia
 WHISPER_BLOCKED: Szepty zostały zablokowane
 WHISPER_UNLOCKED: Szepty zostały odblokowane
