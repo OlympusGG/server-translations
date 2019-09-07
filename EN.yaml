@@ -8,7 +8,7 @@ ACT4_RAID_OPEN: The raid {0} is open !
 ADD_OPTION_ON_STUFF: Do you want to add an option on this stuff ? If yes, this item will be link to you only.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: The option will be replace by the new. You've 50% of chance to win, else the item will be destroyed. Do you want to continue ?
 ADMINISTRATOR: Administrator
-ADVENTURER: '#ADVENTURER'
+ADVENTURER: Adventurer
 ADVENTURERS_CANT_USE: Adventurers can't use that item!
 ALREADY_EXCHANGE: User is in exchange!
 ALREADY_FRIEND: You are already Friends!
@@ -17,7 +17,7 @@ ALREADY_IN_FAMILY: You're already in a family
 ALREADY_IN_GROUP: You are already in group!
 ALREADY_MARRIED: You are already married!
 ALREADY_MAX_RARE: You've already the max rarity level!
-ALREADY_PET_IN_TEAM: '#ALREADY_PET_IN_TEAM'
+ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
 ALREADY_QUEST: '#ALREADY_QUEST'
 ALREADY_TAKEN: This name is already taken!
 ALREADY_THIS_MINILANDOBJECT: You've already this miniland object
@@ -27,24 +27,24 @@ AMMO_LOADED_ARCHER: Arrow loaded!
 AMMO_LOADED_SWORDSMAN: Crossbow bolts loaded, Chaaaarge!
 AMULET_DESTROYED: 'CAUTION : The protection spell has expired'
 AMULET_FAIL_SAVED: The item is not destroyed, thanks to the amulet
-ARCHER: '#ARCHER'
+ARCHER: Archer
 ARENA_CALLED: 'A participant has called : {0}'
 ARENA_KILL: '{0} has been killed by {1}.'
-ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
+ARENA_NOT_OPEN: Arena talent is open at 18:00 - 22:00
 ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
 ARENA_TALENT_LEFT: You successfully left the Talent Arena!
 ARENA_TEAM_FOUND: Participants found!
 ARENA_TEAM_LEAVE: You successfully left the Team
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
-ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
+ARENA_TICKET_LEFT: Remaining participation(s) {0}
 ASK_BIND: Do you want to wear that item? this will bind that item to your character.
 ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
 ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
-ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
+ASK_CHANGE_SPAWNLOCATION: Do you want to change the respawn town?
 ASK_ENTRY_IN_FIRST_ROOM: Do you want to start the mission ?
 ASK_FAMILY_INVITED: You've been invited to family {0}, do you want to join?
 ASK_JOIN_TEAM_TS: Do you want to join your team?
-ASK_KICK_PET: '#ASK_KICK_PET'
+ASK_KICK_PET: Do you want to refer your NosMate to the Mini-Land?
 ASK_OPEN_BOX: Do you want to open this box?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Your pet reached max level!
@@ -104,7 +104,7 @@ CHANNEL: Channel
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) logged in!'
 CHARACTER_LOGGED_IN: '{0} has logged in'
 CHARACTER_LOGGED_OUT: '{0} has logged out'
-CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
+CHARACTER_NOT_IN_FRIENDLIST: This Player is not in your friendlist
 CLASS_CHANGED: Your class has been changed.
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
@@ -119,10 +119,10 @@ COMPLIMENT_RECEIVED: You have been complimented by {0}
 COSTUME_BLOCKED: '#COSTUME_BLOCKED'
 COSTUME_UNLOCKED: '#COSTUME_UNLOCKED'
 CRAFTED_OBJECT: "You've crafted: {0} x {1}"
-CREATE_FAMILY: '#CREATE_FAMILY'
+CREATE_FAMILY: Do you want to create your family?
 DIGNITY_LOST: You lost Dignity
 DIGNITY_RESTORED: Your Dignity has been restored !
-DISMISS_FAMILY: '#DISMISS_FAMILY'
+DISMISS_FAMILY: Do you want to dismiss yur family?
 DIVORCED: '#DIVORCED'
 DO_YOU_WANT_START_RAID: Do you want to start the raid?
 DONE: Done!
@@ -152,7 +152,7 @@ FAIRYSTATS: 'Fairy XP: {0}/{1}'
 FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: The family {0} was founded!
 FAMILY_FULL: '#FAMILY_FULL'
-FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
+FAMILY_GROUP_NOT_FULL: You can't create family without full group!
 FAMILY_HEAD_CHANGE_GENDER: '#FAMILY_HEAD_CHANGE_GENDER'
 FAMILY_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
 FAMILY_INVITED: Player {0} has been invited!
@@ -191,7 +191,7 @@ GROUP_CLOSED: Group disbanded.
 GROUP_FULL: Group is full.
 GROUP_JOIN: You joined {0}'s group!
 GROUP_LEFT: You left the group
-GROUP_MEMBER_ALREADY_IN_FAMILY: '#GROUP_MEMBER_ALREADY_IN_FAMILY'
+GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in party already has family!
 GROUP_REQ_BLOCKED: Group request blocked
 GROUP_REQ_UNBLOCKED: Group request allowed
 GROUP_REQUEST: 'Group request sent to: {0}'
@@ -219,7 +219,7 @@ IMPOSSIBLE_TO_USE: Can't use that right now!
 IN_BATTLE: You can't invite players when battling.
 IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In Waiting for {0}
-INCOMING_EXCHANGE: '#INCOMING_EXCHANGE'
+INCOMING_EXCHANGE: {0} wants to exchange with you
 INFO_BAZAAR: You cannot open the bazaar because you do not possess the required object.
 INSTANTBATTLE_MINUTES: The instant battle will begin in {0} minutes.
 INSTANTBATTLE_MINUTES_REMAINING: The instant battle will be closed in {0} minutes.
@@ -244,13 +244,13 @@ ITEM_BOUND_TO: '{1} dropped {0} x {2}'
 ITEM_GIFTED: You get an item &gt;&gt;
 ITEM_IS_FIXED: Item upgrade level is locked.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
-ITEM_NOT_DROPPABLE: '#ITEM_NOT_DROPPABLE'
+ITEM_NOT_DROPPABLE: You cant drop that item!
 ITEM_NOT_DROPPABLE_HERE: You cant drop that item!
 ITEM_NOT_SOLDABLE: Item can't be sold!
 ITEM_NOT_TRADABLE: Item can't be traded!
 ITEM_TIMEOUT: Item is no longer valid.
 ITEM_UNFIXED: You've removed blockade of upgrade level from your item!
-ITEMS_LOADED: '#ITEMS_LOADED'
+ITEMS_LOADED: {0} Items loaded!
 JOB_LEVELUP: Job level has been increased!
 JOIN_TEAM: You join a raid team!
 JOINED_GROUP: You joined a group!
@@ -289,7 +289,7 @@ MINILAND_NEED_LOCK: You need to lock your mini-land to make modifications.
 MINILAND_PRIVATE: The mini-land is now private.
 MINILAND_PUBLIC: The mini-land is now public.
 MINILAND_VISITOR: 'Total visits: {0}, Daily visits: {1}'
-MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
+MINILAND_WELCOME_MESSAGE: Welcome!
 MOB_LVL_MUST_BE_LESS: Monster level must be less
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
@@ -309,14 +309,14 @@ MSG_UNDER_CHAT7: '#MSG_UNDER_CHAT7'
 MSG_UNDER_CHAT8: '#MSG_UNDER_CHAT8'
 MSG_UNDER_CHAT9: '#MSG_UNDER_CHAT9'
 MUST_BE_IN_CLASSIC_MAP: '#MUST_BE_IN_CLASSIC_MAP'
-MUTE_TIME: '#MUTE_TIME'
+MUTE_TIME: Punishment duration{0}
 MUTED_FEMALE: I was a very bad girl, and i got punished!
 MUTED_MALE: I was a bad boy, so i got punished!
-NEED_FAMILY: '#NEED_FAMILY'
+NEED_FAMILY: You cannot join the Land Of The Dead without family.
 NEED_PERFUM_TO_CHANGE_SHELL: You cannot change the shell, you need parfum.
 NEED_TEAM: A team must first be created for the raid
 NEW_LEADER: You are the new party leader!
-NEW_MAIL: '#NEW_MAIL'
+NEW_MAIL: An new mail arrived!
 NEW_MISSION: New mission goal.
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
 NO_AMMO_ADVENTURER: You don't have enough ammo. Buy it in equipment shop.
@@ -327,14 +327,14 @@ NO_FAMILY_RIGHT: You don't have family rights.
 NO_FAMILY_WAREHOUSE: No family warehouse found.
 NO_GILLION: You don't have enough gillion stone !
 NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
-NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
+NO_PREZ_MESSAGE: No description.
 NO_SP: You're not wearing specialist card!
 NO_TALENT_ARENA: '#NO_TALENT_ARENA'
 NO_TEAM_ARENA: No participants found
 NO_WEAPON: You're not wearing appropriate weapon!
 NO_WIG: You're not wearing that cool afro ;)
-NO_WINGS: '#NO_WINGS'
-NOT_ADVENTURER: '#NOT_ADVENTURER'
+NO_WINGS: You don't have any friend wing!
+NOT_ADVENTURER: You can change class only once.
 NOT_ALLOWED_KICK: You don't have permission to kick players!
 NOT_ENOUGH_CP: Not enough enough CP points.
 NOT_ENOUGH_DURABILITY_POINT: Not enough durability points
@@ -344,7 +344,7 @@ NOT_ENOUGH_INGREDIENT: '#NOT_ENOUGH_INGREDIENT'
 NOT_ENOUGH_MINILAND_POINT: Not enough miniland points
 NOT_ENOUGH_MONEY: Not enough money
 NOT_ENOUGH_PLACE: Not enough place.
-NOT_ENOUGH_POINTS: '#NOT_ENOUGH_POINTS'
+NOT_ENOUGH_POINTS: You don't have enough sp points to do this.
 NOT_ENOUGH_POWER_SEED: Not enough seeds of power
 NOT_ENOUGH_REPUT: Not enough reputation
 NOT_ENOUGH_REQUIERED_ITEM: '#NOT_ENOUGH_REQUIERED_ITEM'
@@ -386,9 +386,9 @@ PERFECTSP_WATER: Water
 PET_AUTO_RELIVE_DISABLED: Pet will return to Mini-land after it dies
 PET_AUTO_RELIVE_ENABLED: Partner can be revived with seed or power if it dies
 PET_CAN_PICK_UP: Now, your NosMate can drop items.
-PET_HIGHER_LEVEL: '#PET_HIGHER_LEVEL'
+PET_HIGHER_LEVEL: Your NosMate level is too much high to be equiped.
 PET_IN_TEAM_UNRELEASABLE: You can't release your NosMate if you already equipe him.
-PET_KICKED: '#PET_KICKED'
+PET_KICKED: Your NosMate has been refer to your Mini-Land.
 PET_LEAVE_BEAD: Your NosMate is out the bead!
 PET_RELEASED: Your NosMate is now free.
 PET_STORED: Your NosMate is now enclose into the bead.
@@ -418,7 +418,7 @@ RARIFY_FAILED: Gambling failed! The item disappeared.
 RARIFY_FAILED_ITEM_SAVED: Gambling failed, but the Item was saved from destruction.
 RARIFY_SUCCESS: 'Gambling succeeded! New Rare level: {0}'
 RATES: '#RATES'
-RECEIVED_ITEM: '#RECEIVED_ITEM'
+RECEIVED_ITEM: You received{0}
 REFILL_MINIGAME: '#REFILL_MINIGAME'
 REFUSED_GROUP_REQUEST: '{0} refused your group request.'
 REFUSED_SHARE: You refused to share the point of return with the group members.
@@ -430,7 +430,7 @@ REPUT_DECREASED: Reputation decreased!
 REPUT_INCREASE: Reputation increased!
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
-RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
+RESPAWNLOCATION_CHANGED: The town has been changed!
 RESTORE_DIGNITY: You've restored some of your dignity!
 RESURRECT_IN_SECONDS: '#RESURRECT_IN_SECONDS'
 RIVAL_ARENA_TEAM_FOUND: Enemy team found.
@@ -450,7 +450,7 @@ SEX_CHANGED: Sex has been changed!
 SHARING: Sharing with everyone
 SHARING_BY_ORDER: Sharing by order
 SHEEP_STARTED: '#SHEEP_STARTED'
-SHELL_ALREADY_IDENTIFIED: '#SHELL_ALREADY_IDENTIFIED'
+SHELL_ALREADY_IDENTIFIED: Options of this object are already identified.
 SHELL_BROKEN: The shell is broken because it has failed.
 SHELL_ERASED: The option has been erased.
 SHELL_FOR_ARMOR_ONLY: You can only use this shell on armor.
@@ -487,7 +487,7 @@ SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
 SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: Your specialist's soul has been resurrected!
 SP_USE_NEEDED: '#SP_USE_NEEDED'
-SPEAKER: '#SPEAKER'
+SPEAKER: Speaker
 STATE_CHANGED: The sale was interrupted because the item is no longer available!
 STAY_TIME: SP transformation needs cooldown, {0} seconds
 STOP_SPAWNING_BROKEN_SHELL: '#STOP_SPAWNING_BROKEN_SHELL'
@@ -504,10 +504,10 @@ TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
 TELEPORTED_IN: You will be teleported in {0} seconds.
 TOO_LOW_LVL: Your level is too low!
 TOO_MUCH_GOLD: '#TOO_MUCH_GOLD'
-TRADE_BLOCKED: '#TRADE_BLOCKED'
+TRADE_BLOCKED: User has blocked exchanges!
 TRANSFORM_DISAPPEAR: Cooldown finished.
-TRANSFORMATION_NEEDED: '#TRANSFORMATION_NEEDED'
-TRY_FAILED_WAIT: '#TRY_FAILED_WAIT'
+TRANSFORMATION_NEEDED: You need to be transformed to reset your sp points.
+TRY_FAILED_WAIT: Try after{0}s
 TS_PENALTY: '#TS_PENALTY'
 TS_TUTORIAL: '#TS_TUTORIAL'
 UI_BLOCKED: UI locked!
@@ -522,8 +522,8 @@ UPGRADESP_SUCCESS: SP upgrading succeeded!
 USER_NOT_CONNECTED: User is not connected.
 USER_NOT_FOUND: User not found!
 USER_NOT_FOUND_IN_ARENA: '#USER_NOT_FOUND_IN_ARENA'
-USER_NOT_HERO: '#USER_NOT_HERO'
-USER_ON_INSTANCEMAP: '#USER_ON_INSTANCEMAP'
+USER_NOT_HERO: Only heroes may use hero messages.
+USER_ON_INSTANCEMAP: The player is not on a general map.
 USER_WHISPER_BLOCKED: User has blocked private messages!
 VICTORIOUS_ERENIA: Winner!  Erenia
 VICTORIOUS_ZENAS: Winner!  Zenas
@@ -543,7 +543,7 @@ WIN_SP_POINT: 'SP points: +{0}'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Since you didn't made the first hit, you only get a part of the XP
 YOU_ARE_RAID_LEADER: '#YOU_ARE_RAID_LEADER'
-YOU_ASK_FOR_EXCHANGE: '#YOU_ASK_FOR_EXCHANGE'
+YOU_ASK_FOR_EXCHANGE: You ask for an exchange with{0}.
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
 YOU_CREATED_FAMILY_X: '#YOU_CREATED_FAMILY_X'
 YOU_GET_PET: 'You get a pet called: {0}.'
