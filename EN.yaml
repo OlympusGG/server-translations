@@ -219,7 +219,7 @@ IMPOSSIBLE_TO_USE: Can't use that right now!
 IN_BATTLE: You can't invite players when battling.
 IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In Waiting for {0}
-INCOMING_EXCHANGE: {0} wants to exchange with you
+INCOMING_EXCHANGE: '{0} wants to exchange with you'
 INFO_BAZAAR: You cannot open the bazaar because you do not possess the required object.
 INSTANTBATTLE_MINUTES: The instant battle will begin in {0} minutes.
 INSTANTBATTLE_MINUTES_REMAINING: The instant battle will be closed in {0} minutes.
@@ -250,7 +250,7 @@ ITEM_NOT_SOLDABLE: Item can't be sold!
 ITEM_NOT_TRADABLE: Item can't be traded!
 ITEM_TIMEOUT: Item is no longer valid.
 ITEM_UNFIXED: You've removed blockade of upgrade level from your item!
-ITEMS_LOADED: {0} Items loaded!
+ITEMS_LOADED: '{0} Items loaded!'
 JOB_LEVELUP: Job level has been increased!
 JOIN_TEAM: You join a raid team!
 JOINED_GROUP: You joined a group!
