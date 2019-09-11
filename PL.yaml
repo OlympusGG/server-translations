@@ -65,8 +65,8 @@ BACK_TO_MINILAND: Twój sojusznik wrócił do Mini-Landu z powodu braku Ziaren M
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
-BANK_BALANCE: Posiadasz {0} złota.
-BANK_DEPOSIT: Wypłacono {0} złota.
+BANK_BALANCE: 'Stan konta: {0} złota.'
+BANK_DEPOSIT: 'Wpłacono {0}000 szt. złota'
 BLACKLIST_ADDED: Dodano do czarnej listy.
 BLACKLIST_BLOCKED: Gracz ma cię na czarnej liście.
 BLACKLIST_BLOCKING: Blokujesz tego gracza.
@@ -540,7 +540,7 @@ WILL_BE_BACK: '{0} zginął! Zostanie wskrzeszony za 3 minuty'
 WIN_MONEY: 'Złoto: +{0}'
 WIN_REPUT: 'Reputacja: +{0}'
 WIN_SP_POINT: 'Punkty SP: +{0}'
-WITHDRAW_BANK: 'Wypłacono: {0}'
+WITHDRAW_BANK: 'Wypłacono {0}000 szt. złota'
 XP_NOTFIRSTHIT: Jako że twój cios nie był pierwszym, otrzymasz tylko część doświadczenia.
 YOU_ARE_RAID_LEADER: Zostałeś mianowany nowym liderem rajdu!
 YOU_ASK_FOR_EXCHANGE: Poprosiłeś gracza {0} o wymianę.
