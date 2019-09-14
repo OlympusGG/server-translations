@@ -7,7 +7,6 @@ ACT4_PVP_KILL: Gracz {1} zabił strażnika {0}.
 ACT4_RAID_OPEN: Rajd {0} został otwarty!
 ADD_OPTION_ON_STUFF: Czy chcesz dodać opcję? Jeśli tak, ten przedmiot będzie przywiązany tylko do Ciebie.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: Opcja zostanie zastąpiona nową. Masz 50% szans na powodzenie, w przeciwnym razie przedmiot zostanie zniszczony. Czy chcesz kontynuować?
-ADMINISTRATOR: Administrator
 ADVENTURER: Poszukiwacz Przygód
 ADVENTURERS_CANT_USE: Poszukiwacze Przygód nie mogą użyć tego przedmiotu!
 ALREADY_EXCHANGE: Gracz aktualnie handluje z kimś innym.
@@ -65,15 +64,18 @@ BACK_TO_MINILAND: Twój sojusznik wrócił do Mini-Landu z powodu braku Ziaren M
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
+BAD_PASSWORD: '#BAD_PASSWORD'
+BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: 'Stan konta: {0} złota.'
-BANK_DEPOSIT: 'Wpłacono {0}000 szt. złota'
+BANK_DEPOSIT: Wpłacono {0}000 szt. złota
 BLACKLIST_ADDED: Dodano do czarnej listy.
 BLACKLIST_BLOCKED: Gracz ma cię na czarnej liście.
 BLACKLIST_BLOCKING: Blokujesz tego gracza.
 BLACKLIST_DELETED: Usunięto z czarnej listy.
+BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Ikony buffów zablokowane.
 BUFF_UNLOCKED: Ikony buffów odblokowane.
-BUY_ITEM: 'Gracz {0} kupił {2}x {1}'
+BUY_ITEM: Gracz {0} kupił {2}x {1}
 BUY_ITEM_VALID: Kupiono {0}x {1}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
@@ -182,6 +184,7 @@ GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
 GIFTED: Otrzymano {0} przesyłek!
+GM_CHAT_BLOCKED: '#GM_CHAT_BLOCKED'
 GOLD_RATE: Złoto
 GOLD_TS_END: 'Nagroda: {0} złota'
 GROUP_ADMIN: Wyznaczono Cię na lidera grupy!
@@ -244,13 +247,13 @@ ITEM_BOUND_TO: '(Grupa) [{1}]: {2}x {0}'
 ITEM_GIFTED: Otrzymano paczkę.
 ITEM_IS_FIXED: Nie możesz ulepszyć przedmiotu, który jest utrwalony.
 ITEM_IS_HEROIC: Jest to bohaterski przedmiot!
+ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
 ITEM_NOT_SOLDABLE: Nie możesz sprzedać tego przedmiotu.
 ITEM_NOT_TRADABLE: Nie możesz handlować tym przedmiotem.
 ITEM_TIMEOUT: Przedmiot wygasł.
 ITEM_UNFIXED: Odblokowano utrwalony przedmiot.
-ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Twoja profesja została podwyższona!
 JOIN_TEAM: Dołączono do zespołu rajdu!
 JOINED_GROUP: Dołączono do grupy.
@@ -276,6 +279,8 @@ MARTIAL_ART: Mistrz Sztuk Walki
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
 MAX_MATES_COUNT: Osiągnięto maksymalną ilość NosKumpli!
+MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
+MAX_PET_REACHED: '#MAX_PET_REACHED'
 MESSAGE_SENT_TO_CHARACTER: Wysyłanie wiadomości do gracza {0} na kanale {1}.
 METEORITE_MINUTES: Meteoryty rozpoczą się za {0} min.
 METEORITE_ROUND: Rozpoczęła się {0} runda!
@@ -293,8 +298,8 @@ MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
 MOB_LVL_MUST_BE_LESS: Musisz mieć wyższy poziom od potwora, którego chcesz złapać!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od twojego, aby go schwytać!
 MONSTER_MUST_BE_LOW_HP: Potwór musi posiadać 50% Punktów Zdrowia, aby go złapać.
-MOTD_HELP_COMMAND: 'Jeśli potrzebujesz pomocy, wpisz komendę $help'
-MOTD_LANG_COMMAND: 'Jeśli chcesz zmienić język, wpisz $help lang'
+MOTD_HELP_COMMAND: Jeśli potrzebujesz pomocy, wpisz komendę $help
+MOTD_LANG_COMMAND: Jeśli chcesz zmienić język, wpisz $help lang
 MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
 MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
@@ -341,8 +346,9 @@ NOT_ENOUGH_DURABILITY_POINT: Brak wystarczającej punktów trwałości
 NOT_ENOUGH_FUNDS: Brak funduszy
 NOT_ENOUGH_GOLD: Niewystarczająca ilość złota
 NOT_ENOUGH_INGREDIENT: Brak wymaganych przedmiotów!
+NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
 NOT_ENOUGH_MINILAND_POINT: Niewystarczająca ilość punktów produkcji.
-NOT_ENOUGH_MONEY: Niewystarczająca ilość pieniędzy
+NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
 NOT_ENOUGH_PLACE: Za mało miejsca
 NOT_ENOUGH_POINTS: Brak wystarczająco punktów!
 NOT_ENOUGH_POWER_SEED: Niewystarczająca ilość Ziaren Mocy.
@@ -433,6 +439,7 @@ RESPAWN_CALIGOR_ENTRY: Czy wskrzesić się w Królestwie Caligora?
 RESPAWNLOCATION_CHANGED: Miejsce ożywienia zostały zmienione!
 RESTORE_DIGNITY: Przywrócono trochę godności!
 RESURRECT_IN_SECONDS: Wkrótce wrócisz do żywych...
+RETRY_SEARCH_ARENA_TEAM: '#RETRY_SEARCH_ARENA_TEAM'
 RIVAL_ARENA_TEAM_FOUND: Znaleziono przeciwną drużynę.
 SAME_FACTION: Nie możesz przemienić się w tę samą frakcję.
 SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
@@ -501,20 +508,23 @@ TALENT_ARENA_GROUP: Musisz opuścić grupę, aby dołączyć do Areny Talentów.
 TALENT_ARENA_NO_MORE_TICKET: Nie posiadasz wystaczająco wejściówek, aby dołączyć!
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Nowym liderem grupy został gracz {0}
+TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
 TOO_LOW_LVL: Twój poziom jest za niski!
 TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.
 TRANSFORM_DISAPPEAR: Czas odnowienia zniknął.
 TRANSFORMATION_NEEDED: Musisz przetransformować się w Kartę Specjalisty, aby to zrobić!
+TRY_FAILED: '#TRY_FAILED'
 TRY_FAILED_WAIT: Próba nieudana! Spróbuj ponownie za {0} sek.
 TS_PENALTY: '#TS_PENALTY'
-TS_TUTORIAL: '#TS_TUTORIAL'
 UI_BLOCKED: Interfejs został zablokowany!
 UI_UNLOCKED: Interfejs został odblokowany!
 UNDER_EFFECT: Znajdujesz się pod efektem {0}
 UPGRADE_FAILED: Ulepszenie nie powiodło się!
 UPGRADE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale Twój przedmiot został zachowany.
+UPGRADE_FIXED: '#UPGRADE_FIXED'
+UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
 UPGRADESP_DESTROYED: Dusza Karty Specjalisty uległa zniszczeniu!
 UPGRADESP_FAILED: Ulepszenie nie powiodło się!
 UPGRADESP_FAILED_SAVED: Ulepszenie nie powiodło się, ale Twoja Karta Specjalisty została zachowana!
@@ -540,12 +550,12 @@ WILL_BE_BACK: '{0} zginął! Zostanie wskrzeszony za 3 minuty'
 WIN_MONEY: 'Złoto: +{0}'
 WIN_REPUT: 'Reputacja: +{0}'
 WIN_SP_POINT: 'Punkty SP: +{0}'
-WITHDRAW_BANK: 'Wypłacono {0}000 szt. złota'
+WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
+WITHDRAW_BANK: Wypłacono {0}000 szt. złota
 XP_NOTFIRSTHIT: Jako że twój cios nie był pierwszym, otrzymasz tylko część doświadczenia.
 YOU_ARE_RAID_LEADER: Zostałeś mianowany nowym liderem rajdu!
 YOU_ASK_FOR_EXCHANGE: Poprosiłeś gracza {0} o wymianę.
 YOU_CATCHED_PET_X: Złapano {0}!
-YOU_CREATED_FAMILY_X: '#YOU_CREATED_FAMILY_X'
 YOU_GET_PET: Otrzymano {0}!
 YOU_HAVE_LIFE: 'Pozostałe życia: {0}'
 YOU_HAVE_LIFE_RAID: 'Pozostałe życia: {0}'

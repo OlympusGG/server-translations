@@ -7,7 +7,6 @@ ACT4_PVP_KILL: '{1} hat einen Hüter der {0} getötet'
 ACT4_RAID_OPEN: Der {0} Raid ist geöffnet !
 ADD_OPTION_ON_STUFF: Willst du die Option hinzufügen? Falls ja wird das Item an dich gebunden.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: Die Option wird durch die neue ersetzt. Es besteht eine 50% Chance, ansonsten wird das Item zerstört. Willst du fortfahren?
-ADMINISTRATOR: Administrator
 ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Abenteurer können diesen Gegenstand nicht benutzen!
 ALREADY_EXCHANGE: Der Spieler tauscht bereits!
@@ -65,12 +64,15 @@ BACK_TO_MINILAND: Dein NosMate ist gestorben! Es kehrt ins Mini-Land zurück!
 BAD_DROP_AMOUNT: Falsche Anzahl zum wegwerfen.
 BAD_EQUIPMENT: Dein Charakter entspricht nicht allen Anforderungen, um diesen Gegenstand zu tragen!
 BAD_FAIRY: Die Spezialistenkarte und deine Fee haben unterschiedliche Attribute.
+BAD_PASSWORD: '#BAD_PASSWORD'
+BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: 'Cuarry Bank : Du hast {0} Gold'
 BANK_DEPOSIT: 'Cuarry Bank : Du hast gerade {0} Gold eingezahlt'
 BLACKLIST_ADDED: Der Spieler wurde der Schwarzen Liste hinzugefügt!
 BLACKLIST_BLOCKED: Dieser Spieler blockiert dich
 BLACKLIST_BLOCKING: Du blockierst diesen Spieler!
 BLACKLIST_DELETED: Der Spieler wurde von der Schwarzen Liste gelöscht!
+BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Ab sofort wird das Ablaufen des Buffs ausgeblendet.
 BUFF_UNLOCKED: Ab sofort wird das Ablaufen des Buffs angezeigt.
 BUY_ITEM: '{0}: Kaufe &lt;{1} {2}: Stück &gt;'
@@ -182,6 +184,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: Du hast ein Geschenk von {0} erhalten!
+GM_CHAT_BLOCKED: '#GM_CHAT_BLOCKED'
 GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: Du hast {0} Gold als Belohnung erhalten
 GROUP_ADMIN: Du wurdest zum Gruppenführer ernannt!
@@ -244,13 +247,13 @@ ITEM_BOUND_TO: '{1} hat {0} x {2} fallen gelassen.'
 ITEM_GIFTED: Du hast ein Item erhalten &gt;&gt;
 ITEM_IS_FIXED: Das Item ist fixiert.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
+ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: '#ITEM_NOT_DROPPABLE'
 ITEM_NOT_DROPPABLE_HERE: Du kannst dieses Item nicht wegwerfen.
 ITEM_NOT_SOLDABLE: Du kannst dieses Item nicht verkaufen.
 ITEM_NOT_TRADABLE: Du kannst dieses Item nicht tauschen.
 ITEM_TIMEOUT: Item ist nicht mehr benutzbar.
 ITEM_UNFIXED: Das Item ist nicht mehr fixiert!
-ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Dein Joblevel hat sich erhöht!
 JOIN_TEAM: Du trittst einem Raidteam bei
 JOINED_GROUP: '{0} ist der Gruppe beigetreten.'
@@ -276,6 +279,8 @@ MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Du hast das Goldlimit erreicht.
 MAX_GOLD_BANK_REACHED: Du hast das Bank Goldlimit erreicht.
 MAX_MATES_COUNT: Du hast die maximale Anzahl an Begleitern erreicht.
+MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
+MAX_PET_REACHED: '#MAX_PET_REACHED'
 MESSAGE_SENT_TO_CHARACTER: Sende die Nachricht an '{0}' im Channel {1}.
 METEORITE_MINUTES: '#METEORITE_MINUTES'
 METEORITE_ROUND: '#METEORITE_ROUND'
@@ -341,8 +346,9 @@ NOT_ENOUGH_DURABILITY_POINT: '#NOT_ENOUGH_DURABILITY_POINT'
 NOT_ENOUGH_FUNDS: '#NOT_ENOUGH_FUNDS'
 NOT_ENOUGH_GOLD: Du hast nicht genug Gold.
 NOT_ENOUGH_INGREDIENT: '#NOT_ENOUGH_INGREDIENT'
+NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
 NOT_ENOUGH_MINILAND_POINT: '#NOT_ENOUGH_MINILAND_POINT'
-NOT_ENOUGH_MONEY: Du hast nicht genug Geld.
+NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
 NOT_ENOUGH_PLACE: Du hast nicht genug Platz.
 NOT_ENOUGH_POINTS: '#NOT_ENOUGH_POINTS'
 NOT_ENOUGH_POWER_SEED: Du hast nicht genug Saat der Macht.
@@ -433,6 +439,7 @@ RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
 RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
 RESTORE_DIGNITY: Du hast einen Teil deiner Würde wiederhergestellt!
 RESURRECT_IN_SECONDS: '#RESURRECT_IN_SECONDS'
+RETRY_SEARCH_ARENA_TEAM: '#RETRY_SEARCH_ARENA_TEAM'
 RIVAL_ARENA_TEAM_FOUND: Gegnerisches Team gefunden.
 SAME_FACTION: '#SAME_FACTION'
 SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
@@ -501,20 +508,23 @@ TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
+TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Du wirst in {0} Sekunden teleportiert.
 TOO_LOW_LVL: Dein Level ist zu niedrig.
 TOO_MUCH_GOLD: '#TOO_MUCH_GOLD'
 TRADE_BLOCKED: '#TRADE_BLOCKED'
 TRANSFORM_DISAPPEAR: Der Nebeneffekt der Transformation ist vorüber.
 TRANSFORMATION_NEEDED: '#TRANSFORMATION_NEEDED'
+TRY_FAILED: '#TRY_FAILED'
 TRY_FAILED_WAIT: '#TRY_FAILED_WAIT'
 TS_PENALTY: '{0}% der Punkte wurden aufgrund der Levelstrafe abgezogen'
-TS_TUTORIAL: '#TS_TUTORIAL'
 UI_BLOCKED: Die UI wurde gesperrt.
 UI_UNLOCKED: Die Sperrung der UI wurde aufgehoben.
 UNDER_EFFECT: Du bist unter dem Effekt von {0}
 UPGRADE_FAILED: Die Verbesserung ist fehlgeschlagen. Das Item ist verschwunden.
 UPGRADE_FAILED_ITEM_SAVED: Die Verbesserung ist fehlgeschlagen, doch das Item wurde vor der Zerstörung geschützt.
+UPGRADE_FIXED: '#UPGRADE_FIXED'
+UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
 UPGRADESP_DESTROYED: Spezialistenkarte wurde zerstört.
 UPGRADESP_FAILED: Die Verbesserung ist Fehlgeschlagen.
 UPGRADESP_FAILED_SAVED: Verbesserung Fehlgeschlagen, wurde nicht zerstört.
@@ -540,12 +550,12 @@ WILL_BE_BACK: '{0} ist gestorben !  Es wird in 3 Minuten wiederbelebt'
 WIN_MONEY: 'Geld: +{0}'
 WIN_REPUT: 'Ruf: +{0}'
 WIN_SP_POINT: 'SP Punkte: +{0}'
+WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Da du nicht den ersten Schlag gemacht hast, erhältst du nur einen teil der Erfahrungspunkte.
 YOU_ARE_RAID_LEADER: '#YOU_ARE_RAID_LEADER'
 YOU_ASK_FOR_EXCHANGE: '#YOU_ASK_FOR_EXCHANGE'
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
-YOU_CREATED_FAMILY_X: '#YOU_CREATED_FAMILY_X'
 YOU_GET_PET: 'Du bekommst ein Haustier mit dem Namen: {0}'
 YOU_HAVE_LIFE: '#YOU_HAVE_LIFE'
 YOU_HAVE_LIFE_RAID: '#YOU_HAVE_LIFE_RAID'

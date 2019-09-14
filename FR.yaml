@@ -7,7 +7,6 @@ ACT4_PVP_KILL: Vous avez tué un joueur ! + {0} réputation !
 ACT4_RAID_OPEN: Le raid de l'Act4 est maintenant ouvert
 ADD_OPTION_ON_STUFF: Souhaites-tu ajouter une option à cet équipement ?
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L'option existante sera supprimée et remplacée par une nouvelle.
-ADMINISTRATOR: Administrateur
 ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Ton personnage ne remplit pas les conditions requises pour utiliser cet objet.
 ALREADY_EXCHANGE: Utilisateur déjà en échange.
@@ -65,12 +64,15 @@ BACK_TO_MINILAND: Retour au mini pays ?
 BAD_DROP_AMOUNT: Valeur incorrecte d'objets
 BAD_EQUIPMENT: Ton personnage ne remplit pas les conditions pour s'équiper de cet objet.
 BAD_FAIRY: La carte spécialiste et ta fée ont des élements différents.
+BAD_PASSWORD: '#BAD_PASSWORD'
+BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: 'Montant de la banque : {0} Or'
 BANK_DEPOSIT: Souhaitez-vous déposer {0} Or dans la banque ?
 BLACKLIST_ADDED: Ajouté.
 BLACKLIST_BLOCKED: Vous êtes dans sa liste noire.
 BLACKLIST_BLOCKING: Tu as bloqué ce joueur
 BLACKLIST_DELETED: Supprimé.
+BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: A partir de maintenant, le décompte de buff sera visible.
 BUFF_UNLOCKED: A partir de maintenant, le décompte de buff sera masqué.
 BUY_ITEM: '[{0}][ACHAT] {2}x{1}'
@@ -182,6 +184,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: 'Nouveaux paquets arrivés : {0}'
+GM_CHAT_BLOCKED: '#GM_CHAT_BLOCKED'
 GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: Tu es récompensé car tu as fini la mission. Tu as reçu [{0} or] . Il est possible que tu gagnes moins d'or et de réputation si ton niveau est trop élevé pour cette mission !
 GROUP_ADMIN: Tu es le maître du groupe.
@@ -244,13 +247,13 @@ ITEM_BOUND_TO: '(Groupe) Priorité à : {1] : {0} x [2}'
 ITEM_GIFTED: Vous avez reçu un paquet !
 ITEM_IS_FIXED: Niveau de mise à niveau d'objet est verrouillé.
 ITEM_IS_HEROIC: Cet objet est héroïque
+ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: '#ITEM_NOT_DROPPABLE'
 ITEM_NOT_DROPPABLE_HERE: L'objet ne peut pas être ramassé ici.
 ITEM_NOT_SOLDABLE: Cet objet ne peut pas être vendu.
 ITEM_NOT_TRADABLE: Tu ne peux pas échanger cet objet.
 ITEM_TIMEOUT: La limite de temps d'utilisation de cet objet est expiré.
 ITEM_UNFIXED: Tu as supprimé l'effet négatif qui empêchait toutes améliorations de ton arme.
-ITEMS_LOADED: '#ITEMS_LOADED'
 JOB_LEVELUP: Ton niveau de métier a augmenté.
 JOIN_TEAM: Vous avez rejoint l'équipe de raid
 JOINED_GROUP: Groupe rejoint
@@ -276,6 +279,8 @@ MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Le montant maximal d'or a été atteint.
 MAX_GOLD_BANK_REACHED: Le montant maximal d'or en banque a été atteint.
 MAX_MATES_COUNT: Tu ne peux adopter plus de familiers
+MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
+MAX_PET_REACHED: '#MAX_PET_REACHED'
 MESSAGE_SENT_TO_CHARACTER: Message envoyé à {0} - Canal {1}
 METEORITE_MINUTES: La météorite va atterrir dans {0} minutes !
 METEORITE_ROUND: Round {0} !
@@ -341,8 +346,9 @@ NOT_ENOUGH_DURABILITY_POINT: Pas assez de points de durabilité
 NOT_ENOUGH_FUNDS: Pas assez de fonds
 NOT_ENOUGH_GOLD: Tu n'as pas assez d'or !
 NOT_ENOUGH_INGREDIENT: '#NOT_ENOUGH_INGREDIENT'
+NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
 NOT_ENOUGH_MINILAND_POINT: Pas assez de points de mini pays
-NOT_ENOUGH_MONEY: Tu n'as pas assez d'or !
+NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
 NOT_ENOUGH_PLACE: Ton inventaire est plein !
 NOT_ENOUGH_POINTS: '#NOT_ENOUGH_POINTS'
 NOT_ENOUGH_POWER_SEED: Vous n'avez pas assez de graines de pouvoir
@@ -433,6 +439,7 @@ RESPAWN_CALIGOR_ENTRY: L'entrée vers Caligor va réapparaître !
 RESPAWNLOCATION_CHANGED: '#RESPAWNLOCATION_CHANGED'
 RESTORE_DIGNITY: 'Dignité augmentée : +1'
 RESURRECT_IN_SECONDS: Resurrection dans {0} secondes
+RETRY_SEARCH_ARENA_TEAM: '#RETRY_SEARCH_ARENA_TEAM'
 RIVAL_ARENA_TEAM_FOUND: Une équipe adverse a été trouvée
 SAME_FACTION: Même faction
 SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
@@ -501,20 +508,23 @@ TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Vous êtes maintenant le chef du groupe.
+TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Vous allez être téléporté dans {0} secondes.
 TOO_LOW_LVL: Ton niveau de combat n'est pas assez élevé.
 TOO_MUCH_GOLD: Le montant maximal d'or a été atteint.
 TRADE_BLOCKED: '#TRADE_BLOCKED'
 TRANSFORM_DISAPPEAR: L'effet secondaire de la transformation s'est dissipé.
 TRANSFORMATION_NEEDED: '#TRANSFORMATION_NEEDED'
+TRY_FAILED: '#TRY_FAILED'
 TRY_FAILED_WAIT: '#TRY_FAILED_WAIT'
 TS_PENALTY: Pénalité de l'espace-temps
-TS_TUTORIAL: Espace-temps tutoriel
 UI_BLOCKED: '#UI_BLOCKED'
 UI_UNLOCKED: '#UI_UNLOCKED'
 UNDER_EFFECT: "Tu subis l'effet :  {0} !"
 UPGRADE_FAILED: L'amélioration a échoué.
 UPGRADE_FAILED_ITEM_SAVED: L'amélioration a échoué. Heureusement, le parchemin protecteur a préservé l'objet.
+UPGRADE_FIXED: '#UPGRADE_FIXED'
+UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
 UPGRADESP_DESTROYED: L'âme de la carte spécialiste est détruite.
 UPGRADESP_FAILED: L'amélioration de la carte spécialiste a échoué.
 UPGRADESP_FAILED_SAVED: L'amélioration de la carte spécialiste a échoué. Heureusement, le parchemin protecteur a préservé l'objet.
@@ -540,12 +550,12 @@ WILL_BE_BACK: '#WILL_BE_BACK'
 WIN_MONEY: Tu reçois {0} pièces d'or en récompense de ta victoire.
 WIN_REPUT: Tu reçois {0} points de réputation en récompense de ta victoire.
 WIN_SP_POINT: Tu reçois {0} points de spécialiste supplémentaires en récompense de ta victoire.
+WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Tu n'as fait que te défendre, tu n'obtiens donc qu'une partie de l'expérience.
 YOU_ARE_RAID_LEADER: Tu es le chef de raid à présent. Invite des membres !
 YOU_ASK_FOR_EXCHANGE: '#YOU_ASK_FOR_EXCHANGE'
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
-YOU_CREATED_FAMILY_X: Félicitations !  La famille {0} a été crée !
 YOU_GET_PET: Tu as obtenu un NosMate.
 YOU_HAVE_LIFE: 'Vies restantes : {0} / {1}'
 YOU_HAVE_LIFE_RAID: 'Vies restantes : {0} / {1}'

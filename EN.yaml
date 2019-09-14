@@ -7,7 +7,6 @@ ACT4_PVP_KILL: '{1} Killed a guardian of {0}.'
 ACT4_RAID_OPEN: The raid {0} is open !
 ADD_OPTION_ON_STUFF: Do you want to add an option on this stuff ? If yes, this item will be link to you only.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: The option will be replace by the new. You've 50% of chance to win, else the item will be destroyed. Do you want to continue ?
-ADMINISTRATOR: Administrator
 ADVENTURER: Adventurer
 ADVENTURERS_CANT_USE: Adventurers can't use that item!
 ALREADY_EXCHANGE: User is in exchange!
@@ -65,12 +64,15 @@ BACK_TO_MINILAND: Nosmate dead ! Welcome to Mini-Land
 BAD_DROP_AMOUNT: Bad drop amount.
 BAD_EQUIPMENT: You can't wear this item
 BAD_FAIRY: The fairy element is different with sp element!
+BAD_PASSWORD: '#BAD_PASSWORD'
+BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: You have {0} Gold in your bank!
 BANK_DEPOSIT: Do you want to deposit {0} from your bank ?
 BLACKLIST_ADDED: Character added to blacklist!
 BLACKLIST_BLOCKED: This Player has blocked you!
 BLACKLIST_BLOCKING: You are blocking this Player!
 BLACKLIST_DELETED: Character deleted from blacklist!
+BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Buff icons disabled
 BUFF_UNLOCKED: Buff icons enabled
 BUY_ITEM: 'Player: {0} buy &lt;{1} {2}: piece &gt;'
@@ -182,6 +184,7 @@ GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
 GIFTED: You received {0} gift/s!
+GM_CHAT_BLOCKED: '#GM_CHAT_BLOCKED'
 GOLD_RATE: '#GOLD_RATE'
 GOLD_TS_END: '#GOLD_TS_END'
 GROUP_ADMIN: You are the group admin!
@@ -244,13 +247,13 @@ ITEM_BOUND_TO: '{1} dropped {0} x {2}'
 ITEM_GIFTED: You get an item &gt;&gt;
 ITEM_IS_FIXED: Item upgrade level is locked.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
+ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: You cant drop that item!
 ITEM_NOT_DROPPABLE_HERE: You cant drop that item!
 ITEM_NOT_SOLDABLE: Item can't be sold!
 ITEM_NOT_TRADABLE: Item can't be traded!
 ITEM_TIMEOUT: Item is no longer valid.
 ITEM_UNFIXED: You've removed blockade of upgrade level from your item!
-ITEMS_LOADED: '{0} Items loaded!'
 JOB_LEVELUP: Job level has been increased!
 JOIN_TEAM: You join a raid team!
 JOINED_GROUP: You joined a group!
@@ -276,6 +279,8 @@ MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Maximum amount of gold reached!
 MAX_GOLD_BANK_REACHED: Maximum amount of gold reached in bank
 MAX_MATES_COUNT: Maximum amount of Mates reached!
+MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
+MAX_PET_REACHED: '#MAX_PET_REACHED'
 MESSAGE_SENT_TO_CHARACTER: Sending message to  '{0}' on channel {1}.
 METEORITE_MINUTES: Meteorite game will start in {0} minutes
 METEORITE_ROUND: '{0} round started!'
@@ -341,8 +346,9 @@ NOT_ENOUGH_DURABILITY_POINT: Not enough durability points
 NOT_ENOUGH_FUNDS: Not enough funds
 NOT_ENOUGH_GOLD: Not enough gold
 NOT_ENOUGH_INGREDIENT: '#NOT_ENOUGH_INGREDIENT'
+NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
 NOT_ENOUGH_MINILAND_POINT: Not enough miniland points
-NOT_ENOUGH_MONEY: Not enough money
+NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
 NOT_ENOUGH_PLACE: Not enough place.
 NOT_ENOUGH_POINTS: You don't have enough sp points to do this.
 NOT_ENOUGH_POWER_SEED: Not enough seeds of power
@@ -433,6 +439,7 @@ RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'
 RESPAWNLOCATION_CHANGED: The town has been changed!
 RESTORE_DIGNITY: You've restored some of your dignity!
 RESURRECT_IN_SECONDS: '#RESURRECT_IN_SECONDS'
+RETRY_SEARCH_ARENA_TEAM: '#RETRY_SEARCH_ARENA_TEAM'
 RIVAL_ARENA_TEAM_FOUND: Enemy team found.
 SAME_FACTION: '#SAME_FACTION'
 SAME_SP_WINGS_ALREADY_SET: '#SAME_SP_WINGS_ALREADY_SET'
@@ -501,20 +508,23 @@ TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
+TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: You will be teleported in {0} seconds.
 TOO_LOW_LVL: Your level is too low!
 TOO_MUCH_GOLD: '#TOO_MUCH_GOLD'
 TRADE_BLOCKED: User has blocked exchanges!
 TRANSFORM_DISAPPEAR: Cooldown finished.
 TRANSFORMATION_NEEDED: You need to be transformed to reset your sp points.
+TRY_FAILED: '#TRY_FAILED'
 TRY_FAILED_WAIT: Try after{0}s
 TS_PENALTY: '#TS_PENALTY'
-TS_TUTORIAL: '#TS_TUTORIAL'
 UI_BLOCKED: UI locked!
 UI_UNLOCKED: UI unlocked!
 UNDER_EFFECT: You are under the effect of {0}
 UPGRADE_FAILED: Upgrade failed!
 UPGRADE_FAILED_ITEM_SAVED: Upgrade failed but item was saved.
+UPGRADE_FIXED: '#UPGRADE_FIXED'
+UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
 UPGRADESP_DESTROYED: SP destroyed.
 UPGRADESP_FAILED: SP upgrading failed!
 UPGRADESP_FAILED_SAVED: SP upgrading failed but item was saved.
@@ -540,12 +550,12 @@ WILL_BE_BACK: '{0} dead !  It will be revived in 3 min'
 WIN_MONEY: 'Money: +{0}'
 WIN_REPUT: 'Reputation: +{0}'
 WIN_SP_POINT: 'SP points: +{0}'
+WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Since you didn't made the first hit, you only get a part of the XP
 YOU_ARE_RAID_LEADER: '#YOU_ARE_RAID_LEADER'
 YOU_ASK_FOR_EXCHANGE: You ask for an exchange with{0}.
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
-YOU_CREATED_FAMILY_X: '#YOU_CREATED_FAMILY_X'
 YOU_GET_PET: 'You get a pet called: {0}.'
 YOU_HAVE_LIFE: '#YOU_HAVE_LIFE'
 YOU_HAVE_LIFE_RAID: '#YOU_HAVE_LIFE_RAID'
