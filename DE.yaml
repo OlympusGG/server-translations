@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Der Spieler wurde von der Schwarzen Liste gelöscht!
 BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Ab sofort wird das Ablaufen des Buffs ausgeblendet.
 BUFF_UNLOCKED: Ab sofort wird das Ablaufen des Buffs angezeigt.
-BUY_ITEM: '{0}: Kaufe &lt;{1} {2}: Stück &gt;'
+BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
 BUY_ITEM_VALID: Du hast {1} von {0} gekauft
 CALIGOR_REALM_CLOSED: Caligors Reich wurde geschlossen.
 CALIGOR_REALM_LOCKED: Du kannst nicht mehr beitreten.
@@ -302,7 +302,6 @@ MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Mausfalle aktiviert.
 MOUSE_UNLOCKED: Mausfalle deaktiviert.
-MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -406,6 +405,7 @@ PORTAL_BLOCKED: Kann Portal nicht benutzen da es gesperrt ist!
 PRICE_EXCEEDED: Das Preis Limit ist erreicht.
 QNA_ITEM: Möchtest du dieses Item benutzen?
 QUEST_ALREADY_DONE: Du hast diese Quest bereits abgeschlossen!
+QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: Dein Level ist zu hoch für diese Quest.
 QUEST_TOO_LOW_LVL: Dein Level ist zu niedrig für diese Quest.
 QUICK_GET_UP_DISABLED: Du kannst nicht sofort aufstehen, wenn du dich ausruhst.
@@ -432,7 +432,6 @@ REMOVE_FROM_BAZAAR: 'Der Verkauf ist abgeschlossen, du erhälst Gold: {0}.'
 REMOVE_SP: Du musst deinen Spezialisten ausziehen, um einen Skill zu erlernen.
 REMOVE_VEHICLE: Steige von deinem Reittier herunter, damit du deine Spezialistenkarte anziehen kannst.
 REPUT_DECREASE: Ruf verringert!
-REPUT_DECREASED: Ruf verringert!
 REPUT_INCREASE: Ruf erhöht!
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'

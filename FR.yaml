@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Supprimé.
 BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: A partir de maintenant, le décompte de buff sera visible.
 BUFF_UNLOCKED: A partir de maintenant, le décompte de buff sera masqué.
-BUY_ITEM: '[{0}][ACHAT] {2}x{1}'
+BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
 BUY_ITEM_VALID: Tu as acheté {1} de {0}
 CALIGOR_REALM_CLOSED: Le portail vers Caligor est maintenant fermé.
 CALIGOR_REALM_LOCKED: Le portail vers Caligor est maintenant bloqué.
@@ -302,7 +302,6 @@ MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: A partir de maintenant, tu bloques le suivi de cible.
 MOUSE_UNLOCKED: A partir de maintenant, tu débloques le suivi de cible
-MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: Ne partagez pas votre mot de passe !
 MSG_UNDER_CHAT1: 'Lien du Discord : https://discord.gg/rRS52ed '
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -406,6 +405,7 @@ PORTAL_BLOCKED: Vous ne pouvez pas utiliser ce portail... il est bloqué !
 PRICE_EXCEEDED: La limite de prix est dépassée
 QNA_ITEM: Souhaites-tu utiliser cet objet ?
 QUEST_ALREADY_DONE: La quête est déjà completée
+QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: La quête est d'un niveau trop haut pour vous
 QUEST_TOO_LOW_LVL: La quête est d'un niveau trop inférieur pour vous
 QUICK_GET_UP_DISABLED: Tu ne peux pas te lever tout de suite quand tu te reposes
@@ -432,7 +432,6 @@ REMOVE_FROM_BAZAAR: 'La vente est terminée : Or : {0}'
 REMOVE_SP: Si vous voulez apprendre cette compétence, vous devez enlever votre transformation.
 REMOVE_VEHICLE: "Tu ne peux pas faire ça tant que tu n'as pas enlevé la transformation "
 REPUT_DECREASE: Réputation réduite.
-REPUT_DECREASED: Réputation réduite.
 REPUT_INCREASE: Les points de réputation ont été augmentés
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: L'entrée vers Caligor va réapparaître !

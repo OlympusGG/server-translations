@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Character deleted from blacklist!
 BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Buff icons disabled
 BUFF_UNLOCKED: Buff icons enabled
-BUY_ITEM: 'Player: {0} buy &lt;{1} {2}: piece &gt;'
+BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
 BUY_ITEM_VALID: You bought {1} of {0}
 CALIGOR_REALM_CLOSED: The portal to Caligor is now closed
 CALIGOR_REALM_LOCKED: The portal to Caligor is locked
@@ -302,7 +302,6 @@ MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Mouse locked on enemy
 MOUSE_UNLOCKED: Mouse moving freely
-MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -406,6 +405,7 @@ PORTAL_BLOCKED: This portal is locked, i can't use it.
 PRICE_EXCEEDED: The price limit is exceeded.
 QNA_ITEM: Do you want to use this item?
 QUEST_ALREADY_DONE: You have already done this quest today !
+QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: '#QUEST_TOO_HIGH_LVL'
 QUEST_TOO_LOW_LVL: '#QUEST_TOO_LOW_LVL'
 QUICK_GET_UP_DISABLED: Quick get up disabled
@@ -432,7 +432,6 @@ REMOVE_FROM_BAZAAR: 'The sale is completed, you receive gold: {0}.'
 REMOVE_SP: If you want to learn skill, you need to remove your sp card.
 REMOVE_VEHICLE: Before transforming you should remove your vehicle.
 REPUT_DECREASE: Reputation decreased!
-REPUT_DECREASED: Reputation decreased!
 REPUT_INCREASE: Reputation increased!
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'

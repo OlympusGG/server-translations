@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Personaggio tolto dalla lista nera
 BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Icone dei buff disabilitate
 BUFF_UNLOCKED: Icone dei buff abilitate
-BUY_ITEM: '{0}: compra {1} {2}: pezzo;'
+BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
 BUY_ITEM_VALID: Hai comprato {1} di {0}
 CALIGOR_REALM_CLOSED: Il regno di Caligor è stata chiuso
 CALIGOR_REALM_LOCKED: Il regno di Caligor è stata bloccato
@@ -302,7 +302,6 @@ MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
 MOUSE_LOCKED: Puntatore automatico attivato
 MOUSE_UNLOCKED: Puntatore automatico disattivato
-MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -406,6 +405,7 @@ PORTAL_BLOCKED: Non puoi usare questo portale perche' è bloccato
 PRICE_EXCEEDED: Il prezzo massimo è stato superato!
 QNA_ITEM: Vuoi utilizzare davvero quest'oggetto?
 QUEST_ALREADY_DONE: La missione è già stata completata.
+QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: Questa missione richiede un livello più elevato
 QUEST_TOO_LOW_LVL: Questa missione richiede un livello inferiore
 QUICK_GET_UP_DISABLED: alzata rapida disattivata
@@ -432,7 +432,6 @@ REMOVE_FROM_BAZAAR: "L'asta è finita, hai ricevuto: {0}."
 REMOVE_SP: Se vuoi imparare questa skill, devi prima rimuovere la SP!
 REMOVE_VEHICLE: Prima di trasformarti devi rimuovere il veicolo.
 REPUT_DECREASE: Reputazione diminuita!
-REPUT_DECREASED: Reputazione diminuita!
 REPUT_INCREASE: 'Reputazione aumentata : {0}'
 REPUT_RATE: '#REPUT_RATE'
 RESPAWN_CALIGOR_ENTRY: '#RESPAWN_CALIGOR_ENTRY'

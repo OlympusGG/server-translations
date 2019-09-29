@@ -65,7 +65,7 @@ BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
 BAD_PASSWORD: Hasło jest niepoprawne.
-BANK_ASK_DEPOSIT: 'Czy chcesz wpłacić {0}000 szt. złota na swoje konto?'
+BANK_ASK_DEPOSIT: Czy chcesz wpłacić {0}000 szt. złota na swoje konto?
 BANK_BALANCE: 'Stan konta: {0} złota.'
 BANK_DEPOSIT: 'Wpłacono: {0}000 złota'
 BLACKLIST_ADDED: Dodano do czarnej listy.
@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Usunięto z czarnej listy.
 BROADCASTER: '#BROADCASTER'
 BUFF_BLOCKED: Ikony buffów zablokowane
 BUFF_UNLOCKED: Ikony buffów odblokowane
-BUY_ITEM: Gracz {0} kupił {2}x {1}
+BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
 BUY_ITEM_VALID: Kupiono {1}x {0}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
@@ -302,7 +302,6 @@ MOTD_HELP_COMMAND: Jeśli potrzebujesz pomocy, wpisz komendę $help
 MOTD_LANG_COMMAND: Jeśli chcesz zmienić język, wpisz $help lang
 MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
-MSG_UNDER_CHAT: '#MSG_UNDER_CHAT'
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
 MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
 MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
@@ -406,6 +405,7 @@ PORTAL_BLOCKED: Ten portal jest zamknięty, nie mogę tędy przejść.
 PRICE_EXCEEDED: Limit ceny został przekroczony.
 QNA_ITEM: Czy chcesz użyć tego przedmiotu?
 QUEST_ALREADY_DONE: Ta misja została już dziś ukończona.
+QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: Twój poziom jest za wysoki, aby otrzymać tę misję.
 QUEST_TOO_LOW_LVL: Twój poziom jest za niski, aby otrzymać tę misję.
 QUICK_GET_UP_DISABLED: Szybkie wstawanie zostało wyłączone
@@ -431,9 +431,8 @@ REFUSED_SHARE: Odmówiono udostępnienia punktu powrotu członkom grupy.
 REMOVE_FROM_BAZAAR: Zakończono sprzedaż, otrzymujesz {0} szt. złota.
 REMOVE_SP: Nie możesz nauczyć się umiejętnóści, dopóki jesteś na Karcie Specjalisty.
 REMOVE_VEHICLE: Przed transformacją musisz zejść z pojazdu.
-REPUT_DECREASE: 'Reputacja została zmniejszona o {0}'
-REPUT_DECREASED: Reputacja zmniejszona!
-REPUT_INCREASE: 'Reputacja została zwiększona o {0}'
+REPUT_DECREASE: Reputacja została zmniejszona o {0}
+REPUT_INCREASE: Reputacja została zwiększona o {0}
 REPUT_RATE: Reput.
 RESPAWN_CALIGOR_ENTRY: Czy wskrzesić się w Królestwie Caligora?
 RESPAWNLOCATION_CHANGED: Miejsce ożywienia został zmieniony!
@@ -447,7 +446,7 @@ SCROLL_PROTECT_USED: Użyto Zwoju Ochrony!
 SEARCH_ARENA_TEAM: Szukanie drużyny
 SEARCH_RIVAL_ARENA_TEAM: Szukanie przeciwnej drużyny
 SEARCH_TEAM_MEMBERS: Gracz {0} szuka ochotników do rajdu {1}!
-SEED_USED: 'Użyto {0}x Ziaren Mocy'
+SEED_USED: Użyto {0}x Ziaren Mocy
 SELECT_ORDER_ARENA: Wybierz kolejność uczestnictwa, albo inaczej zostanie ona ustalona losowo!
 SELECT_ORDER_ARENA_TIME: Pozostała minuta do rozpoczęcia walki. Powodzenia!
 SELL_ITEM_VALIDE: Sprzedano {1}x {0}
@@ -526,7 +525,7 @@ UPGRADE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale Twój przedmiot zo
 UPGRADE_FIXED: Stały poziom.
 UPGRADE_SUCCESS: Ulepszenie powiodło się!
 UPGRADESP_DESTROYED: Dusza Karty Specjalisty uległa zniszczeniu!
-UPGRADESP_FAILED: Ulepszenie nie powiodło się! 
+UPGRADESP_FAILED: Ulepszenie nie powiodło się!
 UPGRADESP_FAILED_SAVED: Ulepszenie nie powiodło się, ale Twoja Karta Specjalisty została zachowana!
 UPGRADESP_SUCCESS: Ulepszenie powiodło się!
 USER_NOT_CONNECTED: Gracz nie jest dostępny!
