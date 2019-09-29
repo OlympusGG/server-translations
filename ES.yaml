@@ -1,128 +1,128 @@
-ACCEPTED_SHARE: '#ACCEPTED_SHARE'
-ACT4_CHANNEL_OFFLINE: '#ACT4_CHANNEL_OFFLINE'
-ACT4_NEED_FACTION: '#ACT4_NEED_FACTION'
-ACT4_PVP_DEATH: '#ACT4_PVP_DEATH'
-ACT4_PVP_DIE: '#ACT4_PVP_DIE'
-ACT4_PVP_KILL: '#ACT4_PVP_KILL'
-ACT4_RAID_OPEN: '#ACT4_RAID_OPEN'
-ADD_OPTION_ON_STUFF: '#ADD_OPTION_ON_STUFF'
-ADD_OPTION_ON_STUFF_NOT_EMPTY: '#ADD_OPTION_ON_STUFF_NOT_EMPTY'
-ADVENTURER: '#ADVENTURER'
-ADVENTURERS_CANT_USE: '#ADVENTURERS_CANT_USE'
-ALREADY_EXCHANGE: '#ALREADY_EXCHANGE'
-ALREADY_FRIEND: '#ALREADY_FRIEND'
-ALREADY_GOT_BUFF: '#ALREADY_GOT_BUFF'
-ALREADY_IN_FAMILY: '#ALREADY_IN_FAMILY'
-ALREADY_IN_GROUP: '#ALREADY_IN_GROUP'
-ALREADY_MARRIED: '#ALREADY_MARRIED'
-ALREADY_MAX_RARE: '#ALREADY_MAX_RARE'
-ALREADY_PET_IN_TEAM: '#ALREADY_PET_IN_TEAM'
+ACCEPTED_SHARE: ¡Has aceptado compartir el punto con {0}!
+ACT4_CHANNEL_OFFLINE: El canal de Acto 4 se encuentra desconectado
+ACT4_NEED_FACTION: Sólo aquellos con un poder de protección pueden acceder a Glacernon.
+ACT4_PVP_DEATH: EL poder de {1} ha sido robado por un guardián de los {0}.
+ACT4_PVP_DIE: ¡Has sido matado por un enemigo! Debido a la maldición de la Corona Congelada, ¡no podrás revivir hasta dentro de 30 segundos!
+ACT4_PVP_KILL: '{1} mató a un guardián de los {0}.'
+ACT4_RAID_OPEN: ¡El raid {0} está abierto!
+ADD_OPTION_ON_STUFF: ¿Quieres añadir las opciones a este objeto? Si es así, el objeto quedará vinculado a ti.
+ADD_OPTION_ON_STUFF_NOT_EMPTY: La antigua opción será reemplazada por la nueva. Tienes un 50% de posibilidades de ganar, si no, el objeto será destruido. ¿Quieres continuar?
+ADVENTURER: Aventurero
+ADVENTURERS_CANT_USE: ¡Los aventureros no pueden usar ese objeto!
+ALREADY_EXCHANGE: ¡El usuario se encuentra intercambiando!
+ALREADY_FRIEND: ¡Ya érais amigos!
+ALREADY_GOT_BUFF: Ya tienes {0}.
+ALREADY_IN_FAMILY: Ya te encuentras en una familia
+ALREADY_IN_GROUP: ¡Ya te encuentras en un grupo!
+ALREADY_MARRIED: ¡Ya estás casado!
+ALREADY_MAX_RARE: ¡Ya has alcanzado el máximo nivel de rareza!
+ALREADY_PET_IN_TEAM: Tu NosMate ya se encuentra en el equipo.
 ALREADY_QUEST: '#ALREADY_QUEST'
-ALREADY_TAKEN: '#ALREADY_TAKEN'
-ALREADY_THIS_MINILANDOBJECT: '#ALREADY_THIS_MINILANDOBJECT'
-ALREADY_TWO_ASSISTANT: '#ALREADY_TWO_ASSISTANT'
-AMMO_LOADED_ADVENTURER: '#AMMO_LOADED_ADVENTURER'
-AMMO_LOADED_ARCHER: '#AMMO_LOADED_ARCHER'
-AMMO_LOADED_SWORDSMAN: '#AMMO_LOADED_SWORDSMAN'
-AMULET_DESTROYED: '#AMULET_DESTROYED'
-AMULET_FAIL_SAVED: '#AMULET_FAIL_SAVED'
-ARCHER: '#ARCHER'
-ARENA_CALLED: '#ARENA_CALLED'
-ARENA_KILL: '#ARENA_KILL'
-ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
-ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
-ARENA_TALENT_LEFT: '#ARENA_TALENT_LEFT'
-ARENA_TEAM_FOUND: '#ARENA_TEAM_FOUND'
-ARENA_TEAM_LEAVE: '#ARENA_TEAM_LEAVE'
+ALREADY_TAKEN: ¡Este nombre ya está cogido!
+ALREADY_THIS_MINILANDOBJECT: Ya posees este objeto de minimundo
+ALREADY_TWO_ASSISTANT: ¡Ya tienes dos asistentes!
+AMMO_LOADED_ADVENTURER: ¡Munición recargada!
+AMMO_LOADED_ARCHER: ¡Flechas recargadas!
+AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
+AMULET_DESTROYED: 'PRECAUCIÓN : El hechizo de protección ha expirado'
+AMULET_FAIL_SAVED: El objeto no ha sido destruido gracias al amuleto
+ARCHER: Arquero
+ARENA_CALLED: 'Un participante ha llamado a: {0}'
+ARENA_KILL: '{0} ha sido asesinado por {1}.'
+ARENA_NOT_OPEN: La Arena de los Talentos se encuentra abierta de 18:00 a 22:00
+ARENA_PENALTY_NOTICE: Si cancelas la inscripción, sufrirás una penalización.
+ARENA_TALENT_LEFT: ¡Has abandonado la Arena de los Talentos con éxito!
+ARENA_TEAM_FOUND: ¡Participantes encontrados!
+ARENA_TEAM_LEAVE: Has abandonado el equipo con éxito
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
-ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
-ASK_BIND: '#ASK_BIND'
+ARENA_TICKET_LEFT: 'Participaciones restantes: {0}'
+ASK_BIND: ¿Quieres equiparte este objeto? Ésto hará que el objeto se vincule a tu personaje.
 ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
 ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
-ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
-ASK_ENTRY_IN_FIRST_ROOM: '#ASK_ENTRY_IN_FIRST_ROOM'
-ASK_FAMILY_INVITED: '#ASK_FAMILY_INVITED'
-ASK_JOIN_TEAM_TS: '#ASK_JOIN_TEAM_TS'
-ASK_KICK_PET: '#ASK_KICK_PET'
-ASK_OPEN_BOX: '#ASK_OPEN_BOX'
+ASK_CHANGE_SPAWNLOCATION: ¿Deseas cambiar el lugar de resurrección?
+ASK_ENTRY_IN_FIRST_ROOM: ¿Quieres comenzar la misión?
+ASK_FAMILY_INVITED: Has sido invitado a la familia {0}, ¿deseas unirte?
+ASK_JOIN_TEAM_TS: ¿Deseas unirte al equipo?
+ASK_KICK_PET: ¿Quieres dejar a tu NosMate en el miniumundo?
+ASK_OPEN_BOX: ¿Deseas abrir la caja?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
-ASK_PET_MAX: '#ASK_PET_MAX'
-ASK_RELEASE_PET: '#ASK_RELEASE_PET'
-ASK_REVIVE: '#ASK_REVIVE'
-ASK_REVIVE_FREE: '#ASK_REVIVE_FREE'
-ASK_REVIVE_LOD: '#ASK_REVIVE_LOD'
-ASK_REVIVE_PVP: '#ASK_REVIVE_PVP'
-ASK_REVIVE_TS: '#ASK_REVIVE_TS'
-ASK_REVIVE_TS_LOW_LEVEL: '#ASK_REVIVE_TS_LOW_LEVEL'
+ASK_PET_MAX: ¡Tu mascota ha alcanzado el máximo nivel!
+ASK_RELEASE_PET: ¿Quieres sacar a tu NosMate?
+ASK_REVIVE: ¿Deseas revivir? Te costará 10 Semillas del Poder
+ASK_REVIVE_FREE: ¿Deseas revivir? Será gratis
+ASK_REVIVE_LOD: ¿Deseas revivir? Te costará 1 Poción de Redención
+ASK_REVIVE_PVP: ¿Deseas revivir? Te costará 100 de Oro
+ASK_REVIVE_TS: ¿Deseas revivir?
+ASK_REVIVE_TS_LOW_LEVEL: ¿Deseas revivir?
 ASK_STORE_PET: '#ASK_STORE_PET'
-ASK_TO_DELETE: '#ASK_TO_DELETE'
-ASK_USE: '#ASK_USE'
-ASK_WINGS_CHANGE: '#ASK_WINGS_CHANGE'
-ASK_WITHDRAW_BANK: '#ASK_WITHDRAW_BANK'
-ASSISTANT_UNDEMOTABLE: '#ASSISTANT_UNDEMOTABLE'
-BACK_TO_MINILAND: '#BACK_TO_MINILAND'
-BAD_DROP_AMOUNT: '#BAD_DROP_AMOUNT'
-BAD_EQUIPMENT: '#BAD_EQUIPMENT'
-BAD_FAIRY: '#BAD_FAIRY'
+ASK_TO_DELETE: ¿Seguro que quieres eliminar este objeto?
+ASK_USE: ¿Quieres usar el objeto?
+ASK_WINGS_CHANGE: ¿Deseas cambiar tus alas?
+ASK_WITHDRAW_BANK: ¿Deseas retirar {0} de tu banco?
+ASSISTANT_UNDEMOTABLE: ¡No puedes degradar a otro asistente!
+BACK_TO_MINILAND: NosMate! Volverá al minimundo
+BAD_DROP_AMOUNT: Cantidad soltada incorrecta.
+BAD_EQUIPMENT: No puedes equiparte este item
+BAD_FAIRY: ¡El elemento del hada no coincide con el elemento de la SP!
 BAD_PASSWORD: '#BAD_PASSWORD'
 BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
-BANK_BALANCE: '#BANK_BALANCE'
-BANK_DEPOSIT: '#BANK_DEPOSIT'
-BLACKLIST_ADDED: '#BLACKLIST_ADDED'
-BLACKLIST_BLOCKED: '#BLACKLIST_BLOCKED'
-BLACKLIST_BLOCKING: '#BLACKLIST_BLOCKING'
-BLACKLIST_DELETED: '#BLACKLIST_DELETED'
+BANK_BALANCE: ¡TIenes {0} Oro en tu banco!
+BANK_DEPOSIT: ¿Quieres depositar {0} a tu banco?
+BLACKLIST_ADDED: ¡Personaje añadido a la lista negra!
+BLACKLIST_BLOCKED: ¡Este jugador te ha bloqueado!
+BLACKLIST_BLOCKING: ¡Tienes bloqueado a este jugador!
+BLACKLIST_DELETED: ¡Personaje eliminado de la lista negra!
 BROADCASTER: '#BROADCASTER'
-BUFF_BLOCKED: '#BUFF_BLOCKED'
-BUFF_UNLOCKED: '#BUFF_UNLOCKED'
-BUY_ITEM: '#BUY_ITEM'
-BUY_ITEM_VALID: '#BUY_ITEM_VALID'
-CALIGOR_REALM_CLOSED: '#CALIGOR_REALM_CLOSED'
-CALIGOR_REALM_LOCKED: '#CALIGOR_REALM_LOCKED'
-CALIGOR_REALM_OPEN: '#CALIGOR_REALM_OPEN'
+BUFF_BLOCKED: Iconos de bendiciones deshabilitados
+BUFF_UNLOCKED: Iconos de bendiciones habilitados
+BUY_ITEM: 'Jugador: {0} compra &lt;{1} {2}: piezas &gt;'
+BUY_ITEM_VALID: Has comprado {1} de {0}
+CALIGOR_REALM_CLOSED: El portal a Caligor está cerrado
+CALIGOR_REALM_LOCKED: El portal a Caligor está bloqueado
+CALIGOR_REALM_OPEN: El portal a Caligor está abierto
 CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
-CANNOT_LEAVE_FAMILY: '#CANNOT_LEAVE_FAMILY'
-CANT_ATTACK: '#CANT_ATTACK'
-CANT_CHANGE_MESSAGE: '#CANT_CHANGE_MESSAGE'
+CANNOT_LEAVE_FAMILY: El cabecilla no puede abandonar la familia.
+CANT_ATTACK: No puedes atacar en este momento.
+CANT_CHANGE_MESSAGE: Ya has modificado tu mensaje diario. ¡Inténtalo mañana!
 CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
-CANT_EQUIP_DESTROYED_SP: '#CANT_EQUIP_DESTROYED_SP'
+CANT_EQUIP_DESTROYED_SP: No puedes equipar una tarjeta del especialista destruida
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
-CANT_KICK_HEAD: '#CANT_KICK_HEAD'
+CANT_KICK_HEAD: No puedes expulsar al cabecilla.
 CANT_KICK_SAME_AUTHORITY: '#CANT_KICK_SAME_AUTHORITY'
-CANT_KICK_YOURSELF: '#CANT_KICK_YOURSELF'
-CANT_MOVE: '#CANT_MOVE'
-CANT_UPGRADE_DESTROYED_SP: '#CANT_UPGRADE_DESTROYED_SP'
-CANT_USE_ITEM: '#CANT_USE_ITEM'
+CANT_KICK_YOURSELF: No puedes expulsarte a ti mismo.
+CANT_MOVE: El teletransporte está en enfriamiento.
+CANT_UPGRADE_DESTROYED_SP: ¡No puedes mejorar una SP destruida!
+CANT_USE_ITEM: No puedes usar este item.
 CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
-CANT_USE_THAT: '#CANT_USE_THAT'
-CAPTURE_FAILED: '#CAPTURE_FAILED'
+CANT_USE_THAT: No puedes usar eso
+CAPTURE_FAILED: ¡Captura fallida! Inténtalo de nuevo
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: '#CAPTURE_MONSTER_CANNOT_BE_CAPTURED'
 CELLON_FULL: '#CELLON_FULL'
-CELLON_LEVEL_TOO_HIGH: '#CELLON_LEVEL_TOO_HIGH'
-CELLONING_FAILED: '#CELLONING_FAILED'
-CELLONING_SUCCESS: '#CELLONING_SUCCESS'
-CHANGED_SHARE: '#CHANGED_SHARE'
-CHANNEL: '#CHANNEL'
-CHARACTER_FAMILY_LOGGED_IN: '#CHARACTER_FAMILY_LOGGED_IN'
-CHARACTER_LOGGED_IN: '#CHARACTER_LOGGED_IN'
-CHARACTER_LOGGED_OUT: '#CHARACTER_LOGGED_OUT'
-CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
-CLASS_CHANGED: '#CLASS_CHANGED'
+CELLON_LEVEL_TOO_HIGH: El nivel del Cellon es superior al permitido por el accesorio.
+CELLONING_FAILED: El Cellon ha desaparecido porque has fallado al intentar añadir las opciones.
+CELLONING_SUCCESS: Opción añadida.
+CHANGED_SHARE: Has cambiado el punto de retorno de los miembros del grupo.
+CHANNEL: Canal
+CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) se ha conectado!'
+CHARACTER_LOGGED_IN: '{0} se ha conectado'
+CHARACTER_LOGGED_OUT: '{0} se ha desconectado'
+CHARACTER_NOT_IN_FRIENDLIST: Este jugador no se encuentra en tu lista de amigos
+CLASS_CHANGED: Tu clase ha sido cambiada.
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
 COMMANDS_TITLE: '#COMMANDS_TITLE'
 COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
 COMMANDS_USAGES: '#COMMANDS_USAGES'
-COMPLIMENT_COOLDOWN: '#COMPLIMENT_COOLDOWN'
-COMPLIMENT_GIVEN: '#COMPLIMENT_GIVEN'
-COMPLIMENT_LOGIN_COOLDOWN: '#COMPLIMENT_LOGIN_COOLDOWN'
-COMPLIMENT_NOT_MINLVL: '#COMPLIMENT_NOT_MINLVL'
-COMPLIMENT_RECEIVED: '#COMPLIMENT_RECEIVED'
+COMPLIMENT_COOLDOWN: Sólo puedes elogiar a un jugador por día.
+COMPLIMENT_GIVEN: Has elogiado a {0}
+COMPLIMENT_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de elogiar a alguien.
+COMPLIMENT_NOT_MINLVL: Sólo puedes elogiar a un jugador si has alcanzado el nivel 30.
+COMPLIMENT_RECEIVED: Has sido elogiado por {0}
 COSTUME_BLOCKED: '#COSTUME_BLOCKED'
 COSTUME_UNLOCKED: '#COSTUME_UNLOCKED'
-CRAFTED_OBJECT: '#CRAFTED_OBJECT'
-CREATE_FAMILY: '#CREATE_FAMILY'
-DIGNITY_LOST: '#DIGNITY_LOST'
+CRAFTED_OBJECT: "Has fabricado: {0} x {1}"
+CREATE_FAMILY: ¿Deseas crear tu familia?
+DIGNITY_LOST: Has perdido Dignidad
 DIGNITY_RESTORED: '#DIGNITY_RESTORED'
 DISMISS_FAMILY: '#DISMISS_FAMILY'
 DIVORCED: '#DIVORCED'
