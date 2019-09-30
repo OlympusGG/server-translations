@@ -1,57 +1,57 @@
-ACCEPTED_SHARE: 'Tausch wurde akzeptiert.'
-ACT4_CHANNEL_OFFLINE: 'Der Akt4 Channel ist offline.'
-ACT4_NEED_FACTION: 'Du benötigst die Kraft der Bewahrung, um Glacernon betreten zu können.'
-ACT4_PVP_DEATH: 'Die Kraft von {1} wurde von einem Hüter der {0} gestohlen.'
-ACT4_PVP_DIE: Der {0} Raid ist offen
-ACT4_PVP_KILL: '{1} hat einen Hüter der {0} getötet'
-ACT4_RAID_OPEN: 'Der {0} Raid ist geöffnet!'
-ADD_OPTION_ON_STUFF: Willst du die Option hinzufügen? Falls ja wird das Item an dich gebunden.
-ADD_OPTION_ON_STUFF_NOT_EMPTY: Die Option wird durch die neue ersetzt. Es besteht eine 50% Chance, ansonsten wird das Item zerstört. Willst du fortfahren?
-ADVENTURER: '#ADVENTURER'
+ACCEPTED_SHARE: Der Tausch wurde akzeptiert.
+ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
+ACT4_NEED_FACTION: Du benötigst die Kraft der Bewahrung, um Glacernon betreten zu können.
+ACT4_PVP_DEATH: Die Kraft von {1} wurde von einem Hüter der {0} gestohlen.
+ACT4_PVP_DIE: ''
+ACT4_PVP_KILL: Ein {1} hat einen Hüter der {0} getötet
+ACT4_RAID_OPEN: Der {0} Raid ist offen!
+ADD_OPTION_ON_STUFF: Durch das hinzufügen dieser Option wird das Item an dich gebunden.
+ADD_OPTION_ON_STUFF_NOT_EMPTY: Die Option wird durch eine neue ersetzt. Das Item kann mit einer Wahrscheinlichkeit von 50% zerstört werden, möchtest du fortfahren?
+ADVENTURER: Abenteurer
 ADVENTURERS_CANT_USE: Abenteurer können diesen Gegenstand nicht benutzen!
 ALREADY_EXCHANGE: Der Spieler tauscht bereits!
 ALREADY_FRIEND: Ihr seid bereits befreundet!
 ALREADY_GOT_BUFF: Du hast bereits {0}.
-ALREADY_IN_FAMILY: Du bist bereits in einer Familie
-ALREADY_IN_GROUP: Du bist bereits in einer Gruppe.
-ALREADY_MARRIED: Du bist bereits verheiratet.
-ALREADY_MAX_RARE: Das Item ist bereits vom maximalen Seltenheitslevel.
-ALREADY_PET_IN_TEAM: '#ALREADY_PET_IN_TEAM'
-ALREADY_QUEST: '#ALREADY_QUEST'
+ALREADY_IN_FAMILY: Du bist bereits Mitglied einer Familie.
+ALREADY_IN_GROUP: Du bist bereits Teil einer Gruppe.
+ALREADY_MARRIED: Du bist bereits mit jemandem verheiratet.
+ALREADY_MAX_RARE: Das Item hat bereits das maximale Sicherheitslevel erreicht.
+ALREADY_PET_IN_TEAM: ''
+ALREADY_QUEST: Diese Quest existiert bereits!
 ALREADY_TAKEN: Dieser Name existiert bereits!
-ALREADY_THIS_MINILANDOBJECT: Du hast diese Miniland Dekoration bereits.
+ALREADY_THIS_MINILANDOBJECT: Miniland Dekoration ist bereits vorhanden.
 ALREADY_TWO_ASSISTANT: Du hast bereits zwei Vertreter.
-AMMO_LOADED_ADVENTURER: Steine wurden geladen.
-AMMO_LOADED_ARCHER: Pfeile wurden geladen.
-AMMO_LOADED_SWORDSMAN: Bolzen wurden geladen.
-AMULET_DESTROYED: 'ACHTUNG: Der Schutzzauber ist abgelaufen'
-AMULET_FAIL_SAVED: Das Item wurde dank des Amuletts nicht zerstört
-ARCHER: '#ARCHER'
-ARENA_CALLED: 'Ein Teilnehmer wurde gerufen: {0}'
-ARENA_KILL: '{0} wurde von {1} getötet.'
-ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
+AMMO_LOADED_ADVENTURER: Steine nachgeladen.
+AMMO_LOADED_ARCHER: Pfeile nachgeladen.
+AMMO_LOADED_SWORDSMAN: Bolzen nachgeladen.
+AMULET_DESTROYED: ACHTUNG: Der umgebende Schutzzauber ist abgelaufen! 
+AMULET_FAIL_SAVED: Das Item wurde durch den aktiven Schutzzauber vor der Zerstörung bewahrt!
+ARCHER: Bogenschütze
+ARENA_CALLED: Ein Teilnehmer wurde gerufen: {0}
+ARENA_KILL: {0} wurde von {1} getötet.
+ARENA_NOT_OPEN: ''
 ARENA_PENALTY_NOTICE: Du stehst noch {0} Sekunden unter Strafe!
-ARENA_TALENT_LEFT: Arena Verlassen
-ARENA_TEAM_FOUND: Teilnehmer gefunden
+ARENA_TALENT_LEFT: Arena der Talente verlassen
+ARENA_TEAM_FOUND: Team gefunden
 ARENA_TEAM_LEAVE: Team verlassen
-ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
+ARENA_TEAM_LEFT: Dein Team hat die Arena verlassen
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
-ASK_BIND: Möchtest du das Item benutzen? Das Item wird dann an deinem Charakter gebunden sein.
+ASK_BIND: Das Item wird nach der Benutzung an deinen Charakter gebunden, möchtest du fortfahren?
 ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
 ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
 ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
-ASK_ENTRY_IN_FIRST_ROOM: Willst du die Mission starten?
-ASK_FAMILY_INVITED: Du wurdest in die {0} Familie eingeladen, möchtest du beitreten?
-ASK_JOIN_TEAM_TS: Willst du deiner Gruppe beitreten?
+ASK_ENTRY_IN_FIRST_ROOM: Möchtest du dich der Mission stellen?
+ASK_FAMILY_INVITED: Du wurdest in die Familie {0} eingeladen, möchtest du beitreten?
+ASK_JOIN_TEAM_TS: Willst du der Gruppe beitreten?
 ASK_KICK_PET: '#ASK_KICK_PET'
 ASK_OPEN_BOX: Raidkiste öffnen?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: Petslots um 10 erhöhen?
-ASK_RELEASE_PET: Soll das NosMate ins Miniland zurückkehren?
+ASK_RELEASE_PET: Soll dein NosMate ins Miniland zurückkehren?
 ASK_REVIVE: Hier fortfahren? Es werden 10 Saat der Macht verbraucht.
 ASK_REVIVE_FREE: Hier fortfahren? Es ist frei für Level 20 oder niedriger.
 ASK_REVIVE_LOD: Willst du einen Saviour Trank benutzen, um dich wiederzubeleben?
-ASK_REVIVE_PVP: Hier weitermachen? Dann wird 100 Gold benötigt.
+ASK_REVIVE_PVP: Hier weitermachen? Dies kostet dich 100 Gold.
 ASK_REVIVE_TS: Du wirst mit 50% HP/MP wiederbelebt!
 ASK_REVIVE_TS_LOW_LEVEL: Du wirst mit 50% HP/MP wiederbelebt!
 ASK_STORE_PET: Pet einpacken?
@@ -476,10 +476,10 @@ SHOP_NOT_ALLOWED_IN_RAID: Raidmitglieder können keine Shops öffnen.
 SHOP_ONLY_TRADABLE_ITEMS: Du kannst in einem Shop nur tauschbare Items verkaufen.
 SHOP_OPEN: Du hast einen Shop eröffnet.
 SHOP_PRIVATE_SHOP: Privater Shop
-SHOW_HAT: '#SHOW_HAT'
+SHOW_HAT: Hut anzeigen.
 SHUTDOWN_SEC: Server wird in {0} Sekunden heruntergefahren.
-SKILL_CANT_LEARN: Du kannst diesen Skill nicht lernen.
-SKILL_LEARNED: Du hast einen neuen Skill gelernt.
+SKILL_CANT_LEARN: Du kannst diesen Skill nicht erlernen.
+SKILL_LEARNED: Du hast einen neuen Skill erlernt.
 SKILL_NEED_COOLDOWN: '#SKILL_NEED_COOLDOWN'
 SKILLS_IN_LOADING: Sie müssen warten, bis die Fähigkeiten wieder aufgeladen werden
 SP_BLOCKED: Du kannst deine Spezialistenkarte jetzt nicht wechseln.
@@ -502,7 +502,7 @@ SUM_SUCCESS: Summieren erfolgreich!
 SUPER_REWARD: '{0} hat {1} aus einer mysteriösen Box erhalten !'
 SUPPORT: Support
 SURE_TO_DELETE: Wenn du den Gegenstand zerstörst, kann er nicht wiederhergestellt werden. Willst du ihn wirklich zerstören?
-SWORDSMAN: '#SWORDSMAN'
+SWORDSMAN: Schwertkämpfer
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
@@ -521,21 +521,21 @@ UI_BLOCKED: Die UI wurde gesperrt.
 UI_UNLOCKED: Die Sperrung der UI wurde aufgehoben.
 UNDER_EFFECT: Du bist unter dem Effekt von {0}
 UPGRADE_FAILED: Die Verbesserung ist fehlgeschlagen. Das Item ist verschwunden.
-UPGRADE_FAILED_ITEM_SAVED: Die Verbesserung ist fehlgeschlagen, doch das Item wurde vor der Zerstörung geschützt.
-UPGRADE_FIXED: '#UPGRADE_FIXED'
-UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
+UPGRADE_FAILED_ITEM_SAVED: Die Verbesserung ist fehlgeschlagen. Das Item wurde vor der Zerstörung geschützt.
+UPGRADE_FIXED: Das Item wurde fixiert.
+UPGRADE_SUCCESS: Verbesserung erfolgreich.
 UPGRADESP_DESTROYED: Spezialistenkarte wurde zerstört.
-UPGRADESP_FAILED: Die Verbesserung ist Fehlgeschlagen.
-UPGRADESP_FAILED_SAVED: Verbesserung Fehlgeschlagen, wurde nicht zerstört.
-UPGRADESP_SUCCESS: Die Verbesserung war Erfolgreich.
+UPGRADESP_FAILED: Die Verbesserung ist fehlgeschlagen.
+UPGRADESP_FAILED_SAVED: Verbesserung fehlgeschlagen, die Spezialistenkarte wurde nicht zerstört.
+UPGRADESP_SUCCESS: Die Verbesserung war erfolgreich.
 USER_NOT_CONNECTED: Spieler ist nicht online.
-USER_NOT_FOUND: Spieler nicht gefunden.
+USER_NOT_FOUND: Spieler wurde nicht gefunden.
 USER_NOT_FOUND_IN_ARENA: '#USER_NOT_FOUND_IN_ARENA'
 USER_NOT_HERO: '#USER_NOT_HERO'
 USER_ON_INSTANCEMAP: '#USER_ON_INSTANCEMAP'
 USER_WHISPER_BLOCKED: Der Kontakt will nicht angeflüstert werden.
-VICTORIOUS_ERENIA: Sieger! Erenia
-VICTORIOUS_ZENAS: Sieger! Zenas
+VICTORIOUS_ERENIA: Erenia hat gesiegt!
+VICTORIOUS_ZENAS: Zenas hat gesiegt!
 VISIBLE_TITLE_DISABLED: '#VISIBLE_TITLE_DISABLED'
 VISIBLE_TITLE_ENABLED: '#VISIBLE_TITLE_ENABLED'
 WANT_TO_SAVE_POSITION: Möchtest du deinen Standort speichern?
