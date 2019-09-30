@@ -1,10 +1,10 @@
-ACCEPTED_SHARE: Du hast eine Punkteteilung mit {0} bestätigt
-ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
-ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
-ACT4_PVP_DEATH: Die Kraft von {1} wurde von einem Hüter der {0} gestohlen.
+ACCEPTED_SHARE: 'Tausch wurde akzeptiert.'
+ACT4_CHANNEL_OFFLINE: 'Der Akt4 Channel ist offline.'
+ACT4_NEED_FACTION: 'Du benötigst die Kraft der Bewahrung, um Glacernon betreten zu können.'
+ACT4_PVP_DEATH: 'Die Kraft von {1} wurde von einem Hüter der {0} gestohlen.'
 ACT4_PVP_DIE: Der {0} Raid ist offen
 ACT4_PVP_KILL: '{1} hat einen Hüter der {0} getötet'
-ACT4_RAID_OPEN: Der {0} Raid ist geöffnet !
+ACT4_RAID_OPEN: 'Der {0} Raid ist geöffnet!'
 ADD_OPTION_ON_STUFF: Willst du die Option hinzufügen? Falls ja wird das Item an dich gebunden.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: Die Option wird durch die neue ersetzt. Es besteht eine 50% Chance, ansonsten wird das Item zerstört. Willst du fortfahren?
 ADVENTURER: '#ADVENTURER'
@@ -543,20 +543,20 @@ WARNING_INFO: 'Du wurdest verwarnt: {0} mal.'
 WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
 WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
 WELCOME_MUSIC_INFO: Frühlings-Melodie
-WHISPER_BLOCKED: Von jetzt an blockst du Flüstern.
-WHISPER_UNLOCKED: Von jetzt an akzeptierst du Flüstern.
+WHISPER_BLOCKED: Flüstern wird von jetzt an blockiert.
+WHISPER_UNLOCKED: Flüstern wird von jetzt an akzeptiert.
 WILL_BE_BACK: '{0} ist gestorben !  Es wird in 3 Minuten wiederbelebt'
 WIN_MONEY: 'Geld: +{0}'
 WIN_REPUT: 'Ruf: +{0}'
 WIN_SP_POINT: 'SP Punkte: +{0}'
 WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
-XP_NOTFIRSTHIT: Da du nicht den ersten Schlag gemacht hast, erhältst du nur einen teil der Erfahrungspunkte.
-YOU_ARE_RAID_LEADER: '#YOU_ARE_RAID_LEADER'
-YOU_ASK_FOR_EXCHANGE: '#YOU_ASK_FOR_EXCHANGE'
+XP_NOTFIRSTHIT: 'Du hast nicht den ersten Schlag gemacht, und erhälst daher nur einen Teil der Erfahrungspunkte.
+YOU_ARE_RAID_LEADER: 'Du wurdest zum Raidleiter ernannt'
+YOU_ASK_FOR_EXCHANGE: 'Ein Handel wurde angefragt'
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
-YOU_GET_PET: 'Du bekommst ein Haustier mit dem Namen: {0}'
+YOU_GET_PET: 'Du erhälst ein Haustier mit dem Namen: {0}'
 YOU_HAVE_LIFE: '#YOU_HAVE_LIFE'
 YOU_HAVE_LIFE_RAID: '#YOU_HAVE_LIFE_RAID'
-YOU_REFUSED: Handel abgelehnt!
-ZENAS: Du bist im Team Zenas.
+YOU_REFUSED: Handel wurde abgelehnt!
+ZENAS: Du bist dem Zenas Team beigetreten.
