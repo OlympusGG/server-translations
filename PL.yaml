@@ -126,6 +126,7 @@ DIGNITY_LOST: 'Zmniejszono godność: {0}'
 DIGNITY_RESTORED: Twoja godność została odnowiona!
 DISMISS_FAMILY: Opuść rodzinę
 DIVORCED: Małzeństwo zostało rozwiązane.
+DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
 DO_YOU_WANT_START_RAID: Czy chcesz rozpocząć rajd?
 DONE: Zapisano zmiany.
 DROP_MAP_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
@@ -180,6 +181,10 @@ FRIEND_REQ_UNLOCKED: Zaproszenia do przyjaciół zostały odblokowane
 FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
 GAME_MASTER_OFF: Nie możesz tego zrobić!
+GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
+GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
+GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
@@ -300,6 +305,7 @@ MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od two
 MONSTER_MUST_BE_LOW_HP: Potwór musi posiadać 50% Punktów Zdrowia, aby go złapać.
 MOTD_HELP_COMMAND: Jeśli potrzebujesz pomocy, wpisz komendę $help
 MOTD_LANG_COMMAND: Jeśli chcesz zmienić język, wpisz $help lang
+MOTD_WELCOME: '#MOTD_WELCOME'
 MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
 MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
@@ -469,6 +475,8 @@ SHELL_RARITY_TOO_HIGH: Unikalność osłony jest zbyt wysoka.
 SHIP_MINUTES: Statek odpłynie za {0} min.
 SHIP_SECONDS: Statek odpłynie za {0} sek.
 SHIP_SETOFF: Statek odpływa!
+SHOP_ALREADY_OPEN: '#SHOP_ALREADY_OPEN'
+SHOP_DEFAULT_NAME: '#SHOP_DEFAULT_NAME'
 SHOP_EMPTY: Sklep nie może być pusty!
 SHOP_NEAR_PORTAL: Nie możesz otworzyć sklepu blisko portalu!
 SHOP_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu!

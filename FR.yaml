@@ -126,6 +126,7 @@ DIGNITY_LOST: 'Dignité réduite : --{0}'
 DIGNITY_RESTORED: Dignité restorée !
 DISMISS_FAMILY: '#DISMISS_FAMILY'
 DIVORCED: Tu es à présent divorcé
+DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
 DO_YOU_WANT_START_RAID: Veux-tu commencer le raid ?
 DONE: 'La commande a été appliquée avec succès '
 DROP_MAP_FULL: Il y a trop d'objets au sol pour le moment, réessayez plus tard.
@@ -180,6 +181,10 @@ FRIEND_REQ_UNLOCKED: A partir de maintenant, tu débloques les demandes d'amis.
 FRIEND_REQUEST_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FXP_INCREASE: '{0} a rapporté {1} FXP en montant niveau {2}'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
+GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
+GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
+GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
 GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
@@ -300,6 +305,7 @@ MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
 MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
+MOTD_WELCOME: '#MOTD_WELCOME'
 MOUSE_LOCKED: A partir de maintenant, tu bloques le suivi de cible.
 MOUSE_UNLOCKED: A partir de maintenant, tu débloques le suivi de cible
 MSG_UNDER_CHAT0: Ne partagez pas votre mot de passe !
@@ -469,6 +475,8 @@ SHELL_RARITY_TOO_HIGH: La rareté de la rune est trop élevée pour être appliq
 SHIP_MINUTES: Le bateau partira dans {0} minutes.
 SHIP_SECONDS: Le bateau va larguer les amarres dans  {0} secondes.
 SHIP_SETOFF: '#SHIP_SETOFF'
+SHOP_ALREADY_OPEN: '#SHOP_ALREADY_OPEN'
+SHOP_DEFAULT_NAME: '#SHOP_DEFAULT_NAME'
 SHOP_EMPTY: Aucun objet ne peut être vendu.
 SHOP_NEAR_PORTAL: Tu ne peux pas ouvrir le magasin près du portail.
 SHOP_NOT_ALLOWED: Tu ne peux pas ouvrir de magasin dans cette zone.
