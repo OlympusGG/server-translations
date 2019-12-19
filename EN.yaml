@@ -153,9 +153,9 @@ EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
 FAIRY_LEVELUP: Your {0} level increased
 FAIRYMAX: Your fairy has reached max level!
 FAIRYSTATS: 'Fairy XP: {0}/{1}'
-FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family
 FAMILY_FOUNDED: The family {0} was founded!
-FAMILY_FULL: '#FAMILY_FULL'
+FAMILY_FULL: Family is full
 FAMILY_GROUP_NOT_FULL: You can't create family without full group!
 FAMILY_HEAD_CHANGE_GENDER: '#FAMILY_HEAD_CHANGE_GENDER'
 FAMILY_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
@@ -163,10 +163,10 @@ FAMILY_INVITED: Player {0} has been invited!
 FAMILY_JOINED: Player {0} joined the family {1}!
 FAMILY_LEAVE: '#FAMILY_LEAVE'
 FAMILY_NAME_ALREADY_USED: This family name is already in use!
-FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
-FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
-FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
-FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
+FAMILY_RANK_ASSISTANT: Assistant
+FAMILY_RANK_HEAD: Head
+FAMILY_RANK_MANAGER: Manager
+FAMILY_RANK_MEMBER: Member
 FAMILY_REQ_LOCKED: Family request blocked
 FAMILY_REQ_UNLOCKED: Family request allowed
 FAMILY_UP: The family level increased
