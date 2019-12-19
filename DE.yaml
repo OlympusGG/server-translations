@@ -61,10 +61,10 @@ ASK_WINGS_CHANGE: Möchtest du deine Flügel wechseln?
 ASK_WITHDRAW_BANK: Willst du {0} Gold abheben?
 ASSISTANT_UNDEMOTABLE: Du kannst keinen weiteren Vertreter degradieren!
 BACK_TO_MINILAND: Dein NosMate ist gestorben! Es kehrt ins Mini-Land zurück!
+BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Falsche Anzahl zum wegwerfen.
 BAD_EQUIPMENT: Dein Charakter entspricht nicht allen Anforderungen, um diesen Gegenstand zu tragen!
 BAD_FAIRY: Die Spezialistenkarte und deine Fee haben unterschiedliche Attribute.
-BAD_PASSWORD: '#BAD_PASSWORD'
 BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: 'Cuarry Bank : Du hast {0} Gold'
 BANK_DEPOSIT: 'Cuarry Bank : Du hast gerade {0} Gold eingezahlt'
@@ -101,6 +101,7 @@ CELLON_FULL: Du hast die maximale Anzahl an Optionen erreicht.
 CELLON_LEVEL_TOO_HIGH: Das Cellon Level ist höher als das des Schmucks.
 CELLONING_FAILED: Das Cellon ist verschwunden, da das hinzufügen einer Option fehlgeschlagen ist.
 CELLONING_SUCCESS: Es wurden Optionen hinzugefügt.
+CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
 CHANGED_SHARE: Du hast den Rückkehrort mit deiner Gruppe geteilt.
 CHANNEL: Channel
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) hat sich gerade eingeloggt!'
@@ -180,6 +181,7 @@ FRIEND_REQ_BLOCKED: Von jetzt an blockst du Freundschaftsanfragen.
 FRIEND_REQ_UNLOCKED: Von jetzt an akzeptierst du Freundschaftsanfragen.
 FRIEND_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FXP_INCREASE: Deine Familie hat {0} Erfahrungspunkte gesammelt.
+GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
@@ -249,6 +251,7 @@ ITEM_ACQUIRED: Du hast ein Item erhalten
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Du hast den Gegenstand vom großen Monster erhalten!
 ITEM_ACQUIRED_LOD: '{0} hat Item erhalten: {1}'
 ITEM_BOUND_TO: '{1} hat {0} x {2} fallen gelassen.'
+ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: Du hast ein Item erhalten &gt;&gt;
 ITEM_IS_FIXED: Das Item ist fixiert.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
@@ -380,7 +383,7 @@ PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
 PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: '#PARTNER_AUTO_RELIVE_DISABLED'
 PARTNER_AUTO_RELIVE_ENABLED: '#PARTNER_AUTO_RELIVE_ENABLED'
-PARTNER_BACKPACK: '#PARTNER_BACKPACK'
+PARTNER_ITEM_DONE: '#PARTNER_ITEM_DONE'
 PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
 PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'

@@ -61,10 +61,10 @@ ASK_WINGS_CHANGE: Czy zmienić skrzydła na tej karcie specjalisty?
 ASK_WITHDRAW_BANK: 'Czy chcesz wypłacić złoto z banku? Ilość: '
 ASSISTANT_UNDEMOTABLE: Nie możesz zdegradować innego zastępcy!
 BACK_TO_MINILAND: Twój sojusznik wrócił do Mini-Landu z powodu braku Ziaren Mocy.
+BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
-BAD_PASSWORD: Hasło jest niepoprawne.
 BANK_ASK_DEPOSIT: Czy chcesz wpłacić {0}000 szt. złota na swoje konto?
 BANK_BALANCE: 'Stan konta: {0} złota.'
 BANK_DEPOSIT: 'Wpłacono: {0}000 złota'
@@ -101,6 +101,7 @@ CELLON_FULL: Akcesorium jest już pełne.
 CELLON_LEVEL_TOO_HIGH: Poziom cellonu jest zbyt wysoki dla tej biżuterii.
 CELLONING_FAILED: Cellon zniknął, ponieważ nie udało się dodać opcji.
 CELLONING_SUCCESS: Dodano opcje!
+CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
 CHANGED_SHARE: Zmieniono wspólny punkt powrotu członków grupy.
 CHANNEL: Kanał
 CHARACTER_FAMILY_LOGGED_IN: '{0}{1} zalogował się.'
@@ -180,6 +181,7 @@ FRIEND_REQ_BLOCKED: Zaproszenia do przyjaciół zostały zablokowane
 FRIEND_REQ_UNLOCKED: Zaproszenia do przyjaciół zostały odblokowane
 FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
+GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: Nie możesz tego zrobić!
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
@@ -249,6 +251,7 @@ ITEM_ACQUIRED: Otrzymano
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Otrzymano nową paczkę!
 ITEM_ACQUIRED_LOD: 'Otrzymano przedmiot:'
 ITEM_BOUND_TO: '(Grupa) [{1}]: {2}x {0}'
+ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: Otrzymano paczkę.
 ITEM_IS_FIXED: Nie możesz ulepszyć przedmiotu, który jest utrwalony.
 ITEM_IS_HEROIC: Jest to bohaterski przedmiot!
@@ -380,7 +383,7 @@ PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
 PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: Po śmierci NosKumpel wróci do Mini-Landu.
 PARTNER_AUTO_RELIVE_ENABLED: Po śmierci NosKumpel zostanie ożywiony Ziarnami Mocy.
-PARTNER_BACKPACK: Czy otworzyć plecak partnera?
+PARTNER_ITEM_DONE: '#PARTNER_ITEM_DONE'
 PARTNER_NO_SP_EQUIPPED: Partner nie ma założnej Karty Specjalisty
 PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'

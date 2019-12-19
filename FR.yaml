@@ -61,10 +61,10 @@ ASK_WINGS_CHANGE: Voulez-vous changer l'apparence de vos ailes ?
 ASK_WITHDRAW_BANK: Souhaitez-vous retirer {0} Or de la banque ?
 ASSISTANT_UNDEMOTABLE: Tu ne peux pas enlever le pouvoir de cet assistant.
 BACK_TO_MINILAND: Retour au mini pays ?
+BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Valeur incorrecte d'objets
 BAD_EQUIPMENT: Ton personnage ne remplit pas les conditions pour s'équiper de cet objet.
 BAD_FAIRY: La carte spécialiste et ta fée ont des élements différents.
-BAD_PASSWORD: '#BAD_PASSWORD'
 BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
 BANK_BALANCE: 'Montant de la banque : {0} Or'
 BANK_DEPOSIT: Souhaitez-vous déposer {0} Or dans la banque ?
@@ -101,6 +101,7 @@ CELLON_FULL: Ce bijou possède déjà le nombre maximal d'améliorations.
 CELLON_LEVEL_TOO_HIGH: Le niveau du cellon est trop élevé pour cet objet.
 CELLONING_FAILED: Le cellon a disparu, car tu n'as pas réussi à ajouter des options.
 CELLONING_SUCCESS: Options ajoutées.
+CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
 CHANGED_SHARE: Tu as changé le point de retour commun au groupe.
 CHANNEL: Canal
 CHARACTER_FAMILY_LOGGED_IN: "{0}({1}) s'est connecté."
@@ -180,6 +181,7 @@ FRIEND_REQ_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FRIEND_REQ_UNLOCKED: A partir de maintenant, tu débloques les demandes d'amis.
 FRIEND_REQUEST_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FXP_INCREASE: '{0} a rapporté {1} FXP en montant niveau {2}'
+GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
@@ -249,6 +251,7 @@ ITEM_ACQUIRED: 'Tu as reçu un objet '
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Tu as obtenu l'objet du monstre géant
 ITEM_ACQUIRED_LOD: Tu as reçu {0} x {1}
 ITEM_BOUND_TO: '(Groupe) Priorité à : {1] : {0} x [2}'
+ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: Vous avez reçu un paquet !
 ITEM_IS_FIXED: Niveau de mise à niveau d'objet est verrouillé.
 ITEM_IS_HEROIC: Cet objet est héroïque
@@ -380,7 +383,7 @@ PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
 PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
 PARTNER_AUTO_RELIVE_DISABLED: '#PARTNER_AUTO_RELIVE_DISABLED'
 PARTNER_AUTO_RELIVE_ENABLED: '#PARTNER_AUTO_RELIVE_ENABLED'
-PARTNER_BACKPACK: '#PARTNER_BACKPACK'
+PARTNER_ITEM_DONE: '#PARTNER_ITEM_DONE'
 PARTNER_NO_SP_EQUIPPED: '#PARTNER_NO_SP_EQUIPPED'
 PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
