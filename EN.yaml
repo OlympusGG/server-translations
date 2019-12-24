@@ -283,6 +283,8 @@ LVL_REQUIRED: Specialist with level {0} required for upgrade!
 MAGICAN: '#MAGICAN'
 MAIL_DELETED: The mail has been removed!
 MAILED: You've sent a mail!
+MARRIED_BROADCAST: '#MARRIED_BROADCAST'
+MARRIED_REFUSED_BROADCAST: '#MARRIED_REFUSED_BROADCAST'
 MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Maximum amount of gold reached!
 MAX_GOLD_BANK_REACHED: Maximum amount of gold reached in bank

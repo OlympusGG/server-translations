@@ -283,6 +283,8 @@ LVL_REQUIRED: Lo specialista deve essere almeno di livello {0} per essere miglio
 MAGICAN: '#MAGICAN'
 MAIL_DELETED: La nota è stata cancellata.
 MAILED: Hai spedito una nota.
+MARRIED_BROADCAST: '#MARRIED_BROADCAST'
+MARRIED_REFUSED_BROADCAST: '#MARRIED_REFUSED_BROADCAST'
 MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Massimo soldi raggiunto!
 MAX_GOLD_BANK_REACHED: Massimo soldi raggiunto nella banca

@@ -283,6 +283,8 @@ LVL_REQUIRED: '{0} niveaux de métiers sont nécessaires pour équiper la carte 
 MAGICAN: '#MAGICAN'
 MAIL_DELETED: La note a été supprimée.
 MAILED: La note a été envoyée.
+MARRIED_BROADCAST: '#MARRIED_BROADCAST'
+MARRIED_REFUSED_BROADCAST: '#MARRIED_REFUSED_BROADCAST'
 MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Le montant maximal d'or a été atteint.
 MAX_GOLD_BANK_REACHED: Le montant maximal d'or en banque a été atteint.

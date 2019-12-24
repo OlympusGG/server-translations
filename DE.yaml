@@ -283,6 +283,8 @@ LVL_REQUIRED: Du benötigst Joblevel {0} für die Verbesserung der Spezialistenk
 MAGICAN: '#MAGICAN'
 MAIL_DELETED: Die Nachricht wurde gelöscht!
 MAILED: Deine Nachricht wurde versendet!
+MARRIED_BROADCAST: '#MARRIED_BROADCAST'
+MARRIED_REFUSED_BROADCAST: '#MARRIED_REFUSED_BROADCAST'
 MARTIAL_ART: '#MARTIAL_ART'
 MAX_GOLD: Du hast das Goldlimit erreicht.
 MAX_GOLD_BANK_REACHED: Du hast das Bank Goldlimit erreicht.
