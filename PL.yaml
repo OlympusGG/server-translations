@@ -58,7 +58,7 @@ ASK_STORE_PET: Czy na pewno chcesz umieścić NosKumpla w perle?
 ASK_TO_DELETE: Przedmiot zostanie zniszczony, czy na pewno chcesz się go pozbyć?
 ASK_USE: Czy chcesz użyć tego przedmiotu?
 ASK_WINGS_CHANGE: Czy zmienić skrzydła na tej karcie specjalisty?
-ASK_WITHDRAW_BANK: 'Czy chcesz wypłacić złoto z banku? Ilość: '
+ASK_WITHDRAW_BANK: Czy chcesz wypłacić {0}000 szt. złota ze swojego konto?
 ASSISTANT_UNDEMOTABLE: Nie możesz zdegradować innego zastępcy!
 BACK_TO_MINILAND: Twój sojusznik wrócił do Mini-Landu z powodu braku Ziaren Mocy.
 BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
@@ -75,7 +75,7 @@ BLACKLIST_DELETED: Usunięto z czarnej listy.
 BROADCASTER: Administrator
 BUFF_BLOCKED: Ikony buffów zablokowane
 BUFF_UNLOCKED: Ikony buffów odblokowane
-BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
+BUY_ITEM_PLAYER: Gracz {0} zakupił {2}x {1}
 BUY_ITEM_VALID: Kupiono {1}x {0}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
@@ -123,6 +123,7 @@ COSTUME_BLOCKED: Kostiumy zostały zablokowane
 COSTUME_UNLOCKED: Kostiumy zostały odblokowane
 CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 CREATE_FAMILY: 'Nazwa rodziny:'
+CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
 DIGNITY_LOST: 'Zmniejszono godność: {0}'
 DIGNITY_RESTORED: Twoja godność została odnowiona!
 DISMISS_FAMILY: Opuść rodzinę
@@ -303,7 +304,7 @@ MINILAND_LOCK: Mini-Land jest zablokowany.
 MINILAND_NEED_LOCK: Musisz ustawić Mini-Land na zablokowany, aby móc modyfikować.
 MINILAND_PRIVATE: Mini-Land jest prywatny.
 MINILAND_PUBLIC: Mini-Land jest publiczny.
-MINILAND_VISITOR: 'Łączna liczba wizyt: {0}. Dzienna liczba wizyt: {1}'
+MINILAND_VISITOR: 'Łączna liczba wizyt: {0} Dzienna liczba wizyt: {1}'
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
 MOB_LVL_MUST_BE_LESS: Musisz mieć wyższy poziom od potwora, którego chcesz złapać!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od twojego, aby go schwytać!
@@ -359,7 +360,7 @@ NOT_ENOUGH_INGREDIENT: Brak wymaganych przedmiotów!
 NOT_ENOUGH_ITEMS: 'Nie masz wystarczająco przedmiotów: {1}x {0}'
 NOT_ENOUGH_MINILAND_POINT: Niewystarczająca ilość punktów produkcji.
 NOT_ENOUGH_MP: Nie masz wystarczająco punktów many!
-NOT_ENOUGH_PLACE: Za mało miejsca
+NOT_ENOUGH_PLACE: Nie masz wystarczająco miejsca w ekwipunku!
 NOT_ENOUGH_POINTS: Brak wystarczająco punktów!
 NOT_ENOUGH_POWER_SEED: Niewystarczająca ilość Ziaren Mocy.
 NOT_ENOUGH_REPUT: Niewystarczająca ilość reputacji.
@@ -553,8 +554,8 @@ VISIBLE_TITLE_DISABLED: Wyłączono widoczność tytułu!
 VISIBLE_TITLE_ENABLED: Włączono widoczność tytułu!
 WANT_TO_SAVE_POSITION: Czy chcesz zapisać swoją pozycję?
 WARNING_INFO: 'Ilość otrzymanych ostrzeżeń: {0}.'
-WEDDING_REQUEST_RECEIVED: 'Czy chcesz przyjąć ślub od gracza {0}?'
-WEDDING_REQUEST_VERIFICATION: 'Czy na pewno chcesz poślubić gracza {0}?'
+WEDDING_REQUEST_RECEIVED: Czy chcesz przyjąć ślub od gracza {0}?
+WEDDING_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
 WELCOME_MUSIC_INFO: Wiosenna^Melodia
 WHISPER_BLOCKED: Szepty zostały zablokowane
 WHISPER_UNLOCKED: Szepty zostały odblokowane

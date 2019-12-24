@@ -123,6 +123,7 @@ COSTUME_BLOCKED: '#COSTUME_BLOCKED'
 COSTUME_UNLOCKED: '#COSTUME_UNLOCKED'
 CRAFTED_OBJECT: "You've crafted: {0} x {1}"
 CREATE_FAMILY: Do you want to create your family?
+CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
 DIGNITY_LOST: You lost Dignity
 DIGNITY_RESTORED: Your Dignity has been restored !
 DISMISS_FAMILY: Do you want to dismiss yur family?
