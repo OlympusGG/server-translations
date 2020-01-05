@@ -123,7 +123,7 @@ COSTUME_BLOCKED: Kostiumy zostały zablokowane
 COSTUME_UNLOCKED: Kostiumy zostały odblokowane
 CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 CREATE_FAMILY: 'Nazwa rodziny:'
-CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
+CUARRY_BANK_ITEM_IN_EQ: Już posiadasz Książeczkę Oszczędnościową Banku Cuarry
 DIGNITY_LOST: 'Zmniejszono godność: {0}'
 DIGNITY_RESTORED: Twoja godność została odnowiona!
 DISMISS_FAMILY: Opuść rodzinę
@@ -248,13 +248,13 @@ INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
 INVITED_YOU_SHARE: Czy chcesz ustawić punkt powrotu od gracza {0}?
-ITEM_ACQUIRED: Otrzymano
+ITEM_ACQUIRED: Otrzymano: {0}x {1}
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Otrzymano nową paczkę!
 ITEM_ACQUIRED_LOD: 'Otrzymano przedmiot:'
 ITEM_BOUND_TO: '(Grupa) [{1}]: {2}x {0}'
 ITEM_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_GIFTED: Otrzymano paczkę.
-ITEM_IS_FIXED: Nie możesz ulepszyć przedmiotu, który jest utrwalony.
+ITEM_IS_FIXED: Przedmiot jest utrwalony!
 ITEM_IS_HEROIC: Jest to bohaterski przedmiot!
 ITEM_NO_HEROIC: Nie jest to bohaterski przedmiot!
 ITEM_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
@@ -357,7 +357,7 @@ NOT_ENOUGH_DURABILITY_POINT: Brak wystarczającej punktów trwałości
 NOT_ENOUGH_FUNDS: Brak funduszy
 NOT_ENOUGH_GOLD: Niewystarczająca ilość złota
 NOT_ENOUGH_INGREDIENT: Brak wymaganych przedmiotów!
-NOT_ENOUGH_ITEMS: 'Nie masz wystarczająco przedmiotów: {1}x {0}'
+NOT_ENOUGH_ITEMS: 'Nie masz wystarczająco przedmiotów: {0}x {1}'
 NOT_ENOUGH_MINILAND_POINT: Niewystarczająca ilość punktów produkcji.
 NOT_ENOUGH_MP: Nie masz wystarczająco punktów many!
 NOT_ENOUGH_PLACE: Nie masz wystarczająco miejsca w ekwipunku!
