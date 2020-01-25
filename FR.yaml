@@ -1,4 +1,7 @@
 ACCEPTED_SHARE: Echange accepté.
+ACHIEVEMENT_CHAT_MESSAGE: '#ACHIEVEMENT_CHAT_MESSAGE'
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: '#ACHIEVEMENT_CHAT_PLAYER_MESSAGE'
+ACHIEVEMENT_GOLDEN_MESSAGE: '#ACHIEVEMENT_GOLDEN_MESSAGE'
 ACT4_CHANNEL_OFFLINE: Canal Act4 déconnecté.
 ACT4_NEED_FACTION: Vous devez appartenir à une faction
 ACT4_PVP_DEATH: Un membre de votre camp est mort
@@ -93,6 +96,7 @@ CANT_KICK_YOURSELF: Tu ne peux pas te virer toi même
 CANT_MOVE: Tu pourras bientôt te déplacer.
 CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas l'améliorer car l'âme est détruite.
 CANT_USE_ITEM: Tu ne peux pas utiliser l'objet.
+CANT_USE_MSG_BUBBLE: '#CANT_USE_MSG_BUBBLE'
 CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: Tu ne peux pas effectuer cette action maintenant.
 CAPTURE_FAILED: La capture a échouée
@@ -111,7 +115,6 @@ CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
 CLASS_CHANGED: Félicitations. Tu as changé de métier !
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
-COMMANDS_TITLE: '#COMMANDS_TITLE'
 COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
 COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: Tu ne peux admirer un joueur qu'une seule fois par jour.
@@ -159,6 +162,8 @@ FAMILY_FOUNDED: Félicitations ! La famille {0} a été fondée !
 FAMILY_FULL: Ta famille est pleine !
 FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
 FAMILY_HEAD_CHANGE_GENDER: La famille a désormais changé de faction
+FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
+FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
 FAMILY_INVITATION_NOT_ALLOWED: Tu n'as pas les autorisations nécessaires pour inviter des joueurs.
 FAMILY_INVITED: '{0} a été invité'
 FAMILY_JOINED: '{0} a rejoint : {1}'
@@ -244,6 +249,7 @@ INSTANTBATTLE_SECONDS: Dans {0} secondes un combat instantané va commencer.
 INSTANTBATTLE_SECONDS_REMAINING: La bataille se termine dans {0} secondes.
 INSTANTBATTLE_STARTED: Un combat instantané a commencé
 INSTANTBATTLE_SUCCEEDED: 'Tu as gagné le combat instanté ! Félicitations '
+INTRODUCTION_SET: '#INTRODUCTION_SET'
 INVALID_CHARNAME: Ce nom contient des caractères invalides
 INVITED_YOU: "{0} t'a invité dans un groupe"
 INVITED_YOU_RAID: "{0} t'a invité à rejoindre le raid {1}"
@@ -256,6 +262,7 @@ ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: Vous avez reçu un paquet !
 ITEM_IS_FIXED: Niveau de mise à niveau d'objet est verrouillé.
 ITEM_IS_HEROIC: Cet objet est héroïque
+ITEM_IS_WITHOUT_SHELLS: '#ITEM_IS_WITHOUT_SHELLS'
 ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: '#ITEM_NOT_DROPPABLE'
 ITEM_NOT_DROPPABLE_HERE: L'objet ne peut pas être ramassé ici.
@@ -306,7 +313,6 @@ MINILAND_PRIVATE: le Mini-Pays est maintenant privé.
 MINILAND_PUBLIC: Le Mini-Pays est maintenant ouvert au public
 MINILAND_VISITOR: "Total des visiteurs : {0} Visiteurs d'aujourd'hui : {1}"
 MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
-MOB_LVL_MUST_BE_LESS: Le niveau du monstre doit être inférieur au vôtre pour être capturé
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
 MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
@@ -328,6 +334,7 @@ MUST_BE_IN_CLASSIC_MAP: Vous n'êtes pas sur une map générale
 MUTE_TIME: '#MUTE_TIME'
 MUTED_FEMALE: Je subis une pénalité
 MUTED_MALE: Je subis une pénalité
+NB_ITEM_SOLD: '#NB_ITEM_SOLD'
 NEED_FAMILY: '#NEED_FAMILY'
 NEED_PERFUM_TO_CHANGE_SHELL: Tu ne peux pas changer la rune de cet équipement, l'âme est liée à un autre joueur.
 NEED_TEAM: "Une équipe de raid doit d'abord avoir été formée "
@@ -400,6 +407,7 @@ PERFECTSP_LIGHT: Lumière
 PERFECTSP_SHADOW: Obscurité
 PERFECTSP_SUCCESS: 'Le Perfectionnement de la carte spécialiste a réussi ! : {0} +{1}'
 PERFECTSP_WATER: Eau
+PET_ALREADY_CAN_PICK_UP: '#PET_ALREADY_CAN_PICK_UP'
 PET_AUTO_RELIVE_DISABLED: '#PET_AUTO_RELIVE_DISABLED'
 PET_AUTO_RELIVE_ENABLED: '#PET_AUTO_RELIVE_ENABLED'
 PET_CAN_PICK_UP: A partir de maintenant le familier peut ramasser les objets
@@ -417,6 +425,7 @@ PORTAL_BLOCKED: Vous ne pouvez pas utiliser ce portail... il est bloqué !
 PRICE_EXCEEDED: La limite de prix est dépassée
 QNA_ITEM: Souhaites-tu utiliser cet objet ?
 QUEST_ALREADY_DONE: La quête est déjà completée
+QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
 QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: La quête est d'un niveau trop haut pour vous
 QUEST_TOO_LOW_LVL: La quête est d'un niveau trop inférieur pour vous
@@ -463,7 +472,6 @@ SELECT_ORDER_ARENA: Choisis l'ordre dans lequel les participants vont combattre 
 SELECT_ORDER_ARENA_TIME: 'Plus que 1 minute avant le début du combat ! Bonne chance '
 SELL_ITEM_VALIDE: L'objet n'est pas vendable
 SERVER_INFORMATION: '#SERVER_INFORMATION'
-SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Tu as changé de sexe.
 SHARING: La collecte d'objet a été modifiée, partager en tant que groupe
 SHARING_BY_ORDER: La collecte d'objet a été modifiée, partager en ordre
@@ -489,12 +497,11 @@ SHOP_NOT_ALLOWED: Tu ne peux pas ouvrir de magasin dans cette zone.
 SHOP_NOT_ALLOWED_IN_RAID: Tu ne peux pas ouvrir de magasin pendant un raid.
 SHOP_ONLY_TRADABLE_ITEMS: Ton magasin contient des objets qui ne peuvent pas être vendus.
 SHOP_OPEN: Magasin ouvert.
-SHOP_PRIVATE_SHOP: Tu as ouvert un magasin.
 SHOW_HAT: '#SHOW_HAT'
 SHUTDOWN_SEC: Le serveur sera déconnecté dans {0} secondes.
 SKILL_CANT_LEARN: Tu ne peux pas apprendre cette compétence.
 SKILL_LEARNED: Tu as appris une nouvelle compétence !
-SKILL_NEED_COOLDOWN: La compétence recharge ! {0} secondes restantes
+SKILL_NOT_TO_REFUND: '#SKILL_NOT_TO_REFUND'
 SKILLS_IN_LOADING: Tu peux te transformer une fois que tous les temps de rechargement des compétences sont écoulés.
 SP_BLOCKED: Il est impossible d'échanger les cartes de spécialiste pendant la transformation.
 SP_DEBUFFS: '#SP_DEBUFFS'
@@ -508,6 +515,7 @@ SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: L'âme reprend vie
 SP_USE_NEEDED: Vous devez vous transformer en spécialiste pour accepter les changements de points.
 SPEAKER: '#SPEAKER'
+SPEAKER_CANT_BE_USED: '#SPEAKER_CANT_BE_USED'
 STATE_CHANGED: L'offre a été mise à jour. La vente a été annulée.
 STAY_TIME: "Durée de l'effet secondaire lié à la transformation : {0} secondes."
 STOP_SPAWNING_BROKEN_SHELL: '#STOP_SPAWNING_BROKEN_SHELL'
@@ -519,6 +527,7 @@ SURE_TO_DELETE: L'objet va être détruit.
 SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
+TARGET_MAX_GOLD: '#TARGET_MAX_GOLD'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Vous êtes maintenant le chef du groupe.
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'

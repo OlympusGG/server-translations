@@ -1,4 +1,7 @@
 ACCEPTED_SHARE: You accepted point share with {0}!
+ACHIEVEMENT_CHAT_MESSAGE: '#ACHIEVEMENT_CHAT_MESSAGE'
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: '#ACHIEVEMENT_CHAT_PLAYER_MESSAGE'
+ACHIEVEMENT_GOLDEN_MESSAGE: '#ACHIEVEMENT_GOLDEN_MESSAGE'
 ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
 ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Crown.
 ACT4_PVP_DEATH: The power of {1} Has been stolen by a guardian of {0}.
@@ -93,6 +96,7 @@ CANT_KICK_YOURSELF: You can't kick yourself.
 CANT_MOVE: Teleportation in cooldown.
 CANT_UPGRADE_DESTROYED_SP: You can't upgrade sp with dead soul!
 CANT_USE_ITEM: You can't use this item.
+CANT_USE_MSG_BUBBLE: '#CANT_USE_MSG_BUBBLE'
 CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
 CANT_USE_THAT: You can't use that
 CAPTURE_FAILED: Capture failed! Retry
@@ -111,7 +115,6 @@ CHARACTER_NOT_IN_FRIENDLIST: This Player is not in your friendlist
 CLASS_CHANGED: Your class has been changed.
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
-COMMANDS_TITLE: '#COMMANDS_TITLE'
 COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
 COMMANDS_USAGES: '#COMMANDS_USAGES'
 COMPLIMENT_COOLDOWN: You can only compliment one player per day.
@@ -159,6 +162,8 @@ FAMILY_FOUNDED: The family {0} was founded!
 FAMILY_FULL: Family is full
 FAMILY_GROUP_NOT_FULL: You can't create family without full group!
 FAMILY_HEAD_CHANGE_GENDER: '#FAMILY_HEAD_CHANGE_GENDER'
+FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
+FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
 FAMILY_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
 FAMILY_INVITED: Player {0} has been invited!
 FAMILY_JOINED: Player {0} joined the family {1}!
@@ -244,6 +249,7 @@ INSTANTBATTLE_SECONDS: The instant battle will begin in {0} seconds.
 INSTANTBATTLE_SECONDS_REMAINING: The instant battle will be closed in {0} seconds.
 INSTANTBATTLE_STARTED: The instant battle has begin!
 INSTANTBATTLE_SUCCEEDED: You won the instant battle!
+INTRODUCTION_SET: '#INTRODUCTION_SET'
 INVALID_CHARNAME: Invalid characters in your nickname!
 INVITED_YOU: '{0} sent you a group request'
 INVITED_YOU_RAID: '{0} sent you a request to join his raid team, do you want to join?'
@@ -256,6 +262,7 @@ ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: You get an item &gt;&gt;
 ITEM_IS_FIXED: Item upgrade level is locked.
 ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
+ITEM_IS_WITHOUT_SHELLS: '#ITEM_IS_WITHOUT_SHELLS'
 ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
 ITEM_NOT_DROPPABLE: You cant drop that item!
 ITEM_NOT_DROPPABLE_HERE: You cant drop that item!
@@ -306,7 +313,6 @@ MINILAND_PRIVATE: The mini-land is now private.
 MINILAND_PUBLIC: The mini-land is now public.
 MINILAND_VISITOR: 'Total visits: {0}, Daily visits: {1}'
 MINILAND_WELCOME_MESSAGE: Welcome!
-MOB_LVL_MUST_BE_LESS: Monster level must be less
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
 MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
@@ -328,6 +334,7 @@ MUST_BE_IN_CLASSIC_MAP: '#MUST_BE_IN_CLASSIC_MAP'
 MUTE_TIME: Punishment duration{0}
 MUTED_FEMALE: I was a very bad girl, and i got punished!
 MUTED_MALE: I was a bad boy, so i got punished!
+NB_ITEM_SOLD: '#NB_ITEM_SOLD'
 NEED_FAMILY: You cannot join the Land Of The Dead without family.
 NEED_PERFUM_TO_CHANGE_SHELL: You cannot change the shell, you need parfum.
 NEED_TEAM: A team must first be created for the raid
@@ -400,6 +407,7 @@ PERFECTSP_LIGHT: Light
 PERFECTSP_SHADOW: Shadow
 PERFECTSP_SUCCESS: 'SP Perfection successful: {0} +{1}'
 PERFECTSP_WATER: Water
+PET_ALREADY_CAN_PICK_UP: '#PET_ALREADY_CAN_PICK_UP'
 PET_AUTO_RELIVE_DISABLED: Pet will return to Mini-land after it dies
 PET_AUTO_RELIVE_ENABLED: Partner can be revived with seed or power if it dies
 PET_CAN_PICK_UP: Now, your NosMate can drop items.
@@ -417,6 +425,7 @@ PORTAL_BLOCKED: This portal is locked, i can't use it.
 PRICE_EXCEEDED: The price limit is exceeded.
 QNA_ITEM: Do you want to use this item?
 QUEST_ALREADY_DONE: You have already done this quest today !
+QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
 QUEST_REWARD: '#QUEST_REWARD'
 QUEST_TOO_HIGH_LVL: '#QUEST_TOO_HIGH_LVL'
 QUEST_TOO_LOW_LVL: '#QUEST_TOO_LOW_LVL'
@@ -463,7 +472,6 @@ SELECT_ORDER_ARENA: Choice the order of participation or it will be determinated
 SELECT_ORDER_ARENA_TIME: One minute remaining before the begin of the fight. Good luck!
 SELL_ITEM_VALIDE: 'Sold: {0} &lt;{1} : piece &gt;'
 SERVER_INFORMATION: '#SERVER_INFORMATION'
-SERVER_TIME: '#SERVER_TIME'
 SEX_CHANGED: Sex has been changed!
 SHARING: Sharing with everyone
 SHARING_BY_ORDER: Sharing by order
@@ -489,12 +497,11 @@ SHOP_NOT_ALLOWED: You can't open shops on global maps.
 SHOP_NOT_ALLOWED_IN_RAID: Raid members can not do an exchange.
 SHOP_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
 SHOP_OPEN: Shop has been opened
-SHOP_PRIVATE_SHOP: Private shop
 SHOW_HAT: '#SHOW_HAT'
 SHUTDOWN_SEC: Server will be shutdown in {0} Seconds.
 SKILL_CANT_LEARN: You can't learn this skill.
 SKILL_LEARNED: You learned a new skill!
-SKILL_NEED_COOLDOWN: '#SKILL_NEED_COOLDOWN'
+SKILL_NOT_TO_REFUND: '#SKILL_NOT_TO_REFUND'
 SKILLS_IN_LOADING: You need to wait until skill cooldown finishes!
 SP_BLOCKED: You can't change sp now!
 SP_DEBUFFS: '#SP_DEBUFFS'
@@ -508,6 +515,7 @@ SP_POINTS_RESET: '#SP_POINTS_RESET'
 SP_RESURRECTED: Your specialist's soul has been resurrected!
 SP_USE_NEEDED: '#SP_USE_NEEDED'
 SPEAKER: Speaker
+SPEAKER_CANT_BE_USED: '#SPEAKER_CANT_BE_USED'
 STATE_CHANGED: The sale was interrupted because the item is no longer available!
 STAY_TIME: SP transformation needs cooldown, {0} seconds
 STOP_SPAWNING_BROKEN_SHELL: '#STOP_SPAWNING_BROKEN_SHELL'
@@ -519,6 +527,7 @@ SURE_TO_DELETE: Are you sure you want to delete this item?
 SWORDSMAN: '#SWORDSMAN'
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
+TARGET_MAX_GOLD: '#TARGET_MAX_GOLD'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
