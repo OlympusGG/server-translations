@@ -1,4 +1,7 @@
 ACCEPTED_SHARE: Zaakceptowano zmianę punktu powrotu od gracza {0}!
+ACHIEVEMENT_CHAT_MESSAGE: '#ACHIEVEMENT_CHAT_MESSAGE'
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: '#ACHIEVEMENT_CHAT_PLAYER_MESSAGE'
+ACHIEVEMENT_GOLDEN_MESSAGE: '#ACHIEVEMENT_GOLDEN_MESSAGE'
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
 ACT4_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
@@ -30,7 +33,7 @@ ARCHER: Łucznik
 ARENA_CALLED: Uczestnik wezwał gracza {0}!
 ARENA_KILL: Gracz {0} został zabity przez gracza {1}.
 ARENA_NOT_OPEN: Arena Talentów nie jest jeszcze otwarta!
-ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
+ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
 ARENA_TALENT_LEFT: Pomyślnie opuszczono Arenę Talentów.
 ARENA_TEAM_FOUND: Znaleziono drużynę.
 ARENA_TEAM_LEAVE: Pomyślnie opuszczono drużynę.
@@ -93,6 +96,7 @@ CANT_KICK_YOURSELF: Nie możesz wyrzucić siebie!
 CANT_MOVE: Odczekaj chwilę, aby przenieść się na inną mapę.
 CANT_UPGRADE_DESTROYED_SP: Nie możesz ulepszyć zniszczonej Karty Specjalisty.
 CANT_USE_ITEM: Nie możesz użyć tego przedmiotu.
+CANT_USE_MSG_BUBBLE: '#CANT_USE_MSG_BUBBLE'
 CANT_USE_OUTSIDE_OF_MINILAND: Możesz to zrobić tylko w Mini-Landzie!
 CANT_USE_THAT: Nie możesz tego użyć.
 CAPTURE_FAILED: Oswojenie nieudane!
@@ -111,7 +115,6 @@ CHARACTER_NOT_IN_FRIENDLIST: Gracz nie znajduje się na liście przyjaciół.
 CLASS_CHANGED: Twoja klasa postaci została zmieniona.
 COMMANDS_AVAILABLE: 'Dostępne komendy:'
 COMMANDS_HELP: Komenda pomoc
-COMMANDS_TITLE: Dostępne komendy
 COMMANDS_UNDOCUMENTED: Komenda nieudokumentowana
 COMMANDS_USAGES: Użycie komendy
 COMPLIMENT_COOLDOWN: Pochwalić kogoś możesz tylko raz dziennie.
@@ -159,6 +162,8 @@ FAMILY_FOUNDED: Rodzina {0} została założona!
 FAMILY_FULL: Rodzina jest pełna!
 FAMILY_GROUP_NOT_FULL: Aby założyć rodzinę, musisz posiadać pełną grupę!
 FAMILY_HEAD_CHANGE_GENDER: Szef zmienił płeć!
+FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
+FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
 FAMILY_INVITATION_NOT_ALLOWED: Nie masz uprawnień do zapraszania graczy!
 FAMILY_INVITED: Gracz {0} został zaproszony do rodziny.
 FAMILY_JOINED: Gracz {0} dołączył do rodziny {1}.
@@ -244,11 +249,12 @@ INSTANTBATTLE_SECONDS: Błyskawiczna Bitwa rozpocznie się za {0} sek.
 INSTANTBATTLE_SECONDS_REMAINING: Błyskawiczna Bitwa zakonczy się za {0} sek.
 INSTANTBATTLE_STARTED: Błyskawiczna Bitwa rozpoczeła się!
 INSTANTBATTLE_SUCCEEDED: Wygrano Błyskawiczną Bitwę!
+INTRODUCTION_SET: '#INTRODUCTION_SET'
 INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
 INVITED_YOU_SHARE: Czy chcesz ustawić punkt powrotu od gracza {0}?
-ITEM_ACQUIRED: Otrzymano: {0}x {1}
+ITEM_ACQUIRED: 'Otrzymano: {0}x {1}'
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Otrzymano nową paczkę!
 ITEM_ACQUIRED_LOD: 'Otrzymano przedmiot:'
 ITEM_BOUND_TO: '(Grupa) [{1}]: {2}x {0}'
@@ -256,6 +262,7 @@ ITEM_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_GIFTED: Otrzymano paczkę.
 ITEM_IS_FIXED: Przedmiot jest utrwalony!
 ITEM_IS_HEROIC: Jest to bohaterski przedmiot!
+ITEM_IS_WITHOUT_SHELLS: '#ITEM_IS_WITHOUT_SHELLS'
 ITEM_NO_HEROIC: Nie jest to bohaterski przedmiot!
 ITEM_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
@@ -306,7 +313,6 @@ MINILAND_PRIVATE: Mini-Land jest prywatny.
 MINILAND_PUBLIC: Mini-Land jest publiczny.
 MINILAND_VISITOR: 'Łączna liczba wizyt: {0} Dzienna liczba wizyt: {1}'
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
-MOB_LVL_MUST_BE_LESS: Musisz mieć wyższy poziom od potwora, którego chcesz złapać!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Poziom potwora musi być mniejszy od twojego, aby go schwytać!
 MONSTER_MUST_BE_LOW_HP: Potwór musi posiadać 50% Punktów Zdrowia, aby go złapać.
 MOTD_HELP_COMMAND: Jeśli potrzebujesz pomocy, wpisz komendę $help
@@ -328,6 +334,7 @@ MUST_BE_IN_CLASSIC_MAP: Musisz znajdować się na ogólnej mapie.
 MUTE_TIME: 'Pozostały czas kary: {0}'
 MUTED_FEMALE: Byłam bardzo niegrzeczną dziewczynką... więc zostałam ukarana! OwO
 MUTED_MALE: Byłem bardzo niegrzecznym chłopczykiem... więc zostałem ukarany! -.-
+NB_ITEM_SOLD: '#NB_ITEM_SOLD'
 NEED_FAMILY: Wymagana jest rodzina, aby to zrobić.
 NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
 NEED_TEAM: Potrzebujesz drużyny, aby rozpocząć rajd.
@@ -400,6 +407,7 @@ PERFECTSP_LIGHT: Odporność na światło
 PERFECTSP_SHADOW: Odporność na mrok
 PERFECTSP_SUCCESS: 'Perfekcja udana: {0} +{1}'
 PERFECTSP_WATER: Odporność na wodę
+PET_ALREADY_CAN_PICK_UP: '#PET_ALREADY_CAN_PICK_UP'
 PET_AUTO_RELIVE_DISABLED: Od teraz NosKumpel po śmierci wróci do Mini-Landu
 PET_AUTO_RELIVE_ENABLED: Od teraz NosKumpel użyje Ziaren Mocy aby się ożywić
 PET_CAN_PICK_UP: Od teraz Twój NosKumpel będzie mógł podnosić przedmioty!
@@ -417,6 +425,7 @@ PORTAL_BLOCKED: Ten portal jest zamknięty, nie mogę tędy przejść.
 PRICE_EXCEEDED: Limit ceny został przekroczony.
 QNA_ITEM: Czy chcesz użyć tego przedmiotu?
 QUEST_ALREADY_DONE: Ta misja została już dziś ukończona.
+QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
 QUEST_REWARD: Nagroda za misję
 QUEST_TOO_HIGH_LVL: Twój poziom jest za wysoki, aby otrzymać tę misję.
 QUEST_TOO_LOW_LVL: Twój poziom jest za niski, aby otrzymać tę misję.
@@ -463,7 +472,6 @@ SELECT_ORDER_ARENA: Wybierz kolejność uczestnictwa, albo inaczej zostanie ona 
 SELECT_ORDER_ARENA_TIME: Pozostała minuta do rozpoczęcia walki. Powodzenia!
 SELL_ITEM_VALIDE: Sprzedano {1}x {0}
 SERVER_INFORMATION: Informacje o serwerze
-SERVER_TIME: Czas serwera
 SEX_CHANGED: Płeć została zmieniona!
 SHARING: 'Dzielenie: każdy w grupie'
 SHARING_BY_ORDER: 'Dzielenie: kolejność'
@@ -489,12 +497,11 @@ SHOP_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu!
 SHOP_NOT_ALLOWED_IN_RAID: Nie możesz otworzyć sklepu podczas rajdu!
 SHOP_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko wymienialne przedmioty w sklepie.
 SHOP_OPEN: Sklep został otwarty!
-SHOP_PRIVATE_SHOP: Prywatny sklep
 SHOW_HAT: Kapelusze zostały odkryte
 SHUTDOWN_SEC: Serwer zostanie wyłączony za {0} sek.
 SKILL_CANT_LEARN: Nie możesz nauczyć się tej umiejętnóści.
 SKILL_LEARNED: Nauczono się nowej umiejętnóści!
-SKILL_NEED_COOLDOWN: Umiejętność jest w trakcie odnowy.
+SKILL_NOT_TO_REFUND: '#SKILL_NOT_TO_REFUND'
 SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
 SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SP_DEBUFFS: Z powodu negatywnego efektu nie możesz przemienić się w Kartę Specjalisty
@@ -508,6 +515,7 @@ SP_POINTS_RESET: Punkty zostały zresetowane!
 SP_RESURRECTED: Dusza Karty Specjalisty została wskrzeszona!
 SP_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SPEAKER: GŁOŚNIK
+SPEAKER_CANT_BE_USED: '#SPEAKER_CANT_BE_USED'
 STATE_CHANGED: Sprzedaż została przerwana, ponieważ przedmiot nie jest już dostępny!
 STAY_TIME: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 STOP_SPAWNING_BROKEN_SHELL: Przestań!!!
@@ -519,6 +527,7 @@ SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 SWORDSMAN: Wojownik
 TALENT_ARENA_GROUP: Musisz opuścić grupę, aby dołączyć do Areny Talentów.
 TALENT_ARENA_NO_MORE_TICKET: Nie posiadasz wystaczająco wejściówek, aby dołączyć!
+TARGET_MAX_GOLD: '#TARGET_MAX_GOLD'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Liderem grupy jest {0}
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
