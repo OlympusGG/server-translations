@@ -1,7 +1,7 @@
 ACCEPTED_SHARE: Zaakceptowano zmianę punktu powrotu od gracza {0}!
-ACHIEVEMENT_CHAT_MESSAGE: '#ACHIEVEMENT_CHAT_MESSAGE'
-ACHIEVEMENT_CHAT_PLAYER_MESSAGE: '#ACHIEVEMENT_CHAT_PLAYER_MESSAGE'
-ACHIEVEMENT_GOLDEN_MESSAGE: '#ACHIEVEMENT_GOLDEN_MESSAGE'
+ACHIEVEMENT_CHAT_MESSAGE: 'Osiągniecie [{0}] odblokowane!'
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: 'Yaa, nowe osiągniecie odblokowane!'
+ACHIEVEMENT_GOLDEN_MESSAGE: 'Odblokowano osiągnięcie: {0}!'
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
 ACT4_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
@@ -39,6 +39,7 @@ ARENA_TEAM_FOUND: Znaleziono drużynę.
 ARENA_TEAM_LEAVE: Pomyślnie opuszczono drużynę.
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: Pozostało {0}x wstępów na Arenę Talentów.
+ASK_ADD_TITLE: Czy chcesz dodać tytuł?
 ASK_BIND: Czy chcesz założyć ten przedmiot? Po założeniu nie będzie już zdatny do handlu.
 ASK_CHANGE_FACTION: Czy chcesz zmienić frakcję?
 ASK_CHANGE_FAMILY_FACTION: Czy chcesz zmienić frakcję dla rodziny?
@@ -334,7 +335,7 @@ MUST_BE_IN_CLASSIC_MAP: Musisz znajdować się na ogólnej mapie.
 MUTE_TIME: 'Pozostały czas kary: {0}'
 MUTED_FEMALE: Byłam bardzo niegrzeczną dziewczynką... więc zostałam ukarana! OwO
 MUTED_MALE: Byłem bardzo niegrzecznym chłopczykiem... więc zostałem ukarany! -.-
-NB_ITEM_SOLD: '#NB_ITEM_SOLD'
+NB_ITEM_SOLD: '[NosBazar] Twój przedmiot został sprzedany: {0}x {1}'
 NEED_FAMILY: Wymagana jest rodzina, aby to zrobić.
 NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
 NEED_TEAM: Potrzebujesz drużyny, aby rozpocząć rajd.
@@ -391,12 +392,17 @@ ONLY_RAID_LEADER_CAN_START: Tylko lider może rozpocząć rajd!
 OPEN_BANK: Witaj w banku! W czym możemy Ci pomóc?
 PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
 PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
+PARTNER_ALREADY_HAVE_SKILL: Twój partner posiada już tą umiejętnosć.
 PARTNER_AUTO_RELIVE_DISABLED: Po śmierci NosKumpel wróci do Mini-Landu.
 PARTNER_AUTO_RELIVE_ENABLED: Po śmierci NosKumpel zostanie ożywiony Ziarnami Mocy.
+PARTNER_IS_WEARING_SP: Partner nosi kartę Specjalisty!
 PARTNER_ITEM_DONE: Przedmiot został przemieniony.
+PARTNER_LEVEL_IS_TOO_LOW: Poziom partnera jest za niski!
+PARTNER_NEED_AGILITY_POINTS: Partner potrzebuje zręczności!
 PARTNER_NO_SP_EQUIPPED: Partner nie ma założnej Karty Specjalisty
 PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
+PARTNER_SP_NEW_SKILL: Partner nauczył się nowej umiejętności!
 PERFECTSP_ATTACK: Atak
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
@@ -407,7 +413,7 @@ PERFECTSP_LIGHT: Odporność na światło
 PERFECTSP_SHADOW: Odporność na mrok
 PERFECTSP_SUCCESS: 'Perfekcja udana: {0} +{1}'
 PERFECTSP_WATER: Odporność na wodę
-PET_ALREADY_CAN_PICK_UP: '#PET_ALREADY_CAN_PICK_UP'
+PET_ALREADY_CAN_PICK_UP: Twój NosKumpel nauczył się już zbieractwa!
 PET_AUTO_RELIVE_DISABLED: Od teraz NosKumpel po śmierci wróci do Mini-Landu
 PET_AUTO_RELIVE_ENABLED: Od teraz NosKumpel użyje Ziaren Mocy aby się ożywić
 PET_CAN_PICK_UP: Od teraz Twój NosKumpel będzie mógł podnosić przedmioty!
@@ -501,7 +507,7 @@ SHOW_HAT: Kapelusze zostały odkryte
 SHUTDOWN_SEC: Serwer zostanie wyłączony za {0} sek.
 SKILL_CANT_LEARN: Nie możesz nauczyć się tej umiejętnóści.
 SKILL_LEARNED: Nauczono się nowej umiejętnóści!
-SKILL_NOT_TO_REFUND: '#SKILL_NOT_TO_REFUND'
+SKILL_NOT_TO_REFUND: Nie można zwrócić tej umiejętności!
 SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
 SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SP_DEBUFFS: Z powodu negatywnego efektu nie możesz przemienić się w Kartę Specjalisty
@@ -515,7 +521,7 @@ SP_POINTS_RESET: Punkty zostały zresetowane!
 SP_RESURRECTED: Dusza Karty Specjalisty została wskrzeszona!
 SP_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SPEAKER: GŁOŚNIK
-SPEAKER_CANT_BE_USED: '#SPEAKER_CANT_BE_USED'
+SPEAKER_CANT_BE_USED: Nie można użyć głośnika!
 STATE_CHANGED: Sprzedaż została przerwana, ponieważ przedmiot nie jest już dostępny!
 STAY_TIME: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 STOP_SPAWNING_BROKEN_SHELL: Przestań!!!
@@ -527,11 +533,12 @@ SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 SWORDSMAN: Wojownik
 TALENT_ARENA_GROUP: Musisz opuścić grupę, aby dołączyć do Areny Talentów.
 TALENT_ARENA_NO_MORE_TICKET: Nie posiadasz wystaczająco wejściówek, aby dołączyć!
-TARGET_MAX_GOLD: '#TARGET_MAX_GOLD'
+TARGET_MAX_GOLD: Gracz posiada maksymalną ilość złota.
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_LEADER_CHANGE: Liderem grupy jest {0}
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
+TITLE_UNLOCKED: Tytuł został odblokowany.
 TOO_LOW_LVL: Twój poziom jest za niski!
 TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.
