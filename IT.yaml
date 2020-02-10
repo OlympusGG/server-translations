@@ -109,8 +109,8 @@ CHARACTER_LOGGED_IN: '{0} si è connesso.'
 CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
 CHARACTER_NOT_IN_FRIENDLIST: '{0} non è tuo amico.''
 CLASS_CHANGED: La tua classe è stata cambiata.
-COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
-COMMANDS_HELP: '#COMMANDS_HELP'
+COMMANDS_AVAILABLE: Comando disponibile
+COMMANDS_HELP: 'Comando Aiuto
 COMMANDS_TITLE: '#COMMANDS_TITLE'
 COMMANDS_UNDOCUMENTED: '#COMMANDS_UNDOCUMENTED'
 COMMANDS_USAGES: '#COMMANDS_USAGES'
@@ -122,55 +122,55 @@ COMPLIMENT_RECEIVED: Sei stato lodato da {0}.
 COSTUME_BLOCKED: Costume Blocato.
 COSTUME_UNLOCKED: 'Costume Sbloccato.
 CRAFTED_OBJECT: 'Hai craftato: {0} x {1}'
-CREATE_FAMILY: '#CREATE_FAMILY'
+CREATE_FAMILY: Crea Famiglia
 CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
 DIGNITY_LOST: Hai perso {0} di dignità!
 DIGNITY_RESTORED: La tua dignità è al massimo
 DISMISS_FAMILY: '#DISMISS_FAMILY'
 DIVORCED: Ora sei divorziato
-DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
+DO_YOU_WANT_MODIFY_SKILL: Vuoi modificare questa skill?
 DO_YOU_WANT_START_RAID: Vuoi iniziare il raid?
 DONE: Il comando è stato applicato!.
 DROP_MAP_FULL: Ci sono troppi oggetti in mappa! Prova più tardi
-DROPPED_ITEM: 'Tu hai ricevuto un oggetto: {0} x {1}'
+DROPPED_ITEM: 'Hai ricevuto: {0} x {1}'
 EFFECT_ACTIVATED: L'effetto {0} si è attivato!
-EFFECT_TERMINATED: L'effeto {0}, si è terminato!
-EFFECT_TITLE_DISABLED: '#EFFECT_TITLE_DISABLED'
-EFFECT_TITLE_ENABLED: '#EFFECT_TITLE_ENABLED'
-EMO_BLOCKED: Emoticons disabilitate
-EMO_UNBLOCKED: Emoticons abilitate
+EFFECT_TERMINATED: L'effeto {0}, è terminato!
+EFFECT_TITLE_DISABLED: L'effeto del titolo {0}, è disabilitato!
+EFFECT_TITLE_ENABLED: L'effetto del titolo {0} si è attivato!
+EMO_BLOCKED: Emoticons bloccate
+EMO_UNBLOCKED: Emoticons sbloccate
 EQ_NOT_EMPTY: Il tuo inventario è pieno.
 EQUALITY: Parità!
 ERENIA: Fai parte della squadra Erenia!
 EW_MAIL: È arrivata una nuova nota
 EXCHANGE_BLOCKED: Da questo momento in poi gli scambi verranno bloccati.
-EXCHANGE_MATERIAL: '#EXCHANGE_MATERIAL'
-EXCHANGE_NOT_ALLOWED_IN_RAID: Non puoi fare lo scambio come membro del raid
+EXCHANGE_MATERIAL: Scambia Materiali
+EXCHANGE_NOT_ALLOWED_IN_RAID: Non puoi fare lo scambio quando sei in un raid.
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Non puoi fare lo scambio con un membro del raid
 EXCHANGE_REFUSED: '{0} ha rifiutato il commercio'
-EXCHANGE_UNLOCKED: '>Da questo momento in poi gli scambi verranno accettati.'
-EXPEVENT_DISABLED: '#EXPEVENT_DISABLED'
-EXPEVENT_ENABLED: '#EXPEVENT_ENABLED'
-FAIRY_LEVELUP: La potenza della tua fata è aumentata di {0} livello.
-FAIRYMAX: la tua fata ha raggiunto il livello massimo
-FAIRYSTATS: '#FAIRYSTATS'
+EXCHANGE_UNLOCKED: 'Da questo momento in poi gli scambi verranno accettati.'
+EXPEVENT_DISABLED: Evento exp terminato.
+EXPEVENT_ENABLED: 'Evento exp iniziato.
+FAIRY_LEVELUP: La potenza della tua fata è aumentata di {0} livelli.
+FAIRYMAX: La tua fata ha raggiunto il livello massimo
+FAIRYSTATS: Statistiche della Fata
 FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: '#FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY'
 FAMILY_FOUNDED: La famiglia {0} è stata fondata!
 FAMILY_FULL: Non puoi aggiungere altri membri nella tua famiglia, perché non c’è abbastanza spazio
-FAMILY_GROUP_NOT_FULL: '#FAMILY_GROUP_NOT_FULL'
+FAMILY_GROUP_NOT_FULL: Family attualmente piena.
 FAMILY_HEAD_CHANGE_GENDER: '#FAMILY_HEAD_CHANGE_GENDER'
 FAMILY_INVITATION_NOT_ALLOWED: Non hai il permesso di invitare giocatori!
-FAMILY_INVITED: Giocatore {0} è stato invitato!
-FAMILY_JOINED: Giocatore {0} si è unito alla famiglia {1} !
+FAMILY_INVITED: {0} è stato invitato!
+FAMILY_JOINED: {0} si è unito alla famiglia {1} !
 FAMILY_LEAVE: Hai lasciato la famiglia.
-FAMILY_NAME_ALREADY_USED: Il nome della famiglia è già stato preso!
-FAMILY_RANK_ASSISTANT: '#FAMILY_RANK_ASSISTANT'
-FAMILY_RANK_HEAD: '#FAMILY_RANK_HEAD'
-FAMILY_RANK_MANAGER: '#FAMILY_RANK_MANAGER'
-FAMILY_RANK_MEMBER: '#FAMILY_RANK_MEMBER'
+FAMILY_NAME_ALREADY_USED: Il nome della famiglia è già stato usato!
+FAMILY_RANK_ASSISTANT: Vicecapo
+FAMILY_RANK_HEAD: Capo
+FAMILY_RANK_MANAGER: Custode
+FAMILY_RANK_MEMBER: Membro
 FAMILY_REQ_LOCKED: Da questo momento in poi gli inviti nelle Famiglie verranno bloccati.
 FAMILY_REQ_UNLOCKED: Gli inviti nelle Famiglie sono stati abilitati
-FAMILY_UP: Congratulazione, La tua famiglia a salire di livello!
+FAMILY_UP: Congratulazione, La tua famiglia è salita di livello!
 FAMILYCALL: Grido
 FRIEND_ADD: Vuoi essere amico di {0}?
 FRIEND_ADDED: Richiesta amicizia accettata!
@@ -182,22 +182,22 @@ FRIEND_REQ_BLOCKED: Da questo momento in poi, le richieste d'amicizia verranno b
 FRIEND_REQ_UNLOCKED: Le richieste d'amicizia sono state abilitate.
 FRIEND_REQUEST_BLOCKED: Il gioccatore {0} ha riffiutato la tua richiesta
 FXP_INCREASE: La tua famiglia ha fatto progressi!
-GAME_CHANNEL: '#GAME_CHANNEL'
-GAME_MASTER_OFF: '#GAME_MASTER_OFF'
-GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
-GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
+GAME_CHANNEL: Game Channel
+GAME_MASTER_OFF: Game Master Offline
+GENERIC_GAME_PREPARATION_MINUTES: L'evento inizierà tra {0} minuti.
+GENERIC_GAME_PREPARATION_SECONDS: 'L'evento inizierà tra {0} secondi.
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
-GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
-GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
-GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
-GET_PROTECTION_POWER_NEUTRAL: '#GET_PROTECTION_POWER_NEUTRAL'
+GENERIC_GAME_STARTED: L'evento {1} è inziato.
+GET_PROTECTION_POWER_ANGEL: La tua fazione è diventata angelo.
+GET_PROTECTION_POWER_DEMON: La tua fazione è diventata demone.
+GET_PROTECTION_POWER_NEUTRAL: La tua fazione è diventata neutra.
 GIFTED: Hai ricevuto {0} regalo/i
-GM_CHAT_BLOCKED: '#GM_CHAT_BLOCKED'
-GOLD_RATE: '#GOLD_RATE'
+GM_CHAT_BLOCKED: Chat GM bloccata.
+GOLD_RATE: Rate Gold.
 GOLD_TS_END: ">Sei stato ricompensato per aver portato a termine una missione. Hai ricevuto: [{0} Oro]. E' possibile che riceva meno esperienza e oro perchè il tuo livello è troppo alto."
 GROUP_ADMIN: Sei il capogruppo!
 GROUP_BLOCKED: L'utente ha bloccato gli inviti per il gruppo
-GROUP_CANT_INVITE: non puoi aggiungere questo utente al tuo gruppo.
+GROUP_CANT_INVITE: Non puoi aggiungere questo utente al tuo gruppo.
 GROUP_CLOSED: Gruppo chiuso
 GROUP_FULL: Il gruppo e' pieno
 GROUP_JOIN: Sei entrato nel gruppo di {0}.
@@ -219,16 +219,16 @@ HP_BLOCKED: Barra degli HP disabilitata
 HP_UNLOCKED: Barra degli HP abilitata
 ICEBREAKER_ASK: Vuoi entrare nell’icebreaker? Dovrai pagare {0} oro
 ICEBREAKER_FIGHT_WARN: Il PvP inizierà presto
-ICEBREAKER_MINUTES: In {0} minuti {1} ~ {2}Il Icebreaker inizierà per tutti i livelli.
+ICEBREAKER_MINUTES: In {0} minuti {1} ~ {2}L'Icebreaker inizierà per tutti i livelli.
 ICEBREAKER_PLAYER_FROZEN: '{0} è congelato'
 ICEBREAKER_PLAYER_OUT: '{0} è fuori'
-ICEBREAKER_PLAYER_UNFROZEN: '#ICEBREAKER_PLAYER_UNFROZEN'
-ICEBREAKER_SECONDS: In {0} secondi {1} ~ {2}Il Rompighiaccio inizierà per tutti i livelli.
-ICEBREAKER_STARTED: Il Icebreaker ha iniziato!
-ICEBREAKER_WIN: Avete vinto il Icebreaker
+ICEBREAKER_PLAYER_UNFROZEN: '{0} è scongelato'
+ICEBREAKER_SECONDS: In {0} secondi {1} ~ {2}L'Icebreaker inizierà per tutti i livelli.
+ICEBREAKER_STARTED: L'Icebreaker ha iniziato!
+ICEBREAKER_WIN: Avete vinto L'Icebreaker
 IMPOSSIBLE_TO_USE: Non è possibile utilizzarlo al momento
 IN_BATTLE: Non puoi invitare i giocatori mentre combattono!
-IN_FAMILY: '#IN_FAMILY'
+IN_FAMILY: Non puoi invitare giocati che hanno già una famiglia!
 IN_WAITING_FOR: In attesa di {0}
 INCOMING_EXCHANGE: '#INCOMING_EXCHANGE'
 INFO_BAZAAR: Non puoi aprire il NosBazar perchè non possiedi l'oggetto richiesto !
