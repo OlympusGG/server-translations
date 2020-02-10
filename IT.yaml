@@ -26,10 +26,10 @@ AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
 AMULET_DESTROYED: Amuleto distrutta !
 AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
-ARCHER: '#ARCHER'
+ARCHER: Arciere
 ARENA_CALLED: '#ARENA_CALLED'
 ARENA_KILL: '#ARENA_KILL'
-ARENA_NOT_OPEN: '#ARENA_NOT_OPEN'
+ARENA_NOT_OPEN: L'arena non è aperta!
 ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
 ARENA_TALENT_LEFT: '#ARENA_TALENT_LEFT'
 ARENA_TEAM_FOUND: '#ARENA_TEAM_FOUND'
@@ -37,14 +37,14 @@ ARENA_TEAM_LEAVE: '#ARENA_TEAM_LEAVE'
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
 ASK_BIND: Vuoi davvero usare questo oggetto? L'oggetto sarà di uso esclusivo tuo.
-ASK_CHANGE_FACTION: '#ASK_CHANGE_FACTION'
-ASK_CHANGE_FAMILY_FACTION: '#ASK_CHANGE_FAMILY_FACTION'
-ASK_CHANGE_SPAWNLOCATION: '#ASK_CHANGE_SPAWNLOCATION'
-ASK_ENTRY_IN_FIRST_ROOM: Iniziare la missione ?
+ASK_CHANGE_FACTION: Vuoi cambiare fazione?
+ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare fazione alla famiglia?
+ASK_CHANGE_SPAWNLOCATION: Vuoi cambiare la locazione dello spawn?
+ASK_ENTRY_IN_FIRST_ROOM: Sei pronto per la missione?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
 ASK_JOIN_TEAM_TS: Vuoi unirti ai membri del tuo gruppo?
 ASK_KICK_PET: '#ASK_KICK_PET'
-ASK_OPEN_BOX: Vuoi apprire il cassaforte?
+ASK_OPEN_BOX: Vuoi apprire il forziere?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: '#ASK_PET_MAX'
 ASK_RELEASE_PET: Vuoi far uscire il tuo NosMate dalla perla?
