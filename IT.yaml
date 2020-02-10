@@ -504,10 +504,10 @@ SP_NO_REMOVE_DEBUFFS: Un effetto negativo impedisce di rimuovere la SP
 SP_NOPOINTS: Non hai punti SP rimasti! Non puoi trasformarti ora!
 SP_POINTS_ADDED: Hai ricevuto {0} punti SP!
 SP_POINTS_ADDED_BOTH: '#SP_POINTS_ADDED_BOTH'
-SP_POINTS_RESET: '#SP_POINTS_RESET'
+SP_POINTS_RESET: Punti SP resettati
 SP_RESURRECTED: L'anima della SP ha ripreso vita!
 SP_USE_NEEDED: Devi essere trasformato per resettare i punti sp!
-SPEAKER: '#SPEAKER'
+SPEAKER: Totale
 STATE_CHANGED: L'asta è stata interrotta perché è finito il periodo di vendita stabilito.
 STAY_TIME: "La trasformazione non essere realizzata a causa dell'effetto collaterale della trasformazione, aspetta: {0} secondi"
 STOP_SPAWNING_BROKEN_SHELL: '#STOP_SPAWNING_BROKEN_SHELL'
@@ -516,7 +516,7 @@ SUM_SUCCESS: La somma è riuscita!
 SUPER_REWARD: Qualcuno ha vinto la lotteria alla scatola misteriosa!
 SUPPORT: Supporto
 SURE_TO_DELETE: L'item verrà distrutto.
-SWORDSMAN: '#SWORDSMAN'
+SWORDSMAN: Guerriero
 TALENT_ARENA_GROUP: '#TALENT_ARENA_GROUP'
 TALENT_ARENA_NO_MORE_TICKET: '#TALENT_ARENA_NO_MORE_TICKET'
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
@@ -524,10 +524,10 @@ TEAM_LEADER_CHANGE: Ora sei il capogruppo
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: '#TELEPORTED_IN'
 TOO_LOW_LVL: Il tuo livello non corrisponde
-TOO_MUCH_GOLD: Tu hai troppo oro!
-TRADE_BLOCKED: '#TRADE_BLOCKED'
+TOO_MUCH_GOLD: Hai troppo oro!
+TRADE_BLOCKED: Scambio bloccato
 TRANSFORM_DISAPPEAR: L'effetto secondario della trasformazione è finito
-TRANSFORMATION_NEEDED: '#TRANSFORMATION_NEEDED'
+TRANSFORMATION_NEEDED: Trasformazione richiesta.
 TRY_FAILED: '#TRY_FAILED'
 TRY_FAILED_WAIT: '#TRY_FAILED_WAIT'
 TS_PENALTY: Penalità dello spazio tempo
@@ -536,29 +536,29 @@ UI_UNLOCKED: '#UI_UNLOCKED'
 UNDER_EFFECT: Sei sotto l’effetto di {0}
 UPGRADE_FAILED: L'upgrade è fallito
 UPGRADE_FAILED_ITEM_SAVED: L'upgrade è fallito, ma l'item non è scomparso.
-UPGRADE_FIXED: '#UPGRADE_FIXED'
-UPGRADE_SUCCESS: '#UPGRADE_SUCCESS'
-UPGRADESP_DESTROYED: Miglioramento della SP ha fallito, l’anima della scheda specialista è stato distrutto
-UPGRADESP_FAILED: Miglioramento della SP ha fallito
-UPGRADESP_FAILED_SAVED: Miglioramento dell'SP fallito ma l'item ha protetto la SP!
-UPGRADESP_SUCCESS: Miglioramento del SP riuscito!
+UPGRADE_FIXED: Livello bloccato
+UPGRADE_SUCCESS: Miglioramento riuscito.
+UPGRADESP_DESTROYED: Miglioramento dell'SP fallito, l’anima della scheda specialista è stata distrutta
+UPGRADESP_FAILED: Miglioramento dell'SP fallito!
+UPGRADESP_FAILED_SAVED: Miglioramento dell'SP fallito ma l'item ha protetto l'SP!
+UPGRADESP_SUCCESS: Miglioramento dell'SP riuscito!
 USER_NOT_CONNECTED: Il giocatore non è connesso.
 USER_NOT_FOUND: Utente non trovato!
-USER_NOT_FOUND_IN_ARENA: Utente non trovato!
-USER_NOT_HERO: '#USER_NOT_HERO'
-USER_ON_INSTANCEMAP: '#USER_ON_INSTANCEMAP'
+USER_NOT_FOUND_IN_ARENA: Utente non trovato in arena!
+USER_NOT_HERO: Non sei un eroe.
+USER_ON_INSTANCEMAP: Utente su questa mappa.
 USER_WHISPER_BLOCKED: L'utente ha bloccato la chat privata!
 VICTORIOUS_ERENIA: Vincitore ! Erenia
-VICTORIOUS_ZENAS: Vincitore ! Zena
-VISIBLE_TITLE_DISABLED: '#VISIBLE_TITLE_DISABLED'
-VISIBLE_TITLE_ENABLED: '#VISIBLE_TITLE_ENABLED'
+VICTORIOUS_ZENAS: Vincitore ! Zenas
+VISIBLE_TITLE_DISABLED: Titolo disabilitato.
+VISIBLE_TITLE_ENABLED: Titolo abilitato.
 WANT_TO_SAVE_POSITION: Vuoi salvare la tua posizione?
 WARNING_INFO: 'Sei stato avvertito: {0}'
-WEDDING_REQUEST_RECEIVED: '#WEDDING_REQUEST_RECEIVED'
-WEDDING_REQUEST_VERIFICATION: '#WEDDING_REQUEST_VERIFICATION'
-WELCOME_MUSIC_INFO: Melodia^Primaverile
-WHISPER_BLOCKED: Adesso la chat privata è stata bloccata
-WHISPER_UNLOCKED: Adesso la chat privata è consentita
+WEDDING_REQUEST_RECEIVED: Richiesta di matrimonio ricevuta
+WEDDING_REQUEST_VERIFICATION: Vuoi sposarti?
+WELCOME_MUSIC_INFO: Melodia Primaverile
+WHISPER_BLOCKED: Chat privata bloccata,
+WHISPER_UNLOCKED: Adesso la chat privata è consentita.
 WILL_BE_BACK: '#WILL_BE_BACK'
 WIN_MONEY: 'Oro: +{0}'
 WIN_REPUT: 'Reputazione: +{0}'
@@ -566,11 +566,11 @@ WIN_SP_POINT: 'Punti SP: +{0}'
 WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '#WITHDRAW_BANK'
 XP_NOTFIRSTHIT: Visto che non sei stato il primo che ha attaccato, riceverai solo una parte dell'esperienza
-YOU_ARE_RAID_LEADER: Sei il capo della squadra di avventura, invita i giocatori!
+YOU_ARE_RAID_LEADER: Sei il capo del raid, invita i giocatori!
 YOU_ASK_FOR_EXCHANGE: '#YOU_ASK_FOR_EXCHANGE'
 YOU_CATCHED_PET_X: '#YOU_CATCHED_PET_X'
 YOU_GET_PET: 'Hai ottenuto un NosMate chiamato: {0}.'
-YOU_HAVE_LIFE: Puoi ancora tornare a vivere {0}x
-YOU_HAVE_LIFE_RAID: Puoi ancora tornare a vivere {0}x
+YOU_HAVE_LIFE: Puoi ancora tornare a vivere {0} volte
+YOU_HAVE_LIFE_RAID: Puoi ancora tornare a vivere {0} volte.
 YOU_REFUSED: Lo scambio è stato rifiutato!
-ZENAS: Sei nella squadra di Zena
+ZENAS: Sei nella squadra di Zenas
