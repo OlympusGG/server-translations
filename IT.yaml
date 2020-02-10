@@ -1,22 +1,22 @@
-ACCEPTED_SHARE: Tranzione accettata.
+ACCEPTED_SHARE: Transazione accettata.
 ACT4_CHANNEL_OFFLINE: Channel Act4 offline.
-ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
+ACT4_NEED_FACTION: Hai bisogno di una fazione per accedere.
 ACT4_PVP_DEATH: ACT4 PVP morto.
 ACT4_PVP_DIE: ACT4 PVP morto.
 ACT4_PVP_KILL: ACT4 PVP ucciso.
 ACT4_RAID_OPEN: Raid Act4 Aperto.
-ADD_OPTION_ON_STUFF: Vuoi aggiungere opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
+ADD_OPTION_ON_STUFF: Vuoi aggiungere un opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L’opzione esistente sarà rimossa e sostituita da una nuova. La probabilità di successo è attualmente del 50 %. Ti va di continuare?
 ADVENTURER: Avventuriero.
 ADVENTURERS_CANT_USE: Gli avventurieri non possono usare quest'oggetto!
 ALREADY_EXCHANGE: L'utente sta già scambiando.
 ALREADY_FRIEND: Voi due siete già amici.
-ALREADY_GOT_BUFF: Icone dei buff abilitate.
+ALREADY_GOT_BUFF: Hai già il buff.
 ALREADY_IN_FAMILY: Sei già in una famiglia.
 ALREADY_IN_GROUP: Sei già in un gruppo.
 ALREADY_MARRIED: L'utente è gia sposato.
 ALREADY_MAX_RARE: Rarità massima.
-ALREADY_PET_IN_TEAM: '#ALREADY_PET_IN_TEAM'
+ALREADY_PET_IN_TEAM: Pet già nel team.
 ALREADY_QUEST: Quest già completata.
 ALREADY_TAKEN: Questo nome è già in uso !
 ALREADY_THIS_MINILANDOBJECT: '#ALREADY_THIS_MINILANDOBJECT'
@@ -24,15 +24,15 @@ ALREADY_TWO_ASSISTANT: Hai già due vice!
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-AMULET_DESTROYED: Amuleto distrutta !
-AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
+AMULET_DESTROYED: Amuleto distrutto !
+AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura.
 ARCHER: Arciere
-ARENA_CALLED: '#ARENA_CALLED'
+ARENA_CALLED: Chiamata arena.
 ARENA_KILL: '#ARENA_KILL'
 ARENA_NOT_OPEN: L'arena non è aperta!
 ARENA_PENALTY_NOTICE: '#ARENA_PENALTY_NOTICE'
 ARENA_TALENT_LEFT: '#ARENA_TALENT_LEFT'
-ARENA_TEAM_FOUND: '#ARENA_TEAM_FOUND'
+ARENA_TEAM_FOUND: Hai trovato un Team.
 ARENA_TEAM_LEAVE: '#ARENA_TEAM_LEAVE'
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
 ARENA_TICKET_LEFT: '#ARENA_TICKET_LEFT'
@@ -42,8 +42,8 @@ ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare fazione alla famiglia?
 ASK_CHANGE_SPAWNLOCATION: Vuoi cambiare la locazione dello spawn?
 ASK_ENTRY_IN_FIRST_ROOM: Sei pronto per la missione?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
-ASK_JOIN_TEAM_TS: Vuoi unirti ai membri del tuo gruppo?
-ASK_KICK_PET: '#ASK_KICK_PET'
+ASK_JOIN_TEAM_TS: Vuoi unirti ai membri del tuo gruppo nella TS?
+ASK_KICK_PET: Vuoi mandare indietro il tuo pet?
 ASK_OPEN_BOX: Vuoi apprire il forziere?
 ASK_PARTNER_MAX: '#ASK_PARTNER_MAX'
 ASK_PET_MAX: '#ASK_PET_MAX'
@@ -53,7 +53,7 @@ ASK_REVIVE_FREE: Vuoi rivivere? E' gratuito.
 ASK_REVIVE_LOD: vuoi rivivere qui? Ti costerà una Fontana del Salvatore.
 ASK_REVIVE_PVP: Vuoi rivivere? Ti costerà 100 oro.
 ASK_REVIVE_TS: Vuoi rivivere? Attenzione, ti toglierà una vita
-ASK_REVIVE_TS_LOW_LEVEL: '#ASK_REVIVE_TS_LOW_LEVEL'
+ASK_REVIVE_TS_LOW_LEVEL: Vuoi rivivere? Sei di livello troppo basso!
 ASK_STORE_PET: Vuoi mettere questo animale nella sua perla?
 ASK_TO_DELETE: L'item verrà distrutto.
 ASK_USE: Vuoi davvero usare quest'oggetto?
@@ -65,49 +65,49 @@ BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Quantita' di drop errato.
 BAD_EQUIPMENT: Il tuo personaggio non ha i requisiti necessari per poter utilizzare questo item.
 BAD_FAIRY: La Carta Speciale e la tua fata hanno attributi diversi.
-BANK_ASK_DEPOSIT: '#BANK_ASK_DEPOSIT'
+BANK_ASK_DEPOSIT: Vuoi depositare la somma {0}?
 BANK_BALANCE: Hai {0} in banca
 BANK_DEPOSIT: Hai depositato {0} in banca
-BLACKLIST_ADDED: Personaggio aggiunto alla lista nera
+BLACKLIST_ADDED: Personaggio aggiunto alla lista nera,
 BLACKLIST_BLOCKED: Questo giocatore ti ha bloccato!
 BLACKLIST_BLOCKING: Stai bloccando questo giocatore!
-BLACKLIST_DELETED: Personaggio tolto dalla lista nera
-BROADCASTER: '#BROADCASTER'
-BUFF_BLOCKED: Icone dei buff disabilitate
-BUFF_UNLOCKED: Icone dei buff abilitate
-BUY_ITEM_PLAYER: '#BUY_ITEM_PLAYER'
+BLACKLIST_DELETED: Personaggio tolto dalla lista nera,
+BROADCASTER: '#BROADCASTER'.
+BUFF_BLOCKED: Buff bloccati.
+BUFF_UNLOCKED: Buff sbloccati.
+BUY_ITEM_PLAYER: Vuoi comprare l'item di {0}?
 BUY_ITEM_VALID: Hai comprato {1} di {0}
-CALIGOR_REALM_CLOSED: Il regno di Caligor è stata chiuso
-CALIGOR_REALM_LOCKED: Il regno di Caligor è stata bloccato
-CALIGOR_REALM_OPEN: Il regno di Caligor è stata apperto
-CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
+CALIGOR_REALM_CLOSED: Il regno di Caligor è chiuso.
+CALIGOR_REALM_LOCKED: Il regno di Caligor è bloccato.
+CALIGOR_REALM_OPEN: Il regno di Caligor è aperto.
+CANNOT_CREATE_MARTIAL_ARTIST: Non puoi creare l'artista marziale
 CANNOT_LEAVE_FAMILY: Sei il capo della famiglia, non puoì lasciare la tua famiglia.
 CANT_ATTACK: Non puoi ancora attaccare
 CANT_CHANGE_MESSAGE: Hai già modificato il motto del giorno, riprova domani.
-CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
+CANT_CREATE_RAID_WHILE_IN_GROUP: Non puoi aprire un raid quando sei in gruppo!
 CANT_EQUIP_DESTROYED_SP: Non puoi equipaggiare una SP distrutta
-CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
-CANT_KICK_HEAD: Non puoi cacciato il tuo capo
-CANT_KICK_SAME_AUTHORITY: Non puoi cacciato il tuo Vice
-CANT_KICK_YOURSELF: Non puoi cacciato te stesso
+CANT_JOIN_ARENA_IN_RAID: Non puoi entrare nell'arena quando sei in un Raid.
+CANT_KICK_HEAD: Non puoi cacciare il tuo capo
+CANT_KICK_SAME_AUTHORITY: Non puoi cacciare il tuo Vice
+CANT_KICK_YOURSELF: Non puoi cacciare te stesso
 CANT_MOVE: Il personaggio non può moversi.
 CANT_UPGRADE_DESTROYED_SP: Non puoi aumentare una SP distrutta.
 CANT_USE_ITEM: Non puoi usare questo oggetto
-CANT_USE_OUTSIDE_OF_MINILAND: '#CANT_USE_OUTSIDE_OF_MINILAND'
+CANT_USE_OUTSIDE_OF_MINILAND: 'Non puoi usarlo fuori dalla Mini-Land
 CANT_USE_THAT: Non puoi usare questo
 CAPTURE_FAILED: Cattura non riuscita
 CAPTURE_MONSTER_CANNOT_BE_CAPTURED: '#CAPTURE_MONSTER_CANNOT_BE_CAPTURED'
-CELLON_FULL: Non è possibile aggiungere altre opzioni su questo gioielli
+CELLON_FULL: Non è possibile aggiungere altre opzioni su questi gioielli
 CELLON_LEVEL_TOO_HIGH: Il livello del cellon è troppo alto
-CELLONING_FAILED: Non sei riuscito a migliorare quell’attrezzatura, il cellon state distrutto
-CELLONING_SUCCESS: Sei riuscito ad aggiungere un'opzione a questa attrezzatura
+CELLONING_FAILED: Non sei riuscito a migliorare quell’attrezzatura, il cellon è stato distrutto
+CELLONING_SUCCESS: Sei riuscito ad aggiungere un'opzione a questa attrezzatura!
 CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
 CHANGED_SHARE: Hai cambiato il punto di ritorno comune dei membri del gruppo.
 CHANNEL: Canale
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) si è connesso.'
 CHARACTER_LOGGED_IN: '{0} si è connesso.'
 CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
-CHARACTER_NOT_IN_FRIENDLIST: '#CHARACTER_NOT_IN_FRIENDLIST'
+CHARACTER_NOT_IN_FRIENDLIST: '{0} non è tuo amico.''
 CLASS_CHANGED: La tua classe è stata cambiata.
 COMMANDS_AVAILABLE: '#COMMANDS_AVAILABLE'
 COMMANDS_HELP: '#COMMANDS_HELP'
@@ -119,8 +119,8 @@ COMPLIMENT_GIVEN: Hai lodato {0}.
 COMPLIMENT_LOGIN_COOLDOWN: Devi aspettare ancora {0} minuti prima di poter lodare qualcuno.
 COMPLIMENT_NOT_MINLVL: Solo i personaggi con un livello superiore a 30 possono lodare altri giocatori.
 COMPLIMENT_RECEIVED: Sei stato lodato da {0}.
-COSTUME_BLOCKED: '#COSTUME_BLOCKED'
-COSTUME_UNLOCKED: '#COSTUME_UNLOCKED'
+COSTUME_BLOCKED: Costume Blocato.
+COSTUME_UNLOCKED: 'Costume Sbloccato.
 CRAFTED_OBJECT: 'Hai craftato: {0} x {1}'
 CREATE_FAMILY: '#CREATE_FAMILY'
 CUARRY_BANK_ITEM_IN_EQ: '#CUARRY_BANK_ITEM_IN_EQ'
