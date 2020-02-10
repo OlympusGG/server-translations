@@ -1,23 +1,23 @@
 ACCEPTED_SHARE: Tranzione accettata.
-ACT4_CHANNEL_OFFLINE: '#ACT4_CHANNEL_OFFLINE'
+ACT4_CHANNEL_OFFLINE: Channel Act4 offline.
 ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
 ACT4_PVP_DEATH: ACT4 PVP morto.
 ACT4_PVP_DIE: ACT4 PVP morto.
 ACT4_PVP_KILL: ACT4 PVP ucciso.
-ACT4_RAID_OPEN: ACT4 RAID aperto.
+ACT4_RAID_OPEN: Raid Act4 Aperto.
 ADD_OPTION_ON_STUFF: Vuoi aggiungere opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L’opzione esistente sarà rimossa e sostituita da una nuova. La probabilità di successo è attualmente del 50 %. Ti va di continuare?
-ADVENTURER: '#ADVENTURER'
+ADVENTURER: Avventuriero.
 ADVENTURERS_CANT_USE: Gli avventurieri non possono usare quest'oggetto!
 ALREADY_EXCHANGE: L'utente sta già scambiando.
 ALREADY_FRIEND: Voi due siete già amici.
 ALREADY_GOT_BUFF: Icone dei buff abilitate.
-ALREADY_IN_FAMILY: Qualcuno ha già una gilda.
+ALREADY_IN_FAMILY: Sei già in una famiglia.
 ALREADY_IN_GROUP: Sei già in un gruppo.
-ALREADY_MARRIED: L'utente è gia sposato
-ALREADY_MAX_RARE: Rarità massima
+ALREADY_MARRIED: L'utente è gia sposato.
+ALREADY_MAX_RARE: Rarità massima.
 ALREADY_PET_IN_TEAM: '#ALREADY_PET_IN_TEAM'
-ALREADY_QUEST: '#ALREADY_QUEST'
+ALREADY_QUEST: Quest già completata.
 ALREADY_TAKEN: Questo nome è già in uso !
 ALREADY_THIS_MINILANDOBJECT: '#ALREADY_THIS_MINILANDOBJECT'
 ALREADY_TWO_ASSISTANT: Hai già due vice!
