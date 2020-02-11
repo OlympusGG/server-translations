@@ -224,7 +224,7 @@ ICEBREAKER_PLAYER_FROZEN: '{0} è congelato'
 ICEBREAKER_PLAYER_OUT: '{0} è fuori'
 ICEBREAKER_PLAYER_UNFROZEN: '{0} è scongelato'
 ICEBREAKER_SECONDS: In {0} secondi {1} ~ {2}L'Icebreaker inizierà per tutti i livelli.
-ICEBREAKER_STARTED: L'Icebreaker ha iniziato!
+ICEBREAKER_STARTED: L'Icebreaker ha inizio!
 ICEBREAKER_WIN: Avete vinto L'Icebreaker
 IMPOSSIBLE_TO_USE: Non è possibile utilizzarlo al momento
 IN_BATTLE: Non puoi invitare i giocatori mentre combattono!
@@ -255,25 +255,25 @@ ITEM_BOUND_TO: '{1} ha ottenuto: {0} x {2}'
 ITEM_CANNOT_BE_WITH_SHELL: '#ITEM_CANNOT_BE_WITH_SHELL'
 ITEM_GIFTED: Hai ricevuto un oggetto &gt;&gt;
 ITEM_IS_FIXED: L'upgrade dell'item è stato bloccato.
-ITEM_IS_HEROIC: '#ITEM_IS_HEROIC'
-ITEM_NO_HEROIC: '#ITEM_NO_HEROIC'
-ITEM_NOT_DROPPABLE: '#ITEM_NOT_DROPPABLE'
+ITEM_IS_HEROIC: L'item è eroe
+ITEM_NO_HEROIC: L'item non è eroe
+ITEM_NOT_DROPPABLE: Item non droppabile
 ITEM_NOT_DROPPABLE_HERE: Non puoi gettare quest'oggetto!
 ITEM_NOT_SOLDABLE: Questo item non può essere venduto.
 ITEM_NOT_TRADABLE: Questo item non può essere scambiato.
-ITEM_TIMEOUT: L'item non è più longevo
+ITEM_TIMEOUT: L'item è scaduto e scompare
 ITEM_UNFIXED: Hai sbloccato l'arma
 JOB_LEVELUP: Livello Lavoro Aumentato
-JOIN_TEAM: Sei entrato nel gruppo di {0}.
+JOIN_TEAM: Sei entrato nel Team di {0}.
 JOINED_GROUP: Sei entrato nel gruppo di {0}.
 KICK_RAID: '{0} sarà espulso dalla squadra'
 KICKED_FROM_RAID: Sei stato espulso dalla squadra
-LANGUAGE: '#LANGUAGE'
-LANGUAGE_CHANGED: '#LANGUAGE_CHANGED'
-LANGUAGE_CURRENT: '#LANGUAGE_CURRENT'
+LANGUAGE: Lingua
+LANGUAGE_CHANGED: Lingua Cambiata
+LANGUAGE_CURRENT: Lingua Attuale
 LEAVE_GROUP: '{0} ha lasciato il gruppo'
-LEFT_RAID: Hai lasciato la squadra d’assalto
-LEVELUP: Sei salito di livello di combattimento!
+LEFT_RAID: Hai lasciato il raid.
+LEVELUP: Sei salito di livello combattimento!
 LIMIT_EXCEEDED: Non puoi aggiungere altri oggetti al NosBazar perchè hai raggiunto il limite.
 LOGIN_MEDAL: La medaglia del NosBazar è adesso attiva!
 LOSE_DIGNITY: Hai perso {0} di dignità!
@@ -281,33 +281,33 @@ LOSE_REP: Reputazione - {0}
 LOW_JOB_LVL: Il livello di lavoro è troppo basso.
 LOW_RAID_LEVEL: Il tuo livello è troppo basso per ottenere una ricompensa, continuare?
 LVL_REQUIRED: Lo specialista deve essere almeno di livello {0} per essere migliorato!
-MAGICAN: '#MAGICAN'
+MAGICAN: Mago
 MAIL_DELETED: La nota è stata cancellata.
 MAILED: Hai spedito una nota.
 MARRIED_BROADCAST: '#MARRIED_BROADCAST'
 MARRIED_REFUSED_BROADCAST: '#MARRIED_REFUSED_BROADCAST'
-MARTIAL_ART: '#MARTIAL_ART'
-MAX_GOLD: Massimo soldi raggiunto!
-MAX_GOLD_BANK_REACHED: Massimo soldi raggiunto nella banca
-MAX_MATES_COUNT: Non puoi avere piu di compagno
-MAX_PARTNER_REACHED: '#MAX_PARTNER_REACHED'
-MAX_PET_REACHED: '#MAX_PET_REACHED'
-MESSAGE_SENT_TO_CHARACTER: '#MESSAGE_SENT_TO_CHARACTER'
-METEORITE_MINUTES: '#METEORITE_MINUTES'
-METEORITE_ROUND: '#METEORITE_ROUND'
-METEORITE_STARTED: '#METEORITE_STARTED'
+MARTIAL_ART: Artista Marziale
+MAX_GOLD: Raggiungto il liminite massimo dei Gold
+MAX_GOLD_BANK_REACHED: Raggiungo il limite massimo di Gold nella banca.
+MAX_MATES_COUNT: Non puoi avere altri compagni,sei al limite!
+MAX_PARTNER_REACHED: Non puoi avere altri compagni,sei al limite!
+MAX_PET_REACHED: Non puoi avere altri pet,sei al limite!
+MESSAGE_SENT_TO_CHARACTER: 'Messaggio Inviato a {0}'
+METEORITE_MINUTES:  Il Meteorite game inizierà tra {0} minuti!
+METEORITE_ROUND: Meteorite Round:
+METEORITE_STARTED: Meteorite Game iniziato!
 MINI_INV_BLOCKED: '#MINI_INV_BLOCKED'
 MINI_INV_UNLOCKED: '#MINI_INV_UNLOCKED'
 MINILAND_CLOSED_BY_FRIEND: La Mini-Land è stata chiusa.
 MINILAND_INFO_CHANGED: Informazioni Mini-Land cambiate.
 MINILAND_LOCK: La Mini-Land è stata bloccata.
-MINILAND_NEED_LOCK: Devi prima bloccare la Mini-Land per costruire.
-MINILAND_PRIVATE: La Mini-Land adesso è pubblica.
+MINILAND_NEED_LOCK: Devi prima chiudere la Mini-Land per costruire.
+MINILAND_PRIVATE: La Mini-Land adesso è privata!
 MINILAND_PUBLIC: La Mini-Land adesso è pubblica
 MINILAND_VISITOR: 'Visite Totali: {0}, Visite Giornaliere: {1}'
-MINILAND_WELCOME_MESSAGE: '#MINILAND_WELCOME_MESSAGE'
+MINILAND_WELCOME_MESSAGE: Messaggio di Benvenuto:
 MOB_LVL_MUST_BE_LESS: Impossibile, il mostro è troppo alto livello
-MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: '#MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS'
+MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Impossibile, il mostro è troppo basso di livello rispetto al tuo!
 MONSTER_MUST_BE_LOW_HP: '#MONSTER_MUST_BE_LOW_HP'
 MOTD_HELP_COMMAND: '#MOTD_HELP_COMMAND'
 MOTD_LANG_COMMAND: '#MOTD_LANG_COMMAND'
@@ -325,23 +325,23 @@ MSG_UNDER_CHAT7: '#MSG_UNDER_CHAT7'
 MSG_UNDER_CHAT8: '#MSG_UNDER_CHAT8'
 MSG_UNDER_CHAT9: '#MSG_UNDER_CHAT9'
 MUST_BE_IN_CLASSIC_MAP: '#MUST_BE_IN_CLASSIC_MAP'
-MUTE_TIME: '#MUTE_TIME'
+MUTE_TIME: Mutato per {0} ore.
 MUTED_FEMALE: '#MUTED_FEMALE'
 MUTED_MALE: '#MUTED_MALE'
-NEED_FAMILY: '#NEED_FAMILY'
-NEED_PERFUM_TO_CHANGE_SHELL: Bisogna di profumi per scambiare di proprietario
-NEED_TEAM: Bisogna di una squadra per comminciare l'avventura
+NEED_FAMILY: Hai bisogno di una Famiglia
+NEED_PERFUM_TO_CHANGE_SHELL: Hai bisogno dei profumi per rendere l'item personale!
+NEED_TEAM: Hai bisogno di un Team per iniziare
 NEW_LEADER: Adesso sei il leader del gruppo
-NEW_MAIL: '#NEW_MAIL'
-NEW_MISSION: '#NEW_MISSION'
+NEW_MAIL: Nuova Mail
+NEW_MISSION: Nuova Missione
 NEW_NAME_PET_MAX_LENGTH: '#NEW_NAME_PET_MAX_LENGTH'
-NO_AMMO_ADVENTURER: Non hai abbastanza Munizioni... Comprali al Negozio d'Armi!
-NO_AMMO_ARCHER: Non hai abbastanza Frecce... Comprali al Negozio d'Armi!
+NO_AMMO_ADVENTURER: Non hai abbastanza Munizioni... Comprale al Negozio d'Armi!
+NO_AMMO_ARCHER: Non hai abbastanza Frecce... Comprale al Negozio d'Armi!
 NO_AMMO_SWORDSMAN: Non hai abbastanza Dardi... Comprali al Negozio d'Armi!
-NO_FAMILY: Ti bisogna di una famiglia per entrare qui.
-NO_FAMILY_RIGHT: '>Non disponi dei diritti necessari.'
+NO_FAMILY: Hai bisogno di una famiglia per entrare.
+NO_FAMILY_RIGHT: Non disponi dei diritti necessari.
 NO_FAMILY_WAREHOUSE: Nessun magazzino di famiglia trovato.
-NO_GILLION: Ti serve più di Pietra Gilion
+NO_GILLION: Ti serve più Pietra Gilion
 NO_PARTNER_IN_TEAM: '#NO_PARTNER_IN_TEAM'
 NO_PREZ_MESSAGE: '#NO_PREZ_MESSAGE'
 NO_SP: Nessuna carta speciale in uso
@@ -356,25 +356,25 @@ NOT_ENOUGH_CP: Non hai abbastanza punti CP.
 NOT_ENOUGH_DURABILITY_POINT: Non hai abbastanza punti di durabilità
 NOT_ENOUGH_FUNDS: '#NOT_ENOUGH_FUNDS'
 NOT_ENOUGH_GOLD: Non hai abbastanza soldi
-NOT_ENOUGH_INGREDIENT: '#NOT_ENOUGH_INGREDIENT'
-NOT_ENOUGH_ITEMS: '#NOT_ENOUGH_ITEMS'
+NOT_ENOUGH_INGREDIENT: Non hai gli ingredienti necessari
+NOT_ENOUGH_ITEMS: Non hai gli item necessari
 NOT_ENOUGH_MINILAND_POINT: '#NOT_ENOUGH_MINILAND_POINT'
-NOT_ENOUGH_MP: '#NOT_ENOUGH_MP'
+NOT_ENOUGH_MP: Non hai abbastanza MP'
 NOT_ENOUGH_PLACE: Non hai abbastanza spazio
-NOT_ENOUGH_POINTS: '#NOT_ENOUGH_POINTS'
-NOT_ENOUGH_POWER_SEED: Non hai abbastanza semi della potenza
+NOT_ENOUGH_POINTS: Non hai abbastanza Punti
+NOT_ENOUGH_POWER_SEED: Non hai abbastanza Semi della potenza
 NOT_ENOUGH_REPUT: Reputazione insufficiente
-NOT_ENOUGH_REQUIERED_ITEM: Non hai abbastanza di componente.
+NOT_ENOUGH_REQUIERED_ITEM: Non hai abbastanza item!
 NOT_ENOUGH_SAVER: Non hai abbastanza Fontana del Salvatore per rivivere.
-NOT_ENOUGH_SEED_SAY: Non hai abbastanza semi della potenza
+NOT_ENOUGH_SEED_SAY: Non hai abbastanza Semi della potenza
 NOT_FAMILY_HEAD: Non sei il capo famiglia!
 NOT_FRIEND: Non sei il amico di {0}
 NOT_HUNGRY_FEMALE: Credo di non essere affamata.
-NOT_HUNGRY_MALE: Non sono affamato
-NOT_IN_FAMILY: '#NOT_IN_FAMILY'
+NOT_HUNGRY_MALE: Credo di non essere affamato.
+NOT_IN_FAMILY: Non sei in una famiglia
 NOT_MASTER: Non sei il leader del gruppo
-NOT_MAX_RARITY: '#NOT_MAX_RARITY'
-NOT_REQUIERED_LEVEL: Non sei al tuo livello
+NOT_MAX_RARITY: Non è la massima rarità
+NOT_REQUIERED_LEVEL: Non sei al livello opportuno!
 NOT_YOUR_ITEM: L'item non ti appartiene!
 NOTICE_BAZAAR: Attenzione, puoi essere attacato da un mostro quando usi il NosBazar!
 OBJECT_IN_BAZAAR: Il tuo oggetto è stato aggiunto al NosBazar
@@ -401,7 +401,7 @@ PERFECTSP_SHADOW: Oscurità
 PERFECTSP_SUCCESS: 'Perfezione SP avvenuta: {0} +{1}'
 PERFECTSP_WATER: Acqua
 PET_AUTO_RELIVE_DISABLED: Il tuo compagno ritornerà al Mini-Land, dopo la sua morte.
-PET_AUTO_RELIVE_ENABLED: il tuo compagno potrà essere salvato dopo la sua morte, ti costerà semi di potere.
+PET_AUTO_RELIVE_ENABLED: Il tuo compagno potrà essere salvato dopo la sua morte, ti costerà semi di potere.
 PET_CAN_PICK_UP: Adesso, il tuo NosMate può far cadere gli oggetti.
 PET_HIGHER_LEVEL: '#PET_HIGHER_LEVEL'
 PET_IN_TEAM_UNRELEASABLE: Non puoi liberare il tuo NosMate se è in gruppo con te.
