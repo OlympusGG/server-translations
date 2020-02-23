@@ -1,6 +1,6 @@
 ACCEPTED_SHARE: Zaakceptowano zmianę punktu powrotu od gracza {0}!
-ACHIEVEMENT_CHAT_MESSAGE: 'Osiągniecie [{0}] odblokowane!'
-ACHIEVEMENT_CHAT_PLAYER_MESSAGE: 'Yaa, nowe osiągniecie odblokowane!'
+ACHIEVEMENT_CHAT_MESSAGE: Osiągniecie [{0}] odblokowane!
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: Yaa, nowe osiągniecie odblokowane!
 ACHIEVEMENT_GOLDEN_MESSAGE: 'Odblokowano osiągnięcie: {0}!'
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
@@ -52,6 +52,7 @@ ASK_OPEN_BOX: Czy chcesz otworzyć pudło?
 ASK_PARTNER_MAX: Czy chcesz powiększyć ilość miejsc dla partnerów?
 ASK_PET_MAX: Czy chcesz powiększyć ilość miejsc dla NosKumpli?
 ASK_RELEASE_PET: Czy chcesz wyciągnąć NosKumpla z perły?
+ASK_RESET_ALL_PSP_SKILLS: '#ASK_RESET_ALL_PSP_SKILLS'
 ASK_REVIVE: Czy chcesz się tutaj wskrzesić? Będzie to kosztować 10 Ziaren Mocy.
 ASK_REVIVE_FREE: Czy chcesz się tutaj wskrzesić? Koszt będzie darmowy do 20 poziomu.
 ASK_REVIVE_LOD: Czy chcesz się tutaj wskrzesić? Będzie to koszt 1 Eliksira Wybawienia.
@@ -295,6 +296,11 @@ MAILED: Notka wysłana!
 MARRIED_BROADCAST: '{0} oraz {1} pobrali się!'
 MARRIED_REFUSED_BROADCAST: '{0} odrzucił zaręczyny od {1}'
 MARTIAL_ART: Mistrz Sztuk Walki
+MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
+MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
+MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
+MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
+MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
 MAX_MATES_COUNT: Osiągnięto maksymalną ilość NosKumpli!
@@ -321,12 +327,12 @@ MOTD_LANG_COMMAND: Jeśli chcesz zmienić język, wpisz $help lang
 MOTD_WELCOME: Witaj na serwerze NosWings!
 MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
-MSG_UNDER_CHAT0: '#MSG_UNDER_CHAT0'
-MSG_UNDER_CHAT1: '#MSG_UNDER_CHAT1'
-MSG_UNDER_CHAT2: '#MSG_UNDER_CHAT2'
-MSG_UNDER_CHAT3: '#MSG_UNDER_CHAT3'
-MSG_UNDER_CHAT4: '#MSG_UNDER_CHAT4'
-MSG_UNDER_CHAT5: '#MSG_UNDER_CHAT5'
+MSG_UNDER_CHAT0: 'Odwiedź naszą stronę: noswings.com'
+MSG_UNDER_CHAT1: Znalazłeś/aś błąd? Zgłoś go na forum!
+MSG_UNDER_CHAT2: Nigdy nie dziel się swoim loginem i hasłem!
+MSG_UNDER_CHAT3: Kliknij F11, aby porozmawiać ze społecznością NosWings na Discordzie.
+MSG_UNDER_CHAT4: Czytaj najnowsze opisy patcha, aby być na bieżąco!
+MSG_UNDER_CHAT5: Nigdy nie proś Mistrza Gry o przedmiot lub złoto!
 MSG_UNDER_CHAT6: '#MSG_UNDER_CHAT6'
 MSG_UNDER_CHAT7: '#MSG_UNDER_CHAT7'
 MSG_UNDER_CHAT8: '#MSG_UNDER_CHAT8'
@@ -390,8 +396,8 @@ ONLY_HEAD_CAN_BUY: Tylko szef rodziny może to kupić!
 ONLY_PROMOTE_ASSISTANT: Na szefa rodziny możesz awansować tylko zastępcę!
 ONLY_RAID_LEADER_CAN_START: Tylko lider może rozpocząć rajd!
 OPEN_BANK: Witaj w banku! W czym możemy Ci pomóc?
-PARTNER_ADDRESS_ALREADY_FULL: '#PARTNER_ADDRESS_ALREADY_FULL'
-PARTNER_ADDRESS_FULL: '#PARTNER_ADDRESS_FULL'
+PARTNER_100_AGILITY: '#PARTNER_100_AGILITY'
+PARTNER_ALL_SKILLS_RESET: '#PARTNER_ALL_SKILLS_RESET'
 PARTNER_ALREADY_HAVE_SKILL: Twój partner posiada już tą umiejętnosć.
 PARTNER_AUTO_RELIVE_DISABLED: Po śmierci NosKumpel wróci do Mini-Landu.
 PARTNER_AUTO_RELIVE_ENABLED: Po śmierci NosKumpel zostanie ożywiony Ziarnami Mocy.
@@ -402,7 +408,10 @@ PARTNER_NEED_AGILITY_POINTS: Partner potrzebuje zręczności!
 PARTNER_NO_SP_EQUIPPED: Partner nie ma założnej Karty Specjalisty
 PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
+PARTNER_SKILL_S: '#PARTNER_SKILL_S'
+PARTNER_SP_IN_COOLDOWN: '#PARTNER_SP_IN_COOLDOWN'
 PARTNER_SP_NEW_SKILL: Partner nauczył się nowej umiejętności!
+PARTNER_TRANSFORM_DISAPPEAR: '#PARTNER_TRANSFORM_DISAPPEAR'
 PERFECTSP_ATTACK: Atak
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
@@ -527,7 +536,10 @@ STAY_TIME: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 STOP_SPAWNING_BROKEN_SHELL: Przestań!!!
 SUM_FAILED: Łączenie nie udało się.
 SUM_SUCCESS: Łączenie udało się.
-SUPER_REWARD: Gracz {0} wygrał {1} w tajemniczym pudełku!
+SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
+SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
+SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
+SUPER_REWARD_SPECIAL_FAIRY: '#SUPER_REWARD_SPECIAL_FAIRY'
 SUPPORT: Wsparcie
 SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 SWORDSMAN: Wojownik
