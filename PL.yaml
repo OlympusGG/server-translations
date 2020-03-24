@@ -85,6 +85,7 @@ BUY_ITEM_VALID: Kupiono {1}x {0}.
 CALIGOR_REALM_CLOSED: Portal do Królestwa Caligora jest zamknięty.
 CALIGOR_REALM_LOCKED: Portal do Królestwa Caligora został zamknięty.
 CALIGOR_REALM_OPEN: Portal do Królestwa Caligora został otwarty!
+CANNOT_BE_UNFREEZED_BY_KILLER: '#CANNOT_BE_UNFREEZED_BY_KILLER'
 CANNOT_CREATE_MARTIAL_ARTIST: Nie możesz utworzyć Mistrza Sztuk Walki!
 CANNOT_LEAVE_FAMILY: Szef nie może opuścić rodziny!
 CANT_ATTACK: Nie możesz teraz atakować!
@@ -92,6 +93,7 @@ CANT_CHANGE_MESSAGE: Dziś już modyfikowano wiadomość dnia. Spróbuj ponownie
 CANT_CREATE_RAID_WHILE_IN_GROUP: Nie możesz utworzyć rajdu gdy znajdujesz się w grupie!
 CANT_EQUIP_DESTROYED_SP: Nie możesz założyć zniszczonej Karty Specjalisty
 CANT_JOIN_ARENA_IN_RAID: Nie możesz dołączyć do rajdu na arenie!
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
 CANT_KICK_HEAD: Nie możesz wyrzucić szefa!
 CANT_KICK_SAME_AUTHORITY: Nie możesz wyrzucić gracza z takimi samymi uprawnieniami!
 CANT_KICK_YOURSELF: Nie możesz wyrzucić siebie!
@@ -191,9 +193,13 @@ FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
 GAME_CHANNEL: Kanał
 GAME_MASTER_OFF: Nie możesz tego zrobić!
+GAMEEVENT_ENDED: '#GAMEEVENT_ENDED'
+GAMEEVENT_NOT_ENOUGH_PLAYERS: '#GAMEEVENT_NOT_ENOUGH_PLAYERS'
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '#GAMEEVENT_WILL_FINISH_IN_A_MINUTE'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
 GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
@@ -224,6 +230,7 @@ HORN_APPEAR: Pojawił się Latający Ognisty Diabeł!
 HORN_DISAPEAR: Latający Ognisty Diabeł zniknął!
 HP_BLOCKED: Status eliksirów został zablokowany
 HP_UNLOCKED: Status eliksirów został odblokowany
+ICEBREAKER: '#ICEBREAKER'
 ICEBREAKER_ASK: '#ICEBREAKER_ASK'
 ICEBREAKER_FIGHT_WARN: '#ICEBREAKER_FIGHT_WARN'
 ICEBREAKER_MINUTES: '#ICEBREAKER_MINUTES'
@@ -239,13 +246,13 @@ IN_FAMILY: w rodzinie
 IN_WAITING_FOR: Oczekujesz na gracza {0}.
 INCOMING_EXCHANGE: 'Czy zaakceptować wymianę od gracza {0} [Poziom: {1}(+{2})]?'
 INFO_BAZAAR: Nie możesz otworzyć NosBazaru w tym miejscu, ponieważ nie posiadasz Medalu NosHandlarza.
+INSTANT_COMBAT: '#INSTANT_COMBAT'
 INSTANTBATTLE_MINUTES: Błyskawiczna Bitwa rozpocznie się za {0} min.
 INSTANTBATTLE_MINUTES_REMAINING: Błyskawiczna Bitwa zakończy się za {0} min.
 INSTANTBATTLE_MONSTERS_APPEAR: Pojawiły się potwory!
 INSTANTBATTLE_MONSTERS_HERE: Uwaga! Potwory otrzymały wsparcie!
 INSTANTBATTLE_MONSTERS_INCOMING: Nadchodzą potwory...
 INSTANTBATTLE_MONSTERS_WAVE: Fala potworów nadciąga...
-INSTANTBATTLE_NOT_ENOUGH_PLAYERS: Brak graczy - teleportacja za 5 sekund.
 INSTANTBATTLE_QUESTION: Czy chcesz dołączyć do Błyskawicznej Bitwy?
 INSTANTBATTLE_SECONDS: Błyskawiczna Bitwa rozpocznie się za {0} sek.
 INSTANTBATTLE_SECONDS_REMAINING: Błyskawiczna Bitwa zakonczy się za {0} sek.
@@ -300,6 +307,7 @@ MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
 MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
 MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
 MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
+MATE_LEVEL_UP: '#MATE_LEVEL_UP'
 MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
@@ -539,7 +547,6 @@ SUM_SUCCESS: Łączenie udało się.
 SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
 SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
-SUPER_REWARD_SPECIAL_FAIRY: '#SUPER_REWARD_SPECIAL_FAIRY'
 SUPPORT: Wsparcie
 SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 SWORDSMAN: Wojownik
@@ -551,6 +558,7 @@ TEAM_LEADER_CHANGE: Liderem grupy jest {0}
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
 TITLE_UNLOCKED: Tytuł został odblokowany.
+TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
 TOO_LOW_LVL: Twój poziom jest za niski!
 TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.

@@ -85,6 +85,7 @@ BUY_ITEM_VALID: Hai comprato {1} di {0}
 CALIGOR_REALM_CLOSED: Il regno di Caligor è stata chiuso
 CALIGOR_REALM_LOCKED: Il regno di Caligor è stata bloccato
 CALIGOR_REALM_OPEN: Il regno di Caligor è stata apperto
+CANNOT_BE_UNFREEZED_BY_KILLER: '#CANNOT_BE_UNFREEZED_BY_KILLER'
 CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Sei il capo della famiglia, non puoì lasciare la tua famiglia.
 CANT_ATTACK: Non puoi ancora attaccare
@@ -92,6 +93,7 @@ CANT_CHANGE_MESSAGE: Hai già modificato il motto del giorno, riprova domani.
 CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Non puoi equipaggiare una SP distrutta
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
 CANT_KICK_HEAD: Non puoi cacciato il tuo capo
 CANT_KICK_SAME_AUTHORITY: Non puoi cacciato il tuo Vice
 CANT_KICK_YOURSELF: Non puoi cacciato te stesso
@@ -191,9 +193,13 @@ FRIEND_REQUEST_BLOCKED: Il gioccatore {0} ha riffiutato la tua richiesta
 FXP_INCREASE: La tua famiglia ha fatto progressi!
 GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
+GAMEEVENT_ENDED: '#GAMEEVENT_ENDED'
+GAMEEVENT_NOT_ENOUGH_PLAYERS: '#GAMEEVENT_NOT_ENOUGH_PLAYERS'
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '#GAMEEVENT_WILL_FINISH_IN_A_MINUTE'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
 GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
@@ -224,6 +230,7 @@ HORN_APPEAR: La caccia al Corno oscuro è iniziata.
 HORN_DISAPEAR: Il Corno Oscuro è scomparso.
 HP_BLOCKED: Barra degli HP disabilitata
 HP_UNLOCKED: Barra degli HP abilitata
+ICEBREAKER: '#ICEBREAKER'
 ICEBREAKER_ASK: Vuoi entrare nell’icebreaker? Dovrai pagare {0} oro
 ICEBREAKER_FIGHT_WARN: Il PvP inizierà presto
 ICEBREAKER_MINUTES: In {0} minuti {1} ~ {2}Il Icebreaker inizierà per tutti i livelli.
@@ -239,13 +246,13 @@ IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: In attesa di {0}
 INCOMING_EXCHANGE: '{0} wants to exchange with you'
 INFO_BAZAAR: Non puoi aprire il NosBazar perchè non possiedi l'oggetto richiesto !
+INSTANT_COMBAT: '#INSTANT_COMBAT'
 INSTANTBATTLE_MINUTES: Il Combattimento Istantaneo inizierà tra {0} minuti.
 INSTANTBATTLE_MINUTES_REMAINING: Il Combattimento Istantaneo finirà in {0} minuti.
 INSTANTBATTLE_MONSTERS_APPEAR: Stanno per apparire i mostri!
 INSTANTBATTLE_MONSTERS_HERE: Sono arrivati i mostri!
 INSTANTBATTLE_MONSTERS_INCOMING: I mostri stanno arrivando in massa!I mostri stanno arrivando in massa!
 INSTANTBATTLE_MONSTERS_WAVE: L'orda di mostri si sta preparando ad arrivare.
-INSTANTBATTLE_NOT_ENOUGH_PLAYERS: Non ci sono abastanza gioccatore per il Combattimento Istantaneo
 INSTANTBATTLE_QUESTION: Vuoi entrare nel Combattimento Istantaneo?
 INSTANTBATTLE_SECONDS: Tra {0} secondi inizierà il Combattimento Istantaneo.
 INSTANTBATTLE_SECONDS_REMAINING: Il Combattimento Istantaneo finirà in {0} secondi.
@@ -300,6 +307,7 @@ MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
 MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
 MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
 MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
+MATE_LEVEL_UP: '#MATE_LEVEL_UP'
 MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
 MAX_GOLD: Massimo soldi raggiunto!
 MAX_GOLD_BANK_REACHED: Massimo soldi raggiunto nella banca
@@ -539,7 +547,6 @@ SUM_SUCCESS: La somma è riuscita!
 SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
 SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
-SUPER_REWARD_SPECIAL_FAIRY: '#SUPER_REWARD_SPECIAL_FAIRY'
 SUPPORT: Supporto
 SURE_TO_DELETE: L'item verrà distrutto.
 SWORDSMAN: '#SWORDSMAN'
@@ -551,6 +558,7 @@ TEAM_LEADER_CHANGE: Ora sei il capogruppo
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: You will be teleported in {0} seconds.
 TITLE_UNLOCKED: '#TITLE_UNLOCKED'
+TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
 TOO_LOW_LVL: Il tuo livello non corrisponde
 TOO_MUCH_GOLD: Tu hai troppo oro!
 TRADE_BLOCKED: User has blocked exchanges!

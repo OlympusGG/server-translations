@@ -85,6 +85,7 @@ BUY_ITEM_VALID: Du hast {1} von {0} gekauft
 CALIGOR_REALM_CLOSED: Caligors Reich wurde geschlossen.
 CALIGOR_REALM_LOCKED: Du kannst nicht mehr beitreten.
 CALIGOR_REALM_OPEN: Caligors Reich wurde geöffnet.
+CANNOT_BE_UNFREEZED_BY_KILLER: '#CANNOT_BE_UNFREEZED_BY_KILLER'
 CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen.
 CANT_ATTACK: Du kannst gerade nicht angreifen.
@@ -92,6 +93,7 @@ CANT_CHANGE_MESSAGE: Du hast deinen Spruch des Tages heute schon bearbeitet. Ver
 CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Du kannst keine zerstörte Spezialistenkarte anziehen.
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
 CANT_KICK_HEAD: Du kannst Familienvertreter oder Familienoberhäupter nicht entfernen.
 CANT_KICK_SAME_AUTHORITY: Du kannst Familienmitglieder mit dem selben Rang nicht entfernen.
 CANT_KICK_YOURSELF: Du kannst dich nicht selbst entfernen.
@@ -191,9 +193,13 @@ FRIEND_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FXP_INCREASE: Deine Familie hat {0} Erfahrungspunkte gesammelt.
 GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
+GAMEEVENT_ENDED: '#GAMEEVENT_ENDED'
+GAMEEVENT_NOT_ENOUGH_PLAYERS: '#GAMEEVENT_NOT_ENOUGH_PLAYERS'
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '#GAMEEVENT_WILL_FINISH_IN_A_MINUTE'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
 GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
@@ -224,6 +230,7 @@ HORN_APPEAR: Die Jagd des Fliegenden Feuerteufels hat begonnen.
 HORN_DISAPEAR: Der Fliegende Feuerteufel ist verschwunden.
 HP_BLOCKED: Ab sofort ist die HP-Statusanzeige ausgeblendet.
 HP_UNLOCKED: Ab sofort wird die HP-Statusanzeige angezeigt.
+ICEBREAKER: '#ICEBREAKER'
 ICEBREAKER_ASK: '#ICEBREAKER_ASK'
 ICEBREAKER_FIGHT_WARN: '#ICEBREAKER_FIGHT_WARN'
 ICEBREAKER_MINUTES: '#ICEBREAKER_MINUTES'
@@ -239,13 +246,13 @@ IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: Warten auf {0}
 INCOMING_EXCHANGE: '{0} wants to exchange with you'
 INFO_BAZAAR: Du bist mit der NosHändler-Medaille jeder Zeit in der Lage, den NosBasar auf allen generellen Maps zu öffnen.
+INSTANT_COMBAT: '#INSTANT_COMBAT'
 INSTANTBATTLE_MINUTES: In {0} Minute(n) wird der Instant Combat beginnen.
 INSTANTBATTLE_MINUTES_REMAINING: Der Instant Combat endet in {0} Minuten.
 INSTANTBATTLE_MONSTERS_APPEAR: Wooah! Monster sind aufgetaucht!
 INSTANTBATTLE_MONSTERS_HERE: Die Monster sind hier!
 INSTANTBATTLE_MONSTERS_INCOMING: Langsam nähern sich Monster in Massen!
 INSTANTBATTLE_MONSTERS_WAVE: Eine Welle von Monstern bereitet sich auf ihre Ankunft vor.
-INSTANTBATTLE_NOT_ENOUGH_PLAYERS: Nicht genug Spieler! Du wirst in 5 Sekunden zurückkehren.
 INSTANTBATTLE_QUESTION: Möchtest du am Instant Combat teilnehmen?
 INSTANTBATTLE_SECONDS: Der Instant Combat beginnt in {0} Sekunden.
 INSTANTBATTLE_SECONDS_REMAINING: Der Instant Combat endet in {0} Sekunden.
@@ -300,6 +307,7 @@ MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
 MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
 MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
 MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
+MATE_LEVEL_UP: '#MATE_LEVEL_UP'
 MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
 MAX_GOLD: Du hast das Goldlimit erreicht.
 MAX_GOLD_BANK_REACHED: Du hast das Bank Goldlimit erreicht.
@@ -539,7 +547,6 @@ SUM_SUCCESS: Summieren erfolgreich!
 SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
 SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
-SUPER_REWARD_SPECIAL_FAIRY: '#SUPER_REWARD_SPECIAL_FAIRY'
 SUPPORT: Support
 SURE_TO_DELETE: Wenn du den Gegenstand zerstörst, kann er nicht wiederhergestellt werden. Willst du ihn wirklich zerstören?
 SWORDSMAN: '#SWORDSMAN'
@@ -551,6 +558,7 @@ TEAM_LEADER_CHANGE: '#TEAM_LEADER_CHANGE'
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Du wirst in {0} Sekunden teleportiert.
 TITLE_UNLOCKED: '#TITLE_UNLOCKED'
+TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
 TOO_LOW_LVL: Dein Level ist zu niedrig.
 TOO_MUCH_GOLD: '#TOO_MUCH_GOLD'
 TRADE_BLOCKED: User has blocked exchanges!

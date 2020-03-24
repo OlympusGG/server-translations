@@ -85,6 +85,7 @@ BUY_ITEM_VALID: Tu as acheté {1} de {0}
 CALIGOR_REALM_CLOSED: Le portail vers Caligor est maintenant fermé.
 CALIGOR_REALM_LOCKED: Le portail vers Caligor est maintenant bloqué.
 CALIGOR_REALM_OPEN: Le portail vers Caligor est maintenant ouvert.
+CANNOT_BE_UNFREEZED_BY_KILLER: '#CANNOT_BE_UNFREEZED_BY_KILLER'
 CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Le chef de famille ne peut pas quitter
 CANT_ATTACK: Tu ne peux pas encore l'utiliser.
@@ -92,6 +93,7 @@ CANT_CHANGE_MESSAGE: Tu ne peux pas modifier ton message aujourd'hui car il a d�
 CANT_CREATE_RAID_WHILE_IN_GROUP: '#CANT_CREATE_RAID_WHILE_IN_GROUP'
 CANT_EQUIP_DESTROYED_SP: Tu ne peux pas l'équiper car l'âme est détruite.
 CANT_JOIN_ARENA_IN_RAID: '#CANT_JOIN_ARENA_IN_RAID'
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
 CANT_KICK_HEAD: Vous ne pouvez pas virer le chef de famille.
 CANT_KICK_SAME_AUTHORITY: Tu ne peux pas le virer car il a le même rang que toi.
 CANT_KICK_YOURSELF: Tu ne peux pas te virer toi même
@@ -191,9 +193,13 @@ FRIEND_REQUEST_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FXP_INCREASE: '{0} a rapporté {1} FXP en montant niveau {2}'
 GAME_CHANNEL: '#GAME_CHANNEL'
 GAME_MASTER_OFF: '#GAME_MASTER_OFF'
+GAMEEVENT_ENDED: '#GAMEEVENT_ENDED'
+GAMEEVENT_NOT_ENOUGH_PLAYERS: '#GAMEEVENT_NOT_ENOUGH_PLAYERS'
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '#GAMEEVENT_WILL_FINISH_IN_A_MINUTE'
 GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
 GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
+GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
 GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
 GET_PROTECTION_POWER_ANGEL: '#GET_PROTECTION_POWER_ANGEL'
 GET_PROTECTION_POWER_DEMON: '#GET_PROTECTION_POWER_DEMON'
@@ -224,6 +230,7 @@ HORN_APPEAR: La chasse au diable de feu volant a commencé
 HORN_DISAPEAR: Le diable de feu volant a disparu
 HP_BLOCKED: A partir de maintenant, la barre des HP sera bloquée
 HP_UNLOCKED: A partir de maintenant, la barre des HP sera débloquée.
+ICEBREAKER: '#ICEBREAKER'
 ICEBREAKER_ASK: Veux-tu entrer dans l'IceBreaker ? Tu devras verser {0} Or
 ICEBREAKER_FIGHT_WARN: Le PvP va bientôt commencer.
 ICEBREAKER_MINUTES: Dans {0} minutes, L'IceBreaker {1} ~ {2} va commencer
@@ -239,13 +246,13 @@ IN_FAMILY: '#IN_FAMILY'
 IN_WAITING_FOR: En attente {0}
 INCOMING_EXCHANGE: '{0} wants to exchange with you'
 INFO_BAZAAR: Avec la médaille NosMarchand, tu peux utiliser le NosBazaar à tout moment sur les cartes générales.
+INSTANT_COMBAT: '#INSTANT_COMBAT'
 INSTANTBATTLE_MINUTES: Dans {0} minutes un combat instantané va commencer.
 INSTANTBATTLE_MINUTES_REMAINING: La bataille se termine dans {0} minutes.
 INSTANTBATTLE_MONSTERS_APPEAR: Ouaaah ! Les monstres sont en train d'arriver
 INSTANTBATTLE_MONSTERS_HERE: Les monstres sont apparus !
 INSTANTBATTLE_MONSTERS_INCOMING: Les monstres s'approchent lentement en masse
 INSTANTBATTLE_MONSTERS_WAVE: Les monstres vont apparaître dans 40 secondes
-INSTANTBATTLE_NOT_ENOUGH_PLAYERS: Il n'y a pas assez de joueurs pour commencer le combat instantané.
 INSTANTBATTLE_QUESTION: Veux-tu participer au combat instantané ?
 INSTANTBATTLE_SECONDS: Dans {0} secondes un combat instantané va commencer.
 INSTANTBATTLE_SECONDS_REMAINING: La bataille se termine dans {0} secondes.
@@ -300,6 +307,7 @@ MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
 MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
 MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
 MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
+MATE_LEVEL_UP: '#MATE_LEVEL_UP'
 MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
 MAX_GOLD: Le montant maximal d'or a été atteint.
 MAX_GOLD_BANK_REACHED: Le montant maximal d'or en banque a été atteint.
@@ -539,7 +547,6 @@ SUM_SUCCESS: La combinaison a réussi !
 SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
 SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
-SUPER_REWARD_SPECIAL_FAIRY: '#SUPER_REWARD_SPECIAL_FAIRY'
 SUPPORT: NH
 SURE_TO_DELETE: L'objet va être détruit.
 SWORDSMAN: '#SWORDSMAN'
@@ -551,6 +558,7 @@ TEAM_LEADER_CHANGE: Vous êtes maintenant le chef du groupe.
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Vous allez être téléporté dans {0} secondes.
 TITLE_UNLOCKED: '#TITLE_UNLOCKED'
+TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
 TOO_LOW_LVL: Ton niveau de combat n'est pas assez élevé.
 TOO_MUCH_GOLD: Le montant maximal d'or a été atteint.
 TRADE_BLOCKED: User has blocked exchanges!
