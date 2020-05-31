@@ -37,7 +37,7 @@ ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
 ARENA_TALENT_LEFT: Pomyślnie opuszczono Arenę Talentów.
 ARENA_TEAM_FOUND: Znaleziono drużynę.
 ARENA_TEAM_LEAVE: Pomyślnie opuszczono drużynę.
-ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
+ARENA_TEAM_LEFT: '{0} has left the team.'
 ARENA_TICKET_LEFT: Pozostało {0}x wstępów na Arenę Talentów.
 ASK_ADD_TITLE: Czy chcesz dodać tytuł?
 ASK_BIND: Czy chcesz założyć ten przedmiot? Po założeniu nie będzie już zdatny do handlu.
@@ -52,8 +52,9 @@ ASK_OPEN_BOX: Czy chcesz otworzyć pudło?
 ASK_PARTNER_MAX: Czy chcesz powiększyć ilość miejsc dla partnerów?
 ASK_PET_MAX: Czy chcesz powiększyć ilość miejsc dla NosKumpli?
 ASK_RELEASE_PET: Czy chcesz wyciągnąć NosKumpla z perły?
-ASK_RESET_ALL_PSP_SKILLS: '#ASK_RESET_ALL_PSP_SKILLS'
+ASK_RESET_ALL_PSP_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
 ASK_REVIVE: Czy chcesz się tutaj wskrzesić? Będzie to kosztować 10 Ziaren Mocy.
+ASK_REVIVE_ARENA: '#ASK_REVIVE_ARENA'
 ASK_REVIVE_FREE: Czy chcesz się tutaj wskrzesić? Koszt będzie darmowy do 20 poziomu.
 ASK_REVIVE_LOD: Czy chcesz się tutaj wskrzesić? Będzie to koszt 1 Eliksira Wybawienia.
 ASK_REVIVE_PVP: Czy chcesz się wskrzesić? Będzie to kosztować 100 szt. złota.
@@ -65,7 +66,6 @@ ASK_USE: Czy chcesz użyć tego przedmiotu?
 ASK_WINGS_CHANGE: Czy zmienić skrzydła na tej karcie specjalisty?
 ASK_WITHDRAW_BANK: Czy chcesz wypłacić {0}000 szt. złota ze swojego konto?
 ASSISTANT_UNDEMOTABLE: Nie możesz zdegradować innego zastępcy!
-BACK_TO_MINILAND: Twój sojusznik wrócił do Mini-Landu z powodu braku Ziaren Mocy.
 BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
@@ -141,6 +141,7 @@ DONE: Zapisano zmiany.
 DROP_MAP_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 DROPPED_ITEM: 'Zdobyto: {1}x {0}'
 EFFECT_ACTIVATED: Efekt {0} został aktywowany!
+EFFECT_RESISTANCE: '#EFFECT_RESISTANCE'
 EFFECT_TERMINATED: 'Stracono efekt: {0}.'
 EFFECT_TITLE_DISABLED: Efekt tytułu został wyłączony
 EFFECT_TITLE_ENABLED: Efekt tytułu został włączony
@@ -193,14 +194,14 @@ FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
 FXP_INCREASE: Rodzina zdobyła {0} PDR.
 GAME_CHANNEL: Kanał
 GAME_MASTER_OFF: Nie możesz tego zrobić!
-GAMEEVENT_ENDED: '#GAMEEVENT_ENDED'
-GAMEEVENT_NOT_ENOUGH_PLAYERS: '#GAMEEVENT_NOT_ENOUGH_PLAYERS'
-GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '#GAMEEVENT_WILL_FINISH_IN_A_MINUTE'
-GENERIC_GAME_PREPARATION_MINUTES: '#GENERIC_GAME_PREPARATION_MINUTES'
-GENERIC_GAME_PREPARATION_SECONDS: '#GENERIC_GAME_PREPARATION_SECONDS'
+GAMEEVENT_ENDED: The event has ended.
+GAMEEVENT_NOT_ENOUGH_PLAYERS: Not enough players for the event.
+GAMEEVENT_WILL_FINISH_IN_A_MINUTE: The event will finish in a minute.
+GENERIC_GAME_PREPARATION_MINUTES: The event will start in {0} minutes.
+GENERIC_GAME_PREPARATION_SECONDS: The event will start in {0} seconds.
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
 GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
-GENERIC_GAME_STARTED: '#GENERIC_GAME_STARTED'
+GENERIC_GAME_STARTED: The event has started.
 GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
@@ -260,6 +261,7 @@ INSTANTBATTLE_STARTED: Błyskawiczna Bitwa rozpoczeła się!
 INSTANTBATTLE_SUCCEEDED: Wygrano Błyskawiczną Bitwę!
 INTRODUCTION_SET: '#INTRODUCTION_SET'
 INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
+INVENTORY_NOT_ENOUGH_SPACE: '#INVENTORY_NOT_ENOUGH_SPACE'
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
 INVITED_YOU_SHARE: Czy chcesz ustawić punkt powrotu od gracza {0}?
@@ -292,7 +294,6 @@ LEFT_RAID: Gracz {0} odszedł z rajdu.
 LEVELUP: Poziom twojej postaci został podwyższony!
 LIMIT_EXCEEDED: Nie możesz dodać więcej przedmiotów do NosBazaru, ponieważ limit został przekroczony.
 LOGIN_MEDAL: Medal NosHandlarza jest aktywny.
-LOSE_DIGNITY: Utracono {0} godności.
 LOSE_REP: Utracono {0} reputacji.
 LOW_JOB_LVL: Twoja profesja jest zbyt niska!
 LOW_RAID_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
@@ -303,12 +304,15 @@ MAILED: Notka wysłana!
 MARRIED_BROADCAST: '{0} oraz {1} pobrali się!'
 MARRIED_REFUSED_BROADCAST: '{0} odrzucił zaręczyny od {1}'
 MARTIAL_ART: Mistrz Sztuk Walki
-MATE_ATTACK_DOWNGRADE: '#MATE_ATTACK_DOWNGRADE'
-MATE_ATTACK_UPGRADE: '#MATE_ATTACK_UPGRADE'
-MATE_DEFENCE_UPGRADE: '#MATE_DEFENCE_UPGRADE'
-MATE_DEFENSE_DOWNGRADE: '#MATE_DEFENSE_DOWNGRADE'
-MATE_LEVEL_UP: '#MATE_LEVEL_UP'
-MATE_PET_EAT_EVERYTHING: '#MATE_PET_EAT_EVERYTHING'
+MATE_ATTACK_DOWNGRADE: Your NosMate's attack fell.
+MATE_ATTACK_UPGRADE: Your NosMate's attack upgraded!
+MATE_DEFENCE_UPGRADE: Your NosMate's defense upgraded!
+MATE_DEFENSE_DOWNGRADE: Your NosMate's defence fell.
+MATE_LEVEL_UP: Your NosMate has leveled up!
+MATE_PET_EAT_EVERYTHING: Your NosMate is full!
+MATE_SAVED_BY_SAVER: '#MATE_SAVED_BY_SAVER'
+MATE_WENT_BACK_TO_MINILAND: '#MATE_WENT_BACK_TO_MINILAND'
+MATE_WILL_BE_BACK: '#MATE_WILL_BE_BACK'
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
 MAX_MATES_COUNT: Osiągnięto maksymalną ilość NosKumpli!
@@ -320,8 +324,14 @@ METEORITE_ROUND: Rozpoczęła się {0} runda!
 METEORITE_STARTED: Meteoryty rozpoczęły się!
 MINI_INV_BLOCKED: Zaproszenia do Mini-Landu zostały zablokowane
 MINI_INV_UNLOCKED: Zaproszenia do Mini-Landu zostały odblokowane
-MINILAND_CLOSED_BY_FRIEND: Przyjaciel zamknął Mini-Land
+MINIGAME_NO_REWARD: '#MINIGAME_NO_REWARD'
+MINIGAME_POINTS_FULL: '#MINIGAME_POINTS_FULL'
+MINILAND_CLOSED: '#MINILAND_CLOSED'
+MINILAND_DURABILITY_MAXIMUM: '#MINILAND_DURABILITY_MAXIMUM'
+MINILAND_FULL: '#MINILAND_FULL'
 MINILAND_INFO_CHANGED: Zmieniono wiadomość powitalną Mini-Landu.
+MINILAND_INVITE_ASK: '#MINILAND_INVITE_ASK'
+MINILAND_INVITE_LOCK: '#MINILAND_INVITE_LOCK'
 MINILAND_LOCK: Mini-Land jest zablokowany.
 MINILAND_NEED_LOCK: Musisz ustawić Mini-Land na zablokowany, aby móc modyfikować.
 MINILAND_PRIVATE: Mini-Land jest prywatny.
@@ -351,6 +361,7 @@ MUTED_FEMALE: Byłam bardzo niegrzeczną dziewczynką... więc zostałam ukarana
 MUTED_MALE: Byłem bardzo niegrzecznym chłopczykiem... więc zostałem ukarany! -.-
 NB_ITEM_SOLD: '[NosBazar] Twój przedmiot został sprzedany: {0}x {1}'
 NEED_FAMILY: Wymagana jest rodzina, aby to zrobić.
+NEED_LEAVE_GROUP: '#NEED_LEAVE_GROUP'
 NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
 NEED_TEAM: Potrzebujesz drużyny, aby rozpocząć rajd.
 NEW_LEADER: Mianowano Cię nowym liderem grupy!
@@ -360,6 +371,7 @@ NEW_NAME_PET_MAX_LENGTH: Nazwa NosKumpla jest za długa, maksymalnie 14 znaków!
 NO_AMMO_ADVENTURER: Nie masz wystarczająco amunicji. Kup w sklepie ze sprzętem.
 NO_AMMO_ARCHER: Nie masz wystarczająco strzał. Kup w sklepie ze sprzętem.
 NO_AMMO_SWORDSMAN: Nie masz wystarczająco belt. Kup w sklepie ze sprzętem.
+NO_ENOUGH_REWARD_COUPON: '#NO_ENOUGH_REWARD_COUPON'
 NO_FAMILY: Nie jesteś w rodzinie.
 NO_FAMILY_RIGHT: Nie posiadasz uprawnień.
 NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
@@ -386,11 +398,12 @@ NOT_ENOUGH_PLACE: Nie masz wystarczająco miejsca w ekwipunku!
 NOT_ENOUGH_POINTS: Brak wystarczająco punktów!
 NOT_ENOUGH_POWER_SEED: Niewystarczająca ilość Ziaren Mocy.
 NOT_ENOUGH_REPUT: Niewystarczająca ilość reputacji.
-NOT_ENOUGH_REQUIERED_ITEM: Niewystarczająca ilość wymaganych przedmiotów
+NOT_ENOUGH_REQUIRED_ITEM: '#NOT_ENOUGH_REQUIRED_ITEM'
 NOT_ENOUGH_SAVER: Nie masz Eliksiru Wybawienia aby się wskrzesić.
 NOT_ENOUGH_SEED_SAY: Nie mam Ziaren Mocy!
 NOT_FAMILY_HEAD: Nie jesteś szefem rodziny!
 NOT_FRIEND: Nie jesteście przyjaciółmi!
+NOT_FULLFILLING_MINIGAME_REQUIREMENTS: '#NOT_FULLFILLING_MINIGAME_REQUIREMENTS'
 NOT_HUNGRY_FEMALE: Nie jestem głodna... może zrobię sobie sałatkę?
 NOT_HUNGRY_MALE: Nie jestem głodny... ale zjadłbym kebaba!
 NOT_IN_FAMILY: Nie jesteś w rodzinie!
@@ -414,7 +427,7 @@ PARTNER_ITEM_DONE: Przedmiot został przemieniony.
 PARTNER_LEVEL_IS_TOO_LOW: Poziom partnera jest za niski!
 PARTNER_NEED_AGILITY_POINTS: Partner potrzebuje zręczności!
 PARTNER_NO_SP_EQUIPPED: Partner nie ma założnej Karty Specjalisty
-PARTNER_PLEASE_UNEQUIP_SP: '#PARTNER_PLEASE_UNEQUIP_SP'
+PARTNER_PLEASE_UNEQUIP_SP: You must unequip your partner's Specialist Card first!
 PARTNER_RANK_MODIFIED: '#PARTNER_RANK_MODIFIED'
 PARTNER_SKILL_S: '#PARTNER_SKILL_S'
 PARTNER_SP_IN_COOLDOWN: '#PARTNER_SP_IN_COOLDOWN'
@@ -478,12 +491,15 @@ REMOVE_VEHICLE: Przed transformacją musisz zejść z pojazdu.
 REPUT_DECREASE: Reputacja została zmniejszona o {0}
 REPUT_INCREASE: Reputacja została zwiększona o {0}
 REPUT_RATE: Reput.
+REQUIRED_ITEM_EXPENDED: '#REQUIRED_ITEM_EXPENDED'
 RESPAWN_CALIGOR_ENTRY: Czy wskrzesić się w Królestwie Caligora?
 RESPAWNLOCATION_CHANGED: Miejsce ożywienia został zmieniony!
-RESTORE_DIGNITY: Przywrócono trochę godności!
 RESURRECT_IN_SECONDS: Wkrótce wrócisz do żywych...
 RETRY_SEARCH_ARENA_TEAM: Ponownie szukanie drużyny
 RIVAL_ARENA_TEAM_FOUND: Znaleziono przeciwną drużynę.
+SACRIFICE: '#SACRIFICE'
+SACRIFICE_REMOVED: '#SACRIFICE_REMOVED'
+SACRIFICE_WARNING: '#SACRIFICE_WARNING'
 SAME_FACTION: Nie możesz przemienić się w tę samą frakcję.
 SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych skrzydeł!
 SCROLL_PROTECT_USED: Użyto Zwoju Ochrony!
@@ -544,9 +560,9 @@ STAY_TIME: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 STOP_SPAWNING_BROKEN_SHELL: Przestań!!!
 SUM_FAILED: Łączenie nie udało się.
 SUM_SUCCESS: Łączenie udało się.
-SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
-SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
-SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
+SUPER_REWARD_FERNON_FAIRY: Congratulations! You got a Fernon Fairy!
+SUPER_REWARD_GOLDEN_BUSHTAIL: Congratulations! You got a Golden Bushtail!
+SUPER_REWARD_SP7_PLUS_15: Congratulations! You got {0}+15!
 SUPPORT: Wsparcie
 SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 SWORDSMAN: Wojownik
@@ -558,7 +574,7 @@ TEAM_LEADER_CHANGE: Liderem grupy jest {0}
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
 TITLE_UNLOCKED: Tytuł został odblokowany.
-TOO_FAR_TO_UNFREEZE: '#TOO_FAR_TO_UNFREEZE'
+TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 TOO_LOW_LVL: Twój poziom jest za niski!
 TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.
@@ -589,13 +605,13 @@ VICTORIOUS_ZENAS: Zwycięża drużyna Zenas!
 VISIBLE_TITLE_DISABLED: Wyłączono widoczność tytułu!
 VISIBLE_TITLE_ENABLED: Włączono widoczność tytułu!
 WANT_TO_SAVE_POSITION: Czy chcesz zapisać swoją pozycję?
+WAREHOUSE_FULL: '#WAREHOUSE_FULL'
 WARNING_INFO: 'Ilość otrzymanych ostrzeżeń: {0}.'
 WEDDING_REQUEST_RECEIVED: Czy chcesz przyjąć ślub od gracza {0}?
 WEDDING_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
 WELCOME_MUSIC_INFO: Wiosenna^Melodia
 WHISPER_BLOCKED: Szepty zostały zablokowane
 WHISPER_UNLOCKED: Szepty zostały odblokowane
-WILL_BE_BACK: '{0} zginął! Zostanie wskrzeszony za 3 minuty'
 WIN_MONEY: 'Złoto: +{0}'
 WIN_REPUT: 'Reputacja: +{0}'
 WIN_SP_POINT: 'Punkty SP: +{0}'
@@ -608,5 +624,6 @@ YOU_CATCHED_PET_X: Złapano {0}!
 YOU_GET_PET: Otrzymano {0}!
 YOU_HAVE_LIFE: 'Pozostałe życia: {0}'
 YOU_HAVE_LIFE_RAID: 'Pozostałe życia: {0}'
+YOU_HAVE_THE_SAME_PARTNER: '#YOU_HAVE_THE_SAME_PARTNER'
 YOU_REFUSED: Odmówiono handlu!
 ZENAS: Jesteś w drużynie Zenas!
