@@ -543,7 +543,7 @@ STATE_CHANGED: The sale was interrupted because the item is no longer available!
 STAY_TIME: SP transformation needs cooldown, {0} seconds
 STOP_SPAWNING_BROKEN_SHELL: '#STOP_SPAWNING_BROKEN_SHELL'
 SUM_FAILED: Summing failed.
-SUM_SUCCESS: '>Summing succeeded!'
+SUM_SUCCESS: 'Summing succeeded!'
 SUPER_REWARD_FERNON_FAIRY: '#SUPER_REWARD_FERNON_FAIRY'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '#SUPER_REWARD_GOLDEN_BUSHTAIL'
 SUPER_REWARD_SP7_PLUS_15: '#SUPER_REWARD_SP7_PLUS_15'
