@@ -1,20 +1,20 @@
-ACCEPTED_SHARE: Echange conclu avec {0}.
-ACHIEVEMENT_CHAT_MESSAGE: Succès [{0}] débloqué !
+ACCEPTED_SHARE: 'Echange conclu avec {0}.'
+ACHIEVEMENT_CHAT_MESSAGE: 'Succès [{0}] débloqué !'
 ACHIEVEMENT_CHAT_PLAYER_MESSAGE: Nouveau succès débloqué !
-ACHIEVEMENT_GOLDEN_MESSAGE: Tu as débloqué le succès [{0}].
+ACHIEVEMENT_GOLDEN_MESSAGE: 'Tu as débloqué le succès [{0}].'
 ACT4_CHANNEL_OFFLINE: Canal Acte 4 hors-ligne.
 ACT4_NEED_FACTION: Seuls ceux ayant un camp peuvent aller en Acte 4.
 ACT4_PVP_DEATH: '{1} a succombé face à un gardien de {0}.'
 ACT4_PVP_DIE: Tu es mort face à un ennemi, réincarnation dans 30 secondes.
 ACT4_PVP_KILL: '{1} a défait un gardien de {0}.'
-ACT4_RAID_OPEN: Le raid {0} est accessible.
+ACT4_RAID_OPEN: 'Le raid {0} est accessible.'
 ADD_OPTION_ON_STUFF: Veux-tu ajouter une option à cet équipement ? Tu seras le seul à pouvoir l'équiper.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L'option déjà présente sera remplacée par la nouvelle avec 50% de chances. En cas d'échec, l'équipement sera détruit. Continuer ?
 ADVENTURER: Aventurier
 ADVENTURERS_CANT_USE: Cet objet n'est pas pour les aventuriers !
 ALREADY_EXCHANGE: Le joueur est déjà en échange.
 ALREADY_FRIEND: Vous êtes déjà amis.
-ALREADY_GOT_BUFF: Tu as déjà le buff {0}.
+ALREADY_GOT_BUFF: 'Tu as déjà le buff {0}.'
 ALREADY_IN_FAMILY: Tu as déjà une famille.
 ALREADY_IN_GROUP: Tu es déjà dans un groupe.
 ALREADY_MARRIED: Tu es déjà marié(e).
@@ -27,17 +27,17 @@ ALREADY_TWO_ASSISTANT: Tu as déjà deux assistants.
 AMMO_LOADED_ADVENTURER: Munitions rechargées !
 AMMO_LOADED_ARCHER: Flèches rechargées !
 AMMO_LOADED_SWORDSMAN: Carreaux rechargées !
-AMULET_DESTROYED: 'ATTENTION: L'amulette a perdu son pouvoir.'
+AMULET_DESTROYED: "ATTENTION: L'amulette a perdu son pouvoir."
 AMULET_FAIL_SAVED: L'équipement n'a pas été détruit grâce à l'amulette !
 ARCHER: Archer
-ARENA_CALLED: Renfort demandé : {0}
+ARENA_CALLED: 'Renfort demandé : {0}'
 ARENA_KILL: '{0} n'a pas tenu face à {1}.'
 ARENA_NOT_OPEN: L'ADT est ouverte de 18h à 22h.
 ARENA_PENALTY_NOTICE: Annuler ta participation te donnera une pénalité.
 ARENA_TALENT_LEFT: Tu as bien quitté l'Arène des talents.
 ARENA_TEAM_FOUND: Ton équipe est constituée !
 ARENA_TEAM_LEAVE: Tu as bien quitté ton équipe.
-ARENA_TEAM_LEFT: '{0} a quitté l'équipe.'
+ARENA_TEAM_LEFT: "{0} a quitté l'équipe."
 ARENA_TICKET_LEFT: 'Participation(s) ADT restante(s) : {0}'
 ASK_ADD_TITLE: Veux-tu ajouter un titre ?
 ASK_BIND: Veux-tu porter cet objet ? Il sera lié à ton personnage, le rendant inapte à l'échange ou la vente.
@@ -45,7 +45,7 @@ ASK_CHANGE_FACTION: Veux-tu changer de camp ?
 ASK_CHANGE_FAMILY_FACTION: Veux-tu que ta famille change de camp ?
 ASK_CHANGE_SPAWNLOCATION: Veux-tu changer le lieu de ta réincarnation ?
 ASK_ENTRY_IN_FIRST_ROOM: Veux-tu commencer la mission ?
-ASK_FAMILY_INVITED: La famille {0} te veut ! Acceptes-tu de la rejoindre ?
+ASK_FAMILY_INVITED: 'La famille {0} te veut ! Acceptes-tu de la rejoindre ?'
 ASK_JOIN_TEAM_TS: Veux-tu rejoindre ton équipe ?
 ASK_KICK_PET: Veux-tu renvoyer ton NosMate au Minipays ?
 ASK_OPEN_BOX: Veux-tu ouvrir cette boîte ?
@@ -64,15 +64,15 @@ ASK_STORE_PET: Veux-tu placer ton NosMate dans cette perle ?
 ASK_TO_DELETE: Veux-tu détruire cet objet ?
 ASK_USE: Veux-tu utiliser cet objet ?
 ASK_WINGS_CHANGE: Veux-tu changer tes ailes ?
-ASK_WITHDRAW_BANK: Veux-tu retirer {0} or de ton compte ?
+ASK_WITHDRAW_BANK: 'Veux-tu retirer {0} or de ton compte ?'
 ASSISTANT_UNDEMOTABLE: Tu ne peux pas destituer un autre assistant.
 BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Le nombre entré est invalide.
 BAD_EQUIPMENT: Tu ne peux pas porter cet objet.
 BAD_FAIRY: Ta fée ne correspond pas à l'élement de ta SP.
-BANK_ASK_DEPOSIT: Veux-tu déposer {0} or sur ton compte ?
-BANK_BALANCE: Il y a {0} or sur ton compte.
-BANK_DEPOSIT: {0} or déposé(s) sur ton compte.
+BANK_ASK_DEPOSIT: 'Veux-tu déposer {0} or sur ton compte ?'
+BANK_BALANCE: 'Il y a {0} or sur ton compte.'
+BANK_DEPOSIT: '{0} or déposé(s) sur ton compte.'
 BLACKLIST_ADDED: Joueur ajouté à ta liste noire.
 BLACKLIST_BLOCKED: Ce joueur t'a bloqué !
 BLACKLIST_BLOCKING: Ce joueur est sur ta liste noire.
@@ -81,7 +81,7 @@ BROADCASTER: (Team NosWings)
 BUFF_BLOCKED: Icônes de buff désactivées.
 BUFF_UNLOCKED: Icônes de buff activées.
 BUY_ITEM_PLAYER: '{0} a acheté {1} x{2}'
-BUY_ITEM_VALID: Tu as acheté  {0} x{1}
+BUY_ITEM_VALID: 'Tu as acheté  {0} x{1}'
 CALIGOR_REALM_CLOSED: Portail de Caligor fermé.
 CALIGOR_REALM_LOCKED: Portail de Caligor bloqué.
 CALIGOR_REALM_OPEN: Portail de Caligor ouvert.
@@ -112,7 +112,7 @@ CELLONING_SUCCESS: Réussite de l'ajout d'options !
 CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
 CHANGED_SHARE: L'amulette du retour t'emmenera ailleurs à présent.
 CHANNEL: Canal
-CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) s'est connecté.'
+CHARACTER_FAMILY_LOGGED_IN: "{0}({1}) s'est connecté."
 CHARACTER_LOGGED_IN: '{0} est connecté.'
 CHARACTER_LOGGED_OUT: '{0} est déconnecté.'
 CHARACTER_NOT_IN_FRIENDLIST: Ce joueur n'est pas dans ta liste d'amis.
@@ -122,10 +122,10 @@ COMMANDS_HELP: Help command
 COMMANDS_UNDOCUMENTED: Unknown command
 COMMANDS_USAGES: Command usage
 COMPLIMENT_COOLDOWN: Tu ne peux admirer qu'un joueur par jour.
-COMPLIMENT_GIVEN: Tu as admiré {0}.
-COMPLIMENT_LOGIN_COOLDOWN: Il te reste {0} minutes avant de pouvoir admirer quelqu'un.
+COMPLIMENT_GIVEN: 'Tu as admiré {0}.'
+COMPLIMENT_LOGIN_COOLDOWN: "Il te reste {0} minutes avant de pouvoir admirer quelqu'un."
 COMPLIMENT_NOT_MINLVL: Il faut être niv. 30 pour admirer quelqu'un.
-COMPLIMENT_RECEIVED: {0} t'offre son admiration.
+COMPLIMENT_RECEIVED: "{0} t'offre son admiration."
 COSTUME_BLOCKED: Costume désactivé.
 COSTUME_UNLOCKED: Costume activé.
 CRAFTED_OBJECT: 'Tu as crafté : {1} x{0}'
@@ -139,10 +139,10 @@ DO_YOU_WANT_MODIFY_SKILL: '#DO_YOU_WANT_MODIFY_SKILL'
 DO_YOU_WANT_START_RAID: Veux-tu commencer le raid ?
 DONE: Effectué !
 DROP_MAP_FULL: Il y a trop d'objets sur cette map, réessaye plus tard !
-DROPPED_ITEM: Tu as reçu {1} x{0}
-EFFECT_ACTIVATED: L'effet {0} est activé.
+DROPPED_ITEM: 'Tu as reçu {1} x{0}'
+EFFECT_ACTIVATED: "L'effet {0} est activé."
 EFFECT_RESISTANCE: Aucun effet grâce à l'immunité.
-EFFECT_TERMINATED: L'effet {0} n'est plus actif.
+EFFECT_TERMINATED: "L'effet {0} n'est plus actif."
 EFFECT_TITLE_DISABLED: L'effet du titre n'est plus actif.
 EFFECT_TITLE_ENABLED: L'effet du titre est actif.
 EMO_BLOCKED: Emoticones désactivés.
@@ -155,23 +155,23 @@ EXCHANGE_BLOCKED: Demandes d'échange bloquées.
 EXCHANGE_MATERIAL: C'est ce que tu veux échanger ?
 EXCHANGE_NOT_ALLOWED_IN_RAID: Impossible pendant un raid.
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Impossible avec un membre de raid.
-EXCHANGE_REFUSED: '{0} ne souhaite rien t'échanger.'
+EXCHANGE_REFUSED: "{0} ne souhaite rien t'échanger."
 EXCHANGE_UNLOCKED: Demandes d'échange autorisées.
 EXPEVENT_DISABLED: EXP Event désactivé.
 EXPEVENT_ENABLED: EXP Event activé.
-FAIRY_LEVELUP: Ta {0} a pris un niveau !
+FAIRY_LEVELUP: 'Ta {0} a pris un niveau !'
 FAIRYMAX: Ta fée est au niv. max !
 FAIRYSTATS: 'EXP Fée : {0}/{1}'
 FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Un membre de ton groupe a quitté récemment ou est déjà dans une famille.
-FAMILY_FOUNDED: La famille {0} a été fondée !
+FAMILY_FOUNDED: 'La famille {0} a été fondée !'
 FAMILY_FULL: Ta famille est pleine.
 FAMILY_GROUP_NOT_FULL: Il te faut 3 personnes pour créer une famille.
 FAMILY_HEAD_CHANGE_GENDER: Ta famille a changé de camp.
 FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
 FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
 FAMILY_INVITATION_NOT_ALLOWED: Tu ne peux pas inviter de joueurs.
-FAMILY_INVITED: {0} a été invité dans ta famille.
-FAMILY_JOINED: {0} a rejoint la famille {1} !
+FAMILY_INVITED: '{0} a été invité dans ta famille.'
+FAMILY_JOINED: '{0} a rejoint la famille {1} !'
 FAMILY_LEAVE: Tu as quitté ta famille.
 FAMILY_NAME_ALREADY_USED: Ce nom de famille est déjà utilisé.
 FAMILY_RANK_ASSISTANT: Assistant
@@ -182,7 +182,7 @@ FAMILY_REQ_LOCKED: Invitations à rejoindre une famille désactivées.
 FAMILY_REQ_UNLOCKED: Invitations à rejoindre une famille activées.
 FAMILY_UP: Le niveau de ta famille augmente !
 FAMILYCALL: Cridefamille
-FRIEND_ADD: Veux-tu devenir ami avec {0} ?
+FRIEND_ADD: 'Veux-tu devenir ami avec {0} ?'
 FRIEND_ADDED: Nouvel ami ajouté.
 FRIEND_DELETED: Ancien ami supprimé.
 FRIEND_FULL: Ta liste d'amis est pleine !
@@ -191,21 +191,21 @@ FRIEND_REJECTED: Amitié déclinée.
 FRIEND_REQ_BLOCKED: Demandes d'amitié bloquées.
 FRIEND_REQ_UNLOCKED: Demandes d'amitié débloquées.
 FRIEND_REQUEST_BLOCKED: Demandes d'amitié bloquées.
-FXP_INCREASE: Ta famille vient d'obtenir {0} FXP.
+FXP_INCREASE: "Ta famille vient d'obtenir {0} FXP."
 GAME_CHANNEL: Canal
 GAME_MASTER_OFF: Tu ne peux pas faire ça !
 GAMEEVENT_ENDED: L'event vient de se terminer.
 GAMEEVENT_NOT_ENOUGH_PLAYERS: Pas assez de joueurs pour lancer l'event.
 GAMEEVENT_WILL_FINISH_IN_A_MINUTE: Il reste 1 minute avant la fin de l'event.
-GENERIC_GAME_PREPARATION_MINUTES: L'event commencera dans {0} minutes.
-GENERIC_GAME_PREPARATION_SECONDS: L'event commencera dans {0} secondes.
+GENERIC_GAME_PREPARATION_MINUTES: "L'event commencera dans {0} minutes."
+GENERIC_GAME_PREPARATION_SECONDS: "L'event commencera dans {0} secondes."
 GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
 GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
 GENERIC_GAME_STARTED: L'event a commencé !
 GET_PROTECTION_POWER_ANGEL: Te voilà béni(e) par le camp des anges !
 GET_PROTECTION_POWER_DEMON: Te voilà béni(e) par le camp des démons !
 GET_PROTECTION_POWER_NEUTRAL: Aucun camp n'a pu te bénir.
-GIFTED: Tu as reçu {0} colis !
+GIFTED: 'Tu as reçu {0} colis !'
 GM_CHAT_BLOCKED: Impossible de parler avec ce GM.
 GOLD_RATE: Or
 GOLD_TS_END: 'Gain : {0} or.'
@@ -214,12 +214,12 @@ GROUP_BLOCKED: Ce joueur ne veut pas être en groupe.
 GROUP_CANT_INVITE: Impossible d'inviter ce joueur.
 GROUP_CLOSED: Groupe dissous.
 GROUP_FULL: Le groupe est plein.
-GROUP_JOIN: Tu as rejoint le groupe de {0}.
+GROUP_JOIN: 'Tu as rejoint le groupe de {0}.'
 GROUP_LEFT: Tu as quitté ton groupe.
 GROUP_MEMBER_ALREADY_IN_FAMILY: Un des membres du groupe possède déjà une famille !
 GROUP_REQ_BLOCKED: Demandes de groupe bloquées.
 GROUP_REQ_UNBLOCKED: Demandes de groupe débloquées.
-GROUP_REQUEST: Demande de groupe envoyée à {0}.
+GROUP_REQUEST: 'Demande de groupe envoyée à {0}.'
 GROUP_SHARE_INFO: Tu proposes ton point de retour aux membres de ton groupe.
 HAS_SHOP_OPENED: Echange impossible : le joueur possède un magasin.
 HEAD_UNDEMOTABLE: Impossible de rétrograder le chef de la famille.
@@ -232,43 +232,43 @@ HORN_DISAPEAR: La Corne Obscure est partie.
 HP_BLOCKED: Infos barre HP désactivées.
 HP_UNLOCKED: Infos barre HP activées.
 ICEBREAKER: '#ICEBREAKER'
-ICEBREAKER_ASK: Accéder à l'ICEBREAKER contre {0} or ?
+ICEBREAKER_ASK: "Accéder à l'ICEBREAKER contre {0} or ?"
 ICEBREAKER_FIGHT_WARN: Le PVP va bientôt commencer.
-ICEBREAKER_MINUTES: Dans {0} minutes, L'ICEBREAKER {1} ~ {2} commence.
+ICEBREAKER_MINUTES: "Dans {0} minutes, L'ICEBREAKER {1} ~ {2} commence."
 ICEBREAKER_PLAYER_FROZEN: '{0} est gelé.'
 ICEBREAKER_PLAYER_OUT: '{0} est KO.'
 ICEBREAKER_PLAYER_UNFROZEN: '#ICEBREAKER_PLAYER_UNFROZEN'
-ICEBREAKER_SECONDS: Dans {0} secondes, L'ICEBREAKER {1} ~ {2} commence.
+ICEBREAKER_SECONDS: "Dans {0} secondes, L'ICEBREAKER {1} ~ {2} commence."
 ICEBREAKER_STARTED: L'ICEBREAKER a commencé.
 ICEBREAKER_WIN: Tu gagnes l'ICEBREAKER !
 IMPOSSIBLE_TO_USE: Impossible d'utiliser ça maintenant.
 IN_BATTLE: Tu ne peux pas inviter de joueurs s'ils combattent.
 IN_FAMILY: '#IN_FAMILY'
-IN_WAITING_FOR: En attente de {0}
+IN_WAITING_FOR: 'En attente de {0}'
 INCOMING_EXCHANGE: '{0} te propose un échange. [Niveau : {1}(+{2})]'
 INFO_BAZAAR: Pour accéder n'importe où au NosBazar, procure-toi une médaille NosMarchand.
 INSTANT_COMBAT: '#INSTANT_COMBAT'
-INSTANTBATTLE_MINUTES: Le C.I. commence dans {0} minute(s).
-INSTANTBATTLE_MINUTES_REMAINING: Le C.I. se termine dans {0} minute(s).
+INSTANTBATTLE_MINUTES: 'Le C.I. commence dans {0} minute(s).'
+INSTANTBATTLE_MINUTES_REMAINING: 'Le C.I. se termine dans {0} minute(s).'
 INSTANTBATTLE_MONSTERS_APPEAR: Les monstres sont là !
 INSTANTBATTLE_MONSTERS_HERE: Les monstres appellent des renforts !
 INSTANTBATTLE_MONSTERS_INCOMING: Les monstres arrivent ...
 INSTANTBATTLE_MONSTERS_WAVE: Une nouvelle vague arrive dans 40 secondes.
 INSTANTBATTLE_QUESTION: Veux-tu participer au C.I. ?
-INSTANTBATTLE_SECONDS: Le C.I. commence dans {0} secondes.
-INSTANTBATTLE_SECONDS_REMAINING: Le C.I. se termine dans {0} secondes.
+INSTANTBATTLE_SECONDS: 'Le C.I. commence dans {0} secondes.'
+INSTANTBATTLE_SECONDS_REMAINING: 'Le C.I. se termine dans {0} secondes.'
 INSTANTBATTLE_STARTED: Le C.I. a commencé !
 INSTANTBATTLE_SUCCEEDED: Tu gagnes le C.I. !
 INTRODUCTION_SET: '#INTRODUCTION_SET'
 INVALID_CHARNAME: Ce nom contient des caractères invalides.
 INVENTORY_NOT_ENOUGH_SPACE: '#INVENTORY_NOT_ENOUGH_SPACE'
-INVITED_YOU: '{0} t'invite dans son groupe.'
+INVITED_YOU: "{0} t'invite dans son groupe."
 INVITED_YOU_RAID: '{0} te propose de rejoindre son équipe de raid. Accepter ?'
-INVITED_YOU_SHARE: Veux-tu établir {0} comme point de retour ?
-ITEM_ACQUIRED: Obtenu : {1} x{0}
+INVITED_YOU_SHARE: 'Veux-tu établir {0} comme point de retour ?'
+ITEM_ACQUIRED: 'Obtenu : {1} x{0}'
 ITEM_ACQUIRED_BY_THE_GIANT_MONSTER: Tu as obtenu l'objet du monstre géant !
 ITEM_ACQUIRED_LOD: 'Obtenu :'
-ITEM_BOUND_TO: (Groupe) [{1}] peut ramasser {0} x{2}.
+ITEM_BOUND_TO: '(Groupe) [{1}] peut ramasser {0} x{2}.'
 ITEM_CANNOT_BE_WITH_SHELL: Cet objet ne peut pas être runé.
 ITEM_GIFTED: Un colis pour toi !
 ITEM_IS_FIXED: Le niveau d'amélioration de l'équipement est fixe.
@@ -284,20 +284,20 @@ ITEM_UNFIXED: Le niveau d'amélioration de l'équipement n'est plus fixe !
 JOB_LEVELUP: Ton niveau de métier a augmenté !
 JOIN_TEAM: Te voilà dans l'équipe de ce raid.
 JOINED_GROUP: Te voilà dans un groupe.
-KICK_RAID: Exclure {0} de ton équipe ?
+KICK_RAID: 'Exclure {0} de ton équipe ?'
 KICKED_FROM_RAID: Tu as été exclu de l'équipe de ce raid.
 LANGUAGE: Language
 LANGUAGE_CHANGED: 'You changed language to:'
 LANGUAGE_CURRENT: Current language is
 LEAVE_GROUP: '{0} a quitté ton groupe.'
-LEFT_RAID: '{0} a quitté l'équipe de raid.'
+LEFT_RAID: "{0} a quitté l'équipe de raid."
 LEVELUP: Ton niveau a augmenté !
 LIMIT_EXCEEDED: La limite d'objets que tu peux placer au NosBazar a été dépassée.
 LOGIN_MEDAL: Ta médaille NosMarchand est toujours active.
-LOSE_REP: Tu as perdu {0} points de réputation.
+LOSE_REP: 'Tu as perdu {0} points de réputation.'
 LOW_JOB_LVL: Ton niveau de métier est trop faible.
-LOW_RAID_LEVEL: Tu dois être niv. {0} pour participer au raid.
-LVL_REQUIRED: Il faut être niv. {0} de métier pour porter cette SP.
+LOW_RAID_LEVEL: 'Tu dois être niv. {0} pour participer au raid.'
+LVL_REQUIRED: 'Il faut être niv. {0} de métier pour porter cette SP.'
 MAGICAN: Mage
 MAIL_DELETED: Courrier supprimé.
 MAILED: Courrier envoyé !
@@ -318,8 +318,8 @@ MAX_GOLD_BANK_REACHED: Ton compte bancaire ne peut pas recevoir plus d'argent.
 MAX_MATES_COUNT: Tu n'as plus de place pour un autre familier.
 MAX_PARTNER_REACHED: Tu n'as plus de place pour un autre partenaire.
 MAX_PET_REACHED: '#MAX_PET_REACHED'
-MESSAGE_SENT_TO_CHARACTER: Envoi du message à [{0}] sur le canal {1}.
-METEORITE_MINUTES: Le raid du météore commence dans {0} minute(s).
+MESSAGE_SENT_TO_CHARACTER: 'Envoi du message à [{0}] sur le canal {1}.'
+METEORITE_MINUTES: 'Le raid du météore commence dans {0} minute(s).'
 METEORITE_ROUND: 'Début du {0} round !'
 METEORITE_STARTED: Le raid du météore commence !
 MINI_INV_BLOCKED: Invitations Minipays bloquées.
@@ -336,7 +336,7 @@ MINILAND_LOCK: Ton Minipays est verrouillé.
 MINILAND_NEED_LOCK: Tu dois verrouiller ton Minipays pour le modifier.
 MINILAND_PRIVATE: L'accès au Minipays est maintenant privé.
 MINILAND_PUBLIC: L'accès au Minipays est maintenant public.
-MINILAND_VISITOR: '(Visites) En tout : {0} / Aujourd'hui : {1}'
+MINILAND_VISITOR: "(Visites) En tout : {0} / Aujourd'hui : {1}"
 MINILAND_WELCOME_MESSAGE: Welcome!
 MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Le niv. du monstre doit être inférieur au tien pour le capturer.
 MONSTER_MUST_BE_LOW_HP: La vie du monstre doit être inférieure à 50% pour le capturer.
@@ -414,7 +414,7 @@ NOT_YOUR_ITEM: Cet objet ne t'appartient pas !
 NOTICE_BAZAAR: ATTENTION : Tu peux subir des dégâts pendant que tu utilises le NB.
 OBJECT_IN_BAZAAR: Tes objets ont été ajoutés au NosBazar.
 ONLY_HEAD_CAN_BUY: Seul le chef peut acheter ça.
-ONLY_PROMOTE_ASSISTANT: Seuls un assistant peut devenir chef de la famille.
+ONLY_PROMOTE_ASSISTANT: Seul un assistant peut devenir chef de la famille.
 ONLY_RAID_LEADER_CAN_START: Seul le chef de l'équipe peut lancer le raid.
 OPEN_BANK: Bienvenue à la Banque ! Puis-je vous aider ?
 PARTNER_100_AGILITY: '#PARTNER_100_AGILITY'
@@ -441,7 +441,7 @@ PERFECTSP_FIRE: Feu
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Lumière
 PERFECTSP_SHADOW: Obscurité
-PERFECTSP_SUCCESS: 'L'amélioration de la SP est un succès : {0} +{1}.'
+PERFECTSP_SUCCESS: "L'amélioration de la SP est un succès : {0} +{1}."
 PERFECTSP_WATER: Eau
 PET_ALREADY_CAN_PICK_UP: Ton NosMate peut déjà ramasser les objets.
 PET_AUTO_RELIVE_DISABLED: S'il meurt, ton familier retournera au Minipays.
@@ -454,7 +454,7 @@ PET_LEAVE_BEAD: Ton nouvel ami est sorti de sa perle !
 PET_RELEASED: Ton NosMate est libre à présent.
 PET_STORED: Ton NosMate se trouve dans ta perle.
 PET_SUMMONABLE: Tu peux à présent invoquer ton NosMate.
-PLAYER_IN_BATTLE: {0} livre un combat.
+PLAYER_IN_BATTLE: '{0} livre un combat.'
 PLAYER_OFFLINE: Joueur hors-ligne
 POINTS_SET: Statut appliqué.
 PORTAL_BLOCKED: Impossible de l'utiliser : il est bloqué.
@@ -468,20 +468,20 @@ QUEST_TOO_LOW_LVL: Ton niveau est trop faible pour cette quête.
 QUICK_GET_UP_DISABLED: Utilisez le bouton C ou la compétence pour vous lever.
 QUICK_GET_UP_ENABLED: Cliquez sur l'écran (ou utilisez les boutons) pour vous lever.
 RAID_DISOLVED: Le raid est annulé.
-RAID_JOIN: '{0} rejoint l'équipe du raid.'
-RAID_LEFT: '{0} quitte l'équipe du raid.'
+RAID_JOIN: "{0} rejoint l'équipe du raid."
+RAID_LEFT: "{0} quitte l'équipe du raid."
 RAID_LEVEL_INCORRECT: Ton niveau ne correspondant pas à la tranche ciblée par le raid, tu n'auras pas de boîte à la fin.
 RAID_MEMBER_DEAD: '{0} vient de mourir.'
 RAID_NO_EXIST: L'équipe du raid n'existe pas.
 RAID_NO_EXIST_OR_STARTED: L'équipe du raid n'existe pas ou a commencé.
 RAID_REGISTERED: Ton équipe de raid apparaît maintenant dans la liste.
-RAID_SUCCEED: 'L'équipe de {0} vient de réussir le raid {1} !'
+RAID_SUCCEED: "L'équipe de {0} vient de réussir le raid {1} !"
 RAID_UNREGISTERED: Ton équipe de raid n'apparaît plus dans la liste.
 RARIFY_FAILED: Tu as perdu ton pari et ton objet !
 RARIFY_FAILED_ITEM_SAVED: Tu as perdu ton pari mais pas ton objet !
 RARIFY_SUCCESS: 'Tu as gagné ton pari ! Rareté : {0}'
 RATES: Taux
-RECEIVED_ITEM: Tu obtiens {0}
+RECEIVED_ITEM: 'Tu obtiens {0}'
 REFILL_MINIGAME: 'Contribution mini-jeux : {0}'
 REFUSED_GROUP_REQUEST: '{0} ne veut pas rejoindre ton groupe.'
 REFUSED_SHARE: Tu as préféré garder ton point de retour.
@@ -509,7 +509,7 @@ SEARCH_TEAM_MEMBERS: '{0} recherche des membres pour le raid {1}'
 SEED_USED: 'Tu as utilisé {0} graines de pouvoir.'
 SELECT_ORDER_ARENA: Choisissez l'ordre de passage (défini au hasard si personne ne choisi).
 SELECT_ORDER_ARENA_TIME: Plus que 1 minute avant le début du combat ! Bonne chance.
-SELL_ITEM_VALIDE: Vendu : {0} x{1}
+SELL_ITEM_VALIDE: 'Vendu : {0} x{1}'
 SERVER_INFORMATION: Infos. serveur
 SEX_CHANGED: Tu as changé de sexe.
 SHARING: Tout le monde peut ramasser les objets drop par le groupe.
@@ -525,8 +525,8 @@ SHELL_LEVEL_TOO_HIGH: Le niveau de la rune est trop élevé.
 SHELL_MUST_BE_IDENTIFIED: La rune doit être déchiffrée pour être utilisée.
 SHELL_OPTION_SET: Une nouvelle option a été ajoutée.
 SHELL_RARITY_TOO_HIGH: La rareté de la rune est trop élevée.
-SHIP_MINUTES: Le bateau part dans {0} minutes.
-SHIP_SECONDS: Le bateau part dans {0} secondes.
+SHIP_MINUTES: 'Le bateau part dans {0} minutes.'
+SHIP_SECONDS: 'Le bateau part dans {0} secondes.'
 SHIP_SETOFF: Le bateau est parti !
 SHOP_ALREADY_OPEN: Tu as déjà un magasin d'ouvert.
 SHOP_DEFAULT_NAME: Shop
@@ -537,18 +537,18 @@ SHOP_NOT_ALLOWED_IN_RAID: Tu ne peux pas ouvrir de magasin pendant un raid.
 SHOP_ONLY_TRADABLE_ITEMS: Ton magasin contient des objets qui ne peuvent pas être vendus.
 SHOP_OPEN: Magasin ouvert !
 SHOW_HAT: Les chapeaux sont à présent visibles.
-SHUTDOWN_SEC: Le serveur sera déconnecté dans {0} secondes.
+SHUTDOWN_SEC: 'Le serveur sera déconnecté dans {0} secondes.'
 SKILL_CANT_LEARN: Tu ne peux pas apprendre cette compétence.
 SKILL_LEARNED: Tu as appris une nouvelle compétence !
 SKILL_NOT_TO_REFUND: On ne peut pas te rembourser cette compétence !
 SKILLS_IN_LOADING: La transformation sera possible quand tes sorts ne se rechargeront plus.
 SP_BLOCKED: Tu ne peux pas changer de SP maintenant.
 SP_DEBUFFS: Un débuff t'empêche de te transformer.
-SP_IN_COOLDOWN: Tu dois attendre {0} secondes que ta SP se recharge.
+SP_IN_COOLDOWN: 'Tu dois attendre {0} secondes que ta SP se recharge.'
 SP_LEVELUP: Le niveau de ta SP a augmenté.
 SP_NO_REMOVE_DEBUFFS: Un débuff t'empêche d'enlever ta SP.
 SP_NOPOINTS: Il te faut des points SP pour pouvoir te transformer !
-SP_POINTS_ADDED: Tu t'es donné(e) {0} points SP.
+SP_POINTS_ADDED: "Tu t'es donné(e) {0} points SP."
 SP_POINTS_ADDED_BOTH: Points SP ajoutés.
 SP_POINTS_RESET: Points SP réinitialisés.
 SP_RESURRECTED: Ta SP n'est plus détruite !
@@ -556,9 +556,9 @@ SP_USE_NEEDED: Il faut être transformé pour faire ça.
 SPEAKER: Speaker
 SPEAKER_CANT_BE_USED: Impossible d'utiliser l'orateur !
 STATE_CHANGED: La vente est annulée car l'objet n'est plus disponible.
-STAY_TIME: La SP a besoin de {0} secondes pour se recharger.
+STAY_TIME: 'La SP a besoin de {0} secondes pour se recharger.'
 STOP_SPAWNING_BROKEN_SHELL: Stop!!!
-SUM_FAILED: La combinaison a échouée.
+SUM_FAILED: La combinaison a échoué.
 SUM_SUCCESS: La combinaison a réussi !
 SUPER_REWARD_FERNON_FAIRY: '{0} a eu une Fée de la déesse Fernon !'
 SUPER_REWARD_GOLDEN_BUSHTAIL: '{0} a eu un Ratufu Doré !'
@@ -570,9 +570,9 @@ TALENT_ARENA_GROUP: Tu dois quitter ton groupe pour participer à l'ADT.
 TALENT_ARENA_NO_MORE_TICKET: Tu n'as plus de ticket d'accès !
 TARGET_MAX_GOLD: Ce joueur ne peut pas porter plus d'or.
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
-TEAM_LEADER_CHANGE: Le chef du groupe est maintenant {0}
+TEAM_LEADER_CHANGE: 'Le chef du groupe est maintenant {0}'
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
-TELEPORTED_IN: Tu seras téléporté dans {0} secondes.
+TELEPORTED_IN: 'Tu seras téléporté dans {0} secondes.'
 TITLE_UNLOCKED: Titre débloqué !
 TOO_FAR_TO_UNFREEZE: Tu es trop loin pour dégeler !
 TOO_LOW_LVL: Ton niveau est trop faible.
@@ -581,11 +581,11 @@ TRADE_BLOCKED: Le joueur a bloqué les échanges.
 TRANSFORM_DISAPPEAR: Temps de rechargement écoulé.
 TRANSFORMATION_NEEDED: Il faut être transformé pour faire ça.
 TRY_FAILED: La tentative a échoué.
-TRY_FAILED_WAIT: La tentative a échoué, réessaye dans {0} seconds.
+TRY_FAILED_WAIT: 'La tentative a échoué, réessaye dans {0} seconds.'
 TS_PENALTY: 'Pénalité due au niveau : {0}'
 UI_BLOCKED: Interface utilisateur bloquée.
 UI_UNLOCKED: Interface utilisateur débloquée.
-UNDER_EFFECT: Tu es sous l'effet de {0}
+UNDER_EFFECT: "Tu es sous l'effet de {0}"
 UPGRADE_FAILED: L'amélioration a échoué.
 UPGRADE_FAILED_ITEM_SAVED: L'amélioration a échoué mais l'objet n'est pas détruit !
 UPGRADE_FIXED: Le niveau d'amélioration a été fixé.
@@ -606,9 +606,9 @@ VISIBLE_TITLE_DISABLED: Les titres n'apparaîssent plus à l'écran.
 VISIBLE_TITLE_ENABLED: Les titres réapparaîssent à l'écran.
 WANT_TO_SAVE_POSITION: Veux-tu enregistrer ta position ?
 WAREHOUSE_FULL: '#WAREHOUSE_FULL'
-WARNING_INFO: C'est ton {0} avertissement.
-WEDDING_REQUEST_RECEIVED: Veux-tu te marier avec {0} ?
-WEDDING_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0} ?
+WARNING_INFO: "C'est ton {0} avertissement."
+WEDDING_REQUEST_RECEIVED: 'Veux-tu te marier avec {0} ?'
+WEDDING_REQUEST_VERIFICATION: 'Es-tu sûr de vouloir te marier avec {0} ?'
 WELCOME_MUSIC_INFO: Mélodie^du^printemps
 WHISPER_BLOCKED: MP bloqués.
 WHISPER_UNLOCKED: MP activés.
@@ -619,9 +619,9 @@ WINNER_ARENA_ROUND: '#WINNER_ARENA_ROUND'
 WITHDRAW_BANK: '{0} or retiré(s) de ton compte.'
 XP_NOTFIRSTHIT: N'ayant pas tapé en premier, tu obtiens donc une part de l'EXP.
 YOU_ARE_RAID_LEADER: Tu es à présent chef de raid.
-YOU_ASK_FOR_EXCHANGE: Tu proposes un échange à {0}.
-YOU_CATCHED_PET_X: Tu as capturé {0} !
-YOU_GET_PET: Nouveau NosMate : {0} !
+YOU_ASK_FOR_EXCHANGE: 'Tu proposes un échange à {0}.'
+YOU_CATCHED_PET_X: 'Tu as capturé {0} !'
+YOU_GET_PET: 'Nouveau NosMate : {0} !'
 YOU_HAVE_LIFE: 'Vies restantes : {0}'
 YOU_HAVE_LIFE_RAID: 'Vies restantes : {0}'
 YOU_HAVE_THE_SAME_PARTNER: '#YOU_HAVE_THE_SAME_PARTNER'
