@@ -64,7 +64,7 @@ ASK_STORE_PET: Czy na pewno chcesz umieścić NosKumpla w perle?
 ASK_TO_DELETE: Przedmiot zostanie zniszczony, czy na pewno chcesz się go pozbyć?
 ASK_USE: Czy chcesz użyć tego przedmiotu?
 ASK_WINGS_CHANGE: Czy zmienić skrzydła na tej karcie specjalisty?
-ASK_WITHDRAW_BANK: Czy chcesz wypłacić {0}000 szt. złota ze swojego konto?
+ASK_WITHDRAW_BANK: Czy chcesz wypłacić {0} szt. złota ze swojego konto?
 ASSISTANT_UNDEMOTABLE: Nie możesz zdegradować innego zastępcy!
 BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
@@ -72,7 +72,7 @@ BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
 BANK_ASK_DEPOSIT: Czy chcesz wpłacić {0}000 szt. złota na swoje konto?
 BANK_BALANCE: 'Stan konta: {0} złota.'
-BANK_DEPOSIT: 'Wpłacono: {0}000 złota'
+BANK_DEPOSIT: 'Wpłacono: {0} złota'
 BLACKLIST_ADDED: Dodano do czarnej listy.
 BLACKLIST_BLOCKED: Gracz ma cię na czarnej liście.
 BLACKLIST_BLOCKING: Blokujesz tego gracza.
