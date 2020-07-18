@@ -462,6 +462,7 @@ PRICE_EXCEEDED: The price limit is exceeded.
 QNA_ITEM: Do you want to use this item?
 QUEST_ALREADY_DONE: You have already done this quest today !
 QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
+QUEST_MONSTER_KILL: '[{0}] cazados {1}/{2}'
 QUEST_REWARD: Your reward for the quest
 QUEST_TOO_HIGH_LVL: Your level is too high to receive this quest!
 QUEST_TOO_LOW_LVL: Your level is too low to receive this quest!

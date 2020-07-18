@@ -462,6 +462,7 @@ PRICE_EXCEEDED: Limit ceny został przekroczony.
 QNA_ITEM: Czy chcesz użyć tego przedmiotu?
 QUEST_ALREADY_DONE: Ta misja została już dziś ukończona.
 QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
+QUEST_MONSTER_KILL: '#QUEST_MONSTER_KILL'
 QUEST_REWARD: Nagroda za misję
 QUEST_TOO_HIGH_LVL: Twój poziom jest za wysoki, aby otrzymać tę misję.
 QUEST_TOO_LOW_LVL: Twój poziom jest za niski, aby otrzymać tę misję.
