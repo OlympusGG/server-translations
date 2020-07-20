@@ -462,7 +462,7 @@ PRICE_EXCEEDED: La limite de prix est dépassée
 QNA_ITEM: Souhaites-tu utiliser cet objet ?
 QUEST_ALREADY_DONE: La quête est déjà completée
 QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
-QUEST_MONSTER_KILL: '#QUEST_MONSTER_KILL'
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '#QUEST_CHATMESSAGE_X_HUNTING_Y_Z'
 QUEST_REWARD: Your reward for the quest
 QUEST_TOO_HIGH_LVL: La quête est d'un niveau trop haut pour vous
 QUEST_TOO_LOW_LVL: La quête est d'un niveau trop inférieur pour vous
