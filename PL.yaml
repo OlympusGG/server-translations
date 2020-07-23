@@ -463,6 +463,8 @@ QNA_ITEM: Czy chcesz użyć tego przedmiotu?
 QUEST_ALREADY_DONE: Ta misja została już dziś ukończona.
 QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '#QUEST_CHATMESSAGE_X_HUNTING_Y_Z'
+QUEST_QNA_START_MAIN_QUEST: '#QUEST_QNA_START_MAIN_QUEST'
+QUEST_SHOUT_ALREADY_MAIN_QUEST: '#QUEST_SHOUT_ALREADY_MAIN_QUEST'
 QUEST_REWARD: Nagroda za misję
 QUEST_TOO_HIGH_LVL: Twój poziom jest za wysoki, aby otrzymać tę misję.
 QUEST_TOO_LOW_LVL: Twój poziom jest za niski, aby otrzymać tę misję.
