@@ -462,6 +462,9 @@ PRICE_EXCEEDED: Il prezzo massimo è stato superato!
 QNA_ITEM: Vuoi utilizzare davvero quest'oggetto?
 QUEST_ALREADY_DONE: La missione è già stata completata.
 QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '#QUEST_CHATMESSAGE_X_HUNTING_Y_Z'
+QUEST_QNA_START_MAIN_QUEST: '#QUEST_QNA_START_MAIN_QUEST'
+QUEST_SHOUT_ALREADY_MAIN_QUEST: '#QUEST_SHOUT_ALREADY_MAIN_QUEST'
 QUEST_REWARD: Your reward for the quest
 QUEST_TOO_HIGH_LVL: Questa missione richiede un livello più elevato
 QUEST_TOO_LOW_LVL: Questa missione richiede un livello inferiore
