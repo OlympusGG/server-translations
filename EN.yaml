@@ -128,7 +128,7 @@ COMPLIMENT_NOT_MINLVL: You can only compliment a player if you have reached Lv 3
 COMPLIMENT_RECEIVED: You have been complimented by {0}.
 COSTUME_BLOCKED: Costumes disabled.
 COSTUME_UNLOCKED: Costumes enabled.
-CRAFTED_OBJECT: 'You have crafted: {0}x {1}'
+CRAFTED_OBJECT: 'You have crafted: {0} x{1}'
 CREATE_FAMILY: Do you want to create your family?
 CUARRY_BANK_ITEM_IN_EQ: You already have Cuarry Bank Debit Card in your equipment.
 DIGNITY_LOST: You lost dignity.
