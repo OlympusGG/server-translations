@@ -1,16 +1,16 @@
-ACCEPTED_SHARE: Tranzione accettata.
-ACHIEVEMENT_CHAT_MESSAGE: Achievement [{0}] unlocked!
-ACHIEVEMENT_CHAT_PLAYER_MESSAGE: New achievement unlocked!
-ACHIEVEMENT_GOLDEN_MESSAGE: You have unlocked achievement [{0}].
-ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
-ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
-ACT4_PVP_DEATH: ACT4 PVP morto.
-ACT4_PVP_DIE: ACT4 PVP morto.
-ACT4_PVP_KILL: ACT4 PVP ucciso.
-ACT4_RAID_OPEN: ACT4 RAID aperto.
+ACCEPTED_SHARE: Hai accettato il punto di ritorno di {0}!
+ACHIEVEMENT_CHAT_MESSAGE: Obbiettivo [{0}] sbloccato!
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: Nuovo obbiettivo sbloccato!
+ACHIEVEMENT_GOLDEN_MESSAGE: Hai sbloccato l'obbiettivo [{0}].
+ACT4_CHANNEL_OFFLINE: Canale dell Atto 4 è Offline.
+ACT4_NEED_FACTION: Solamente coloro che hanno la protezione della fazione possono entrare a Corona di Ghiaccio.
+ACT4_PVP_DEATH: '{1} è stato ucciso da un guardiano di {0}.'
+ACT4_PVP_DIE: Sei stato ucciso da un nemico! A causa della maledizione della Corona di Ghiaccio, non puoi rinascere per 30 secondi!
+ACT4_PVP_KILL: '{1} Ha ucciso un guardiano di {0}.'
+ACT4_RAID_OPEN: Il raid {0} è aperto!
 ADD_OPTION_ON_STUFF: Vuoi aggiungere opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L’opzione esistente sarà rimossa e sostituita da una nuova. La probabilità di successo è attualmente del 50 %. Ti va di continuare?
-ADVENTURER: Adventurer
+ADVENTURER: Avventuriero
 ADVENTURERS_CANT_USE: Gli avventurieri non possono usare quest'oggetto!
 ALREADY_EXCHANGE: L'utente sta già scambiando.
 ALREADY_FRIEND: Voi due siete già amici.
@@ -20,45 +20,45 @@ ALREADY_IN_GROUP: Sei già in un gruppo.
 ALREADY_MARRIED: L'utente è gia sposato
 ALREADY_MAX_RARE: Rarità massima
 ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
-ALREADY_QUEST: You have taken this quest already!
-ALREADY_TAKEN: Questo nome è già in uso !
-ALREADY_THIS_MINILANDOBJECT: You've already this miniland object
+ALREADY_QUEST: Hai già preso questa quest!
+ALREADY_TAKEN: Questo nome è già in uso!
+ALREADY_THIS_MINILANDOBJECT: Hai già questo oggetto della MiniLand!
 ALREADY_TWO_ASSISTANT: Hai già due vice!
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-AMULET_DESTROYED: Amuleto distrutta !
+AMULET_DESTROYED: Amuleto distrutto!
 AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
-ARCHER: Archer
-ARENA_CALLED: 'A participant has called : {0}'
-ARENA_KILL: '{0} has been killed by {1}.'
-ARENA_NOT_OPEN: Arena talent is open at 18:00 - 22:00
-ARENA_PENALTY_NOTICE: If you cancel the inscription you will suffered a penalty.
-ARENA_TALENT_LEFT: You successfully left the Talent Arena!
-ARENA_TEAM_FOUND: Participants found!
-ARENA_TEAM_LEAVE: You successfully left the Team
-ARENA_TEAM_LEFT: '{0} has left the team.'
-ARENA_TICKET_LEFT: Remaining participation(s) {0}
-ASK_ADD_TITLE: Do you want to add a title?
+ARCHER: Arciere
+ARENA_CALLED: 'Un partecipante ha chiamato : {0}'
+ARENA_KILL: '{0} è stato ucciso da {1}.'
+ARENA_NOT_OPEN: L'Arena dei Talenti apre dalle 18:00 alle 22:00
+ARENA_PENALTY_NOTICE: Se annulli la partecipazione ti verrà applicata una penalità.
+ARENA_TALENT_LEFT: Sei uscito con successo dalla Arena dei Talenti!
+ARENA_TEAM_FOUND: Partecipanti trovati!
+ARENA_TEAM_LEAVE: Sei uscito dal Team con successo.
+ARENA_TEAM_LEFT: '{0} è uscito dal team.'
+ARENA_TICKET_LEFT: Rimanenti partecipazioni {0}
+ASK_ADD_TITLE: Vuoi aggiungere un titolo?
 ASK_BIND: Vuoi davvero usare questo oggetto? L'oggetto sarà di uso esclusivo tuo.
-ASK_CHANGE_FACTION: Do you want to change your faction?
-ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
-ASK_CHANGE_SPAWNLOCATION: Do you want to change the respawn town?
-ASK_ENTRY_IN_FIRST_ROOM: Iniziare la missione ?
+ASK_CHANGE_FACTION: Vuoi cambiare la tua fazione?
+ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua famiglia?
+ASK_CHANGE_SPAWNLOCATION: Vuoi cambiare il punto di ritorno della rinascita?
+ASK_ENTRY_IN_FIRST_ROOM: Iniziare la missione?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
 ASK_JOIN_TEAM_TS: Vuoi unirti ai membri del tuo gruppo?
-ASK_KICK_PET: Do you want to refer your NosMate to the Mini-Land?
-ASK_OPEN_BOX: Vuoi apprire il cassaforte?
-ASK_PARTNER_MAX: Do you want to expand your partner slots?
-ASK_PET_MAX: Your pet reached max level!
+ASK_KICK_PET: Vuoi riportare il tuo NosMate indietro nella MiniLand?
+ASK_OPEN_BOX: Vuoi aprire questa scatola?
+ASK_PARTNER_MAX: Vuoi espandere gli slots del Partner?
+ASK_PET_MAX: Il tuo pet ha raggiunto il livello massimo!
 ASK_RELEASE_PET: Vuoi far uscire il tuo NosMate dalla perla?
-ASK_RESET_ALL_PSP_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
-ASK_REVIVE: Vuoi rivivere? Ti costerà 10 semi della potenza.
+ASK_RESET_ALL_PSP_SKILLS: Vuoi ripristinare tutte le skill della Carta Specialista del Partner?
+ASK_REVIVE: Vuoi rinascere? Ti costera 10 Semi della Potenza.
 ASK_REVIVE_ARENA: '#ASK_REVIVE_ARENA'
-ASK_REVIVE_FREE: Vuoi rivivere? E' gratuito.
-ASK_REVIVE_LOD: vuoi rivivere qui? Ti costerà una Fontana del Salvatore.
-ASK_REVIVE_PVP: Vuoi rivivere? Ti costerà 100 oro.
-ASK_REVIVE_TS: Vuoi rivivere? Attenzione, ti toglierà una vita
+ASK_REVIVE_FREE: Vuoi rinascere qui? Sarà gratuito.
+ASK_REVIVE_LOD: vuoi rinascere qui? Ti costera una Fontana del Salvatore.
+ASK_REVIVE_PVP: Vuoi rinascere? Ti costerà 100 oro.
+ASK_REVIVE_TS: Vuoi rinascere? Attenzione, ti verrà rimossa una vita.
 ASK_REVIVE_TS_LOW_LEVEL: Do you want to revive?
 ASK_STORE_PET: Vuoi mettere questo animale nella sua perla?
 ASK_TO_DELETE: L'item verrà distrutto.
@@ -70,16 +70,16 @@ BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
 BAD_DROP_AMOUNT: Quantita' di drop errato.
 BAD_EQUIPMENT: Il tuo personaggio non ha i requisiti necessari per poter utilizzare questo item.
 BAD_FAIRY: La Carta Speciale e la tua fata hanno attributi diversi.
-BANK_ASK_DEPOSIT: Do you want to deposit {0} gold to your bank?
-BANK_BALANCE: Hai {0} in banca
-BANK_DEPOSIT: Hai depositato {0} in banca
-BLACKLIST_ADDED: Personaggio aggiunto alla lista nera
+BANK_ASK_DEPOSIT: Vuoi depositare {0} oro nella tua banca?
+BANK_BALANCE: Hai {0} in banca.
+BANK_DEPOSIT: Hai depositato {0} in banca.
+BLACKLIST_ADDED: Personaggio aggiunto alla lista nera.
 BLACKLIST_BLOCKED: Questo giocatore ti ha bloccato!
 BLACKLIST_BLOCKING: Stai bloccando questo giocatore!
 BLACKLIST_DELETED: Personaggio tolto dalla lista nera
-BROADCASTER: (Administrator)
-BUFF_BLOCKED: Icone dei buff disabilitate
-BUFF_UNLOCKED: Icone dei buff abilitate
+BROADCASTER: (Amministratore)
+BUFF_BLOCKED: Icone dei buff disabilitate.
+BUFF_UNLOCKED: Icone dei buff abilitate.
 BUY_ITEM_PLAYER: '{0} bought {2} x {1}'
 BUY_ITEM_VALID: Hai comprato {1} di {0}
 CALIGOR_REALM_CLOSED: Il regno di Caligor è stata chiuso
