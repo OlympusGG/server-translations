@@ -243,7 +243,7 @@ ICEBREAKER_STARTED: '#ICEBREAKER_STARTED'
 ICEBREAKER_WIN: '#ICEBREAKER_WIN'
 IMPOSSIBLE_TO_USE: Can't use that right now!
 IN_BATTLE: You can't invite players when battling.
-IN_FAMILY: '#IN_FAMILY'
+IN_FAMILY: You can't change your faction. You are in a family.
 IN_WAITING_FOR: Waiting for {0}
 INCOMING_EXCHANGE: '{0} wants to trade with you. [Level: {1}(+{2})]'
 INFO_BAZAAR: You cannot open the Bazaar here because you don't have the NosMerchant Medal.
