@@ -5,7 +5,7 @@
 <div align="center">
   <br/>
   <a href="https://noswings.com">
-    <img height="300px" src="docs/_media/logo.png">
+    <img height="300px" src="https://avatars0.githubusercontent.com/u/40839221?s=300&v=4">
   </a>
 </div>
 <br/><br/>
