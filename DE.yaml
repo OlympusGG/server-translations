@@ -161,7 +161,6 @@ FAMILY_INVITATION_REJECTED: '#FAMILY_INVITATION_REJECTED'
 FAMILY_JOINED: Spieler {0} ist der {1} Familie beigetreten!
 FAMILY_LEAVE: You left the family.
 FAMILY_LEVEL_UP: '#FAMILY_LEVEL_UP'
-FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX: '#FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX'
 FAMILY_MSG_BROADCAST_SHOUT: '#FAMILY_MSG_BROADCAST_SHOUT'
 FAMILY_NAME_ALREADY_USED: Der Familienname ist bereits vergeben!
 FAMILY_RANK_ASSISTANT: Assistant
@@ -174,7 +173,6 @@ FRIEND_ADD: Willst du {0} zur Freundesliste hinzufügen?
 FRIEND_ADDED: Anfrage angenommen!
 FRIEND_DELETED: Freund entfernt!
 FRIEND_FULL: Deine Freundesliste ist voll!
-FRIEND_OFFLINE: Dein Freund ist offline!
 FRIEND_REJECTED: Deine Freundschaftsanfrage wurde abgelehnt!
 FRIEND_REQ_BLOCKED: Von jetzt an blockst du Freundschaftsanfragen.
 FRIEND_REQ_UNLOCKED: Von jetzt an akzeptierst du Freundschaftsanfragen.

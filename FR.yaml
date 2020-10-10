@@ -161,7 +161,6 @@ FAMILY_INVITATION_REJECTED: '#FAMILY_INVITATION_REJECTED'
 FAMILY_JOINED: '{0} a rejoint : {1}'
 FAMILY_LEAVE: Tu as quitté la famille.
 FAMILY_LEVEL_UP: '#FAMILY_LEVEL_UP'
-FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX: '#FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX'
 FAMILY_MSG_BROADCAST_SHOUT: '#FAMILY_MSG_BROADCAST_SHOUT'
 FAMILY_NAME_ALREADY_USED: Tu ne peux pas utiliser ce nom de famille car il est déjà utilisé
 FAMILY_RANK_ASSISTANT: Assistant
@@ -174,7 +173,6 @@ FRIEND_ADD: 'Veux-tu être amis avec : {0} ?'
 FRIEND_ADDED: Demande d'amitié acceptée.
 FRIEND_DELETED: Supprimé.
 FRIEND_FULL: Tu n'as plus assez de place pour ajouter de nouveaux amis.
-FRIEND_OFFLINE: Votre ami n'est actuellement pas connecté.
 FRIEND_REJECTED: Demande d'ami déclinée.
 FRIEND_REQ_BLOCKED: A partir de maintenant, tu bloques les demandes d'amis.
 FRIEND_REQ_UNLOCKED: A partir de maintenant, tu débloques les demandes d'amis.

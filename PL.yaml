@@ -30,7 +30,7 @@ ASK_CHANGE_FACTION: Czy chcesz zmienić frakcję?
 ASK_CHANGE_FAMILY_FACTION: Czy chcesz zmienić frakcję dla rodziny?
 ASK_CHANGE_SPAWNLOCATION: Czy chcesz ustawić tę wioskę miejscem ożywienia?
 ASK_FAMILY_INVITED: Otrzymano zaproszonie do rodziny {0}, czy chcesz dołączyć?
-ASK_FAMILY_INVITED_COFIRMATION: '#ASK_FAMILY_INVITED_COFIRMATION'
+ASK_FAMILY_INVITED_COFIRMATION: Czy na pewno chcesz dołączyć?
 ASK_KICK_PET: Czy chcesz, aby NosKumpel wrócił do Mini-Landu?
 ASK_OPEN_BOX: Czy chcesz otworzyć pudło?
 ASK_PARTNER_MAX: Czy chcesz powiększyć ilość miejsc dla partnerów?
@@ -46,24 +46,24 @@ ASK_TO_DELETE: Przedmiot zostanie zniszczony, czy na pewno chcesz się go pozby�
 ASK_USE: Czy chcesz użyć tego przedmiotu?
 ASK_WINGS_CHANGE: Czy zmienić skrzydła na tej karcie specjalisty?
 ASK_WITHDRAW_BANK: Czy chcesz wypłacić {0}000 szt. złota ze swojego konto?
-ASSISTANTS_LIMIT_REACHED: '#ASSISTANTS_LIMIT_REACHED'
-BAD_ACCOUNT_ID: '#BAD_ACCOUNT_ID'
+ASSISTANTS_LIMIT_REACHED: Nie możesz mieć więcej zarządców.
+BAD_ACCOUNT_ID: Błędny login.
 BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 BAD_EQUIPMENT: Nie możesz założyć tego przedmiotu.
 BAD_FAIRY: Atrybut wróżki różni się od atrybutu specjalisty.
 BANK_ASK_DEPOSIT: Czy chcesz wpłacić {0}000 szt. złota na swoje konto?
 BANK_BALANCE: 'Stan konta: {0} złota.'
 BANK_DEPOSIT: 'Wpłacono: {0}000 złota'
-BAZAAR_CHATMESSAGE_ITEM_ADDED: '#BAZAAR_CHATMESSAGE_ITEM_ADDED'
-BAZAAR_INFO_ITEM_CHANGED: '#BAZAAR_INFO_ITEM_CHANGED'
-BAZAAR_INFO_MAINTENANCE_MODE: '#BAZAAR_INFO_MAINTENANCE_MODE'
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: '#BAZAAR_INFO_MAXIMUM_ITEMS_REACHED'
-BAZAAR_INFO_NEEDS_MEDAL: '#BAZAAR_INFO_NEEDS_MEDAL'
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: '#BAZAAR_INFO_PRICE_EXCEEDS_LIMITS'
-BAZAAR_INFO_RESYNC: '#BAZAAR_INFO_RESYNC'
-BAZAAR_QNA_CHANGE_PRICE_FEE: '#BAZAAR_QNA_CHANGE_PRICE_FEE'
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: '#BAZAAR_SHOUTMESSAGE_ITEM_ADDED'
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: '#BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED'
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Dodano przedmiot do NosBazaru.
+BAZAAR_INFO_ITEM_CHANGED: Zakup niemożliwy, przedmiot został sprzedany lub jego cena uległa zmianie.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBazar jest w trakcie konserwacji.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maksymalna liczba wystawionych przedmiotów została osiągnięta.
+BAZAAR_INFO_NEEDS_MEDAL: Nie posiadasz Medalu NosHandlarza.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena przedmiotu przekracza dozwoloną wartość.
+BAZAAR_INFO_RESYNC: Zmiana ceny przedmiotu nie powiodła się. Spróbuj ponownie.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Czy chcesz zmienić cenę przemiotu? To będzie kosztowało {0} złota.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Dodano przedmiot do NosBazaru.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena przedmiotu została zmieniona.
 BLACKLIST_ADDED: Dodano do czarnej listy.
 BLACKLIST_BLOCKED: Gracz ma cię na czarnej liście.
 BLACKLIST_BLOCKING: Blokujesz tego gracza.
@@ -73,19 +73,19 @@ BUFF_BLOCKED: Ikony buffów zablokowane
 BUFF_UNLOCKED: Ikony buffów odblokowane
 BUY_ITEM_PLAYER: Gracz {0} zakupił {2}x {1}
 BUY_ITEM_VALID: Kupiono {1}x {0}.
-CANNOT_BE_UNFREEZED_BY_KILLER: '#CANNOT_BE_UNFREEZED_BY_KILLER'
+CANNOT_BE_UNFREEZED_BY_KILLER: Nie możesz odmrozić tej osoby!
 CANNOT_LEAVE_FAMILY: Szef nie może opuścić rodziny!
 CANT_ATTACK: Nie możesz teraz atakować!
-CANT_CARVE_MORE_RUNES: '#CANT_CARVE_MORE_RUNES'
+CANT_CARVE_MORE_RUNES: Nie możesz wygrawerować więcej run.
 CANT_CREATE_RAID_WHILE_IN_GROUP: Nie możesz utworzyć rajdu gdy znajdujesz się w grupie!
 CANT_EQUIP_DESTROYED_SP: Nie możesz założyć zniszczonej Karty Specjalisty
-CANT_GIVE_SAME_AUTHORITY: '#CANT_GIVE_SAME_AUTHORITY'
+CANT_GIVE_SAME_AUTHORITY: Nie możesz przydzielić tych samych uprawnień.
 CANT_JOIN_ARENA_IN_RAID: Nie możesz dołączyć do rajdu na arenie!
-CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: '#CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP'
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: Nie możesz dołączyć do wydarzenia nie będąc na normalnej mapie.
 CANT_MOVE: Odczekaj chwilę, aby przenieść się na inną mapę.
 CANT_UPGRADE_DESTROYED_SP: Nie możesz ulepszyć zniszczonej Karty Specjalisty.
 CANT_USE_ITEM: Nie możesz użyć tego przedmiotu.
-CANT_USE_MSG_BUBBLE: '#CANT_USE_MSG_BUBBLE'
+CANT_USE_MSG_BUBBLE: Nie możesz użyć dymka.
 CANT_USE_OUTSIDE_OF_MINILAND: Możesz to zrobić tylko w Mini-Landzie!
 CANT_USE_THAT: Nie możesz tego użyć.
 CAPTURE_FAILED: Oswojenie nieudane!
@@ -94,7 +94,7 @@ CELLON_FULL: Akcesorium jest już pełne.
 CELLON_LEVEL_TOO_HIGH: Poziom cellonu jest zbyt wysoki dla tej biżuterii.
 CELLONING_FAILED: Cellon zniknął, ponieważ nie udało się dodać opcji.
 CELLONING_SUCCESS: Dodano opcje!
-CHANGE_CHARACTER_FACTION_IN_FAM: '#CHANGE_CHARACTER_FACTION_IN_FAM'
+CHANGE_CHARACTER_FACTION_IN_FAM: Nie możesz zmienić frakcji będąc w rodzinie.
 CHANNEL: Kanał
 CHARACTER_FAMILY_LOGGED_IN: '{0}{1} zalogował się.'
 CHARACTER_LOGGED_IN: '{0} zalogował się.'
@@ -112,19 +112,19 @@ COMPLIMENT_NOT_MINLVL: Musisz mieć co najmniej 30 poziom, aby kogoś pochwalić
 COMPLIMENT_RECEIVED: Gracz {0} cię pochwalił.
 CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 CUARRY_BANK_ITEM_IN_EQ: Już posiadasz Książeczkę Oszczędnościową Banku Cuarry
-DEPUTIES_LIMIT_REACHED: '#DEPUTIES_LIMIT_REACHED'
+DEPUTIES_LIMIT_REACHED: Nie możesz mieć więcej zastępców.
 DIGNITY_LOST: 'Zmniejszono godność: {0}'
 DIGNITY_RESTORED: Twoja godność została odnowiona!
-DISCORDRPC_CHATMESSAGE_DISABLED: '#DISCORDRPC_CHATMESSAGE_DISABLED'
-DISCORDRPC_CHATMESSAGE_ENABLED: '#DISCORDRPC_CHATMESSAGE_ENABLED'
+DISCORDRPC_CHATMESSAGE_DISABLED: Discord RPC zostało wyłączone
+DISCORDRPC_CHATMESSAGE_ENABLED: Discord RPC zostało włączone
 DISMISS_FAMILY: Opuść rodzinę
 DIVORCED: Małzeństwo zostało rozwiązane.
 DO_YOU_WANT_MODIFY_SKILL: Czy chcesz zmodyfikować umiejętność?
-DOLL_MSG_DOLLS_LIMIT: '#DOLL_MSG_DOLLS_LIMIT'
-DOLL_MSG_MATE_ATTACK_FAIL: '#DOLL_MSG_MATE_ATTACK_FAIL'
-DOLL_MSG_MATE_DEFENSE_FAIL: '#DOLL_MSG_MATE_DEFENSE_FAIL'
-DOLL_MSG_NOT_IN_ZONE: '#DOLL_MSG_NOT_IN_ZONE'
-DOLL_MSG_WRONG_DOLL: '#DOLL_MSG_WRONG_DOLL'
+DOLL_MSG_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
+DOLL_MSG_MATE_ATTACK_FAIL: Zwiększenie umiejętności ataku nie powiodło się.
+DOLL_MSG_MATE_DEFENSE_FAIL: Zwiększenie umiejętności obrony nie powiodło się.
+DOLL_MSG_NOT_IN_ZONE: Nie znajdujesz się w specjalnej strefie.
+DOLL_MSG_WRONG_DOLL: Lalka jest nieodpowiednia do poziomu NosKumpla!
 DROP_MAP_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 DROPPED_ITEM: 'Zdobyto: {1}x {0}'
 EFFECT_ACTIVATED: Efekt {0} został aktywowany!
@@ -146,23 +146,22 @@ EXPEVENT_DISABLED: EXP Event został wyłączony!
 EXPEVENT_ENABLED: EXP Event został włączony!
 FAIRY_LEVELUP: Twoja {0} zdobyła kolejny poziom!
 FAIRYMAX: Twoja wróżka osiągneła maksymalny poziom!
-FAMILY_CHANGED_HEAD: '#FAMILY_CHANGED_HEAD'
-FAMILY_CREATION_GROUP_REQUIRED: '#FAMILY_CREATION_GROUP_REQUIRED'
+FAMILY_CHANGED_HEAD: Zmieniono szefa rodziny.
+FAMILY_CREATION_GROUP_REQUIRED: Musisz być w grupie by utworzyć rodzinę.
 FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Jeden z graczy w grupie jest już w rodzinie!
 FAMILY_FOUNDED: Rodzina {0} została założona!
 FAMILY_FULL: Rodzina jest pełna!
 FAMILY_GROUP_NOT_FULL: Aby założyć rodzinę, musisz posiadać pełną grupę!
-FAMILY_HORN_INFO: '#FAMILY_HORN_INFO'
-FAMILY_HORN_TELEPORT_ASK: '#FAMILY_HORN_TELEPORT_ASK'
-FAMILY_INFO_ASK_FAMILY_LEAVE: '#FAMILY_INFO_ASK_FAMILY_LEAVE'
-FAMILY_INFO_USED_DAILY_MESSAGE: '#FAMILY_INFO_USED_DAILY_MESSAGE'
+FAMILY_HORN_INFO: Użyto Rogu Przywołania Rodziny.
+FAMILY_HORN_TELEPORT_ASK: Głowa rodziny użyła Rogu. Czy chcesz się przenieść?
+FAMILY_INFO_ASK_FAMILY_LEAVE: Czy chcesz opuścić rodzinę?
+FAMILY_INFO_USED_DAILY_MESSAGE: Już użyto sentencji dnia.
 FAMILY_INVITATION_NOT_ALLOWED: Nie masz uprawnień do zapraszania graczy!
-FAMILY_INVITATION_REJECTED: '#FAMILY_INVITATION_REJECTED'
+FAMILY_INVITATION_REJECTED: Odrzucono zaproszenie do rodziny.
 FAMILY_JOINED: Gracz {0} dołączył do rodziny {1}.
 FAMILY_LEAVE: Opuszczono rodzinę.
-FAMILY_LEVEL_UP: '#FAMILY_LEVEL_UP'
-FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX: '#FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX'
-FAMILY_MSG_BROADCAST_SHOUT: '#FAMILY_MSG_BROADCAST_SHOUT'
+FAMILY_LEVEL_UP: Osiągnięto {0} poziom rodziny!
+FAMILY_MSG_BROADCAST_SHOUT: Rodzina > {0}
 FAMILY_NAME_ALREADY_USED: Nazwa rodziny jest już zajęta!
 FAMILY_RANK_ASSISTANT: Zastępca
 FAMILY_RANK_HEAD: Szef
@@ -174,12 +173,11 @@ FRIEND_ADD: Chcesz zostać przyjacielem gracza {0}?
 FRIEND_ADDED: Przyjaciel dodany.
 FRIEND_DELETED: Przyjaciel usunięty.
 FRIEND_FULL: Twoja lista przyjaciół jest pełna!
-FRIEND_OFFLINE: Przyjaciel jest niedostępny.
 FRIEND_REJECTED: Odrzucono zaproszenie do przyjaciół!
 FRIEND_REQ_BLOCKED: Zaproszenia do przyjaciół zostały zablokowane
 FRIEND_REQ_UNLOCKED: Zaproszenia do przyjaciół zostały odblokowane
 FRIEND_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: '#FRIEND_TALKMESSAGE_DIFFRENT_FACTION'
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Przyjaciel znajduje się we wrogiej frakcji.
 GAME_CHANNEL: Kanał
 GAME_MASTER_OFF: Nie możesz tego zrobić!
 GAMEEVENT_ENDED: '{0} zakończył się.'
@@ -187,15 +185,15 @@ GAMEEVENT_NOT_ENOUGH_PLAYERS: Brak wystarczającej liczby graczy.
 GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '{0} zakończy się za minutę.'
 GENERIC_GAME_PREPARATION_MINUTES: '{0} rozpocznie się za {1}min.'
 GENERIC_GAME_PREPARATION_SECONDS: '{0} rozpocznie się za {1}sec.'
-GENERIC_GAME_QUESTION: '#GENERIC_GAME_QUESTION'
-GENERIC_GAME_QUESTION_WITH_COST: '#GENERIC_GAME_QUESTION_WITH_COST'
+GENERIC_GAME_QUESTION: 'Czy chcesz wziąć udział w: {0}?'
+GENERIC_GAME_QUESTION_WITH_COST: 'Czy chcesz wziąć udział w: {0}? Koszt to {1} sztuk złota.'
 GENERIC_GAME_STARTED: '{0} rozpoczął się.'
 GET_PROTECTION_POWER_ANGEL: Pobłogosławiono Cię mocą ochroną aniołów!
 GET_PROTECTION_POWER_DEMON: Pobłogosławiono Cię mocą ochroną demonów!
 GET_PROTECTION_POWER_NEUTRAL: Utracono błogosławieństwo mocy ochronnej!
-GIVE_FAMILY_HEAD_AUTHORITY: '#GIVE_FAMILY_HEAD_AUTHORITY'
+GIVE_FAMILY_HEAD_AUTHORITY: Czy na pewno chcesz zmienić głowę rodziny?
 GOLD_RATE: Złoto
-GOLD_SHOUTMESSAGE_EXCEDENT_SENT_TO_BANK: '#GOLD_SHOUTMESSAGE_EXCEDENT_SENT_TO_BANK'
+GOLD_SHOUTMESSAGE_EXCEDENT_SENT_TO_BANK: Nadmiar złota został przekazany do banku.
 GROUP_ADMIN: Wyznaczono Cię na lidera grupy!
 GROUP_BLOCKED: Gracz blokuje zaproszenia do grupy.
 GROUP_CANT_INVITE: Nie można zaprosić gracza {0}.
@@ -215,12 +213,12 @@ HIDE_HAT: Kapelusze zostały ukryte
 HP_BLOCKED: Status eliksirów został zablokowany
 HP_UNLOCKED: Status eliksirów został odblokowany
 ICEBREAKER: Lodołamacz
-ICEBREAKER_FIGHT_WARN: '#ICEBREAKER_FIGHT_WARN'
-ICEBREAKER_PLAYER_FROZEN: '#ICEBREAKER_PLAYER_FROZEN'
-ICEBREAKER_PLAYER_OUT: '#ICEBREAKER_PLAYER_OUT'
-ICEBREAKER_PLAYER_UNFROZEN: '#ICEBREAKER_PLAYER_UNFROZEN'
-ICEBREAKER_STARTED: '#ICEBREAKER_STARTED'
-ICEBREAKER_WIN: '#ICEBREAKER_WIN'
+ICEBREAKER_FIGHT_WARN: Przygotuj się do walki!
+ICEBREAKER_PLAYER_FROZEN: Zamrożono gracza {0}
+ICEBREAKER_PLAYER_OUT: Gracz {0} został wyrzucony.
+ICEBREAKER_PLAYER_UNFROZEN: Gracz {0} został odmrożony.
+ICEBREAKER_STARTED: Lodołamacz rozpoczął się.
+ICEBREAKER_WIN: Wygrano lodołamacz!
 IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć!
 IN_BATTLE: Nie możesz zapraszać gracza, który jest w trakcie walki.
 IN_FAMILY: w rodzinie
@@ -231,7 +229,7 @@ INSTANTBATTLE_MINUTES_REMAINING: Błyskawiczna Bitwa zakończy się za {0} min.
 INSTANTBATTLE_MONSTERS_INCOMING: Nadchodzą potwory...
 INSTANTBATTLE_SECONDS_REMAINING: Błyskawiczna Bitwa zakonczy się za {0} sek.
 INSTANTBATTLE_SUCCEEDED: Wygrano Błyskawiczną Bitwę!
-INTRODUCTION_SET: '#INTRODUCTION_SET'
+INTRODUCTION_SET: Ustawiono prezentację.
 INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 INVITED_YOU: Otrzymano zaproszenie do grupy od gracza {0}.
 INVITED_YOU_RAID: Otrzymano zaproszenie do drużyny rajdu gracza {0}, dołączyć?
@@ -241,7 +239,7 @@ ITEM_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_GIFTED: Otrzymano paczkę.
 ITEM_IS_FIXED: Przedmiot jest utrwalony!
 ITEM_IS_HEROIC: Jest to bohaterski przedmiot!
-ITEM_IS_WITHOUT_SHELLS: '#ITEM_IS_WITHOUT_SHELLS'
+ITEM_IS_WITHOUT_SHELLS: Przedmiot nie posiada osłon.
 ITEM_NO_HEROIC: Nie jest to bohaterski przedmiot!
 ITEM_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
@@ -257,31 +255,31 @@ LOGIN_MEDAL: Medal NosHandlarza jest aktywny.
 LOW_JOB_LVL: Twoja profesja jest zbyt niska!
 LOW_RAID_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
 LVL_REQUIRED: Do ulepszenia Karty Specjalisty potrzebna jest {0} profesja.
-MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: '#MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS'
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
 MARRIED_BROADCAST: '{0} oraz {1} pobrali się!'
 MARRIED_REFUSED_BROADCAST: '{0} odrzucił zaręczyny od {1}'
-MATE_ATTACK_UPGRADE: Your NosMate's attack upgraded!
-MATE_DEFENCE_UPGRADE: Your NosMate's defense upgraded!
-MATE_LEVEL_UP: Your NosMate has leveled up!
-MATE_PET_EAT_EVERYTHING: Your NosMate is full!
+MATE_ATTACK_UPGRADE: 'Zwiększono poziom ataku ({0} -> {1}) twojego NosKumpla!'
+MATE_DEFENCE_UPGRADE: 'Zwiększono poziom obrony ({0} -> {1}) twojego NosKumpla!'
+MATE_LEVEL_UP: Poziom NosKumpla został zwiększony.
+MATE_PET_EAT_EVERYTHING: Twój NosKumpel jest najedzony!
 MATE_SAVED_BY_SAVER: NosKumpel został ożywiony przez Anioła Stróża.
 MATE_WENT_BACK_TO_MINILAND: NosKumpel powrócił do Mini-Landu.
-MATE_WILL_BE_BACK: '#MATE_WILL_BE_BACK'
+MATE_WILL_BE_BACK: NosKumpel powróci za 3 minuty.
 MAX_GOLD: Osiągnięto maksymalną ilość złota!
 MAX_GOLD_BANK_REACHED: Osiągnięto maksymalną ilość złota w banku!
 MAX_MATES_COUNT: Osiągnięto maksymalną ilość NosKumpli!
 MAX_PARTNER_REACHED: Osiągnięto maksymalną ilość partnerów!
-MAX_PET_REACHED: '#MAX_PET_REACHED'
+MAX_PET_REACHED: Osiągnięto limit posiadanych NosKumpli!
 MINI_INV_BLOCKED: Zaproszenia do Mini-Landu zostały zablokowane
 MINI_INV_UNLOCKED: Zaproszenia do Mini-Landu zostały odblokowane
-MINIGAME_NO_REWARD: '#MINIGAME_NO_REWARD'
-MINIGAME_POINTS_FULL: '#MINIGAME_POINTS_FULL'
-MINILAND_CLOSED: '#MINILAND_CLOSED'
-MINILAND_DURABILITY_MAXIMUM: '#MINILAND_DURABILITY_MAXIMUM'
-MINILAND_FULL: '#MINILAND_FULL'
+MINIGAME_NO_REWARD: Nie znaleziono żadnych nagród w danej minigrze.
+MINIGAME_POINTS_FULL: Osiągnięto maksymalną ilość punktów produkcji w minigrze.
+MINILAND_CLOSED: Mini-Land zamknięty.
+MINILAND_DURABILITY_MAXIMUM: Osiągnięto maksymalną ilość czasu użytkowania minigry.
+MINILAND_FULL: Mini-Land pełny.
 MINILAND_INFO_CHANGED: Zmieniono wiadomość powitalną Mini-Landu.
-MINILAND_INVITE_ASK: '#MINILAND_INVITE_ASK'
-MINILAND_INVITE_LOCK: '#MINILAND_INVITE_LOCK'
+MINILAND_INVITE_ASK: Czy chcesz odwiedzić Mini-Land gracza {0}
+MINILAND_INVITE_LOCK: Mini-Land tego gracza jest zablokowany.
 MINILAND_LOCK: Mini-Land jest zablokowany.
 MINILAND_PRIVATE: Mini-Land jest prywatny.
 MINILAND_PUBLIC: Mini-Land jest publiczny.
@@ -293,8 +291,8 @@ MOUSE_LOCKED: Kursor będzie podążał za celem
 MOUSE_UNLOCKED: Kursor nie będzie podążał za celem
 MUST_BE_IN_CLASSIC_MAP: Musisz znajdować się na ogólnej mapie.
 MUTE_TIME: 'Pozostały czas kary: {0}'
-MUTED_FEMALE: Byłam bardzo niegrzeczną dziewczynką... więc zostałam ukarana! OwO
-MUTED_MALE: Byłem bardzo niegrzecznym chłopczykiem... więc zostałem ukarany! -.-
+MUTED_FEMALE: Byłam niegrzeczna więc dostałam karę!
+MUTED_MALE: Byłem niegrzeczny więc dostałem karę!
 NEED_FAMILY: Wymagana jest rodzina, aby to zrobić.
 NEED_LEAVE_GROUP: Musisz opuścić grupę, aby to zrobić.
 NEED_PERFUM_TO_CHANGE_SHELL: Potrzebujesz perfum, aby zmienić osłonę
@@ -303,7 +301,7 @@ NEW_NAME_PET_MAX_LENGTH: Nazwa NosKumpla jest za długa, maksymalnie 14 znaków!
 NO_AMMO_ADVENTURER: Nie masz wystarczająco amunicji. Kup w sklepie ze sprzętem.
 NO_AMMO_ARCHER: Nie masz wystarczająco strzał. Kup w sklepie ze sprzętem.
 NO_AMMO_SWORDSMAN: Nie masz wystarczająco belt. Kup w sklepie ze sprzętem.
-NO_ENOUGH_REWARD_COUPON: '#NO_ENOUGH_REWARD_COUPON'
+NO_ENOUGH_REWARD_COUPON: Nie masz wystarczająco Kuponów Nagrody.
 NO_FAMILY: Nie jesteś w rodzinie.
 NO_FAMILY_RIGHT: Nie posiadasz uprawnień.
 NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
@@ -323,18 +321,18 @@ NOT_ENOUGH_MINILAND_POINT: Niewystarczająca ilość punktów produkcji.
 NOT_ENOUGH_MP: Nie masz wystarczająco punktów many!
 NOT_ENOUGH_PLACE: Nie masz wystarczająco miejsca w ekwipunku!
 NOT_ENOUGH_REPUT: Niewystarczająca ilość reputacji.
-NOT_ENOUGH_REQUIRED_ITEM: '#NOT_ENOUGH_REQUIRED_ITEM'
+NOT_ENOUGH_REQUIRED_ITEM: Nie masz wystarczającej ilości {0}.
 NOT_FAMILY_HEAD: Nie jesteś szefem rodziny!
 NOT_FRIEND: Nie jesteście przyjaciółmi!
-NOT_FULLFILLING_MINIGAME_REQUIREMENTS: '#NOT_FULLFILLING_MINIGAME_REQUIREMENTS'
-NOT_HUNGRY_FEMALE: Nie jestem głodna... może zrobię sobie sałatkę?
-NOT_HUNGRY_MALE: Nie jestem głodny... ale zjadłbym kebaba!
+NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Potrzebujesz {0} poziomu i {1} punktów reputacji by zagrać w minigrę!
+NOT_HUNGRY_FEMALE: Nie jestem głodna...
+NOT_HUNGRY_MALE: Nie jestem głodny...
 NOT_IN_FAMILY: Nie jesteś w rodzinie!
 NOT_MASTER: Nie jesteś liderem grupy!
 NOT_MAX_RARITY: Ten przedmiot nie posiada maksymalnej unikalności!
 NOT_REQUIERED_LEVEL: Twój poziom jest za niski!
 NOT_YOUR_ITEM: Ten przedmiot nie należy do Ciebie!
-NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: '#NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES'
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
 NOTICE_BAZAAR: Pamiętaj, że można być atakowanym gdy okno NosBazaru jest otwarte!
 ONLY_HEAD_CAN_BUY: Tylko szef rodziny może to kupić!
 OPEN_BANK: Witaj w banku! W czym możemy Ci pomóc?
@@ -362,7 +360,7 @@ PERFECTSP_LIGHT: Odporność na światło
 PERFECTSP_SHADOW: Odporność na mrok
 PERFECTSP_SUCCESS: 'Perfekcja udana: {0} +{1}'
 PERFECTSP_WATER: Odporność na wodę
-PET_ALREADY_CAN_PICK_UP: Twój NosKumpel nauczył się już zbieractwa!
+PET_ALREADY_CAN_PICK_UP: Twój NosKumpel już potrawi podnosić przedmioty!
 PET_AUTO_RELIVE_DISABLED: Od teraz NosKumpel po śmierci wróci do Mini-Landu
 PET_AUTO_RELIVE_ENABLED: Od teraz NosKumpel użyje Ziaren Mocy aby się ożywić
 PET_CAN_PICK_UP: Od teraz Twój NosKumpel będzie mógł podnosić przedmioty!
@@ -377,48 +375,48 @@ PLAYER_IN_BATTLE: Gracz {0} jest w trakcie walki
 PLAYER_OFFLINE: Gracz jest niedostępny!
 POINTS_SET: Pomyślnie przydzielono punkty
 PORTAL_BLOCKED: Ten portal jest zamknięty, nie mogę tędy przejść.
-QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
-QUEST_KENKO_IS_TOO_STRONG: '#QUEST_KENKO_IS_TOO_STRONG'
-QUEST_QNA_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
+QUEST_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
+QUEST_QNA_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_REWARD: Nagroda za misję
-QUEST_SHOUT_ALREADY_COMPLETED_MAIN: '#QUEST_SHOUT_ALREADY_COMPLETED_MAIN'
-QUEST_SHOUT_ALREADY_MAIN_QUEST: Already completing a main quest.
-QUEST_SHOUT_INCOMPLETE_QUESTS: '#QUEST_SHOUT_INCOMPLETE_QUESTS'
-QUEST_SHOUT_LOW_LEVEL: '#QUEST_SHOUT_LOW_LEVEL'
+QUEST_SHOUT_ALREADY_COMPLETED_MAIN: Już ukończyłeś tą misję główną!
+QUEST_SHOUT_ALREADY_MAIN_QUEST: Jesteś w trakcie tej misji głównej.
+QUEST_SHOUT_INCOMPLETE_QUESTS: Masz nieukończone misje.
+QUEST_SHOUT_LOW_LEVEL: Masz za niski poziom na tą misję.
 QUICK_GET_UP_DISABLED: Szybkie wstawanie zostało wyłączone
 QUICK_GET_UP_ENABLED: Szybkie wstawanie zostało włączone
-RAID_CHATMESSAGE_KICKED: '#RAID_CHATMESSAGE_KICKED'
-RAID_CHATMESSAGE_KICKED_OTHER: '#RAID_CHATMESSAGE_KICKED_OTHER'
-RAID_CHATMESSAGE_LEFT: '#RAID_CHATMESSAGE_LEFT'
-RAID_CHATMESSAGE_NEW_LEADER: '#RAID_CHATMESSAGE_NEW_LEADER'
-RAID_CHATMESSAGE_X_JOINED: '#RAID_CHATMESSAGE_X_JOINED'
+RAID_CHATMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
+RAID_CHATMESSAGE_KICKED_OTHER: Gracz został wyrzucony.
+RAID_CHATMESSAGE_LEFT: '{0} opuścił drużynę.'
+RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
+RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DISOLVED: Drużyna rajdu została rozwiązana.
 RAID_LEVEL_INCORRECT: Jako że zalecany poziom rajdu nie odpowiada Twojemu poziomowi, po jego pomyślnym ukończeniu nie otrzymasz Pudła Rajdu.
 RAID_NO_EXIST: Rajd nie istnieje!
 RAID_NO_EXIST_OR_STARTED: Rajd nie istnieje lub już wystartował!
 RAID_REGISTERED: Zarejestrowano rajd!
-RAID_SHOUTMESSAGE_COMPLETED: '#RAID_SHOUTMESSAGE_COMPLETED'
-RAID_SHOUTMESSAGE_KICKED: '#RAID_SHOUTMESSAGE_KICKED'
-RAID_SHOUTMESSAGE_KICKED_OTHER: '#RAID_SHOUTMESSAGE_KICKED_OTHER'
-RAID_SHOUTMESSAGE_LEFT: '#RAID_SHOUTMESSAGE_LEFT'
-RAID_SHOUTMESSAGE_NEW_LEADER: '#RAID_SHOUTMESSAGE_NEW_LEADER'
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: '#RAID_SHOUTMESSAGE_RAID_TEAM_FULL'
-RAID_SHOUTMESSAGE_TARGETS_COMPLETED: '#RAID_SHOUTMESSAGE_TARGETS_COMPLETED'
-RAID_SHOUTMESSAGE_X_JOINED: '#RAID_SHOUTMESSAGE_X_JOINED'
+RAID_SHOUTMESSAGE_COMPLETED: Drużyna gracza {0} ukończyła rajd {1}!
+RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny
+RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz został wyrzucony
+RAID_SHOUTMESSAGE_LEFT: '{0} opuścił drużynę'
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} został nowym liderem drużyny'
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna jest pełna
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone
+RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny'
 RAID_UNREGISTERED: Drużyna nie jest już zarejestrowana
 RARIFY_FAILED: Hazard się nie powiódł! Przedmiot zniknął.
 RARIFY_FAILED_ITEM_SAVED: Hazard się nie powiódł, ale przedmiot został ochroniony przed zniszczeniem.
 RARIFY_SUCCESS: 'Hazard powiódł się! Nowy poziom unikalności: {0}'
 RATES: Mnożnik
-REFILL_MINIGAME: 'Wkład mini-gry: {0}'
+REFILL_MINIGAME: 'Wkład minigry: {0}'
 REFUSED_GROUP_REQUEST: Gracz {0} odrzucił Twoje zaproszenie do grupy.
 REMOVE_SP: Nie możesz nauczyć się umiejętnóści, dopóki jesteś na Karcie Specjalisty.
 REMOVE_VEHICLE: Przed transformacją musisz zejść z pojazdu.
 REPUT_DECREASE: Reputacja została zmniejszona o {0}
 REPUT_INCREASE: Reputacja została zwiększona o {0}
 REPUT_RATE: Reput.
-REQUIRED_ITEM_EXPENDED: '#REQUIRED_ITEM_EXPENDED'
-RESPAWNLOCATION_CHANGED: Miejsce ożywienia został zmieniony!
+REQUIRED_ITEM_EXPENDED: 'Zużyto: {1}x {0}'
+RESPAWNLOCATION_CHANGED: Punkt odrodzenia został zmieniony
 SACRIFICE: '{0} poświęca się dla {1}.'
 SACRIFICE_REMOVED: Efekt poświęcenia został usunięty, ponieważ wybrany gracz znajduje się poza jego zasięgiem.
 SACRIFICE_WARNING: Efekt poświęcenia już prawie znikł, ponieważ odległość do wybranego gracza jest zbyt duża.
@@ -446,12 +444,12 @@ SHOP_EMPTY: Sklep nie może być pusty!
 SHOP_NEAR_PORTAL: Nie możesz otworzyć sklepu blisko portalu!
 SHOP_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu!
 SHOP_NOT_ALLOWED_IN_RAID: Nie możesz otworzyć sklepu podczas rajdu!
-SHOP_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko wymienialne przedmioty w sklepie.
+SHOP_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko przedmioty zdatne do handlu w sklepie.
 SHOP_OPEN: Sklep został otwarty!
 SHOW_HAT: Kapelusze zostały odkryte
 SHUTDOWN_SEC: Serwer zostanie wyłączony za {0} sek.
 SKILL_CANT_LEARN: Nie możesz nauczyć się tej umiejętnóści.
-SKILL_CHATMESSAGE_WAS_INTERRUPTED: '#SKILL_CHATMESSAGE_WAS_INTERRUPTED'
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Umiejętność została przerwana!
 SKILL_LEARNED: Nauczono się nowej umiejętnóści!
 SKILL_NOT_TO_REFUND: Nie można zwrócić tej umiejętności!
 SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
@@ -472,27 +470,27 @@ SUM_SUCCESS: Łączenie udało się.
 SURE_TO_DELETE: Czy na pewno chcesz usunąć ten przedmiot?
 TALENT_ARENA_NO_MORE_TICKET: Nie posiadasz wystaczająco wejściówek, aby dołączyć!
 TARGET_MAX_GOLD: Gracz posiada maksymalną ilość złota.
-TARGET_NEEDS_TO_BE_DEPUTY: '#TARGET_NEEDS_TO_BE_DEPUTY'
+TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
 TITLE_UNLOCKED: Tytuł został odblokowany.
-TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
+TOO_FAR_TO_UNFREEZE: Jesteś za daleko by odmrażać!
 TOO_LOW_LVL: Twój poziom jest za niski!
 TOO_MUCH_GOLD: Posiadasz zbyt dużo złota!
 TRADE_BLOCKED: Gracz blokuje wymiany.
 TRANSFORM_DISAPPEAR: Czas odnowienia zniknął.
-TRANSFORMATION_NEEDED: Musisz przetransformować się w Kartę Specjalisty, aby to zrobić!
+TRANSFORMATION_NEEDED: Musisz przetransformować się w Specjalistę, aby to zrobić!
 TRY_FAILED: Niestety, próba nie udała się!
 TRY_FAILED_WAIT: Próba nieudana! Spróbuj ponownie za {0} sek.
 UI_BLOCKED: Interfejs został zablokowany
 UI_UNLOCKED: Interfejs został odblokowany
 UNDER_EFFECT: Znajdujesz się pod efektem {0}
 UPGRADE_FAILED: Ulepszenie nie powiodło się! Przedmiot został zniszczony.
-UPGRADE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale Twój przedmiot został zachowany.
+UPGRADE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale twój przedmiot został zachowany.
 UPGRADE_FIXED: Stały poziom.
 UPGRADE_SUCCESS: Ulepszenie powiodło się!
 UPGRADESP_DESTROYED: Dusza Karty Specjalisty uległa zniszczeniu!
 UPGRADESP_FAILED: Ulepszenie nie powiodło się!
-UPGRADESP_FAILED_SAVED: Ulepszenie nie powiodło się, ale Twoja Karta Specjalisty została zachowana!
+UPGRADESP_FAILED_SAVED: Ulepszenie nie powiodło się, ale twoja Karta Specjalisty została zachowana!
 UPGRADESP_SUCCESS: Ulepszenie powiodło się!
 USER_NOT_CONNECTED: Gracz nie jest dostępny!
 USER_NOT_FOUND: Nie znaleziono gracza!
