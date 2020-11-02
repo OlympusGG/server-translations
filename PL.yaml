@@ -545,6 +545,7 @@ TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
 TEAM_ARENA_LEFT: '#TEAM_ARENA_LEFT'
 TEAM_WINNER_ARENA_ROUND: '#TEAM_WINNER_ARENA_ROUND'
 TELEPORTED_IN: Zostaniesz przeteleportowany za {0} sek.
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: '#TIMESPACE_SHOUTMESSAGE_WAIT_REWARD'
 TITLE_UNLOCKED: Tytuł został odblokowany.
 TOO_FAR_TO_UNFREEZE: Jesteś za daleko by odmrażać!
 TOO_LOW_LVL: Twój poziom jest za niski!
