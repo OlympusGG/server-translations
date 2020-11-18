@@ -17,7 +17,6 @@ ALREADY_IN_FAMILY: Du bist bereits in einer Familie
 ALREADY_IN_GROUP: Du bist bereits in einer Gruppe.
 ALREADY_MAX_RARE: Das Item ist bereits vom maximalen Seltenheitslevel.
 ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
-ALREADY_QUEST: '#ALREADY_QUEST'
 ALREADY_TAKEN: Dieser Name existiert bereits!
 ALREADY_TWO_ASSISTANT: '#ALREADY_TWO_ASSISTANT'
 AMMO_LOADED_ADVENTURER: Steine wurden geladen.
@@ -434,6 +433,7 @@ QUEST_KENKO_IS_TOO_STRONG: This Kenko soldier is too strong!
 QUEST_QNA_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
 QUEST_REWARD: Your reward for the quest
 QUEST_SHOUT_ALREADY_COMPLETED_MAIN: You already completed this main quest!
+QUEST_SHOUT_ALREADY_HAVE_QUEST: You already picked this quest!
 QUEST_SHOUT_ALREADY_MAIN_QUEST: Already completing a main quest.
 QUEST_SHOUT_INCOMPLETE_QUESTS: You have some incomplete quests
 QUEST_SHOUT_LOW_LEVEL: Your level is too low for this quest

@@ -17,7 +17,6 @@ ALREADY_IN_FAMILY: Jesteś już w rodzinie.
 ALREADY_IN_GROUP: Jesteś już w grupie!
 ALREADY_MAX_RARE: Przedmiot posiada najwyższą unikalność.
 ALREADY_PET_IN_TEAM: NosKumpel aktualnie w drużynie!
-ALREADY_QUEST: '#ALREADY_QUEST'
 ALREADY_TAKEN: Ta nazwa postaci jest już zajęta.
 ALREADY_TWO_ASSISTANT: '#ALREADY_TWO_ASSISTANT'
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
@@ -434,6 +433,7 @@ QUEST_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
 QUEST_QNA_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_REWARD: Nagroda za misję
 QUEST_SHOUT_ALREADY_COMPLETED_MAIN: Już ukończyłeś tą misję główną!
+QUEST_SHOUT_ALREADY_HAVE_QUEST: You already picked this quest!
 QUEST_SHOUT_ALREADY_MAIN_QUEST: Jesteś w trakcie tej misji głównej.
 QUEST_SHOUT_INCOMPLETE_QUESTS: Masz nieukończone misje.
 QUEST_SHOUT_LOW_LEVEL: Masz za niski poziom na tą misję.
