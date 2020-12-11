@@ -1,12 +1,12 @@
-ACHIEVEMENT_CHAT_MESSAGE: Achievement [{0}] unlocked!
-ACHIEVEMENT_CHAT_PLAYER_MESSAGE: New achievement unlocked!
-ACHIEVEMENT_GOLDEN_MESSAGE: You have unlocked achievement [{0}].
-ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
-ACT4_NEED_FACTION: ACT4 bisogna di una fazione.
-ACT4_PVP_DEATH: ACT4 PVP morto.
-ACT4_PVP_DIE: ACT4 PVP morto.
+ACHIEVEMENT_CHAT_MESSAGE: Obbiettivo [{0}] sbloccato!
+ACHIEVEMENT_CHAT_PLAYER_MESSAGE: Nuovo obbiettivo sbloccato!
+ACHIEVEMENT_GOLDEN_MESSAGE: Hai sbloccato l'obbiettivo [{0}].
+ACT4_CHANNEL_OFFLINE: Canale dell'atto 4 è Offline.
+ACT4_NEED_FACTION: Devi far parte di una fazione per entrare nella Corona Ghiacciata!
+ACT4_PVP_DEATH: '{1} E' stato ucciso da un guardiano di {0}.'
+ACT4_PVP_DIE: Sei stato ucciso da un nemico! A causa della maledizione della Corona Ghiacciata, non puoi rinascere per 30 secondi!
 ACT4_PVP_KILL: '#ACT4_PVP_KILL'
-ADD_OPTION_ON_STUFF: Vuoi aggiungere opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
+ADD_OPTION_ON_STUFF: Vuoi aggiungere l'opzione sull'attrezzatura? Se aggiungi un’opzione, nessun altro giocatore potrà più usarla, perché l’attrezzatura sarà legata a te.
 ADD_OPTION_ON_STUFF_NOT_EMPTY: L’opzione esistente sarà rimossa e sostituita da una nuova. La probabilità di successo è attualmente del 50 %. Ti va di continuare?
 ADVENTURER: '#ADVENTURER'
 ADVENTURERS_CANT_USE: Gli avventurieri non possono usare quest'oggetto!
@@ -15,39 +15,39 @@ ALREADY_FRIEND: Voi due siete già amici.
 ALREADY_GOT_BUFF: Icone dei buff abilitate.
 ALREADY_IN_FAMILY: Qualcuno ha già una gilda.
 ALREADY_IN_GROUP: Sei già in un gruppo.
-ALREADY_MAX_RARE: Rarità massima
+ALREADY_MAX_RARE: Rarità massima!
 ALREADY_PET_IN_TEAM: Your NosMate is already on the team.
 ALREADY_QUEST: '#ALREADY_QUEST'
-ALREADY_TAKEN: Questo nome è già in uso !
+ALREADY_TAKEN: Questo nome è già in uso!
 ALREADY_TWO_ASSISTANT: '#ALREADY_TWO_ASSISTANT'
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-AMULET_DESTROYED: Amuleto distrutta !
-AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura
+AMULET_DESTROYED: Amuleto distrutta!
+AMULET_FAIL_SAVED: Il miglioramento non è riuscito, L’amuleto ha conservato la tua attrezzatura.
 ARCHER: '#ARCHER'
-ARENA_KILL: '{0} has been killed by {1}.'
-ARENA_NOT_OPEN: Arena talent is open at 18:00 - 22:00
+ARENA_KILL: '{0} E' stato ucciso da {1}.'
+ARENA_NOT_OPEN: L'arena dei Talenti è aperta dalle 18:00 alle 22:00 
 ARENA_TEAM_LEFT: '#ARENA_TEAM_LEFT'
-ARENA_TICKET_LEFT: Remaining participation(s) {0}
-ASK_ADD_TITLE: Do you want to add a title?
+ARENA_TICKET_LEFT: 'Entrate rimaste {0}'
+ASK_ADD_TITLE: Vuoi aggiungere un titolo?
 ASK_BIND: Vuoi davvero usare questo oggetto? L'oggetto sarà di uso esclusivo tuo.
-ASK_CHANGE_FACTION: Do you want to change your faction?
-ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
-ASK_CHANGE_SPAWNLOCATION: Do you want to change the respawn town?
+ASK_CHANGE_FACTION: Vuoi cambiare fazione?
+ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua famiglia?
+ASK_CHANGE_SPAWNLOCATION: Vuoi cambiare punto di rinascita?
 ASK_FAMILY_INVITED: Sei stato invitato ad unirti alla famiglia {0], accettare?
-ASK_FAMILY_INVITED_COFIRMATION: Are you sure you want to join?
-ASK_KICK_PET: Do you want to refer your NosMate to the Mini-Land?
-ASK_OPEN_BOX: Vuoi apprire il cassaforte?
-ASK_PARTNER_MAX: Do you want to expand your partner slots?
-ASK_PET_MAX: Your pet reached max level!
+ASK_FAMILY_INVITED_COFIRMATION: Sei sicuro di voler entrare?
+ASK_KICK_PET: Vuoi riportare il NosMate indietro nella Mini-Land?
+ASK_OPEN_BOX: Vuoi aprire la cassaforte?
+ASK_PARTNER_MAX: Vuoi incrementare lo spazio dei tuoi partner?
+ASK_PET_MAX: Il tuo pet ha raggiunto il livello massimo!
 ASK_RELEASE_PET: Vuoi far uscire il tuo NosMate dalla perla?
-ASK_RESET_ALL_PSP_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
-ASK_REVIVE: Vuoi rivivere? Ti costerà 10 semi della potenza.
-ASK_REVIVE_ARENA: Do you want to revive? It will cost you 100 Gold.
-ASK_REVIVE_FREE: Vuoi rivivere? E' gratuito.
+ASK_RESET_ALL_PSP_SKILLS: Vuoi ripristinare tutte le abilità della Carta Specialista del tuo Compagno?
+ASK_REVIVE: Vuoi rinascere? Ti costerà 10 semi della potenza.
+ASK_REVIVE_ARENA: Vuoi rinascere? Ti costerà 100 Oro.
+ASK_REVIVE_FREE: Vuoi rinascere? E' gratuito.
 ASK_REVIVE_LOD: '#ASK_REVIVE_LOD'
-ASK_REVIVE_PVP: Vuoi rivivere? Ti costerà 100 oro.
+ASK_REVIVE_PVP: Vuoi rivivere? Ti costerà 100 Oro.
 ASK_REVIVE_TS: '#ASK_REVIVE_TS'
 ASK_REVIVE_TS_LOW_LEVEL: '#ASK_REVIVE_TS_LOW_LEVEL'
 ASK_STORE_PET: Vuoi mettere questo animale nella sua perla?
@@ -56,70 +56,70 @@ ASK_USE: Vuoi davvero usare quest'oggetto?
 ASK_WINGS_CHANGE: Vuoi davvero cambiare le tue ali?
 ASK_WITHDRAW_BANK: Vuoi mettere {0} d’oro in banca?
 ASSISTANT_UNDEMOTABLE: '#ASSISTANT_UNDEMOTABLE'
-ASSISTANTS_LIMIT_REACHED: Assistants limit reached.
-BAD_ACCOUNT_ID: Wrong account login.
+ASSISTANTS_LIMIT_REACHED: Limite di assistenti raggiunto.
+BAD_ACCOUNT_ID: Login Errato.
 BAD_DROP_AMOUNT: Quantita' di drop errato.
 BAD_EQUIPMENT: Il tuo personaggio non ha i requisiti necessari per poter utilizzare questo item.
 BAD_FAIRY: La Carta Speciale e la tua fata hanno attributi diversi.
-BANK_ASK_DEPOSIT: Do you want to deposit {0} gold to your bank?
-BANK_BALANCE: Hai {0} in banca
+BANK_ASK_DEPOSIT: Vuoi depositare {0} Oro nella tua banca?
+BANK_BALANCE: Hai {0} in banca.
 BANK_DEPOSIT: Hai depositato {0} in banca
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Item added to NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Purchase impossible, item sold or price changed.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar is under maintenance.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
-BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds limit.
-BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed
-BLACKLIST_ADDED: Personaggio aggiunto alla lista nera
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Oggetto aggiunto nel NosBazaar.
+BAZAAR_INFO_ITEM_CHANGED: Acquisto impossibile, Oggetto venduto o il prezzo cambiato.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar è in manutenzione.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Limite di oggetti in vendita raggiunto.
+BAZAAR_INFO_NEEDS_MEDAL: Non hai la medaglia del NosMercante.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Il prezzo dell'oggetto supera il limite.
+BAZAAR_INFO_RESYNC: Cambiamento del prezzo sbagliato. Riprova.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Vuoi cambiare il prezzo dell'oggetto? Ti costerà {0} oro.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Oggetto aggiunto nel Nosbazaar.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prezzo dell'oggetto cambiato.
+BLACKLIST_ADDED: Personaggio aggiunto alla lista nera.
 BLACKLIST_BLOCKED: Questo giocatore ti ha bloccato!
 BLACKLIST_BLOCKING: Stai bloccando questo giocatore!
 BLACKLIST_DELETED: Personaggio tolto dalla lista nera
 BROADCASTER: (Administrator)
 BUFF_BLOCKED: Icone dei buff disabilitate
 BUFF_UNLOCKED: Icone dei buff abilitate
-BUY_ITEM_PLAYER: '{0} bought {2} x {1}'
+BUY_ITEM_PLAYER: '{0} Ha comprato {2} x {1}'
 BUY_ITEM_VALID: Hai comprato {1} di {0}
-CANNOT_BE_UNFREEZED_BY_KILLER: You can't unfreeze this person!
+CANNOT_BE_UNFREEZED_BY_KILLER: Non puoi sghiacciare questa persona!
 CANNOT_CREATE_MARTIAL_ARTIST: '#CANNOT_CREATE_MARTIAL_ARTIST'
 CANNOT_LEAVE_FAMILY: Sei il capo della famiglia, non puoì lasciare la tua famiglia.
 CANT_ATTACK: Non puoi ancora attaccare
-CANT_CARVE_MORE_RUNES: You can't carve in more runes!
+CANT_CARVE_MORE_RUNES: Non puoi intagliare ulteriori rune!
 CANT_CARVE_MORE_RUNES_OF_SAME_TYPE: '#CANT_CARVE_MORE_RUNES_OF_SAME_TYPE'
 CANT_CHANGE_MESSAGE: '#CANT_CHANGE_MESSAGE'
-CANT_CREATE_RAID_WHILE_IN_GROUP: You can't create a raid while being in a group.
+CANT_CREATE_RAID_WHILE_IN_GROUP: Non puoi creare un raid mentre fai parte di un gruppo.
 CANT_EQUIP_DESTROYED_SP: Non puoi equipaggiare una SP distrutta
-CANT_GIVE_SAME_AUTHORITY: You can't give others the same authority.
-CANT_JOIN_ARENA_IN_RAID: You can't go to arena in raid!
-CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: You can't join the event while not in a general map.
+CANT_GIVE_SAME_AUTHORITY: Non puoi dare agli atri la stessa autorità.
+CANT_JOIN_ARENA_IN_RAID: Non puoi entrare nell'arena mentre fai già parte di un raid!
+CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: Non puoi partecipare in un evento se non sei in una mappa generale.
 CANT_KICK_HEAD: '#CANT_KICK_HEAD'
 CANT_KICK_SAME_AUTHORITY: '#CANT_KICK_SAME_AUTHORITY'
 CANT_KICK_YOURSELF: '#CANT_KICK_YOURSELF'
 CANT_MOVE: Il personaggio non può moversi.
 CANT_UPGRADE_DESTROYED_SP: Non puoi aumentare una SP distrutta.
 CANT_USE_ITEM: Non puoi usare questo oggetto
-CANT_USE_MSG_BUBBLE: You can't use Speech Bubble!
-CANT_USE_OUTSIDE_OF_MINILAND: You can do this only in Mini-Land.
+CANT_USE_MSG_BUBBLE: Non puoi usare il Fumetto!
+CANT_USE_OUTSIDE_OF_MINILAND: Puoi far questo solo nella Mini-Land.
 CANT_USE_THAT: Non puoi usare questo
 CAPTURE_FAILED: Cattura non riuscita
-CAPTURE_MONSTER_CANNOT_BE_CAPTURED: You can't capture this monster!
+CAPTURE_MONSTER_CANNOT_BE_CAPTURED: Non puoi catturare questo mostro!
 CELLON_FULL: Non è possibile aggiungere altre opzioni su questo gioielli
 CELLON_LEVEL_TOO_HIGH: Il livello del cellon è troppo alto
 CELLONING_FAILED: Non sei riuscito a migliorare quell’attrezzatura, il cellon state distrutto
 CELLONING_SUCCESS: Sei riuscito ad aggiungere un'opzione a questa attrezzatura
-CHANGE_CHARACTER_FACTION_IN_FAM: You can't change your faction while in family.
+CHANGE_CHARACTER_FACTION_IN_FAM: Non puoi cambiare fazione quando sei già in famiglia.
 CHANNEL: Canale
 CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) si è connesso.'
 CHARACTER_LOGGED_IN: '{0} si è connesso.'
 CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
-CHARACTER_NOT_IN_FRIENDLIST: This Player is not in your friendlist
+CHARACTER_NOT_IN_FRIENDLIST: Questo giocatore non fa parte nella tua lista degli amici.
 CLASS_CHANGED: La tua classe è stata cambiata.
-COMMANDS_AVAILABLE: 'Available commands:'
-COMMANDS_HELP: Help command
-COMMANDS_UNDOCUMENTED: Unknown command.
+COMMANDS_AVAILABLE: 'Comandi disponibili:'
+COMMANDS_HELP: Comando aiuto
+COMMANDS_UNDOCUMENTED: Comando sconosciuto.
 COMMANDS_USAGES: Command usage
 COMPLIMENT_COOLDOWN: Puoi lodare un solo giocatore al giorno.
 COMPLIMENT_GIVEN: Hai lodato {0}.
@@ -128,69 +128,69 @@ COMPLIMENT_NOT_MINLVL: Solo i personaggi con un livello superiore a 30 possono l
 COMPLIMENT_RECEIVED: Sei stato lodato da {0}.
 CRAFTED_OBJECT: 'Hai craftato: {0} x {1}'
 CREATE_FAMILY: '#CREATE_FAMILY'
-CUARRY_BANK_ITEM_IN_EQ: You already have Cuarry Bank Debit Card in your equipment.
-DEPUTIES_LIMIT_REACHED: Deputies limit reached.
+CUARRY_BANK_ITEM_IN_EQ: Hai già la carta debito di Cuarry Bank nel tuo inventario.
+DEPUTIES_LIMIT_REACHED: Limite di vice-capi raggiunto.
 DIGNITY_LOST: Hai perso {0} di dignità!
 DIGNITY_RESTORED: La tua dignità è al massimo
-DISCORDRPC_CHATMESSAGE_DISABLED: Discord RPC disabled
-DISCORDRPC_CHATMESSAGE_ENABLED: Discord RPC enabled
-DISMISS_FAMILY: Do you want to dismiss yur family?
+DISCORDRPC_CHATMESSAGE_DISABLED: Discord RPC disabilitato
+DISCORDRPC_CHATMESSAGE_ENABLED: Discord RPC abilitato
+DISMISS_FAMILY: Vuoi sciogliere la tua famiglia?
 DIVORCED: Ora sei divorziato
-DO_YOU_WANT_MODIFY_SKILL: Do you want to modify this skill?
-DOLL_MSG_DOLLS_LIMIT: You can't summon more dolls.
-DOLL_MSG_MATE_ATTACK_FAIL: Attack ability enchancement failed.
-DOLL_MSG_MATE_DEFENSE_FAIL: Defense ability enchancement failed.
-DOLL_MSG_NOT_IN_ZONE: You're not in designated zone.
-DOLL_MSG_WRONG_DOLL: This doll is inadequate to NosMate's level!
+DO_YOU_WANT_MODIFY_SKILL: Vuoi modificare quest'abilità?
+DOLL_MSG_DOLLS_LIMIT: Non puoi evocare più bambole.
+DOLL_MSG_MATE_ATTACK_FAIL: Aumento dell'abilità d'attacco fallito.
+DOLL_MSG_MATE_DEFENSE_FAIL: Aumento dell'abilità difesa fallito.
+DOLL_MSG_NOT_IN_ZONE: Non sei nella zona designata.
+DOLL_MSG_WRONG_DOLL: Questa bambola è inadeguata a differenza del livello del tuo NosMate!
 DONE: '#DONE'
 DROP_MAP_FULL: Ci sono troppi oggetti in mappa! Prova più tardi
 DROPPED_ITEM: 'Tu hai ricevuto un oggetto: {0} x {1}'
 EFFECT_ACTIVATED: L'effetto {0} si è attivato!
-EFFECT_RESISTANCE: No effect because of immunity.
-EFFECT_TERMINATED: L'effeto {0}, si è terminato!
-EFFECT_TITLE_DISABLED: Title effect has been disabled.
-EFFECT_TITLE_ENABLED: Title affect has been enabled.
+EFFECT_RESISTANCE: Nessun effetto grazie all immunità.
+EFFECT_TERMINATED: L'effetto {0}, si è terminato!
+EFFECT_TITLE_DISABLED: L'effetto del titolo è stato disabilitato.
+EFFECT_TITLE_ENABLED: L'effetto del tiolo è stato abilitato.
 EMO_BLOCKED: Emoticons disabilitate
 EMO_UNBLOCKED: Emoticons abilitate
 EQ_NOT_EMPTY: Il tuo inventario è pieno.
 EW_MAIL: È arrivata una nuova nota
 EXCHANGE_BLOCKED: Da questo momento in poi gli scambi verranno bloccati.
-EXCHANGE_MATERIAL: Do you want to exchange it?
+EXCHANGE_MATERIAL: Vuoi scambiarlo?
 EXCHANGE_NOT_ALLOWED_IN_RAID: Non puoi fare lo scambio come membro del raid
 EXCHANGE_NOT_ALLOWED_WITH_RAID_MEMBER: Non puoi fare lo scambio con un membro del raid
 EXCHANGE_REFUSED: '{0} ha rifiutato il commercio'
 EXCHANGE_UNLOCKED: '>Da questo momento in poi gli scambi verranno accettati.'
-EXPEVENT_DISABLED: EXP Event has been disabled.
-EXPEVENT_ENABLED: EXP Event has been enabled!
+EXPEVENT_DISABLED: L'evento EXP è stato disabilitato.
+EXPEVENT_ENABLED: L'evento EXP è stato abilitato.
 FAIRY_LEVELUP: La potenza della tua fata è aumentata di {0} livello.
 FAIRYMAX: la tua fata ha raggiunto il livello massimo
 FAIRYSTATS: '#FAIRYSTATS'
-FAMILY_CHANGED_HEAD: Family head changed.
+FAMILY_CHANGED_HEAD: Capo famiglia cambiato.
 FAMILY_CHATMESSAGE_X_IS_ONLINE: '#FAMILY_CHATMESSAGE_X_IS_ONLINE'
 FAMILY_CHATMESSAGE_X_JOINED_FAMILY: '#FAMILY_CHATMESSAGE_X_JOINED_FAMILY'
-FAMILY_CREATION_GROUP_REQUIRED: You must be in a group to create a family.
-FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family
+FAMILY_CREATION_GROUP_REQUIRED: Hai bisogno di essere in gruppo per creare una famiglia.
+FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Qualcuno del tuo gruppo fa già parte di una famiglia o recentemente ha lasciato una famiglia.
 FAMILY_FOUNDED: La famiglia {0} è stata fondata!
 FAMILY_FULL: Non puoi aggiungere altri membri nella tua famiglia, perché non c’è abbastanza spazio
-FAMILY_GROUP_NOT_FULL: You can't create family without full group!
+FAMILY_GROUP_NOT_FULL: Non puoi creare una famiglia senza che il tuo gruppo sia pieno!
 FAMILY_HEAD_CHANGE_GENDER: '#FAMILY_HEAD_CHANGE_GENDER'
-FAMILY_HORN_INFO: Family Summoning Horn was used.
-FAMILY_HORN_TELEPORT_ASK: Family head has used the horn. You you want to teleport?
-FAMILY_INFO_ASK_FAMILY_LEAVE: Do you want to leave the family?
-FAMILY_INFO_USED_DAILY_MESSAGE: Daily message already used.
+FAMILY_HORN_INFO: Il corno dell'evocazione della famiglia è stato usato.
+FAMILY_HORN_TELEPORT_ASK: Il capo famiglia ha usato il corno. Vuoi teletrasportarti?
+FAMILY_INFO_ASK_FAMILY_LEAVE: Vuoi lasciare la famiglia?
+FAMILY_INFO_USED_DAILY_MESSAGE: Messaggio giornaliero già usato.
 FAMILY_INVITATION_NOT_ALLOWED: Non hai il permesso di invitare giocatori!
-FAMILY_INVITATION_REJECTED: Family invitation rejected.
+FAMILY_INVITATION_REJECTED: Invito famiglia rifiutato.
 FAMILY_INVITED: '#FAMILY_INVITED'
 FAMILY_JOINED: Giocatore {0} si è unito alla famiglia {1} !
 FAMILY_LEAVE: Hai lasciato la famiglia.
-FAMILY_LEVEL_UP: Family has reached {0} level!
+FAMILY_LEVEL_UP: La famiglia ha raggiunto {0} livello!
 FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX: '#FAMILY_MSG_BROADCAST_HEAD_CHANGE_SEX'
-FAMILY_MSG_BROADCAST_SHOUT: Family > {0}
+FAMILY_MSG_BROADCAST_SHOUT: Famiglia > {0}
 FAMILY_NAME_ALREADY_USED: Il nome della famiglia è già stato preso!
-FAMILY_RANK_ASSISTANT: Assistant
-FAMILY_RANK_HEAD: Head
-FAMILY_RANK_MANAGER: Manager
-FAMILY_RANK_MEMBER: Member
+FAMILY_RANK_ASSISTANT: Assistente
+FAMILY_RANK_HEAD: Capo
+FAMILY_RANK_MANAGER: Guardiano
+FAMILY_RANK_MEMBER: Membro
 FAMILY_REQ_LOCKED: Da questo momento in poi gli inviti nelle Famiglie verranno bloccati.
 FAMILY_REQ_UNLOCKED: Gli inviti nelle Famiglie sono stati abilitati
 FAMILYCALL: '#FAMILYCALL'
