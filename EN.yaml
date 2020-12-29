@@ -319,7 +319,7 @@ NOT_ENOUGH_FUNDS: Not enough funds.
 NOT_ENOUGH_MINILAND_POINT: Not enough Mini-Land game points.
 NOT_ENOUGH_MP: Not enough mana points!
 NOT_ENOUGH_REPUT: Not enough reputation!
-NOT_ENOUGH_REQUIRED_ITEM: 'You don't have enough {0}.'
+NOT_ENOUGH_REQUIRED_ITEM: "You don't have enough {0}."
 NOT_FAMILY_HEAD: You are not the family head!
 NOT_FRIEND: You are not friends!
 NOT_HUNGRY_FEMALE: I'm not hungry!
