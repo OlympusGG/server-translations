@@ -40,7 +40,7 @@ RESPAWN_DIALOG_ASK_CHANGE_SPAWNLOCATION: "Czy chcesz ustawić tę wioskę miejsc
 FAMILY_DIALOG_ASK_FAMILY: "Otrzymano zaproszonie do rodziny {0} przez gracza {1}, czy chcesz dołączyć?"
 FAMILY_DIALOG_ASK_FAMILY_INVITED_COFIRMATION: "Czy na pewno chcesz dołączyć do rodziny?"
 PET_DIALOG_ASK_SEND_BACK: "Czy chcesz, aby NosKumpel wrócił do Mini-Landu?"
-ITEM_DIALOG_ASK_OPEN_BOX: "Czy chcesz otworzyć pudło?"S
+ITEM_DIALOG_ASK_OPEN_BOX: "Czy chcesz otworzyć pudło?"
 PARTNER_DIALOG_ASK_SLOT_INCREASE: "Czy chcesz powiększyć ilość miejsc dla partnerów?"
 PET_DIALOG_ASK_SLOT_INCREASE: "Czy chcesz powiększyć ilość miejsc dla NosKumpli?"
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: "Czy chcesz wyciągnąć NosKumpla z perły?"
