@@ -454,7 +454,6 @@ PERFECTSP_LIGHT: "Light Resistance"
 PERFECTSP_SHADOW: "Shadow Resistance"
 PERFECTSP_MESSAGE_SUCCESS: "Perfection successful: {0} +{1}"
 PERFECTSP_WATER: "Water Resistance"
-
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: "Your NosMate can already pick up items!"
 PET_CHATMESSAGE_CAN_PICK_UP: "Your NosMate can now pick up items!"
 PET_SHOUTMESSAGE_HIGHER_LEVEL: "Your NosMate's level is higher than yours!"

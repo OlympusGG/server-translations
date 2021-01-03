@@ -101,7 +101,7 @@ CELLON_SHOUTMESSAGE_FAIL: "Cellon zniknął, ponieważ nie udało się dodać op
 CELLON_SHOUTMESSAGE_SUCCESS: "Dodano opcje!"
 ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: "Nie możesz zmienić frakcji będąc w rodzinie."
 INFROMATION_CHANNEL: "Kanał"
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}{1} zalogował się."
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) zalogował się."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} zalogował się."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: "{0} wylogował się."
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: "Gracz nie znajduje się na liście przyjaciół."
