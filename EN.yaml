@@ -1,336 +1,407 @@
-ACT4_CHANNEL_OFFLINE: Act 4 channel is offline.
-ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Crown.
-ACT4_PVP_DEATH: '{1} was killed by a guardian of {0}.'
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju is dead!
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju died
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '#ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED'
-ADD_OPTION_ON_STUFF: Do you want to add an option to this item? If you agree, this item will be linked to you only.
-ADD_OPTION_ON_STUFF_NOT_EMPTY: The option will be replaced by the new one. You have 50% chance to succeed, or else the item will be destroyed. Do you want to continue?
-ADVENTURER: Adventurer
-ADVENTURERS_CANT_USE: Adventurers can't use this item!
-ALREADY_GOT_BUFF: You already have {0}.
-ALREADY_IN_FAMILY: You are already in a family.
-ALREADY_IN_GROUP: You are already in a group!
-ALREADY_MAX_RARE: You already have the maximum rarity!
-ALREADY_PET_IN_TEAM: Your NosMate is already in the team.
-ALREADY_TAKEN: This name is already taken!
-AMMO_LOADED_ADVENTURER: Ammo loaded!
-AMMO_LOADED_ARCHER: Arrow loaded!
-AMMO_LOADED_SWORDSMAN: Bolts loaded!
-AMULET_DESTROYED: 'CAUTION: The protection spell has expired.'
-AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
-ARCHER: Archer
-ARENA_INFO_ASK_ENTER: '#ARENA_INFO_ASK_ENTER'
-ARENA_NOT_OPEN: Arena of Talents is open at 18:00 - 22:00.
-ARENA_TICKET_LEFT: 'Remaining participation entries: {0}'
-ASK_ADD_TITLE: Do you want to add a title?
-ASK_BIND: Do you want to wear that item? It will bind this item to your character and make it unavailable for trading.
-ASK_CHANGE_FACTION: Do you want to change your faction?
-ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
-ASK_CHANGE_SPAWNLOCATION: Do you want to change the respawn location?
-ASK_FAMILY_INVITED: You have been invited to family {0}, do you want to join?
-ASK_FAMILY_INVITED_COFIRMATION: Are you sure you want to join?
-ASK_KICK_PET: Do you want to send your NosMate back to the Mini-Land?
-ASK_OPEN_BOX: Do you want to open this box?
-ASK_PARTNER_MAX: Do you want to expand your partner slots?
-ASK_PET_MAX: Your pet has reached max level!
-ASK_RELEASE_PET: Do you want to take out your NosMate?
-ASK_RESET_ALL_PSP_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
-ASK_REVIVE: Do you want to revive? It will cost you 10 Seeds of Power
-ASK_REVIVE_ARENA: Do you want to revive? It will cost you 100 Gold.
-ASK_REVIVE_FREE: Do you want to revive? It will be free until level 20.
-ASK_STORE_PET: Do you want to place your NosMate in a bead?
-ASK_USE: Do you want to use this item?
-ASK_WINGS_CHANGE: Do you want to change your wings?
-ASK_WITHDRAW_BANK: Do you want to withdraw {0} gold from your bank?
-ASSISTANTS_LIMIT_REACHED: Assistants limit reached.
-BAD_ACCOUNT_ID: Wrong account login.
-BAD_DROP_AMOUNT: Incorrect drop amount.
-BAD_EQUIPMENT: You can't wear this item.
-BAD_FAIRY: The fairy element is different from SP element!
-BANK_ASK_DEPOSIT: Do you want to deposit {0} gold to your bank?
-BANK_BALANCE: You have {0} gold in your bank.
-BANK_DEPOSIT: Deposited {0} gold in your bank.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Item added to NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Purchase impossible, item sold or price changed.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar is under maintenance.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
-BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds limit.
-BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed
-BLACKLIST_INFO_ADDED: Player added to blacklist!
-BLACKLIST_INFO_BLOCKED: This player has blocked you!
-BLACKLIST_INFO_BLOCKING: You have blocked this player!
-BLACKLIST_INFO_DELETED: Player deleted from blacklist!
-BROADCASTER: Administrator
-BUFF_CHATMESSAGE_SIDE_EFFECTS: '#BUFF_CHATMESSAGE_SIDE_EFFECTS'
-BUY_ITEM_PLAYER: '{0} bought {2} x {1}'
-BUY_ITEM_VALID: You bought {1} x {0}
-CANNOT_BE_UNFREEZED_BY_KILLER: You can't unfreeze this person!
-CANT_ATTACK: You can't attack right now.
-CANT_CARVE_MORE_RUNES: You can't carve in more runes!
-CANT_CREATE_RAID_WHILE_IN_GROUP: You can't create a raid while being in a group.
-CANT_EQUIP_DESTROYED_SP: You can't wear destroyed Specialist Card.
-CANT_GIVE_SAME_AUTHORITY: You can't give others the same authority.
-CANT_JOIN_ARENA_IN_RAID: You can't go to arena in raid!
-CANT_JOIN_GAMEEVENT_NOT_IN_BASEMAP: You can't join the event while not in a general map.
-CANT_UPGRADE_DESTROYED_SP: You can't upgrade Specialist Card with a dead soul!
-CANT_USE_ITEM: You can't use this item.
-CANT_USE_MSG_BUBBLE: You can't use Speech Bubble!
-CANT_USE_OUTSIDE_OF_MINILAND: You can do this only in Mini-Land.
-CANT_USE_THAT: You can't use that.
-CAPTURE_FAILED: Capture failed! Try again.
-CAPTURE_MONSTER_CANNOT_BE_CAPTURED: You can't capture this monster!
-CELLON_FULL: The accessory is already full!
-CELLON_LEVEL_TOO_HIGH: The Cellon level too high for this accessory.
-CELLONING_FAILED: The Cellon has disappeared because you failed to add options.
-CELLONING_SUCCESS: Option added.
-CHANGE_CHARACTER_FACTION_IN_FAM: You can't change your faction while in family.
-CHANNEL: Channel
-CHARACTER_FAMILY_LOGGED_IN: '{0}({1}) logged in!'
-CHARACTER_LOGGED_IN: '{0} has logged in'
-CHARACTER_LOGGED_OUT: '{0} has logged out'
-CHARACTER_NOT_IN_FRIENDLIST: This player is not in your friendlist.
-CLASS_CHANGED: Your class has been changed.
-COMMANDS_AVAILABLE: 'Available commands:'
-COMMANDS_HELP: Help command
-COMMANDS_UNDOCUMENTED: Unknown command.
-COMMANDS_USAGES: Command usage
-COMPLIMENT_COOLDOWN: You can compliment only one player per day.
-COMPLIMENT_GIVEN: You complimented {0}.
-COMPLIMENT_LOGIN_COOLDOWN: You have to wait {0} minutes before you can compliment someone.
-COMPLIMENT_NOT_MINLVL: You can only compliment a player if you have reached Lv 30.
-COMPLIMENT_RECEIVED: You have been complimented by {0}.
-CRAFTED_OBJECT: 'You have crafted: {0} x{1}'
-CUARRY_BANK_ITEM_IN_EQ: You already have Cuarry Bank Debit Card in your equipment.
-DEPUTIES_LIMIT_REACHED: Deputies limit reached.
-DIGNITY_LOST: You lost dignity.
-DIGNITY_RESTORED: Your dignity has been restored!
-DISMISS_FAMILY: Do you want to dismiss your family?
-DIVORCED: The marriage was terminated.
-DO_YOU_WANT_MODIFY_SKILL: Do you want to modify this skill?
-DOLL_MSG_DOLLS_LIMIT: You can't summon more dolls.
-DOLL_MSG_MATE_ATTACK_FAIL: Attack ability enchancement failed.
-DOLL_MSG_MATE_DEFENSE_FAIL: Defense ability enchancement failed.
-DOLL_MSG_NOT_IN_ZONE: You're not in designated zone.
-DOLL_MSG_WRONG_DOLL: This doll is inadequate to NosMate's level!
-DROP_MAP_FULL: There are too many items on this map! Try again later!
-DROPPED_ITEM: You got {0}x {1}
-DUNGEON_QNAMESSAGE_ENTRY_COST: '#DUNGEON_QNAMESSAGE_ENTRY_COST'
-DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: '#DUNGEON_SHOUTMESSAGE_BOSS_CLOSED'
-DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: '#DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED'
-DUNGEON_SHOUTMESSAGE_BOSS_OPEN: '#DUNGEON_SHOUTMESSAGE_BOSS_OPEN'
-EFFECT_ACTIVATED: The {0} effect has been activated!
-EFFECT_RESISTANCE: No effect because of immunity.
-EFFECT_TERMINATED: You have lost the {0} effect.
-EFFECT_TITLE_DISABLED: Title effect has been disabled.
-EFFECT_TITLE_ENABLED: Title affect has been enabled.
-EQ_NOT_EMPTY: Your equipment is not empty!
-EW_MAIL: A new mail arrived!
-EXCHANGE_CHATMESSAGE_REFUSED: Trade request refused.
-EXCHANGE_CHATMESSAGE_YOU_REFUSED: Trade refused
-EXCHANGE_DIALOG_INCOMING_EXCHANGE: '{0} wants to trade with you. [Level: {1}(+{2})]'
-EXCHANGE_INFO_WAITING_FOR_TARGET: Waiting for {0}
-EXCHANGE_MATERIAL: Do you want to exchange it?
-EXCHANGE_MODAL_ALREADY_IN_EXCHANGE: This player is already trading!
-EXCHANGE_SHOUT_ITEM_NOT_TRADABLE: Item can't be traded!
-EXCHANGE_SHOUT_NOT_ALLOWED_IN_RAID: You can't trade in raid.
-EXCHANGE_SHOUT_NOT_ALLOWED_WITH_RAID_MEMBER: You can't trade with raid member.
-EXPEVENT_DISABLED: EXP Event has been disabled.
-EXPEVENT_ENABLED: EXP Event has been enabled!
-FAIRY_LEVELUP: Your {0} level increased.
-FAIRYMAX: Your fairy has reached max level!
-FAMILY_CHANGED_HEAD: Family head changed.
-FAMILY_CHATMESSAGE_NEEDED: '#FAMILY_CHATMESSAGE_NEEDED'
-FAMILY_CHATMESSAGE_X_IS_ONLINE: '{0} is online'
-FAMILY_CHATMESSAGE_X_JOINED_FAMILY: '{0} joined the family'
-FAMILY_CREATION_GROUP_REQUIRED: You must be in a group to create a family.
-FAMILY_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family.
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: '#FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY'
-FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: '#FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY'
-FAMILY_DIALOG_CANNOT_KICK_YOURSELF: '#FAMILY_DIALOG_CANNOT_KICK_YOURSELF'
-FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: '#FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY'
-FAMILY_FOUNDED: The family {0} was founded!
-FAMILY_FULL: Family is full.
-FAMILY_GROUP_NOT_FULL: You can't create a family without full group!
-FAMILY_HORN_INFO: Family Summoning Horn was used.
-FAMILY_HORN_TELEPORT_ASK: Family head has used the horn. You you want to teleport?
-FAMILY_INFO_ASK_FAMILY_LEAVE: Do you want to leave the family?
-FAMILY_INFO_USED_DAILY_MESSAGE: Daily message already used.
-FAMILY_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
-FAMILY_INVITATION_REJECTED: Family invitation rejected.
-FAMILY_JOINED: Player {0} joined the family {1}!
-FAMILY_LEAVE: You left the family.
-FAMILY_LEVEL_UP: Family has reached {0} level!
-FAMILY_NAME_ALREADY_USED: This family name is already in use!
-FAMILY_RANK_DEPUTY: Assistant
-FAMILY_RANK_HEAD: Head
-FAMILY_RANK_KEEPER: Keeper
-FAMILY_RANK_MEMBER: Member
-FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: '#FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION'
-FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: '#FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX'
-FAMILY_SHOUTMESSAGE_SHOUT: '#FAMILY_SHOUTMESSAGE_SHOUT'
-FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
-FRIEND_INFO_ADDED: Friend request accepted!
-FRIEND_INFO_ALREADY_FRIEND: '{0} is already your friend!'
-FRIEND_INFO_DELETED: Friend deleted!
-FRIEND_INFO_FRIENDLIST_FULL: Your friend list is full!
-FRIEND_INFO_REJECTED: Friend request rejected!
-FRIEND_REQUEST_BLOCKED: Friend request blocked
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in enemy faction.
-GAME_CHANNEL: Channel
-GAMEEVENT_ENDED: The event has ended.
-GAMEEVENT_NOT_ENOUGH_PLAYERS: Not enough players for the event.
-GAMEEVENT_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
-GAMEMASTER_SHOUT_CANT_PERFORM_ACTION: You can't perform this action as a GameMaster
-GENERIC_GAME_PREPARATION_MINUTES: '{0} will start in {1} minutes.'
-GENERIC_GAME_PREPARATION_SECONDS: '{0} will start in {1} seconds.'
-GENERIC_GAME_QUESTION: Do you want to participate in {0}?
-GENERIC_GAME_QUESTION_WITH_COST: Do you want to participate in {0}? It will cost you {1}
-GENERIC_GAME_STARTED: '{0} has started.'
-GIVE_FAMILY_HEAD_AUTHORITY: Do you want to change the head of the family?
-GOLD_RATE: Gold
-GOLD_SHOUTMESSAGE_EXCEDENT_SENT_TO_BANK: Exceeding funds sent to the bank.
-GROUP_ADMIN: You are the group admin now!
-GROUP_BLOCKED: User blocked group invites.
-GROUP_CANT_INVITE: You can't invite {0} to group.
-GROUP_CLOSED: Group disbanded.
-GROUP_DIALOG_INVITED_YOU: '{0} sent you a group request'
-GROUP_FULL: Group is full.
-GROUP_JOIN: You joined {0}'s group!
-GROUP_LEFT: You left the group.
-GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in the group is a member of a family already!
-GROUP_REQUEST: Group request sent to {0}
-GROUP_SHOUT_SHARING: Sharing with everyone
-GROUP_SHOUT_SHARING_BY_ORDER: Sharing by order
-GROUP_SHOUT_YOU_ARE_NOT_LEADER: You are not group leader!
-HARVEST_MSG_FAIL_TRY_AGAIN: Attempt has failed! Try again after {0} seconds.
-HARVEST_MSG_TRY_FAIL: Unfortunately, the attempt has failed.
-HAS_SHOP_OPENED: You can't trade with shop keepers.
-HERO_LEVELUP: You hero level has been increased!
-ICEBREAKER: Icebreaker
-ICEBREAKER_FIGHT_WARN: Prepare to fight!
-ICEBREAKER_PLAYER_FROZEN: '{0} is frozen.'
-ICEBREAKER_PLAYER_UNFROZEN: '{0} was unfrozen.'
-ICEBREAKER_STARTED: Icebreaker has started
-ICEBREAKER_WIN: You won the Icebreaker!
-IMPOSSIBLE_TO_USE: Can't use that right now!
-IN_BATTLE: You can't invite players when battling.
-IN_FAMILY: in family
-INSTANT_COMBAT: Instant Combat
-INSTANTBATTLE_SHOUTMESSAGE_MINUTES_REMAINING: The Instant Battle will be closed in {0} minutes.
-INSTANTBATTLE_SHOUTMESSAGE_MONSTERS_INCOMING: Monsters incoming!
-INSTANTBATTLE_SHOUTMESSAGE_SECONDS_REMAINING: The Instant Battle will be closed in {0} seconds.
-INSTANTBATTLE_SHOUTMESSAGE_SUCCEEDED: You won the Instant Battle!
-INSTANTBATTLE_SHOUTMESSAGE_WAVE_FAILED: You didn't beat the wave
-INSTANTBATTLE_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: The Instant Battle will be closed in {0} seconds.
-INSTANTBATTLE_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: The next wave will start in {0} seconds.
-INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: '#INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT'
-INTERACTION_GET_PROTECTION_POWER_ANGEL: You got blessed by the protection power of angels!
-INTERACTION_GET_PROTECTION_POWER_DEMON: You got blessed by the protection power of demons!
-INTERACTION_GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
-INTERACTION_ITEM_NOT_SELLABLE: You can only sell tradable items in a private shop.
-INTERACTION_NOT_ENOUGH_GOLD: Not enough gold.
-INTERACTION_NOT_ENOUGH_PLACE: Not enough place in equipment!
-INTRODUCTION_SET: Introduction set.
-INVALID_CHARNAME: Invalid characters in your nickname!
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
-INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
-INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item?
-INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items
-ITEM_BOUND_TO: (Group) [{1}] got {2}x {0}
-ITEM_CANNOT_BE_WITH_SHELL: The item can't have a shell.
-ITEM_GIFTED: You got a package.
-ITEM_IS_FIXED: Item upgrade level is fixed.
-ITEM_IS_HEROIC: It's a heroic item!
-ITEM_IS_WITHOUT_SHELLS: This item doesn't have shells
-ITEM_NO_HEROIC: It's not a heroic item.
-ITEM_NOT_DROPPABLE: This item can't be dropped!
-ITEM_NOT_DROPPABLE_HERE: You can't drop that item!
-ITEM_TIMEOUT: Item is no longer valid.
-ITEM_UNFIXED: Your item is no longer fixed!
-JOB_LEVELUP: Job level has been increased!
-LANGUAGE_CHANGED: 'You changed language to:'
-LANGUAGE_CURRENT: Current language is
-LEVELUP: Your level has been increased!
-LOGIN_MEDAL: The NosMerchant Medal is currently active.
-LOW_JOB_LVL: Your job level is too low!
-LOW_RAID_LEVEL: You must be level {0} to join the raid.
-LVL_REQUIRED: Specialist must have level {0} to upgrade!
-MAGICAN: '#MAGICAN'
-MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
-MARTIAL_ART: '#MARTIAL_ART'
-MATE_ATTACK_UPGRADE: Your NosMate's attack ({0} -> {1}) upgraded!
-MATE_DEFENCE_UPGRADE: Your NosMate's defense ({0} -> {1}) upgraded!
-MATE_LEVEL_UP: Your NosMate has leveled up!
-MATE_PET_EAT_EVERYTHING: Your NosMate is full!
-MATE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel
-MATE_WENT_BACK_TO_MINILAND: NosMate went back to Mini-Land
-MATE_WILL_BE_BACK: NosMate will be back in 3 minutes.
-MAX_GOLD: Maximum amount of gold reached!
-MAX_GOLD_BANK_REACHED: Maximum amount of gold in bank reached!
-MAX_MATES_COUNT: Maximum amount of NosMates reached!
-MAX_PARTNER_REACHED: Maximum amount of partners reached!
-MAX_PET_REACHED: Maximum NosMate limit reached.
-MINIGAME_NO_REWARD: There are no rewards in this minigame
-MINIGAME_POINTS_FULL: Maximum points in minigame reached
-MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: You need to be level {0} and have {1} reputation to play this minigame.
-MINILAND_CLOSED: Mini-Land closed.
-MINILAND_DURABILITY_MAXIMUM: Maximum time for using the minigame reached.
-MINILAND_FULL: Mini_Land is full.
-MINILAND_INFO_CHANGED: Your Mini-Land greeting message has been changed!
-MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Not enough Reward Coupons!
-MINILAND_INVITE_ASK: Do you want to join {0}'s Mini-Land?
-MINILAND_INVITE_LOCK: This player's Mini-Land is locked.
-MINILAND_LOCK: The Mini-Land is now locked.
-MINILAND_PRIVATE: The mini-land is now private.
-MINILAND_PUBLIC: The mini-land is now public.
-MINILAND_VISITOR: 'Total visits: {0}, Daily visits: {1}'
-MINILAND_WELCOME_MESSAGE: Welcome!
-MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level of the monster must be lower than yours to capture it!
-MONSTER_MUST_BE_LOW_HP: Monster must have less than 50% of HP to be captured.
-MUST_BE_IN_CLASSIC_MAP: You must be in a general map.
-MUTE_TIME: 'Punishment duration: {0}'
-MUTED_FEMALE: I was a very bad girl so I got punished!
-MUTED_MALE: I was a very bad boy so I got punished!
-NEED_FAMILY: You can't join the Land Of The Dead without family.
-NEED_LEAVE_GROUP: You need to leave the group to do that!
-NEED_PERFUM_TO_CHANGE_SHELL: You can't change the shell, you need perfume.
-NEW_LEADER: You are the new party leader!
-NEW_NAME_PET_MAX_LENGTH: The NosMate name is too long! (14 characters max.)
-NO_AMMO_ADVENTURER: You don't have enough ammo. Buy it in equipment shop.
-NO_AMMO_ARCHER: You don't have enough arrows. Buy them in equipment shop.
-NO_AMMO_SWORDSMAN: You don't have enough bolts. Buy them in equipment shop.
-NO_FAMILY: You don't have a family.
-NO_FAMILY_RIGHT: You don't have sufficient rights.
-NO_FAMILY_WAREHOUSE: No family warehouse found.
-NO_GILLION: You don't have enough Gillion Stone!
-NO_PARTNER_IN_TEAM: No partner.
-NO_SP: You are not wearing a Specialist Card!
-NO_WEAPON: You're not wearing appropriate weapon!
-NO_WIG: You're not wearing a wig.
-NO_WINGS: You don't have any Wings of Friendship!
-NOT_ADVENTURER: Only an Adventurer can change class!
-NOT_ENOUGH_CP: Not enough enough CP points.
-NOT_ENOUGH_DURABILITY_POINT: Not enough durability points.
-NOT_ENOUGH_FUNDS: Not enough funds.
-NOT_ENOUGH_MINILAND_POINT: Not enough Mini-Land game points.
-NOT_ENOUGH_MP: Not enough mana points!
-NOT_ENOUGH_REPUT: Not enough reputation!
-NOT_ENOUGH_REQUIRED_ITEM: You don't have enough {0}.
-NOT_FAMILY_HEAD: You are not the family head!
-NOT_FRIEND: You are not friends!
-NOT_HUNGRY_FEMALE: I'm not hungry!
-NOT_HUNGRY_MALE: I'm not hungry!
-NOT_IN_FAMILY: You are not in family!
-NOT_REQUIERED_LEVEL: Your level is too low!
-NOT_YOUR_ITEM: The item is not yours!
-NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in inbox
-NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
-OPEN_BANK: Welcome to the bank! What may I help you with?
+ACT4_CHANNEL_OFFLINE: "Act 4 channel is currently offline."
+ACT4_NEED_FACTION: "Only those who have a protection power can join the Frozen Crown."
+ACT4_CHATMESSAGE_PVP_ANGELS: "angels"
+ACT4_CHATMESSAGE_PVP_DEMONS: "demons"
+ACT4_CHATMESSAGE_PVP_KILL: "{1} defeated a guardian of {0}."
+ACT4_CHATMESSAGE_PVP_DEATH: "{1} was killed by a guardian of {0}."
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: "Angels Camp"
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: "Demons Camp"
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} has defeated Lord Mukraju!"
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} could not defeat Lord Mukraju in time."
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} has summoned Lord Mukraju!"
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: "Dungeon gate is now open near the central boundary tower in Bitoren Tundra!"
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: "Entering the dungeon will cost you {0} reputation points. Do you want to enter?"
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: "Boss Room has been closed."
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: "Dungeon Boss has been defeated!"
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: "Boss Room is now open."
+ACT4_DUNGEON_REVIVAL_DIALOG: "Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?"
+SHELLS_DIALOG_ADD_OPTIONS: "Do you want to add an option to this item? If you agree, this item will be linked to you only."
+SHELLS_DIALOG_REPLACE_OPTIONS: "The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Do you want to continue?"
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: "Options of this shell are already identified."
+SHELLS_SHOUTMESSAGE_BROKEN: "The shell is broken because it has failed during adding."
+SHELLS_SHOUTMESSAGE_ERASED: "The option has been erased."
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: "You can only use this shell on armors."
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: "You can only use this shell on weapons."
+SHELLS_SHOUTMESSAGE_IDENTIFIED: "Shell identified!"
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: "The level of the shell must be the same or lower than the equipment level."
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: "The shell must be identified before using."
+SHELLS_SHOUTMESSAGE_OPTION_SET: "Shell options have been added."
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: "The shell rarity must be the same or lower than the equipment rarity."
+FAIRYSTONES_DIALOG_INSERT: "Do you want to insert {0} to your {1}?"
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: "You can only insert Fairy Stones to weapons and armors."
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: "You cannot insert Fairy Stones into Heroic Level equipment."
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: "This Fairy Stone's level is too high for this item."
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: "You can't insert any more Fairy Stones in this item."
+FAIRYSTONES_MESSAGE_INSERT_FAILED: "Fairy Stone insertion failed."
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: "Fairy Stone insertion succeeded!"
+CLASS_NAME_ADVENTURER: "Adventurer"
+CLASS_NAME_SWORDSMAN: "Swordsman"
+CLASS_NAME_ARCHER: "Archer"
+CLASS_NAME_MAGE: "Mage"
+CLASS_NAME_MARTIAL_ARTIST: "Martial Artist"
+ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: "Adventurers can't use this item!"
+ITEM_CHATMESSAGE_CANT_USE_TWICE: "You can't use that item, because you already have {0} buff."
+FAMILY_INFO_ALREADY_IN_FAMILY: "You are already in a family."
+GROUP_INFO_ALREADY_IN_GROUP: "You are already in a group!"
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: "You already have the highest rarity!"
+PET_MESSAGE_ALREADY_IN_TEAM: "Your NosMate is already in the team."
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: "This name is already taken!"
+AMMO_LOADED_ADVENTURER: "Ammo loaded!"
+AMMO_LOADED_ARCHER: "Arrow loaded!"
+AMMO_LOADED_SWORDSMAN: "Bolts loaded!"
+GAMBLING_INFO_AMULET_DESTROYED: "CAUTION: The protection spell has expired."
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: "The item was not destroyed, thanks to the amulet!"
+ARENA_INFO_ASK_ENTER: "Do you want to enter the individual arena? It will cost you {0} gold."
+TITLE_DIALOG_ASK_ADD: "Do you want to add this title?"
+ITEM_DIALOG_ASK_BIND: "Do you want to wear that item? It will bind this item to your character and make it unavailable for trading."
+ITEM_DIALOG_ASK_CHANGE_FACTION: "Do you want to change your faction?"
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: "Do you want to change your family's faction?"
+RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: "Do you want to change the respawn location?"
+FAMILY_DIALOG_ASK_JOIN_FAMILY: "You have been invited to family {0} by {1}, do you want to join?"
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: "Are you sure you want to join the family?"
+PET_DIALOG_ASK_SEND_BACK: "Do you want to send your NosMate back to the Mini-Land?"
+ITEM_DIALOG_ASK_OPEN_BOX: "Do you want to open this box?"
+PARTNER_DIALOG_ASK_SLOT_INCREASE: "Do you want to expand your partner slots?"
+PET_DIALOG_ASK_SLOT_INCREASE: "Do you want to expand your NosMate slots?"
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: "Do you want to take out your NosMate?"
+PSP_DIALOG_ASK_RESET_ALL_SKILLS: "Do you want to reset all of your Partner Specialist Card skills?"
+REVIVE_DIALOG_SEEDS_OF_POWER: "Do you want to revive? It will cost you {0} Seeds of Power"
+REVIVE_DIALOG_ARENA: "Do you want to revive? It will cost you {0} Gold."
+REVIVE_DIALOG_FREE: "Do you want to revive? It will be free until level {0}."
+ITEM_DIALOG_ASK_PET_STORE: "Do you want to place your NosMate in a bead?"
+ITEM_DIALOG_ASK_USE: "Do you want to use this item?"
+ITEM_DIALOG_ASK_CHANGE_SP_WINGS: "Do you want to change your specialist wings?"
+BANK_DIALOG_ASK_WITHDRAW: "Do you want to withdraw {0}000 gold from your bank account?"
+FAMILY_INFO_KEEPER_LIMIT_REACHED: "Assistants limit reached."
+ACCOUNT_INFO_BAD_ID: "Wrong account login."
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: "Incorrect drop amount."
+ITEM_MESSAGE_CANT_WEAR: "You can't wear this item."
+ITEM_MESSAGE_CANT_WEAR_PARTNER: "Your partner can't wear this item."
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: "The fairy element is different from the SP element!"
+BANK_DIALOG_ASK_DEPOSIT: "Do you want to deposit {0}000 gold to your bank?"
+BANK_MESSAGE_BALANCE: "You have {0} gold in your bank."
+BANK_MESSAGE_DEPOSIT: "Deposited {0}000 gold in your bank."
+BAZAAR_MESSAGE_ITEM_ADDED: "{0}x {1} - added to NosBazaar."
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: "Item added to NosBaazar."
+BAZAAR_INFO_ITEM_CHANGED: "Purchase invalid, item sold or price changed."
+BAZAAR_INFO_MAINTENANCE_MODE: "NosBazaar is under maintenance."
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: "Maximum listed items limit reached."
+BAZAAR_INFO_NEEDS_MEDAL: "You don't have NosMerchant Medal."
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: "Item price exceeds the limit."
+BAZAAR_INFO_RESYNC: "Item price change failed. Try again."
+BAZAAR_QNA_CHANGE_PRICE_FEE: "Do you want to change the item price? It will cost {0} gold."
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: "Item price changed successfully."
+BLACKLIST_INFO_ADDED: "Player {0} added to blacklist!"
+BLACKLIST_INFO_BLOCKED: "This player has blocked you."
+BLACKLIST_INFO_BLOCKING: "This player is on your blacklist."
+BLACKLIST_INFO_DELETED: "Deleted the player from blacklist!"
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: "Administrator"
+BUFF_CHATMESSAGE_SIDE_EFFECTS: "Side effects of {0} have started."
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: "{0} bought {2}x {1}."
+PERSONAL_SHOP_LOG_PURCHASE_BUYER: "You bought {1}x {0} from {2}."
+NPC_SHOP_LOG_PURCHASE: "You bought {1}x {0}."
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: "You can't unfreeze the person you killed!"
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: "You can't attack right now."
+RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: "You can't create a raid while being in a group."
+ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: "You can't wear destroyed Specialist Card."
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: "You can't give others the same authority."
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: "You can't join a raid while in arena!"
+GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: "You can't join the event while not in a general map."
+ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: "You can't upgrade Specialist Card with a dead soul!"
+ITEM_MESSAGE_CANT_USE: "You can't use this item."
+ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: "You can't use Speech Bubble!"
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: "You can do this only in Mini-Land."
+ITEM_CHATMESSAGE_CANT_USE_THAT: "You can't use that."
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: "Capture failed!"
+SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: "You can't capture this monster!"
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: "The accessory slots are already full!"
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: "The Cellon level too high for this accessory."
+CELLON_SHOUTMESSAGE_FAIL: "The Cellon has disappeared because you failed to add options."
+CELLON_SHOUTMESSAGE_SUCCESS: "Option added."
+ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: "You can't change your faction while in family."
+INFORMATION_CHANNEL: "Channel"
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) has logged in!"
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} has logged in."
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: "{0} has logged out."
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: "This player is not in your friendlist."
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGE: "Your class has been changed."
+COMMANDS_CHATMESSAGE_AVAILABLE: "Available commands:"
+COMMANDS_CHATMESSAGE_HELP: "[Help command]"
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: "Undocummented."
+COMMANDS_CHATMESSAGE_USAGES: "[Command usage]"
+COMMEND_CHATMESSAGE_COOLDOWN: "You can commend only one player per day."
+COMMEND_CHATMESSAGE_GIVEN: "Player {0} has been commended."
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: "You have to wait {0} minutes before you can commend someone."
+COMMEND_CHATMESSAGE_NOT_MINLVL: "You can only commend someone if you have reached 30Lv."
+COMMEND_CHATMESSAGE_RECEIVED: "Player {0} has commended you."
+ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: "You have crafted {1}x {0}."
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: "You already have a Cuarry Bank Debit Card in your equipment."
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: "Deputies limit reached."
+DIGNITY_CHATMESSAGE_LOSS: "Dignity lost: -{0}."
+DIGNITY_CHATMESSAGE_RESTORE: "Dignity restored: +{0}."
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: "Do you want to dismiss your family? It can't be undone."
+WEDDING_INFO_DIVORCED: "The marriage was terminated."
+PSP_DIALOG_ASK_RESET_SINGLE_SKILL: "Do you want to reset this skill?"
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: "You can't summon more dolls."
+DOLL_MESSAGE_MATE_ATTACK_FAIL: "Your NosMate's attack level upgrade failed."
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: "Your NosMate's defense level upgrade failed."
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: "You're not in the designated zone."
+DOLL_SHOUTMESSAGE_WRONG_DOLL: "This doll is inadequate to NosMate's level!"
+DROP_SHOUTMESSAGE_FULL: "There are too many items on this map to drop this item."
+GROUP_CHATMESSAGE_DROP_SHARED: "(Group) [{0}x {1}] for everyone"
+GROUP_CHATMESSAGE_DROP_ORDERED: "(Group) [{0}x {1}] for: {2}"
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: "The {0} effect has been activated!"
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: "No effect because of immunity."
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: "You have lost the {0} effect."
+TITLE_INFO_EFFECT_DISABLED: "Title effect has been disabled."
+TITLE_INFO_EFFECT_ENABLED: "Title effect has been enabled."
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: "Your equipment is not empty!"
+NOTE_CHATMESSAGE_NEW_NOTE: "A new note has arrived!"
+TRADE_CHATMESSAGE_REFUSED: "Player {0} refused your trade request."
+TRADE_CHATMESSAGE_YOU_REFUSED: "Trade refused."
+TRADE_DIALOG_INCOMING_EXCHANGE: "Player {0} [{1}(+{2})Lv.] wants to trade with you."
+TRADE_INFO_WAITING_FOR_TARGET: "Waiting for {0}..."
+TRADE_MODAL_ALREADY_IN_EXCHANGE: "This player is already trading."
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: "Item can't be traded."
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: "You can't trade in a raid."
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: "You can't trade with a raid member."
+EXCHANGE_DIALOG_ASK_EXCHANGE: "Do you want to exchange it?"
+INFORMATION_SHOUTMESSAGE_EXPEVENT_ENABLED: "EXP Event has been enabled!"
+INFORMATION_SHOUTMESSAGE_EXPEVENT_DISABLED: "EXP Event has been disabled."
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: "Your {0} has leveled up!"
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: "Your {0} has reached its highest level!"
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: "Family head changed."
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: "You need a family to join the dungeon!"
+FAMILY_INFO_CREATION_GROUP_REQUIRED: "You must be in a group to create a family."
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: "Someone in your group is already in a family or recently left a family."
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: "This family member has already that authority."
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: "You can't change your own authority."
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: "You can't kick yourself from family."
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: "Family head cannot leave the family without dismissing it completly."
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: "The family \"{0}\" was founded!"
+FAMILY_INFO_FULL: "The family is full."
+FAMILY_INFO_GROUP_NOT_FULL: "You can't create a family without a full group!"
+FAMILY_INFO_ASK_FAMILY_LEAVE: "Do you want to leave the family?"
+FAMILY_INFO_USED_DAILY_MESSAGE: "Daily sentence has already been written today."
+FAMILY_INFO_INVITATION_NOT_ALLOWED: "You don't have permission to invite players!"
+FAMILY_INFO_INVITATION_REFUSED: "The player refused family invitation."
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: "Player {0} has joined the family!"
+FAMILY_INFO_LEAVE: "You left the family."
+FAMILY_SHOUTMESSAGE_LEVEL_UP: "The family has reached level {0}!"
+FAMILY_INFO_NAME_ALREADY_USED: "This family name is already in use!"
+FAMILY_RANK_HEAD: "Head"
+FAMILY_RANK_DEPUTY: "Deputy"
+FAMILY_RANK_KEEPER: "Keeper"
+FAMILY_RANK_MEMBER: "Member"
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: "The family is already of that faction!"
+FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: "The family head have changed their gender!"
+FAMILY_SHOUTMESSAGE_SHOUT: "{0} > {1}"
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: "Do you want to become friends with {0}?"
+FRIEND_INFO_ADDED: "Friend request accepted!"
+FRIEND_INFO_ALREADY_FRIEND: "Player {0} is already your friend!"
+FRIEND_INFO_DELETED: "Friend deleted!"
+FRIEND_INFO_FRIENDLIST_FULL: "Your friend list is full!"
+FRIEND_INFO_REFUSED: "Friend request refused."
+FRIEND_INFO_REQUEST_BLOCKED: "The player is blocking friend requests."
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: "Your friend is in the enemy faction."
+INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: "You can't perform this action as a Game Master."
+ICEBREAKER_SHOUTMESSAGE_END: "The Icebreaker has ended."
+GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: "Not enough players for the event."
+GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: "{0} will finish in a minute."
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: "{0} will start in {1} minutes."
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: "{0} will start in {1} seconds."
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: "Do you want to participate in {0}?"
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: "Do you want to participate in {0}? It will cost you {1}."
+GAMEEVENT_MESSAGE_START: "{0} has started."
+FAMILY_DIALOG_CHANGE_HEAD: "Do you want to change the head of the family?"
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: "Exceeding funds sent to the bank."
+GROUP_INFO_ADMIN: "You are the group admin now!"
+GROUP_INFO_BLOCKED: "The player blocks group invites."
+GROUP_SHOUTMESSAGE_CLOSED: "Group disbanded."
+GROUP_DIALOG_INVITED_YOU: "Player {0} has sent you a group request."
+GROUP_INFO_FULL: "Group is full."
+GROUP_INFO_JOIN: "You joined the group of player {0}!"
+GROUP_INFO_LEFT: "You left the group."
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: "Someone in the group is a member of a family already!"
+GROUP_INFO_REQUEST: "Group request sent to player {0}."
+GROUP_SHOUTMESSAGE_SHARING: "Loot sharing: everyone"
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Loot sharing: by order"
+GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: "You are not the group leader!"
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: "You are already in another raid team."
+RAID_SHOUTMESSAGE_IN_GROUP: "You can't join a raid team while being in a group."
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: "You can't invite group members to a raid team."
+HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: "The attempt has failed! Try again after {0} seconds."
+HARVEST_SHOUTMESSAGE_TRY_FAIL: "Unfortunately, the attempt has failed."
+TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: "You can't trade with shop keepers."
+INFORMATION_HERO_LEVELUP: "You hero level has been increased!"
+ICEBREAKER_NAME: "Icebreaker"
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: "Prepare to fight!"
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: "{0} is frozen."
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: "{0} was unfrozen."
+ICEBREAKER_SHOUTMESSAGE_STARTED: "Icebreaker has started"
+ICEBREAKER_SHOUTMESSAGE_WIN: "You won the Icebreaker!"
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: "Can't use that right now!"
+TRADE_INFO_IN_BATTLE: "You can't trade during combat."
+ITEM_SHOUTMESSAGE_FACTION_CHANGE_CANT_IN_FAMILY: "You can't use indivindual faction egg when you're in a family."
+INSTANT_COMBAT_NAME: "Instant Combat"
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: "The Instant Combat will end in {0} min."
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: "The Instant Combat will end in {0} sec."
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: "Monsters incoming..."
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: "The next wave will begin in {0} min."
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: "The next wave will begin in {0} sec."
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: "Congratulations! You won the Instant Combat!"
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: "Unfortunately, you didn't beat the wave and didn't receive the loot."
+IC_1_49_W1_TITLE: "Wave 1 - Weaklings!"
+IC_1_49_W2_TITLE: "Wave 2 - Greens"
+IC_1_49_W3_TITLE: "Wave 3 - Reds"
+IC_1_49_W4_TITLE: "Wave 4 - Yellows"
+IC_1_49_W5_TITLE: "Wave 5 - Flyings"
+IC_50_59_W1_TITLE: "Wave 1 - Lesser Demons"
+IC_50_59_W2_TITLE: "Wave 2 - Run!"
+IC_50_59_W3_TITLE: "Wave 3 - Greater Demons"
+IC_50_59_W4_TITLE: "Wave 4 - Krem Creatures"
+IC_50_59_W5_TITLE: "Wave 5 - Spiders"
+IC_60_69_W1_TITLE: "Wave 1 - Ghosts"
+IC_60_69_W2_TITLE: "Wave 2 - Catsy"
+IC_60_69_W3_TITLE: "Wave 3 - BDSM Dungeon"
+IC_60_69_W4_TITLE: "Wave 4 - Copper Balls"
+IC_60_69_W5_TITLE: "Wave 5 - Knights of Hell"
+IC_70_79_W1_TITLE: "Wave 1 - Fir Forest"
+IC_70_79_W2_TITLE: "Wave 2 - Maple Woods"
+IC_70_79_W3_TITLE: "Wave 3 - Moist Caves"
+IC_70_79_W4_TITLE: "Wave 4 - Seli-Lusha"
+IC_70_79_W5_TITLE: "Wave 5 - Knights of Heaven"
+IC_80_89_W1_TITLE: "Wave 1 - Slades!"
+IC_80_89_W2_TITLE: "Wave 2 - Zombies!"
+IC_80_89_W3_TITLE: "Wave 3 - Greater Desertlings"
+IC_80_89_W4_TITLE: "Wave 4 - Sandspawns"
+IC_80_89_W5_TITLE: "Wave 5 - Shay's Forces"
+IC_90_150_0_24H_W1_TITLE: "Wave 1 - Temple of Agony"
+IC_90_150_0_24H_W2_TITLE: "Wave 2 - Volcanic Eruption"
+IC_90_150_0_24H_W3_TITLE: "Wave 3 - Flaming Sword"
+IC_90_150_0_24H_W4_TITLE: "Wave 4 - Gates of Hell"
+IC_90_150_0_24H_W5_TITLE: "Wave 5 - Gates of Heaven"
+IC_90_150_25_44H_W1_TITLE: "Wave 1 - Ruins of Heaven"
+IC_90_150_25_44H_W2_TITLE: "Wave 2 - Ruins of Hell"
+IC_90_150_25_44H_W3_TITLE: "Wave 3 - Zealots' Outpost!"
+IC_90_150_25_44H_W4_TITLE: "Wave 4 - Crusaders' Outpost!"
+IC_90_150_25_44H_W5_TITLE: "Wave 5 - Ancelloan's Rest Place"
+IC_90_150_45_70H_W1_TITLE: "Wave 1 - Unknownlanders!"
+IC_90_150_45_70H_W2_TITLE: "Wave 2 - Hellspawns"
+IC_90_150_45_70H_W3_TITLE: "Wave 3 - Moist Creatures"
+IC_90_150_45_70H_W4_TITLE: "Wave 4 - Orcs"
+IC_90_150_45_70H_W5_TITLE: "Wave 5 - A Chill Place..."
+INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: "You didn't deal the first blow, so you receive only a part of the experience."
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: "You got blessed by the protection power of angels!"
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: "You got blessed by the protection power of demons!"
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: "You lost your protection power."
+INTERACTION_LOG_ITEM_NOT_SELLABLE: "You can only sell tradable items in a private shop."
+INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: "Not enough gold."
+INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: "Not enough place in inventory!"
+INTERACTION_CHATMESSAGE_INTRODUCTION_SET: "Introduction set."
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: "Invalid characters in your nickname!"
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: "Acquired: {1} x{0}"
+INVENTORY_DIALOG_ASK_TO_DELETE: "Do you want to delete this item?"
+INVENTORY_DIALOG_SURE_TO_DELETE: "Are you sure you want to delete this item? This action cannot be undone and the item will be lost forever."
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: "Not enough items - {0}x {1}."
+ITEM_CANNOT_BE_WITH_SHELL: "You can't change equipment with shell options into partner equipment."
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: "You got a parcel."
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: "You can't gamble with fixed level items."
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: "You can't gamble a heroic item."
+ITEM_MESSAGE_ERASER_NO_SHELL: "You can't erase shell options because there aren't any."
+GAMBLING_CHATMESSAGE_ITEM_NO_HEROIC: "You can't gamble non-heroic items with that."
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE: "This item cannot be dropped."
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: "You cannot drop that item here."
+ITEM_CHATMESSAGE_TIMEOUT: "Item's ({0}) duration has expired."
+ITEM_CHATMESSAGE_UNFIXED: "Your item is no longer level fixed!"
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: "Your job level has been increased!"
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: "You changed your language to:"
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: "Your current language is"
+INFORMATION_SHOUTMESSAGE_LEVELUP: "Your level has been increased!"
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: "The NosMerchant Medal is currently active."
+INFORMATION_MESSAGE_LOW_JOB: "Your job level is too low!"
+RAID_CHATMESSAGE_LOW_LEVEL: "You must be at least level {0} to join the raid."
+INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: "Specialist must have at least level {0} to upgrade!"
+SHIP_CHATMESSAGE_LVL_REQ: "You need at least level {0} to board this ship."
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: "You have {0} mail(s) in your inbox."
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: "Your NosMate's attack level has increased! +{0} -> +{1}"
+DOLL_MESSAGE_MATE_DEFENCE_UPGRADE: "Your NosMate's defense level has increased! +{0} -> +{1}"
+PET_SHOUTMESSAGE_LEVEL_UP: "Your NosMate {0} has leveled up!"
+PARTNER_SHOUTMESSAGE_LEVEL_UP: "Your Partner {0} has leveled up!"
+PET_CHATMESSAGE_EAT_EVERYTHING: "Your NosMate is full!"
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: "Your Partner is full!"
+PET_SHOUTMESSGE_SAVED_BY_SAVER: "NosMate revived by NosMate Guardian Angel."
+PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: "Partner revived by Partner Guardian Angel."
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: "NosMate went back to Mini-Land."
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: "Partner went back to Mini-Land."
+PET_SHOUTMESSAGE_WILL_BE_BACK: "NosMate will be back in 3 minutes."
+PARTNER_SHOUTMESSAGE_WILL_BE_BACK: "Partner will be back in 3 minutes."
+INFORMATION_MESSAGE_MAX_GOLD: "Maximum amount of gold reached!"
+BANK_MESSAGE_MAX_GOLD_BANK_REACHED: "Maximum amount of gold in bank reached!"
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: "Maximum amount of NosMates reached!"
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: "Maximum amount of Partners reached!"
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: "Maximum NosMate slots reached."
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: "Maximum Partner slots reached."
+MINIGAME_INFO_NO_REWARD: "There are no rewards in this minigame."
+MINIGAME_INFO_POINTS_FULL: "Maximum production points reached."
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: "You need to be level {0} and have {1} reputation to play this minigame."
+MINILAND_SHOUTMESSAGE_CLOSED: "Mini-Land is closed."
+MINILAND_INFO_DURABILITY_MAXIMUM: "Maximum minigame durability reached."
+MINILAND_SHOUTMESSAGE_FULL: "Mini-Land is full."
+MINILAND_INFO_CHANGED: "Your Mini-Land greeting message has been changed!"
+MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: "Not enough Reward Coupons!"
+MINILAND_DIALOG_INVITE_ASK: "Do you want to join {0}'s Mini-Land?"
+MINILAND_INFO_INVITE_LOCK: "This player's Mini-Land is locked."
+MINILAND_SHOUTMESSAGE_LOCK: "The Mini-Land is now locked."
+MINILAND_SHOUTMESSAGE_PRIVATE: "The mini-land is now private."
+MINILAND_SHOUTMESSAGE_PUBLIC: "The mini-land is now public."
+MINILAND_MESSAGE_VISITOR: "Total visits: {0}, Daily visits: {1}"
+MINILAND_WELCOME_MESSAGE: "Welcome!"
+SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: "Level of the monster must be lower than yours to capture it!"
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: "Monster must have less than 50% of HP to be captured."
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: "You must be in a general map."
+MUTE_CHATMESSAGE_TIME_LEFT: "Remaining punishment duration: {0}"
+MUTE_INFO_PLAYER_MUTE: "You got punished for: {0}"
+MUTE_MESSAGE_FEMALE: "I was a very naughty girl so I got punished!"
+MUTE_MESSAGE_MALE: "I was a very naughty boy so I got punished!"
+ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: "You can't use family faction egg when you don't have a family."
+INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: "You need to leave the group to do that!"
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: "To replace the shell you need to perfume the equipment first."
+GROUP_INFO_NEW_LEADER: "You are the new party leader!"
+ITEM_INFO_PET_NAME_TOO_LONG: "The NosMate name is too long! (14 characters max.)"
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: "You don't have enough catapult ammo. Buy it in an equipment shop."
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: "You don't have enough arrows. Buy them in an equipment shop."
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: "You don't have enough bolts. Buy them in an equipment shop."
+FAMILY_INFO_NO_FAMILY: "You don't have a family."
+FAMILY_INFO_NO_FAMILY_RIGHT: "You don't have sufficient rights."
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: "No family warehouse found."
+ITEM_CHATMESSAGE_NO_GILLION: "You don't have enough Gillion Stone!"
+PARTNER_INFO_NO_PARTNER_IN_TEAM: "You don't have a partner with you."
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: "You are not wearing a Specialist Card!"
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: "You're not wearing appropriate weapon!"
+INFORMATION_SHOUTMESSAGE_NO_WIG: "You're not wearing a wig."
+INFORMATION_CHATMESSAGE_NO_WINGS: "You don't have any Wings of Friendship!"
+INFORMATION_SHOUTMESSAGE_NOT_ADVENTURER: "Only an Adventurer can change class!"
+INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: "Not enough CP."
+MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: "Not enough durability points."
+BANK_INFO_NOT_ENOUGH_FUNDS: "Not enough funds."
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: "Not enough Mini-Land production points."
+MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: "You won't receive any rewards because you dont have enough production points. Continue regardless?"
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: "Not enough mana points!"
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: "Not enough reputation!"
+FAMILY_INFO_NOT_FAMILY_HEAD: "You are not the family head!"
+FRIEND_MESSAGE_NOT_FRIEND: "You are not friends!"
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: "I'm not hungry!"
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: "I'm not hungry!"
+FAMILY_INFO_NOT_IN_FAMILY: "You are not in a family!"
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: "Your level is too low!"
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: "This item is not yours!"
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: "You have {0} notes in your inbox."
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: "Warning, you can be attacked by monsters when you use the Bazaar!"
+BANK_LOG_OPEN_BANK: "Welcome to the bank! What may I help you with?"
+
+#todo
+
 OPTIONS_CHATMESSAGE_DISCORDRPC_DISABLED: DiscordRPC disabled
 OPTIONS_CHATMESSAGE_DISCORDRPC_ENABLED: DiscordRPC enabled
 OPTIONS_SHOUT_BUFF_BLOCKED: '#OPTIONS_SHOUT_BUFF_BLOCKED'
@@ -363,6 +434,7 @@ OPTIONS_SHOUT_UI_BLOCKED: UI blocked
 OPTIONS_SHOUT_UI_UNLOCKED: UI unblocked
 OPTIONS_SHOUT_WHISPER_BLOCKED: Whispers blocked
 OPTIONS_SHOUT_WHISPER_UNLOCKED: Whispers unblocked
+
 PARTNER_100_AGILITY: Partner reached 100% agility.
 PARTNER_ALL_SKILLS_RESET: Do you want to reset all of the skills?
 PARTNER_IS_WEARING_SP: Your partner is already wearing a Specialist Card!
@@ -377,6 +449,7 @@ PARTNER_SKILL_S: This skill is already max level!
 PARTNER_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
 PARTNER_SP_NEW_SKILL: Your partner has learned a new skill!
 PARTNER_TRANSFORM_DISAPPEAR: Cooldown finished.
+
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
@@ -387,6 +460,7 @@ PERFECTSP_LIGHT: Light
 PERFECTSP_SHADOW: Shadow
 PERFECTSP_SUCCESS: 'Perfection successful: {0} +{1}'
 PERFECTSP_WATER: Water
+
 PET_ALREADY_CAN_PICK_UP: Your NosMate already can pick up items!
 PET_CAN_PICK_UP: Your NosMate can pick up items now!
 PET_HIGHER_LEVEL: Your NosMate level is higher than yours!
@@ -396,6 +470,7 @@ PET_LEAVE_BEAD: Your NosMate is out the bead!
 PET_RELEASED: Your NosMate is now free.
 PET_STORED: Your NosMate is now stored in the bead.
 PET_SUMMONABLE: Now you can summon your NosMate at any moment.
+
 PLAYER_IN_BATTLE: Player {0} is in battle.
 PLAYER_OFFLINE: Player not online!
 POINTS_SET: Points set.
@@ -458,7 +533,6 @@ REPUT_INCREASE: Reputation increased by {0}!
 REPUT_RATE: Reput.
 REQUIRED_ITEM_EXPENDED: 'Used: {1}x {0}'
 RESPAWNLOCATION_CHANGED: The revive location has been changed!
-REVIVAL_DIALOG_DUNGEON: '#REVIVAL_DIALOG_DUNGEON'
 SACRIFICE: '{0} sacrifices for {1}.'
 SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range.
 SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
@@ -466,16 +540,6 @@ SAME_FACTION: You can't change into the same faction!
 SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 SCROLL_PROTECT_USED: Protection Scroll has been used!
 SEX_CHANGED: Gender has been changed!
-SHELL_ALREADY_IDENTIFIED: Options of this shell are already identified.
-SHELL_BROKEN: The shell is broken because it has failed during adding.
-SHELL_ERASED: The option has been erased.
-SHELL_FOR_ARMOR_ONLY: You can only use this shell on armor.
-SHELL_FOR_WEAPON_ONLY: You can only use this shell on weapon.
-SHELL_IDENTIFIED: Shell identified!
-SHELL_LEVEL_TOO_HIGH: The level of the shell is too high.
-SHELL_MUST_BE_IDENTIFIED: The shell must be identified before use.
-SHELL_OPTION_SET: A new option has been added.
-SHELL_RARITY_TOO_HIGH: The shell rarity is too high.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: '#SHIP_SHOUTMESSAGE_MINUTES_REMAINING'
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: '#SHIP_SHOUTMESSAGE_SECONDS_REMAINING'
 SHOP_ALREADY_OPEN: You have a shop opened already!
@@ -507,7 +571,6 @@ SPEAKER_CANT_BE_USED: Speaker can't be used!
 STAY_TIME: SP transformation needs cooldown, {0} seconds
 SUM_FAILED: Summing failed.
 SUM_SUCCESS: Summing succeeded!
-SWORDSMAN: Swordsman
 TALENT_ARENA_NO_MORE_TICKET: You don't have enough tickets to join!
 TARGET_MAX_GOLD: Player has maximum gold amount.
 TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
