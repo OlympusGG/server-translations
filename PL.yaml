@@ -13,7 +13,7 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Pokój bossa został otwarty.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Brama rajdowewgo lochu jest otwarta przy centralnej wieży granicznej w Tundrze Bitoren!
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Obóz Demonów
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: '#ACT4_SHOUTMESSAGE_CAMP_DEMONS'
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
@@ -61,7 +61,7 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 CLASS_NAME_ADVENTURER: Poszukiwacz Przygód
 CLASS_NAME_ARCHER: Łucznik
 CLASS_NAME_MAGE: Mag
-CLASS_NAME_MARTIAL_ARTIST: '#CLASS_NAME_MARTIAL_ARTIST'
+CLASS_NAME_MARTIAL_ARTIST: Martial Artist
 CLASS_NAME_SWORDSMAN: Wojownik
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Zmieniono język na:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktualny ustawiony język to
@@ -79,9 +79,9 @@ DIGNITY_CHATMESSAGE_RESTORE: 'Godność zwiększona: +{0}'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Ulepszenie poziomu ataku twojego NosKumpla nie powiodło się.
 DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Poziom ataku twojego NosKumpla wzrósł! +{0} -> +{1}
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: Ulepszenie poziomu obrony twojego NosKumpla nie powiodło się.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: '#DOLL_MESSAGE_MATE_DEFENSE_UPGRADE'
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Your NosMate's defense level has increased! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
-DOLL_SHOUTMESSAGE_NOT_IN_ZONE: '#DOLL_SHOUTMESSAGE_NOT_IN_ZONE'
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Lalka jest nieodpowiednia do poziomu NosKumpla!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
@@ -189,14 +189,14 @@ ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Zamrożono gracza {0}
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Gracz {0} został odmrożony.
 ICEBREAKER_SHOUTMESSAGE_STARTED: Lodołamacz rozpoczął się.
 ICEBREAKER_SHOUTMESSAGE_WIN: Wygrano lodołamacz!
-INFORMATION_CHANNEL: '#INFORMATION_CHANNEL'
+INFORMATION_CHANNEL: Channel
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć!
 INFORMATION_CHATMESSAGE_NO_WINGS: Nie posiadasz skrzydeł przyjaźni!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nie masz wystarczająco punktów many!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Niewystarczająca ilość reputacji.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Twój poziom jest za niski!
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Ten przedmiot nie należy do Ciebie!
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: '#INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL'
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: The NosMerchant Medal is currently active.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: Karta Specjalisty Partnera jest w trakcie odnowy - {0} sek.
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputacja zmniesjzona: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputacja zwiększona: +{0}'
@@ -209,7 +209,7 @@ INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Wysłano wiadomość do {0} na kanale
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'Punkty SP: +{0}'
 INFORMATION_HERO_LEVELUP: Twój poziom bohatera został podwyższony!
 INFORMATION_INFO_PLAYER_IN_BATTLE: Gracz {0} jest w trakcie walki.
-INFORMATION_INFO_PLAYER_OFFLINE: '#INFORMATION_INFO_PLAYER_OFFLINE'
+INFORMATION_INFO_PLAYER_OFFLINE: Player is not online!
 INFORMATION_MESSAGE_LOW_JOB: Twoja profesja jest zbyt niska!
 INFORMATION_MESSAGE_MAX_GOLD: Osiągnięto maksymalną ilość złota!
 INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Nie jestem głodna...
