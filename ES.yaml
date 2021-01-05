@@ -308,6 +308,7 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: '#ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF'
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
@@ -453,6 +454,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} joined the team.'
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
 RAID_INFO_NO_EXIST: Raid does not exist!
+RAID_INFO_PLAYER_DEATH: '#RAID_INFO_PLAYER_DEATH'
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
@@ -465,6 +467,7 @@ RAID_SHOUTMESSAGE_KICKED: You were kicked
 RAID_SHOUTMESSAGE_KICKED_OTHER: Player was kicked
 RAID_SHOUTMESSAGE_LEFT: '{0} left the team.'
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new team leader.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH'
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Team is full
 RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets completed
@@ -507,6 +510,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: '#SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID'
 SKILL_SHOUTMESSAGE_CAUGHT_PET: You have successfully captured {0}!
 SKILL_SHOUTMESSAGE_LEARNED: You learned a new skill!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level of the monster must be lower than yours to capture it!
