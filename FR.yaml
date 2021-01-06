@@ -1,94 +1,94 @@
-ACCOUNT_INFO_BAD_ID: Wrong account login.
-ACT4_CHANNEL_OFFLINE: Canal Act4 déconnecté.
-ACT4_CHATMESSAGE_PVP_ANGELS: angels
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
+ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
+ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
+ACT4_CHATMESSAGE_PVP_ANGELS: anges
+ACT4_CHATMESSAGE_PVP_DEATH: 'Un gardien des {0} a tué {1}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: demons
-ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
-ACT4_DUNGEON_REVIVAL_DIALOG: Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room has been closed.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss has been defeated!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room is now open.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Dungeon gate is now open near the central boundary tower in Bitoren Tundra!
-ACT4_NEED_FACTION: Vous devez appartenir à une faction
-ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju is dead!
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju died
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
-ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
-AMMO_LOADED_ADVENTURER: Les munitions ont été rechargées.
-AMMO_LOADED_ARCHER: Les flèches ont été rechargées.
-AMMO_LOADED_SWORDSMAN: Les carreaux ont été rechargées.
-ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
-BANK_DIALOG_ASK_DEPOSIT: Do you want to deposit {0}000 gold to your bank?
-BANK_DIALOG_ASK_WITHDRAW: Do you want to withdraw {0}000 gold from your bank account?
-BANK_INFO_NOT_ENOUGH_FUNDS: Not enough funds.
-BANK_INFO_TOO_MUCH_GOLD: You have too much gold!
-BANK_LOG_OPEN_BANK: Welcome to the bank! What may I help you with?
-BANK_LOG_WITHDRAW_BANK: '{0}000 gold withdrawn.'
-BANK_MESSAGE_BALANCE: You have {0} gold in your bank.
-BANK_MESSAGE_DEPOSIT: Deposited {0}000 gold in your bank.
-BANK_MESSAGE_MAX_GOLD_REACHED: Maximum amount of gold in bank reached!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Item added to NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Purchase impossible, item sold or price changed.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar is under maintenance.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
-BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds limit.
-BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
-BLACKLIST_INFO_ADDED: Player added to blacklist!
-BLACKLIST_INFO_BLOCKED: This player has blocked you!
-BLACKLIST_INFO_BLOCKING: You have blocked this player!
-BLACKLIST_INFO_DELETED: Player deleted from blacklist!
-BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No effect because of immunity.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: You have lost the {0} effect.
-BUFF_CHATMESSAGE_SIDE_EFFECTS: Side effects of {0} have started.
-BUFF_CHATMESSAGE_UNDER_EFFECT: You are under the effect of {0}
-CELLON_SHOUTMESSAGE_FAIL: The Cellon has disappeared because you failed to add options.
-CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: The Cellon level too high for this accessory.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
-CELLON_SHOUTMESSAGE_SUCCESS: Option added.
-CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
-CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
-CLASS_NAME_ADVENTURER: Adventurer
+ACT4_CHATMESSAGE_PVP_KILL: '{1} a vaincu un gardien des {0}.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Tu as besoin d'une famille pour entrer dans le donjon!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrer dans le donjon te coûtera {0} points de réputation. Continuer ?
+ACT4_DUNGEON_REVIVAL_DIALOG: Revivre ici te coûtera {0} points de réputation. Si tu annules, tu seras téléporté à l'entrée du donjon. Continuer ?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La salle du boss a été fermée.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Le boss du donjon a été vaincu !
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La salle du boss est ouverte.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte near the central boundary tower in Bitoren Tundra ! #To be reviewed
+ACT4_NEED_FACTION: Seul ceux qui ont un pouvoir de protection peuvent rejoindre la couronne de glace. #Only those who have a protection power can join the Frozen Crown.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Camp des anges
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Camp des démons
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: 'Le {0} a vaincu le Seigneur Mukraju!
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: 'Le {0} n'a pas réussi à vaincre le Seigneur Mukraju à temps.'
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: 'Le {0} a invoqué le Seigneur Mukraju !'
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
+AMMO_LOADED_ADVENTURER: Munitions chargés !
+AMMO_LOADED_ARCHER: Flèches chargés !
+AMMO_LOADED_SWORDSMAN: Carreaux chargés !
+ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuel? ça te coûtera {0} pièces or.
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton inventaire. #in your equipment.
+BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
+BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
+BANK_INFO_NOT_ENOUGH_FUNDS: Pas assez d'or.
+BANK_INFO_TOO_MUCH_GOLD: Tu as trop d'or!
+BANK_LOG_OPEN_BANK: Bienvenue à la banque! Comment puis-je t'aider ?
+BANK_LOG_WITHDRAW_BANK: '{0}000 pièces d'or retirés.'
+BANK_MESSAGE_BALANCE: Tu as {0} pièces d'or sur ton compte.
+BANK_MESSAGE_DEPOSIT: Tu as déposé {0}000 pièces d'or sur ton compte.
+BANK_MESSAGE_MAX_GOLD_REACHED: La quantité maximale de pièces d'or est atteinte sur ton compte.
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: L'or en surplus a été envoyé sur ton compte.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - ajouté(s) au NosBazar.'
+BAZAAR_INFO_ITEM_CHANGED: Achat annulé, l'objet est vendu ou le prix a changé.
+BAZAAR_INFO_MAINTENANCE_MODE: Le NosBazar est en maintenance.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: La quantité maximale d'objets a été atteinte.
+BAZAAR_INFO_NEEDS_MEDAL: Tu n'as pas de médaille NosMarchand.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Le prix de l'objet dépasse la limite.
+BAZAAR_INFO_RESYNC: Changement échoué. Essaye encore.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Changer le prix de l'objet coûtera {0}. Continuer ?
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Objet ajouté au NosBazar.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prix de l'objet changé avec succès.
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attention, tu peux être attaqué par les monstres en utilisant le NosBazar !
+BLACKLIST_INFO_ADDED: '{0} ajouté à la liste noire.'
+BLACKLIST_INFO_BLOCKED: Ce joueur t'a bloqué.
+BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
+BLACKLIST_INFO_DELETED: Joueur supprimé de ta liste noire.
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Tu as été protégé par une immunité.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: L'effet {0} s'est dissipé.
+BUFF_CHATMESSAGE_SIDE_EFFECTS: '{0} a déclenché des effets secondaires.'
+BUFF_CHATMESSAGE_UNDER_EFFECT: Tu es sous l'effet de {0}
+CELLON_SHOUTMESSAGE_FAIL: L'ajout d'option a échoué. Le cellon a disparu.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de Cellon est trop élévé pour cette accessoire.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Les emplacements de l'accessoire sont pleins.
+CELLON_SHOUTMESSAGE_SUCCESS: Option ajouté.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ce nom est déjà prit.
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: Caractère(s) invalide(s) dans ton nom.
+CLASS_NAME_ADVENTURER: Aventurier
 CLASS_NAME_ARCHER: Archer
 CLASS_NAME_MAGE: Mage
-CLASS_NAME_MARTIAL_ARTIST: Martial Artist
-CLASS_NAME_SWORDSMAN: Swordsman
-COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'You changed your language to:'
-COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Your current language is
-COMMANDS_CHATMESSAGE_AVAILABLE: 'Available commands:'
-COMMANDS_CHATMESSAGE_HELP: '[Help command]'
-COMMANDS_CHATMESSAGE_UNDOCUMENTED: Undocummented.
-COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
-COMMEND_CHATMESSAGE_COOLDOWN: You can commend only one player per day.
-COMMEND_CHATMESSAGE_GIVEN: Player {0} has been commended.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can commend someone.
-COMMEND_CHATMESSAGE_NOT_MINLVL: You can only commend someone if you have reached 30Lv.
-COMMEND_CHATMESSAGE_RECEIVED: Player {0} has commended you.
-DIGNITY_CHATMESSAGE_LOSS: 'Dignity lost: -{0}.'
-DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Your NosMate's attack level has increased! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Your NosMate's defense level has increased! +{0} -> +{1}
-DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
-DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: This doll is inadequate to NosMate's level!
+CLASS_NAME_MARTIAL_ARTIST: Artiste Martial
+CLASS_NAME_SWORDSMAN: Escrimeur
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'La langue a été changé en:'
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La langue actuelle est
+COMMANDS_CHATMESSAGE_AVAILABLE: 'Commande invalide:'
+COMMANDS_CHATMESSAGE_HELP: '[Commande d'aide]'
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Inconnu.
+COMMANDS_CHATMESSAGE_USAGES: '[Utilisation de la commande]'
+COMMEND_CHATMESSAGE_COOLDOWN: Tu ne peux admirer qu'une personne par jour.
+COMMEND_CHATMESSAGE_GIVEN: Tu as admiré {0}.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: '{0} minutes restantes avant de pouvoir admirer quelqu'un.'
+COMMEND_CHATMESSAGE_NOT_MINLVL: Tu ne peux admirer quelqu'un qu'à partir du niveau 30.
+COMMEND_CHATMESSAGE_RECEIVED: '{0} t'a admiré.'
+DIGNITY_CHATMESSAGE_LOSS: 'Tu as perdu -{0} de dignité.'
+DIGNITY_CHATMESSAGE_RESTORE: 'Tu as récupéré +{0} de dignité.'
+DOLL_MESSAGE_MATE_ATTACK_FAIL: L'amélioration d'attaque de ton NosMate a échoué.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Le niveau d'attaque de ton NosMate a augmenté ! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: L'amélioration de défense de ton NosMate a échoué.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Le niveau de défense de ton NosMate a augmenté ! +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Tu ne peux pas invoquer davantage de mannequins.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Tu n'es pas dans la zone désigné.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Ce mannequin ne correspond pas au niveau de ton NosMate.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
-DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
-FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Fairy Stone insertion failed.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Fairy Stone insertion succeeded!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: You cannot insert Fairy Stones into Heroic Level equipment.
+DROP_SHOUTMESSAGE_FULL: Il y a trop d'objets au sol pour pouvoir jeter ton objet.
+FAIRYSTONES_DIALOG_INSERT: Veux tu insérer {0} dans {1}?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: L'insertion de la pierre de fée a échoué.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'insertion de la pierre de fée a réussi !
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée dans un équipement héroique.
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high for this item.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to weapons and armors.
@@ -121,8 +121,8 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: No family warehouse found.
 FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
-FAMILY_INFO_USED_DAILY_MESSAGE: Daily message already used.
-FAMILY_RANK_DEPUTY: Assistant
+FAMILY_INFO_USED_DAILY_MESSAGE: Daily sentence has already been written today.
+FAMILY_RANK_DEPUTY: Deputy
 FAMILY_RANK_HEAD: Head
 FAMILY_RANK_KEEPER: Keeper
 FAMILY_RANK_MEMBER: Member
@@ -137,14 +137,14 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
 FRIEND_INFO_ADDED: Friend request accepted!
-FRIEND_INFO_ALREADY_FRIEND: '{0} is already your friend!'
+FRIEND_INFO_ALREADY_FRIEND: Player {0} is already your friend!
 FRIEND_INFO_DELETED: Friend deleted!
 FRIEND_INFO_FRIENDLIST_FULL: Your friend list is full!
 FRIEND_INFO_REFUSED: Friend request refused.
 FRIEND_INFO_REQUEST_BLOCKED: The player is blocking friend requests.
 FRIEND_MESSAGE_NOT_FRIEND: You are not friends!
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: This player is not in your friendlist.
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in enemy faction.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in the enemy faction.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: You can't gamble with fixed level items.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: You can't gamble non-heroic items with that.
 GAMBLING_INFO_AMULET_DESTROYED: 'CAUTION: The protection spell has expired.'
@@ -165,7 +165,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
-GROUP_DIALOG_INVITED_YOU: '{0} sent you a group request'
+GROUP_DIALOG_INVITED_YOU: Player {0} has sent you a group request.
 GROUP_INFO_ADMIN: You are the group admin now!
 GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
 GROUP_INFO_BLOCKED: The player blocks group invites.
@@ -268,10 +268,10 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: You got blessed by the prot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: You got blessed by the protection power of demons!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: To change the wings of the Specialist Card, it must have an upgrade higher than 0.
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Acquired: {1} x{0}'
 INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
-INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item?
-INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items
+INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item? This action cannot be undone and the item will be lost forever.
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items - {0}x {1}.
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Adventurers can't use this item!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: The item can't contains the shells!
 ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: You can't use Speech Bubble!
@@ -308,16 +308,16 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: '#ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF'
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
-MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mail(s) in your inbox.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
 MINIGAME_INFO_REFILL: 'Mini-game contribution: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: You need to be level {0} and have {1} reputation to play this minigame.
 MINILAND_DIALOG_ASK_INVITE: Do you want to join {0}'s Mini-Land?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: You won't receive any rewards because you dont have enough production points. Continue regardless?
-MINILAND_INFO_CHANGED: Ta description a été mise à jour.
+MINILAND_INFO_CHANGED: Your Mini-Land greeting message has been changed!
 MINILAND_INFO_DURABILITY_MAXIMUM: Maximum minigame durability reached.
 MINILAND_INFO_INVITE_LOCK: This player's Mini-Land is locked.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Not enough Reward Coupons!
@@ -335,7 +335,7 @@ MUTE_INFO_PLAYER_MUTE: 'You got punished for: {0}'
 MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
 MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
-NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in inbox
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in your inbox.
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blinking buffs disabled
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Blinking buffs enabled
@@ -392,16 +392,16 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Mini-Land.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
-PERFECTSP_ATTACK: Attaque
-PERFECTSP_DEFENSE: Défense
+PERFECTSP_ATTACK: Attack
+PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
-PERFECTSP_FIRE: Feu
+PERFECTSP_FIRE: Fire Resistance
 PERFECTSP_HPMP: HP/MP
-PERFECTSP_LIGHT: Lumière
+PERFECTSP_LIGHT: Light Resistance
 PERFECTSP_MESSAGE_FAILURE: SP Perfection failed!
 PERFECTSP_MESSAGE_SUCCESS: 'Perfection successful: {0} +{1}'
-PERFECTSP_SHADOW: Obscurité
-PERFECTSP_WATER: Eau
+PERFECTSP_SHADOW: Shadow Resistance
+PERFECTSP_WATER: Water Resistance
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: You bought {1}x {0} from {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} bought {2}x {1}.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Your NosMate can already pick up items!
@@ -438,42 +438,42 @@ QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Already doing a main quest
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: You have some incomplete quests
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Your level is too low for this quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: You cannot accept any more quests
-RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} is searching for members to do the raid {1}!'
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} is searching for members for raid: {1}!'
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} was invited to the raid team.'
-RAID_CHATMESSAGE_KICKED: You were kicked.
-RAID_CHATMESSAGE_KICKED_OTHER: Player was kicked.
-RAID_CHATMESSAGE_LEFT: '{0} left the team.'
+RAID_CHATMESSAGE_KICKED: You were kicked from the raid team.
+RAID_CHATMESSAGE_KICKED_OTHER: '{0} was kicked from the raid team.'
+RAID_CHATMESSAGE_LEFT: '{0} left the raid team.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: As the raid recommended level does not correspond to your level, a raidbox cannot be given even if the raid task is completed.
 RAID_CHATMESSAGE_LOW_LEVEL: You must be at least level {0} to join the raid.
-RAID_CHATMESSAGE_NEW_LEADER: '{0} is the new team leader.'
+RAID_CHATMESSAGE_NEW_LEADER: '{0} is the new raid team leader.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid does not exist or has started already!
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Only the raid leader can start the raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: You're not a part of any raid team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: This raid is does not start here.
-RAID_CHATMESSAGE_X_JOINED: '{0} joined the team.'
+RAID_CHATMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
 RAID_INFO_NO_EXIST: Raid does not exist!
-RAID_INFO_PLAYER_DEATH: '#RAID_INFO_PLAYER_DEATH'
+RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in a group.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
-RAID_SHOUTMESSAGE_COMPLETED: "{0}'s raid team completed {1}!"
+RAID_SHOUTMESSAGE_COMPLETED: Team of player {0} has completed {1} raid!
 RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
-RAID_SHOUTMESSAGE_KICKED: You were kicked
-RAID_SHOUTMESSAGE_KICKED_OTHER: Player was kicked
-RAID_SHOUTMESSAGE_LEFT: '{0} left the team.'
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new team leader.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH'
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Team is full
+RAID_SHOUTMESSAGE_KICKED: You were kicked from the raid team
+RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} was kicked from the raid team'
+RAID_SHOUTMESSAGE_LEFT: '{0} left the raid team'
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new raid team leader'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: 'Raid member {0} died.'
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Raid team is full
 RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered
-RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets completed
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets have been completed!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Targets updated.
 RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
-RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the team'
+RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the raid team.'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn location?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed!
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} Gold.
@@ -497,7 +497,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} min.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} sec.
 SHOP_CHATMESSAGE_EMPTY: Shop can't be empty!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
-SHOP_DEFAULT_NAME: Shop
+SHOP_DEFAULT_NAME: Private Shop
 SHOP_INFO_ALREADY_OPEN: You have a shop open already!
 SHOP_INFO_NEAR_PORTAL: You can't create shop so close to the portal!
 SHOP_INFO_NOT_ALLOWED: You can't open shops on general maps.
@@ -510,7 +510,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: '#SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID'
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: You have successfully captured {0}!
 SKILL_SHOUTMESSAGE_LEARNED: You learned a new skill!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level of the monster must be lower than yours to capture it!
