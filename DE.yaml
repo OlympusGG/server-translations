@@ -478,62 +478,62 @@ RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn loca
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed!
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} Gold.
 REVIVE_DIALOG_FREE: Do you want to revive? It will be free until level {0}.
-REVIVE_DIALOG_SEEDS_OF_POWER: Do you want to revive? It will cost you {0} Seeds of Power
-SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to perfume the equipment first.
-SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
-SHELLS_DIALOG_REPLACE_OPTIONS: The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Do you want to continue?
-SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Options of this shell are already identified.
-SHELLS_SHOUTMESSAGE_BROKEN: The shell is broken because it has failed during adding.
-SHELLS_SHOUTMESSAGE_ERASED: The option has been erased.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: You can only use this shell on armors.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: You can only use this shell on weapons.
-SHELLS_SHOUTMESSAGE_IDENTIFIED: Shell identified!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: The level of the shell must be the same or lower than the equipment level.
-SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: The shell must be identified before using.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Shell options have been added.
-SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: The shell rarity must be the same or lower than the equipment rarity.
-SHIP_CHATMESSAGE_LEVEL_REQ: You need at least level {0} to board this ship.
-SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} min.
-SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} sec.
-SHOP_CHATMESSAGE_EMPTY: Shop can't be empty!
-SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
-SHOP_DEFAULT_NAME: Shop
-SHOP_INFO_ALREADY_OPEN: You have a shop open already!
-SHOP_INFO_NEAR_PORTAL: You can't create shop so close to the portal!
-SHOP_INFO_NOT_ALLOWED: You can't open shops on general maps.
-SHOP_INFO_NOT_ALLOWED_IN_RAID: You can't open a shop during raid!
-SHOP_INFO_OPEN: Shop has been open!
-SHOP_INFO_TARGET_MAX_GOLD: The player has reached maximum gold amount.
-SHOP_LOG_SELL_ITEM_VALID: Transaction successful
-SKILL_CHATMESSAGE_NOT_TO_REFUND: You can't refund this skill!
-SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
-SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
-SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
-SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
+REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saat der Macht kosten.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
+SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
+SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaten werden überschrieben. Die Chance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
+SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
+SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Diese Muschel ist nur für Rüstungen verwendbar.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Diese Muschel ist nur für Waffen verwendbar.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Muschel identifiziert!
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Level der Muschel muss gleich oder kleiner als das der Ausrüstung sein.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Die Muschel muss vor der Benutzung identifiziert sein.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Die Eigenschafften der Muschel wurden hinzugefügt.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Muschel muss gleich oder geringer als die der Ausrüstung sein.
+SHIP_CHATMESSAGE_LEVEL_REQ: Du musst mindestens Level {0} sein, um dieses Schiff zu betreten.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff wird in {0} Minuten anlegen.
+SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff wird in {0} Sekunden ablegen.
+SHOP_CHATMESSAGE_EMPTY: Der Laden darf nicht leer sein!
+SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Du kannst nur übertragbare Gegenstände in einem Laden handeln.
+SHOP_DEFAULT_NAME: Laden
+SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Laden offen!
+SHOP_INFO_NEAR_PORTAL: Du kannst keinen Laden so nah an einem Protal eröffnen!
+SHOP_INFO_NOT_ALLOWED: Du kannst keinen Laden auf einer generellen Karte eröffnen.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst keinen Laden während eines Raid öffnen!
+SHOP_INFO_OPEN: Der Laden wurde geöffnet!
+SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
+SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
+SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
+SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
+SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: '#SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID'
-SKILL_SHOUTMESSAGE_CAUGHT_PET: You have successfully captured {0}!
-SKILL_SHOUTMESSAGE_LEARNED: You learned a new skill!
-SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level of the monster must be lower than yours to capture it!
-SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monster must have less than 50% of HP to be captured.
+SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast erfolgreich {0} gefangen!
+SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
+SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Du musst ein höheres Level als das Monster besitzen, um es zu fangen!
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monster können nur mit weniger als 50% HP eingefangen werden.
 SKILL_SHOUTMESSAGE_SACRIFICE: '{0} sacrifices for {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
-SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: You need to wait until all cooldowns finish!
-SPEAKER_NAME: Speaker
-SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
-SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.
-SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: You need to be transformed into your Specialist Card to do this!
-SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
-SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} sec.
-SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
-SPECIALIST_SHOUTMESSAGE_NO_POINTS: You have no SP points left! You can't transform now!
-SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: You can't remove the Specialist Card because of a negative effect.
-SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: You added {0} SP points!
-SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP points reset!
-SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrected!
-SPECIALIST_SHOUTMESSAGE_USE_NEEDED: You need to be transformed into a Specialist to do this!
-SUM_MESSAGE_FAILED: Summing failed.
-SUM_MESSAGE_SUCCESS: Summing succeeded!
+SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst abwarten, bis alle Abklingzeiten beendet wurden!
+SPEAKER_NAME: Lautsprecher
+SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst gerade nicht die Spezialistenkarte ändern!
+SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Abklingzeit des Spezialisten beendet.
+SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Du musst in deine Spezialistenkarte verwandelt sein, um dies zu tun!
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Abklingkeit der Spezialistenkarte - {0} Sek.
+SPECIALIST_SHOUTMESSAGE_LEVELUP: Spezialistenlevel erhöht!
+SPECIALIST_SHOUTMESSAGE_NO_POINTS: Du hast keine SP Punkte übrig! Du kannst dich jetzt nicht verwandeln!
+SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Die Spezialistenkarte kann aufgrund eines negativen Effekts nicht ausgezogen werden.
+SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Es hast {0} SP Punkte verteilt!
+SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP Punkte zurückgesetzt!
+SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wieder hergestellt!
+SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst in einen Spezialisten verwandelt sein, um dies zu tun!
+SUM_MESSAGE_FAILED: Summierung fehlgeschlagen.
+SUM_MESSAGE_SUCCESS: Summierung erfolgreich!
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace beginnen
 TIMESPACE_DIALOG_ASK_START: Willst du den ersten Raum betreten?
