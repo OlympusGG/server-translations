@@ -5,11 +5,11 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von deinem Wächter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von deinem Wächter der {0} getötet.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du benötigst eine Familie, um dem Verlies beitreten zu können!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Dem Verlies beizutreten wird dich {0} Reputationspunkte kosten. Willst du beitreten?
-ACT4_DUNGEON_REVIVAL_DIALOG: Eine Wiederbelebung hier wird dich {0} Reputationspunkte kosten. Wenn du abbrichst, wirst du an den Beginn des Verlies teleportiert. Willst du hier wiederbelebt werden?
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Dem Verlies beizutreten wird dich {0} Rufpunkte kosten. Willst du beitreten?
+ACT4_DUNGEON_REVIVAL_DIALOG: Eine Wiederbelebung hier wird dich {0} Refpunkte kosten. Wenn du abbrichst, wirst du an den Beginn des Verlies' teleportiert. Willst du hier wiederbelebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Verliesboss wurde besiegt!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Bossraum ist nun geöffnet.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss wurde besiegt!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Der Bossraum ist nun geöffnet.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Verliesportal ist nun nahe des zentralen Grenzturms in der Bitoren Tundra geöffnet!
 ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Lager der Engel
@@ -23,27 +23,27 @@ AMMO_LOADED_ARCHER: Pfeile wurden geladen.
 AMMO_LOADED_SWORDSMAN: Bolzen wurden geladen.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Du hast bereits bereits eine 'Cuarry Bank Debit Card' in deinem Inventar.
-BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold in deiner Bank hinterlegen?
+BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
 BANK_INFO_NOT_ENOUGH_FUNDS: Nicht ausreichend Gold.
 BANK_INFO_TOO_MUCH_GOLD: Du hast zu viel Gold!
 BANK_LOG_OPEN_BANK: Willkommen in der Bank! Wie kann ich dir behilflich sein?
 BANK_LOG_WITHDRAW_BANK: '{0}000 Gold abgehoben.'
 BANK_MESSAGE_BALANCE: Du hast {0} Gold in deiner Bank.
-BANK_MESSAGE_DEPOSIT: Hinterlege {0}000 Gold in deiner Bank.
+BANK_MESSAGE_DEPOSIT: {0}000 Gold in deine Bank eingezahlt.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximale Menge an Gold in der Bank erreicht!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Überschreitende Beträge werden an die Bank geschickt.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
 BAZAAR_INFO_ITEM_CHANGED: Kauf nicht möglich, Gegenstand verkauft oder Preis geändert.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBasar ist unter Wartungsarbeiten.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBasar wird gewartet.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximale Anzahl an Gegenständen registriert.
-BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändeler Medaille
+BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändler Medaille
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Der Preis des Gegenstands überschreitet die Grenze.
 BAZAAR_INFO_RESYNC: Preisänderung fehlgeschlagen. Versuche es erneut.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Willst du den Preis des Gegenstands verändern? Das wird {0} Gold kosten.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand im NosBasar registriert
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Preis des Gegenstands geändert
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warnung, du kannst angegriffen werden, während du im Basar bist!
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warnung, du kannst angegriffen werden, während du den Basar benutzt!
 BLACKLIST_INFO_ADDED: Spieler zur Blacklist hinzugefügt!
 BLACKLIST_INFO_BLOCKED: Dieser Spieler hat dich blockiert!
 BLACKLIST_INFO_BLOCKING: Du hast diesen Spieler blockiert!
@@ -53,7 +53,7 @@ BUFF_CHATMESSAGE_EFFECT_TERMINATED: Der Effekt {0} ist ausgelaufen.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Nebeneffekte von {0} haben begonnen.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Du stehst unter dem Effekt {0}
 CELLON_SHOUTMESSAGE_FAIL: Das Cellon ist verschwunden, da die Verzauberung fehlgeschlagen ist.
-CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe des Cellons ist zu hoch für diesen Schmuck.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Cellonlevel ist zu hoch für diesen Schmuck.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Die Schmuckoptionen sind bereits gefüllt!
 CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
@@ -69,11 +69,11 @@ COMMANDS_CHATMESSAGE_AVAILABLE: 'Mögliche Befehle:'
 COMMANDS_CHATMESSAGE_HELP: '[Help command]'  #unsiche
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Undokummentiert.
 COMMANDS_CHATMESSAGE_USAGES: '[Command usage]' #unsicher
-COMMEND_CHATMESSAGE_COOLDOWN: Du kannst nur einen Spieler pro Tag empfehlen.
-COMMEND_CHATMESSAGE_GIVEN: Spieler {0} wurde empfohlen.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden empfehlen kannst.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Du musst Stufe 30 erreichen, um jemanden zu empfehlen.
-COMMEND_CHATMESSAGE_RECEIVED: Spieler {0} hat dich empfohlen.
+COMMEND_CHATMESSAGE_COOLDOWN: Du kannst nur einen Spieler pro Tag loben.
+COMMEND_CHATMESSAGE_GIVEN: Spieler {0} wurde gelobt.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden loben kannst.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Du musst Stufe 30 erreichen, um jemanden zu loben.
+COMMEND_CHATMESSAGE_RECEIVED: Spieler {0} hat dich gelobt.
 DIGNITY_CHATMESSAGE_LOSS: 'Würde verloren: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Würde wiederhergestellt: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Die Verbesserung des Angriffslevels deines NosMate's ist fehlgeschlagen.
@@ -81,9 +81,9 @@ DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Das Angriffslevel deines NosMate's wurde erhö
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: Die Verbesserung des Verteidungungslevels deines NosMate's ist fehlgeschlagen.
 DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Das Verteidigungslevel deines NosMate's wurde erhöht! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Du kannst keine weiteren Puppen beschwören.
-DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Du bist nicht in der markierten Zone.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Du bist nicht in der ausgewiesenen Zone.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Diese Puppe entspricht nicht der Stufe des NosMate's!
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge.
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Dropmenge.
 DROP_SHOUTMESSAGE_FULL: Es befinden sich zu viele Gegenstände auf dieser Karte, um dies fallen zu lassen.
 FAIRYSTONES_DIALOG_INSERT: Willst du {0} in {1} einfügen?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Einfügen des Feensteins missglückt.
@@ -92,7 +92,7 @@ FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Du kannst keine Feensteine in Gegenstände
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe dieses Feensteins ist zu hoch für diesen Gegenstand.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Du kannst diesem Gegenstand keine weiteren Feensteine verleihen.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Du kannst Feensteine nur in Waffen und Rüstungen einfügen.
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ist nun im Spiel!'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Willst du deine Familie auflösen? Es kann nicht rückgängig gemacht werden.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
@@ -106,10 +106,10 @@ FAMILY_INFO_ASK_FAMILY_LEAVE: Willst du die Familie verlassen?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Du kannst anderen nicht die selben Rechte verleihen.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Du musst in einer Gruppe sein, um eine Familie zu gründen.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Jemand in der Gruppe ist bereits Teil einer Familie, oder hat kürzlich eine Familie verlassen.
-FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Maximale anzahl an Vertretern erreicht.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Maximale Anzahl an Vertretern erreicht.
 FAMILY_INFO_FULL: Die Familie ist voll.
 FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jemand in der Gruppe ist bereits Mitglied einer Familie!
-FAMILY_INFO_GROUP_NOT_FULL: Du kannst keine Familie ohne eine volle Gruppe gründen!
+FAMILY_INFO_GROUP_NOT_FULL: Du kannst ohne einer vollen Gruppe keine Familie gründen!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Du hast nicht die benötigten Rechte, um Spieler einzuladen!
 FAMILY_INFO_INVITATION_REFUSED: Der Spieler hat die Familieneinladung abgelehnt.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Maximale Anzahl an Verwaltern erreicht.
@@ -145,7 +145,7 @@ FRIEND_INFO_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FRIEND_MESSAGE_NOT_FRIEND: Ihr seid keine Freunde!
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Dieser Spieler ist nicht in deiner Freundesliste.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Dein Freund ist Teil der gegnerischen Fraktion.
-GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst nicht mit fixierten Gegenständen wetten.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst fixierte Gegenständen nicht wetten.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Du kannst hiermit keine nicht-heroischen Gegenstände wetten.
 GAMBLING_INFO_AMULET_DESTROYED: 'VORSICHT: Der Schutzeffekt ist ausgelaufen!'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Du hast bereits die höchste Seltenheit!
@@ -153,7 +153,7 @@ GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Der Gegenstand wurde durch das Amulett besch
 GAMBLING_MESSAGE_FAILED: Wetten fehlgeschlagen! Der Gegenstand wurde zerstört.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Wetten fehlgeschlagen, aber der Gegenstand wurde geschützt.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Du kannst einen heroischen Gegenstand nicht wetten.
-GAMBLING_MESSAGE_SUCCESS: 'Wetten erfolgreich! Neue Stufe der Seltenheit: {0}'
+GAMBLING_MESSAGE_SUCCESS: 'Wetten erfolgreich! Neues Seltenheitslevel: {0}'
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: Willst du an {0} teilnehmen?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Willst du an {0} teilnehmen? Es wird dich {1} kosten.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Du kannst dem Event nicht beitreten, solange du dich auf einer generellen Karte befindest.
@@ -166,7 +166,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Gruppe) [{0}x {1}] für: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Gruppe) [{0}x {1}] für jeden
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} hat deine Gruppeneinladung abgelehnt.'
 GROUP_DIALOG_INVITED_YOU: '{0} hat dir eine Gruppeneinladung geschickt'
-GROUP_INFO_ADMIN: Du bist jetzt der Gruppenadministrator!
+GROUP_INFO_ADMIN: Du bist jetzt der Gruppenleiter!
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits in einer Gruppe!
 GROUP_INFO_BLOCKED: Der Spieler blockiert Gruppeneinladungen.
 GROUP_INFO_FULL: Grppe ist voll.
@@ -180,7 +180,7 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: Nach Reihenfolge'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Der Versuch ist fehlgeschlagen! Versuche es erneut in {0} Sekunden.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Bedauerlicherweise ist der Versuch fehlgeschlagen.
-ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst keine Person auftauen, welche du getötet hast!
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst keine Person auftauen, die du getötet hast!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Du bist zu weit weg um aufzutauen!
 ICEBREAKER_NAME: Icebreaker
 ICEBREAKER_SHOUTMESSAGE_END: Der Icebreaker ist zuende.
@@ -202,9 +202,9 @@ INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: -{0}!'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf erhöht: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Benutzt {1}x {0}
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Schutzrolle wurde verwendet!
-INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialist Verwandlung Abklingzeit: {0} Sek.'
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialistenverwandlung Abklingzeit: {0} Sek.'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Du bist hierzu nicht berechtigt.
-INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Der Spieler blockiert direkte Nachrichten!
+INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Der Spieler blockiert Flüsternachrichten!
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Gesendet an '{0}' in Channel {1}.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP Punkte: +{0}'
 INFORMATION_HERO_LEVELUP: Dein Heldenlevel wurde erhöht!
@@ -224,15 +224,15 @@ INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Dein {0} ist aufgestiegen!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: Dein {0} hat die höchste Stufe erreicht!
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Du kannst diese Aktion als Game Master nicht ausführen.
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Dein Joblevel wurde erhöht!
-INFORMATION_SHOUTMESSAGE_LEVELUP: Deine Stufe ist aufgestiegen!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahla an Begleitern erreicht!
+INFORMATION_SHOUTMESSAGE_LEVELUP: Dein Level wurde erhöht!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahl an Begleitern erreicht!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximale Begleiter Plätze erreicht.
 INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximale Anzahl an NosMates erreicht!
 INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximale NosMate Plätze erreicht.
-INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Du musst dich auf einer genrellen Karte befinden.
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Du musst dich auf einer generellen Karte befinden.
 INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: Du musst die Gruppe verlassen, um dies tun zu können!
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Nur Abenteurer können ihre Klasse ändern.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Du hast keine Munition für die Zwille. Kaufe sie im Ausrüstungsladen.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Du hast keine Munition für die Schleuder. Kaufe sie im Ausrüstungsladen.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Du hast keine Pfeile mehr. Kaufe sie im Ausrüstungsladen.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Du hast keine Bolzen mehr. Kaufe sie im Ausrüstungsladen.
 INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Du trägst keine Spezialistenkarte!
@@ -243,7 +243,7 @@ INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Du kannst deinen Begleiter nic
 INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Du kannst deinen Begleiter nicht freilassen, wenn er dir folgt.
 INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Der Gegenstand wurde in den Rucksack deines Begleiters verschoben.
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Du kannst dein NosMate nicht freilassen, wenn es dir folgt.
-INFORMATION_SHOUTMESSAGE_REMOVE_SP: Wenn du eine Fahigkeit erlernen möchtest, musst du deine Spezialistenkarte entfernen.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: Wenn du eine Fahigkeit erlernen möchtest, musst du deine Spezialistenkarte ausziehen.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Entferne dein Fortbewegungmittel vor der Verwandlung.
 INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Dein Geschlecht wurde verändert!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Der Server wird in {0} Sekunden herunterfahren.
@@ -281,7 +281,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
 ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Lautsprecher kann nicht benutzt werden!
 ITEM_CHATMESSAGE_TIMEOUT: Der Effekt ({0}) ist ausgelaufen.
-ITEM_CHATMESSAGE_UNFIXED: Das Level deines Gegenstandes ist nicht länger fixiert!
+ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstandes ist nicht mehr fixiert!
 ITEM_DIALOG_ASK_BIND: Willst du diesen Gegenstand tragen? Hierdurch wird der Gegenstand an deinen Charakter gebunden und nicht mehr handelbar sein.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Willst du deine Fraktion ändern?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Willst du die Fraktion deiner Familie ändern?
@@ -309,7 +309,7 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: '#ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF' #unsicher
-MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast ein Paket erhalten.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
@@ -457,7 +457,7 @@ RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
 RAID_INFO_PLAYER_DEATH: '#RAID_INFO_PLAYER_DEATH' #unsicher
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
-RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits benutzt.
+RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits betätigt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, während du Teil einer Gruppe bist.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannste keine Gruppenmitglieder in ein Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du dich in der Arena befindest!
@@ -469,7 +469,7 @@ RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH' #unsicher
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
-RAID_SHOUTMESSAGE_REGISTERED: Dein raid-Team wurde registriert
+RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Neues Ziel.
 RAID_SHOUTMESSAGE_UNREGISTERED: Dein Raid-Team ist nicht länger registriert.
@@ -520,7 +520,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the play
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far. #unsicher
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst abwarten, bis alle Abklingzeiten beendet wurden!
 SPEAKER_NAME: Lautsprecher
-SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst gerade nicht die Spezialistenkarte ändern!
+SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst die Spezialistenkarte nicht ändern!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Abklingzeit des Spezialisten beendet.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Du musst in deine Spezialistenkarte verwandelt sein, um dies zu tun!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
