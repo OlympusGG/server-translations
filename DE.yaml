@@ -1,8 +1,8 @@
 ACCOUNT_INFO_BAD_ID: Wrong account login.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
-ACT4_CHATMESSAGE_PVP_ANGELS: angels
+ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
-ACT4_CHATMESSAGE_PVP_DEMONS: demons
+ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
@@ -58,11 +58,11 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
 CELLON_SHOUTMESSAGE_SUCCESS: Option added.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
-CLASS_NAME_ADVENTURER: Adventurer
-CLASS_NAME_ARCHER: Archer
-CLASS_NAME_MAGE: Mage
+CLASS_NAME_ADVENTURER: Abenteurer
+CLASS_NAME_ARCHER: Bogenschütze
+CLASS_NAME_MAGE: Magier
 CLASS_NAME_MARTIAL_ARTIST: Martial Artist
-CLASS_NAME_SWORDSMAN: Swordsman
+CLASS_NAME_SWORDSMAN: Schwertkämpfer
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'You changed your language to:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Your current language is
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Available commands:'
@@ -122,10 +122,10 @@ FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
 FAMILY_INFO_USED_DAILY_MESSAGE: Daily message already used.
-FAMILY_RANK_DEPUTY: Assistant
-FAMILY_RANK_HEAD: Head
-FAMILY_RANK_KEEPER: Keeper
-FAMILY_RANK_MEMBER: Member
+FAMILY_RANK_DEPUTY: Vertreter
+FAMILY_RANK_HEAD: Oberhaupt
+FAMILY_RANK_KEEPER: Verwalter
+FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: The family is already of that faction!
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Family head changed.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: The family '{0}' was founded!
