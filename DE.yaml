@@ -355,8 +355,8 @@ OPTIONS_SHOUTMESSAGE_HP_DISABLED: HP Regeneration - Anzeige deaktiviert
 OPTIONS_SHOUTMESSAGE_HP_ENABLED: HP Regeneration - Anzeige aktiviert
 OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Mini-Land Einladungen deaktiviert
 OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Mini-Land Einladungen aktiviert
-OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Mouse lock disabled #unsicher
-OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Mouse lock enabled #unsicher
+OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Mausfalle deaktiviert
+OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Mausfalle aktiviert
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Dein Partner wird nach dem Tod in das Mini-Land zurückkehren.
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Dein Partner wird nach dem Tod durch die Saat der Macht wiederbelebt.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Dein NosMate wird nach dem Tod in das Mini-Land zurückkehren.
@@ -372,13 +372,13 @@ OPTIONS_SHOUTMESSAGE_UI_ENABLED: Benutzeroberfläche aktiviert
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Flüstern deaktiviert
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Flüstern aktiviert
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Du hast einen neuen Partner erhalten: {0}!'
-PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partner ist voll!
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partner ist satt!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner SP  Abklingzeit abgeschlossen.
 PARTNER_DIALOG_ASK_SLOT_INCREASE: Willst du deine Partnerplätze erweitern?
 PARTNER_INFO_IS_WEARING_SP: Dein Partner trägt bereits eine Spezialistenkarte!
 PARTNER_INFO_LEAVE_BEAD: Partner befindet sich nun außerhalb der Perle!
 PARTNER_INFO_LEVEL_IS_TOO_LOW: Die Stufe deines Partners ist zu gering!
-PARTNER_INFO_NEED_AGILITY_POINTS: Dein Partner benötigt mehr Beweglichkeitspunkte!
+PARTNER_INFO_NEED_AGILITY_POINTS: Dein Partner benötigt mehr Geschicklichkeit!
 PARTNER_INFO_NO_PARTNER_IN_TEAM: Kein Partner begleitet dich.
 PARTNER_INFO_RELEASED: Dein Partner wurde in die Freiheit entlassen.
 PARTNER_INFO_SP_NEW_SKILL: Dein Partner hat einen neuen Skill erlernt!
@@ -399,7 +399,7 @@ PERFECTSP_FIRE: Feuer
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Licht
 PERFECTSP_MESSAGE_FAILURE: SP Perfektion fehlgeschlagen!
-PERFECTSP_MESSAGE_SUCCESS: 'PErfektion erfolgreich: {0} +{1}'
+PERFECTSP_MESSAGE_SUCCESS: 'Perfektion erfolgreich: {0} +{1}'
 PERFECTSP_SHADOW: Schatten
 PERFECTSP_WATER: Wasser
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Du hast {1}x {0} von {2} gekauft.
@@ -407,7 +407,7 @@ PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} hat {2}x {1} gekauft.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Dein NosMate kann bereits Gegenstände aufsammeln!
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Du hast ein neues NosMate erhalten: {0}!'
 PET_CHATMESSAGE_CAN_PICK_UP: Dein NosMate kann nun Gegenstände aufheben!
-PET_CHATMESSAGE_EAT_EVERYTHING: Dein NosMate ist voll!
+PET_CHATMESSAGE_EAT_EVERYTHING: Dein NosMate ist satt!
 PET_DIALOG_ASK_SEND_BACK: Willst du dein NosMate in das Mini-Land zurückschicken?
 PET_DIALOG_ASK_SLOT_INCREASE: Willst du das Inventar deines NosMate's erweitern?
 PET_INFO_LEAVE_BEAD: NosMate hat die Perle verlassen!
@@ -432,9 +432,9 @@ QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenko Soldat ist zu stark!
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald du sie begonnen hast. Trotzdem fortfahren?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
-QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nich wieder verfügbar.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert
-QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits Die Hauptquest
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits die Hauptquest
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast einige unerfüllte Questaufträge
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen
@@ -446,8 +446,8 @@ RAID_CHATMESSAGE_LEFT: '{0} hat das Team verlassen.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Wenn dein Level nicht dem empfohlene Raidlevel entspricht, wird keine Raidbox verliehen, selbst wenn der Raid erfolgreich beendet wird.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um den Raid zu beginnen.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
-RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder wurde bereits begonnen!
-RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Raidleiter kann den raid beginnen.
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder hat bereits angefangen!
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Raidleiter kann den Raid beginnen.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist kein Mitglied eines Raid-Teams.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der raid kann hier nicht begonnen werden.
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
@@ -471,7 +471,7 @@ RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH' #unsicher
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
-RAID_SHOUTMESSAGE_TARGETS_UPDATED: Neues Ziel.
+RAID_SHOUTMESSAGE_TARGETS_UPDATED: Ziele aktualisiert.
 RAID_SHOUTMESSAGE_UNREGISTERED: Dein Raid-Team ist nicht länger registriert.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} ist dem Team beigetreten'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Willst du den Ort der Wiederbelebung ändern?
@@ -490,13 +490,13 @@ SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Diese Muschel ist nur für Waffen verwendba
 SHELLS_SHOUTMESSAGE_IDENTIFIED: Muschel identifiziert!
 SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Level der Muschel muss gleich oder kleiner als das der Ausrüstung sein.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Die Muschel muss vor der Benutzung identifiziert sein.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Die Eigenschafften der Muschel wurden hinzugefügt.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Die Eigenschaften der Muschel wurden hinzugefügt.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Muschel muss gleich oder geringer als die der Ausrüstung sein.
 SHIP_CHATMESSAGE_LEVEL_REQ: Du musst mindestens Level {0} sein, um dieses Schiff zu betreten.
-SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff wird in {0} Minuten anlegen.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff wird in {0} Minuten ablegen.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff wird in {0} Sekunden ablegen.
 SHOP_CHATMESSAGE_EMPTY: Der Laden darf nicht leer sein!
-SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Du kannst nur übertragbare Gegenstände in einem Laden handeln.
+SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Du kannst nur handelbare Gegenstände in einem Laden handeln.
 SHOP_DEFAULT_NAME: Laden
 SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Laden offen!
 SHOP_INFO_NEAR_PORTAL: Du kannst keinen Laden so nah an einem Protal eröffnen!
@@ -515,9 +515,9 @@ SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast erfolgreich {0} gefangen!
 SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Du musst ein höheres Level als das Monster besitzen, um es zu fangen!
 SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monster können nur mit weniger als 50% HP eingefangen werden.
-SKILL_SHOUTMESSAGE_SACRIFICE: '{0} sacrifices for {1}.' #unsicher
-SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range. #unsicher
-SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far. #unsicher
+SKILL_SHOUTMESSAGE_SACRIFICE: '{0} opfert sich für {1}.' 
+SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Opferungseffekt aufgehoben, da sich der Spieler außerhalb der Reichweite befindet. 
+SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Opferungseffekt fast aufgehoben, da sich der Spieler außerhalb der Reichweite befindet.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst abwarten, bis alle Abklingzeiten beendet wurden!
 SPEAKER_NAME: Lautsprecher
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst die Spezialistenkarte nicht ändern!
@@ -546,20 +546,20 @@ TITLE_INFO_EFFECT_ENABLED: Der Effekt des Titels wurde aktiviert.
 TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet!
 TITLE_INFO_VISIBLE_DISABLED: Sichtbarkeit des Titels deaktiviert!
 TITLE_INFO_VISIBLE_ENABLED: Sichtbarkeit des Titels aktiviert!
-TRADE_CHATMESSAGE_BLOCKED: Der Spieler blockiert den Handel!
+TRADE_CHATMESSAGE_BLOCKED: Der Spieler blockiert Handelsanfragen!
 TRADE_CHATMESSAGE_REFUSED: Spieler {0} hat den Handel abgelehnt.
 TRADE_CHATMESSAGE_YOU_REFUSED: Handel abgelehnt.
-TRADE_DIALOG_ASK_FOR_TRADE: Du hast {0} die Anfrage zu einem Handel gestellt.
+TRADE_DIALOG_ASK_FOR_TRADE: Du hast {0} nach einem Handel gefragt.
 TRADE_DIALOG_INCOMING_EXCHANGE: Spieler {0} [{1}(+{2})Lv.] möchte einen Handel beginnen.
 TRADE_INFO_PLAYER_IN_BATTLE: Du kannst während des Kampfes nicht handeln.
-TRADE_INFO_WAITING_FOR_TARGET: Warten auf {0}...
+TRADE_INFO_WAITING_FOR_TARGET: Warte auf {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Dieser Spieler handelt bereits.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Du kannst mit einem Ladenbesitzer nicht handeln.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Der Gegenstand kann nicht getauscht werden.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Du kannst in einem Raid nicht handeln.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du kannst mit Raidmitgliedern nicht handeln.
 UPGRADE_MESSAGE_FAILED: Verbesserung fehlgeschlagen!
-UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde gesichert.
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde geschützt.
 UPGRADE_MESSAGE_FIXED: Level fixiert.
 UPGRADE_MESSAGE_SP_DESTROYED: Die Seele der Spezialistenkarte wurde zerstört!
 UPGRADE_MESSAGE_SP_FAILED: SP Verbesserung fehlgeschlagen!
