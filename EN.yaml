@@ -150,7 +150,7 @@ GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: You can't gamble non-heroic items with 
 GAMBLING_INFO_AMULET_DESTROYED: 'CAUTION: The protection spell has expired.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: You already have the highest rarity!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
-GAMBLING_MESSAGE_FAILED: Gambling failed! The item has been destroyer.
+GAMBLING_MESSAGE_FAILED: Gambling failed! The item has been destroyed.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
 GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
