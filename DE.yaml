@@ -434,7 +434,7 @@ QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald d
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert
-QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits die Hauptquest
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst die Hauptquest bereits
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast einige unerfüllte Questaufträge
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen
