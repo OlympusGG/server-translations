@@ -314,9 +314,9 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
 MINIGAME_INFO_NO_REWARD: "Il n'y a pas de récompenses dans ce mini-jeu."
 MINIGAME_INFO_POINTS_FULL: La quantitée maximale de points de production est atteinte.
 MINIGAME_INFO_REFILL: #'Mini-game contribution: {0}'
-MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: You need to be level {0} and have {1} reputation to play this minigame.
-MINILAND_DIALOG_ASK_INVITE: Do you want to join {0}'s Mini-Land?
-MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: You won't receive any rewards because you dont have enough production points. Continue regardless?
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Tu dois atteindre le niveau {0} et obtenir {1} points de réputation avant de pouvoir jouer.
+MINILAND_DIALOG_ASK_INVITE: Souhaites-tu rejoindre le mini-pays de {0} ?
+MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: "Aucune récompense ne sera obtenue car tu n'as pas suffisament de points de production. Continuer ?"
 MINILAND_INFO_CHANGED: Your Mini-Land greeting message has been changed!
 MINILAND_INFO_DURABILITY_MAXIMUM: Maximum minigame durability reached.
 MINILAND_INFO_INVITE_LOCK: This player's Mini-Land is locked.
@@ -566,8 +566,8 @@ UPGRADE_MESSAGE_SP_FAILED: "L'amélioration a échoué."
 UPGRADE_MESSAGE_SP_FAILED_SAVED: "L'amélioration a échoué mais la carte de spécialiste a été préservée."
 UPGRADE_MESSAGE_SP_SUCCESS: "L'amélioration de la carte de spécialiste est un succès !"
 UPGRADE_MESSAGE_SUCCESS: "L'amélioration est un succès !"
-WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?
+WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?
 WEDDING_INFO_DIVORCED: Le divorce a été prononcé.
-WEDDING_SHOUTMESSAGE_BROADCAST: "Par les liens sacrés du mariage, {0} et {1}, je vous déclare mariés!" #J'aurais bien mit mari et femme, mais il faut bien représenter les couples homosexuels
+WEDDING_SHOUTMESSAGE_BROADCAST: "Par les liens sacrés du mariage, {0} et {1}, je vous déclare mariés!"
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0} a refusé la demande en mariage de {1}."
