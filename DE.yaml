@@ -96,8 +96,8 @@ FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses Familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Willst du deine Familie auflösen? Es kann nicht rückgängig gemacht werden.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
-FAMILY_DIALOG_ASK_JOIN_FAMILY: Du wurdest in die familie {0} von {1} eingeladen, willst du ihr beitreten?
-FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Du kannst deine eigenen rechte nicht verändern.
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Du wurdest in die Familie {0} von {1} eingeladen, willst du ihr beitreten?
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Du kannst deine eigenen Rechte nicht verändern.
 FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Willst du dich selber aus der Familie werfen?
 FAMILY_DIALOG_CHANGE_HEAD: Willst du das Familienoberhaupt wechseln?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen, ohne sie vollkommen aufzulösen.
@@ -183,7 +183,7 @@ HARVEST_SHOUTMESSAGE_TRY_FAIL: Bedauerlicherweise ist der Versuch fehlgeschlagen
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst keine Person auftauen, die du getötet hast!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Du bist zu weit weg um aufzutauen!
 ICEBREAKER_NAME: Icebreaker
-ICEBREAKER_SHOUTMESSAGE_END: Der Icebreaker ist zuende.
+ICEBREAKER_SHOUTMESSAGE_END: Der Icebreaker ist zu Ende.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Bereite dich auf den Kampf vor!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} ist eingefroren.'
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} ist aufgetaut.'
@@ -273,14 +273,14 @@ INVENTORY_DIALOG_ASK_TO_DELETE: Willst du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand löschen möchtest?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht ausreichend Gegenstände
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Abenteurer können diesen Gegenstand nicht benutzen!
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Auf diesen Gegenstand ist keine Muscheln anwendbar!
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Auf diesen Gegenstand ist keine Muschel anwendbar!
 ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Du kannst die Sprechblase nicht benutzen!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da du bereits unter dem Effekt {0} stehst.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
 ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Lautsprecher kann nicht benutzt werden!
-ITEM_CHATMESSAGE_TIMEOUT: Der Effekt ({0}) ist ausgelaufen.
+ITEM_CHATMESSAGE_TIMEOUT: Die Haltbarkeit des Items {0} ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstandes ist nicht mehr fixiert!
 ITEM_DIALOG_ASK_BIND: Willst du diesen Gegenstand tragen? Hierdurch wird der Gegenstand an deinen Charakter gebunden und nicht mehr handelbar sein.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Willst du deine Fraktion ändern?
@@ -314,7 +314,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
-MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Reputation besitzen, um dieses Minispiel zu spielen.
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen, um dieses Minispiel zu spielen.
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da du nicht ausreichend Produktionspunkte besitzt. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Beschreibung wurde erneuert.
@@ -385,7 +385,7 @@ PARTNER_INFO_SP_NEW_SKILL: Dein Partner hat einen neuen Skill erlernt!
 PARTNER_INFO_STORED: Dein Partner befindet sich nun in der Perle.
 PARTNER_MESSAGE_100_AGILITY: Dein Partner hat 100% Beweglichkeit erreicht.
 PARTNER_MESSAGE_KICKED: Dein Partner ist zurück im Mini-Land.
-PARTNER_MESSAGE_NO_SP_EQUIPPED: Dein Partner trägt keine Specialistenkarte.
+PARTNER_MESSAGE_NO_SP_EQUIPPED: Dein Partner trägt keine Spezialistenkarte.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Du hast diesen Partner bereits.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Dein Partner {0} hat die nächste Stufe erreicht!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner wurde durch 'Partner Schutzengel' wiederbelebt.
@@ -434,7 +434,7 @@ QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald d
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert
-QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst die Hauptquest bereits
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits eine Hauptquest
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast einige unerfüllte Questaufträge
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen
@@ -449,7 +449,7 @@ RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder hat bereits angefangen!
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Raidleiter kann den Raid beginnen.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist kein Mitglied eines Raid-Teams.
-RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der raid kann hier nicht begonnen werden.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der Raid kann hier nicht begonnen werden.
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Willst du den {0} Raid beginnen?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raid-Team eingeladen. Akzeptieren?'
@@ -481,7 +481,7 @@ REVIVE_DIALOG_FREE: Willst du dich wiederbeleben? Kostenlos möglich bis Level {
 REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saat der Macht kosten.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
 SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
-SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaten werden überschrieben. Die Chance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
+SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
 SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
 SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
