@@ -93,7 +93,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe dieses Feensteins ist zu hoch
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Du kannst diesem Gegenstand keine weiteren Feensteine verleihen.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Du kannst Feensteine nur in Waffen und Rüstungen einfügen.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses familienmitglied hat bereits diese Rechte.
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses Familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Willst du deine Familie auflösen? Es kann nicht rückgängig gemacht werden.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
 FAMILY_DIALOG_ASK_JOIN_FAMILY: Du wurdest in die familie {0} von {1} eingeladen, willst du ihr beitreten?
@@ -197,7 +197,7 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht ausreichend Ruf!
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Deine Stufe ist zu niedrig!
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht!
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosHändler Medaille ist momentan aktiv.
-INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Begleiter Spezialist Verwandlung Abklingzeit: {0} Sek.'
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerspezialist Verwandlung Abklingzeit: {0} Sek.'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: -{0}!'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf erhöht: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Benutzt {1}x {0}
@@ -225,10 +225,10 @@ INFORMATION_SHOUTMESSAGE_FAIRYMAX: Dein {0} hat die höchste Stufe erreicht!
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Du kannst diese Aktion als Game Master nicht ausführen.
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Dein Joblevel wurde erhöht!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Dein Level wurde erhöht!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahl an Begleitern erreicht!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximale Begleiter Plätze erreicht.
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahl an Partnern erreicht!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximale Anzahl an Partner-Slots erreicht.
 INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximale Anzahl an NosMates erreicht!
-INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximale NosMate Plätze erreicht.
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximale Anzahl an NosMate-Slots erreicht.
 INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Du musst dich auf einer generellen Karte befinden.
 INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: Du musst die Gruppe verlassen, um dies tun zu können!
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Nur Abenteurer können ihre Klasse ändern.
@@ -239,9 +239,9 @@ INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Du trägst keine Spezialistenkarte!
 INFORMATION_SHOUTMESSAGE_NO_WEAPON: Du trägst keine angemessene Waffe!
 INFORMATION_SHOUTMESSAGE_NO_WIG: Du trägst keine Perücke.
 INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Nicht ausreichend CP.
-INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Du kannst deinen Begleiter nicht freilassen, sofern er Ausrüstung trägt.
-INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Du kannst deinen Begleiter nicht freilassen, wenn er dir folgt.
-INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Der Gegenstand wurde in den Rucksack deines Begleiters verschoben.
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Du kannst deinen Partner nicht freilassen, sofern er Ausrüstung trägt.
+INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Du kannst deinen Partner nicht freilassen, wenn er dir folgt.
+INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Der Gegenstand wurde in den Rucksack deines Partners verschoben.
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Du kannst dein NosMate nicht freilassen, wenn es dir folgt.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: Wenn du eine Fahigkeit erlernen möchtest, musst du deine Spezialistenkarte ausziehen.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Entferne dein Fortbewegungmittel vor der Verwandlung.
@@ -294,7 +294,7 @@ ITEM_DIALOG_WANT_TO_SAVE_POSITION: Willst du deine Position speichern?
 ITEM_INFO_PET_NAME_TOO_LONG: Der Name des NosMate's ist zu lang! (maximal 14 Buchstaben))
 ITEM_MESSAGE_CANT_USE: Du kannst diesen Gegenstand nicht benutzen.
 ITEM_MESSAGE_CANT_WEAR: Du kannst diesen Gegenstand nicht tragen.
-ITEM_MESSAGE_CANT_WEAR_PARTNER: Dein Begleiter kann diesen Gegenstand nicht tragen.
+ITEM_MESSAGE_CANT_WEAR_PARTNER: Dein Partner kann diesen Gegenstand nicht tragen.
 ITEM_MESSAGE_ERASER_NO_SHELL: Du kannst die Muscheleigenschaften nicht löschen, da keine vorhanden sind.
 ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: Du kannst deine Fraktion nicht verändern, sofern du Teil einer Familie bist.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Du kannst keine Spezialistenkarte mit einer zerstörten Seele verbessern!
