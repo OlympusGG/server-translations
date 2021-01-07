@@ -30,7 +30,7 @@ BANK_INFO_TOO_MUCH_GOLD: Du hast zu viel Gold!
 BANK_LOG_OPEN_BANK: Willkommen in der Bank! Wie kann ich dir behilflich sein?
 BANK_LOG_WITHDRAW_BANK: '{0}000 Gold abgehoben.'
 BANK_MESSAGE_BALANCE: Du hast {0} Gold in deiner Bank.
-BANK_MESSAGE_DEPOSIT: {0}000 Gold in deine Bank eingezahlt.
+BANK_MESSAGE_DEPOSIT: '{0}000 Gold in deine Bank eingezahlt.'
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximale Menge an Gold in der Bank erreicht!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Überschreitende Beträge werden an die Bank geschickt.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
