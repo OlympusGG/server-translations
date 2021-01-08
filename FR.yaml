@@ -11,7 +11,7 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La salle du boss a été scellée.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Le boss du donjon a été vaincu !
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La salle du boss est ouverte.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte au centre de la Toundra Bitoren !
-ACT4_NEED_FACTION: Seul ceux qui ont un pouvoir de protection peuvent rejoindre la couronne de glace.
+ACT4_NEED_FACTION: Seuls ceux qui ont un pouvoir de protection peuvent rejoindre la couronne de glace.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Camp des anges
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Camp des démons
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Le {0} a vaincu le Seigneur Mukraju !
@@ -91,7 +91,7 @@ FAIRYSTONES_MESSAGE_INSERT_SUCCESS: "L'insertion de la pierre de fée a réussi 
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée dans un équipement héroique.
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: La niveau de cette pierre de fée est trop élévé pour cet objet.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Tu ne peux pas insérer davantage de pierres de fée dans cet objet.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Seul les armes et les armures peuvent recevoir une pierre de fée.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Seuls les armes et les armures peuvent recevoir une pierre de fée.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté(e)"
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Ce membre a déjà ce rôle.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Souhaites-tu vraiment dissoudre ta famille ? Ce sera définitif.
