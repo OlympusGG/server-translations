@@ -21,7 +21,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
 AMMO_LOADED_ADVENTURER: Munitions chargés !
 AMMO_LOADED_ARCHER: Flèches chargés !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
-ARENA_INFO_ASK_ENTER: "Veux-tu entrer dans l'arène individuel? ça te coûtera {0} pièces or."
+ARENA_INFO_ASK_ENTER: "Veux-tu entrer dans l'arène individuelle? ça te coûtera {0} pièces d'or."
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
 BANK_DIALOG_ASK_DEPOSIT: "Veux-tu déposer {0}000 pièces d'or sur ton compte ?"
 BANK_DIALOG_ASK_WITHDRAW: "Veux-tu retirer {0}000 pièces d'or sur ton compte ?"
@@ -532,7 +532,7 @@ SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: "{0} points de spécialistes ajoutés!"
 SPECIALIST_SHOUTMESSAGE_POINTS_RESET: Points de spécialiste réinitialisés.
 SPECIALIST_SHOUTMESSAGE_RESURRECTED: "L'âme de ta carte de spécialiste a été réanimé."
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Tu dois être en spécialiste pour faire ça.
-SUM_MESSAGE_FAILED: Somme échoué. :(
+SUM_MESSAGE_FAILED: Somme échoué.
 SUM_MESSAGE_SUCCESS: Somme réussie!
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Le porte est bloquée.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le maitre du groupe peut commencer l'espace-temps.
