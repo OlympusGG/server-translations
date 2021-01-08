@@ -175,7 +175,7 @@ GROUP_INFO_LEFT: Tu as quitté le groupe.
 GROUP_INFO_NEW_LEADER: Tu es le nouveau chef du groupe!
 GROUP_INFO_REQUEST: Tu as invité {0} dans ton groupe.
 GROUP_SHOUTMESSAGE_CLOSED: Groupe dissout.
-GROUP_SHOUTMESSAGE_SHARING: Distribution des butins : tout le monde
+GROUP_SHOUTMESSAGE_SHARING: "Distribution des butins : tout le monde"
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Distribution des butins : Dans l'ordre"
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: "Tu n'es pas le chef du groupe!"
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: La tentative a échoué! Réessaye après {0} secondes.
@@ -399,7 +399,7 @@ PERFECTSP_FIRE: Résistance feu
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Résistance lumière
 PERFECTSP_MESSAGE_FAILURE: Perfectionnement échoué!
-PERFECTSP_MESSAGE_SUCCESS: Perfectionnement réussi: +{1} {0} !
+PERFECTSP_MESSAGE_SUCCESS: "Perfectionnement réussi: +{1} {0} !"
 PERFECTSP_SHADOW: Résistance obscure
 PERFECTSP_WATER: Résistance eau
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Tu as acheté {1}x {0} à {2}.
