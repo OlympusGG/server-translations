@@ -121,7 +121,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: Aile deposu bulunamadı.
 FAMILY_INFO_NOT_FAMILY_HEAD: Aile başkanı değilsin!
 FAMILY_INFO_NOT_IN_FAMILY: Bir ailede değilsin!
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Yalnızca temsilciler aile başkanı olarak atanabilir.
-FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün) 
+FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün)
 FAMILY_RANK_DEPUTY: Temsilci
 FAMILY_RANK_HEAD: Başkan
 FAMILY_RANK_KEEPER: İdareci
@@ -416,7 +416,7 @@ PET_INFO_STORED: Evcil hayvanın inciye yerleştirildi.
 PET_MESSAGE_ALREADY_IN_TEAM: Evcil hayvan zaten seni takip ediyor.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Evcil hayvanını zaten çağırabiliyorsun.
 PET_MESSAGE_KICKED: Evcil hayvanını Miniland'e gönderdin.
-PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin. 
+PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Evcil hayvanının seviyesi seninkinden yüksek!
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} seviye atladı!'
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Evcil hayvan Miniland'e döndü.
