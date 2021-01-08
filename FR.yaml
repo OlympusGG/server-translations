@@ -63,9 +63,9 @@ CLASS_NAME_ARCHER: Archer
 CLASS_NAME_MAGE: Mage
 CLASS_NAME_MARTIAL_ARTIST: Artiste Martial
 CLASS_NAME_SWORDSMAN: Escrimeur
-COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: "La langue a été changé en:"
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: "La langue a été changé en :"
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La langue actuelle est
-COMMANDS_CHATMESSAGE_AVAILABLE: "Commande invalide:"
+COMMANDS_CHATMESSAGE_AVAILABLE: "Commande invalide :"
 COMMANDS_CHATMESSAGE_HELP: "[Commande d'aide]"
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Inconnu.
 COMMANDS_CHATMESSAGE_USAGES: "[Utilisation de la commande]"
@@ -153,16 +153,16 @@ GAMBLING_MESSAGE_AMULET_FAIL_SAVED: "Grâce à l'amulette, l'objet n'a pas été
 GAMBLING_MESSAGE_FAILED: "Pari échoué ! L'objet a été détruit."
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: "Pari échoué, mais l'objet a été sauvé de la destruction."
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Tu ne peux pas parier un objet héroique.
-GAMBLING_MESSAGE_SUCCESS: "Pari réussi ! Niveau de rareté: {0}"
-GAMEEVENT_DIALOG_ASK_PARTICIPATE: "Es-tu sûr de vouloir participer à: {0} ?"
-GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: "Es-tu sûr de vouloir payer {1} pièces d'or pour participer à: {0} ? "
+GAMBLING_MESSAGE_SUCCESS: "Pari réussi ! Niveau de rareté : {0}"
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: "Es-tu sûr de vouloir participer à : {0} ?"
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: "Es-tu sûr de vouloir payer {1} pièces d'or pour participer à : {0} ? "
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: "Tu ne peux pas rejoindre l'evenement si tu n'es pas sur une carte générale."
 GAMEEVENT_MESSAGE_START: "Un évenement a débuté: {0}."
 GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: "Pas assez de joueurs pour l'évenement."
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: "Dans {1} minutes commencera : {0}."
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: "Dans {0} secondes commencera : {0}."
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: "{0} finira dans une minute."
-GROUP_CHATMESSAGE_DROP_ORDERED: "(Groupe) [{0}x {1}] pour: {2}"
+GROUP_CHATMESSAGE_DROP_ORDERED: "(Groupe) [{0}x {1}] pour : {2}"
 GROUP_CHATMESSAGE_DROP_SHARED: (Groupe) [{0}x {1}] pour tout le monde
 GROUP_CHATMESSAGE_REQUEST_REFUSED: "{0} a refusé ton invitation de groupe."
 GROUP_DIALOG_INVITED_YOU: "{0} t'as invité en groupe."
@@ -323,7 +323,7 @@ MINILAND_INFO_INVITE_LOCK: Le mini-pays de ce joueur est verouillé.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Pas assez de coupons de récompense !
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Pas assez de points de durabilité.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Pas assez de points de production.
-MINILAND_MESSAGE_VISITOR: "Total des visites: {0}, Visites aujourd'hui: {1}"
+MINILAND_MESSAGE_VISITOR: "Total des visites: {0}, Visites aujourd'hui : {1}"
 MINILAND_SHOUTMESSAGE_CLOSED: Le mini-pays est verouillé.
 MINILAND_SHOUTMESSAGE_FULL: Le mini-pays est plein.
 MINILAND_SHOUTMESSAGE_LOCK: Tu as verouillé le mini-pays.
@@ -331,7 +331,7 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
 MUTE_CHATMESSAGE_TIME_LEFT: "Temps de sourdine restant : {0}"
-MUTE_INFO_PLAYER_MUTE: "Tu as été mis sous sourdine pour: {0}"
+MUTE_INFO_PLAYER_MUTE: "Tu as été mis sous sourdine pour : {0}"
 MUTE_MESSAGE_FEMALE: "J'ai été une vilaine fille donc j'ai été punie !"
 MUTE_MESSAGE_MALE: "J'ai été un vilain garçon donc j'ai été puni !"
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
@@ -371,7 +371,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: "Affichage de l'interface utilisateur désacti
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: "Affichage de l'interface utilisateur activé."
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Tu refuses désormais les chuchotements.
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Tu acceptes désormais les chuchotements.
-PARTNER_CHATMESSAGE_BEAD_EXTRACT: "Tu as obtenu un nouveau partenaire: {0} !"
+PARTNER_CHATMESSAGE_BEAD_EXTRACT: "Tu as obtenu un nouveau partenaire : {0} !"
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Ton partenaire ne peut plus rien manger.
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: La transformation de ton partenaire est à nouveau disponible.
 PARTNER_DIALOG_ASK_SLOT_INCREASE: "Es-tu sûr de vouloir augmenter le nombre d'emplacements pour partenaire ?"
@@ -399,13 +399,13 @@ PERFECTSP_FIRE: Résistance feu
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Résistance lumière
 PERFECTSP_MESSAGE_FAILURE: Perfectionnement échoué !
-PERFECTSP_MESSAGE_SUCCESS: "Perfectionnement réussi: +{1} {0} !"
+PERFECTSP_MESSAGE_SUCCESS: "Perfectionnement réussi : +{1} {0} !"
 PERFECTSP_SHADOW: Résistance obscure
 PERFECTSP_WATER: Résistance eau
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Tu as acheté {1}x {0} à {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: "{0} t'a acheté {2}x {1}."
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Ton familier peut déjà ramasser les objets!
-PET_CHATMESSAGE_BEAD_EXTRACT: "Tu as obtenu un nouveau familier: {0} !"
+PET_CHATMESSAGE_BEAD_EXTRACT: "Tu as obtenu un nouveau familier : {0} !"
 PET_CHATMESSAGE_CAN_PICK_UP: Ton familier peut maintenant ramasser des objets !
 PET_CHATMESSAGE_EAT_EVERYTHING: Ton familier ne peut plus rien manger !
 PET_DIALOG_ASK_SEND_BACK: Es-tu sûr de vouloir renvoyer ton familier au mini-pays ?
