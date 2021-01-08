@@ -150,7 +150,7 @@ GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Bu tılsımı sadece kahraman teçhizat
 GAMBLING_INFO_AMULET_DESTROYED: 'Dikkat: Koruyucu tılsım yok oldu!'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Teçhizat zaten en yüksek nadirlik seviyesinde!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Tılsımın sayesinde teçhizatın yok olmaktan kurtarıldı.
-GAMBLING_MESSAGE_FAILED: 
+GAMBLING_MESSAGE_FAILED: Şans oyunu başarısız, teçhizat yok edildi.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Şans oyunu başarısız oldu ama teçhizat yok olmaktan kurtarıldı.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazsın.
 GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
