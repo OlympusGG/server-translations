@@ -14,14 +14,15 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Zindan girişi Bitoren Tundrasının merkezin
 ACT4_NEED_FACTION: Sadece koruma gücü olanlar Donmuş Taç'a katılabilirler.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Melek Kampı
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Şeytan Kampı
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} Lord Mukraju''yu yendi!'
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} Lord Mukraju''yu zamanında yenemedi.'
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} Lord Mukraju''yu çağırdı!'
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} Lord Mukraju'yu yendi!"
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} Lord Mukraju'yu zamanında yenemedi."
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} Lord Mukraju'yu çağırdı!"
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
 AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
 ARENA_INFO_ASK_ENTER: '{0} altın karşılığında bireysel arenaya girmek istiyor musun?'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Zaten Cuarry Banka Kartına sahipsin.
 BANK_DIALOG_ASK_DEPOSIT: Banka hesabına {0}000 altın yatırmak istiyor musun?
 BANK_DIALOG_ASK_WITHDRAW: Banka hesabından {0}000 altın çekmek istiyor musun?
@@ -33,7 +34,7 @@ BANK_MESSAGE_BALANCE: Banka hesabında {0}000 altın var.
 BANK_MESSAGE_DEPOSIT: Banka hesabına {0}000 altın yatırıldı.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maksimum altın limitine ulaşıldı!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Artan bakiye banka hesabına gönderildi.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - NosPazar''a yerleştirildi.'
+BAZAAR_CHATMESSAGE_ITEM_ADDED: "{0}x {1} - NosPazar'a yerleştirildi."
 BAZAAR_INFO_ITEM_CHANGED: Geçersiz işlem, eşya satıldı veya fiyatı değiştirildi.
 BAZAAR_INFO_MAINTENANCE_MODE: NosPazar bakım altında.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Daha fazla ürün satamazsın.
@@ -50,7 +51,7 @@ BLACKLIST_INFO_BLOCKING: Bu karakteri engelledin.
 BLACKLIST_INFO_DELETED: Karakter kara listeden çıkarıldı.
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Bağışıklık nedeniyle etkisi yok.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: '{0} etkisini kaybediyorsun.'
-BUFF_CHATMESSAGE_SIDE_EFFECTS: '{0}''in yan etkisi altındasın.'
+BUFF_CHATMESSAGE_SIDE_EFFECTS: "{0}'in yan etkisi altındasın."
 BUFF_CHATMESSAGE_UNDER_EFFECT: '{0} etkisi altındasın.'
 CELLON_SHOUTMESSAGE_FAIL: Seçenek eklemeyi başaramadığın için Cellon yok oldu.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Cellon'un seviyesi aksesuarınkinden yüksek!
@@ -58,6 +59,8 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuarın Cellon yuvaları zaten dolu.
 CELLON_SHOUTMESSAGE_SUCCESS: Seçenek eklendi.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Bu karakter adı başkası tarafından kullanılıyor!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
+CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
 CLASS_NAME_ADVENTURER: Maceracı
 CLASS_NAME_ARCHER: Okçu
 CLASS_NAME_MAGE: Büyücü
@@ -70,7 +73,7 @@ COMMANDS_CHATMESSAGE_HELP: '[Yardım komutu]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Belgelenmemiş.
 COMMANDS_CHATMESSAGE_USAGES: '[Komutun kullanılışı]'
 COMMEND_CHATMESSAGE_COOLDOWN: Günde sadece bir karakteri övebilirsin.
-COMMEND_CHATMESSAGE_GIVEN: '{0}''i övdün.'
+COMMEND_CHATMESSAGE_GIVEN: "{0}'i övdün."
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Bir karakteri övmek için {0} dakika beklemelisin!
 COMMEND_CHATMESSAGE_NOT_MINLVL: Bir karakteri sadece Lv.30''a ulaştıysanız övebilirsin.
 COMMEND_CHATMESSAGE_RECEIVED: '{0} tarafından övüldün.'
@@ -85,7 +88,7 @@ DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Bu kukla NosMate'inin seviyesine uygun değil.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
 DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
-FAIRYSTONES_DIALOG_INSERT: '{0}''ı {1}''e işlemek istiyor musun?'
+FAIRYSTONES_DIALOG_INSERT: "{0}'ı {1}'e işlemek istiyor musun?"
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Peri Taşı işlemesi başarısız.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Peri Taşı işlemesi başarılı!
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Kahraman teçhizatlarına Peri Taşı işleyemezsin.
@@ -162,19 +165,25 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Yetersiz oyuncu.
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0}, {1} dakika içinde başlayacak.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0}, {1} saniye içinde başlayacak.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} bir dakika içinde bitecek.'
-GROUP_CHATMESSAGE_DROP_ORDERED: '(Grup) {2} için [{0}x {1}]'
-GROUP_CHATMESSAGE_DROP_SHARED: '(Grup) Herkes için [{0}x {1}]'
+GROUP_CHATMESSAGE_DROP_ORDERED: (Grup) {2} için [{0}x {1}]
+GROUP_CHATMESSAGE_DROP_SHARED: (Grup) Herkes için [{0}x {1}]
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} grup isteğini reddetti.'
+GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
 GROUP_DIALOG_INVITED_YOU: '{0} ile grup kurmak istiyor musun?'
 GROUP_INFO_ADMIN: Grubun lideri sensin!
 GROUP_INFO_ALREADY_IN_GROUP: Zaten bir gruptasın.
 GROUP_INFO_BLOCKED: Bu oyuncu grup davetlerini engelliyor.
 GROUP_INFO_FULL: Grup dolu.
-GROUP_INFO_JOIN: '{0}''in grubuna katıldın!'
+GROUP_INFO_JOIN: "{0}'in grubuna katıldın!"
 GROUP_INFO_LEFT: Gruptan ayrıldın.
 GROUP_INFO_NEW_LEADER: Grubun yeni lideri sensin!
 GROUP_INFO_REQUEST: 'Grup daveti gönderildi: {0}'
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
 GROUP_SHOUTMESSAGE_CLOSED: Grup dağıtıldı.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
 GROUP_SHOUTMESSAGE_SHARING: Ganimetler paylaşılıyor.
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: Ganimetler sırayla dağıtılıyor.
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Grubun lideri sen değilsin.
@@ -205,7 +214,7 @@ INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Koruma Parşömeni kullanıldı.
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Bunu sadece kahramanlar kullanabilir.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Bu karakter fısıltıları engelliyor.
-INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: '{1} kanalındaki {0}''a gönderildi.'
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: "{1} kanalındaki {0}'a gönderildi."
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP puanları: +{0}'
 INFORMATION_HERO_LEVELUP: Kahramanlık seviyen yükseldi!
 INFORMATION_INFO_PLAYER_IN_BATTLE: '{0} savaşta'
@@ -311,11 +320,12 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: Bu mini oyunda ödül yok.
 MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
 MINIGAME_INFO_REFILL: 'Mini oyun katkısı: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Bu mini oyunu oynamak için {0} seviye ve {1} itibar puanına ihtiyacın var.
-MINILAND_DIALOG_ASK_INVITE: '{0}''in Miniland''ine katılmak istiyor musun?'
+MINILAND_DIALOG_ASK_INVITE: "{0}'in Miniland'ine katılmak istiyor musun?"
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Üretim puanın yetersiz olduğu için ödül kazanamayacaksın. Yine de oynamak istiyor musun?
 MINILAND_INFO_CHANGED: Miniland'inin tanıtımı yenilendi.
 MINILAND_INFO_DURABILITY_MAXIMUM: Maksimum dayanıklığa ulaşıldı.
@@ -431,6 +441,7 @@ PSP_MESSAGE_ONE_SKILL_RESET: Yetenek sıfırlandı.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.
@@ -452,7 +463,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Bir akın takımına üye değilsin.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın buradan başlatılamaz.
 RAID_CHATMESSAGE_X_JOINED: '{0} takıma katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} akınını başlatmak istiyor musun?'
-RAID_DIALOG_INVITED_YOU: '{0}''ın akın takımına katılmak istiyor musun?'
+RAID_DIALOG_INVITED_YOU: "{0}'ın akın takımına katılmak istiyor musun?"
 RAID_INFO_NO_EXIST: Akın bulunamadı.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
@@ -467,7 +478,7 @@ RAID_SHOUTMESSAGE_KICKED: Akın takımından kovuldun!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
 RAID_SHOUTMESSAGE_LEFT: '{0} takımdan ayrıldı.'
 RAID_SHOUTMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: 'Takım üyesi {0} öldü.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Takım üyesi {0} öldü.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Akın takımı dolu!
 RAID_SHOUTMESSAGE_REGISTERED: Akın listeye eklendi!
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
@@ -482,6 +493,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: '{0} Güç Tohumu karşılığında yeniden canlan
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Midyeyi değiştirmek için önce parfüm kullanarak kendine bağlamalısın.
 SHELLS_DIALOG_ADD_OPTIONS: Midyeyi işlemek istiyor musun? Bunu yaparsan eşya karakterine bağlanacak.
 SHELLS_DIALOG_REPLACE_OPTIONS: '%50 şansla bu midyeyi teçhizatına işlemek istiyor musun? Başarısız olursan midyeni kaybedeceksin.'
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Bu midyenin seçenekleri zaten tanımlanmış.
 SHELLS_SHOUTMESSAGE_BROKEN: İşlem başarısız olduğu için midye kırıldı.
 SHELLS_SHOUTMESSAGE_ERASED: Midye seçenekleri silindi.
@@ -570,4 +582,4 @@ WEDDING_DIALOG_REQUEST_RECEIVED: '{0} sana aşkını ilan ediyor!!! Evlenmeyi ka
 WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
 WEDDING_INFO_DIVORCED: Boşandınız. Geçmiş olsun.
 WEDDING_SHOUTMESSAGE_BROADCAST: '{0} ve {1} evlendi! Darısı başınıza!'
-WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0}, {1}''in evlenmek teklifini reddetti! Aga be!'
+WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenmek teklifini reddetti! Aga be!"
