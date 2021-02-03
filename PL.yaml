@@ -22,6 +22,7 @@ AMMO_LOADED_ADVENTURER: Amunicja załadowana!
 AMMO_LOADED_ARCHER: Strzały załadowane!
 AMMO_LOADED_SWORDSMAN: Belty załadowane!
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidulaną? Koszt wynosi {0} szt. złota.
+ARENA_SHOUTMESSAGE_PVP_KILL: Gracz {0} został pokonany przez gracza {1}
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Już posiadasz Książeczkę Oszczędnościową Banku Cuarry
 BANK_DIALOG_ASK_DEPOSIT: Czy chcesz wpłacić {0}000 szt. złota na swoje konto?
 BANK_DIALOG_ASK_WITHDRAW: Czy chcesz wypłacić {0}000 szt. złota ze swojego konto bankowego?
@@ -58,6 +59,8 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Akcesorium nie posiada miejsca na nowe opcje.
 CELLON_SHOUTMESSAGE_SUCCESS: Dodano opcje!
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ta nazwa postaci jest już zajęta.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
+CHARACTER_DELETION_INFO_FAILED: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
 CLASS_NAME_ADVENTURER: Poszukiwacz Przygód
 CLASS_NAME_ARCHER: Łucznik
 CLASS_NAME_MAGE: Mag
@@ -165,6 +168,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} zakończy się za minutę.'
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupa) [{0}x {1}] dla: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grupa) [{0}x {1}] dla wszystkich
 GROUP_CHATMESSAGE_REQUEST_REFUSED: Gracz {0} odrzucił Twoje zaproszenie do grupy.
+GROUP_DIALOG_ASK_SHARE_POINT: Czy chcesz ustawić punkt powrotu gracza {0} jako swój?
 GROUP_DIALOG_INVITED_YOU: Gracz {0} wysłał ci zaproszenie do grupy.
 GROUP_INFO_ADMIN: Wyznaczono Cię na lidera grupy!
 GROUP_INFO_ALREADY_IN_GROUP: Jesteś już w grupie!
@@ -174,7 +178,12 @@ GROUP_INFO_JOIN: Dołączono do grupy gracza {0}
 GROUP_INFO_LEFT: Opuszczono grupę
 GROUP_INFO_NEW_LEADER: Mianowano Cię nowym liderem grupy!
 GROUP_INFO_REQUEST: Wysłano zaproszenie do grupy gracza {0}
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Wysłano zapytanie z prośbą o udostepnienie twojego miejsca powrotu innym członkom grupy.
 GROUP_SHOUTMESSAGE_CLOSED: Grupa została rozwiązana.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: Gracz {0} zmienił miejsce powrotu.
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: Gracz {0} odmówił udostępnienia miejsca powrotu innym członkom grupy.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Zmieniono to samo miejsce powrotu dla członków grupy.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Odmówniono udostępnienia miejsca powrotu innym członkom grupy.
 GROUP_SHOUTMESSAGE_SHARING: 'Dziele łupów: wszyscy w grupie'
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Dziele łupów: kolejność'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Nie jesteś liderem grupy!
@@ -311,6 +320,7 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych 
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz wejść na pojazd, ponieważ posiadasz negatywny efekt!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Otrzymano paczkę.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Punkty produkcji minigier został odświeżony.
 MINIGAME_INFO_NO_REWARD: Nie znaleziono żadnych nagród w danej minigrze.
 MINIGAME_INFO_POINTS_FULL: Osiągnięto maksymalną ilość punktów produkcji w minigrze.
 MINIGAME_INFO_REFILL: 'Wkład minigry: {0}'
@@ -431,6 +441,7 @@ PSP_MESSAGE_ONE_SKILL_RESET: Umiejętność partnera została zresetowana.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Czy chcesz zostać przeteleportowany?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Już ukończyłeś tę misję główną!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Już ukończyłeś tę misję drugorzędną!
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Już posiadasz tę misję.
@@ -467,7 +478,7 @@ RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
 RAID_SHOUTMESSAGE_LEFT: '{0} opuścił drużynę'
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: 'Członek rajdu {0} zginął.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Członek rajdu {0} zginął.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna jest pełna
 RAID_SHOUTMESSAGE_REGISTERED: Zarejestrowano rajd!
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone
@@ -482,6 +493,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: Czy chcesz się tutaj wskrzesić? Będzie to koszt
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Musisz najpierw użyć perfum, aby zmienić opcję w przedmiocie.
 SHELLS_DIALOG_ADD_OPTIONS: Czy chcesz dodać opcję? Jeśli tak, ten przedmiot będzie przywiązany tylko do Ciebie.
 SHELLS_DIALOG_REPLACE_OPTIONS: Opcja zostanie zastąpiona nową. Masz 50% szans na powodzenie, w przeciwnym razie nowa osłona zostanie usunięta. Czy chcesz kontynuować?
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Osłona nie mogła zostać zidentyfikowana.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Osłona już jest zidentyfikowana!
 SHELLS_SHOUTMESSAGE_BROKEN: Osłona jest zepsuta, ponieważ uległa uszkodzeniu podczas wkładania.
 SHELLS_SHOUTMESSAGE_ERASED: Opcja została usunięta.

@@ -22,6 +22,7 @@ AMMO_LOADED_ADVENTURER: Steine wurden geladen.
 AMMO_LOADED_ARCHER: Pfeile wurden geladen.
 AMMO_LOADED_SWORDSMAN: Bolzen wurden geladen.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Du hast bereits bereits eine 'Cuarry Bank Debit Card' in deinem Inventar.
 BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
@@ -58,6 +59,8 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Die Schmuckoptionen sind bereits gefüllt!
 CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nicht erlaubte Zeichen in deinem Charakternamen!
+CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
 CLASS_NAME_ADVENTURER: Abenteurer
 CLASS_NAME_ARCHER: Bogenschütze
 CLASS_NAME_MAGE: Magier
@@ -66,9 +69,9 @@ CLASS_NAME_SWORDSMAN: Schwertkämpfer
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Du hast deine Sprache geändert:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Deine momentane Sprache ist
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Mögliche Befehle:'
-COMMANDS_CHATMESSAGE_HELP: '[Help command]'  #unsiche
+COMMANDS_CHATMESSAGE_HELP: '[Help command]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Undokummentiert.
-COMMANDS_CHATMESSAGE_USAGES: '[Command usage]' #unsicher
+COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
 COMMEND_CHATMESSAGE_COOLDOWN: Du kannst nur einen Spieler pro Tag loben.
 COMMEND_CHATMESSAGE_GIVEN: Spieler {0} wurde gelobt.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden loben kannst.
@@ -165,6 +168,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} wird in einer Minute beende
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Gruppe) [{0}x {1}] für: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Gruppe) [{0}x {1}] für jeden
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} hat deine Gruppeneinladung abgelehnt.'
+GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
 GROUP_DIALOG_INVITED_YOU: '{0} hat dir eine Gruppeneinladung geschickt'
 GROUP_INFO_ADMIN: Du bist jetzt der Gruppenleiter!
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits in einer Gruppe!
@@ -174,7 +178,12 @@ GROUP_INFO_JOIN: Du bist der Gruppe von {0} beigetreten!
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
 GROUP_INFO_NEW_LEADER: Du bist der neue Teamleiter!
 GROUP_INFO_REQUEST: Gruppenanfrage an {0} gesendet.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
 GROUP_SHOUTMESSAGE_SHARING: 'Loot sharing: Jeder'
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: Nach Reihenfolge'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
@@ -308,9 +317,10 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst den Gegenstand hier nicht fallen
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: '#ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF' #unsicher
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
@@ -431,6 +441,7 @@ PSP_MESSAGE_ONE_SKILL_RESET: Partnerfähigkeit wurde zurückgesetzt.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenko Soldat ist zu stark!
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald du sie begonnen hast. Trotzdem fortfahren?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert
@@ -454,7 +465,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Willst du den {0} Raid beginnen?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raid-Team eingeladen. Akzeptieren?'
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
-RAID_INFO_PLAYER_DEATH: '#RAID_INFO_PLAYER_DEATH' #unsicher
+RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits betätigt.
@@ -467,7 +478,7 @@ RAID_SHOUTMESSAGE_KICKED: Du wurdest gekickt
 RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH' #unsicher
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
@@ -482,6 +493,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saa
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
 SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
 SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
 SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
 SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
@@ -510,13 +522,13 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
 SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: '#SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID' #unsicher
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast erfolgreich {0} gefangen!
 SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Du musst ein höheres Level als das Monster besitzen, um es zu fangen!
 SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monster können nur mit weniger als 50% HP eingefangen werden.
-SKILL_SHOUTMESSAGE_SACRIFICE: '{0} opfert sich für {1}.' 
-SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Opferungseffekt aufgehoben, da sich der Spieler außerhalb der Reichweite befindet. 
+SKILL_SHOUTMESSAGE_SACRIFICE: '{0} opfert sich für {1}.'
+SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Opferungseffekt aufgehoben, da sich der Spieler außerhalb der Reichweite befindet.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Opferungseffekt fast aufgehoben, da sich der Spieler außerhalb der Reichweite befindet.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst abwarten, bis alle Abklingzeiten beendet wurden!
 SPEAKER_NAME: Lautsprecher

@@ -22,6 +22,7 @@ AMMO_LOADED_ADVENTURER: Ammo loaded!
 AMMO_LOADED_ARCHER: Arrow loaded!
 AMMO_LOADED_SWORDSMAN: Crossbow bolts loaded, Chaaaarge!
 ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
 BANK_DIALOG_ASK_DEPOSIT: Do you want to deposit {0}000 gold to your bank?
 BANK_DIALOG_ASK_WITHDRAW: Do you want to withdraw {0}000 gold from your bank account?
@@ -58,6 +59,8 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
 CELLON_SHOUTMESSAGE_SUCCESS: Option added.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
+CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
 CLASS_NAME_ADVENTURER: Adventurer
 CLASS_NAME_ARCHER: Archer
 CLASS_NAME_MAGE: Mage
@@ -165,6 +168,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
+GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
 GROUP_DIALOG_INVITED_YOU: '{0} sent you a group request'
 GROUP_INFO_ADMIN: You are the group admin now!
 GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
@@ -174,7 +178,12 @@ GROUP_INFO_JOIN: You joined the group of player {0}!
 GROUP_INFO_LEFT: You left the group.
 GROUP_INFO_NEW_LEADER: You are the new party leader!
 GROUP_INFO_REQUEST: Group request sent to player {0}.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
 GROUP_SHOUTMESSAGE_CLOSED: Group disbanded.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
 GROUP_SHOUTMESSAGE_SHARING: 'Loot sharing: everyone'
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: by order'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: You are not the group leader!
@@ -308,9 +317,10 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: '#ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF'
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
 MINIGAME_INFO_REFILL: 'Mini-game contribution: {0}'
@@ -431,6 +441,7 @@ PSP_MESSAGE_ONE_SKILL_RESET: Partner skill has been reset.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: This Kenko soldier is too strong!
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: You already completed this main quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: This quest has been already completed and it's not ready yet
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: You already have this quest
@@ -454,7 +465,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} joined the team.'
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
 RAID_INFO_NO_EXIST: Raid does not exist!
-RAID_INFO_PLAYER_DEATH: '#RAID_INFO_PLAYER_DEATH'
+RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
@@ -467,7 +478,7 @@ RAID_SHOUTMESSAGE_KICKED: You were kicked
 RAID_SHOUTMESSAGE_KICKED_OTHER: Player was kicked
 RAID_SHOUTMESSAGE_LEFT: '{0} left the team.'
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new team leader.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: '#RAID_SHOUTMESSAGE_PLAYER_DEATH'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Team is full
 RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets completed
@@ -482,6 +493,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: Do you want to revive? It will cost you {0} Seeds 
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to perfume the equipment first.
 SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
 SHELLS_DIALOG_REPLACE_OPTIONS: The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Do you want to continue?
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Options of this shell are already identified.
 SHELLS_SHOUTMESSAGE_BROKEN: The shell is broken because it has failed during adding.
 SHELLS_SHOUTMESSAGE_ERASED: The option has been erased.
@@ -510,7 +522,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: '#SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID'
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: You have successfully captured {0}!
 SKILL_SHOUTMESSAGE_LEARNED: You learned a new skill!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level of the monster must be lower than yours to capture it!
