@@ -136,6 +136,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
