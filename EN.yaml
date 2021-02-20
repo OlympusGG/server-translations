@@ -96,6 +96,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high fo
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to weapons and armors.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: This family member has already that authority.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Do you want to dismiss your family? It can't be undone.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Are you sure you want to join the family?
@@ -123,8 +124,10 @@ FAMILY_INFO_NO_FAMILY_RIGHT: You don't have sufficient rights.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: No family warehouse found.
 FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
 FAMILY_INFO_USED_DAILY_MESSAGE: Daily sentence has already been written today.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Deputy
 FAMILY_RANK_HEAD: Head
 FAMILY_RANK_KEEPER: Keeper
@@ -136,6 +139,8 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
+FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
@@ -518,9 +523,14 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: You can't open a shop during raid!
 SHOP_INFO_OPEN: Shop has been open!
 SHOP_INFO_TARGET_MAX_GOLD: The player has reached maximum gold amount.
 SHOP_LOG_SELL_ITEM_VALID: Transaction successful
+SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: You can't refund this skill!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: You need to wait for skill cooldowns to finish before learning new ones.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
