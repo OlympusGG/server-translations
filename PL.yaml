@@ -96,6 +96,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom tego Kamienia Wróżki jest zbyt
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Nie możesz umieścić więcej Kamieni Wróżek w tym przedmiocie.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Możesz umieścić Kamienie Wróżki tylko w broniach i zbrojach.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono rozszerzenie rodziny!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Członek rodziny już ma te same uprawnienia.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Czy na pewno chcesz rozwiązać rodzinę? Nie można tego cofnąć.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Czy na pewno chcesz dołączyć do rodziny?
@@ -123,8 +124,10 @@ FAMILY_INFO_NO_FAMILY_RIGHT: Nie posiadasz uprawnień.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
 FAMILY_INFO_NOT_FAMILY_HEAD: Nie jesteś szefem rodziny!
 FAMILY_INFO_NOT_IN_FAMILY: Nie jesteś w rodzinie!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: System rodziny aktualnie jest w trybie przerwy technicznej.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
 FAMILY_INFO_USED_DAILY_MESSAGE: Już użyto sentencji dnia.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Musisz kupić poprzednie rozszerzenie aby to kupić.
 FAMILY_RANK_DEPUTY: Zastępca
 FAMILY_RANK_HEAD: Szef
 FAMILY_RANK_KEEPER: Zarządca
@@ -136,6 +139,8 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Płeć głowy rodziny została zmieniona!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Osiągnięto {0} poziom rodziny!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Gracz {0} dołączył do rodziny.
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
+FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę rodziny? Koszt wynosi {0} szt. złota.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} zalogował się.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} wylogował się.'
@@ -518,9 +523,14 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Nie możesz otworzyć sklepu podczas rajdu!
 SHOP_INFO_OPEN: Sklep został otwarty!
 SHOP_INFO_TARGET_MAX_GOLD: Gracz posiada maksymalną ilość złota.
 SHOP_LOG_SELL_ITEM_VALID: Handel zakończony pomyślnie!
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Ta umiejętność została już nauczona.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nie możesz nauczyć sie umiejętności, gdy jesteś w trakcie transformacji.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musisz zakupić podstawową umiejętność dla tego ulepszenia.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Nie można zwrócić tej umiejętności!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Działanie umiejętności zostało przerwane.
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Czy na pewno chcesz zastąpić aktualne ulepszenie tego typu?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nie możesz nauczyć się tej umiejętnóści.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Aby nauczyć się nowej umiejętności, czas odnowy musi się zakończyć.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Nie udało się złapać stwora!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nie możesz złapać tego stwora!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Nie możesz łapać zwierząt podczas rajdu!

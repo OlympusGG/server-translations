@@ -96,6 +96,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe dieses Feensteins ist zu hoch
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Du kannst diesem Gegenstand keine weiteren Feensteine verleihen.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Du kannst Feensteine nur in Waffen und Rüstungen einfügen.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses Familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Willst du deine Familie auflösen? Es kann nicht rückgängig gemacht werden.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
@@ -123,8 +124,10 @@ FAMILY_INFO_NO_FAMILY_RIGHT: Du hast nicht die benötigten Rechte.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Kein Familienlager gefunden.
 FAMILY_INFO_NOT_FAMILY_HEAD: Du bist nicht das Familienoberhaupt!
 FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Vertreter
 FAMILY_RANK_HEAD: Oberhaupt
 FAMILY_RANK_KEEPER: Verwalter
@@ -136,7 +139,9 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht ge
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Die Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: '#FAMILYARENA_INFO_ASK_ENTER'
+FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
+FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
+FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ist nun im Spiel.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat das Spiel beendet.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
@@ -518,9 +523,14 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst keinen Laden während eines Raid öffne
 SHOP_INFO_OPEN: Der Laden wurde geöffnet!
 SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
+SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: You need to wait for skill cooldowns to finish before learning new ones.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
