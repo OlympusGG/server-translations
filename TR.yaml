@@ -22,7 +22,7 @@ AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
 AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
 ARENA_INFO_ASK_ENTER: '{0} altın karşılığında bireysel arenaya girmek istiyor musun?'
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} {1} tarafından öldürüldü.'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Zaten Cuarry Banka Kartına sahipsin.
 BANK_DIALOG_ASK_DEPOSIT: Banka hesabına {0}000 altın yatırmak istiyor musun?
 BANK_DIALOG_ASK_WITHDRAW: Banka hesabından {0}000 altın çekmek istiyor musun?
@@ -59,8 +59,8 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuarın Cellon yuvaları zaten dolu.
 CELLON_SHOUTMESSAGE_SUCCESS: Seçenek eklendi.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Bu karakter adı başkası tarafından kullanılıyor!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
-CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
-CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_FAILED: Karakterin silinemedi. Lütfen Tekrar dene.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Karakterin silinemedi. Lütfen Tekrar dene.
 CLASS_NAME_ADVENTURER: Maceracı
 CLASS_NAME_ARCHER: Okçu
 CLASS_NAME_MAGE: Büyücü
@@ -96,7 +96,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Peri Taşının seviyesi bu teçhizat i
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Bu teçhizata daha fazla Peri Taşı işleyemezsin.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Peri Taşlarını sadece silahlara ve zırhlara işleyebilirsin.
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile geliştirmesi alındı!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Aile üyesi zaten bu yetkiye sahip.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Aileni dağıtmak mı istiyorsun? Bu işlem geri alınamaz.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Aileye katılmak istediğine emin misin?
@@ -127,7 +127,7 @@ FAMILY_INFO_NOT_IN_FAMILY: Bir ailede değilsin!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Yalnızca temsilciler aile başkanı olarak atanabilir.
 FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün)
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Bunu almak için önceki geliştirmeye ihtiyacın var.
 FAMILY_RANK_DEPUTY: Temsilci
 FAMILY_RANK_HEAD: Başkan
 FAMILY_RANK_KEEPER: İdareci
@@ -141,7 +141,7 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} aileye katıldı!'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
 FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
+FAMILYARENA_INFO_ASK_ENTER: '{0} altın karşılığında aile arenasına girmek istiyor musun?'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: '{0} ile arkadaş olmak istiyor musun?'
@@ -174,7 +174,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} bir dakika içinde bitecek.
 GROUP_CHATMESSAGE_DROP_ORDERED: (Grup) {2} için [{0}x {1}]
 GROUP_CHATMESSAGE_DROP_SHARED: (Grup) Herkes için [{0}x {1}]
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} grup isteğini reddetti.'
-GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
+GROUP_DIALOG_ASK_SHARE_POINT: '{0} geri dönüş noktasını paylaştı. Değiştirmek istiyor musun?'
 GROUP_DIALOG_INVITED_YOU: '{0} ile grup kurmak istiyor musun?'
 GROUP_INFO_ADMIN: Grubun lideri sensin!
 GROUP_INFO_ALREADY_IN_GROUP: Zaten bir gruptasın.
@@ -184,12 +184,12 @@ GROUP_INFO_JOIN: "{0}'in grubuna katıldın!"
 GROUP_INFO_LEFT: Gruptan ayrıldın.
 GROUP_INFO_NEW_LEADER: Grubun yeni lideri sensin!
 GROUP_INFO_REQUEST: 'Grup daveti gönderildi: {0}'
-GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Geri dönüş noktanızı grup üyeleriyle paylaşmayı teklif ettin.
 GROUP_SHOUTMESSAGE_CLOSED: Grup dağıtıldı.
-GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} geri dönüş noktasını değiştirdi.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} geri dönüş noktasını değiştirmeyi reddetti.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Geri dönüş noktanı grubununkiyle değiştirdin.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Geri dönüş noktanı değiştirmeyi reddettin.
 GROUP_SHOUTMESSAGE_SHARING: Ganimetler paylaşılıyor.
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: Ganimetler sırayla dağıtılıyor.
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Grubun lideri sen değilsin.
@@ -499,7 +499,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: '{0} Güç Tohumu karşılığında yeniden canlan
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Midyeyi değiştirmek için önce parfüm kullanarak kendine bağlamalısın.
 SHELLS_DIALOG_ADD_OPTIONS: Midyeyi işlemek istiyor musun? Bunu yaparsan eşya karakterine bağlanacak.
 SHELLS_DIALOG_REPLACE_OPTIONS: '%50 şansla bu midyeyi teçhizatına işlemek istiyor musun? Başarısız olursan midyeni kaybedeceksin.'
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Midye tanımlanamadı.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Bu midyenin seçenekleri zaten tanımlanmış.
 SHELLS_SHOUTMESSAGE_BROKEN: İşlem başarısız olduğu için midye kırıldı.
 SHELLS_SHOUTMESSAGE_ERASED: Midye seçenekleri silindi.
@@ -523,14 +523,14 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Akın üyeleri dükkan açamaz.
 SHOP_INFO_OPEN: Dükkan açıldı.
 SHOP_INFO_TARGET_MAX_GOLD: Dükkan sahibi maksimum altın limitine ulaştı!
 SHOP_LOG_SELL_ITEM_VALID: Alışveriş başarılı
-SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
-SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
-SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Bu yeteneğe zaten sahipsin.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Dönüşüm halindeyken yetenek öğrenemezsin.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Önce temel yeteneği öğrenmen gerek.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Yetenek silinemez!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Büyü uygulaması kesildi.
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Bu yeteneği öğrenemezsin!
-SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: You need to wait for skill cooldowns to finish before learning new ones.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Yeni yetenek öğrenmek için kullanım sürelerinin dolmasını beklemelisin. 
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Evcilleştirme başarısız!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Bu canavarı evcilleştiremezsin!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Bu canavarı akın sırasında evcilleştiremezsin!
