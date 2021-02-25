@@ -473,6 +473,13 @@ RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raid-Team eingeladen. Akzeptieren?
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
 RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
+RAID_NAME_CASTRA: Dark Castra
+RAID_NAME_CHICKENKING: Chicken King
+RAID_NAME_CUBY: Mother Cuby
+RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
+RAID_NAME_GINSENG: Ginseng
+RAID_NAME_NAMAJU: Namaju
+RAID_NAME_SLADE: Massive Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits betätigt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, während du Teil einer Gruppe bist.
