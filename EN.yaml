@@ -127,6 +127,9 @@ FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
 FAMILY_INFO_USED_DAILY_MESSAGE: Daily sentence has already been written today.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Deputy
 FAMILY_RANK_HEAD: Head
@@ -139,8 +142,6 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
@@ -289,12 +290,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item? This
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items - {0}x {1}.
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Adventurers can't use this item!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: The item can't contains the shells!
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: You can't use Speech Bubble!
 ITEM_CHATMESSAGE_CANT_USE_THAT: You can't use that.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already have {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: The {0} effect has been activated!
 ITEM_CHATMESSAGE_NO_GILLION: You don't have enough Gillion Stone!
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Speaker can't be used!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Item's ({0}) duration has expired.
 ITEM_CHATMESSAGE_UNFIXED: Your item is no longer level fixed!
 ITEM_DIALOG_ASK_BIND: Do you want to wear that item? It will bind this item to your character and make it unavailable for trading.

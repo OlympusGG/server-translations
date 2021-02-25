@@ -127,6 +127,9 @@ FAMILY_INFO_NOT_IN_FAMILY: Nie jesteś w rodzinie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: System rodziny aktualnie jest w trybie przerwy technicznej.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
 FAMILY_INFO_USED_DAILY_MESSAGE: Już użyto sentencji dnia.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nie możesz dodać tego przedmiotu do magazynu rodziny!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nie masz wystarczających uprawnień aby to zrobić.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Musisz kupić poprzednie rozszerzenie aby to kupić.
 FAMILY_RANK_DEPUTY: Zastępca
 FAMILY_RANK_HEAD: Szef
@@ -139,8 +142,6 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Płeć głowy rodziny została zmieniona!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Osiągnięto {0} poziom rodziny!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Gracz {0} dołączył do rodziny.
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę rodziny? Koszt wynosi {0} szt. złota.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} zalogował się.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} wylogował się.'
@@ -289,12 +290,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: Czy na pewno chcesz usunąc ten przedmiot? Tej 
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nie masz wystarczająco przedmiotów - {0}x {1}
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Poszukiwacze Przygód nie mogą użyć tego przedmiotu!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Nie możesz użyć dymka.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Nie możesz tego użyć.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ posiadasz już efekt {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Nie można użyć głośnika!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
 ITEM_CHATMESSAGE_UNFIXED: Odblokowano utrwalony przedmiot.
 ITEM_DIALOG_ASK_BIND: Czy chcesz założyć ten przedmiot? Po założeniu nie będzie już zdatny do handlu.

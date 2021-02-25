@@ -127,6 +127,9 @@ FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Vertreter
 FAMILY_RANK_HEAD: Oberhaupt
@@ -139,8 +142,6 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht ge
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Die Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ist nun im Spiel.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat das Spiel beendet.'
@@ -289,12 +290,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand l
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht ausreichend Gegenstände
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Abenteurer können diesen Gegenstand nicht benutzen!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Auf diesen Gegenstand ist keine Muschel anwendbar!
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Du kannst die Sprechblase nicht benutzen!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da du bereits unter dem Effekt {0} stehst.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Lautsprecher kann nicht benutzt werden!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Haltbarkeit des Items {0} ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstandes ist nicht mehr fixiert!
 ITEM_DIALOG_ASK_BIND: Willst du diesen Gegenstand tragen? Hierdurch wird der Gegenstand an deinen Charakter gebunden und nicht mehr handelbar sein.

@@ -127,6 +127,9 @@ FAMILY_INFO_NOT_IN_FAMILY: Tu n'es pas dans une famille.
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ce joueur doit être assistant.
 FAMILY_INFO_USED_DAILY_MESSAGE: La phrase du jour a déjà été rédigée aujourd'hui.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Assistant
 FAMILY_RANK_HEAD: Tête
@@ -139,8 +142,6 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0} !
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} a rejoint la famille !'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} est hors ligne.'
@@ -289,12 +290,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: L'objet sera perdu à jamais, es-tu vraiment s�
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0}x {1}.
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Les aventuriers ne peuvent pas utiliser cet objet!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'objet ne peux pas contenir de runes
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Tu ne peux pas utiliser de bulle de texte.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'objet davantage.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé!
 ITEM_CHATMESSAGE_NO_GILLION: Tu n'as pas suffisament de pierres Gillion !
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: L'orateur ne peut pas être utilisé !
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durée d'effet ({0}) a expiré.
 ITEM_CHATMESSAGE_UNFIXED: Le niveau de l'objet n'est plus fixe !
 ITEM_DIALOG_ASK_BIND: Es-tu sûr de vouloir te lier à cet objet ? Il ne sera plus échangeable.

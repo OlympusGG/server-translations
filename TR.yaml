@@ -127,6 +127,9 @@ FAMILY_INFO_NOT_IN_FAMILY: Bir ailede değilsin!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Yalnızca temsilciler aile başkanı olarak atanabilir.
 FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün)
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Bunu almak için önceki geliştirmeye ihtiyacın var.
 FAMILY_RANK_DEPUTY: Temsilci
 FAMILY_RANK_HEAD: Başkan
@@ -139,8 +142,6 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Aile başkanı cinsiyeti değiştirildi.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: 'Aile seviye atladı: {0}!'
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} aileye katıldı!'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: '{0} altın karşılığında aile arenasına girmek istiyor musun?'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
@@ -289,12 +290,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: Eşyayı silmek istediğine emin misin? Bu işl
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Yetersiz eşya - {0}x {1}.
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Maceracılar bunu kullanamaz!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Bu eşyaya midye işlenemez!
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Konuşma Balonu kullanamazsın!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: Hoparlör kullanamazsın!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
 ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
 ITEM_DIALOG_ASK_BIND: Bu eşyayı karakterine bağlamak istediğine emin misin? Karakterine bağlı eşyalar takaslanamaz!
