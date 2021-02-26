@@ -95,6 +95,7 @@ FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Nie możesz umieścić Kamieni Wróżki do
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom tego Kamienia Wróżki jest zbyt wysoki dla tego przedmiotu.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Nie możesz umieścić więcej Kamieni Wróżek w tym przedmiocie.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Możesz umieścić Kamienie Wróżki tylko w broniach i zbrojach.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono rozszerzenie rodziny!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Członek rodziny już ma te same uprawnienia.
@@ -136,6 +137,7 @@ FAMILY_RANK_HEAD: Szef
 FAMILY_RANK_KEEPER: Zarządca
 FAMILY_RANK_MEMBER: Członek
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodzina już jest w tej frakcji.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Czas odnowienia zmiany rodzinnej frakcji jeszcze nie minął.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Zmieniono szefa rodziny.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodzina "{0}" została założona!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Płeć głowy rodziny została zmieniona!
@@ -196,6 +198,46 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Dziele łupów: kolejność'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Nie jesteś liderem grupy!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Próba nie udana! Spróbuj ponownie za {0} sek.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Próba nie udana
+IC_1_49_W1_TITLE: Fala 1 - Słabiaki!
+IC_1_49_W2_TITLE: Fala 2 - Zielone
+IC_1_49_W3_TITLE: Fala 3 - Czerwone
+IC_1_49_W4_TITLE: Fala 4 - Żółte
+IC_1_49_W5_TITLE: Fala 5 - Latające
+IC_50_59_W1_TITLE: Fala 1 - Pomniejsze Demony
+IC_50_59_W2_TITLE: Fala 2 - Uciekaj!
+IC_50_59_W3_TITLE: Fala 3 - Większe Demony
+IC_50_59_W4_TITLE: Fala 4 - Kreatury Kremu
+IC_50_59_W5_TITLE: Fala 5 - Pająki
+IC_60_69_W1_TITLE: Fala 1 - Duchy
+IC_60_69_W2_TITLE: Fala 2 - Catsy
+IC_60_69_W3_TITLE: Fala 3 - Loch BDSM
+IC_60_69_W4_TITLE: Fala 4 - Miedziane Kulki
+IC_60_69_W5_TITLE: Fala 5 - Rycerze Piekła
+IC_70_79_W1_TITLE: Fala 1 - Las Jodłowy
+IC_70_79_W2_TITLE: Fala 2 - Las Klonowy
+IC_70_79_W3_TITLE: Fala 3 - Wilgotne Jaskinie
+IC_70_79_W4_TITLE: Fala 4 - Seli-Lusha
+IC_70_79_W5_TITLE: Fala 5 - Rycerze Nieba
+IC_80_89_W1_TITLE: Fala 1 - Slade!
+IC_80_89_W2_TITLE: Fala 2 - Zombie!
+IC_80_89_W3_TITLE: Fala 3 - Większe Pustynniaki
+IC_80_89_W4_TITLE: Fala 4 - Piaskowe Pomioty
+IC_80_89_W5_TITLE: Fala 5 - Siły Shaya
+IC_90_150_0_24H_W1_TITLE: Fala 1 - Świątynia Agonii
+IC_90_150_0_24H_W2_TITLE: Fala 2 - Wulkaniczna Erupcja
+IC_90_150_0_24H_W3_TITLE: Fala 3 - Płonący Miecz
+IC_90_150_0_24H_W4_TITLE: Fala 4 - Bramy Piekła
+IC_90_150_0_24H_W5_TITLE: Fala 5 - Bramy Nieba
+IC_90_150_25_44H_W1_TITLE: Fala 1 - Ruiny Nieba
+IC_90_150_25_44H_W2_TITLE: Fala 2 - Ruiny Piekła
+IC_90_150_25_44H_W3_TITLE: Fala 3 - Posterunek Zelotów
+IC_90_150_25_44H_W4_TITLE: Fala 4 - Posterunek Krzyżowców
+IC_90_150_25_44H_W5_TITLE: Fala 5 - Miejsce Spoczynku Ancelloan
+IC_90_150_45_70H_W1_TITLE: Fala 1 - Nieznanokrainowcy!
+IC_90_150_45_70H_W2_TITLE: Fala 2 - Pomioty Piekła
+IC_90_150_45_70H_W3_TITLE: Fala 3 - Wilgotne Kreatury
+IC_90_150_45_70H_W4_TITLE: Fala 4 - Orkowie
+IC_90_150_45_70H_W5_TITLE: Fala 5 - Chłodne Miejsce...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Nie możesz odmrozić tej osoby!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Jesteś za daleko by odmrażać!
 ICEBREAKER_NAME: Lodołamacz
