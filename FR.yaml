@@ -95,6 +95,7 @@ FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: La niveau de cette pierre de fée est trop élévé pour cet objet.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Tu ne peux pas insérer davantage de pierres de fée dans cet objet.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Seuls les armes et les armures peuvent recevoir une pierre de fée.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté(e)"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Ce membre a déjà ce rôle.
@@ -127,20 +128,22 @@ FAMILY_INFO_NOT_IN_FAMILY: Tu n'es pas dans une famille.
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ce joueur doit être assistant.
 FAMILY_INFO_USED_DAILY_MESSAGE: La phrase du jour a déjà été rédigée aujourd'hui.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
 FAMILY_RANK_DEPUTY: Assistant
 FAMILY_RANK_HEAD: Tête
 FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiée.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0} !
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} a rejoint la famille !'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT: '#FAMILY_SMEMO_UPGRADE_ALREADY_BOUGHT'
-FAMILY_SMEMO_UPGRADE_BOUGHT: '#FAMILY_SMEMO_UPGRADE_BOUGHT'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} est hors ligne.'
@@ -195,6 +198,46 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Distribution des butins : Dans l'ordre"
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Tu n'es pas le chef du groupe !
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: La tentative a échoué! Réessaye après {0} secondes.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Malheureusement, la tentative a échoué.
+IC_1_49_W1_TITLE: Wave 1 - Weaklings!
+IC_1_49_W2_TITLE: Wave 2 - Greens
+IC_1_49_W3_TITLE: Wave 3 - Reds
+IC_1_49_W4_TITLE: Wave 4 - Yellows
+IC_1_49_W5_TITLE: Wave 5 - Flyings
+IC_50_59_W1_TITLE: Wave 1 - Lesser Demons
+IC_50_59_W2_TITLE: Wave 2 - Run!
+IC_50_59_W3_TITLE: Wave 3 - Greater Demons
+IC_50_59_W4_TITLE: Wave 4 - Krem Creatures
+IC_50_59_W5_TITLE: Wave 5 - Spiders
+IC_60_69_W1_TITLE: Wave 1 - Ghosts
+IC_60_69_W2_TITLE: Wave 2 - Catsy
+IC_60_69_W3_TITLE: Wave 3 - BDSM Dungeon
+IC_60_69_W4_TITLE: Wave 4 - Copper Balls
+IC_60_69_W5_TITLE: Wave 5 - Knights of Hell
+IC_70_79_W1_TITLE: Wave 1 - Fir Forest
+IC_70_79_W2_TITLE: Wave 2 - Maple Woods
+IC_70_79_W3_TITLE: Wave 3 - Moist Caves
+IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
+IC_70_79_W5_TITLE: Wave 5 - Knights of Heaven
+IC_80_89_W1_TITLE: Wave 1 - Slades!
+IC_80_89_W2_TITLE: Wave 2 - Zombies!
+IC_80_89_W3_TITLE: Wave 3 - Greater Desertlings
+IC_80_89_W4_TITLE: Wave 4 - Sandspawns
+IC_80_89_W5_TITLE: Wave 5 - Shay's Forces
+IC_90_150_0_24H_W1_TITLE: Wave 1 - Temple of Agony
+IC_90_150_0_24H_W2_TITLE: Wave 2 - Volcanic Eruption
+IC_90_150_0_24H_W3_TITLE: Wave 3 - Flaming Sword
+IC_90_150_0_24H_W4_TITLE: Wave 4 - Gates of Hell
+IC_90_150_0_24H_W5_TITLE: Wave 5 - Gates of Heaven
+IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruins of Heaven
+IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruins of Hell
+IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Outpost!
+IC_90_150_25_44H_W4_TITLE: Wave 4 - Crusaders' Outpost!
+IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rest Place
+IC_90_150_45_70H_W1_TITLE: Wave 1 - Unknownlanders!
+IC_90_150_45_70H_W2_TITLE: Wave 2 - Hellspawns
+IC_90_150_45_70H_W3_TITLE: Wave 3 - Moist Creatures
+IC_90_150_45_70H_W4_TITLE: Wave 4 - Orcs
+IC_90_150_45_70H_W5_TITLE: Wave 5 - A Chill Place...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Tu ne peux pas dégeler le joueur que tu as tué.
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Tu es trop loin pour dégeler !
 ICEBREAKER_NAME: Icebreaker
@@ -289,12 +332,11 @@ INVENTORY_DIALOG_SURE_TO_DELETE: L'objet sera perdu à jamais, es-tu vraiment s�
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0}x {1}.
 ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Les aventuriers ne peuvent pas utiliser cet objet!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'objet ne peux pas contenir de runes
-ITEM_CHATMESSAGE_CANT_USE_SPEECH_BUBBLE: Tu ne peux pas utiliser de bulle de texte.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'objet davantage.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé!
 ITEM_CHATMESSAGE_NO_GILLION: Tu n'as pas suffisament de pierres Gillion !
-ITEM_CHATMESSAGE_SPEAKER_CANT_BE_USED: L'orateur ne peut pas être utilisé !
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durée d'effet ({0}) a expiré.
 ITEM_CHATMESSAGE_UNFIXED: Le niveau de l'objet n'est plus fixe !
 ITEM_DIALOG_ASK_BIND: Es-tu sûr de vouloir te lier à cet objet ? Il ne sera plus échangeable.
@@ -473,6 +515,13 @@ RAID_DIALOG_INVITED_YOU: Souhaites-tu rejoindre l'équipe de raid de {0} ?
 RAID_INFO_NO_EXIST: Ce raid n'existe pas !
 RAID_INFO_PLAYER_DEATH: Tu es mort ! Tu ressusciteras dans 20 secondes.
 RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
+RAID_NAME_CASTRA: Dark Castra
+RAID_NAME_CHICKENKING: Chicken King
+RAID_NAME_CUBY: Mother Cuby
+RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
+RAID_NAME_GINSENG: Ginseng
+RAID_NAME_NAMAJU: Namaju
+RAID_NAME_SLADE: Massive Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Cet objet a déjà été bougé.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Tu ne peux pas créer un raid en étant dans un groupe.
