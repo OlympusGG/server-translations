@@ -138,6 +138,7 @@ FAMILY_RANK_KEEPER: Zarządca
 FAMILY_RANK_MEMBER: Członek
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodzina już jest w tej frakcji.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Czas odnowienia zmiany rodzinnej frakcji jeszcze nie minął.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Musisz odczekać 24 godziny aby ponownie dołączyć do rodziny.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Zmieniono szefa rodziny.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodzina "{0}" została założona!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Płeć głowy rodziny została zmieniona!
@@ -330,7 +331,6 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0}'
 INVENTORY_DIALOG_ASK_TO_DELETE: Czy chcesz usunąć ten przedmiot?
 INVENTORY_DIALOG_SURE_TO_DELETE: Czy na pewno chcesz usunąc ten przedmiot? Tej akcji nie da się cofnąć i przedmiot zostanie usunięty na zawsze.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nie masz wystarczająco przedmiotów - {0}x {1}
-ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Poszukiwacze Przygód nie mogą użyć tego przedmiotu!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Nie możesz tego użyć.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ posiadasz już efekt {0}.
@@ -353,12 +353,10 @@ ITEM_MESSAGE_CANT_USE: Nie możesz użyć tego przedmiotu.
 ITEM_MESSAGE_CANT_WEAR: Nie możesz założyć tego przedmiotu.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Twój partner nie może założyć tego przedmiotu.
 ITEM_MESSAGE_ERASER_NO_SHELL: Przedmiot nie posiada żadnych osłon.
-ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: Nie możesz zmienić frakcji będąc w rodzinie.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nie możesz ulepszyć zniszczonej Karty Specjalisty.
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nie możesz założyć zniszczonej Karty Specjalisty
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Nie możesz użyć osobistego jajka, gdy jesteś w rodzinie.
-ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: Nie możesz użyć Jajka Rodziny, nie będąc w rodzinie.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Atrybut wróżki różni się od atrybutu specjalisty.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
@@ -389,7 +387,6 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Pozostały czas kary: {0}'
-MUTE_INFO_PLAYER_MUTE: 'Zostałeś wyciszony na: {0}'
 MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
@@ -487,6 +484,7 @@ PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Czy chcesz tę zresetować umiejętność?
 PSP_MESSAGE_ALL_SKILLS_RESET: Wszystkie umiejętności partnera zostały zresetowane.
 PSP_MESSAGE_ONE_SKILL_RESET: Umiejętność partnera została zresetowana.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Możesz odebrać nową misję u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Czy chcesz zostać przeteleportowany?
@@ -532,6 +530,7 @@ RAID_SHOUTMESSAGE_IN_GROUP: Nie możesz dołączyć do rajdu będąc w grupie.
 RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
 RAID_SHOUTMESSAGE_LEFT: '{0} opuścił drużynę'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Wrogowie otrzymują posiłki!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Członek rajdu {0} zginął.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna jest pełna

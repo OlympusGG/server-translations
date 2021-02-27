@@ -138,6 +138,7 @@ FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiée.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
@@ -330,7 +331,6 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
 INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
 INVENTORY_DIALOG_SURE_TO_DELETE: L'objet sera perdu à jamais, es-tu vraiment sûr de vouloir le supprimer ?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0}x {1}.
-ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Les aventuriers ne peuvent pas utiliser cet objet!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'objet ne peux pas contenir de runes
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'objet davantage.
@@ -353,12 +353,10 @@ ITEM_MESSAGE_CANT_USE: Tu ne peux pas utiliser cet objet.
 ITEM_MESSAGE_CANT_WEAR: Tu ne peux pas t'équiper de cet objet.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas s'équiper de cet objet.
 ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas de rune à effacer.
-ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: Tu ne peux pas changer ta faction dans une famille.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas t'équiper d'une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Tu as fabriqué {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Tu ne peux pas utiliser d'oeuf de faction individuel dans une famille.
-ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: Tu ne peux pas utiliser d'oeuf de faction familial sans être dans une famille.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'élément de la fée est différent de l'élément de la carte spécialiste !
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
@@ -389,7 +387,6 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
 MUTE_CHATMESSAGE_TIME_LEFT: 'Temps de sourdine restant : {0}'
-MUTE_INFO_PLAYER_MUTE: 'Tu as été mis sous sourdine pour : {0}'
 MUTE_MESSAGE_FEMALE: J'ai été une vilaine fille donc j'ai été punie !
 MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
@@ -487,6 +484,7 @@ PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Es-tu sûr de vouloir réinitialiser cette co
 PSP_MESSAGE_ALL_SKILLS_RESET: Les compétences de ton partenaire ont été réinitialisées.
 PSP_MESSAGE_ONE_SKILL_RESET: La compétence de ton partenaire a été réinitialisée.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ce soldat Kenko est trop fort !
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Tu ne pourras pas abandonner la quête une fois commencée. Continuer ?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
@@ -532,6 +530,7 @@ RAID_SHOUTMESSAGE_IN_GROUP: Tu ne peux pas rejoindre une équipe de raid en éta
 RAID_SHOUTMESSAGE_KICKED: Tu as été expulsé de l'équipe.
 RAID_SHOUTMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
 RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe."
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe."
 RAID_SHOUTMESSAGE_PLAYER_DEATH: '{0} est mort.'
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe est complète.

@@ -138,6 +138,7 @@ FAMILY_RANK_KEEPER: Keeper
 FAMILY_RANK_MEMBER: Member
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: The family is already of that faction!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Family head changed.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: The family '{0}' was founded!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
@@ -330,7 +331,6 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
 INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
 INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items
-ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Adventurers can't use this item!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: The item can't contains the shells!
 ITEM_CHATMESSAGE_CANT_USE_THAT: You can't use that.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already have {0} buff.
@@ -353,12 +353,10 @@ ITEM_MESSAGE_CANT_USE: You can't use this item.
 ITEM_MESSAGE_CANT_WEAR: You can't wear this item.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Your partner can't wear this item.
 ITEM_MESSAGE_ERASER_NO_SHELL: You can't erase shell options because there aren't any.
-ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: You can't change your faction while in family.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: You can't upgrade Specialist Card with a dead soul!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: You can't wear destroyed Specialist Card.
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: You have crafted {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use indivindual faction egg when you're in a family.
-ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: You can't use family faction egg when you don't have a family.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different from the SP element!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
@@ -389,7 +387,6 @@ MINILAND_SHOUTMESSAGE_PRIVATE: The mini-land is now private.
 MINILAND_SHOUTMESSAGE_PUBLIC: The mini-land is now public.
 MINILAND_WELCOME_MESSAGE: Welcome!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Remaining punishment duration: {0}'
-MUTE_INFO_PLAYER_MUTE: 'You got punished for: {0}'
 MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
 MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
@@ -487,6 +484,7 @@ PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Do you want to reset this skill?
 PSP_MESSAGE_ALL_SKILLS_RESET: All partner skills have been reset.
 PSP_MESSAGE_ONE_SKILL_RESET: Partner skill has been reset.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: This Kenko soldier is too strong!
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
@@ -532,6 +530,7 @@ RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
 RAID_SHOUTMESSAGE_KICKED: You were kicked
 RAID_SHOUTMESSAGE_KICKED_OTHER: Player was kicked
 RAID_SHOUTMESSAGE_LEFT: '{0} left the team.'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new team leader.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Team is full

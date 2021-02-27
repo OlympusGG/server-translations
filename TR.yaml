@@ -138,6 +138,7 @@ FAMILY_RANK_KEEPER: İdareci
 FAMILY_RANK_MEMBER: Üye
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Aile zaten bu koruma gücüne sahip.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Aile başkanı değiştirildi.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: '{0} ailesi kuruldu!'
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Aile başkanı cinsiyeti değiştirildi.
@@ -330,7 +331,6 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Bir eşya aldın: {1} x{0}'
 INVENTORY_DIALOG_ASK_TO_DELETE: Eşyayı silmek istiyor musun?
 INVENTORY_DIALOG_SURE_TO_DELETE: Eşyayı silmek istediğine emin misin? Bu işlem geri alınamaz!
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Yetersiz eşya - {0}x {1}.
-ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Maceracılar bunu kullanamaz!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Bu eşyaya midye işlenemez!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
@@ -353,12 +353,10 @@ ITEM_MESSAGE_CANT_USE: Bu eşyayı kullanmazsın.
 ITEM_MESSAGE_CANT_WEAR: Bu eşyayı giyemezsin.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Partnerin bu eşyayı giyemez.
 ITEM_MESSAGE_ERASER_NO_SHELL: Silgi sadece midye işlenmiş teçhizatta kullanılabilir.
-ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: Aile üyeleri kendi koruma güçlerini değiştiremezler.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Ruhu yok olmuş Uzmanlık Kartlarını geliştiremezsin.
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Ruhu yok olmuş Uzmanlık Kartlarını kuşanamazsın.
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: '{1}x {0} ürettin.'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Bir ailedeyken bireysel koruyucu güç yumurtalarını kullanamazsın.
-ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: Bunu sadece aile başkanları kullanabilir.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Perinin elementi Uzmanlık Kartınınkiyle uyumsuz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.
@@ -389,7 +387,6 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland arkadaşlarına özel.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland herkese açık.
 MINILAND_WELCOME_MESSAGE: Hoş geldiniz!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Kalan ceza süresi: {0}'
-MUTE_INFO_PLAYER_MUTE: 'Cezalandırıldınız. Ceza süresi: {0}'
 MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
@@ -487,6 +484,7 @@ PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Bu yeteneği sıfırlamak istiyor musun?
 PSP_MESSAGE_ALL_SKILLS_RESET: Partnerin tüm yetenekleri sıfırlandı.
 PSP_MESSAGE_ONE_SKILL_RESET: Yetenek sıfırlandı.
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
@@ -532,6 +530,7 @@ RAID_SHOUTMESSAGE_IN_GROUP: Gruptayken akın takımına katılamazsın.
 RAID_SHOUTMESSAGE_KICKED: Akın takımından kovuldun!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
 RAID_SHOUTMESSAGE_LEFT: '{0} takımdan ayrıldı.'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
 RAID_SHOUTMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Takım üyesi {0} öldü.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Akın takımı dolu!
