@@ -479,10 +479,44 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
 PORTAL_CHATMESSAGE_TOO_EARLY: You will be able to move shortly.
+PSP_AEGIR: Aegir the Angry
+PSP_AMON: Overseer Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Archdaemon Amon
+PSP_BARNI: Barni the Clever
+PSP_CHEONGBI: Imp Cheongbi
+PSP_CHLOE: Cowgirl Chloe
+PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Do you want to reset this skill?
+PSP_ELIZA: Ice Princess Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya the Fateful
+PSP_GUARDIAN_LUCIFER: Guardian Lucifer
+PSP_HARLEQUIN: Harlequin
+PSP_HONGBI: Imp Hongbi
+PSP_JINN: Jinn
+PSP_LAURENA: Witch Laurena
+PSP_LOTUS: Lotus the Graceful
+PSP_LUCIFER: Archangel Lucifer
+PSP_LUCY: Lucy Lopears
+PSP_MACAVITY: Test Subject
+PSP_MAD_MARCH_HARE: Mad March Hare
+PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: All partner skills have been reset.
 PSP_MESSAGE_ONE_SKILL_RESET: Partner skill has been reset.
+PSP_MOTHER_MARU: Maru in Mother's Fur
+PSP_NELIA: Nelia Nymph
+PSP_ORKANI: Orkani the Turbulent
+PSP_PALINA: Palina Puppet Master
+PSP_PERTI: One-Winged Angel Perti
+PSP_PHARAOH: Akhenaton the Cursed Pharaoh
+PSP_RAGNAR: Bone Warrior Ragnar
+PSP_SHERIFF_CHLOE: Sheriff Chloe
+PSP_SHINOBI: Shinobi the Silent
+PSP_VENUS: Little Princess Venus
+PSP_YUNA: Magic Student Yuna
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: This Kenko soldier is too strong!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
