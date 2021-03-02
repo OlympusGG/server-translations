@@ -277,8 +277,6 @@ INFORMATION_MESSAGE_USER_NOT_CONNECTED: User is not connected.
 INFORMATION_MESSAGE_USER_NOT_FOUND: User not found!
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Your class has been changed.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Your equipment is not empty!
-INFORMATION_SHOUTMESSAGE_EXPEVENT_DISABLED: EXP Event has been disabled.
-INFORMATION_SHOUTMESSAGE_EXPEVENT_ENABLED: EXP Event has been enabled!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Your {0} has leveled up!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: Your {0} has reached its highest level!
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: You can't perform this action as a Game Master.
@@ -366,6 +364,12 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
+MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Do you have any payment or in-game issue? Check out our Support Discord server: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.

@@ -277,8 +277,6 @@ INFORMATION_MESSAGE_USER_NOT_CONNECTED: Ce joueur n'est pas connecté.
 INFORMATION_MESSAGE_USER_NOT_FOUND: Joueur introuvable !
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tu as changé de classe.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tu as encore de l'équipement sur toi !
-INFORMATION_SHOUTMESSAGE_EXPEVENT_DISABLED: L'évènement d'expérience a débuté.
-INFORMATION_SHOUTMESSAGE_EXPEVENT_ENABLED: L'évènement d'expérience est terminé.
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} a progressé !'
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} a atteint le niveau maximal !'
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Tu ne peux pas effectuer cette action en tant que Moderateur Jeu.
@@ -366,6 +364,12 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
+MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Do you have any payment or in-game issue? Check out our Support Discord server: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: Il n'y a pas de récompenses dans ce mini-jeu.
 MINIGAME_INFO_POINTS_FULL: La quantitée maximale de points de production est atteinte.

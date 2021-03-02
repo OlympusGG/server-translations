@@ -277,8 +277,6 @@ INFORMATION_MESSAGE_USER_NOT_CONNECTED: Oyuncu çevrimiçi değil.
 INFORMATION_MESSAGE_USER_NOT_FOUND: Oyuncu bulunamadı.
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Sınıfın değiştirildi!
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Ekipmanın boş değil!
-INFORMATION_SHOUTMESSAGE_EXPEVENT_DISABLED: EXP etkinliği sona erdi.
-INFORMATION_SHOUTMESSAGE_EXPEVENT_ENABLED: EXP etkinliği başladı!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} seviye atladı!'
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} maksimum seviyeye ulaştı!'
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Yöneticiler bunu yapamaz.
@@ -366,6 +364,12 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
+MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Do you have any payment or in-game issue? Check out our Support Discord server: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: Bu mini oyunda ödül yok.
 MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
