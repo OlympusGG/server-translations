@@ -138,6 +138,7 @@ FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiée.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
@@ -276,8 +277,6 @@ INFORMATION_MESSAGE_USER_NOT_CONNECTED: Ce joueur n'est pas connecté.
 INFORMATION_MESSAGE_USER_NOT_FOUND: Joueur introuvable !
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tu as changé de classe.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tu as encore de l'équipement sur toi !
-INFORMATION_SHOUTMESSAGE_EXPEVENT_DISABLED: L'évènement d'expérience a débuté.
-INFORMATION_SHOUTMESSAGE_EXPEVENT_ENABLED: L'évènement d'expérience est terminé.
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} a progressé !'
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} a atteint le niveau maximal !'
 INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Tu ne peux pas effectuer cette action en tant que Moderateur Jeu.
@@ -330,7 +329,6 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
 INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
 INVENTORY_DIALOG_SURE_TO_DELETE: L'objet sera perdu à jamais, es-tu vraiment sûr de vouloir le supprimer ?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0}x {1}.
-ITEM_CHATMESSAGE_ADVENTURER_CANT_USE: Les aventuriers ne peuvent pas utiliser cet objet!
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'objet ne peux pas contenir de runes
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'objet davantage.
@@ -353,12 +351,10 @@ ITEM_MESSAGE_CANT_USE: Tu ne peux pas utiliser cet objet.
 ITEM_MESSAGE_CANT_WEAR: Tu ne peux pas t'équiper de cet objet.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas s'équiper de cet objet.
 ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas de rune à effacer.
-ITEM_SHOUTMESSAGE_CANT_CHANGE_IN_FAMILY: Tu ne peux pas changer ta faction dans une famille.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas t'équiper d'une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Tu as fabriqué {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Tu ne peux pas utiliser d'oeuf de faction individuel dans une famille.
-ITEM_SHOUTMESSAGE_FACTION_CHANGE_NEED_FAMILY: Tu ne peux pas utiliser d'oeuf de faction familial sans être dans une famille.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'élément de la fée est différent de l'élément de la carte spécialiste !
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
@@ -368,6 +364,12 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
+MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Do you have any payment or in-game issue? Check out our Support Discord server: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: Il n'y a pas de récompenses dans ce mini-jeu.
 MINIGAME_INFO_POINTS_FULL: La quantitée maximale de points de production est atteinte.
@@ -389,7 +391,6 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
 MUTE_CHATMESSAGE_TIME_LEFT: 'Temps de sourdine restant : {0}'
-MUTE_INFO_PLAYER_MUTE: 'Tu as été mis sous sourdine pour : {0}'
 MUTE_MESSAGE_FEMALE: J'ai été une vilaine fille donc j'ai été punie !
 MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
@@ -482,11 +483,46 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Ton familier réapparaîtra dans 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Ton familier a été sauvé par la poupée ange gardienne.
 PORTAL_CHATMESSAGE_BLOCKED: Ce portail est verouillé, tu ne peux pas l'utiliser.
 PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
+PSP_AEGIR: Aegir the Angry
+PSP_AMON: Overseer Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Archdaemon Amon
+PSP_BARNI: Barni the Clever
+PSP_CHEONGBI: Imp Cheongbi
+PSP_CHLOE: Cowgirl Chloe
+PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Es-tu sûr de vouloir réinitialiser toutes les compétences ?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Es-tu sûr de vouloir réinitialiser cette compétence ?
+PSP_ELIZA: Ice Princess Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya the Fateful
+PSP_GUARDIAN_LUCIFER: Guardian Lucifer
+PSP_HARLEQUIN: Harlequin
+PSP_HONGBI: Imp Hongbi
+PSP_JINN: Jinn
+PSP_LAURENA: Witch Laurena
+PSP_LOTUS: Lotus the Graceful
+PSP_LUCIFER: Archangel Lucifer
+PSP_LUCY: Lucy Lopears
+PSP_MACAVITY: Test Subject
+PSP_MAD_MARCH_HARE: Mad March Hare
+PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: Les compétences de ton partenaire ont été réinitialisées.
 PSP_MESSAGE_ONE_SKILL_RESET: La compétence de ton partenaire a été réinitialisée.
+PSP_MOTHER_MARU: Maru in Mother's Fur
+PSP_NELIA: Nelia Nymph
+PSP_ORKANI: Orkani the Turbulent
+PSP_PALINA: Palina Puppet Master
+PSP_PERTI: One-Winged Angel Perti
+PSP_PHARAOH: Akhenaton the Cursed Pharaoh
+PSP_RAGNAR: Bone Warrior Ragnar
+PSP_SHERIFF_CHLOE: Sheriff Chloe
+PSP_SHINOBI: Shinobi the Silent
+PSP_VENUS: Little Princess Venus
+PSP_YUNA: Magic Student Yuna
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ce soldat Kenko est trop fort !
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Tu ne pourras pas abandonner la quête une fois commencée. Continuer ?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
@@ -532,6 +568,7 @@ RAID_SHOUTMESSAGE_IN_GROUP: Tu ne peux pas rejoindre une équipe de raid en éta
 RAID_SHOUTMESSAGE_KICKED: Tu as été expulsé de l'équipe.
 RAID_SHOUTMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
 RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe."
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe."
 RAID_SHOUTMESSAGE_PLAYER_DEATH: '{0} est mort.'
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe est complète.
