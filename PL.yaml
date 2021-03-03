@@ -369,7 +369,7 @@ MESSAGE_UNDER_CHAT_1: 'Sprawdź nasz serwer Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Znalazłeś/aś błąd? Zgłoś go na: noswings.com/bug-report'
 MESSAGE_UNDER_CHAT_3: 'Masz jakiś pomysł? Zapostuj go na forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Przestrzegaj naszych zasad gry: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Masz jakiś problem z płatnością lub z grą? Sprawdź nasz Supportowy serwer Discord: noswings.com/support'
+MESSAGE_UNDER_CHAT_5: 'Problem z płatnością lub z grą? Odwiedź Supportowy serwer Discord: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Punkty produkcji minigier został odświeżony.
 MINIGAME_INFO_NO_REWARD: Nie znaleziono żadnych nagród w danej minigrze.
 MINIGAME_INFO_POINTS_FULL: Osiągnięto maksymalną ilość punktów produkcji w minigrze.
