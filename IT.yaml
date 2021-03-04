@@ -69,7 +69,7 @@ CLASS_NAME_SWORDSMAN: Spadaccino
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Hai cambiato la tua lingua in: '
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: 'La tua lingua corrente è: '
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Comandi disponibili: '
-COMMANDS_CHATMESSAGE_HELP: '[Comandi d'aiuto]'
+COMMANDS_CHATMESSAGE_HELP: '[Comandi di aiuto]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Non documentato.
 COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
 COMMEND_CHATMESSAGE_COOLDOWN: Puoi lodare un solo giocatore al giorno.
