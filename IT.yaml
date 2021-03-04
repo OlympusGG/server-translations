@@ -67,7 +67,7 @@ CLASS_NAME_MAGE: Mago
 CLASS_NAME_MARTIAL_ARTIST: Artista Marziale
 CLASS_NAME_SWORDSMAN: Spadaccino
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Hai cambiato la tua lingua in: '
-COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La tua lingua corrente è: 
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: 'La tua lingua corrente è: '
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Comandi disponibili: '
 COMMANDS_CHATMESSAGE_HELP: '[Comandi d'aiuto]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Non documentato.
@@ -90,7 +90,7 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di oggetti da buttare incorretta.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti in questa mappa per far cadere quest'oggetto
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} in {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Inserimento della Pietra della Fata fallito
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Inserimento della Pietra della Fata è riuscito! 
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Inserimento della Pietra della Fata è riuscito!
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Non puoi inserire la Pietra della Fata nell'equipaggio eroico
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello di questa Pietra della Fata è troppo alto per questo oggetto.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Non puoi inserire altre Pietre della fata in quest'oggetto.
