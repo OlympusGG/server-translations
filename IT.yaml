@@ -146,7 +146,7 @@ FAMILY_SHOUTMESSAGE_LEVEL_UP: La famiglia ha raggiunto il livello {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Il giocatore {0} si è unito alla famiglia
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILYARENA_INFO_ASK_ENTER: Vuoi entrare nell'arena della famiglia? Ti costerà {0} oro.
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha effettuato l'accesso.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha effettuato l''accesso.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Vuoi diventare amico di {0}?
 FRIEND_INFO_ADDED: Richiesta d'amicizia accettata!
@@ -160,7 +160,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Il giocatore non è nella tua lista am
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Il tuo amico è nella fazione nemica.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Non puoi scommettere con il livello dell'oggetto bloccato.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Non puoi scommettere oggetti non eroici con questo.
-GAMBLING_INFO_AMULET_DESTROYED: 'ATTENZIONE: L'incantesimo di protezione è scaduto.'
+GAMBLING_INFO_AMULET_DESTROYED: 'ATTENZIONE: L''incantesimo di protezione è scaduto.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Già possiedi la rarità più alta!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: L'oggetto non è stato distrutto, grazie all'amuleto.
 GAMBLING_MESSAGE_FAILED: Scommessa fallita! L'oggetto è stato distrutto.
