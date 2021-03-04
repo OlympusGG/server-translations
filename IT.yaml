@@ -90,7 +90,7 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di oggetti da buttare incorretta.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti in questa mappa per far cadere quest'oggetto
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} in {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Inserimento della Pietra della Fata fallito
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Inserimento della Pietra della Fata è riuscito! 
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Inserimento della Pietra della Fata è riuscito!
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Non puoi inserire la Pietra della Fata nell'equipaggio eroico
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello di questa Pietra della Fata è troppo alto per questo oggetto.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Non puoi inserire altre Pietre della fata in quest'oggetto.
