@@ -58,7 +58,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom cellonu jest zbyt wysoki dla tej biż
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Akcesorium nie posiada miejsca na nowe opcje.
 CELLON_SHOUTMESSAGE_SUCCESS: Dodano opcje!
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ta nazwa postaci jest już zajęta.
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: '#CHARACTER_CREATION_INFO_BANNED_CHARNAME'
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 CHARACTER_DELETION_INFO_FAILED: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
@@ -110,7 +110,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Głowa rodziny nie może wyjśc z rodzin
 FAMILY_INFO_ALREADY_IN_FAMILY: Jesteś już w rodzinie.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Czy chcesz opuścić rodzinę?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Nie możesz przydzielić tych samych uprawnień.
-FAMILY_INFO_CREATION_BANNED_NAME: '#FAMILY_INFO_CREATION_BANNED_NAME'
+FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Musisz być w grupie by utworzyć rodzinę.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Jeden z graczy w grupie jest już w rodzinie!
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Nie możesz mieć więcej zastępców.

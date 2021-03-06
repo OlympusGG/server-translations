@@ -58,7 +58,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: The Cellon level too high for this accessory
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
 CELLON_SHOUTMESSAGE_SUCCESS: Option added.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: 'Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.'
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
 CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
@@ -110,7 +110,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Family head cannot leave the family with
 FAMILY_INFO_ALREADY_IN_FAMILY: You are already in a family.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Do you want to leave the family?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: You can't give others the same authority.
-FAMILY_INFO_CREATION_BANNED_NAME: 'Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.'
+FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: You must be in a group to create a family.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Deputies limit reached.

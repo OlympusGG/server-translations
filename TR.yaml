@@ -58,7 +58,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Cellon'un seviyesi aksesuarınkinden yüksek
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuarın Cellon yuvaları zaten dolu.
 CELLON_SHOUTMESSAGE_SUCCESS: Seçenek eklendi.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Bu karakter adı başkası tarafından kullanılıyor!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: '#CHARACTER_CREATION_INFO_BANNED_CHARNAME'
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
 CHARACTER_DELETION_INFO_FAILED: Karakterin silinemedi. Lütfen Tekrar dene.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Karakterin silinemedi. Lütfen Tekrar dene.
@@ -110,7 +110,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Aile başkanı ailesini tamamen dağıtm
 FAMILY_INFO_ALREADY_IN_FAMILY: Zaten bir ailedesin.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Aileden ayrılmak istiyor musun?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Başkalarına kendi rütbeni veremezsin.
-FAMILY_INFO_CREATION_BANNED_NAME: '#FAMILY_INFO_CREATION_BANNED_NAME'
+FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Aile kurmak için bir grupta olman gerekiyor.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Grubundan biri zaten ailede veya bir aileden yeni ayrılmış.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Daha fazla temsilci olamaz.
