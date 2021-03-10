@@ -327,7 +327,9 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Zostałes obnażony mocą o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Zostałes obnażony mocą ochronną demonów.
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Straciłeś swoją moc ochronną.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby zmienić skrzydła Karty Specjalisty, musi posiadać ulepszenie wyższe od 0.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0}'
+INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Czy chcesz usunąć ten przedmiot?
 INVENTORY_DIALOG_SURE_TO_DELETE: Czy na pewno chcesz usunąc ten przedmiot? Tej akcji nie da się cofnąć i przedmiot zostanie usunięty na zawsze.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nie masz wystarczająco przedmiotów - {0}x {1}
