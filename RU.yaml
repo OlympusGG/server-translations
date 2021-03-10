@@ -327,7 +327,9 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: You got blessed by the prot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: You got blessed by the protection power of demons!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: To change the wings of the Specialist Card, it must have an upgrade higher than 0.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
+INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
 INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items
