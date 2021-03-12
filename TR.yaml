@@ -21,6 +21,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
 AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: '{0} altın karşılığında bireysel arenaya girmek istiyor musun?'
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} {1} tarafından öldürüldü.'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Zaten Cuarry Banka Kartına sahipsin.

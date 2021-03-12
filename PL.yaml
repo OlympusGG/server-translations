@@ -21,6 +21,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
 AMMO_LOADED_ARCHER: Strzały załadowane!
 AMMO_LOADED_SWORDSMAN: Belty załadowane!
+ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidulaną? Koszt wynosi {0} szt. złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: Gracz {0} został pokonany przez gracza {1}
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Już posiadasz Książeczkę Oszczędnościową Banku Cuarry

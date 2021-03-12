@@ -21,6 +21,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
 AMMO_LOADED_ADVENTURER: Munitions chargés !
 AMMO_LOADED_ARCHER: Flèches chargés !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.

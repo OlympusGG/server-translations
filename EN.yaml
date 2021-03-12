@@ -21,6 +21,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Ammo loaded!
 AMMO_LOADED_ARCHER: Arrow loaded!
 AMMO_LOADED_SWORDSMAN: Bolts loaded!
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
