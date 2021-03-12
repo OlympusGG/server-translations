@@ -563,6 +563,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wysartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
 RAID_INFO_NO_EXIST: Rajd nie istnieje!
+RAID_INFO_NO_LIVES_LEFT: Wykorzystano wszystkie życia.
 RAID_INFO_PLAYER_DEATH: Nie żyjesz! Zostaniesz wskrzeszony za 20 sekund.
 RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
 RAID_NAME_CASTRA: Mroczny Castra

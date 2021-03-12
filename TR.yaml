@@ -563,6 +563,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} takıma katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} akınını başlatmak istiyor musun?'
 RAID_DIALOG_INVITED_YOU: "{0}'ın akın takımına katılmak istiyor musun?"
 RAID_INFO_NO_EXIST: Akın bulunamadı.
+RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
 RAID_NAME_CASTRA: Dark Castra

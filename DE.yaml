@@ -563,6 +563,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Willst du den {0} Raid beginnen?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raid-Team eingeladen. Akzeptieren?'
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
+RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_NAME_CASTRA: Dark Castra
