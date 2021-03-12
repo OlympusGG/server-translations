@@ -371,13 +371,13 @@ MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Otrzymano paczkę.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Przerwa techniczna wykonała się.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Przerwa techniczna została zniesiona.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0}godz.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0}min.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0}sec.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} godz.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} min.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} sek.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Przerwa techniczna została zatrzymana.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Przerwa techniczna rozpocznie się za {0}godz.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Przerwa techniczna rozpocznie się za {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Przerwa techniczna rozpocznie się za {0}sek.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Przerwa techniczna rozpocznie się za {0} godz.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Przerwa techniczna rozpocznie się za {0} min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Przerwa techniczna rozpocznie się za {0} sek.
 MESSAGE_UNDER_CHAT_0: 'Sprawdź naszą stronę po najnowsze informacje: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Sprawdź nasz serwer Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Znalazłeś/aś błąd? Zgłoś go na: noswings.com/bug-report'

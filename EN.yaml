@@ -373,11 +373,11 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0}min.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0}sec.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0}s.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0}h.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}sec.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}s.
 MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
