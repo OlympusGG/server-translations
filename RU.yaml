@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Wrong account login.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Act 4 channel is offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: angels
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
@@ -329,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: You got blessed by the prot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: You lost your protection power.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: To change the wings of the Specialist Card, it must have an upgrade higher than 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquired {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
@@ -401,6 +404,7 @@ MINILAND_MESSAGE_VISITOR: 'Total visits: {0}, Daily visits: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Mini-Land is closed.
 MINILAND_SHOUTMESSAGE_FULL: Mini-Land is full.
 MINILAND_SHOUTMESSAGE_LOCK: The Mini-Land is now locked.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: The mini-land is now private.
 MINILAND_SHOUTMESSAGE_PUBLIC: The mini-land is now public.
 MINILAND_WELCOME_MESSAGE: Welcome!
@@ -691,6 +695,7 @@ UPGRADE_MESSAGE_SP_FAILED: SP upgrading failed!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Specialist Card upgrading failed but item was saved.
 UPGRADE_MESSAGE_SP_SUCCESS: Specialist Card upgrading succeeded!
 UPGRADE_MESSAGE_SUCCESS: Upgrade succeeded!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: Player {0} has proposed to you. Do you accept the marriage proposal?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?
 WEDDING_INFO_DIVORCED: The marriage was terminated.

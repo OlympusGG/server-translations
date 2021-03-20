@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Falscher Account Login.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Wächter der {0} getötet.'
@@ -329,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Du wurdest mit dem Schutz d
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Du hast deinen Schutz verloren.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Um die Flügel des Spezialisten zu ändern, muss die Stufe der Verbesserung höher als 0 sein.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Willst du diesen Gegenstand löschen?
@@ -401,6 +404,7 @@ MINILAND_MESSAGE_VISITOR: 'Besuche insgesamt: {0}, Heutige Besuche: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Das Mini-Land ist geschlossen.
 MINILAND_SHOUTMESSAGE_FULL: Das Mini-Land ist voll.
 MINILAND_SHOUTMESSAGE_LOCK: Das Mini-Land ist nun geschlossen.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: Das Mini-Land ist nun privat.
 MINILAND_SHOUTMESSAGE_PUBLIC: Das Mini-Land ist nun öffentlich.
 MINILAND_WELCOME_MESSAGE: Willkommen!
@@ -691,6 +695,7 @@ UPGRADE_MESSAGE_SP_FAILED: SP Verbesserung fehlgeschlagen!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde geschützt.
 UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte wurde erfolgreich verbessert!
 UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Antrag gemacht. Möchtest du den Heiratsantrag annehmen?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Bist du dir sicher, dass du {0} heiraten möchtest?
 WEDDING_INFO_DIVORCED: Die Ehe wurde beendet.

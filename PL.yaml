@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Błędny login.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_PVP_ANGELS: aniołów
 ACT4_CHATMESSAGE_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
@@ -329,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Zostałes obnażony mocą o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Straciłeś swoją moc ochronną.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby zmienić skrzydła Karty Specjalisty, musi posiadać ulepszenie wyższe od 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Czy chcesz usunąć ten przedmiot?
@@ -401,6 +404,7 @@ MINILAND_MESSAGE_VISITOR: 'Łączna liczba wizyt: {0} Dzienna liczba wizyt: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Mini-Land zamknięty.
 MINILAND_SHOUTMESSAGE_FULL: Mini-Land pełny.
 MINILAND_SHOUTMESSAGE_LOCK: Mini-Land jest zablokowany.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land musi być zamknięty aby to zrobić.
 MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
@@ -691,6 +695,7 @@ UPGRADE_MESSAGE_SP_FAILED: Ulepszenie nie powiodło się!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Ulepszenie nie powiodło się, ale twoja Karta Specjalisty została zachowana!
 UPGRADE_MESSAGE_SP_SUCCESS: Ulepszenie powiodło się!
 UPGRADE_MESSAGE_SUCCESS: Ulepszenie powiodło się!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
 WEDDING_DIALOG_REQUEST_RECEIVED: Gracz {0} oświadczył ci się. Czy zaakceptować zaręczyny?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
 WEDDING_INFO_DIVORCED: Małzeństwo zostało rozwiązane.

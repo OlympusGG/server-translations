@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
 ACT4_CHATMESSAGE_PVP_ANGELS: Melekler
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} bir {0} koruyucusu tarafından yenildi.'
@@ -329,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Şeytanların koruyucu güc
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Koruyucu gücünü kaybettin.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Uzmanlık Kartının kanatlarını değiştirebilmek için kart en az +1 olmalı.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Bir eşya aldın: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Eşyayı silmek istiyor musun?
@@ -401,6 +404,7 @@ MINILAND_MESSAGE_VISITOR: 'Toplam misafir: {0}, Günlük misafir: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland kapandı.
 MINILAND_SHOUTMESSAGE_FULL: Miniland dolu!
 MINILAND_SHOUTMESSAGE_LOCK: Miniland kilitli.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: Miniland arkadaşlarına özel.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland herkese açık.
 MINILAND_WELCOME_MESSAGE: Hoş geldiniz!
@@ -691,6 +695,7 @@ UPGRADE_MESSAGE_SP_FAILED: Geliştirme başarısız.
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Geliştirme başarısız ama Uzmanlık Kartın korundu.
 UPGRADE_MESSAGE_SP_SUCCESS: Geliştirme başarılı!
 UPGRADE_MESSAGE_SUCCESS: Geliştirme başarılı!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} sana aşkını ilan ediyor!!! Evlenmeyi kabul ediyor musun?'
 WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
 WEDDING_INFO_DIVORCED: Boşandınız. Geçmiş olsun.

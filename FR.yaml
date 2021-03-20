@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a tué {1}.
@@ -329,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Tu as été béni par le po
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Tu as perdu ton pouvoir de protection.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pour changer les ailes de ta carte de spécialiste, tu dois avoir une amélioration supérieur à +0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
@@ -401,6 +404,7 @@ MINILAND_MESSAGE_VISITOR: "Total des visites: {0}, Visites aujourd'hui : {1}"
 MINILAND_SHOUTMESSAGE_CLOSED: Le mini-pays est verouillé.
 MINILAND_SHOUTMESSAGE_FULL: Le mini-pays est plein.
 MINILAND_SHOUTMESSAGE_LOCK: Tu as verouillé le mini-pays.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
@@ -691,6 +695,7 @@ UPGRADE_MESSAGE_SP_FAILED: L'amélioration a échoué.
 UPGRADE_MESSAGE_SP_FAILED_SAVED: L'amélioration a échoué mais la carte de spécialiste a été préservée.
 UPGRADE_MESSAGE_SP_SUCCESS: L'amélioration de la carte de spécialiste est un succès !
 UPGRADE_MESSAGE_SUCCESS: L'amélioration est un succès !
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?
 WEDDING_INFO_DIVORCED: Le divorce a été prononcé.
