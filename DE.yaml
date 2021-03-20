@@ -331,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Du wurdest mit dem Schutz d
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Du hast deinen Schutz verloren.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Um die Flügel des Spezialisten zu ändern, muss die Stufe der Verbesserung höher als 0 sein.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
@@ -499,6 +500,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: Dein NosMate {0} ist aufgestiegen!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist in das Mini-Land zurückgekehrt.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten zurückkehren.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate durch den NosMate Schutzengel wiederbelebt.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich gleich bewegen.
 PSP_AEGIR: Aegir the Angry
