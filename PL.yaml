@@ -331,6 +331,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Zostałes obnażony mocą o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Straciłeś swoją moc ochronną.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby zmienić skrzydła Karty Specjalisty, musi posiadać ulepszenie wyższe od 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
@@ -499,6 +500,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: Twój NosKumpel {0} osiągnął następny poziom!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
