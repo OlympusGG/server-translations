@@ -539,6 +539,7 @@ PSP_SHERIFF_CHLOE: Szeryfka Chloe
 PSP_SHINOBI: Shinobi Bezgłośny
 PSP_VENUS: Księżniczka Venus
 PSP_YUNA: Uczeń Czarnoksiężnika Yuna
+QUEST_CHATMESSAGE_ITEM_PICK_UP: 'Zebrano {0}: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Możesz odebrać nową misję u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
