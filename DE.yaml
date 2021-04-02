@@ -651,7 +651,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} opfert sich für {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Opferungseffekt aufgehoben, da sich der Spieler außerhalb der Reichweite befindet.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Opferungseffekt fast aufgehoben, da sich der Spieler außerhalb der Reichweite befindet.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst abwarten, bis alle Abklingzeiten beendet wurden!
-SPEAKER_NAME: Lautsprecher
+SPEAKER_NAME: Gesamt
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst die Spezialistenkarte nicht ändern!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Abklingzeit des Spezialisten beendet.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Du musst in deine Spezialistenkarte verwandelt sein, um dies zu tun!
