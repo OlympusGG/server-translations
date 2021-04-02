@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a été vaincu par {1}.
@@ -21,11 +23,12 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
 AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèches chargées !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
-ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or.
+ARENA_CHATMESSAGE_PVP_ACTIVE: Le combat entre joueurs est activé!
+ARENA_INFO_ASK_ENTER: "Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or."
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
-BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
-BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
+BANK_DIALOG_ASK_DEPOSIT: "Veux-tu déposer {0}000 pièces d'or sur ton compte ?"
+BANK_DIALOG_ASK_WITHDRAW: "Veux-tu retirer {0}000 pièces d'or sur ton compte ?"
 BANK_INFO_NOT_ENOUGH_FUNDS: Pas assez d'or.
 BANK_INFO_TOO_MUCH_GOLD: Tu as trop d'or !
 BANK_LOG_OPEN_BANK: Bienvenue à la banque ! Comment puis-je t'aider ?
@@ -328,6 +331,8 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Tu as été béni par le po
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Tu as perdu ton pouvoir de protection.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pour changer les ailes de ta carte de spécialiste, tu dois avoir une amélioration supérieur à +0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: L'utilisation d'orateur est en rechargement, un orateur toutes les 30 seondes.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Veux-tu trier tes objets? Cela a 1 minute de rechargement.
 INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
@@ -368,20 +373,17 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0}min.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0}sec.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0}h.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0}min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}sec.
 MESSAGE_UNDER_CHAT_0: 'Pensez à vérifier sur notre site les ajouts récents: noswings.com'
-MESSAGE_UNDER_CHAT_1: 'Décovrez notre Serveur Discord: noswings.com/discord'
+MESSAGE_UNDER_CHAT_1: 'Découvrez notre Serveur Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Avez-vous trouvé un bug? Signalez-le sur: noswings.com/bug-report'
 MESSAGE_UNDER_CHAT_3: 'Avez-vous une idée? Postez-la sur notre forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Respectez et informez-vous sur nos règles du jeu sur: noswings.com/game-rules'
@@ -403,6 +405,7 @@ MINILAND_MESSAGE_VISITOR: "Total des visites: {0}. Visites aujourd'hui : {1}"
 MINILAND_SHOUTMESSAGE_CLOSED: Le mini-pays est verouillé.
 MINILAND_SHOUTMESSAGE_FULL: Le mini-pays est plein.
 MINILAND_SHOUTMESSAGE_LOCK: Tu as verouillé le mini-pays.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
@@ -497,6 +500,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: '{0} a monté de niveau !'
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton familier a été renvoyé au mini-pays.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Ton familier réapparaîtra dans 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Ton familier a été sauvé par la poupée ange gardienne.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
 PORTAL_CHATMESSAGE_BLOCKED: Ce portail est verouillé, tu ne peux pas l'utiliser.
 PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
 PSP_AEGIR: Aegir le Furibond
@@ -537,6 +542,7 @@ PSP_SHERIFF_CHLOE: Shérif Chloé
 PSP_SHINOBI: Shinobi the Silencieux
 PSP_VENUS: Princesse Venus
 PSP_YUNA: Yuna l'Ensorceleuse
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ce soldat Kenko est trop fort !
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Tu peux recevoir une nouvelle quête d'un PNJ.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
@@ -562,10 +568,11 @@ RAID_CHATMESSAGE_START_IS_NOT_LEADER: Seul le chef de l'équipe peut commencer l
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu n'es pas dans une équipe de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne peut pas être commencé ici.
 RAID_CHATMESSAGE_X_JOINED: "{0} a rejoint l'équipe."
-RAID_DIALOG_ASK_START_RAID: Es-tu prêt pour commencer le raid {0}?
-RAID_DIALOG_INVITED_YOU: Souhaites-tu rejoindre l'équipe de raid de {0}?
-RAID_INFO_NO_EXIST: Ce raid n'existe pas!
-RAID_INFO_PLAYER_DEATH: Tu es mort! Tu ressusciteras dans 20 secondes.
+RAID_DIALOG_ASK_START_RAID: Es-tu prêt pour commencer le raid {0} ?
+RAID_DIALOG_INVITED_YOU: Souhaites-tu rejoindre l'équipe de raid de {0} ?
+RAID_INFO_NO_EXIST: Ce raid n'existe pas !
+RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
+RAID_INFO_PLAYER_DEATH: Tu es mort ! Tu ressusciteras dans 20 secondes.
 RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
 RAID_NAME_CASTRA: Castra Obscure
 RAID_NAME_CHICKENKING: Roi Poulet
@@ -692,6 +699,7 @@ UPGRADE_MESSAGE_SP_FAILED: L'amélioration a échoué.
 UPGRADE_MESSAGE_SP_FAILED_SAVED: L'amélioration a échoué mais la carte de spécialiste a été préservée.
 UPGRADE_MESSAGE_SP_SUCCESS: L'amélioration de la carte de spécialiste est un succès !
 UPGRADE_MESSAGE_SUCCESS: L'amélioration est un succès !
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?
 WEDDING_INFO_DIVORCED: Le divorce a été prononcé.

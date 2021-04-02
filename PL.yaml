@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Błędny login.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_PVP_ANGELS: aniołów
 ACT4_CHATMESSAGE_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
@@ -21,6 +23,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
 AMMO_LOADED_ARCHER: Strzały załadowane!
 AMMO_LOADED_SWORDSMAN: Belty załadowane!
+ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidulaną? Koszt wynosi {0} szt. złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: Gracz {0} został pokonany przez gracza {1}
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Już posiadasz Książeczkę Oszczędnościową Banku Cuarry
@@ -117,8 +120,8 @@ FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Nie możesz mieć więcej zastępców.
 FAMILY_INFO_FULL: Rodzina jest pełna!
 FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jeden z członków grupy należy już do rodziny!
 FAMILY_INFO_GROUP_NOT_FULL: Aby założyć rodzinę, musisz posiadać pełną grupę!
-FAMILY_INFO_INVITATION_NOT_ALLOWED: Nie masz uprawnień do zapraszania graczy!
-FAMILY_INFO_INVITATION_REFUSED: Gracz odrzucił zaporszenie do rodziny
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Gracz blokuje zaproszenia do rodziny.
+FAMILY_INFO_INVITATION_REFUSED: Gracz odrzucił zaproszenie do rodziny
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Nie możesz mieć więcej zarządców.
 FAMILY_INFO_LEAVE: Opuszczono rodzinę.
 FAMILY_INFO_NAME_ALREADY_USED: Nazwa rodziny jest już zajęta!
@@ -328,6 +331,8 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Zostałes obnażony mocą o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Straciłeś swoją moc ochronną.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby zmienić skrzydła Karty Specjalisty, musi posiadać ulepszenie wyższe od 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Otrzymujesz przedmiot: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Czy chcesz usunąć ten przedmiot?
@@ -368,18 +373,15 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych 
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz wejść na pojazd, ponieważ posiadasz negatywny efekt!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Otrzymano paczkę.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Przerwa techniczna wykonała się.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Przerwa techniczna została zniesiona.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} godz.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} min.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} sek.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Przerwa techniczna została zatrzymana.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Przerwa techniczna rozpocznie się za {0} godz.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Przerwa techniczna rozpocznie się za {0} min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Przerwa techniczna rozpocznie się za {0} sek.
 MESSAGE_UNDER_CHAT_0: 'Sprawdź naszą stronę po najnowsze informacje: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Sprawdź nasz serwer Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Znalazłeś/aś błąd? Zgłoś go na: noswings.com/bug-report'
@@ -403,6 +405,7 @@ MINILAND_MESSAGE_VISITOR: 'Łączna liczba wizyt: {0} Dzienna liczba wizyt: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Mini-Land zamknięty.
 MINILAND_SHOUTMESSAGE_FULL: Mini-Land pełny.
 MINILAND_SHOUTMESSAGE_LOCK: Mini-Land jest zablokowany.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land musi być zamknięty aby to zrobić.
 MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
@@ -497,6 +500,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: Twój NosKumpel {0} osiągnął następny poziom!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
@@ -537,6 +542,7 @@ PSP_SHERIFF_CHLOE: Szeryfka Chloe
 PSP_SHINOBI: Shinobi Bezgłośny
 PSP_VENUS: Księżniczka Venus
 PSP_YUNA: Uczeń Czarnoksiężnika Yuna
+QUEST_CHATMESSAGE_ITEM_PICK_UP: 'Zebrano {0}: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Możesz odebrać nową misję u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
@@ -565,6 +571,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wysartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
 RAID_INFO_NO_EXIST: Rajd nie istnieje!
+RAID_INFO_NO_LIVES_LEFT: Wykorzystano wszystkie życia.
 RAID_INFO_PLAYER_DEATH: Nie żyjesz! Zostaniesz wskrzeszony za 20 sekund.
 RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
 RAID_NAME_CASTRA: Mroczny Castra
@@ -692,6 +699,7 @@ UPGRADE_MESSAGE_SP_FAILED: Ulepszenie nie powiodło się!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Ulepszenie nie powiodło się, ale twoja Karta Specjalisty została zachowana!
 UPGRADE_MESSAGE_SP_SUCCESS: Ulepszenie powiodło się!
 UPGRADE_MESSAGE_SUCCESS: Ulepszenie powiodło się!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
 WEDDING_DIALOG_REQUEST_RECEIVED: Gracz {0} oświadczył ci się. Czy zaakceptować zaręczyny?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
 WEDDING_INFO_DIVORCED: Małzeństwo zostało rozwiązane.
