@@ -16,3 +16,4 @@ jobs:
             new-line-at-end-of-file: disable
             line-length: disable
             empty-values: enable
+            trailing-spaces: disable
