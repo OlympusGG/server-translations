@@ -114,7 +114,7 @@ FAMILY_INFO_ALREADY_IN_FAMILY: Sei già in una Famiglia.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Vuoi abbandonare la Famiglia?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Non puoi dare agli altri la stessa autorizzazione.
 FAMILY_INFO_CREATION_BANNED_NAME: Il nome della tua Famiglia contiene la parola "{0}", che è vietata. Se pensi che sia un errore, sentiti libero di aprire un ticket sul nostro server Discord del supporto.
-FAMILY_INFO_CREATION_GROUP_REQUIRED: Devi far parte di un gruppo per crare una Famiglia.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Devi far parte di un gruppo per creare una Famiglia.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Qualcuno nel tuo gruppo fa già parte di una Famiglia o ne ha abbandonata una di recente.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Limite dei Vicecapi raggiunto.
 FAMILY_INFO_FULL: La famiglia ha raggiunto il limite di membri.
@@ -260,7 +260,7 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Non hai abbastanza MP!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Non hai abbastanza punti reputazione!
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Il tuo livello non è sufficiente!
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Questo oggetto non è tuo!
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: La Medaglia del NosMercante è correntemente attiva.
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: La Medaglia del NosMercante è attualmente attiva.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'La trasformazione in Specialista del Compagno è in ricarica: {0} sec.'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputazione diminuita: -{0}!'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputazione aumentata: +{0}!'
@@ -372,7 +372,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare la tua fazione in quella a cui
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
-MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: hai {0} messaggi nella tua casella.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
@@ -383,7 +383,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0}
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0}min.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}s.
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
-MESSAGE_UNDER_CHAT_1: 'Visita nel nostro server Discord: noswings.com/discord'
+MESSAGE_UNDER_CHAT_1: 'Date un occhiata al nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
 MESSAGE_UNDER_CHAT_3: 'Hai qualche idea da proporre? Proponila sul nostro forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Segui sempre il regolamento di gioco: noswings.com/game-rules'
@@ -627,7 +627,7 @@ SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Nel negozio privato puoi mettere alla vend
 SHOP_DEFAULT_NAME: Shop
 SHOP_INFO_ALREADY_OPEN: Il tuo negozio è già aperto!
 SHOP_INFO_NEAR_PORTAL: Non puoi aprire un negozio vicino ad un portale!
-SHOP_INFO_NOT_ALLOWED: Non aprire un negozio nelle mappe generali.
+SHOP_INFO_NOT_ALLOWED: Non puoi aprire un negozio nelle mappe generali.
 SHOP_INFO_NOT_ALLOWED_IN_RAID: Non puoi aprire un negozio durante un raid!
 SHOP_INFO_OPEN: Il negozio è aperto!
 SHOP_INFO_TARGET_MAX_GOLD: Il giocatore ha raggiunto la quantità massima di oro.
