@@ -100,7 +100,7 @@ FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello di questa Pietra Fatata è t
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Non puoi inserire altre Pietre Fatate in questo oggetto.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Puoi inserire Pietre Fatate solo ad armi e armature.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Achievement sbloccato: {0}'
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha effettuato l'accesso!'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) ha effettuato l'accesso!"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Upgrade della Famiglia acquistato!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Questo membro della Famiglia ha già questa autorizzazione..
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Vuoi sciogliere la tua Famiglia? Questa azione è irreversibile.
@@ -151,7 +151,7 @@ FAMILY_SHOUTMESSAGE_LEVEL_UP: La Famiglia ha raggiunto il livello {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Il giocatore {0} fa parte della Famiglia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILYARENA_INFO_ASK_ENTER: Vuoi accedere all'arena di Famiglia? Ti costerà {0} oro.
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha effettuato l'accesso.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} ha effettuato l'accesso."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Vuoi accettare la richiesta di amicizia di {0}?
 FRIEND_INFO_ADDED: Richiesta di amiciza accettata!
@@ -165,7 +165,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Questo giocatore non è nella tua list
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Il tuo amico fa parte della fazione nemica.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Non puoi scommettere oggetti con livello fisso.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Non puoi scommettere oggetti Eroici con questo tipo di oggetto.
-GAMBLING_INFO_AMULET_DESTROYED: 'ATTENZIONE: l'effetto protettivo è scaduto.'
+GAMBLING_INFO_AMULET_DESTROYED: "ATTENZIONE: l'effetto protettivo è scaduto."
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Hai già raggiunto la rarità massima!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: L'oggetto non è stato distrutto grazie alla protezione dell'amuleto!
 GAMBLING_MESSAGE_FAILED: Scommessa fallita! L'oggetto è stato distrutto.
@@ -229,7 +229,7 @@ IC_80_89_W2_TITLE: Wave 2 - Orda Zombie!
 IC_80_89_W3_TITLE: Wave 3 - Abitanti del Deserto
 IC_80_89_W4_TITLE: Wave 4 - Bestie Desertiche
 IC_80_89_W5_TITLE: Wave 5 - Truppe di Shay
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempio del Dolore 
+IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempio del Dolore
 IC_90_150_0_24H_W2_TITLE: Wave 2 - Eruzione Vulcanica
 IC_90_150_0_24H_W3_TITLE: Wave 3 - Spada Fiammeggiante
 IC_90_150_0_24H_W4_TITLE: Wave 4 - Cancelli dell'Inferno
@@ -331,6 +331,8 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Sei stato benedetto dal pot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Hai perso il potere della protezione.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Per modificare le ali dello Specialista, deve avere un livello di miglioramento maggiore di 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Il tuo Altoparlante è in ricarica, puoi utilizzarne uno ogni 30 secondi.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquisito {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Vuoi riordinare il tuo inventario? Ha un minuto di ricarica.
 INVENTORY_DIALOG_ASK_TO_DELETE: Vuoi eliminare questo oggetto?
@@ -371,18 +373,15 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: hai {0} messaggi nella tua casella.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_START_SECONDS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: '#MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0}min.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0}s.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0}h.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0}min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}s.
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Visita nel nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
@@ -406,6 +405,7 @@ MINILAND_MESSAGE_VISITOR: 'Visite totali: {0}, Visite giornaliere: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: La Mini-Land è chiusa.
 MINILAND_SHOUTMESSAGE_FULL: La Mini-Land è piena.
 MINILAND_SHOUTMESSAGE_LOCK: La Mini-Land è bloccata.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: La Mini-Land è privata.
 MINILAND_SHOUTMESSAGE_PUBLIC: La Mini-Land è pubblica.
 MINILAND_WELCOME_MESSAGE: Benvenuti!
@@ -500,12 +500,12 @@ PET_SHOUTMESSAGE_LEVEL_UP: Il livello di {0} è aumentato!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il NosMate è tornato alla Mini-Land.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Il NosMate tornerà tra 3 minuti.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate resuscitato grazie all'Angelo Custode per NosMate.
-PORTAL_CHATMESSAGE_BLOCKED: Questo portale è chiuso, non posso oltrepassarlo.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
 PORTAL_CHATMESSAGE_TOO_EARLY: Potrai muoverti a breve.
 PSP_AEGIR: Aegir il Furioso
 PSP_AMON: Sorvegliante Amon
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
-PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
 PSP_AMORA: Amora
 PSP_ARCHDAEMON_AMON: Arcidemone Amon
 PSP_BARNI: Barni l'Astuto
@@ -529,7 +529,6 @@ PSP_LUCY: Coniglietta Lucy
 PSP_MACAVITY: Cavia Sperimentale
 PSP_MAD_MARCH_HARE: Conigliaio Matto
 PSP_MARU: Maru
-QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
 PSP_MESSAGE_ALL_SKILLS_RESET: Tutte le abilità del compagno sono state resettate.
 PSP_MESSAGE_ONE_SKILL_RESET: L'abilità del compagno è stata resettata.
 PSP_MOTHER_MARU: Nonnina Maru
@@ -543,6 +542,7 @@ PSP_SHERIFF_CHLOE: Sceriffo Chloe
 PSP_SHINOBI: Shinobi il Silenzioso
 PSP_VENUS: Piccola Principessa Venus
 PSP_YUNA: Yuna Studentessa Magica
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Questo Soldato Kenko è troppo forte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puoi ricevere una nuova quest da un NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
@@ -571,13 +571,13 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ora fa parte del team.'
 RAID_DIALOG_ASK_START_RAID: Vuoi dare via al raid {0}?
 RAID_DIALOG_INVITED_YOU: '{0} ti ha invitato nel team del raid. Accettare?'
 RAID_INFO_NO_EXIST: Il raid non esiste!
+RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_INFO_PLAYER_DEATH: Sei morto! Resusciterai tra 20 secondi.
 RAID_MESSAGE_DISOLVED: Il team del raid è stato sciolto.
 RAID_NAME_CASTRA: Castra Oscuro
 RAID_NAME_CHICKENKING: Re Pollo
 RAID_NAME_CUBY: Madre Cuby
 RAID_NAME_GIANTBLACKSPIDER: Ragno Nero Gigante
-RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
 RAID_NAME_SLADE: Slade Colossale
@@ -586,7 +586,7 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Questo oggetto è stato già utilizzato.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Non puoi creare un team del raid mentre fai parte di un gruppo.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Non puoi invitare membri di gruppi in un team del raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Non puoi partecipare ad un raid dall'Arena!
-RAID_SHOUTMESSAGE_COMPLETED: "il team di {0} ha completato il raid {1}!"
+RAID_SHOUTMESSAGE_COMPLETED: il team di {0} ha completato il raid {1}!
 RAID_SHOUTMESSAGE_IN_GROUP: Non puoi partecipare al team di un raid mentre sei in gruppo.
 RAID_SHOUTMESSAGE_KICKED: Sei stato espulso
 RAID_SHOUTMESSAGE_KICKED_OTHER: Il giocatore è stato espulso
@@ -615,7 +615,7 @@ SHELLS_SHOUTMESSAGE_ERASED: L'opzione è stata cancellata.
 SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Puoi utilizzare questa pietra soltanto su armature.
 SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Puoi utilizzare questa pietra soltanto su armi.
 SHELLS_SHOUTMESSAGE_IDENTIFIED: Pietra identificata!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello della pietra deve essere uguale od inferiore a quello dell'equipaggiamento. 
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello della pietra deve essere uguale od inferiore a quello dell'equipaggiamento.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Prima di poter essere utilizzata la pietra deve essere identificata.
 SHELLS_SHOUTMESSAGE_OPTION_SET: Le opzioni della pietra sono state aggiunte.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rarità della pietra deve essere uguale od inferiore a quella dell'equipaggiamento.
@@ -624,7 +624,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti/o.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partità tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio privato non può essere vuoto!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Nel negozio privato puoi mettere alla vendita solo oggetti scambiabili.
-SHOP_DEFAULT_NAME: Shop 
+SHOP_DEFAULT_NAME: Shop
 SHOP_INFO_ALREADY_OPEN: Il tuo negozio è già aperto!
 SHOP_INFO_NEAR_PORTAL: Non puoi aprire un negozio vicino ad un portale!
 SHOP_INFO_NOT_ALLOWED: Non aprire un negozio nelle mappe generali.
@@ -680,7 +680,7 @@ TITLE_INFO_UNLOCKED: Il titolo è stato sbloccato!
 TITLE_INFO_VISIBLE_DISABLED: Visibilità del titolo disattivata!
 TITLE_INFO_VISIBLE_ENABLED: Visibilità del titolo attivata!
 TRADE_CHATMESSAGE_BLOCKED: Il giocatore ha bloccato gli scambi!
-TRADE_CHATMESSAGE_REFUSED: {0} ha rifiutato la tua richiesa di scambio.
+TRADE_CHATMESSAGE_REFUSED: '{0} ha rifiutato la tua richiesa di scambio.'
 TRADE_CHATMESSAGE_YOU_REFUSED: Scambio rifiutato.
 TRADE_DIALOG_ASK_FOR_TRADE: Hai richiesto uno scambio a {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE: Il giocatore {0} [{1}(+{2})Lv.] vuole effettuare uno scambio.
@@ -699,6 +699,7 @@ UPGRADE_MESSAGE_SP_FAILED: Miglioramento dello Specialista fallito!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Il miglioramento dello Specialista è fallito, ma l'anima è stata protetta.
 UPGRADE_MESSAGE_SP_SUCCESS: Miglioramento dello Specialista riuscito!
 UPGRADE_MESSAGE_SUCCESS: Miglioramento riuscito!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: Il giocatore {0} ti ha fatto una proposta di matrimonio. Vuoi accettare?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Sei sicuro/a di voler accettare {0}?
 WEDDING_INFO_DIVORCED: Il matrimonio è stato terminato.
