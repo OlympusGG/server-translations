@@ -1,21 +1,21 @@
-ACCOUNT_INFO_BAD_ID: Inicio de sessión errónea.
+ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACT4_CHANNEL_OFFLINE: El canal de Acto 4 se encuentra desconectado
+ACT4_CHANNEL_OFFLINE: El canal del Acto 4 se encuentra fuera de servicio.
 ACT4_CHATMESSAGE_PVP_ANGELS: ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} Fue derrotado por un guardián {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: demonios
 ACT4_CHATMESSAGE_PVP_KILL: '{1} Derrotó a un guardián {0}.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar al calabozo!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar al calabozo te costará {0} puntos de reputación. ¿Entrarás?
-ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aqui te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio del calabozo. ¿Deseas reanimar aquí?
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar a la mazmorra!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar a la mazmorra te costará {0} puntos de reputación. ¿Entrarás?
+ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La sala del jefe se ha cerrado.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: ¡Se ha derrotado al jefe del calabozo!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: ¡Se ha derrotado al jefe de la mazmorra!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La sala del jefe se ha abierto.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal hacia el calabozo se ha abierto cerca de la torre central en Bitoren Tundra!
-ACT4_NEED_FACTION: Sólo aquellos con un poder de protección pueden acceder a Glacernon.
-ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de ángeles
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de demonios
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal de la mazmorra se ha abierto cerca de la torre central en Bitoren Tundra!
+ACT4_NEED_FACTION: Sólo aquellos con una facción pueden viajar a Glacernon.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de los ángeles
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de los demonios
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡El Señor Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: El Señor Mukraju murió
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado al Señor Mukraju!
@@ -24,48 +24,48 @@ AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
 AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
-ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} oro.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} Ha sido matado por {1}'
+ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} oros.
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Ya posees una tarjeta de debito del banco Cuarry en tu inventario.
-BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0}000 de oro a tu cuenta bancaria?
-BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0}000 de oro de tu cuenta bancaria?
-BANK_INFO_NOT_ENOUGH_FUNDS: No hay suficiente fondos.
+BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0}000 oros en tu cuenta bancaria?
+BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0}000 oros de tu cuenta bancaria?
+BANK_INFO_NOT_ENOUGH_FUNDS: No hay fondos suficientes.
 BANK_INFO_TOO_MUCH_GOLD: ¡Tienes demasiado oro!
 BANK_LOG_OPEN_BANK: ¡Bienvenido al banco! ¿Como te puedo ayudar?
-BANK_LOG_WITHDRAW_BANK: '{0}000 oro retirado.'
-BANK_MESSAGE_BALANCE: Tienes {0} De oro en tu cuenta bancaria.
-BANK_MESSAGE_DEPOSIT: Depositado {0}000 de oro a tu cuenta bancaria.
-BANK_MESSAGE_MAX_GOLD_REACHED: Cantidad máxima de oro alcanzada!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados al banco.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Objetos agregados a NosBazar.
-BAZAAR_INFO_ITEM_CHANGED: Imposible realizar la compra. El objeto ha sido vendido o subió el precio
-BAZAAR_INFO_MAINTENANCE_MODE: NosBazar esta bajo mantenimiento.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado al máximo numero de objetos publicados.
-BAZAAR_INFO_NEEDS_MEDAL: No posees Medallón de NosComerciante.
+BANK_LOG_WITHDRAW_BANK: '{0}000 oros retirados.'
+BANK_MESSAGE_BALANCE: Tienes {0} oros en tu cuenta bancaria.
+BANK_MESSAGE_DEPOSIT: Has depositado {0}000 oros en tu cuenta bancaria.
+BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
+BAZAAR_INFO_ITEM_CHANGED: No se puedo comprar el objeto. Este ha sido vendido o su precio ha cambiado.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBazar está bajo mantenimiento.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos a la venta.
+BAZAAR_INFO_NEEDS_MEDAL: Necesitas el Medallón de NosComerciante para realizar esta acción.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el limite.
-BAZAAR_INFO_RESYNC: La actualización de precio del objeto falló. Intenta denuevo.
-BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} de oro.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Objetos agregados a NosBazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: El precio del objeto se actualizó
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: ¡Precaución, te pueden atacar monstruos mientras usas el bazar!
+BAZAAR_INFO_RESYNC: El cambio de precio del objeto falló. Intentalo de nuevo.
+BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} oros.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: El precio del objeto ha cambiado.
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: ¡Cuidado! Te pueden atacar monstruos mientras usas el Bazar.
 BLACKLIST_INFO_ADDED: ¡Jugador agregado a la lista negra!
 BLACKLIST_INFO_BLOCKED: ¡Este jugador te ha bloqueado!
 BLACKLIST_INFO_BLOCKING: ¡Has bloqueado a este jugador!
 BLACKLIST_INFO_DELETED: ¡Jugador eliminado de la lista negra!
-BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No tiene efecto por imunidad.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: Has perdido el efecto {0} .
-BUFF_CHATMESSAGE_SIDE_EFFECTS: Efectos secundarios de {0} han empezado.
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No hace efecto gracias a la inmunidad.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Has perdido el efecto {0}
+BUFF_CHATMESSAGE_SIDE_EFFECTS: Los efectos secundarios de {0} han empezado.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Estas bajo los efectos de {0}
-CELLON_SHOUTMESSAGE_FAIL: La piedra de cellón ha desaparecido porque falló al agregar la opción.
-CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es muy alta para este accesorio.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡Las ranuras del accesorio estan llenas!
-CELLON_SHOUTMESSAGE_SUCCESS: Opciones agregadas.
-CHARACTER_CREATION_INFO_ALREADY_TAKEN: Este nombre ya esta en uso!
+CELLON_SHOUTMESSAGE_FAIL: La piedra de cellón ha desaparecido al intentar añadirla.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiado alta para este accesorio.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No sé pueden añadir más opciones al accesorio!
+CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
-CHARACTER_CREATION_INFO_INVALID_CHARNAME: Hay caracteres inválidos en tu nombre!
-CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo denuevo mas tarde.
-CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo denuevo mas tarde.
-CLASS_NAME_ADVENTURER: Adventurero
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
+CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
+CLASS_NAME_ADVENTURER: Aventurero
 CLASS_NAME_ARCHER: Arquero
 CLASS_NAME_MAGE: Mago
 CLASS_NAME_MARTIAL_ARTIST: Artista Marcial
@@ -75,11 +75,11 @@ COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Tu idioma actual es
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Comandos disponibles:'
 COMMANDS_CHATMESSAGE_HELP: '[Comando de ayuda]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Indocumentado.
-COMMANDS_CHATMESSAGE_USAGES: '[Uso de comando]'
+COMMANDS_CHATMESSAGE_USAGES: '[Uso del comando]'
 COMMEND_CHATMESSAGE_COOLDOWN: Solo puedes elogiar a un jugador por día.
 COMMEND_CHATMESSAGE_GIVEN: El jugador {0} ha sido elogiado.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de poder elogiar a alguien.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando llegues al nivel 30.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando hayas llegado al nivel 30.
 COMMEND_CHATMESSAGE_RECEIVED: El jugador {0} te ha elogiado.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
