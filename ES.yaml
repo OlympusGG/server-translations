@@ -1,4 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Inicio de sessión errónea.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: El canal de Acto 4 se encuentra desconectado
 ACT4_CHATMESSAGE_PVP_ANGELS: ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} Fue derrotado por un guardián {0}.'
@@ -16,11 +18,12 @@ ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de ángeles
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de demonios
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡El Señor Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: El Señor Mukraju murió
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '¡{0} ha invocado al Señor Mukraju!'
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado al Señor Mukraju!
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrador
 AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
 AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} Ha sido matado por {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Ya posees una tarjeta de debito del banco Cuarry en tu inventario.
@@ -58,6 +61,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es muy alta
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡Las ranuras del accesorio estan llenas!
 CELLON_SHOUTMESSAGE_SUCCESS: Opciones agregadas.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Este nombre ya esta en uso!
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Hay caracteres inválidos en tu nombre!
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo denuevo mas tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo denuevo mas tarde.
