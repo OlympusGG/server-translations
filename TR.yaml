@@ -371,6 +371,7 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Bunu sadece Miniland'deyken yapabilirsin.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
@@ -414,6 +415,9 @@ MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Artık buff akışlarını engelliyorsun.
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Artık buff akışlarını kabul ediyorsun.
@@ -620,6 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Kullanılmadan önce midyenin seçenekle
 SHELLS_SHOUTMESSAGE_OPTION_SET: Midye seçenekleri eklendi.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Midyenin nadirlik seviyesi çok yüksek!
 SHIP_CHATMESSAGE_LEVEL_REQ: Bu gemiye binebilmek için en az {0} seviye olmalısın.
+SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içerisinde hareket edecek.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içerisinde hareket edecek.
 SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.

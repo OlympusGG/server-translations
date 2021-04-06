@@ -24,11 +24,11 @@ AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèches chargées !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
 ARENA_CHATMESSAGE_PVP_ACTIVE: Le combat entre joueurs est activé!
-ARENA_INFO_ASK_ENTER: "Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or."
+ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
-BANK_DIALOG_ASK_DEPOSIT: "Veux-tu déposer {0}000 pièces d'or sur ton compte ?"
-BANK_DIALOG_ASK_WITHDRAW: "Veux-tu retirer {0}000 pièces d'or sur ton compte ?"
+BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
+BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
 BANK_INFO_NOT_ENOUGH_FUNDS: Pas assez d'or.
 BANK_INFO_TOO_MUCH_GOLD: Tu as trop d'or !
 BANK_LOG_OPEN_BANK: Bienvenue à la banque ! Comment puis-je t'aider ?
@@ -143,7 +143,7 @@ FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Le changement de faction de la famille est en rechargement.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre 
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiéeh pour rejoindre une famille.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
@@ -216,7 +216,7 @@ IC_50_59_W4_TITLE: Wave 4 - Vague du Mont Krem
 IC_50_59_W5_TITLE: Wave 5 - Vague d'araignées
 IC_60_69_W1_TITLE: Wave 1 - Vague de spectres
 IC_60_69_W2_TITLE: Wave 2 - Vague de Catsy
-IC_60_69_W3_TITLE: Wave 3 - Vague du Donjon de Sharena 
+IC_60_69_W3_TITLE: Wave 3 - Vague du Donjon de Sharena
 IC_60_69_W4_TITLE: Wave 4 - Vague de boules de cuivre
 IC_60_69_W5_TITLE: Wave 5 - Vague des Chevaliers Infernaux
 IC_70_79_W1_TITLE: Wave 1 - Vague de la Sapinière
@@ -371,6 +371,7 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Tu ne peux faire ça que dans un mini-pays.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Tu es déjà dans cette faction !
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
@@ -414,6 +415,9 @@ MUTE_MESSAGE_FEMALE: J'ai été une vilaine fille donc j'ai été punie !
 MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} notes.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
 NPC_SHOP_LOG_PURCHASE: Tu as acheté {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Le décompte des buffs est désormais désactivé.
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Le décompte des buffs est désormais activé.
@@ -507,7 +511,7 @@ PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
 PSP_AEGIR: Aegir le Furibond
 PSP_AMON: Amon
 PSP_AMORA: Cupidia
-PSP_ARCHDAEMON_AMON:  Archidémon Amon
+PSP_ARCHDAEMON_AMON: Archidémon Amon
 PSP_BARNI: Barni l'Intelligent
 PSP_CHEONGBI: Cheongbi
 PSP_CHLOE: Chloé la cowgirl
@@ -620,6 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La rune doit être identifiée avant d'�
 SHELLS_SHOUTMESSAGE_OPTION_SET: Les options de la rune ont été ajoutées.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Le niveau de rareté doit être identique ou inférieur à la rareté de l'équipement.
 SHIP_CHATMESSAGE_LEVEL_REQ: Tu dois être niveau {0} pour embarquer sur ce bateau.
+SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Le bateau partira dans {0} minutes.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Le bateau partira dans {0} secondes.
 SHOP_CHATMESSAGE_EMPTY: Le magasin ne peut pas être vide !
