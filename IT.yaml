@@ -371,6 +371,7 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Puoi farlo solo in MiniLand.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare la tua fazione in quella a cui appartieni!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
@@ -414,6 +415,9 @@ MUTE_MESSAGE_FEMALE: Sono stata una bimba cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
 NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} note nella casella.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
 NPC_SHOP_LOG_PURCHASE: Hai comprato {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Icone Buff Intermittenti disattivate
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Icone Buff Intermittenti attivate
@@ -620,6 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Prima di poter essere utilizzata la piet
 SHELLS_SHOUTMESSAGE_OPTION_SET: Le opzioni della pietra sono state aggiunte.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rarità della pietra deve essere uguale od inferiore a quella dell'equipaggiamento.
 SHIP_CHATMESSAGE_LEVEL_REQ: Devi essere almeno al livello {0} per salire sulla nave.
+SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti/o.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partità tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio privato non può essere vuoto!

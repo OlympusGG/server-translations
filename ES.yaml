@@ -371,6 +371,7 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mails in inbox.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
@@ -414,6 +415,9 @@ MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
 MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in inbox
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blinking buffs disabled
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Blinking buffs enabled
@@ -620,6 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: The shell must be identified before usin
 SHELLS_SHOUTMESSAGE_OPTION_SET: Shell options have been added.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: The shell rarity must be the same or lower than the equipment rarity.
 SHIP_CHATMESSAGE_LEVEL_REQ: You need at least level {0} to board this ship.
+SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} min.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} sec.
 SHOP_CHATMESSAGE_EMPTY: Shop can't be empty!
