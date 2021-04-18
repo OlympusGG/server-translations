@@ -284,7 +284,6 @@ INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Sınıfın değiştirildi!
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Ekipmanın boş değil!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} seviye atladı!'
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} maksimum seviyeye ulaştı!'
-INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Yöneticiler bunu yapamaz.
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: İş seviyen yükseldi!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Seviyen yükseldi!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maksimum partner limitine ulaşıldı!
@@ -394,6 +393,7 @@ MINIGAME_INFO_NO_REWARD: Bu mini oyunda ödül yok.
 MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
 MINIGAME_INFO_REFILL: 'Mini oyun katkısı: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Bu mini oyunu oynamak için {0} seviye ve {1} itibar puanına ihtiyacın var.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Mini-Land chest.
 MINILAND_DIALOG_ASK_INVITE: "{0}'in Miniland'ine katılmak istiyor musun?"
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Üretim puanın yetersiz olduğu için ödül kazanamayacaksın. Yine de oynamak istiyor musun?
 MINILAND_INFO_CHANGED: Miniland'inin tanıtımı yenilendi.
@@ -415,9 +415,9 @@ MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You receive the buff pack!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Artık buff akışlarını engelliyorsun.
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Artık buff akışlarını kabul ediyorsun.
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Kullanılmadan önce midyenin seçenekle
 SHELLS_SHOUTMESSAGE_OPTION_SET: Midye seçenekleri eklendi.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Midyenin nadirlik seviyesi çok yüksek!
 SHIP_CHATMESSAGE_LEVEL_REQ: Bu gemiye binebilmek için en az {0} seviye olmalısın.
-SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
+SHIP_SHOUTMESSAGE_COOLDOWN: The ship hasn't returned yet.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içerisinde hareket edecek.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içerisinde hareket edecek.
 SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.
@@ -672,11 +672,25 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Uzmanlık Kartının ruhu yeniden canlandı
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Bunu yapabilmek için Uzmanlık Kartını kuşatman gerekiyor.
 SUM_MESSAGE_FAILED: Birleştirme başarısız.
 SUM_MESSAGE_SUCCESS: Birleştirme başarılı!
+TIMESPACE_CHATMESSAGE_EASY_MODE: The time-space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this time-space.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all time-space missions have been completed.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's time-space?
+TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
 TIMESPACE_DIALOG_ASK_START: İlk odaya girmek istiyor musun?
+TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a time-space in record mode? It will cost {0} gold.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space has already begun.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Kapı açıldı.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Somewhere a door has opened
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
 TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
 TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı

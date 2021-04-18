@@ -284,7 +284,6 @@ INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Deine Klasse wurde geändert.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Du darfst keine Ausrüstung tragen!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Dein {0} ist aufgestiegen!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: Dein {0} hat die höchste Stufe erreicht!
-INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Du kannst diese Aktion als Game Master nicht ausführen.
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Dein Joblevel wurde erhöht!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Dein Level wurde erhöht!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahl an Partnern erreicht!
@@ -394,6 +393,7 @@ MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen, um dieses Minispiel zu spielen.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Mini-Land chest.
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da du nicht ausreichend Produktionspunkte besitzt. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Beschreibung wurde erneuert.
@@ -415,9 +415,9 @@ MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
 NOTE_CHATMESSAGE_NEW_NOTE: Du hast eine neue Notiz erhalten!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Du hast {0} Notizen in deinem Postfach
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You receive the buff pack!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Leuchtende Effekte deaktiviert
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Leuchtende Effekte aktiviert
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Die Muschel muss vor der Benutzung ident
 SHELLS_SHOUTMESSAGE_OPTION_SET: Die Eigenschaften der Muschel wurden hinzugefügt.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Muschel muss gleich oder geringer als die der Ausrüstung sein.
 SHIP_CHATMESSAGE_LEVEL_REQ: Du musst mindestens Level {0} sein, um dieses Schiff zu betreten.
-SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
+SHIP_SHOUTMESSAGE_COOLDOWN: The ship hasn't returned yet.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff wird in {0} Minuten ablegen.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff wird in {0} Sekunden ablegen.
 SHOP_CHATMESSAGE_EMPTY: Der Laden darf nicht leer sein!
@@ -672,11 +672,25 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wi
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst in einen Spezialisten verwandelt sein, um dies zu tun!
 SUM_MESSAGE_FAILED: Summierung fehlgeschlagen.
 SUM_MESSAGE_SUCCESS: Summierung erfolgreich!
+TIMESPACE_CHATMESSAGE_EASY_MODE: The time-space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this time-space.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all time-space missions have been completed.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace beginnen
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's time-space?
+TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
 TIMESPACE_DIALOG_ASK_START: Willst du den ersten Raum betreten?
+TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a time-space in record mode? It will cost {0} gold.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space has already begun.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Somewhere a door has opened
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde
+TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
 TITLE_DIALOG_ASK_ADD: Willst du diesen Titel hinzufügen?
 TITLE_INFO_EFFECT_DISABLED: Der Effekt des Titels wurde deaktiviert.
