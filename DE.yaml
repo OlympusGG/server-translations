@@ -415,7 +415,7 @@ MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
 NOTE_CHATMESSAGE_NEW_NOTE: Du hast eine neue Notiz erhalten!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Du hast {0} Notizen in deinem Postfach
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You receive the buff pack!
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You received the buff pack!
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
