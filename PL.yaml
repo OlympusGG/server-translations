@@ -284,7 +284,6 @@ INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Twoja klasa postaci została zmieniona.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Twój ekwipunek nie jest pusty!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Twoja {0} zdobyła kolejny poziom!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: Twoja {0} osiągneła maksymalny poziom!
-INFORMATION_SHOUTMESSAGE_GAMEMASTER_CANT_PERFORM_ACTION: Nie możesz wykonać tej akcji będać Mistrzem Gry
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Twoja profesja została podwyższona!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Poziom twojej postaci został podwyższony!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Osiągnięto maksymalną ilość Partnerów!
@@ -394,6 +393,7 @@ MINIGAME_INFO_NO_REWARD: Nie znaleziono żadnych nagród w danej minigrze.
 MINIGAME_INFO_POINTS_FULL: Osiągnięto maksymalną ilość punktów produkcji w minigrze.
 MINIGAME_INFO_REFILL: 'Wkład minigry: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Aby zagrać w tę grę, musisz posiadać {0} poziom oraz {1} punktów reputacji.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Dodano {0}x {1} do Mini-Landowej skrzynki.
 MINILAND_DIALOG_ASK_INVITE: Czy chcesz odwiedzić Mini-Land gracza {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Nie otrzymasz żadnych nagród, ponieważ nie masz żadnych punktów produkcji. Czy chcesz zagrać mimo to?
 MINILAND_INFO_CHANGED: Zmieniono wiadomość powitalną Mini-Landu.
@@ -415,9 +415,9 @@ MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: '#NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL'
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: '#NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL'
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Otrzymano zestaw efektów!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Twój poziom jest zbyt wysoki, aby otrzymać ten zestaw efektów.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Twój poziom jest zbyt niski, aby otrzymać ten zestaw efektów.
 NPC_SHOP_LOG_PURCHASE: Kupiłeś {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Wyłączono migający efekt
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Włączono migający efekt
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Przed użyciem opcja musi zostać zident
 SHELLS_SHOUTMESSAGE_OPTION_SET: Dodano nową opcję.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Unikalność osłony musi być taka sama lub niższa niż ekwipunku.
 SHIP_CHATMESSAGE_LEVEL_REQ: Aby wejść na statek, musisz posiadać {0} poziom.
-SHIP_SHOUTMESSAGE_COOLDOWN: '#SHIP_SHOUTMESSAGE_COOLDOWN'
+SHIP_SHOUTMESSAGE_COOLDOWN: Statek jeszcze nie powrócił.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Statek odpływa za {0} min.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Statek odpływa za {0} sek.
 SHOP_CHATMESSAGE_EMPTY: Sklep nie może być pusty!
@@ -672,12 +672,26 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Dusza Karty Specjalisty została wskrzeszon
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SUM_MESSAGE_FAILED: Łączenie nie udało się.
 SUM_MESSAGE_SUCCESS: Łączenie udało się.
-TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked!
-TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nie możesz wystartować.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Czasoprzestrzeń jest w trybie łatwym - czas trwania został wydłużony i nie otrzymasz wybranych nagród.
+TIMESPACE_CHATMESSAGE_GATE_LOCKED: Portal jest zamknięty!
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mój poziom jest zbyt niski aby dołączyć do tej czasoprzestrzeni.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nie wszystkie misje czasoprzestrzeni zostały ukończone.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Tylko lider czasoprzestrzeni może wystartować.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% pkt. zostało odciągniętych w ramach kary poziomu.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Czy chcesz dołączyć do czasoprzestrzeni członka grupy?
+TIMESPACE_DIALOG_ASK_REVIVAL: Czy chcesz się wskrzesić?
 TIMESPACE_DIALOG_ASK_START: Czy chcesz wejść do pierwszego pokoju?
-TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: A door has opened
-TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: The mission starts as soon as you enter the first room
-TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Please wait...
+TIMESPACE_DIALOG_ASK_START_RECORD: Czy chcesz rozpocząć czasoprzestrzeń w trybie rekordu? Będzie to kosztowało {0} szt. złota.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Czasoprzestrzeń już się rozpoczęła.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Portal został otwarty
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Gdzieś otworzył się portal
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Wrogowie otrzymują posiłki!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Przesunięto dźwignię
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Misja została zaktualizowana
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Pomyślnie ukończono szybką misję.
+TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Misja rozpocznie się, gdy wejdziesz do pierwszego pomieszczenia.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: Czasoprzestrzeń jest pełna.
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Proszę czekać...
 TITLE_DIALOG_ASK_ADD: Czy chcesz dodać ten tytuł?
 TITLE_INFO_EFFECT_DISABLED: Efekt tytułu został wyłączony
 TITLE_INFO_EFFECT_ENABLED: Efekt tytułu został włączony
