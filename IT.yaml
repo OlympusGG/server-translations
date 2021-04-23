@@ -1,6 +1,6 @@
-ACCOUNT_INFO_BAD_ID: Wrong account login.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACCOUNT_INFO_BAD_ID: Login Errato.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore riprova nuovamente.
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
@@ -23,10 +23,10 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Amministratore
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
+ARENA_CHATMESSAGE_PVP_ACTIVE: Modalità PvP attiva.
 ARENA_INFO_ASK_ENTER: Vuoi accedere all'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato sconfitto da {1}'
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: E' già presente una Carta della Banca Cuarry nel tuo inventario.
 BANK_DIALOG_ASK_DEPOSIT: Vuoi depositare {0}000 oro nel tuo conto?
 BANK_DIALOG_ASK_WITHDRAW: Vuoi ritirare {0}000 oro dal tuo conto?
 BANK_INFO_NOT_ENOUGH_FUNDS: Fondi Insufficienti.
@@ -90,8 +90,8 @@ DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Il livello di difesa del tuo NosMate è aumen
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Questa bambola non è adeguata !
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
-DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop errata.
+DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti in mappa per poter raccogliere questo oggetto.
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} nel tuo {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserimento della Pietra Fatata è fallito.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'inserimento della Pietra Fatata ha avuto successo!
@@ -330,7 +330,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Sei stato benedetto dal pot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Hai perso il potere della protezione.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Per modificare le ali dello Specialista, deve avere un livello di miglioramento maggiore di 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Il tuo Altoparlante è in ricarica, puoi utilizzarne uno ogni 30 secondi.
-INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INTERACTION_VESSEL_LIMIT_REACHED: Limite nella mappa di Mostri del Vaso Sigillato raggiunto
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquisito {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Vuoi riordinare il tuo inventario? Ha un minuto di ricarica.
@@ -370,18 +370,18 @@ ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Puoi farlo solo in MiniLand.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare la tua fazione in quella a cui appartieni!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
-ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0}min.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0}s.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0}h.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0}s.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è stata completata.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è stata spostata.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}ore.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Orario Manutenzione cambiato. Manutenzione tra: {0}min.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}s.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La Manutenzione è stata fermata.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0}ore.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0}min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Date un occhiata al nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
@@ -391,13 +391,13 @@ MESSAGE_UNDER_CHAT_5: 'Hai qualche problema nel gioco o con i pagamenti? Visita 
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: I punti produzione del minigame sono stati ricaricati.
 MINIGAME_INFO_NO_REWARD: Non sono presenti ricompense in questo minigame.
 MINIGAME_INFO_POINTS_FULL: Massimo dei punti produzione raggiunto.
-MINIGAME_INFO_REFILL: 'Contributo al Minigame: {0}'
+MINIGAME_INFO_REFILL: 'Contributo al Mini-game: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Hai bisogno di raggiungere il livello {0} e di avere {1} punti reputazione per giocare a questo minigame.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Mini-Land chest.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Aggiunto {0}x {1} alla cassa in Mini-Land.
 MINILAND_DIALOG_ASK_INVITE: Vuoi entrare nella Mini-Land di {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Senza punti produzione non riceverai ricompense. Vuoi continuare?
 MINILAND_INFO_CHANGED: Informazioni Mini-Land cambiate.
-MINILAND_INFO_DURABILITY_MAXIMUM: Maximum minigame durability reached.
+MINILAND_INFO_DURABILITY_MAXIMUM: Durabilità massima del mini-game raggiuna.
 MINILAND_INFO_INVITE_LOCK: La Mini-Land di questo giocatore è bloccata.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Non hai abbastanza Coupon Ricompensa!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Non hai abbastanza punti durabilità.
@@ -410,14 +410,14 @@ MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
 MINILAND_SHOUTMESSAGE_PRIVATE: La Mini-Land è privata.
 MINILAND_SHOUTMESSAGE_PUBLIC: La Mini-Land è pubblica.
 MINILAND_WELCOME_MESSAGE: Benvenuti!
-MUTE_CHATMESSAGE_TIME_LEFT: 'Durata punzione rimasta: {0}'
+MUTE_CHATMESSAGE_TIME_LEFT: 'Durata punizione rimasta: {0}'
 MUTE_MESSAGE_FEMALE: Sono stata una bimba cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
 NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} note nella casella.
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You received the buff pack!
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Hai ricevuto un pacco di aiuto!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Il tuo livello è troppo alto per ricevere questo pacco di aiuto.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Il tuo livello è troppo basso per ricevere questo pacco di aiuto..
 NPC_SHOP_LOG_PURCHASE: Hai comprato {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Icone Buff Intermittenti disattivate
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Icone Buff Intermittenti attivate
@@ -546,10 +546,10 @@ PSP_SHERIFF_CHLOE: Sceriffo Chloe
 PSP_SHINOBI: Shinobi il Silenzioso
 PSP_VENUS: Piccola Principessa Venus
 PSP_YUNA: Yuna Studentessa Magica
-QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} raccolti: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Questo Soldato Kenko è troppo forte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puoi ricevere una nuova quest da un NPC.
-QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] uccisi {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Una volta intrapresa, non puoi abbandonare la missione principale. Iniziare comunque?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Vuoi teletrasportarti?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Hai già completato questa missione principale!
@@ -575,7 +575,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ora fa parte del team.'
 RAID_DIALOG_ASK_START_RAID: Vuoi dare via al raid {0}?
 RAID_DIALOG_INVITED_YOU: '{0} ti ha invitato nel team del raid. Accettare?'
 RAID_INFO_NO_EXIST: Il raid non esiste!
-RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
+RAID_INFO_NO_LIVES_LEFT: Hai usato tutte le vite a tua disposizione.
 RAID_INFO_PLAYER_DEATH: Sei morto! Resusciterai tra 20 secondi.
 RAID_MESSAGE_DISOLVED: Il team del raid è stato sciolto.
 RAID_NAME_CASTRA: Castra Oscuro
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Prima di poter essere utilizzata la piet
 SHELLS_SHOUTMESSAGE_OPTION_SET: Le opzioni della pietra sono state aggiunte.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rarità della pietra deve essere uguale od inferiore a quella dell'equipaggiamento.
 SHIP_CHATMESSAGE_LEVEL_REQ: Devi essere almeno al livello {0} per salire sulla nave.
-SHIP_SHOUTMESSAGE_COOLDOWN: The ship hasn't returned yet.
+SHIP_SHOUTMESSAGE_COOLDOWN: La nave non è ancora tornata.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti/o.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partità tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio privato non può essere vuoto!
@@ -672,25 +672,25 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: L'anima della tua Carta dello Specialista �
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Per effettuare questa azione devi prima essere trasformato in uno Specialista!
 SUM_MESSAGE_FAILED: Somma fallita.
 SUM_MESSAGE_SUCCESS: Somma riuscita!
-TIMESPACE_CHATMESSAGE_EASY_MODE: The time-space is in easy mode - the duration has been extended and you will not receive selected rewards.
+TIMESPACE_CHATMESSAGE_EASY_MODE: La Pietra Spazio-Temporale è in modalità facile - la durata è stata estesa e non riceverai ricompense..
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Il portale è chiuso!
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this time-space.
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all time-space missions have been completed.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Il mio livello è troppo basso per poter partecipare a questa Pietra Spazio-Temporale.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Non sono state completate tutte le Pietre Spazio-Temporali.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo il capogruppo può dare via alla missione SpazioTempo
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's time-space?
-TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% di punti ridotti a causa di una penalità di livello'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Vuoi partecipare alla Pietra Spazio-Temporale assieme al gruppo ?
+TIMESPACE_DIALOG_ASK_REVIVAL: Vuoi Rinascere?
 TIMESPACE_DIALOG_ASK_START: Vuoi entrare nella prima stanza?
-TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a time-space in record mode? It will cost {0} gold.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space has already begun.
+TIMESPACE_DIALOG_ASK_START_RECORD: Vuoi entrare nella Pietra Spazio-Temporale in modalità record? Costerà {0} oro.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Pietra Spazio-Temporale già iniziata.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Un portale è stato aperto
-TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Somewhere a door has opened
-TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
-TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
-TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Da qualche parte una porta si è aperta
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: I nemici hanno chiamato rinforzi|
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: La leva è stata azionata.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La missione è stata aggiornata
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hai completato la missione corrente.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La missione avrà inizio appena si entrerà nella prima stanza
-TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: La Pietra Spazio-Temporale è piena.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Attendi...
 TITLE_DIALOG_ASK_ADD: Vuoi aggiungere questo titolo?
 TITLE_INFO_EFFECT_DISABLED: Effetto del titolo disattivato.
@@ -699,7 +699,7 @@ TITLE_INFO_UNLOCKED: Il titolo è stato sbloccato!
 TITLE_INFO_VISIBLE_DISABLED: Visibilità del titolo disattivata!
 TITLE_INFO_VISIBLE_ENABLED: Visibilità del titolo attivata!
 TRADE_CHATMESSAGE_BLOCKED: Il giocatore ha bloccato gli scambi!
-TRADE_CHATMESSAGE_REFUSED: '{0} ha rifiutato la tua richiesa di scambio.'
+TRADE_CHATMESSAGE_REFUSED: '{0} ha rifiutato la tua richiesta di scambio.'
 TRADE_CHATMESSAGE_YOU_REFUSED: Scambio rifiutato.
 TRADE_DIALOG_ASK_FOR_TRADE: Hai richiesto uno scambio a {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE: Il giocatore {0} [{1}(+{2})Lv.] vuole effettuare uno scambio.
@@ -718,7 +718,7 @@ UPGRADE_MESSAGE_SP_FAILED: Miglioramento dello Specialista fallito!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Il miglioramento dello Specialista è fallito, ma l'anima è stata protetta.
 UPGRADE_MESSAGE_SP_SUCCESS: Miglioramento dello Specialista riuscito!
 UPGRADE_MESSAGE_SUCCESS: Miglioramento riuscito!
-WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Vuoi davvero divorziare?
 WEDDING_DIALOG_REQUEST_RECEIVED: Il giocatore {0} ti ha fatto una proposta di matrimonio. Vuoi accettare?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Sei sicuro/a di voler accettare {0}?
 WEDDING_INFO_DIVORCED: Il matrimonio è stato terminato.
