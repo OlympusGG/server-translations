@@ -247,23 +247,23 @@ IC_90_150_45_70H_W5_TITLE: Oleada 5 - Zona de descanso
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_NAME: Icebreaker
-ICEBREAKER_SHOUTMESSAGE_END: The Icebreaker has ended.
-ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Prepare to fight!
-ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} is frozen.'
-ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} was unfrozen.'
-ICEBREAKER_SHOUTMESSAGE_STARTED: Icebreaker has started
-ICEBREAKER_SHOUTMESSAGE_WIN: You won the Icebreaker!
-INFORMATION_CHANNEL: Channel
-INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Can't use that right now!
-INFORMATION_CHATMESSAGE_NO_WINGS: You don't have any Wings of Friendship!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Not enough mana points!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Not enough reputation!
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Your level is too low!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: This item is not yours!
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: The NosMerchant Medal is currently active.
-INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner Specialist transformation in cooldown: {0} sec.'
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputation decreased: -{0}!'
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputation increased: +{0}!'
++ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: ¡Prepárate para luchar!
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} está congelado.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} ha sido descongelado.'
+ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El Icebreaker ha comenzado!
+ICEBREAKER_SHOUTMESSAGE_WIN: ¡Has ganado el Icebreaker!
+INFORMATION_CHANNEL: Canal
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
+INFORMATION_CHATMESSAGE_NO_WINGS: ¡No tienes Alas de Amistad!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: ¡No tienes suficiente MP!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: ¡No tienes suficiente puntos de reputación!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: ¡Tu nivel es demasiado bajo!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: ¡Ese objeto no te pertenece!
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: El medallón del NosComerciante está activo.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'La transformación de especialista del compañero está en enfriamiento: {0} seg.'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: '¡Reputación disminuida: -{0}!'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: '¡Reputación aumentada: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Used {1}x {0}
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Protection Scroll has been used!
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Specialist transformation in cooldown: {0} sec.'
