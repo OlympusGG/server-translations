@@ -381,7 +381,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Orario Manutenzione cambia
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La Manutenzione è stata fermata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0}ore.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.f
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Date un occhiata al nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
