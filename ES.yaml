@@ -1,4 +1,5 @@
-[0ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento. {0} gold. 
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento. {0} gold. 
+
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra fuera de servicio.
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
