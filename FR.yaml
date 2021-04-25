@@ -376,11 +376,8 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Changement de l'horaire de maintenance. Début dans: {0}h."
-
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: "Changement de l'horaire de maintenance. Début dans: {0}min."
-
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: "Changement de l'horaire de maintenance. Début dans: {0}sec."
-
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La maintenance a été arrêté.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La maintenance débutera dans {0}h.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La maintenance débutera dans {0}min.
@@ -675,10 +672,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: L'âme de ta carte de spécialiste a été 
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Tu dois être en spécialiste pour faire ça.
 SUM_MESSAGE_FAILED: Somme échouée.
 SUM_MESSAGE_SUCCESS: Somme réussie !
-TIMESPACE_CHATMESSAGE_EASY_MODE: Le défi de l'espace-temps est en mode facile - la durée a été rallongé, tu ne recevras pas les récompenses sélectionnées.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Le défi de l'espace-temps est en mode facile - la durée a été prolongé, tu ne recevras pas les récompenses sélectionnées.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Le porte est bloquée.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mon niveau est trop bas pour rejoindre l'espace-temps.
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toute les missions d'espaces-temps n'ont pas étés accomplis.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toute les missions d'espaces-temps n'ont pas étés accomplies.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le maitre du groupe peut commencer l'espace-temps.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% des points ont étés réduits à cause de la pénalité de niveau.'
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Veux-tu rejoindre la mission d'espace-temps avec ton équipe?
@@ -688,9 +685,9 @@ TIMESPACE_DIALOG_ASK_START_RECORD: Veux-tu commencer l'espace-temps en mode "rec
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: La mission d'espace-temps a déjà commencé.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Une porte s'est ouverte.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Une porte a été ouverte quelque part
-TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Les ennemis recoivent des renforts!
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Les ennemis reçoivent des renforts!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Le levier a été activé.
-TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La mission a été actualisé
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La mission a été actualisée
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Tu as complété la mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La mission commencera lorsque tu entreras dans la première salle.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: La mission d'espace-temps est complète, tu ne peux pas la rejoindre.
