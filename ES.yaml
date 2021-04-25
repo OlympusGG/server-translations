@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACT4_CHANNEL_OFFLINE: Glacernon se encuentra fuera de servicio.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
+ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián {0}.'
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
-ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián {0}.'
+ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián de los {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar a la mazmorra!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar a la mazmorra te costará {0} puntos de reputación. ¿Entrarás?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
@@ -24,17 +24,17 @@ AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
 AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Modo PvP activo.
-ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0}.
+ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} de oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Ya posees una tarjeta de débito del banco Cuarry en tu inventario.
-BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0} oros en tu cuenta bancaria?
-BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0} oros de tu cuenta bancaria?
+BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0} de oro en tu cuenta bancaria?
+BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0} de oro de tu cuenta bancaria?
 BANK_INFO_NOT_ENOUGH_FUNDS: No hay fondos suficientes.
 BANK_INFO_TOO_MUCH_GOLD: ¡Tienes demasiado oro!
 BANK_LOG_OPEN_BANK: ¡Bienvenido al banco! ¿Como te puedo ayudar?
-BANK_LOG_WITHDRAW_BANK: '{0} oro retirados.'
-BANK_MESSAGE_BALANCE: Tienes {0} oro en tu cuenta bancaria.
-BANK_MESSAGE_DEPOSIT: Has depositado {0} oro en tu cuenta bancaria.
+BANK_LOG_WITHDRAW_BANK: '{0} de oro retirados.'
+BANK_MESSAGE_BALANCE: Tienes {0} de oro en tu cuenta bancaria.
+BANK_MESSAGE_DEPOSIT: Has depositado {0} de oro en tu cuenta bancaria.
 BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
@@ -44,7 +44,7 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos
 BAZAAR_INFO_NEEDS_MEDAL: Necesitas el Medallón de NosComerciante para realizar esta acción.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el límite.
 BAZAAR_INFO_RESYNC: El cambio de precio del objeto falló. Intentalo de nuevo.
-BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} oros.
+BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} de oro.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: El precio del objeto ha cambiado.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: ¡Cuidado! Te pueden atacar monstruos mientras usas el Bazar.
@@ -82,7 +82,7 @@ COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de pode
 COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando hayas llegado al nivel 30.
 COMMEND_CHATMESSAGE_RECEIVED: El jugador {0} te ha elogiado.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
-+DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restaurada: +{0}.'
++DIGNITY_CHATMESSAGE_RESTORE: 'Dignidad restaurada: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: La mejora del nivel de ataque de tu NosMate falló.
 DOLL_MESSAGE_MATE_ATTACK_UPGRADE: ¡El nivel de ataque de tu NosMate ha aumentado! +{0} -> +{1}
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: La mejora del nivel de defensa de tu NosMate falló.
@@ -101,8 +101,8 @@ FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada en armas y armaduras.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha iniciado sesión!'
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Actualización familiar comprada!
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Este miembro de la familia ya tiene autoridad.
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Mejora familiar comprada!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Este miembro de la familia ya tiene ese nivel de autoridad.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres deshacer tu familia? No hay vuelta atrás.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro de que quieres unirte a la familia?
 FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿quieres unirte?
@@ -112,10 +112,10 @@ FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla no puede abandonar la familia sin haber echado a todo el mundo.
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
 FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Quieres abandonar la familia?
-FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes esa autoridad a otros.
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes ese nivel de autoridad a otro miembro.
 FAMILY_INFO_CREATION_BANNED_NAME: Tu familia contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Tienes que estar en un grupo para crear una familia.
-FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien de tu grupo ya está en una familia o recientemente abÇndonó una familia.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien de tu grupo ya está en una familia o recientemente abandonó una familia.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Límite de representantes alcanzado.
 FAMILY_INFO_FULL: La familia está llena.
 FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: ¡Alguien del grupo ya pertenece a una familia!
@@ -126,7 +126,7 @@ FAMILY_INFO_KEEPER_LIMIT_REACHED: Límite de administradores alcanzado.
 FAMILY_INFO_LEAVE: Has abandonado la familia.
 FAMILY_INFO_NAME_ALREADY_USED: ¡Este nombre ya está en uso!
 FAMILY_INFO_NO_FAMILY: No tienes familia.
-FAMILY_INFO_NO_FAMILY_RIGHT: No tienes derechos suficientes.
+FAMILY_INFO_NO_FAMILY_RIGHT: No tienes autoridad suficiente.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: No hay almacen familiar.
 FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
@@ -196,7 +196,7 @@ GROUP_INFO_REQUEST: Solicitud de grupo enviada al jugador {0}.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: Vas a compartir el punto de retorno con tus compañeros de grupo.
 GROUP_SHOUTMESSAGE_CLOSED: Grupo disuelto.
 GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} ha cambiado su punto de retorno.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} ha decidido no compartir su punto de retorno.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} no ha cambiado su punto de retorno.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Has aceptado el punto de retorno de tu compañero de grupo.
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Has decidido rechazar el punto de retorno de tu compañero de grupo.
 GROUP_SHOUTMESSAGE_SHARING: 'Compartir: todos'
@@ -217,7 +217,7 @@ IC_50_59_W5_TITLE: Oleada 5 - ¡Arañas!
 IC_60_69_W1_TITLE: Oleada 1 - ¡Fantasmas!
 IC_60_69_W2_TITLE: Oleada 2 - ¡Catsy!
 IC_60_69_W3_TITLE: Oleada 3 - ¡Mazmorra imposible!
-IC_60_69_W4_TITLE: Oleada 4 - ¡Bolas de bronce!
+IC_60_69_W4_TITLE: Oleada 4 - ¡Bolas de cobre!
 IC_60_69_W5_TITLE: Oleada 5 - ¡Caballeros del infierno!
 IC_70_79_W1_TITLE: Oleada 1 - ¡Bosque de abetos!
 IC_70_79_W2_TITLE: Oleada 2 - ¡Bosque arce!
@@ -257,7 +257,7 @@ INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
 INFORMATION_CHATMESSAGE_NO_WINGS: ¡No tienes Alas de Amistad!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: ¡No tienes suficiente MP!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: ¡No tienes suficiente puntos de reputación!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: ¡No tienes suficientes puntos de reputación!
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: ¡Tu nivel es demasiado bajo!
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: ¡Ese objeto no te pertenece!
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: El medallón del NosComerciante está activo.
@@ -296,7 +296,7 @@ INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Solo siendo un aventurero puedes cambia
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: No tienes munición de catapulta. Puedes comprarla en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: No te quedan flechas. Puedes comprar más en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: No te queda munición de ballesta. Puedes comprar pernos en una tienda de equipamiento.
-INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: ¡No tienes puesta una 
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: ¡No tienes puesta una Tarjeta de Especialista!
 INFORMATION_SHOUTMESSAGE_NO_WEAPON: ¡No estás llevando arma!
 INFORMATION_SHOUTMESSAGE_NO_WIG: No llevas peluca.
 INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: No tienes suficientes puntos de combate.
