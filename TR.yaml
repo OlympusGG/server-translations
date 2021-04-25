@@ -375,7 +375,7 @@ MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Bakım yapıldı.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Bakım süresinin değiştirildi. Başlamak için yeni zaman: {0}saat."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Bakım süresinin değiştirildi. Başlamak için yeni zaman: {0}saat.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}dakika.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}saniye.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
@@ -384,7 +384,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başl
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
 MESSAGE_UNDER_CHAT_0: 'Lütfen en yeni güncellemeler için web sitemizi kontrol edin: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Discord sunucumuza göz atın: noswings.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Bir hata mı buldunuz Rapor et: noswings.com/bug-report -> noswings.com/bug-report 'dan bildirin.'
+MESSAGE_UNDER_CHAT_2: "Bir hata mı buldunuz Rapor et: noswings.com/bug-report -> noswings.com/bug-report 'dan bildirin."
 MESSAGE_UNDER_CHAT_3: 'Bir fikrin var mı? Forumumuzda yayınlayın: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Oyun kurallarına uyun: noswings.com/game-rules'
 MESSAGE_UNDER_CHAT_5: 'Herhangi bir ödeme veya oyun içi sorununuz var mı? Support Discord sunucumuza göz atın: noswings.com/support'
