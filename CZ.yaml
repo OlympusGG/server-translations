@@ -250,74 +250,74 @@ ICEBREAKER_NAME: Ledoborec
 ICEBREAKER_SHOUTMESSAGE_END: Event Ledoborec ukončen.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Připrav se k boji!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} byl zmražen.'
-ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} was unfrozen.'
-ICEBREAKER_SHOUTMESSAGE_STARTED: Icebreaker has started
-ICEBREAKER_SHOUTMESSAGE_WIN: You won the Icebreaker!
-INFORMATION_CHANNEL: Channel
-INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Can't use that right now!
-INFORMATION_CHATMESSAGE_NO_WINGS: You don't have any Wings of Friendship!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Not enough mana points!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Not enough reputation!
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Your level is too low!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: This item is not yours!
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: The NosMerchant Medal is currently active.
-INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner Specialist transformation in cooldown: {0} sec.'
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputation decreased: -{0}!'
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputation increased: +{0}!'
-INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Used {1}x {0}
-INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Protection Scroll has been used!
-INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Specialist transformation in cooldown: {0} sec.'
-INFORMATION_CHATMESSAGE_USER_NOT_HERO: You are not eligible to use this.
-INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: User has blocked private messages!
-INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Sent to '{0}' on channel {1}.
-INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP points: +{0}'
-INFORMATION_HERO_LEVELUP: You hero level has been increased!
-INFORMATION_INFO_PLAYER_IN_BATTLE: Player {0} is in battle.
-INFORMATION_INFO_PLAYER_OFFLINE: Player is not online!
-INFORMATION_MESSAGE_LOW_JOB: Your job level is too low!
-INFORMATION_MESSAGE_MAX_GOLD: Maximum amount of gold reached!
-INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: I'm not hungry!
-INFORMATION_MESSAGE_NOT_HUNGRY_MALE: I'm not hungry!
-INFORMATION_MESSAGE_USER_NOT_CONNECTED: User is not connected.
-INFORMATION_MESSAGE_USER_NOT_FOUND: User not found!
-INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Your class has been changed.
-INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Your equipment is not empty!
-INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Your {0} has leveled up!
-INFORMATION_SHOUTMESSAGE_FAIRYMAX: Your {0} has reached its highest level!
-INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Your job level has been increased!
-INFORMATION_SHOUTMESSAGE_LEVELUP: Your level has been increased!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximum amount of Partners reached!
-INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximum Partner slots reached.
-INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximum amount of NosMates reached!
-INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximum NosMate slots reached.
-INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: You must be in a general map.
-INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: You need to leave the group to do that!
-INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Only Adventurer can change the class.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: You don't have enough catapult ammo. Buy it in an equipment shop.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: You don't have enough arrows. Buy them in an equipment shop.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: You don't have enough bolts. Buy them in an equipment shop.
-INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: You are not wearing a Specialist Card!
-INFORMATION_SHOUTMESSAGE_NO_WEAPON: You're not wearing appropriate weapon!
-INFORMATION_SHOUTMESSAGE_NO_WIG: You're not wearing a wig.
-INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Not enough CP.
-INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: You can't release your Partner if they are wearing any equipment.
-INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: You can't release your Partner if it's following you.
-INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: The item has been changed into partner equipment.
-INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: You can't release your NosMate if it's following you.
-INFORMATION_SHOUTMESSAGE_REMOVE_SP: If you want to learn a skill, you need to remove your Specialist card.
-INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Remove your vehicle before transforming.
-INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
-INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
-INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialist must have at least level {0} to upgrade!
-INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points set.
-INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Your level is too low!
-INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map!
-INSTANT_COMBAT_NAME: Instant Combat
-INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: The Instant Combat will end in {0} min.
-INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monsters incoming...
-INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: The Instant Combat will end in {0} sec.
-INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulations! You won the Instant Combat!
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Unfortunately, you didn't beat the wave and didn't receive the loot.
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} byl rozmražen.'
+ICEBREAKER_SHOUTMESSAGE_STARTED: Ledoborec započal
+ICEBREAKER_SHOUTMESSAGE_WIN: Vyhrál jsi Ledoborec!
+INFORMATION_CHANNEL: Kanál
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Tohle teď nemůžu použít!
+INFORMATION_CHATMESSAGE_NO_WINGS: Nemáš žádné Křídla přátelství!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nedostatek mana bodů!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nedostatek bodů reputace!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Tvůj level je příliš nízký!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Tento předmět není tvůj!
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Medaile NosMerchant je momentálně aktivní.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformace specialisty Partnera má cooldown: {0} sekund.'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputace snížena: -{0}!'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputace zvýšena: +{0}!'
+INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Použití {1}x {0}
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Svitek Ochrany byl použit!
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Transformace specialisty má cooldown: {0} sekund.'
+INFORMATION_CHATMESSAGE_USER_NOT_HERO: Nemáš oprávnění toto použít.
+INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Uživatel má blokované soukromé zprávy!
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Odesláno '{0}' na kanálu {1}.
+INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP body: +{0}'
+INFORMATION_HERO_LEVELUP: Hrdinská úroveň byla zvýšena!
+INFORMATION_INFO_PLAYER_IN_BATTLE: Hráč {0} je právě v bitvě.
+INFORMATION_INFO_PLAYER_OFFLINE: Hráč není online!
+INFORMATION_MESSAGE_LOW_JOB: Tvá úroveň práce je příliš nízká!
+INFORMATION_MESSAGE_MAX_GOLD: Maximální množství zlata dosaženo!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Nejsem hladová!
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Nejsem hladový!
+INFORMATION_MESSAGE_USER_NOT_CONNECTED: Uživatel není připojen.
+INFORMATION_MESSAGE_USER_NOT_FOUND: Uživatel nebyl nalezen!
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tvá třída byla změněna!
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tvé sloty vybavení nejsou prázdné!
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Tvoje víla {0} navýšila svoji úroveň!
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: Tvoje víla {0} dosáhla maximální úrovně!
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Tvá úroveň práce byla navýšena!
+INFORMATION_SHOUTMESSAGE_LEVELUP: Tvá úroveň byla navýšena!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximální množství Partnerů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximální množství slotů Partnerů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximální množství NosMátů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximální množství slotů NosMátů dosaženo!
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Musíš být na obecné mapě.
+INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: K této akci bude nutné opustit skupinu!
+INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Pouze dobrodruh může změnit svoji třídu.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Nemáš dostatek munice do katapultu. Kup ji v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Nemáš nasazenou kartu Specialisty!
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: Nemáš nasazené vhodné brnění!
+INFORMATION_SHOUTMESSAGE_NO_WIG: Nenosíš žádnou paruku.
+INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Nedostatek CP.
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Nemůžeš propustit svého Partnera, když na sobě má nějaké vybavení.
+INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého Partnera, když tě následuje.
+INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Předmět byl změněn na vybavení Partnera.
+INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého NosMáta, když tě následuje.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: Chceš-li se naučit nové dovednosti, bude nutné odebrat kartu Specialisty.
+INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Před transformací odeber vozidlo.
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Tvé pohlaví bylo změněno!
+INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server bude vypnut za {0} sekund.
+INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialista musí mít alespoň level {0} k vylepšení!
+INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Body nastaveny.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Tvůj level je příliš nízký!
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Tento hráč není na obecné mapě!
+INSTANT_COMBAT_NAME: Okamžitý Boj
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitý Boj skončí za {0} minut.
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Příšery přicházejí...
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitý Boj skončí za {0} sekund.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulujeme! Vyhráli jste Okamžitý Boj!
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Bohužel jste neporazili celou vlnu a neobdrželi žádnou kořist.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: The next wave will begin in {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: The next wave will begin in {0} sec.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Introduction set.
