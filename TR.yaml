@@ -677,7 +677,7 @@ TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu zaman-alanına katılamayacak kadar düşük.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm zaman alanı görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% Seviye cezası nedeniyle puan düşürüldü.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% Seviye cezası nedeniyle puan düşürüldü.'
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Bir grup üyesinin zaman alanına katılmak ister misiniz?
 TIMESPACE_DIALOG_ASK_REVIVAL: Kendini diriltmek mi istiyorsun?
 TIMESPACE_DIALOG_ASK_START: İlk odaya girmek istiyor musun?
