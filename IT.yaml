@@ -1,6 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Login Errato.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore riprova nuovamente.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore riprova nuovamente più tardi.
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
@@ -373,15 +373,15 @@ ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di 
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è stata completata.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è stata spostata.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è iniziata.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è finita.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}ore.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Orario Manutenzione cambiato. Manutenzione tra: {0}min.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}s.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La Manutenzione è stata fermata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0}ore.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.f
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Date un occhiata al nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
@@ -397,7 +397,7 @@ MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Aggiunto {0}x {1} alla cassa in Mini
 MINILAND_DIALOG_ASK_INVITE: Vuoi entrare nella Mini-Land di {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Senza punti produzione non riceverai ricompense. Vuoi continuare?
 MINILAND_INFO_CHANGED: Informazioni Mini-Land cambiate.
-MINILAND_INFO_DURABILITY_MAXIMUM: Durabilità massima del mini-game raggiuna.
+MINILAND_INFO_DURABILITY_MAXIMUM: Durabilità massima del mini-game raggiunta.
 MINILAND_INFO_INVITE_LOCK: La Mini-Land di questo giocatore è bloccata.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Non hai abbastanza Coupon Ricompensa!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Non hai abbastanza punti durabilità.
