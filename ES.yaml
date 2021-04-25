@@ -709,13 +709,11 @@ TRADE_MODAL_ALREADY_IN_EXCHANGE: Este jugador está intercambiando.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: No pudes intercambiar con comerciantes.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Este objeto no puede ser intercambiado.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: No puedes intercambiar dentro de un raid.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes intercambiar con un miembro de un raid.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes intercambiar con el miembro de un raid.
 UPGRADE_MESSAGE_FAILED: ¡La mejora ha fallado!
-
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: La mejora ha fallado, pero el objeto ha sido protegido.
 UPGRADE_MESSAGE_FIXED: Nivel fijado.
 UPGRADE_MESSAGE_SP_DESTROYED: ¡El alma de la tarjeta de especialista ha sido destruída!
-
 UPGRADE_MESSAGE_SP_FAILED: ¡La mejora de la SP ha fallado!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: La mejora de la tarjeta de especialista ha fallado, pero el objeto ha sido protegido.
 UPGRADE_MESSAGE_SP_SUCCESS: ¡La tarjeta de especialista se ha mejorado con éxito!
