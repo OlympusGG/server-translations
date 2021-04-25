@@ -22,7 +22,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
-AMMO_LOADED_SWORDSMAN: Šípy do kuše připraveny!
+AMMO_LOADED_SWORDSMAN: Šípky do kuše připraveny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata .
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl brutalizován tímto frajerem: {1}'
@@ -504,8 +504,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: Tvůj NosMate {0} právě navýšil svoji úroveň!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate odešel zpět do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate bude zpět za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate oživen díky NosMate ochrannému anděli.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], šance na odměnu: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Obdržel jsi {0} jako extra odměnu!'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Systém Soucitu] {0} => [{1}/{2}], šance na odměnu: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Systém Soucitu] Obdržel jsi {0} jako extra odměnu!'
 PORTAL_CHATMESSAGE_BLOCKED: Tento portál je uzamčený, nemůžu jej použít.
 PORTAL_CHATMESSAGE_TOO_EARLY: Již brzy bude umožněn vstup do portálu.
 PSP_AEGIR: Aegir
