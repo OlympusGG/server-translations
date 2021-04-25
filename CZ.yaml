@@ -1,53 +1,53 @@
-ACCOUNT_INFO_BAD_ID: Wrong account login.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACT4_CHANNEL_OFFLINE: Act.4 Channel is Offline
-ACT4_CHATMESSAGE_PVP_ANGELS: angels
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
-ACT4_CHATMESSAGE_PVP_DEMONS: demons
-ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
-ACT4_DUNGEON_REVIVAL_DIALOG: Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room has been closed.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss has been defeated!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room is now open.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Dungeon gate is now open near the central boundary tower in Bitoren Tundra!
-ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Crown.
-ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju is dead!
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju died
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
-ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
-AMMO_LOADED_ADVENTURER: Ammo loaded!
-AMMO_LOADED_ARCHER: Arrow loaded!
-AMMO_LOADED_SWORDSMAN: Crossbow bolts loaded, Chaaaarge!
-ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
-ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: You already have a Cuarry Bank Debit Card in your equipment.
-BANK_DIALOG_ASK_DEPOSIT: Do you want to deposit {0}000 gold to your bank?
-BANK_DIALOG_ASK_WITHDRAW: Do you want to withdraw {0}000 gold from your bank account?
-BANK_INFO_NOT_ENOUGH_FUNDS: Not enough funds.
-BANK_INFO_TOO_MUCH_GOLD: You have too much gold!
-BANK_LOG_OPEN_BANK: Welcome to the bank! What may I help you with?
-BANK_LOG_WITHDRAW_BANK: '{0}000 gold withdrawn.'
-BANK_MESSAGE_BALANCE: You have {0} gold in your bank.
-BANK_MESSAGE_DEPOSIT: Deposited {0}000 gold in your bank.
-BANK_MESSAGE_MAX_GOLD_REACHED: Maximum amount of gold in bank reached!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Item added to NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Purchase impossible, item sold or price changed.
-BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar is under maintenance.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
-BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds limit.
-BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar
-BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
+ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosím zkuste to znovu později.
+ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
+ACT4_CHATMESSAGE_PVP_ANGELS: andělé
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
+ACT4_CHATMESSAGE_PVP_DEMONS: démoni
+ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce strany {0}.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Pro vstup je potřeba být členem rodiny!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do podzemí tě bude stát {0} bodů reputace. Opravdu chceš vejít dovnitř?
+ACT4_DUNGEON_REVIVAL_DIALOG: Oživení zde vás bude stát {0} bodů reputace. Při zrušení budete teleportováni na začátek. Potvrzujete oživení na místě?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room byl uzavřen.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss byl poražen!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room je nyní otevřen.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při centrální věži na mapě Bitoren Tundra!
+ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělem fakci a mají ochrannou moc.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Kemp andělů
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Kemp démonů
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
+AMMO_LOADED_ADVENTURER: Náboje nabity!
+AMMO_LOADED_ARCHER: Šíp připraven!
+AMMO_LOADED_SWORDSMAN: Šíp připraveny v kuši, Chaaaargee!
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
+ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata .
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl brutalizován tímto frajerem: {1}'
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Již u sebe máš Cuarry Bank Debit Card.
+BANK_DIALOG_ASK_DEPOSIT: Opravdu chceš vložit {0}000 zlata na svůj bankovní účet?
+BANK_DIALOG_ASK_WITHDRAW: Opravdu chceš vybrat {0}000 zlata z tvého bankovního účtu?
+BANK_INFO_NOT_ENOUGH_FUNDS: Není dostatek hotovosti.
+BANK_INFO_TOO_MUCH_GOLD: Máš moc zlata!
+BANK_LOG_OPEN_BANK: Vítej v bance! S čím vám mohu pomoci?
+BANK_LOG_WITHDRAW_BANK: '{0}000 zlata vybráno.'
+BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
+BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
+BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročení finančních prostředků bylo zasláno bance.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána na NosBaazar.
+BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna cena.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar je v údržbě.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Bylo dosaženo maximálního počtu nabízených položek.
+BAZAAR_INFO_NEEDS_MEDAL: Nemáš NosMerchant medaili
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena položky překračuje limit.
+BAZAAR_INFO_RESYNC: Změna ceny položky se nezdařila. Zkus to znovu.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Chceš změnit cenu položky? Bude to stát {0} zlata.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Položka přidána na NosBaazar
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena položky změněna
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Bacha! Při používání NosBaazaru tě mohou napadnout monstra!
 BLACKLIST_INFO_ADDED: Player added to blacklist!
 BLACKLIST_INFO_BLOCKED: This player has blocked you!
 BLACKLIST_INFO_BLOCKING: You have blocked this player!
