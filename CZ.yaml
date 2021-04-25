@@ -21,8 +21,8 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
-AMMO_LOADED_ARCHER: Šíp připraven!
-AMMO_LOADED_SWORDSMAN: Šíp připraveny v kuši, Chaaaargee!
+AMMO_LOADED_ARCHER: Šíp nabit!
+AMMO_LOADED_SWORDSMAN: Šípy do kuše nabity!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata .
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl brutalizován tímto frajerem: {1}'
@@ -269,7 +269,7 @@ INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Svitek Ochrany byl použit!
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Transformace specialisty má cooldown: {0} sekund.'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Nemáš oprávnění toto použít.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Uživatel má blokované soukromé zprávy!
-INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Odesláno '{0}' na kanálu {1}.
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Odesláno hráči '{0}' na kanálu {1}.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP body: +{0}'
 INFORMATION_HERO_LEVELUP: Hrdinská úroveň byla zvýšena!
 INFORMATION_INFO_PLAYER_IN_BATTLE: Hráč {0} je právě v bitvě.
