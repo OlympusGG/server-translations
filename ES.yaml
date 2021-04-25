@@ -306,7 +306,7 @@ INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: The item has been changed into partn
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: You can't release your NosMate if it's following you.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: If you want to learn a skill, you need to remove your Specialist card.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Remove your vehicle before transforming.
-INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: ¡Has cambiado tu género!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialist must have at least level {0} to upgrade!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points set.
