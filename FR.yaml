@@ -375,7 +375,8 @@ MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Changement de l'horaire de maintenance. Début dans: {0}h.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Changement de l'horaire de maintenance. Début dans: {0}h."
+
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: "Changement de l'horaire de maintenance. Début dans: {0}min."
 
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: "Changement de l'horaire de maintenance. Début dans: {0}sec."
