@@ -699,28 +699,28 @@ TITLE_INFO_UNLOCKED: The title has been unlocked!
 TITLE_INFO_VISIBLE_DISABLED: Title visibility disabled!
 TITLE_INFO_VISIBLE_ENABLED: Title visibility enabled!
 TRADE_CHATMESSAGE_BLOCKED: User has blocked trades!
-TRADE_CHATMESSAGE_REFUSED: Player {0} refused your trade request.
-TRADE_CHATMESSAGE_YOU_REFUSED: Trade refused.
-TRADE_DIALOG_ASK_FOR_TRADE: You asked for a trade with {0}.
-TRADE_DIALOG_INCOMING_EXCHANGE: Player {0} [{1}(+{2})Lv.] wants to trade with you.
-TRADE_INFO_PLAYER_IN_BATTLE: You can't trade during combat.
-TRADE_INFO_WAITING_FOR_TARGET: Waiting for {0}...
-TRADE_MODAL_ALREADY_IN_EXCHANGE: This player is already trading.
-TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: You can't trade with shop keepers.
-TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Item can't be traded.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: You can't trade in a raid.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: You can't trade with a raid member.
-UPGRADE_MESSAGE_FAILED: Upgrade failed!
-UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Upgrade failed but the item was saved.
-UPGRADE_MESSAGE_FIXED: Level fixed.
-UPGRADE_MESSAGE_SP_DESTROYED: Specialist Card soul has been destroyed!
-UPGRADE_MESSAGE_SP_FAILED: SP upgrading failed!
-UPGRADE_MESSAGE_SP_FAILED_SAVED: Specialist Card upgrading failed but item was saved.
-UPGRADE_MESSAGE_SP_SUCCESS: Specialist Card upgrading succeeded!
-UPGRADE_MESSAGE_SUCCESS: Upgrade succeeded!
-WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
-WEDDING_DIALOG_REQUEST_RECEIVED: Player {0} has proposed to you. Do you accept the marriage proposal?
-WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?
-WEDDING_INFO_DIVORCED: The marriage was terminated.
-WEDDING_SHOUTMESSAGE_BROADCAST: Players {0} and {1} just got married!
-WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal of {1}.'
+TRADE_CHATMESSAGE_REFUSED: El jugador {0} ha rechazado la solicitud de intercambio.
+TRADE_CHATMESSAGE_YOU_REFUSED: Intercambio rechazado.
+TRADE_DIALOG_ASK_FOR_TRADE: Has solicitado un intercambio con {0}.
+TRADE_DIALOG_INCOMING_EXCHANGE: El jugador {0} [{1}(+{2})Lv.] quiere hacer un intercambio contigo.
+TRADE_INFO_PLAYER_IN_BATTLE: No puedes intercambiar en combate.
+TRADE_INFO_WAITING_FOR_TARGET: Esperando a {0}...
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Este jugador está intercambiando.
+TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: No pudes intercambiar con comerciantes.
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Este objeto no puede ser intercambiado.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: No puedes intercambiar dentro de un raid.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes intercambiar con el miembro de un raid.
+UPGRADE_MESSAGE_FAILED: ¡La mejora ha fallado!
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: La mejora ha fallado, pero el objeto ha sido protegido.
+UPGRADE_MESSAGE_FIXED: Nivel fijado.
+UPGRADE_MESSAGE_SP_DESTROYED: ¡El alma de la tarjeta de especialista ha sido destruída!
+UPGRADE_MESSAGE_SP_FAILED: ¡La mejora de la SP ha fallado!
+UPGRADE_MESSAGE_SP_FAILED_SAVED: La mejora de la tarjeta de especialista ha fallado, pero el objeto ha sido protegido.
+UPGRADE_MESSAGE_SP_SUCCESS: ¡La tarjeta de especialista se ha mejorado con éxito!
+UPGRADE_MESSAGE_SUCCESS: ¡La mejora se ha realizado con éxito!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
+WEDDING_DIALOG_REQUEST_RECEIVED: El jugador {0} te ha propuesto matrimonio. ¿Aceptas la propuesta de matrimonio?
+WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Estás seguro/a que quieres casarte con {0}?
+WEDDING_INFO_DIVORCED: El matrimonio ha finalizado.
+WEDDING_SHOUTMESSAGE_BROADCAST: Los jugadores {0} y {1} se acaban de casar!
+WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrimonio de {1}.'
