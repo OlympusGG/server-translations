@@ -340,7 +340,7 @@ INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nedostatek předmětů
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Položka nemůže obsahovat mušle!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Toto nemůžeš použít.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože už máš buff {0}.
-ITEM_CHATMESSAGE_EFFECT_ACTIVATED: {0} efekt byl aktivován!
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
