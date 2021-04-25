@@ -406,7 +406,7 @@ MINILAND_MESSAGE_VISITOR: 'Besuche insgesamt: {0}, Heutige Besuche: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Das Mini-Land ist geschlossen.
 MINILAND_SHOUTMESSAGE_FULL: Das Mini-Land ist voll.
 MINILAND_SHOUTMESSAGE_LOCK: Das Mini-Land ist nun geschlossen.
-MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Dein Mini-Land muss geschlossen sein, damit du dies tun kannst.
 MINILAND_SHOUTMESSAGE_PRIVATE: Das Mini-Land ist nun privat.
 MINILAND_SHOUTMESSAGE_PUBLIC: Das Mini-Land ist nun öffentlich.
 MINILAND_WELCOME_MESSAGE: Willkommen!
@@ -415,9 +415,9 @@ MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
 NOTE_CHATMESSAGE_NEW_NOTE: Du hast eine neue Notiz erhalten!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Du hast {0} Notizen in deinem Postfach
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You received the buff pack!
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Du hast das Verstärkungspaket erhalten!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch um dieses Verstärkungspaket erhalten zu können.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig um dieses Verstärkungspaket erhalten zu können.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Leuchtende Effekte deaktiviert
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Leuchtende Effekte aktiviert
@@ -455,7 +455,7 @@ OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Flüstern deaktiviert
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Flüstern aktiviert
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Du hast einen neuen Partner erhalten: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partner ist satt!
-PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner SP  Abklingzeit abgeschlossen.
+PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner SP Abklingzeit abgeschlossen.
 PARTNER_DIALOG_ASK_SLOT_INCREASE: Willst du deine Partnerplätze erweitern?
 PARTNER_INFO_IS_WEARING_SP: Dein Partner trägt bereits eine Spezialistenkarte!
 PARTNER_INFO_LEAVE_BEAD: Partner befindet sich nun außerhalb der Perle!
@@ -548,17 +548,17 @@ PSP_VENUS: Little Princess Venus
 PSP_YUNA: Magic Student Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenko Soldat ist zu stark!
-QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC erhalten.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald du sie begonnen hast. Trotzdem fortfahren?
-QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich telepotieren?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
-QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert
-QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits eine Hauptquest
-QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast einige unerfüllte Questaufträge
-QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest
-QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen
+QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert.
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du machst bereits eine Hauptquest.
+QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast einige unerfüllte Questaufträge.
+QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest.
+QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} sucht Spieler für den {1} Raid!'
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} wurde in das Raid-Team eingeladen.'
 RAID_CHATMESSAGE_KICKED: Du wurdest gekickt.
@@ -575,8 +575,8 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Willst du den {0} Raid beginnen?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raid-Team eingeladen. Akzeptieren?'
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
-RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
-RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
+RAID_INFO_NO_LIVES_LEFT: Du hast alle deine Leben verbraucht.
+RAID_INFO_PLAYER_DEATH: Du bist gestorben! Du wirst in 20 Sekunden wiederbelebt.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_NAME_CASTRA: Dark Castra
 RAID_NAME_CHICKENKING: Chicken King
@@ -595,9 +595,9 @@ RAID_SHOUTMESSAGE_IN_GROUP: Du kannst dem Raidteam nicht beitreten, während du 
 RAID_SHOUTMESSAGE_KICKED: Du wurdest gekickt
 RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
-RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Gegner erhalten Verstärkung!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid Teilnehmer {0} ist gestorben.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
@@ -612,7 +612,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saa
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
 SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
 SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Diese Muschel konnte nicht identifiziert werden.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
 SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
 SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Die Muschel muss vor der Benutzung ident
 SHELLS_SHOUTMESSAGE_OPTION_SET: Die Eigenschaften der Muschel wurden hinzugefügt.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Muschel muss gleich oder geringer als die der Ausrüstung sein.
 SHIP_CHATMESSAGE_LEVEL_REQ: Du musst mindestens Level {0} sein, um dieses Schiff zu betreten.
-SHIP_SHOUTMESSAGE_COOLDOWN: The ship hasn't returned yet.
+SHIP_SHOUTMESSAGE_COOLDOWN: Das Schiff ist noch nicht zurückgekehrt.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff wird in {0} Minuten ablegen.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff wird in {0} Sekunden ablegen.
 SHOP_CHATMESSAGE_EMPTY: Der Laden darf nicht leer sein!
@@ -637,17 +637,17 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst keinen Laden während eines Raid öffne
 SHOP_INFO_OPEN: Der Laden wurde geöffnet!
 SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
-SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
-SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
-SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast diese Fähigkeit beteits erlernt.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Du kannst keine Fähigkeiten erlernen, solange du transformiert bist.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Du musst die Basisfähigkeit zuerst erlernen.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
-SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Möchtest du deine bereits erlernte Fähigkeitsverbesserung ersetzen?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
-SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: You need to wait for skill cooldowns to finish before learning new ones.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Du musst warten bis die Ablinkzeiten deiner Fähigkeiten vorüber sind, bevor du eine neue Fähigkeit erlernen kannst. 
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Du kannst dieses Monster während des Raids nicht fangen!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast erfolgreich {0} gefangen!
 SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Du musst ein höheres Level als das Monster besitzen, um es zu fangen!
@@ -663,7 +663,7 @@ SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Du musst in deine Spezialistenkart
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Abklingkeit der Spezialistenkarte - {0} Sek.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Spezialistenlevel erhöht!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} SP points to transform into a Specialist Card!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Du brauchst {0} SP Punkte, um dich in deine Spezialistenkarte zu transformieren!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Du hast keine SP Punkte übrig! Du kannst dich jetzt nicht verwandeln!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Die Spezialistenkarte kann aufgrund eines negativen Effekts nicht ausgezogen werden.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Es hast {0} SP Punkte verteilt!
@@ -672,25 +672,25 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wi
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst in einen Spezialisten verwandelt sein, um dies zu tun!
 SUM_MESSAGE_FAILED: Summierung fehlgeschlagen.
 SUM_MESSAGE_SUCCESS: Summierung erfolgreich!
-TIMESPACE_CHATMESSAGE_EASY_MODE: The time-space is in easy mode - the duration has been extended and you will not receive selected rewards.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im Einfachen-Modus - die verfügbare Zeit verlängert sich und du wirst deine ausgewählte Belohnung nicht erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this time-space.
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all time-space missions have been completed.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace beizutreten.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace beginnen
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's time-space?
-TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds beitreten?
+TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben lassen?
 TIMESPACE_DIALOG_ASK_START: Willst du den ersten Raum betreten?
-TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a time-space in record mode? It will cost {0} gold.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space has already begun.
+TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du den Timespace im Rekord-Modus starten? Es wird {0} Gold kosten.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace läuft bereits.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet
-TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Somewhere a door has opened
-TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
-TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
-TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
-TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde
-TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Gegner erhalten Verstärkung!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde umgelegt.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast erfolgreich die Schnell-Mission abgeschlossen. 
+TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
 TITLE_DIALOG_ASK_ADD: Willst du diesen Titel hinzufügen?
 TITLE_INFO_EFFECT_DISABLED: Der Effekt des Titels wurde deaktiviert.
@@ -718,7 +718,7 @@ UPGRADE_MESSAGE_SP_FAILED: SP Verbesserung fehlgeschlagen!
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde geschützt.
 UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte wurde erfolgreich verbessert!
 UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
-WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Möchtest du dich scheiden lassen?
 WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Antrag gemacht. Möchtest du den Heiratsantrag annehmen?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Bist du dir sicher, dass du {0} heiraten möchtest?
 WEDDING_INFO_DIVORCED: Die Ehe wurde beendet.
