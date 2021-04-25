@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACT4_CHANNEL_OFFLINE: El canal del Acto 4 se encuentra fuera de servicio.
-ACT4_CHATMESSAGE_PVP_ANGELS: ángeles
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} Fue derrotado por un guardián {0}.'
-ACT4_CHATMESSAGE_PVP_DEMONS: demonios
-ACT4_CHATMESSAGE_PVP_KILL: '{1} Derrotó a un guardián {0}.'
+ACT4_CHANNEL_OFFLINE: Glacernon se encuentra fuera de servicio.
+ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián {0}.'
+ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
+ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar a la mazmorra!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar a la mazmorra te costará {0} puntos de reputación. ¿Entrarás?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
@@ -23,18 +23,18 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrador
 AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
 AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
-ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
-ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} oros.
+ARENA_CHATMESSAGE_PVP_ACTIVE: Modo PvP activo.
+ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0}.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Ya posees una tarjeta de debito del banco Cuarry en tu inventario.
-BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0}000 oros en tu cuenta bancaria?
-BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0}000 oros de tu cuenta bancaria?
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Ya posees una tarjeta de débito del banco Cuarry en tu inventario.
+BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0} oros en tu cuenta bancaria?
+BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0} oros de tu cuenta bancaria?
 BANK_INFO_NOT_ENOUGH_FUNDS: No hay fondos suficientes.
 BANK_INFO_TOO_MUCH_GOLD: ¡Tienes demasiado oro!
 BANK_LOG_OPEN_BANK: ¡Bienvenido al banco! ¿Como te puedo ayudar?
-BANK_LOG_WITHDRAW_BANK: '{0}000 oros retirados.'
-BANK_MESSAGE_BALANCE: Tienes {0} oros en tu cuenta bancaria.
-BANK_MESSAGE_DEPOSIT: Has depositado {0}000 oros en tu cuenta bancaria.
+BANK_LOG_WITHDRAW_BANK: '{0} oro retirados.'
+BANK_MESSAGE_BALANCE: Tienes {0} oro en tu cuenta bancaria.
+BANK_MESSAGE_DEPOSIT: Has depositado {0} oro en tu cuenta bancaria.
 BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
@@ -42,7 +42,7 @@ BAZAAR_INFO_ITEM_CHANGED: No se puedo comprar el objeto. Este ha sido vendido o 
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar está bajo mantenimiento.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos a la venta.
 BAZAAR_INFO_NEEDS_MEDAL: Necesitas el Medallón de NosComerciante para realizar esta acción.
-BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el limite.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el límite.
 BAZAAR_INFO_RESYNC: El cambio de precio del objeto falló. Intentalo de nuevo.
 BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} oros.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
@@ -61,7 +61,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiad
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No sé pueden añadir más opciones al accesorio!
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord. 
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
@@ -82,170 +82,170 @@ COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de pode
 COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando hayas llegado al nivel 30.
 COMMEND_CHATMESSAGE_RECEIVED: El jugador {0} te ha elogiado.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
-DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Your NosMate's attack level has increased! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Your NosMate's defense level has increased! +{0} -> +{1}
-DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
-DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: This doll is inadequate to NosMate's level!
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
-DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
-FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Fairy Stone insertion failed.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Fairy Stone insertion succeeded!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: You cannot insert Fairy Stones into Heroic Level equipment.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high for this item.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to weapons and armors.
-FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: This family member has already that authority.
-FAMILY_DIALOG_ASK_DISMISS_FAMILY: Do you want to dismiss your family? It can't be undone.
-FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Are you sure you want to join the family?
-FAMILY_DIALOG_ASK_JOIN_FAMILY: You have been invited to family {0} by {1}, do you want to join?
-FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: You can't change your own authority.
-FAMILY_DIALOG_CANNOT_KICK_YOURSELF: You can't kick yourself from family.
-FAMILY_DIALOG_CHANGE_HEAD: Do you want to change the head of the family?
-FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Family head cannot leave the family without dismissing it completly.
-FAMILY_INFO_ALREADY_IN_FAMILY: You are already in a family.
-FAMILY_INFO_ASK_FAMILY_LEAVE: Do you want to leave the family?
-FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: You can't give others the same authority.
-FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
-FAMILY_INFO_CREATION_GROUP_REQUIRED: You must be in a group to create a family.
-FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Someone in your group is already in a family or recently left a family.
-FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Deputies limit reached.
-FAMILY_INFO_FULL: The family is full.
-FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in the group is a member of a family already!
-FAMILY_INFO_GROUP_NOT_FULL: You can't create a family without a full group!
-FAMILY_INFO_INVITATION_NOT_ALLOWED: You don't have permission to invite players!
-FAMILY_INFO_INVITATION_REFUSED: The player refused family invitation.
-FAMILY_INFO_KEEPER_LIMIT_REACHED: Assistants limit reached.
-FAMILY_INFO_LEAVE: You left the family.
-FAMILY_INFO_NAME_ALREADY_USED: This family name is already in use!
-FAMILY_INFO_NO_FAMILY: You don't have a family.
-FAMILY_INFO_NO_FAMILY_RIGHT: You don't have sufficient rights.
-FAMILY_INFO_NO_FAMILY_WAREHOUSE: No family warehouse found.
-FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
-FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
-FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
-FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
-FAMILY_INFO_USED_DAILY_MESSAGE: Daily message already used.
-FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
-FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
-FAMILY_RANK_DEPUTY: Assistant
-FAMILY_RANK_HEAD: Head
-FAMILY_RANK_KEEPER: Keeper
-FAMILY_RANK_MEMBER: Member
-FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: The family is already of that faction!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
-FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Family head changed.
-FAMILY_SHOUTMESSAGE_FAMILY_CREATED: The family '{0}' was founded!
-FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
-FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
-FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
++DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restaurada: +{0}.'
+DOLL_MESSAGE_MATE_ATTACK_FAIL: La mejora del nivel de ataque de tu NosMate falló.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: ¡El nivel de ataque de tu NosMate ha aumentado! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: La mejora del nivel de defensa de tu NosMate falló.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: ¡El nivel de defensa de tu NosMate ha aumentado! +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: No puedes invocar más monigotes.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: ¡El nivel de este monigote no es el adecuado para tu NosMate!
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
+DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
+FAIRYSTONES_DIALOG_INSERT: ¿Quiere insertar {0} a su {1}?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedras de Hada falló.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: ¡La inserción de Piedras de Hada tuvo éxito!
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes instertar Piedras de Hada en el equipamiento de nivel heroico.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de esta Piedra de Hada es demasiado alto para este objeto.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en este objeto.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada en armas y armaduras.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha iniciado sesión!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Actualización familiar comprada!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Este miembro de la familia ya tiene autoridad.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres deshacer tu familia? No hay vuelta atrás.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro de que quieres unirte a la familia?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿quieres unirte?
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: No puedes cambiar tu propia autoridad.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes echar a ti mismo de la familia.
+FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla no puede abandonar la familia sin haber echado a todo el mundo.
+FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
+FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Quieres abandonar la familia?
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes esa autoridad a otros.
+FAMILY_INFO_CREATION_BANNED_NAME: Tu familia contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Tienes que estar en un grupo para crear una familia.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien de tu grupo ya está en una familia o recientemente abÇndonó una familia.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Límite de representantes alcanzado.
+FAMILY_INFO_FULL: La familia está llena.
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: ¡Alguien del grupo ya pertenece a una familia!
+FAMILY_INFO_GROUP_NOT_FULL: ¡No puedes crear una familia sin un grupo completo!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: ¡No tienes permisos para invitar a jugadores!
+FAMILY_INFO_INVITATION_REFUSED: El jugador rechazó la invitación.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Límite de administradores alcanzado.
+FAMILY_INFO_LEAVE: Has abandonado la familia.
+FAMILY_INFO_NAME_ALREADY_USED: ¡Este nombre ya está en uso!
+FAMILY_INFO_NO_FAMILY: No tienes familia.
+FAMILY_INFO_NO_FAMILY_RIGHT: No tienes derechos suficientes.
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: No hay almacen familiar.
+FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
+FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
+FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
+FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este artículo al almacén familiar!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor, inténtelo de nuevo más tarde.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora anterior para comprar eso.
+FAMILY_RANK_DEPUTY: Representante
+FAMILY_RANK_HEAD: Cabecilla
+FAMILY_RANK_KEEPER: Administrador
+FAMILY_RANK_MEMBER: Miembro
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya pertenece a esa facción!
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: El cambio de facción familiar está actualmente en enfriamiento.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tienes que esperar 24 horas para poder entrar a una familia.
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: El cabecilla ha cambiado.
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: ¡La familia '{0}' ha sido fundada!
+FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: ¡El cabecilla ha cambiado su género!
+FAMILY_SHOUTMESSAGE_LEVEL_UP: ¡La familia ha alcanzado el nivel {0}!
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
-FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
-FRIEND_INFO_ADDED: Friend request accepted!
-FRIEND_INFO_ALREADY_FRIEND: '{0} is already your friend!'
-FRIEND_INFO_DELETED: Friend deleted!
-FRIEND_INFO_FRIENDLIST_FULL: Your friend list is full!
-FRIEND_INFO_REFUSED: Friend request refused.
-FRIEND_INFO_REQUEST_BLOCKED: The player is blocking friend requests.
-FRIEND_MESSAGE_NOT_FRIEND: You are not friends!
-FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: This player is not in your friendlist.
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in enemy faction.
-GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: You can't gamble with fixed level items.
-GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: You can't gamble non-heroic items with that.
-GAMBLING_INFO_AMULET_DESTROYED: 'CAUTION: The protection spell has expired.'
-GAMBLING_MESSAGE_ALREADY_MAX_RARE: You already have the highest rarity!
-GAMBLING_MESSAGE_AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
-GAMBLING_MESSAGE_FAILED: Gambling failed! The item has been destroyer.
-GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
-GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
-GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
-GAMEEVENT_DIALOG_ASK_PARTICIPATE: Do you want to participate in {0}?
-GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Do you want to participate in {0}? It will cost you {1}.
-GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: You can't join the event while not in a general map.
-GAMEEVENT_MESSAGE_START: '{0} has started.'
-GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players for the event.
-GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} will start in {1} minutes.'
-GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} will start in {1} seconds.'
-GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
-GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
-GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
-GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
-GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
-GROUP_DIALOG_INVITED_YOU: '{0} sent you a group request'
-GROUP_INFO_ADMIN: You are the group admin now!
-GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
-GROUP_INFO_BLOCKED: The player blocks group invites.
-GROUP_INFO_FULL: Group is full.
-GROUP_INFO_JOIN: You joined the group of player {0}!
-GROUP_INFO_LEFT: You left the group.
-GROUP_INFO_NEW_LEADER: You are the new party leader!
-GROUP_INFO_REQUEST: Group request sent to player {0}.
-GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
-GROUP_SHOUTMESSAGE_CLOSED: Group disbanded.
-GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
-GROUP_SHOUTMESSAGE_SHARING: 'Loot sharing: everyone'
-GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: by order'
-GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: You are not the group leader!
-HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: The attempt has failed! Try again after {0} seconds.
-HARVEST_SHOUTMESSAGE_TRY_FAIL: Unfortunately, the attempt has failed.
-IC_1_49_W1_TITLE: Wave 1 - Weaklings!
-IC_1_49_W2_TITLE: Wave 2 - Greens
-IC_1_49_W3_TITLE: Wave 3 - Reds
-IC_1_49_W4_TITLE: Wave 4 - Yellows
-IC_1_49_W5_TITLE: Wave 5 - Flyings
-IC_50_59_W1_TITLE: Wave 1 - Lesser Demons
-IC_50_59_W2_TITLE: Wave 2 - Run!
-IC_50_59_W3_TITLE: Wave 3 - Greater Demons
-IC_50_59_W4_TITLE: Wave 4 - Krem Creatures
-IC_50_59_W5_TITLE: Wave 5 - Spiders
-IC_60_69_W1_TITLE: Wave 1 - Ghosts
-IC_60_69_W2_TITLE: Wave 2 - Catsy
-IC_60_69_W3_TITLE: Wave 3 - BDSM Dungeon
-IC_60_69_W4_TITLE: Wave 4 - Copper Balls
-IC_60_69_W5_TITLE: Wave 5 - Knights of Hell
-IC_70_79_W1_TITLE: Wave 1 - Fir Forest
-IC_70_79_W2_TITLE: Wave 2 - Maple Woods
-IC_70_79_W3_TITLE: Wave 3 - Moist Caves
-IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Wave 5 - Knights of Heaven
-IC_80_89_W1_TITLE: Wave 1 - Slades!
-IC_80_89_W2_TITLE: Wave 2 - Zombies!
-IC_80_89_W3_TITLE: Wave 3 - Greater Desertlings
-IC_80_89_W4_TITLE: Wave 4 - Sandspawns
-IC_80_89_W5_TITLE: Wave 5 - Shay's Forces
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Temple of Agony
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Volcanic Eruption
-IC_90_150_0_24H_W3_TITLE: Wave 3 - Flaming Sword
-IC_90_150_0_24H_W4_TITLE: Wave 4 - Gates of Hell
-IC_90_150_0_24H_W5_TITLE: Wave 5 - Gates of Heaven
-IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruins of Heaven
-IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruins of Hell
-IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Outpost!
-IC_90_150_25_44H_W4_TITLE: Wave 4 - Crusaders' Outpost!
-IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rest Place
-IC_90_150_45_70H_W1_TITLE: Wave 1 - Unknownlanders!
-IC_90_150_45_70H_W2_TITLE: Wave 2 - Hellspawns
-IC_90_150_45_70H_W3_TITLE: Wave 3 - Moist Creatures
-IC_90_150_45_70H_W4_TITLE: Wave 4 - Orcs
-IC_90_150_45_70H_W5_TITLE: Wave 5 - A Chill Place...
-ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: You can't unfreeze the person you killed!
-ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
++FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} oro.
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: ¿Quieres añadir a {0} a tu lista de amigos?
+FRIEND_INFO_ADDED: ¡Solicitud de amistad aceptada!
+FRIEND_INFO_ALREADY_FRIEND: '¡{0} ya está en tu lista de amigos!
+FRIEND_INFO_DELETED: ¡Jugador eliminado!
+FRIEND_INFO_FRIENDLIST_FULL: ¡Tu lista de amigos está llena!
+FRIEND_INFO_REFUSED: Solicitud de amistad rechazada.
+FRIEND_INFO_REQUEST_BLOCKED: El jugador bloquea solicitudes de amistad.
+FRIEND_MESSAGE_NOT_FRIEND: ¡No está en tu lista de amigos!
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Este jugador no está en tu lista de amigos.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tu amigo está en la facción enemiga.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: No puedes apostar equipamiento con nivel fijado.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: No puedes apostar equipamiento no-heroico con ese amuleto.
+GAMBLING_INFO_AMULET_DESTROYED: 'PRECAUCIÓN: El hechizo de protección ha expirado.'
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: ¡Ya tiene la rareza máxima!
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: ¡El objeto no se destruyó gracias al amuleto!
+GAMBLING_MESSAGE_FAILED: ¡Fallaste la apuesta! El objeto ha sido destruido.
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Fallaste la apuesta, pero el objeto no se destruyó gracias al amuleto.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: No puedes apostar equipamiento heroico.
+GAMBLING_MESSAGE_SUCCESS: '¡Apuesta exitosa! Nuevo nivel de rareza: {0}'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: ¿Quieres participar en {0}?
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: ¿Quieres participar en {0}? Te costará {1} oro.
+GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: No puedes entrar al evento si no estás en un mapa general.
+GAMEEVENT_MESSAGE_START: '{0} ha comenzado.'
+GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay jugadores suficientes para el evento.
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} empezará en {1} minutos.'
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} empezará en {1} segundos.'
+GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} terminará en un minuto.'
+GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupo) [{0}x {1}] para: {2}'
+GROUP_CHATMESSAGE_DROP_SHARED: (Grupo) [{0}x {1}] para todos
+GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} ha rechazado tu solicitud.'
+GROUP_DIALOG_ASK_SHARE_POINT: ¿Quieres guardar el punto de retorno {0}?
+GROUP_DIALOG_INVITED_YOU: '{0} te ha enviado una solicitud de grupo.'
+GROUP_INFO_ADMIN: ¡Eres el líder del grupo!
+GROUP_INFO_ALREADY_IN_GROUP: ¡Ya estás en un grupo!
+GROUP_INFO_BLOCKED: El jugador bloquea solicitudes de grupo.
+GROUP_INFO_FULL: El grupo está lleno.
+GROUP_INFO_JOIN: ¡Has entrado al grupo del jugador {0}!
+GROUP_INFO_LEFT: Has salido del grupo.
+GROUP_INFO_NEW_LEADER: ¡Ahora eres el nuevo líder del grupo!
+GROUP_INFO_REQUEST: Solicitud de grupo enviada al jugador {0}.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Vas a compartir el punto de retorno con tus compañeros de grupo.
+GROUP_SHOUTMESSAGE_CLOSED: Grupo disuelto.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} ha cambiado su punto de retorno.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} ha decidido no compartir su punto de retorno.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Has aceptado el punto de retorno de tu compañero de grupo.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Has decidido rechazar el punto de retorno de tu compañero de grupo.
+GROUP_SHOUTMESSAGE_SHARING: 'Compartir: todos'
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Compartir: por orden'
+GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: ¡No eres el líder del grupo!
+HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: El intento ha fallado. Vuelve a intentarlo en {0} segundos.
+HARVEST_SHOUTMESSAGE_TRY_FAIL: Desafortunadamente, el intento ha fallado.
+IC_1_49_W1_TITLE: Oleada 1 - ¡Debiluchos!
+IC_1_49_W2_TITLE: Oleada 2 - ¡Monstruos verdes!
+IC_1_49_W3_TITLE: Oleada 3 - ¡Monstruos rojos!
+IC_1_49_W4_TITLE: Oleada 4 - ¡Monstruos amarillos!
+IC_1_49_W5_TITLE: Oleada 5 - ¡Monstruos voladores!
+IC_50_59_W1_TITLE: Oleada 1 - ¡Demonios débiles!
+IC_50_59_W2_TITLE: Oleada 2 - ¡Corre!
+IC_50_59_W3_TITLE: Oleada 3 - ¡Demonios fuertes!
+IC_50_59_W4_TITLE: Oleada 4 - ¡Criaturas de Krem!
+IC_50_59_W5_TITLE: Oleada 5 - ¡Arañas!
+IC_60_69_W1_TITLE: Oleada 1 - ¡Fantasmas!
+IC_60_69_W2_TITLE: Oleada 2 - ¡Catsy!
+IC_60_69_W3_TITLE: Oleada 3 - ¡Mazmorra imposible!
+IC_60_69_W4_TITLE: Oleada 4 - ¡Bolas de bronce!
+IC_60_69_W5_TITLE: Oleada 5 - ¡Caballeros del infierno!
+IC_70_79_W1_TITLE: Oleada 1 - ¡Bosque de abetos!
+IC_70_79_W2_TITLE: Oleada 2 - ¡Bosque arce!
+IC_70_79_W3_TITLE: Oleada 3 - ¡Túnel frío!
+IC_70_79_W4_TITLE: Oleada 4 - ¡Seli-Lusha!
+IC_70_79_W5_TITLE: Oleada 5 - ¡Caballeros del cielo!
+IC_80_89_W1_TITLE: Oleada 1 - ¡Slades!
+IC_80_89_W2_TITLE: Oleada 2 - ¡Zombies!
+IC_80_89_W3_TITLE: Oleada 3 - ¡Desertores fuertes!
+IC_80_89_W4_TITLE: Oleada 4 - ¡Criaturas de arena!
+IC_80_89_W5_TITLE: Oleada 5 - ¡Las fuerzas de Shay!
+IC_90_150_0_24H_W1_TITLE: Oleada 1 - ¡El templo de la agonía!
+IC_90_150_0_24H_W2_TITLE: Oleada 2 - ¡Erupción volcánica!
+IC_90_150_0_24H_W3_TITLE: Oleada 3 - ¡Espada flameante!
+IC_90_150_0_24H_W4_TITLE: Oleada 4 - ¡Puertas del infierno!
+IC_90_150_0_24H_W5_TITLE: Oleada 5 - ¡Puertas del cielo!
+IC_90_150_25_44H_W1_TITLE: Oleada 1 - ¡Ruinas del cielo!
+IC_90_150_25_44H_W2_TITLE: Oleada 2 - ¡Ruinas del infierno!
+IC_90_150_25_44H_W3_TITLE: Oleada 3 - ¡Avanzada de los Zelotes!
+IC_90_150_25_44H_W4_TITLE: Oleada 4 - ¡Avanzada de los Cruzados!
+IC_90_150_25_44H_W5_TITLE: Oleada 5 - ¡Patio de descanso de Ancelloan!
+IC_90_150_45_70H_W1_TITLE: Oleada 1 - ¡Desconocidos!
+IC_90_150_45_70H_W2_TITLE: Oleada 2 - ¡Criaturas del infierno!
+IC_90_150_45_70H_W3_TITLE: Oleada 3 - ¡Criaturas heladas!
+IC_90_150_45_70H_W4_TITLE: Oleada 4 - ¡Orcos!
+IC_90_150_45_70H_W5_TITLE: Oleada 5 - Zona de descanso
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
+ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_NAME: Icebreaker
 ICEBREAKER_SHOUTMESSAGE_END: The Icebreaker has ended.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Prepare to fight!
