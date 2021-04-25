@@ -22,9 +22,9 @@ ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
-AMMO_LOADED_SWORDSMAN: Šípky do kuše připraveny!
+AMMO_LOADED_SWORDSMAN: Šipky do kuše připraveny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
-ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata .
+ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl brutalizován tímto frajerem: {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Již u sebe máš Cuarry Bank Debit Card.
 BANK_DIALOG_ASK_DEPOSIT: Opravdu chceš vložit {0}000 zlata na svůj bankovní účet?
@@ -36,12 +36,12 @@ BANK_LOG_WITHDRAW_BANK: '{0}000 zlata vybráno.'
 BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
 BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročení finančních prostředků bylo zasláno bance.
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finančních prostředky byly zaslány bance.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána na NosBaazar.
-BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna cena.
+BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar je v údržbě.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Bylo dosaženo maximálního počtu nabízených položek.
-BAZAAR_INFO_NEEDS_MEDAL: Nemáš NosMerchant medaili
+BAZAAR_INFO_NEEDS_MEDAL: Nemáš NosMerchant medaili.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena položky překračuje limit.
 BAZAAR_INFO_RESYNC: Změna ceny položky se nezdařila. Zkus to znovu.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Chceš změnit cenu položky? Bude to stát {0} zlata.
@@ -56,7 +56,7 @@ BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Žádný účinek díky imunitě.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: Ztratil jsi efekt {0}.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Vedlejší účinky efektu {0} začaly.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Jsi pod vlivem {0}.
-CELLON_SHOUTMESSAGE_FAIL: Cellon zmizel, protože se vám nepodařilo přidat vlastnosti.
+CELLON_SHOUTMESSAGE_FAIL: Cellon zmizel, protože se ti nepodařilo přidat vlastnosti.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Cellonu je pro toto příslušenství příliš vysoká.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Sloty pro příslušenství jsou již plné!
 CELLON_SHOUTMESSAGE_SUCCESS: Vlastnost přidána.
@@ -68,7 +68,7 @@ CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodaři
 CLASS_NAME_ADVENTURER: Dobrodruh
 CLASS_NAME_ARCHER: Lukostřelec
 CLASS_NAME_MAGE: Mág
-CLASS_NAME_MARTIAL_ARTIST: Martial Artist
+CLASS_NAME_MARTIAL_ARTIST: Mistr boje
 CLASS_NAME_SWORDSMAN: Bojovník
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Změnil jsi hru do jazyka:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktuální jazyk je
@@ -79,7 +79,7 @@ COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
 COMMEND_CHATMESSAGE_COOLDOWN: Můžeš doporučit hráče jen jednou za den.
 COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl doporučen.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci doporučit, musíš počkat {0} minut.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš doporučit pouze hráče s level vyšším jak 30.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš doporučit pouze hráče s levelem vyšším jak 30.
 COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě doporučil.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
