@@ -551,7 +551,7 @@ QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenko Soldat ist zu stark!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC erhalten.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst die Hauptquest nicht aufgeben, sobald du sie begonnen hast. Trotzdem fortfahren?
-QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich telepotieren?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich teleportieren?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Diese Quest wurde bereits abgeschlossen und ist noch nicht wieder verfügbar.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits akzeptiert.
@@ -637,7 +637,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst keinen Laden während eines Raid öffne
 SHOP_INFO_OPEN: Der Laden wurde geöffnet!
 SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
-SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast diese Fähigkeit beteits erlernt.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast diese Fähigkeit bereits erlernt.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Du kannst keine Fähigkeiten erlernen, solange du transformiert bist.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Du musst die Basisfähigkeit zuerst erlernen.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
