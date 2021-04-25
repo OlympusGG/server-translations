@@ -23,7 +23,7 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Amministratore
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
-ARENA_CHATMESSAGE_PVP_ACTIVE: Modalità PvP attiva.
+ARENA_CHATMESSAGE_PVP_ACTIVE: La modalità PVP è attiva.
 ARENA_INFO_ASK_ENTER: Vuoi accedere all'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato sconfitto da {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: E' già presente una Carta della Banca Cuarry nel tuo inventario.
@@ -56,11 +56,11 @@ BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Non hai subito alcun effetto grazie all'immu
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: Hai perso l'effetto {0}.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Gli effetti secondari di {0} sono iniziati.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Sei sotto l'effetto di {0}
-CELLON_SHOUTMESSAGE_FAIL: Il Cellon è scomparso al fallimento dell'aggiunta delle opzioni.
-CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello del Cellon è troppo alto per questo accessorio.
+CELLON_SHOUTMESSAGE_FAIL: L'aggiunta del Cellon al gioiello è fallita.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello del Cellon è troppo alto per questo gioiello.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Gli slot dell'accessorio sono già pieni!
 CELLON_SHOUTMESSAGE_SUCCESS: Opzione aggiunta.
-CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è stato già preso!
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è stato già stato scelto!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Il nome del tuo personaggio contiene la parola "{0}", che è vietata. Se pensi che sia un errore, sentiti libero di aprire un ticket sul nostro server Discord del supporto.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Il nome contiene caratteri non validi!
 CHARACTER_DELETION_INFO_FAILED: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
@@ -91,7 +91,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Questa bambola non è adeguata !
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop errata.
-DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti in mappa per poter raccogliere questo oggetto.
+DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} nel tuo {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserimento della Pietra Fatata è fallito.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'inserimento della Pietra Fatata ha avuto successo!
@@ -139,7 +139,7 @@ FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore prova pi�
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Hai bisogno dell'upgrade precedente.
 FAMILY_RANK_DEPUTY: Vicecapo
 FAMILY_RANK_HEAD: Capo
-FAMILY_RANK_KEEPER: Guardiano
+FAMILY_RANK_KEEPER: Custode
 FAMILY_RANK_MEMBER: Membro
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La Famiglia fa già parte di questa fazione!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Il cambio di fazione della Famiglia è in ricarica.
@@ -312,11 +312,11 @@ INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Lo Specialista deve aver raggiunto il livel
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punti impostati.
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Il tuo livello è troppo basso!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Il giocatore non è in una mappa generale!
-INSTANT_COMBAT_NAME: Combattimento Istantaneo
-INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Il Combattimento Istantaneo finirà tra {0} minuti/o.
+INSTANT_COMBAT_NAME: La Guerra Istantanea
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: La Guerra Istantanea finirà tra {0} minuti/o.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Stanno arrivando i mostri...
-INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Il Combattimento Istantaneo finirà tra {0} secondi.
-INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulazioni! hai vinto il Combattimento Istantaneo!
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: La Guerra Istantanea finirà tra {0} secondi.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulazioni! hai vinto La Guerra Istantanea!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Sfortunatamente, non hai sconfitto l'ondata e non hai ricevuto il bottino.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: La prossima ondata arriverà tra {0} minuti.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: La prossima ondata arriverà tra {0} secondi.
@@ -347,7 +347,7 @@ ITEM_CHATMESSAGE_TIMEOUT: La durata di ({0}) è terminata.
 ITEM_CHATMESSAGE_UNFIXED: Il tuo oggetto non è più di livello fisso!
 ITEM_DIALOG_ASK_BIND: Vuoi indossare questo oggetto? Si legherà al tuo personaggio vietandone lo scambio.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Vuoi cambiare fazione?
-ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua Famiglia ?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua Gilda?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Vuoi modificare le ali del tuo Specialista?
 ITEM_DIALOG_ASK_OPEN_BOX: Vuoi aprire questa scatola?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Vuoi tirare fuori il tuo NosMate dalla perla?
@@ -381,7 +381,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Orario Manutenzione cambia
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La Manutenzione è stata fermata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0}ore.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0}min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}s.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0}sec.
 MESSAGE_UNDER_CHAT_0: 'Siete pregati di visitare il nostro sito per vedere gli ultimi aggiornamenti: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Date un occhiata al nostro server Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hai scoperto un bug? Notificalo sul nostro sito: noswings.com/bug-report'
@@ -406,18 +406,18 @@ MINILAND_MESSAGE_VISITOR: 'Visite totali: {0}, Visite giornaliere: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: La Mini-Land è chiusa.
 MINILAND_SHOUTMESSAGE_FULL: La Mini-Land è piena.
 MINILAND_SHOUTMESSAGE_LOCK: La Mini-Land è bloccata.
-MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Devi chiudere la Mini-Land per farlo.
 MINILAND_SHOUTMESSAGE_PRIVATE: La Mini-Land è privata.
 MINILAND_SHOUTMESSAGE_PUBLIC: La Mini-Land è pubblica.
 MINILAND_WELCOME_MESSAGE: Benvenuti!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Durata punizione rimasta: {0}'
 MUTE_MESSAGE_FEMALE: Sono stata una bimba cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
-NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova nota!
-NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} note nella casella.
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Hai ricevuto un pacco di aiuto!
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Il tuo livello è troppo alto per ricevere questo pacco di aiuto.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Il tuo livello è troppo basso per ricevere questo pacco di aiuto..
+NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova lettera!
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} note nella casella postale.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Hai ricevuto il pacchetto dei buff.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Sei di livello troppo alto per ricevere il pacchetto dei buff.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Sei di livello troppo basso per ricevere il pacchetto dei buff.
 NPC_SHOP_LOG_PURCHASE: Hai comprato {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Icone Buff Intermittenti disattivate
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Icone Buff Intermittenti attivate
@@ -443,8 +443,8 @@ OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Alla morte il tuo compagno to
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Alla morte il tuo compagno verrà resuscitato dai Semi della Potenza.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Alla morte il tuo NosMate tornerà in Mini-Land.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Alla morte il tuo NosMate verrà resuscitato dai Semi della Potenza.
-OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Quick Get Up disattivato
-OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Quick Get Up attivato
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Raccolta rapida disattivato
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Raccolta rapida attivato
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Altoparlanti disattivati
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Altoparlanti attivati
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Richieste Scambio disattivate
@@ -504,9 +504,9 @@ PET_SHOUTMESSAGE_LEVEL_UP: Il livello di {0} è aumentato!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il NosMate è tornato alla Mini-Land.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Il NosMate tornerà tra 3 minuti.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate resuscitato grazie all'Angelo Custode per NosMate.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
-PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Probabilità di drop: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Hai ricevuto {0} come ricompensa extra!'
+PORTAL_CHATMESSAGE_BLOCKED: Questo portale è chiuso, non puoi utilizzaro
 PORTAL_CHATMESSAGE_TOO_EARLY: Potrai muoverti a breve.
 PSP_AEGIR: Aegir il Furioso
 PSP_AMON: Sorvegliante Amon
@@ -539,17 +539,17 @@ PSP_MOTHER_MARU: Nonnina Maru
 PSP_NELIA: Ninfa Nelia
 PSP_ORKANI: Orkani il Ribelle
 PSP_PALINA: Palina la Burattinaia
-PSP_PERTI: Perti Alamozza
+PSP_PERTI: Perti Ala spezzata
 PSP_PHARAOH: Akhenaton il Faraone Maledetto
 PSP_RAGNAR: Ragnar Soldato Scheletrico
 PSP_SHERIFF_CHLOE: Sceriffo Chloe
 PSP_SHINOBI: Shinobi il Silenzioso
-PSP_VENUS: Piccola Principessa Venus
+PSP_VENUS: Principessa Venus
 PSP_YUNA: Yuna Studentessa Magica
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} raccolti: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Questo Soldato Kenko è troppo forte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puoi ricevere una nuova quest da un NPC.
-QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] uccisi {1}/{2}'
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cacciato {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Una volta intrapresa, non puoi abbandonare la missione principale. Iniziare comunque?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Vuoi teletrasportarti?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Hai già completato questa missione principale!
@@ -567,7 +567,7 @@ RAID_CHATMESSAGE_LEFT: '{0} ha abbandonato il team.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Dato che il livello del personaggio non corrisponde al livello raccomandato, non si otterrà la scatola del raid al completamento.
 RAID_CHATMESSAGE_LOW_LEVEL: Per poter partecipare al raid devi essere almeno di livello {0}.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} è il nuovo capo del team.'
-RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Il raid non esiste od è già iniziato!
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Il raid non esiste oppure è già iniziato!
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo il capo del team può dare inizio al raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Non fai parte di nessun team del raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Questa non è l'entrata del raid.
@@ -575,7 +575,7 @@ RAID_CHATMESSAGE_X_JOINED: '{0} ora fa parte del team.'
 RAID_DIALOG_ASK_START_RAID: Vuoi dare via al raid {0}?
 RAID_DIALOG_INVITED_YOU: '{0} ti ha invitato nel team del raid. Accettare?'
 RAID_INFO_NO_EXIST: Il raid non esiste!
-RAID_INFO_NO_LIVES_LEFT: Hai usato tutte le vite a tua disposizione.
+RAID_INFO_NO_LIVES_LEFT: Hai consumato tutte le vite a disposizione!
 RAID_INFO_PLAYER_DEATH: Sei morto! Resusciterai tra 20 secondi.
 RAID_MESSAGE_DISOLVED: Il team del raid è stato sciolto.
 RAID_NAME_CASTRA: Castra Oscuro
@@ -629,7 +629,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti/o.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partità tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio privato non può essere vuoto!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Nel negozio privato puoi mettere alla vendita solo oggetti scambiabili.
-SHOP_DEFAULT_NAME: Shop
+SHOP_DEFAULT_NAME: Negozio
 SHOP_INFO_ALREADY_OPEN: Il tuo negozio è già aperto!
 SHOP_INFO_NEAR_PORTAL: Non puoi aprire un negozio vicino ad un portale!
 SHOP_INFO_NOT_ALLOWED: Non puoi aprire un negozio nelle mappe generali.
@@ -687,8 +687,8 @@ TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Un portale è stato aperto
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Da qualche parte una porta si è aperta
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: I nemici hanno chiamato rinforzi|
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: La leva è stata azionata.
-TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La missione è stata aggiornata
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hai completato la missione corrente.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La missione è stata aggiornata.
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hai completato la missione della stanza.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La missione avrà inizio appena si entrerà nella prima stanza
 TIMESPACE_SHOUTMESSAGE_TS_FULL: La Pietra Spazio-Temporale è piena.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Attendi...
