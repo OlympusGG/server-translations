@@ -154,7 +154,8 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: ¿Quieres añadir a {0} a tu lista de amigos?
 FRIEND_INFO_ADDED: ¡Solicitud de amistad aceptada!
-FRIEND_INFO_ALREADY_FRIEND: '¡{0} ya está en tu lista de amigos!
+FRIEND_INFO_ALREADY_FRIEND: '¡{0} ya está en tu lista de amigos!'
+
 FRIEND_INFO_DELETED: ¡Jugador eliminado!
 FRIEND_INFO_FRIENDLIST_FULL: ¡Tu lista de amigos está llena!
 FRIEND_INFO_REFUSED: Solicitud de amistad rechazada.
