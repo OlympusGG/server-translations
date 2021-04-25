@@ -1,6 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Falscher Account Login.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich in Wartungsarbeiten.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Wächter der {0} getötet.'
@@ -25,7 +25,7 @@ AMMO_LOADED_ARCHER: Pfeile wurden geladen.
 AMMO_LOADED_SWORDSMAN: Bolzen wurden geladen.
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde getötet von {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Du hast bereits bereits eine 'Cuarry Bank Debit Card' in deinem Inventar.
 BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
