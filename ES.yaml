@@ -216,7 +216,7 @@ IC_50_59_W4_TITLE: Oleada 4 - ¡Criaturas de Krem!
 IC_50_59_W5_TITLE: Oleada 5 - ¡Arañas!
 IC_60_69_W1_TITLE: Oleada 1 - ¡Fantasmas!
 IC_60_69_W2_TITLE: Oleada 2 - ¡Catsy!
-IC_60_69_W3_TITLE: Oleada 3 - ¡Mazmorra imposible!
+IC_60_69_W3_TITLE: Oleada 3 - ¡Mazmorra BDSM!
 IC_60_69_W4_TITLE: Oleada 4 - ¡Bolas de cobre!
 IC_60_69_W5_TITLE: Oleada 5 - ¡Caballeros del infierno!
 IC_70_79_W1_TITLE: Oleada 1 - ¡Bosque de abetos!
@@ -265,7 +265,7 @@ INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'La transformación de especialista del c
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: '¡Reputación disminuida: -{0}!'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: '¡Reputación aumentada: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Has usado {1}x {0}
-INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: ¡Has usado un Amuleto de Protección!
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: ¡Has usado un Pergamino de Protección!
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'La transformación de la Tarjeta de Especialista está en enfriamiento: {0} seg.'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: No puedes usar eso.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: ¡El usuario bloquea los mensajes privados!
@@ -282,7 +282,7 @@ INFORMATION_MESSAGE_USER_NOT_CONNECTED: El usuario no está conectado.
 INFORMATION_MESSAGE_USER_NOT_FOUND: ¡Usuario no encontrado!
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tu clase ha sido cambiada.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: ¡Tienes que quitarte el equipamiento!
-INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Tu {0} ha subido de nivel!
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: ¡Tu {0} ha subido de nivel!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: ¡Tu {0} ha alcanzado el nivel máximo!
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: ¡Tu nivel de profesión ha aumentado!
 INFORMATION_SHOUTMESSAGE_LEVELUP: ¡Tu nivel ha aumentado!
@@ -297,10 +297,10 @@ INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: No tienes munición de catapulta. P
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: No te quedan flechas. Puedes comprar más en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: No te queda munición de ballesta. Puedes comprar pernos en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: ¡No tienes equipada una Tarjeta de Especialista!
-INFORMATION_SHOUTMESSAGE_NO_WEAPON: ¡No tienes arma equipada!
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: ¡No tienes un arma equipada!
 INFORMATION_SHOUTMESSAGE_NO_WIG: No llevas peluca.
 INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: No tienes suficientes puntos de combate.
-INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: No puedes liberar a tu compañero si está equipado.
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: No puedes liberar a tu compañero si lleva equipamiento encima.
 INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: No puedes liberar a tu compañero si te está siguiendo.
 INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: El objeto ha sido cambiado a equipamiento de compañero.
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: No puedes liberar a tu NosMate si te está siguiendo.
