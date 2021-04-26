@@ -23,9 +23,9 @@ ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Steine wurden geladen.
 AMMO_LOADED_ARCHER: Pfeile wurden geladen.
 AMMO_LOADED_SWORDSMAN: Bolzen wurden geladen.
-ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde getötet von {1}'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Du hast bereits bereits eine 'Cuarry Bank Debit Card' in deinem Inventar.
 BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
@@ -41,7 +41,7 @@ BAZAAR_CHATMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
 BAZAAR_INFO_ITEM_CHANGED: Kauf nicht möglich, Gegenstand verkauft oder Preis geändert.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBasar wird gewartet.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximale Anzahl an Gegenständen registriert.
-BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändler Medaille
+BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändler Medaille.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Der Preis des Gegenstands überschreitet die Grenze.
 BAZAAR_INFO_RESYNC: Preisänderung fehlgeschlagen. Versuche es erneut.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Willst du den Preis des Gegenstands verändern? Das wird {0} Gold kosten.
@@ -63,8 +63,8 @@ CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nicht erlaubte Zeichen in deinem Charakternamen!
-CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
-CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später erneut.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später erneut.
 CLASS_NAME_ADVENTURER: Abenteurer
 CLASS_NAME_ARCHER: Bogenschütze
 CLASS_NAME_MAGE: Magier
@@ -99,9 +99,9 @@ FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Du kannst keine Feensteine in Gegenstände
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe dieses Feensteins ist zu hoch für diesen Gegenstand.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Du kannst diesem Gegenstand keine weiteren Feensteine verleihen.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Du kannst Feensteine nur in Waffen und Rüstungen einfügen.
-FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Familienerrungenschaft freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Du hast die Familienerweiterung gekauft!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses Familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Willst du deine Familie auflösen? Es kann nicht rückgängig gemacht werden.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
@@ -113,7 +113,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie n
 FAMILY_INFO_ALREADY_IN_FAMILY: Du bist bereits in einer Familie.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Willst du die Familie verlassen?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Du kannst anderen nicht die selben Rechte verleihen.
-FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
+FAMILY_INFO_CREATION_BANNED_NAME: Dein Familienname beinhaltet das Wort "{0}", welches verboten ist. Wenn du glaubst, dass es sich dabei um einen Fehler handelt, öffne gerne ein Ticket auf unserem Support-Discordserver.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Du musst in einer Gruppe sein, um eine Familie zu gründen.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Jemand in der Gruppe ist bereits Teil einer Familie, oder hat kürzlich eine Familie verlassen.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Maximale Anzahl an Vertretern erreicht.
@@ -130,27 +130,27 @@ FAMILY_INFO_NO_FAMILY_RIGHT: Du hast nicht die benötigten Rechte.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Kein Familienlager gefunden.
 FAMILY_INFO_NOT_FAMILY_HEAD: Du bist nicht das Familienoberhaupt!
 FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
-FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Der Familienservice befindet sich momentan in Wartungsarbeiten.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
-FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
-FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Du kannst diesen Gegenstand nicht dem Familienwarenhaus hinzufügen!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Du hast nicht ausreichend Rechte um dies zu tun.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Du brauchst die vorherige Verbesserung um dies kaufen zu können.
 FAMILY_RANK_DEPUTY: Vertreter
 FAMILY_RANK_HEAD: Oberhaupt
 FAMILY_RANK_KEEPER: Verwalter
 FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Die Familie gehört bereits dieser Fraktion an!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion deiner Familie befindet sich auf Ablinkzeit.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, bevor du einer Familie erneut betreten kannst.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Familienoberhaupt gewechselt.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht gewechselt!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Die Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
+FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familiearena beitreten? Es wird dich {0} Gold kosten. 
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ist nun im Spiel.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat das Spiel beendet.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
@@ -597,7 +597,7 @@ RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Gegner erhalten Verstärkung!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid Teilnehmer {0} ist gestorben.
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid Mitglied {0} ist gestorben.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
@@ -676,19 +676,19 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im Einfachen-Modus - die verf
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace beizutreten.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
-TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace beginnen
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace beginnen.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds beitreten?
 TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben lassen?
 TIMESPACE_DIALOG_ASK_START: Willst du den ersten Raum betreten?
 TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du den Timespace im Rekord-Modus starten? Es wird {0} Gold kosten.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace läuft bereits.
-TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Gegner erhalten Verstärkung!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde umgelegt.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast erfolgreich die Schnell-Mission abgeschlossen. 
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast erfolgreich die Schnellmission abgeschlossen. 
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
