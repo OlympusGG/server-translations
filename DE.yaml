@@ -142,7 +142,7 @@ FAMILY_RANK_HEAD: Oberhaupt
 FAMILY_RANK_KEEPER: Verwalter
 FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Die Familie gehört bereits dieser Fraktion an!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion deiner Familie befindet sich auf Ablinkzeit.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion deiner Familie steht unter Abklingzeit.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, bevor du einer Familie erneut betreten kannst.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Familienoberhaupt gewechselt.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
@@ -329,11 +329,11 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Du wurdest mit dem Schutz d
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Du wurdest mit dem Schutz der Dämonen gesegnet!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Du hast deinen Schutz verloren.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Um die Flügel des Spezialisten zu ändern, muss die Stufe der Verbesserung höher als 0 sein.
-INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
-INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Dein Lautsprecher steht auf Abklingzeit, ein Lautsprecher alle 30 Sekunden.
+INTERACTION_VESSEL_LIMIT_REACHED: Das Monsterlimit für Gefäße auf dieser Map wurden erreicht.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
-INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
+INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat eine einminütige Abklingzeit.
 INVENTORY_DIALOG_ASK_TO_DELETE: Willst du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand löschen möchtest?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht ausreichend Gegenstände
@@ -369,19 +369,19 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst den Gegenstand hier nicht fallen
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
-ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF:  Du kannst dein Reittier nicht benutzen, aufgrund eines schlechten Effekts.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden fertiggestellt.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0} h.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0} min.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0} sec.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0} h.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0} min.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0} sec.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Stunden.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Minuten.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Sekunden.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartungsarbeiten wurden beendet.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartungsarbeiten starten in {0} Stunden.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten starten in {0} Minuten.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten starten in {0} Sekunden.
 MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
