@@ -691,7 +691,7 @@ TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöff
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Gegner erhalten Verstärkung!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde umgelegt.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast erfolgreich die Schnellmission abgeschlossen. 
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen. 
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
