@@ -131,7 +131,8 @@ FAMILY_INFO_NO_FAMILY_RIGHT: Du hast nicht die benötigten Rechte.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Kein Familienlager gefunden.
 FAMILY_INFO_NOT_FAMILY_HEAD: Du bist nicht das Familienoberhaupt!
 FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
-FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Der Familienservice befindet sich momentan in Wartungsarbeiten.
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Der Familienservice befindet sich momentan im Wartungsmodus.
+
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Du kannst diesen Gegenstand nicht dem Familienwarenhaus hinzufügen!
