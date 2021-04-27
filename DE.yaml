@@ -1,5 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Falscher Account Login.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich in Wartungsarbeiten.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
+
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
