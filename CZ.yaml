@@ -1,6 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosím zkuste to znovu později.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
@@ -9,11 +9,11 @@ ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce strany {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Pro vstup je potřeba být členem rodiny!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do podzemí tě bude stát {0} bodů reputace. Opravdu chceš vejít dovnitř?
 ACT4_DUNGEON_REVIVAL_DIALOG: Oživení zde vás bude stát {0} bodů reputace. Při zrušení budete teleportováni na začátek. Potvrzujete oživení na místě?
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room byl uzavřen.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss byl poražen!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room je nyní otevřen.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Místnost s bossem byla uzavřena.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss byl poražen!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Místnost s bossem je nyní otevřena.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při centrální věži na mapě Bitoren Tundra!
-ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou fakci a mají ochrannou moc.
+ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou frakci a mají ochrannou moc.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Kemp andělů
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Kemp démonů
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
@@ -25,10 +25,10 @@ AMMO_LOADED_ARCHER: Šíp připraven!
 AMMO_LOADED_SWORDSMAN: Šipky do kuše připraveny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl brutalizován tímto frajerem: {1}'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem: {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Již u sebe máš Cuarry Bank Debit Card.
 BANK_DIALOG_ASK_DEPOSIT: Opravdu chceš vložit {0}000 zlata na svůj bankovní účet?
-BANK_DIALOG_ASK_WITHDRAW: Opravdu chceš vybrat {0}000 zlata z tvého bankovního účtu?
+BANK_DIALOG_ASK_WITHDRAW: Opravdu chceš vybrat {0}000 zlata ze svého bankovního účtu?
 BANK_INFO_NOT_ENOUGH_FUNDS: Není dostatek hotovosti.
 BANK_INFO_TOO_MUCH_GOLD: Máš moc zlata!
 BANK_LOG_OPEN_BANK: Vítej v bance! S čím vám mohu pomoci?
@@ -37,21 +37,21 @@ BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
 BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finančních prostředky byly zaslány bance.
-BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána na NosBaazar.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána do NosBaazaru.
 BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBaazar je v údržbě.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Bylo dosaženo maximálního počtu nabízených položek.
-BAZAAR_INFO_NEEDS_MEDAL: Nemáš NosMerchant medaili.
+BAZAAR_INFO_NEEDS_MEDAL: Nemáš Medaili NosKupce.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena položky překračuje limit.
 BAZAAR_INFO_RESYNC: Změna ceny položky se nezdařila. Zkus to znovu.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Chceš změnit cenu položky? Bude to stát {0} zlata.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Položka přidána na NosBaazar
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena položky změněna
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Bacha! Při používání NosBaazaru tě mohou napadnout monstra!
-BLACKLIST_INFO_ADDED: Hráč přidán do blacklistu!
+BLACKLIST_INFO_ADDED: Hráč přidán na černou listinu!
 BLACKLIST_INFO_BLOCKED: Tento hráč vás zablokoval!
 BLACKLIST_INFO_BLOCKING: Zablokoval jsi tohoto hráče!
-BLACKLIST_INFO_DELETED: Hráč odebrán z blacklistu!
+BLACKLIST_INFO_DELETED: Hráč odebrán z černé listiny!
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Žádný účinek díky imunitě.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: Ztratil jsi efekt {0}.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Vedlejší účinky efektu {0} začaly.
@@ -69,27 +69,27 @@ CLASS_NAME_ADVENTURER: Dobrodruh
 CLASS_NAME_ARCHER: Lukostřelec
 CLASS_NAME_MAGE: Mág
 CLASS_NAME_MARTIAL_ARTIST: Mistr boje
-CLASS_NAME_SWORDSMAN: Bojovník
+CLASS_NAME_SWORDSMAN: Bojovník s mečem
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Změnil jsi hru do jazyka:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktuální jazyk je
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Dostupné příkazy:'
 COMMANDS_CHATMESSAGE_HELP: '[Help command]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Nedokumentováno.
 COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
-COMMEND_CHATMESSAGE_COOLDOWN: Můžeš doporučit hráče jen jednou za den.
-COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl doporučen.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci doporučit, musíš počkat {0} minut.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš doporučit pouze hráče s levelem vyšším jak 30.
-COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě doporučil.
+COMMEND_CHATMESSAGE_COOLDOWN: Můžeš pochválit hráče jen jednou za den.
+COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl pochválen.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pohchválit, musíš počkat {0} minut.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyšším jak 30.
+COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Upgrade úrovně útoku tvého NosMate se nezdařil.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Úroveň útoku tvého NosMate se zvýšila! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Upgrade úrovně obrany tvého NosMate selhal.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Úroveň obrany tvého NosMate se zvýšila! +{0} -> +{1}
+DOLL_MESSAGE_MATE_ATTACK_FAIL: Upgrade úrovně útoku tvého Mazlíčka se nezdařil.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Úroveň útoku tvého Mazlíčka se zvýšila! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: Upgrade úrovně obrany tvého Mazlíčka selhal.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Úroveň obrany tvého Mazlíčka se zvýšila! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete přivolat další panenky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato panenka je k úrovni tvého NosMate nedostatečná!
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato panenka je k úrovni tvého Mazlíčka nedostatečná!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl padnout tento předmět!
 FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
@@ -122,7 +122,7 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Někdo ve tvé skupině již je čle
 FAMILY_INFO_GROUP_NOT_FULL: Není možné vytvořit rodiny aniž by skupina byla plná!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Nemáš oprávnění pozvat do rodiny hráče!
 FAMILY_INFO_INVITATION_REFUSED: Hráč odmítl pozvání do rodiny.
-FAMILY_INFO_KEEPER_LIMIT_REACHED: Dosažen maximální počet asistentů.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Dosažen maximální počet správců.
 FAMILY_INFO_LEAVE: Opustil jsi rodinu.
 FAMILY_INFO_NAME_ALREADY_USED: Jméno této rodiny je již používáno!
 FAMILY_INFO_NO_FAMILY: Nemáš žádnou rodinu.
@@ -139,7 +139,7 @@ FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosí
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Aby jsi toto mohl zakoupit je nejdříve třeba předešlého upgradu.
 FAMILY_RANK_DEPUTY: Zástupce
 FAMILY_RANK_HEAD: Hlava
-FAMILY_RANK_KEEPER: Asistent
+FAMILY_RANK_KEEPER: Správce
 FAMILY_RANK_MEMBER: Člen
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodina už je této frakce!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Změna rodinné frakce je momentálně v cooldownu.
@@ -295,7 +295,7 @@ INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: K této akci bude nutné opustit skup
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Pouze dobrodruh může změnit svoji třídu.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Nemáš dostatek munice do katapultu. Kup ji v obchodu s vybavením.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Nemáš dostatek šipek. Kup je v obchodu s vybavením.
 INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Nemáš nasazenou kartu Specialisty!
 INFORMATION_SHOUTMESSAGE_NO_WEAPON: Nemáš nasazené vhodné brnění!
 INFORMATION_SHOUTMESSAGE_NO_WIG: Nenosíš žádnou paruku.
@@ -366,7 +366,7 @@ ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsti v rodině, nemůžeš použ
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Element víly je liší od elemntu SP!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
-ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v MiniLandu.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou frakci!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
@@ -393,7 +393,7 @@ MINIGAME_INFO_NO_REWARD: V této minihře nejsou žádné odměny.
 MINIGAME_INFO_POINTS_FULL: Maximální body produkce dosaženy.
 MINIGAME_INFO_REFILL: 'Příspěvek minihry: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Musíš mít level {0} a {1} bodů reputace k hraní této minihry.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Přidáno {0}x {1} k bednám Mini-Landu.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Přidáno {0}x {1} k bednám Mini zemi.
 MINILAND_DIALOG_ASK_INVITE: Chceš se připojit k MiniLandu hráče {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Neobdržíš odměny, protože nemáš dostatek produkčních bodů. Chceš bez ohledu na to pokračovat?
 MINILAND_INFO_CHANGED: Mini-land info změněno
