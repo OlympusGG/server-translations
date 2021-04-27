@@ -366,7 +366,7 @@ ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use individual faction egg w
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different than the SP element!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
-ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Mini-Land.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Miniland.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
@@ -388,27 +388,27 @@ MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report
 MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
 MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit Support Discord server: noswings.com/support'
-MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
-MINIGAME_INFO_REFILL: 'Mini-game contribution: {0}'
+MINIGAME_INFO_REFILL: 'Minigame contribution: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: You need to be level {0} and have {1} reputation to play this minigame.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Mini-Land chest.
-MINILAND_DIALOG_ASK_INVITE: Do you want to join {0}'s Mini-Land?
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Miniland chest.
+MINILAND_DIALOG_ASK_INVITE: Do you want to join {0}'s Miniland?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: You won't receive any rewards because you don't have enough production points. Continue regardless?
-MINILAND_INFO_CHANGED: Your Mini-Land greeting message has been changed!
+MINILAND_INFO_CHANGED: Your Miniland greeting message has been changed!
 MINILAND_INFO_DURABILITY_MAXIMUM: Maximum minigame durability reached.
-MINILAND_INFO_INVITE_LOCK: This player's Mini-Land is locked.
+MINILAND_INFO_INVITE_LOCK: This player's Miniland is locked.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Not enough Reward Coupons!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Not enough durability points.
-MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Not enough Mini-Land production points.
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Not enough Miniland production points.
 MINILAND_MESSAGE_VISITOR: 'Total visits: {0}, Daily visits: {1}'
-MINILAND_SHOUTMESSAGE_CLOSED: Mini-Land is closed.
-MINILAND_SHOUTMESSAGE_FULL: Mini-Land is full.
-MINILAND_SHOUTMESSAGE_LOCK: The Mini-land is now locked.
-MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land needs to be locked to do that.
-MINILAND_SHOUTMESSAGE_PRIVATE: The mini-land is now private.
-MINILAND_SHOUTMESSAGE_PUBLIC: The mini-land is now public.
+MINILAND_SHOUTMESSAGE_CLOSED: Miniland is closed.
+MINILAND_SHOUTMESSAGE_FULL: Miniland is full.
+MINILAND_SHOUTMESSAGE_LOCK: Miniland is now locked.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Miniland needs to be locked to do that.
+MINILAND_SHOUTMESSAGE_PRIVATE: Miniland is now private.
+MINILAND_SHOUTMESSAGE_PUBLIC: Miniland is now public.
 MINILAND_WELCOME_MESSAGE: Welcome!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Remaining punishment duration: {0}'
 MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
@@ -435,13 +435,13 @@ OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Hat is now visible
 OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Hat is now hidden
 OPTIONS_SHOUTMESSAGE_HP_DISABLED: HP Regeneration info disabled
 OPTIONS_SHOUTMESSAGE_HP_ENABLED: HP Regeneration info enabled
-OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Mini-Land invites disabled
-OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Mini-Land invites enabled
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Miniland invites disabled
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Miniland invites enabled
 OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Mouse lock disabled
 OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Mouse lock enabled
-OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: After death your partner will return to Mini-Land.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: After death your partner will return to Miniland.
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: After death your partner will be revived by Seeds of Power.
-OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: After death your NosMate will return to Mini-Land.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: After death your NosMate will return to Miniland.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: After death your NosMate will be revived by Seeds of Power.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Quick get up disabled
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Quick get up enabled
@@ -466,13 +466,13 @@ PARTNER_INFO_RELEASED: Your Partner is now free.
 PARTNER_INFO_SP_NEW_SKILL: Your partner has learned a new skill!
 PARTNER_INFO_STORED: Your Partner is now stored in the bead.
 PARTNER_MESSAGE_100_AGILITY: Your Partner has reached 100% agility.
-PARTNER_MESSAGE_KICKED: Your Partner has returned to the Mini-Land.
+PARTNER_MESSAGE_KICKED: Your Partner has returned to the Miniland.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Your partner is not wearing a Specialist Card.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: You already have this partner.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Your Partner {0} has leveled up!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
-PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Mini-Land.
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
@@ -490,18 +490,18 @@ PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Your NosMate can already pick up items!
 PET_CHATMESSAGE_BEAD_EXTRACT: 'You got a new NosMate: {0}!'
 PET_CHATMESSAGE_CAN_PICK_UP: Your NosMate can now pick up items!
 PET_CHATMESSAGE_EAT_EVERYTHING: Your NosMate is full!
-PET_DIALOG_ASK_SEND_BACK: Do you want to send your NosMate back to the Mini-Land?
+PET_DIALOG_ASK_SEND_BACK: Do you want to send your NosMate back to the Miniland?
 PET_DIALOG_ASK_SLOT_INCREASE: Do you want to expand your NosMate slots?
 PET_INFO_LEAVE_BEAD: NosMate is now out of the bead!
 PET_INFO_RELEASED: Your NosMate is now free.
 PET_INFO_STORED: Your NosMate is now stored in the bead.
 PET_MESSAGE_ALREADY_IN_TEAM: Your NosMate is already in the team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: You can already summon your NosMate!
-PET_MESSAGE_KICKED: Your NosMate has returned to the Mini-Land.
+PET_MESSAGE_KICKED: Your NosMate has returned to the Miniland.
 PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Your NosMate's level is higher than yours!
 PET_SHOUTMESSAGE_LEVEL_UP: Your NosMate {0} has leveled up!
-PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate went back to Mini-Land.
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate went back to Miniland.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
