@@ -690,7 +690,7 @@ TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: The mission starts as soon as you enter the first room.
-TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: The time-Space is full.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Please wait...
 TITLE_DIALOG_ASK_ADD: Do you want to add this title?
 TITLE_INFO_EFFECT_DISABLED: Title effect has been disabled.
