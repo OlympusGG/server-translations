@@ -1,4 +1,5 @@
-ACCOUNT_INFO_BAD_ID: Falscher Account Login.
+ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
+
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
@@ -356,7 +357,8 @@ INTERACTION_VESSEL_LIMIT_REACHED: Die maximale Anzahl aus Gefäßen beschworener
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Erhalten: {1} x{0} + {2}'
 
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
-INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat eine einminütige Abklingzeit.
+INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Die Abklingzeit beträgt eine Minute.
+
 INVENTORY_DIALOG_ASK_TO_DELETE: Willst du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand löschen möchtest?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht ausreichend Gegenstände
@@ -698,14 +700,14 @@ SUM_MESSAGE_FAILED: Summieren fehlgeschlagen.
 
 SUM_MESSAGE_SUCCESS: Summieren erfolgreich!
 
-TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im Einfachen-Modus - die verfügbare Zeit verlängert sich und du wirst deine ausgewählte Belohnung nicht erhalten.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus - die verfügbare Zeit verlängert sich und du wirst deine ausgewählte Belohnung nicht erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace beizutreten.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace starten.
 
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds beitreten?
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds betreten?
 TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben lassen?
 TIMESPACE_DIALOG_ASK_START: Möchtest du den ersten Raum betreten?
 
