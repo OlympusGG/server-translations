@@ -61,7 +61,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiad
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No sé pueden añadir más opciones al accesorio!
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord. 
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si tú crees que es un error, siéntete libre de abrir un ticket en nuestro servidor de Discord dedicado al soporte.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
@@ -82,7 +82,7 @@ COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de pode
 COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando hayas llegado al nivel 30.
 COMMEND_CHATMESSAGE_RECEIVED: El jugador {0} te ha elogiado.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
-+DIGNITY_CHATMESSAGE_RESTORE: 'Dignidad restaurada: +{0}.'
+DIGNITY_CHATMESSAGE_RESTORE: 'Dignidad recuperada: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: La mejora del nivel de ataque de tu NosMate falló.
 DOLL_MESSAGE_MATE_ATTACK_UPGRADE: ¡El nivel de ataque de tu NosMate ha aumentado! +{0} -> +{1}
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: La mejora del nivel de defensa de tu NosMate falló.
@@ -421,10 +421,10 @@ NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this bu
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blinking buffs disabled
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Blinking buffs enabled
-OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC disabled
-OPTIONS_SHOUTMESSAGE_DISCORDRPC_ENABLED: DiscordRPC enabled
-OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotes disabled
-OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotes enabled
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC deshabilitado.
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_ENABLED: DiscordRPC habilitado.
+OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emoticonos deshabilitados.
+OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emoticonos habilitados.
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Family requests disabled
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Family requests enabled
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Friend requests disabled
@@ -449,8 +449,8 @@ OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Speakers disabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Speakers enabled
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Trade requests disabled
 OPTIONS_SHOUTMESSAGE_TRADE_ENABLED: Trade requests enabled
-OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI disabled
-OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI enabled
+OPTIONS_SHOUTMESSAGE_UI_DISABLED: Interfaz deshabilitada.
+OPTIONS_SHOUTMESSAGE_UI_ENABLED: Interfaz habilitada.
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Whispers disabled
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Whispers enabled
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'You got a new Partner: {0}!'
@@ -482,27 +482,27 @@ PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Luz
 PERFECTSP_MESSAGE_FAILURE: SP Perfection failed!
 PERFECTSP_MESSAGE_SUCCESS: 'Perfection successful: {0} +{1}'
-PERFECTSP_SHADOW: Tinieblas
+PERFECTSP_SHADOW: Tiniebla
 PERFECTSP_WATER: Agua
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: You bought {1}x {0} from {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} bought {2}x {1}.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Your NosMate can already pick up items!
 PET_CHATMESSAGE_BEAD_EXTRACT: 'You got a new NosMate: {0}!'
-PET_CHATMESSAGE_CAN_PICK_UP: Your NosMate can now pick up items!
+PET_CHATMESSAGE_CAN_PICK_UP: ¡Tu mascota ahora puede recoger objetos!
 PET_CHATMESSAGE_EAT_EVERYTHING: Your NosMate is full!
-PET_DIALOG_ASK_SEND_BACK: Do you want to send your NosMate back to the Mini-Land?
+PET_DIALOG_ASK_SEND_BACK: ¿Quieres enviar a tu mascota de vuelta al Mini-Mundo?
 PET_DIALOG_ASK_SLOT_INCREASE: Do you want to expand your NosMate slots?
 PET_INFO_LEAVE_BEAD: NosMate is now out of the bead!
-PET_INFO_RELEASED: Your NosMate is now free.
+PET_INFO_RELEASED: Tú mascota ha sido liberada.
 PET_INFO_STORED: Your NosMate is now stored in the bead.
 PET_MESSAGE_ALREADY_IN_TEAM: Your NosMate is already in the team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: You can already summon your NosMate!
 PET_MESSAGE_KICKED: Your NosMate has returned to the Mini-Land.
-PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
+PET_MESSAGE_SUMMONABLE: Ahora puedes invocar a tu mascota en cualquier momento.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Your NosMate's level is higher than yours!
 PET_SHOUTMESSAGE_LEVEL_UP: Your NosMate {0} has leveled up!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate went back to Mini-Land.
-PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
+PET_SHOUTMESSAGE_WILL_BE_BACK: Tu mascota resucitará en 3 minutos.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
@@ -516,8 +516,8 @@ PSP_BARNI: Barni the Clever
 PSP_CHEONGBI: Imp Cheongbi
 PSP_CHLOE: Cowgirl Chloe
 PSP_DANIEL: Daniel Ducats
-PSP_DIALOG_ASK_RESET_ALL_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
-PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Do you want to reset this skill?
+PSP_DIALOG_ASK_RESET_ALL_SKILLS: ¿Quieres restablecer las habilidades de la tarjeta de especialista de tu compañero?
+PSP_DIALOG_ASK_RESET_SINGLE_SKILL: ¿Quieres restablecer esta habilidad?
 PSP_ELIZA: Ice Princess Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy
@@ -575,12 +575,12 @@ RAID_CHATMESSAGE_X_JOINED: '{0} joined the team.'
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
 RAID_INFO_NO_EXIST: Raid does not exist!
-RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
-RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
-RAID_MESSAGE_DISOLVED: The raid team was disbanded.
+RAID_INFO_NO_LIVES_LEFT: Has consumido todas tus vidas.
+RAID_INFO_PLAYER_DEATH: ¡Estás muerto! Revivirás en 20 segundos.
+RAID_MESSAGE_DISOLVED: El equipo se ha disuelto.
 RAID_NAME_CASTRA: Dark Castra
-RAID_NAME_CHICKENKING: Chicken King
-RAID_NAME_CUBY: Mother Cuby
+RAID_NAME_CHICKENKING: Rey Pollo 
+RAID_NAME_CUBY: Madre Cuby
 RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
@@ -590,18 +590,18 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in a group.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
-RAID_SHOUTMESSAGE_COMPLETED: "{0}'s raid team completed {1}!"
-RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
-RAID_SHOUTMESSAGE_KICKED: You were kicked
+RAID_SHOUTMESSAGE_COMPLETED: "El equipo de {0}'s ha completado el raid {1}!"
+RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un raid mientras estés en un grupo.
+RAID_SHOUTMESSAGE_KICKED: Te han echado.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Player was kicked
-RAID_SHOUTMESSAGE_LEFT: '{0} left the team.'
-RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new team leader.'
+RAID_SHOUTMESSAGE_LEFT: '{0} ha abandonado el equipo.'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: ¡Los enemigos están recibiendo refuerzos!
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} es el nuevo lider del equipo.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Team is full
-RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered
-RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets completed
-RAID_SHOUTMESSAGE_TARGETS_UPDATED: Targets updated.
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: El equipo está lleno.
+RAID_SHOUTMESSAGE_REGISTERED: Tu raid se ha registrado.
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Todos los objetivos se han completado.
+RAID_SHOUTMESSAGE_TARGETS_UPDATED: Objetivos actualizados.
 RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the team'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn location?
@@ -616,24 +616,24 @@ SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Options of this shell are already identified.
 SHELLS_SHOUTMESSAGE_BROKEN: The shell is broken because it has failed during adding.
 SHELLS_SHOUTMESSAGE_ERASED: The option has been erased.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: You can only use this shell on armors.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: You can only use this shell on weapons.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Sólo puedes utilizar esta concha en armaduras.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Sólo puedes utilizar esta concha en armas.
 SHELLS_SHOUTMESSAGE_IDENTIFIED: Shell identified!
 SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: The level of the shell must be the same or lower than the equipment level.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: The shell must be identified before using.
 SHELLS_SHOUTMESSAGE_OPTION_SET: Shell options have been added.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: The shell rarity must be the same or lower than the equipment rarity.
-SHIP_CHATMESSAGE_LEVEL_REQ: You need at least level {0} to board this ship.
-SHIP_SHOUTMESSAGE_COOLDOWN: The ship hasn't returned yet.
-SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} min.
-SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} sec.
-SHOP_CHATMESSAGE_EMPTY: Shop can't be empty!
+SHIP_CHATMESSAGE_LEVEL_REQ: Necesitas al menos el nivel {0} para subirte a este barco.
+SHIP_SHOUTMESSAGE_COOLDOWN: El barco aún no ha regresado.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: El barco zarpará en {0} min.
+SHIP_SHOUTMESSAGE_SECONDS_REMAINING: El barco zarpará en {0} seg.
+SHOP_CHATMESSAGE_EMPTY: ¡La tienda no puede estar vacía!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
-SHOP_DEFAULT_NAME: Shop
-SHOP_INFO_ALREADY_OPEN: You have a shop open already!
-SHOP_INFO_NEAR_PORTAL: You can't create shop so close to the portal!
-SHOP_INFO_NOT_ALLOWED: You can't open shops on general maps.
-SHOP_INFO_NOT_ALLOWED_IN_RAID: You can't open a shop during raid!
+SHOP_DEFAULT_NAME: Tienda.
+SHOP_INFO_ALREADY_OPEN: ¡Ya tienes una tienda abierta!
+SHOP_INFO_NEAR_PORTAL: ¡No puedes crear una tienda cerca de un portal!
+SHOP_INFO_NOT_ALLOWED: No puedes abrir tiendas en mapas generales.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: ¡No puedes abrir una tienda en un raid!
 SHOP_INFO_OPEN: Shop has been open!
 SHOP_INFO_TARGET_MAX_GOLD: The player has reached maximum gold amount.
 SHOP_LOG_SELL_ITEM_VALID: Transaction successful
@@ -656,11 +656,11 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} sacrifices for {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: You need to wait until all cooldowns finish!
-SPEAKER_NAME: Speaker
+SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: You need to be transformed into your Specialist Card to do this!
-SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Ahora mismo no puedes atacar.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} sec.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
 SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} SP points to transform into a Specialist Card!
