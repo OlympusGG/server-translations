@@ -150,7 +150,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: ¡El cabecilla ha cambiado su género!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: ¡La familia ha alcanzado el nivel {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-+FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} oro.
+FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} oro.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: ¿Quieres añadir a {0} a tu lista de amigos?
@@ -247,7 +247,7 @@ IC_90_150_45_70H_W5_TITLE: Oleada 5 - Zona de descanso
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_NAME: Icebreaker
-+ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
+ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: ¡Prepárate para luchar!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} está congelado.'
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} ha sido descongelado.'
