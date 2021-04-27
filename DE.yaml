@@ -152,7 +152,8 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht ge
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Die Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familiearena beitreten? Es wird dich {0} Gold kosten. 
+FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena beitreten? Es wird dich {0} Gold kosten. 
+
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ist nun im Spiel.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat das Spiel beendet.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
