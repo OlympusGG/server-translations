@@ -333,7 +333,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Du wurdest mit dem Schutz d
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Du hast deinen Schutz verloren.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Um die Flügel des Spezialisten zu ändern, muss die Stufe der Verbesserung höher als 0 sein.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Dein Lautsprecher steht auf Abklingzeit, ein Lautsprecher alle 30 Sekunden.
-INTERACTION_VESSEL_LIMIT_REACHED: Das Monsterlimit für Gefäße auf dieser Map wurden erreicht.
+INTERACTION_VESSEL_LIMIT_REACHED: Das Monsterlimit für Gefäße auf dieser Map wurde erreicht.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat eine einminütige Abklingzeit.
