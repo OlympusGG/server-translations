@@ -679,16 +679,16 @@ TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden 
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace starten.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds betreten?
-TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben lassen?
+TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben?
 TIMESPACE_DIALOG_ASK_START: Möchtest du den ersten Raum betreten?
-TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du den Timespace im Rekord-Modus starten? Es wird {0} Gold kosten.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace läuft bereits.
+TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du diesen Timespace im Rekord-Modus starten? Es wird dich {0} Gold kosten.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace wurde bereits gestartet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
-TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Gegner erhalten Verstärkung!
-TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde umgelegt.
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Feinde erhalten Verstärkung!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde betätigt.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen. 
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Die Schnellmission wurde erfolgreich abgeschlossen.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
