@@ -394,21 +394,21 @@ MINIGAME_INFO_POINTS_FULL: Maximální body produkce dosaženy.
 MINIGAME_INFO_REFILL: 'Příspěvek minihry: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Musíš mít level {0} a {1} bodů reputace k hraní této minihry.
 MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Přidáno {0}x {1} k bednám Mini zemi.
-MINILAND_DIALOG_ASK_INVITE: Chceš se připojit k MiniLandu hráče {0}?
+MINILAND_DIALOG_ASK_INVITE: Chceš se připojit k Mini zemi hráče {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Neobdržíš odměny, protože nemáš dostatek produkčních bodů. Chceš bez ohledu na to pokračovat?
 MINILAND_INFO_CHANGED: Mini-land info změněno
 MINILAND_INFO_DURABILITY_MAXIMUM: Bylo dosaženo maximální trvanlivosti minihry.
-MINILAND_INFO_INVITE_LOCK: MiniLand tohoto hráče je zamknutý.
+MINILAND_INFO_INVITE_LOCK: Mini země tohoto hráče je zamknutá.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Nedostatek kupónů na odměny!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Nedostatek bodů trvanlivosti.
-MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Nedostatek Mini-Land výrobních bodů.
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Nedostatek výrobních bodů Mini země.
 MINILAND_MESSAGE_VISITOR: 'Celkové návštěvy: {0}, Denní návštěvy: {1}'
-MINILAND_SHOUTMESSAGE_CLOSED: Mini-Land je zavřený.
-MINILAND_SHOUTMESSAGE_FULL: Mini-Land je plný.
-MINILAND_SHOUTMESSAGE_LOCK: Mini-Land je nyní zavřený.
-MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land musí být nejdříve zavřený.
-MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land je nyní soukromý.
-MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land je nyní veřejný.
+MINILAND_SHOUTMESSAGE_CLOSED: Mini země je zavřená.
+MINILAND_SHOUTMESSAGE_FULL: Mini země je plná.
+MINILAND_SHOUTMESSAGE_LOCK: Mini země je nyní zavřená.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini země musí být nejdříve zavřená.
+MINILAND_SHOUTMESSAGE_PRIVATE: Mini země je nyní soukromá.
+MINILAND_SHOUTMESSAGE_PUBLIC: Mini země je nyní veřejná.
 MINILAND_WELCOME_MESSAGE: Vítejte!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Trest bude ještě trvat: {0}'
 MUTE_MESSAGE_FEMALE: Byla jsem nezbedná dívka, a tak jsem byla potrestána!
@@ -435,13 +435,13 @@ OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Klobouk je nyní viditelný
 OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Klobouk je nyní neviditelný
 OPTIONS_SHOUTMESSAGE_HP_DISABLED: Informace o HP regeneraci zakázány
 OPTIONS_SHOUTMESSAGE_HP_ENABLED: Informace o HP regeneraci povoleny
-OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Mini-Land pozvánky zakázány
-OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Mini-Land pozvánky povoleny
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Pozvánky do Mini země zakázány
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Pozvánky do Mini země povoleny
 OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Zamknutí myši zrušeno
 OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Zamknutí myši povoleno
-OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Po smrti se tvůj partner navrátí do Mini-Landu.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Po smrti se tvůj partner navrátí do Mini země.
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Po smrti bude tvůj partner oživen pomocí Semínek moci.
-OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj NosMate navrátí do Mini-Landu.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj NosMate navrátí do Mini země.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj NosMate oživen pomocí Semínek moci.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Rychlé zvednutí zakázáno
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Rychlé zvednutí povoleno
@@ -466,13 +466,13 @@ PARTNER_INFO_RELEASED: Tvůj partner je nyní volný.
 PARTNER_INFO_SP_NEW_SKILL: Tvůj partner se naučil nové dovednosti!
 PARTNER_INFO_STORED: Tvůj partner je nyní uložen v perle.
 PARTNER_MESSAGE_100_AGILITY: Tvůj partner dosáhl 100% pohyblivosti.
-PARTNER_MESSAGE_KICKED: Tvůj partner se navrátil do Mini-Landu.
+PARTNER_MESSAGE_KICKED: Tvůj partner se navrátil do Mini země.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Tvůj partner nemá nasazenou kartu specialisty.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Již máš tohoto partnera.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Tvůj partner {0} navýšil svoji úroveň!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner oživen Ochranným andělem partnera.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Karta specialisty partnera má cooldown - {0} sekund.
-PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner odešel zpět do Mini-Landu.
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner odešel zpět do Mini země.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner bude zpět za 3 minuty.
 PERFECTSP_ATTACK: Útok
 PERFECTSP_DEFENSE: Obrana
@@ -490,18 +490,18 @@ PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Tvůj NosMate již předměty sbírat můž
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Obdržel jsi nového NosMate: {0}!'
 PET_CHATMESSAGE_CAN_PICK_UP: Tvůj NosMate nyní může sbírat předměty!
 PET_CHATMESSAGE_EAT_EVERYTHING: Tvůj NosMate je už plný!
-PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého NosMate zpátky do Mini-Landu?
+PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého Mazlíčka zpátky do Mini země?
 PET_DIALOG_ASK_SLOT_INCREASE: Chceš navýšit počet slotů pro své NosMate?
-PET_INFO_LEAVE_BEAD: NosMate je venku z perly!
-PET_INFO_RELEASED: Tvůj NosMate je nyní volný.
-PET_INFO_STORED: Tvůj NosMate byl uložen do perly.
-PET_MESSAGE_ALREADY_IN_TEAM: Tvůj NosMate již je v týmu.
-PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého NosMate již zavolat můžeš!
-PET_MESSAGE_KICKED: Tvůj NosMate se navrátil do Mini-Landu.
-PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého NosMate kdykoliv.
-PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého NosMate je vyšší než tvůj!
-PET_SHOUTMESSAGE_LEVEL_UP: Tvůj NosMate {0} právě navýšil svoji úroveň!
-PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate odešel zpět do Mini-Landu.
+PET_INFO_LEAVE_BEAD: Mazlíček je venku z perly!
+PET_INFO_RELEASED: Tvůj Mazlíček je nyní volný.
+PET_INFO_STORED: Tvůj Mazlíček byl uložen do perly.
+PET_MESSAGE_ALREADY_IN_TEAM: Tvůj Mazlíček  již je v týmu.
+PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého NMazlíčka již zavolat můžeš!
+PET_MESSAGE_KICKED: Tvůj Mazlíček se navrátil do Mini země.
+PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého Mazlíčka kdykoliv.
+PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvůj!
+PET_SHOUTMESSAGE_LEVEL_UP: Tvůj Mazlíček {0} právě navýšil svoji úroveň!
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate odešel zpět do Mini země.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate bude zpět za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate oživen díky NosMate ochrannému anděli.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Systém Soucitu] {0} => [{1}/{2}], šance na odměnu: {3}%'
@@ -624,7 +624,7 @@ SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Mušle musí být identifikována před 
 SHELLS_SHOUTMESSAGE_OPTION_SET: Vlastnosti mušle byly přidány.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Rarita mušle musí být stejná nebo nižší než rarita vybavení.
 SHIP_CHATMESSAGE_LEVEL_REQ: Je potřeba alespoň levelu {0} k nastoupení do lodi.
-SHIP_SHOUTMESSAGE_COOLDOWN: Loď se doposud nevrátila.
+SHIP_SHOUTMESSAGE_COOLDOWN: Loď se stále nevrátila.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Loď dorazí za {0} minut.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Loď dorazí za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Obchod nesmí být prázdný!
@@ -700,7 +700,7 @@ TITLE_INFO_VISIBLE_DISABLED: Viditelnost titulu byla zakázána!
 TITLE_INFO_VISIBLE_ENABLED: Viditelnost titulu byla povolena!
 TRADE_CHATMESSAGE_BLOCKED: Hráč má blokované nabídky k obchodu!
 TRADE_CHATMESSAGE_REFUSED: Hráč {0} odmítl tvoji nabídku k obchodu.
-TRADE_CHATMESSAGE_YOU_REFUSED: Obchod odmítnut.
+TRADE_CHATMESSAGE_YOU_REFUSED: Obchod zamítnut.
 TRADE_DIALOG_ASK_FOR_TRADE: Nabídl jsi obchod {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE: Hráč {0} [{1}(+{2})Lv.] s tebou chce obchodovat.
 TRADE_INFO_PLAYER_IN_BATTLE: Nemůžeš obchodovat během boje.
