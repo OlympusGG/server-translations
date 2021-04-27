@@ -372,7 +372,7 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst den Gegenstand hier nicht fallen
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF:  Du kannst dein Reittier nicht benutzen, aufgrund eines schlechten Effekts.
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF:  Aufgrund eines schlechten Effekts kannst du dein Reittier nicht benutzen.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
