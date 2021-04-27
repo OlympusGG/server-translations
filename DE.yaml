@@ -642,7 +642,7 @@ SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast diese Fähigkeit bereits erlernt.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Du kannst keine Fähigkeiten erlernen, solange du transformiert bist.
-SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Du musst die Basisfähigkeit zuerst erlernen.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Du musst zuerst die Basisfähigkeit erlernen.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Du kannst diese Fähigkeit nicht zurückgeben!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Möchtest du deine bereits erlernte Fähigkeitsverbesserung ersetzen?
