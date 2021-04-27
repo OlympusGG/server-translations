@@ -90,58 +90,58 @@ DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: ¡El nivel de defensa de tu NosMate ha aument
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: No puedes invocar más monigotes.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: ¡El nivel de este monigote no es el adecuado para tu NosMate!
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
-DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
-FAIRYSTONES_DIALOG_INSERT: ¿Quiere insertar {0} a su {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedras de Hada falló.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: ¡La inserción de Piedras de Hada tuvo éxito!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes instertar Piedras de Hada en el equipamiento de nivel heroico.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de esta Piedra de Hada es demasiado alto para este objeto.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en este objeto.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada en armas y armaduras.
-FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha iniciado sesión!'
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Mejora familiar adquirida!
-FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Este miembro de la familia ya tiene ese nivel de autoridad.
-FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres deshacer tu familia? No hay vuelta atrás.
-FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro de que quieres unirte a la familia?
-FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿quieres unirte?
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de soltado errónea.
+DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en el mapa como para que puedas soltar otro más.
+FAIRYSTONES_DIALOG_INSERT: ¿Quieres insertar {0} a tu {1}?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedra de Hada falló.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Inserción de Piedra de Hada exitosa!
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes insertar Piedras de Hada a equipamiento con nivel Heróico.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la Piedra de Hada es demasiado alto para este item.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en este item.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada a armas y armaduras.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro de familia desbloqueado: {0}'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se ha conectado!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: El miembro de la familia ya tiene esta autoridad.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Deseas deshacer tu familia? Esto no se puede deshacer.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro que quieres entrar a la familia?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿Deseas entrar?
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: No puedes cambiar tu propia autoridad.
-FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes echar a ti mismo de la familia.
-FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
-FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla no puede abandonar la familia sin haber echado a todo el mundo.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes expulsar a ti mismo de la familia.
+FAMILY_DIALOG_CHANGE_HEAD: ¿Deseas cambiar el cabecilla de la familia?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla de la familia no puede salir de esta sin deshacerla por completo.
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
-FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Quieres abandonar la familia?
-FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes tu mismo nivel de autoridad a otro miembro.
-FAMILY_INFO_CREATION_BANNED_NAME: Tu familia contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
-FAMILY_INFO_CREATION_GROUP_REQUIRED: Tienes que estar en un grupo para crear una familia.
-FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien de tu grupo ya está en una familia o recientemente abandonó una familia.
-FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Límite de representantes alcanzado.
+FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas salir de la familia?
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No puedes darle a otros tu misma autoridad.
+FAMILY_INFO_CREATION_BANNED_NAME: El nombre de tu familia contiene la palabra "{0}", la cual no está permitida. Si crees que esto es un error, siéntete libre de abrirnos un ticket en nuestro Discord de Soporte.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Debes estar en un grupo para crear una familia.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien en tu grupo ya está en una familia o dejó recientemente a una.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Limite de diputados alcanzado.
 FAMILY_INFO_FULL: La familia está llena.
-FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: ¡Alguien del grupo ya pertenece a una familia!
-FAMILY_INFO_GROUP_NOT_FULL: ¡No puedes crear una familia sin un grupo completo!
-FAMILY_INFO_INVITATION_NOT_ALLOWED: ¡No tienes permisos para invitar a jugadores!
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: ¡Alguien en tu grupo ya es miembro de una familia!
+FAMILY_INFO_GROUP_NOT_FULL: ¡No puedes crear una familia sin un grupo que esté lleno!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: ¡No tienes permiso para invitar jugadores!
 FAMILY_INFO_INVITATION_REFUSED: El jugador rechazó la invitación.
-FAMILY_INFO_KEEPER_LIMIT_REACHED: Límite de administradores alcanzado.
-FAMILY_INFO_LEAVE: Has abandonado la familia.
-FAMILY_INFO_NAME_ALREADY_USED: ¡Este nombre ya está en uso!
-FAMILY_INFO_NO_FAMILY: No tienes familia.
-FAMILY_INFO_NO_FAMILY_RIGHT: No tienes autoridad.
-FAMILY_INFO_NO_FAMILY_WAREHOUSE: No hay almacen familiar.
-FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Limite de asistentes alcanzado.
+FAMILY_INFO_LEAVE: Has salido de la familia.
+FAMILY_INFO_NAME_ALREADY_USED: ¡El nombre de la familia ya está en uso!
+FAMILY_INFO_NO_FAMILY: No estás una familia.
+FAMILY_INFO_NO_FAMILY_RIGHT: No tienes permisos suficientes.
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: No se ha encontrado un almacén de familia.
+FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla de la familia!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
-FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
-FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
-FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
-FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este artículo al almacén familiar!
-FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor, inténtelo de nuevo más tarde.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora anterior para comprar eso.
-FAMILY_RANK_DEPUTY: Representante
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio de familias está bajo mantenimiento.
+FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador necesita ser un diputado!
+FAMILY_INFO_USED_DAILY_MESSAGE: El mensaje del día ya fue usado.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este objeto al almacen de familia!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes permisos suficientes para hacer eso.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Un error inesperado ocurrió. Por favor, intenta más tarde.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora previa para comprar eso.
+FAMILY_RANK_DEPUTY: Diputado
 FAMILY_RANK_HEAD: Cabecilla
-FAMILY_RANK_KEEPER: Administrador
+FAMILY_RANK_KEEPER: Guardián
 FAMILY_RANK_MEMBER: Miembro
-FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya pertenece a esa facción!
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya está en esa facción!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: El cambio de facción familiar está actualmente en enfriamiento.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tienes que esperar 24 horas para poder entrar a una familia.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: El cabecilla ha cambiado.
