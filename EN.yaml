@@ -672,17 +672,17 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrec
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: You need to be transformed into a Specialist to do this!
 SUM_MESSAGE_FAILED: Combination failed.
 SUM_MESSAGE_SUCCESS: Combination successful!
-TIMESPACE_CHATMESSAGE_EASY_MODE: The time-space is in easy mode - the duration has been extended and you will not receive selected rewards.
+TIMESPACE_CHATMESSAGE_EASY_MODE: The Time-Space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked!
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this time-space.
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all time-space missions have been completed.
-TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Only the party leader can start the time-space.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this Time-Space.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all Time-Space missions have been completed.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Only the party leader can start the Time-Space.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's time-space?
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Do you want to join a group member's Time-Space?
 TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
 TIMESPACE_DIALOG_ASK_START: Do you want to enter the first room?
-TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a time-space in record mode? It will cost {0} gold.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space has already begun.
+TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a Time-Space in record mode? It will cost {0} gold.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-Space has already begun.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: A door has opened.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: A door has opened somewhere.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
@@ -690,7 +690,7 @@ TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: The mission starts as soon as you enter the first room.
-TIMESPACE_SHOUTMESSAGE_TS_FULL: The time-Space is full.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Please wait...
 TITLE_DIALOG_ASK_ADD: Do you want to add this title?
 TITLE_INFO_EFFECT_DISABLED: Title effect has been disabled.
