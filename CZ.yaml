@@ -288,8 +288,8 @@ INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Tvá úroveň práce byla navýšena!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Tvá úroveň byla navýšena!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximální množství Partnerů dosaženo!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximální množství slotů Partnerů dosaženo!
-INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximální množství NosMátů dosaženo!
-INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximální množství slotů NosMátů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximální množství Mazlíčků dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximální množství slotů Mazlíčků dosaženo!
 INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Musíš být na obecné mapě.
 INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: K této akci bude nutné opustit skupinu!
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Pouze dobrodruh může změnit svoji třídu.
@@ -303,7 +303,7 @@ INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Nedostatek CP.
 INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Nemůžeš propustit svého Partnera, když na sobě má nějaké vybavení.
 INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého Partnera, když tě následuje.
 INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Předmět byl změněn na vybavení Partnera.
-INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého NosMáta, když tě následuje.
+INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého Mazlíčka, když tě následuje.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: Chceš-li se naučit nové dovednosti, bude nutné odebrat kartu Specialisty.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Před transformací odeber vozidlo.
 INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Tvé pohlaví bylo změněno!
@@ -350,11 +350,11 @@ ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji frakci?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit frakci své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tuhle bednu?
-ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s NosMátem?
-ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého NosMáta do perly?
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
+ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého Mazlíčka do perly?
 ITEM_DIALOG_ASK_USE: Chceš použít tento předmět?
 ITEM_DIALOG_WANT_TO_SAVE_POSITION: Chceš uložit svoji pozici?
-ITEM_INFO_PET_NAME_TOO_LONG: Jméno NosMáta je příliš dlouhé! (Maximálně 14 znaků)
+ITEM_INFO_PET_NAME_TOO_LONG: Jméno Mazlíčka je příliš dlouhé! (Maximálně 14 znaků)
 ITEM_MESSAGE_CANT_USE: Tento předmět nemůžeš použít.
 ITEM_MESSAGE_CANT_WEAR: Tento předmět nosit nemůžeš.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Tvůj partner nemůže nosit tento předmět.
