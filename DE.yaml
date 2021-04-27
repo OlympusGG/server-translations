@@ -1,7 +1,5 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
-
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
-
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
@@ -23,16 +21,12 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju ist gestorben
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Schleuder nachgeladen.
-
 AMMO_LOADED_ARCHER: Pfeile nachgeladen.
-
 AMMO_LOADED_SWORDSMAN: Bolzen nachgeladen.
-
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: In deinem Inventar befindet sich bereits eine 'Cuarry Bank Debit Card'.
-
 BANK_DIALOG_ASK_DEPOSIT: Willst du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Willst du {0}000 Gold von der Bank abheben?
 BANK_INFO_NOT_ENOUGH_FUNDS: Nicht ausreichend Gold.
@@ -49,11 +43,8 @@ BAZAAR_INFO_MAINTENANCE_MODE: NosBasar wird gewartet.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximale Anzahl an Gegenständen registriert.
 BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändler Medaille.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Der Preis des Gegenstands überschreitet den maximal zugelassenen Preis.
-
 BAZAAR_INFO_RESYNC: Preisänderung fehlgeschlagen. Bitte versuche es erneut.
-
 BAZAAR_QNA_CHANGE_PRICE_FEE: Möchtest du den Preis des Gegenstands ändern? Es wird dich {0} Gold kosten.
-
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand im NosBasar registriert
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Preis des Gegenstands geändert
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warnung, du kannst angegriffen werden, während du den Basar benutzt!
@@ -72,9 +63,7 @@ CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Dein Charaktername enthält nicht erlaubte Zeichen!
-
 CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später nochmal.
-
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später erneut.
 CLASS_NAME_ADVENTURER: Abenteurer
 CLASS_NAME_ARCHER: Bogenschütze
@@ -108,16 +97,13 @@ FAIRYSTONES_MESSAGE_INSERT_FAILED: Einfügen des Feensteins missglückt.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Einfügen des Feensteins erfolgreich!
 FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Du kannst keine Feensteine in Gegenstände der heroischen Stufe einfügen.
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Die Stufe des Feensteins ist zu hoch für diesen Gegenstand.
-
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Du kannst diesem Gegenstand keine weiteren Feensteine verleihen.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Du kannst Feensteine nur in Waffen und Rüstungen einfügen.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Familienerrungenschaft freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Du hast die Familienerweiterung erworben!
-
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Dieses Familienmitglied hat bereits diese Rechte.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Möchtest du die Familie auflösen? Dieser Vorgang kann nicht rückgängig gemacht werden.
-
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
 FAMILY_DIALOG_ASK_JOIN_FAMILY: Du wurdest in die Familie {0} von {1} eingeladen, willst du ihr beitreten?
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Du kannst deine eigenen Rechte nicht verändern.
@@ -126,12 +112,10 @@ FAMILY_DIALOG_CHANGE_HEAD: Willst du das Familienoberhaupt wechseln?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen, ohne sie vollkommen aufzulösen.
 FAMILY_INFO_ALREADY_IN_FAMILY: Du bist bereits in einer Familie.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Möchtest du die Familie verlassen?
-
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Du kannst anderen nicht die selben Rechte verleihen.
 FAMILY_INFO_CREATION_BANNED_NAME: Dein Familienname beinhaltet das Wort "{0}", welches verboten ist. Wenn du glaubst, dass es sich dabei um einen Fehler handelt, öffne gerne ein Ticket auf unserem Support-Discordserver.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Du musst in einer Gruppe sein, um eine Familie zu gründen.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Ein Gruppenmitglied ist bereits Teil einer Familie oder hat kürzlich eine Familie verlassen.
-
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Maximale Anzahl an Vertretern erreicht.
 FAMILY_INFO_FULL: Die Familie ist voll.
 FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jemand in der Gruppe ist bereits Mitglied einer Familie!
@@ -147,7 +131,6 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: Kein Familienlager gefunden.
 FAMILY_INFO_NOT_FAMILY_HEAD: Du bist nicht das Familienoberhaupt!
 FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Der Familienservice befindet sich momentan im Wartungsmodus.
-
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Dieser Gegenstand kann dem Familienwarenhaus nicht hinzugefügt werden!
@@ -162,19 +145,14 @@ FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Die Familie gehört bereits dieser Fra
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion deiner Familie steht unter Abklingzeit.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, bevor du einer Familie erneut betreten kannst.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Ein neues Familienoberhaupt wurde ernannt.
-
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht gewechselt!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Deine Familie hat Stufe {0} erreicht!
-
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena beitreten? Es wird dich {0} Gold kosten. 
-
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} hat sich eingeloggt.'
-
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat sich ausgeloggt.'
-
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
 FRIEND_INFO_ADDED: Freundschaftsanfrage akzeptiert!
 FRIEND_INFO_ALREADY_FRIEND: '{0} ist bereits dein Freund!'
@@ -352,13 +330,10 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Du wurdest mit dem Schutz d
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Du hast deinen Schutz verloren.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Um die Flügel des Spezialisten zu ändern, muss die Stufe der Verbesserung höher als 0 sein.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Dein Lautsprecher steht unter Abklingzeit. Ein Lautsprecher kann alle 30 Sekunden verwendet werden.
-
 INTERACTION_VESSEL_LIMIT_REACHED: Die maximale Anzahl aus Gefäßen beschworener Monster wurde für diese Karte erreicht.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Erhalten: {1} x{0} + {2}'
-
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
 INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Die Abklingzeit beträgt eine Minute.
-
 INVENTORY_DIALOG_ASK_TO_DELETE: Willst du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand löschen möchtest?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht ausreichend Gegenstände
@@ -692,25 +667,20 @@ SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Du brauchst {0} SP Punkte, um dich 
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Du hast keine SP Punkte übrig! Du kannst dich jetzt nicht verwandeln!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Die Spezialistenkarte kann aufgrund eines negativen Effekts nicht ausgezogen werden.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Du hast {0} SP Punkte verteilt!
-
 SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP Punkte zurückgesetzt!
 SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wieder hergestellt!
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst in einen Spezialisten verwandelt sein, um dies zu tun!
 SUM_MESSAGE_FAILED: Summieren fehlgeschlagen.
-
 SUM_MESSAGE_SUCCESS: Summieren erfolgreich!
-
 TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus - die verfügbare Zeit verlängert sich und du wirst deine ausgewählte Belohnung nicht erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace starten.
-
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds betreten?
 TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben lassen?
 TIMESPACE_DIALOG_ASK_START: Möchtest du den ersten Raum betreten?
-
 TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du den Timespace im Rekord-Modus starten? Es wird {0} Gold kosten.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace läuft bereits.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet.
@@ -723,7 +693,6 @@ TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Ra
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
 TITLE_DIALOG_ASK_ADD: Möchtest du diesen Titel hinzufügen?
-
 TITLE_INFO_EFFECT_DISABLED: Der Effekt des Titels wurde deaktiviert.
 TITLE_INFO_EFFECT_ENABLED: Der Effekt des Titels wurde aktiviert.
 TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet!
@@ -751,9 +720,7 @@ UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte wurde erfolgreich verbessert!
 UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Möchtest du dich scheiden lassen?
 WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Heiratsantrag gemacht. Möchtest du ihn annehmen?
-
 WEDDING_DIALOG_REQUEST_VERIFICATION: Bist du dir sicher, dass du {0} heiraten möchtest?
 WEDDING_INFO_DIVORCED: Die Ehe wurde aufgelöst.
-
 WEDDING_SHOUTMESSAGE_BROADCAST: Spieler {0} und {1} sind nun verheiratet!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgelehnt.'
