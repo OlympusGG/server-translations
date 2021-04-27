@@ -376,7 +376,7 @@ ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF:  Du kannst dein Reittier nicht benutzen, aufgr
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden fertiggestellt.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Stunden.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Minuten.'
