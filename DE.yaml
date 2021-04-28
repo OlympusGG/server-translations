@@ -193,10 +193,10 @@ GROUP_INFO_JOIN: Du bist der Gruppe von {0} beigetreten!
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
 GROUP_INFO_NEW_LEADER: Du bist der neue Teamleiter!
 GROUP_INFO_REQUEST: Gruppenanfrage an {0} gesendet.
-GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Du hast angefragt deinen Rückkehrort mit den Gruppenmitgliedern zu teilen.
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
-GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} hat den Rückkehrort geändert.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} hat abgelehnt den Rückkehrort mit den Gruppenmitgliedern zu teilen.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
 GROUP_SHOUTMESSAGE_SHARING: 'Loot sharing: Jeder'
@@ -369,7 +369,7 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst den Gegenstand hier nicht fallen
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
-ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF:  Aufgrund eines schlechten Effekts kannst du dein Reittier nicht verwenden.
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
@@ -591,14 +591,14 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, währ
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannste keine Gruppenmitglieder in ein Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du dich in der Arena befindest!
 RAID_SHOUTMESSAGE_COMPLETED: "{0}'s hat {1} erfolgreich beendet!"
-RAID_SHOUTMESSAGE_IN_GROUP: Du kannst dem Raidteam nicht beitreten, während du in einer Gruppe bist.
+RAID_SHOUTMESSAGE_IN_GROUP: Du kannst dem Raid-Team nicht beitreten, während du in einer Gruppe bist.
 RAID_SHOUTMESSAGE_KICKED: Du wurdest gekickt
 RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
-RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Gegner erhalten Verstärkung!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
-RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid Mitglied {0} ist gestorben.
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde erhalten Verstärkung!
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Raid-Teamleiter.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Raidmitglied {0} ist gestorben.
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Raid-Team ist voll
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Ziele aktualisiert.
@@ -610,11 +610,11 @@ REVIVE_DIALOG_ARENA: Willst du dich wiederbeleben? Es wird dich {0} Gold kosten.
 REVIVE_DIALOG_FREE: Willst du dich wiederbeleben? Kostenlos möglich bis Level {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saat der Macht kosten.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
-SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
+SHELLS_DIALOG_ADD_OPTIONS: Möchtest du diesem Gegenstand Eigenschaften verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
 SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Diese Muschel konnte nicht identifiziert werden.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Die Muschel konnte nicht identifiziert werden.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
-SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
+SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel zerbrach, da das Hinzufügen fehlgeschlagen ist.
 SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
 SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Diese Muschel ist nur für Rüstungen verwendbar.
 SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Diese Muschel ist nur für Waffen verwendbar.
