@@ -596,9 +596,11 @@ RAID_SHOUTMESSAGE_KICKED: Du wurdest gekickt
 RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde erhalten Verstärkung!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Raid-Teamleiter.'
+
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raidmitglied {0} ist gestorben.
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Team ist voll
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Raid-Team ist voll
+
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid-Team wurde registriert
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Ziele aktualisiert.
@@ -610,11 +612,13 @@ REVIVE_DIALOG_ARENA: Willst du dich wiederbeleben? Es wird dich {0} Gold kosten.
 REVIVE_DIALOG_FREE: Willst du dich wiederbeleben? Kostenlos möglich bis Level {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saat der Macht kosten.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
-SHELLS_DIALOG_ADD_OPTIONS: Willst du diesem Gegenstand eine Eigenschaft verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
+SHELLS_DIALOG_ADD_OPTIONS: Möchtest du diesem Gegenstand Eigenschaften verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
+
 SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
 SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Die Muschel konnte nicht identifiziert werden.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
-SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel ist gebrochen, da das Hinzufügen fehlgeschlagen ist.
+SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel zerbrach, da das Hinzufügen fehlgeschlagen ist.
+
 SHELLS_SHOUTMESSAGE_ERASED: Die Eigenschaften wurden gelöscht.
 SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Diese Muschel ist nur für Rüstungen verwendbar.
 SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Diese Muschel ist nur für Waffen verwendbar.
