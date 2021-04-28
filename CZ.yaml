@@ -441,8 +441,8 @@ OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Zamknutí myši zrušeno
 OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Zamknutí myši povoleno
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Po smrti se tvůj partner navrátí do Mini země.
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Po smrti bude tvůj partner oživen pomocí Semínek moci.
-OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj NosMate navrátí do Mini země.
-OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj NosMate oživen pomocí Semínek moci.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj Mazlíček navrátí do Mini země.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj Mazlíček oživen pomocí Semínek moci.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Rychlé zvednutí zakázáno
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Rychlé zvednutí povoleno
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Řečníci ztlumeni
@@ -486,24 +486,24 @@ PERFECTSP_SHADOW: Stín
 PERFECTSP_WATER: Voda
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Koupil jsi {1}x {0} od {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} koupil {2}x {1}.'
-PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Tvůj NosMate již předměty sbírat může!
+PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Tvůj Mazlíček již předměty sbírat může!
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Obdržel jsi nového NosMate: {0}!'
-PET_CHATMESSAGE_CAN_PICK_UP: Tvůj NosMate nyní může sbírat předměty!
-PET_CHATMESSAGE_EAT_EVERYTHING: Tvůj NosMate je už plný!
+PET_CHATMESSAGE_CAN_PICK_UP: Tvůj Mazlíček nyní může sbírat předměty!
+PET_CHATMESSAGE_EAT_EVERYTHING: Tvůj Mazlíček je už plný!
 PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého Mazlíčka zpátky do Mini země?
-PET_DIALOG_ASK_SLOT_INCREASE: Chceš navýšit počet slotů pro své NosMate?
+PET_DIALOG_ASK_SLOT_INCREASE: Chceš navýšit počet slotů pro své Mazlíčky?
 PET_INFO_LEAVE_BEAD: Mazlíček je venku z perly!
 PET_INFO_RELEASED: Tvůj Mazlíček je nyní volný.
 PET_INFO_STORED: Tvůj Mazlíček byl uložen do perly.
 PET_MESSAGE_ALREADY_IN_TEAM: Tvůj Mazlíček  již je v týmu.
-PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého NMazlíčka již zavolat můžeš!
+PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého Mazlíčka již zavolat můžeš!
 PET_MESSAGE_KICKED: Tvůj Mazlíček se navrátil do Mini země.
 PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého Mazlíčka kdykoliv.
-PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvůj!
+PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvoje úroveň!
 PET_SHOUTMESSAGE_LEVEL_UP: Tvůj Mazlíček {0} právě navýšil svoji úroveň!
-PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate odešel zpět do Mini země.
-PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate bude zpět za 3 minuty.
-PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate oživen díky NosMate ochrannému anděli.
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Mazlíček odešel zpět do Mini země.
+PET_SHOUTMESSAGE_WILL_BE_BACK: Mazlíček bude zpět za 3 minuty.
+PET_SHOUTMESSGE_SAVED_BY_SAVER: Mazlíček oživen díky ochrannému anděli mazlíčka.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Systém Soucitu] {0} => [{1}/{2}], šance na odměnu: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Systém Soucitu] Obdržel jsi {0} jako extra odměnu!'
 PORTAL_CHATMESSAGE_BLOCKED: Tento portál je uzamčený, nemůžu jej použít.
