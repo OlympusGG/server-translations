@@ -22,7 +22,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
-AMMO_LOADED_SWORDSMAN: Šipky do kuše připraveny!
+AMMO_LOADED_SWORDSMAN: Šíp připraven v kuši!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem: {1}'
