@@ -14,8 +14,8 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss byl poražen!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Místnost s bossem je nyní otevřena.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při centrální věži na mapě Bitoren Tundra!
 ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou frakci a mají ochrannou moc.
-ACT4_SHOUTMESSAGE_CAMP_ANGELS: Kemp andělů
-ACT4_SHOUTMESSAGE_CAMP_DEMONS: Kemp démonů
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor andělů
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor démonů
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
@@ -68,7 +68,7 @@ CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodaři
 CLASS_NAME_ADVENTURER: Dobrodruh
 CLASS_NAME_ARCHER: Lukostřelec
 CLASS_NAME_MAGE: Mág
-CLASS_NAME_MARTIAL_ARTIST: Mistr boje
+CLASS_NAME_MARTIAL_ARTIST: Mistr bojového umění
 CLASS_NAME_SWORDSMAN: Bojovník s mečem
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Změnil jsi hru do jazyka:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktuální jazyk je
@@ -480,8 +480,8 @@ PERFECTSP_ELEMENT: Element
 PERFECTSP_FIRE: Oheň
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Světlo
-PERFECTSP_MESSAGE_FAILURE: Perfekce SP selhala!
-PERFECTSP_MESSAGE_SUCCESS: 'Perfekce úspěšná: {0} +{1}'
+PERFECTSP_MESSAGE_FAILURE: Zdokonalení SP selhalo!
+PERFECTSP_MESSAGE_SUCCESS: 'Zdokonalení úspěšné: {0} +{1}'
 PERFECTSP_SHADOW: Stín
 PERFECTSP_WATER: Voda
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Koupil jsi {1}x {0} od {2}.
