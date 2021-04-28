@@ -403,9 +403,9 @@ MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Nedostatek kupónů na odměny!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Nedostatek bodů trvanlivosti.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Nedostatek výrobních bodů Mini země.
 MINILAND_MESSAGE_VISITOR: 'Celkové návštěvy: {0}, Denní návštěvy: {1}'
-MINILAND_SHOUTMESSAGE_CLOSED: Mini země je zavřená.
+MINILAND_SHOUTMESSAGE_CLOSED: Mini země je nyní zavřená.
 MINILAND_SHOUTMESSAGE_FULL: Mini země je plná.
-MINILAND_SHOUTMESSAGE_LOCK: Mini země je nyní zavřená.
+MINILAND_SHOUTMESSAGE_LOCK: Mini země je nyní uzamčená.
 MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini země musí být nejdříve zavřená.
 MINILAND_SHOUTMESSAGE_PRIVATE: Mini země je nyní soukromá.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini země je nyní veřejná.
