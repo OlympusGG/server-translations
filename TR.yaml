@@ -644,7 +644,7 @@ SKILL_CHATMESSAGE_NOT_TO_REFUND: Yetenek silinemez!
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Büyü uygulaması kesildi.
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Bu türdeki mevcut beceri yükseltmesini değiştirmek istiyor musun?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Bu yeteneği öğrenemezsin!
-SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Yeni yetenek öğrenmek için kullanım sürelerinin dolmasını beklemelisin.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Yeni yetenek öğrenmek için soğuma sürelerinin dolmasını beklemelisin.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Evcilleştirme başarısız!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Bu canavarı evcilleştiremezsin!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Bu canavarı akın sırasında evcilleştiremezsin!
