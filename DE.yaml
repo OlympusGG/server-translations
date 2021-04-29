@@ -3,9 +3,9 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmo
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
 ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Wächter der {0} getötet.'
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
-ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Wächter der {0} getötet.'
+ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du benötigst eine Familie, um dem Verlies beitreten zu können!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Dem Verlies beizutreten wird dich {0} Rufpunkte kosten. Willst du beitreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Eine Wiederbelebung hier wird dich {0} Rufpunkte kosten. Wenn du abbrichst, wirst du an den Beginn des Verlies' teleportiert. Willst du hier wiederbelebt werden?
