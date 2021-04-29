@@ -48,12 +48,12 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Möchtest du den Preis des Gegenstands ändern? Es 
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand im NosBasar registriert
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Preis des Gegenstands geändert
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warnung, du kannst angegriffen werden, während du den Basar benutzt!
-BLACKLIST_INFO_ADDED: Spieler zur Blacklist hinzugefügt!
+BLACKLIST_INFO_ADDED: Spieler zur Schwarzen Liste hinzugefügt!
 BLACKLIST_INFO_BLOCKED: Dieser Spieler hat dich blockiert!
 BLACKLIST_INFO_BLOCKING: Du hast diesen Spieler blockiert!
 BLACKLIST_INFO_DELETED: Spieler von der Blacklist gelöscht!
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Kein Effekt aufgrund von Immunität.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: Der Effekt {0} ist ausgelaufen.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Der Effekt {0} ist abgelaufen.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Nebeneffekte von {0} haben begonnen.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Du stehst unter dem Effekt {0}
 CELLON_SHOUTMESSAGE_FAIL: Das Cellon ist verschwunden, da die Verzauberung fehlgeschlagen ist.
@@ -61,7 +61,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Cellonlevel ist zu hoch für diesen Schm
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Die Schmuckoptionen sind bereits gefüllt!
 CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Der Name deines Charakters beinhaltet das Wort "{0}", welches verboten ist. Wenn du denkst, dass dies ein Fehler ist, kannst du ein Ticket auf unserem Support Discord Server eröffnen.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Dein Charaktername enthält nicht erlaubte Zeichen!
 CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später nochmal.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später erneut.
@@ -107,7 +107,7 @@ FAMILY_DIALOG_ASK_DISMISS_FAMILY: Möchtest du die Familie auflösen? Dieser Vor
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Bist du dir sicher, dass du der Familie beitreten möchtest?
 FAMILY_DIALOG_ASK_JOIN_FAMILY: Du wurdest in die Familie {0} von {1} eingeladen, willst du ihr beitreten?
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Du kannst deine eigenen Rechte nicht verändern.
-FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Willst du dich selber aus der Familie werfen?
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Du kannst dich nicht selbst aus der Familie werfen.
 FAMILY_DIALOG_CHANGE_HEAD: Willst du das Familienoberhaupt wechseln?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Das Familienoberhaupt kann die Familie nicht verlassen, ohne sie vollkommen aufzulösen.
 FAMILY_INFO_ALREADY_IN_FAMILY: Du bist bereits in einer Familie.
@@ -150,7 +150,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht ge
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Deine Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena beitreten? Es wird dich {0} Gold kosten. 
+FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena betreten? Es wird dich {0} Gold kosten.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} hat sich eingeloggt.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat sich ausgeloggt.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Willst du ein Freund von {0} werden?
@@ -188,7 +188,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} hat dir eine Gruppeneinladung geschickt'
 GROUP_INFO_ADMIN: Du bist jetzt der Gruppenleiter!
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits in einer Gruppe!
 GROUP_INFO_BLOCKED: Der Spieler blockiert Gruppeneinladungen.
-GROUP_INFO_FULL: Grppe ist voll.
+GROUP_INFO_FULL: Gruppe ist voll.
 GROUP_INFO_JOIN: Du bist der Gruppe von {0} beigetreten!
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
 GROUP_INFO_NEW_LEADER: Du bist der neue Teamleiter!
@@ -197,53 +197,53 @@ GROUP_INFO_SHARE_POINT_TO_MEMBERS: Du hast angefragt deinen Rückkehrort mit den
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
 GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} hat den Rückkehrort geändert.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} hat abgelehnt den Rückkehrort mit den Gruppenmitgliedern zu teilen.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
-GROUP_SHOUTMESSAGE_SHARING: 'Loot sharing: Jeder'
-GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: Nach Reihenfolge'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Du hast deinen Rückkehrort mit deinen Gruppenmitgliedern geteilt.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Du hast verweigert, den Rückkehrort mit deinen Gruppenmitgliedern zu teilen.
+GROUP_SHOUTMESSAGE_SHARING: 'Beute teilen: Jeder'
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Beute teilen: Nach Reihenfolge'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Der Versuch ist fehlgeschlagen! Versuche es erneut in {0} Sekunden.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Bedauerlicherweise ist der Versuch fehlgeschlagen.
-IC_1_49_W1_TITLE: Wave 1 - Weaklings!
-IC_1_49_W2_TITLE: Wave 2 - Greens
-IC_1_49_W3_TITLE: Wave 3 - Reds
-IC_1_49_W4_TITLE: Wave 4 - Yellows
-IC_1_49_W5_TITLE: Wave 5 - Flyings
-IC_50_59_W1_TITLE: Wave 1 - Lesser Demons
-IC_50_59_W2_TITLE: Wave 2 - Run!
-IC_50_59_W3_TITLE: Wave 3 - Greater Demons
-IC_50_59_W4_TITLE: Wave 4 - Krem Creatures
-IC_50_59_W5_TITLE: Wave 5 - Spiders
-IC_60_69_W1_TITLE: Wave 1 - Ghosts
+IC_1_49_W1_TITLE: Wave 1 - Schwächlinge!
+IC_1_49_W2_TITLE: Wave 2 - Grünlinge
+IC_1_49_W3_TITLE: Wave 3 - Rotlinge
+IC_1_49_W4_TITLE: Wave 4 - Gelblinge
+IC_1_49_W5_TITLE: Wave 5 - Fliegende
+IC_50_59_W1_TITLE: Wave 1 - Kleinere Dämonen
+IC_50_59_W2_TITLE: Wave 2 - Renn!
+IC_50_59_W3_TITLE: Wave 3 - Größere Dämonen
+IC_50_59_W4_TITLE: Wave 4 - Krem Kreaturen
+IC_50_59_W5_TITLE: Wave 5 - Spinnen
+IC_60_69_W1_TITLE: Wave 1 - Geister
 IC_60_69_W2_TITLE: Wave 2 - Catsy
 IC_60_69_W3_TITLE: Wave 3 - BDSM Dungeon
-IC_60_69_W4_TITLE: Wave 4 - Copper Balls
-IC_60_69_W5_TITLE: Wave 5 - Knights of Hell
-IC_70_79_W1_TITLE: Wave 1 - Fir Forest
-IC_70_79_W2_TITLE: Wave 2 - Maple Woods
-IC_70_79_W3_TITLE: Wave 3 - Moist Caves
+IC_60_69_W4_TITLE: Wave 4 - Kupferbälle
+IC_60_69_W5_TITLE: Wave 5 - Höllenritter
+IC_70_79_W1_TITLE: Wave 1 - Tannenwald
+IC_70_79_W2_TITLE: Wave 2 - Ahornwald
+IC_70_79_W3_TITLE: Wave 3 - Feuchte Höhlen
 IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Wave 5 - Knights of Heaven
+IC_70_79_W5_TITLE: Wave 5 - Ritter des Himmels
 IC_80_89_W1_TITLE: Wave 1 - Slades!
 IC_80_89_W2_TITLE: Wave 2 - Zombies!
-IC_80_89_W3_TITLE: Wave 3 - Greater Desertlings
+IC_80_89_W3_TITLE: Wave 3 - Größere Wüstenlinge
 IC_80_89_W4_TITLE: Wave 4 - Sandspawns
-IC_80_89_W5_TITLE: Wave 5 - Shay's Forces
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Temple of Agony
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Volcanic Eruption
-IC_90_150_0_24H_W3_TITLE: Wave 3 - Flaming Sword
-IC_90_150_0_24H_W4_TITLE: Wave 4 - Gates of Hell
-IC_90_150_0_24H_W5_TITLE: Wave 5 - Gates of Heaven
-IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruins of Heaven
-IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruins of Hell
-IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Outpost!
-IC_90_150_25_44H_W4_TITLE: Wave 4 - Crusaders' Outpost!
-IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rest Place
+IC_80_89_W5_TITLE: Wave 5 - Shay's Kräfte
+IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempel der Qual
+IC_90_150_0_24H_W2_TITLE: Wave 2 - Vulkanerruption 
+IC_90_150_0_24H_W3_TITLE: Wave 3 - Flammendes Schwert
+IC_90_150_0_24H_W4_TITLE: Wave 4 - Tore der Hölle
+IC_90_150_0_24H_W5_TITLE: Wave 5 - Tore des Himmels
+IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruinen des Himmels
+IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruinen der Hölle
+IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Außenposten!
+IC_90_150_25_44H_W4_TITLE: Wave 4 - Kreuzritters' Außenposten!
+IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rastplatz
 IC_90_150_45_70H_W1_TITLE: Wave 1 - Unknownlanders!
-IC_90_150_45_70H_W2_TITLE: Wave 2 - Hellspawns
-IC_90_150_45_70H_W3_TITLE: Wave 3 - Moist Creatures
-IC_90_150_45_70H_W4_TITLE: Wave 4 - Orcs
-IC_90_150_45_70H_W5_TITLE: Wave 5 - A Chill Place...
+IC_90_150_45_70H_W2_TITLE: Wave 2 - Höllenspawns
+IC_90_150_45_70H_W3_TITLE: Wave 3 - Finstere Kreaturen
+IC_90_150_45_70H_W4_TITLE: Wave 4 - Orks
+IC_90_150_45_70H_W5_TITLE: Wave 5 - Ein ruhiger Ort...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst keine Person auftauen, die du getötet hast!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Du bist zu weit weg um aufzutauen!
 ICEBREAKER_NAME: Icebreaker
@@ -342,7 +342,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da du bereits unter dem Effekt {0} stehst.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
-ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Du hast bereits einen Wegweiser aufgestellt. Verbliebene Zeit: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Haltbarkeit des Items {0} ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstandes ist nicht mehr fixiert!
 ITEM_DIALOG_ASK_BIND: Willst du diesen Gegenstand tragen? Hierdurch wird der Gegenstand an deinen Charakter gebunden und nicht mehr handelbar sein.
@@ -363,10 +363,10 @@ ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Du kannst keine Spezialistenkarte m
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Du kannst keine zerstörte Spezialistenkarte anziehen.
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Du hast {1}x {0} hergestellt.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Du kannst das individuelle Fraktionsei nicht verwenden, wenn du Teil einer Familie bist.
-ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Das Element der Fee entspricht nicht dem Element der SP!
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Das Element der Fee entspricht nicht dem Element der Spezialistenkarte!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Dieser Gegenstand kann nicht fallen gelassen werden.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst den Gegenstand hier nicht fallen lassen.
-ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Mini-Land tun.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Miniland tun.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die selben Flügel verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
@@ -374,26 +374,26 @@ ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Die Wartungsarbeiten wurden aufgehoben.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Stunden.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Minuten.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Änderung der Zeiten für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Sekunden.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartungsarbeiten wurden beendet.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartungsarbeiten starten in {0} Stunden.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten starten in {0} Minuten.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten starten in {0} Sekunden.
-MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
-MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
-MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Do you have any payment or in-game issue? Check out our Support Discord server: noswings.com/support'
-MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini-games production points has been refreshed.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartungsarbeiten wurden gestoppt.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartungsarbeiten beginnen in {0} Stunden.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten beginnen in {0} Minuten.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten beginnen in {0} Sekunden.
+MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Updates: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Hast du einen Fehler gefunden? Melde es hier: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs-oder Spielproblem? Dann wirf einen Blick auf unseren Discord-Support Server'
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Produktionspunkte der Minispiele wurden erneuert.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen, um dieses Minispiel zu spielen.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Mini-Land chest.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: '{0}x {1} zur Miniland-Kiste hinzugefügt.'
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da du nicht ausreichend Produktionspunkte besitzt. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Beschreibung wurde erneuert.
@@ -415,9 +415,9 @@ MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
 NOTE_CHATMESSAGE_NEW_NOTE: Du hast eine neue Notiz erhalten!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Du hast {0} Notizen in deinem Postfach
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Du hast das Verstärkungspaket erhalten!
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch um dieses Verstärkungspaket erhalten zu können.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig um dieses Verstärkungspaket erhalten zu können.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Du hast das Buffpaket erhalten!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch um dieses Buffpaket zu erhalten.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig um dieses Buffpaket zu erhalten.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Leuchtende Effekte deaktiviert
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Leuchtende Effekte aktiviert
@@ -504,49 +504,49 @@ PET_SHOUTMESSAGE_LEVEL_UP: Dein NosMate {0} ist aufgestiegen!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist in das Mini-Land zurückgekehrt.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten zurückkehren.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate durch den NosMate Schutzengel wiederbelebt.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Chance für den Preis: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Du hast {0} als eine extra Belohnung erhalten!'
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich gleich bewegen.
-PSP_AEGIR: Aegir the Angry
-PSP_AMON: Overseer Amon
+PSP_AEGIR: Aegir der Wütende
+PSP_AMON: Aufseher Amon
 PSP_AMORA: Amora
-PSP_ARCHDAEMON_AMON: Archdaemon Amon
-PSP_BARNI: Barni the Clever
+PSP_ARCHDAEMON_AMON: Erzdämon Amon
+PSP_BARNI: Barni der Schlaue
 PSP_CHEONGBI: Imp Cheongbi
 PSP_CHLOE: Cowgirl Chloe
 PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Willst du alle Fähigkeiten der Spezialistenkarte deines Partners zurücksetzten?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Willst du diese Fähigkeit zurücksetzten?
-PSP_ELIZA: Ice Princess Eliza
+PSP_ELIZA: Eisprinzessin Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy
-PSP_FREYA: Freya the Fateful
-PSP_GUARDIAN_LUCIFER: Guardian Lucifer
+PSP_FREYA: Freya die Schicksalhafte
+PSP_GUARDIAN_LUCIFER: Wächter Lucifer
 PSP_HARLEQUIN: Harlequin
 PSP_HONGBI: Imp Hongbi
 PSP_JINN: Jinn
-PSP_LAURENA: Witch Laurena
-PSP_LOTUS: Lotus the Graceful
-PSP_LUCIFER: Archangel Lucifer
-PSP_LUCY: Lucy Lopears
-PSP_MACAVITY: Test Subject
-PSP_MAD_MARCH_HARE: Mad March Hare
+PSP_LAURENA: Hexe Laurena
+PSP_LOTUS: Lotus die Elegante
+PSP_LUCIFER: Erzengel Lucifer
+PSP_LUCY: Lucy Löffel
+PSP_MACAVITY: Testobjekt
+PSP_MAD_MARCH_HARE: Wütender Märzhase
 PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: Alle Partnerfähigkeiten wurden zurückgesetzt.
 PSP_MESSAGE_ONE_SKILL_RESET: Partnerfähigkeit wurde zurückgesetzt.
-PSP_MOTHER_MARU: Maru in Mother's Fur
+PSP_MOTHER_MARU: Maru in Mama's Pelz
 PSP_NELIA: Nelia Nymph
-PSP_ORKANI: Orkani the Turbulent
-PSP_PALINA: Palina Puppet Master
-PSP_PERTI: One-Winged Angel Perti
-PSP_PHARAOH: Akhenaton the Cursed Pharaoh
-PSP_RAGNAR: Bone Warrior Ragnar
+PSP_ORKANI: Orkani der Stürmische
+PSP_PALINA: Puppenmeister Palina
+PSP_PERTI: Perti, der einflüglige Engel
+PSP_PHARAOH: Akhenaton der verfluchte Pharao
+PSP_RAGNAR: Knochenkrieger Ragna
 PSP_SHERIFF_CHLOE: Sheriff Chloe
-PSP_SHINOBI: Shinobi the Silent
-PSP_VENUS: Little Princess Venus
-PSP_YUNA: Magic Student Yuna
-QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
+PSP_SHINOBI: Shinobi der Leise
+PSP_VENUS: Kleine Prinzessin Venus
+PSP_YUNA: Zauberlehrling Yuna
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} gesammelt: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenko Soldat ist zu stark!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC erhalten.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
@@ -579,12 +579,12 @@ RAID_INFO_NO_LIVES_LEFT: Du hast alle deine Leben verbraucht.
 RAID_INFO_PLAYER_DEATH: Du bist gestorben! Du wirst in 20 Sekunden wiederbelebt.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_NAME_CASTRA: Dark Castra
-RAID_NAME_CHICKENKING: Chicken King
-RAID_NAME_CUBY: Mother Cuby
-RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
-RAID_NAME_GINSENG: Ginseng
+RAID_NAME_CHICKENKING: Huhnkönig
+RAID_NAME_CUBY: Cuby Mutter
+RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
+RAID_NAME_GINSENG: Xysenstrauch
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_SLADE: Massive Slade
+RAID_NAME_SLADE: Riesenslade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits betätigt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, während du Teil einer Gruppe bist.
@@ -611,7 +611,7 @@ REVIVE_DIALOG_FREE: Willst du dich wiederbeleben? Kostenlos möglich bis Level {
 REVIVE_DIALOG_SEEDS_OF_POWER: Willst du dich wiederbeleben? Es wird dich {0} Saat der Macht kosten.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzten, musst du zunächst Parfüm benutzen.
 SHELLS_DIALOG_ADD_OPTIONS: Möchtest du diesem Gegenstand Eigenschaften verleihen? Wenn du akzeptierst, wird dieser Gegenstand an dich gebunden.
-SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Willst du fortfahren?
+SHELLS_DIALOG_REPLACE_OPTIONS: Die Eigenschaften werden überschrieben. Die Erfolgschance beträgt 50%, ansonsten wird die neue Muschel zerstört. Möchtest du fortfahren?
 SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Die Muschel konnte nicht identifiziert werden.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Die Eigenschaften dieser Muschel sind bereits identifiziert.
 SHELLS_SHOUTMESSAGE_BROKEN: Die Muschel zerbrach, da das Hinzufügen fehlgeschlagen ist.
@@ -647,7 +647,7 @@ SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Du musst warten bis die Ablinkzeiten deiner Fähigkeiten vorüber sind, bevor du eine neue Fähigkeit erlernen kannst. 
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Du kannst dieses Monster während des Raids nicht fangen!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Du kannst dieses Monster während des Raids nicht einfangen!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast erfolgreich {0} gefangen!
 SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Du musst ein höheres Level als das Monster besitzen, um es zu fangen!
@@ -672,7 +672,7 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wi
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst in einen Spezialisten verwandelt sein, um dies zu tun!
 SUM_MESSAGE_FAILED: Summieren fehlgeschlagen.
 SUM_MESSAGE_SUCCESS: Summieren erfolgreich!
-TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus - die verfügbare Zeit verlängert sich und du wirst deine ausgewählte Belohnung nicht erhalten.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace befindet sich im einfachen Modus - die verfügbare Zeit wurde verlängert und du wirst keine ausgewählten Belohnungen erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Die Tür ist verschlossen!
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
@@ -688,7 +688,7 @@ TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöff
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Feinde erhalten Verstärkung!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde betätigt.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
-TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Die Schnellmission wurde erfolgreich abgeschlossen.
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
