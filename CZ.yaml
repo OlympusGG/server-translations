@@ -150,7 +150,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Hlava rodiny změnila své pohlaví!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla levelu {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Chceš se připojit do rodinné arény? Bude tě to stát {0} zlata.
+FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stát {0} zlata.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se připojil do hry.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Chceš se stát přáteli s {0}?
@@ -164,7 +164,7 @@ FRIEND_MESSAGE_NOT_FRIEND: Nejste přátelé!
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není ve tvém seznamu přátel.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je v nepřátelské frakci.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Není možné sázet předměty se zafixovaným levelem.
-GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto není možné sázet s nehrdinskými předměty (C1+).
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto není možné sázet s nehrdinskými předměty.
 GAMBLING_INFO_AMULET_DESTROYED: 'UPOZORNĚNÍ: Ochranné kouzlo vypršelo.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Už máš nejvyšší možnou raritu!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Díky amuletu nebyl předmět zničen!
