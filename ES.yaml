@@ -103,15 +103,15 @@ FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro de familia desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se ha conectado!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: El miembro de la familia ya tiene esta autoridad.
-FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Deseas deshacer tu familia? Esto no se puede deshacer.
-FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro que quieres entrar a la familia?
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres deshacer tu familia? No hay vuelta atrás.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: ¿Estás seguro de que quieres unirte a la familia?
 FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿Deseas entrar?
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: No puedes cambiar tu propia autoridad.
 FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes expulsar a ti mismo de la familia.
 FAMILY_DIALOG_CHANGE_HEAD: ¿Deseas cambiar el cabecilla de la familia?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla de la familia no puede salir de esta sin deshacerla por completo.
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
-FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas salir de la familia?
+FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas abandonar la familia?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No puedes darle a otros tu misma autoridad.
 FAMILY_INFO_CREATION_BANNED_NAME: El nombre de tu familia contiene la palabra "{0}", la cual no está permitida. Si crees que esto es un error, siéntete libre de abrirnos un ticket en nuestro Discord de Soporte.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Debes estar en un grupo para crear una familia.
@@ -125,7 +125,7 @@ FAMILY_INFO_INVITATION_REFUSED: El jugador rechazó la invitación.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Limite de asistentes alcanzado.
 FAMILY_INFO_LEAVE: Has salido de la familia.
 FAMILY_INFO_NAME_ALREADY_USED: ¡El nombre de la familia ya está en uso!
-FAMILY_INFO_NO_FAMILY: No estás una familia.
+FAMILY_INFO_NO_FAMILY: Has abandonado la familia.
 FAMILY_INFO_NO_FAMILY_RIGHT: No tienes permisos suficientes.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: No se ha encontrado un almacén de familia.
 FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla de la familia!
@@ -137,9 +137,9 @@ FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este objeto al almacen d
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes permisos suficientes para hacer eso.
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Un error inesperado ocurrió. Por favor, intenta más tarde.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora previa para comprar eso.
-FAMILY_RANK_DEPUTY: Diputado
+FAMILY_RANK_DEPUTY: Representante
 FAMILY_RANK_HEAD: Cabecilla
-FAMILY_RANK_KEEPER: Guardián
+FAMILY_RANK_KEEPER: Administrador
 FAMILY_RANK_MEMBER: Miembro
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya está en esa facción!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: El cambio de facción familiar está actualmente en enfriamiento.
