@@ -36,7 +36,7 @@ BANK_LOG_WITHDRAW_BANK: '{0}000 zlata vybráno.'
 BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
 BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finančních prostředky byly zaslány na bankovní účet.
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finanční prostředky byly zaslány na bankovní účet.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána do NosBazaru.
 BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar je v údržbě.
