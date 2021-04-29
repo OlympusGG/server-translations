@@ -61,7 +61,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Cellonlevel ist zu hoch für diesen Schm
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Die Schmuckoptionen sind bereits gefüllt!
 CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Der Name deines Charakters beinhaltet das Wort "{0}", welches gebannt ist. Wenn du denkst, dass dies ein Fehler ist kannst du ein Ticket in unserem NosWings Support Discord eröffnen
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Der Name deines Charakters beinhaltet das Wort "{0}", welches verboten ist. Wenn du denkst, dass dies ein Fehler ist, kannst du ein Ticket auf unserem Support Discord Server eröffnen.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Dein Charaktername enthält nicht erlaubte Zeichen!
 CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später nochmal.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später erneut.
@@ -205,10 +205,10 @@ GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Der Versuch ist fehlgeschlagen! Versuche es erneut in {0} Sekunden.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Bedauerlicherweise ist der Versuch fehlgeschlagen.
 IC_1_49_W1_TITLE: Wave 1 - Schwächlinge!
-IC_1_49_W2_TITLE: Wave 2 - Grüne
-IC_1_49_W3_TITLE: Wave 3 - Rote
-IC_1_49_W4_TITLE: Wave 4 - Gelbe
-IC_1_49_W5_TITLE: Wave 5 - Fliegen
+IC_1_49_W2_TITLE: Wave 2 - Grünlinge
+IC_1_49_W3_TITLE: Wave 3 - Rotlinge
+IC_1_49_W4_TITLE: Wave 4 - Gelblinge
+IC_1_49_W5_TITLE: Wave 5 - Fliegende
 IC_50_59_W1_TITLE: Wave 1 - Kleinere Dämonen
 IC_50_59_W2_TITLE: Wave 2 - Renn!
 IC_50_59_W3_TITLE: Wave 3 - Größere Dämonen
@@ -382,18 +382,18 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartungsarbeiten wurden gestoppt.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartungsarbeiten beginnen in {0} Stunden.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten beginnen in {0} Minuten.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten beginnen in {0} Sekunden.
-MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Neuigkeiten: noswings.com'
+MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Hast du einen Fehler gefunden? Melde es hier: noswings.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Du hast frische Ideen? Poste sie in unserem Forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs-oder Spielproblem? Wirf dann einen Blick auf unseren Discord-Support Server'
+MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs-oder Spielproblem? Dann wirf einen Blick auf unseren Discord-Support Server'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Produktionspunkte der Minispiele wurden erneuert.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen, um dieses Minispiel zu spielen.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Hinzugefügt {0}x {1} zur Miniland-Kiste.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: {0}x {1} zur Miniland-Kiste hinzugefügt.
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da du nicht ausreichend Produktionspunkte besitzt. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Beschreibung wurde erneuert.
@@ -505,7 +505,7 @@ PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist in das Mini-Land zurückgeke
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten zurückkehren.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate durch den NosMate Schutzengel wiederbelebt.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Chance für den Preis: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Du hast {0} eine extra Belohnung erhalten!'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Du hast {0} als eine extra Belohnung erhalten!'
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich gleich bewegen.
 PSP_AEGIR: Aegir der Wütende
