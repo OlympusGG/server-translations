@@ -82,7 +82,6 @@ COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Tienes que esperar {0} minutos antes de pode
 COMMEND_CHATMESSAGE_NOT_MINLVL: Solo puedes elogiar a alguien cuando hayas llegado al nivel 30.
 COMMEND_CHATMESSAGE_RECEIVED: El jugador {0} te ha elogiado.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignidad perdida: -{0}.'
-DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en el mapa como para que puedas soltar otro más.
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignidad restaurada: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: La mejora del nivel de ataque de tu NosMate falló.
 DOLL_MESSAGE_MATE_ATTACK_UPGRADE: ¡El nivel de ataque de tu NosMate ha aumentado! +{0} -> +{1}
@@ -110,6 +109,7 @@ FAMILY_DIALOG_ASK_JOIN_FAMILY: Has sido invitado a la familia {0} por {1}, ¿qui
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: No puedes cambiar tu propia autoridad.
 FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes expulsar a ti mismo de la familia.
 FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla de la familia no puede salir de esta sin deshacerla por completo.
 FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas abandonar la familia?
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes dar tu mismo nivel de autoridad a otro miembro.
@@ -139,8 +139,8 @@ FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor,
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora anterior para comprar eso.
 FAMILY_RANK_DEPUTY: Representante
 FAMILY_RANK_HEAD: Cabecilla
-FAMILY_RANK_MEMBER: Miembro
 FAMILY_RANK_KEEPER: Administrador
+FAMILY_RANK_MEMBER: Miembro
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya pertenece a esa facción!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: El cambio de facción familiar está actualmente en enfriamiento.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tienes que esperar 24 horas para poder entrar a una familia.
@@ -703,10 +703,6 @@ TRADE_CHATMESSAGE_REFUSED: '{0} rechazó tu solicitud de comercio.'
 TRADE_CHATMESSAGE_YOU_REFUSED: Solicitud de comercio rechazada.
 TRADE_DIALOG_ASK_FOR_TRADE: Has solicitado comerciar con {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE:  '{0} [{1}(+{2})Lv.] quiere comerciar contigo.'
-TRADE_CHATMESSAGE_REFUSED: '{0} rechazó tu solicitud de comercio.'
-TRADE_CHATMESSAGE_YOU_REFUSED: Solicitud de intercambio rechazada.
-TRADE_DIALOG_ASK_FOR_TRADE: Has solicitado intercambiar con {0}.
-TRADE_DIALOG_INCOMING_EXCHANGE: '{0} [{1}(+{2})Lv.] quiere intercambiar contigo.'
 TRADE_INFO_PLAYER_IN_BATTLE: No puedes intercambiar si estás en combate.
 TRADE_INFO_WAITING_FOR_TARGET: Esperando a {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Este jugador ya está intercambiando.
@@ -723,7 +719,6 @@ UPGRADE_MESSAGE_SP_FAILED_SAVED: La mejora de Tarjeta de Especialista ha fallado
 UPGRADE_MESSAGE_SP_SUCCESS: ¡Mejora de Tarjeta de Especialista exitosa!
 UPGRADE_MESSAGE_SUCCESS: ¡Mejora exitosa!
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
-WEDDING_DIALOG_REQUEST_RECEIVED: '{0} te ha propuesto matrimonio. ¿Aceptas?'
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} te ha propuesto matrimonio. ¿Aceptas?'
 WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Quieres casarte con {0}?
 WEDDING_INFO_DIVORCED: Te has divorciado.
