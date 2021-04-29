@@ -700,7 +700,7 @@ TITLE_INFO_VISIBLE_DISABLED: Viditelnost titulu byla zakázána!
 TITLE_INFO_VISIBLE_ENABLED: Viditelnost titulu byla povolena!
 TRADE_CHATMESSAGE_BLOCKED: Hráč má blokované nabídky k obchodu!
 TRADE_CHATMESSAGE_REFUSED: Hráč {0} odmítl tvoji nabídku k obchodu.
-TRADE_CHATMESSAGE_YOU_REFUSED: Obchod zamítnut.
+TRADE_CHATMESSAGE_YOU_REFUSED: Obchod odmítnut.
 TRADE_DIALOG_ASK_FOR_TRADE: Nabídl jsi obchod {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE: Hráč {0} [{1}(+{2})Lv.] s tebou chce obchodovat.
 TRADE_INFO_PLAYER_IN_BATTLE: Nemůžeš obchodovat během boje.
