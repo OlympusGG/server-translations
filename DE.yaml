@@ -191,7 +191,7 @@ GROUP_INFO_BLOCKED: Dieser Spieler blockiert Gruppeneinladungen.
 GROUP_INFO_FULL: Gruppe ist voll.
 GROUP_INFO_JOIN: Du bist der Gruppe von {0} beigetreten!
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
-GROUP_INFO_NEW_LEADER: Du bist der neue Teamleiter!
+GROUP_INFO_NEW_LEADER: Du bist der neue Raidleiter!
 GROUP_INFO_REQUEST: Gruppenanfrage an {0} gesendet.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: Du hast angefragt deinen Rückkehrort mit den Gruppenmitgliedern zu teilen.
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
@@ -560,24 +560,24 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast nicht erfüllte Questaufträge.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} sucht Spieler für den {1} Raid!'
-RAID_CHATMESSAGE_GROUP_REQUEST: '{0} wurde in das Raid-Team eingeladen.'
+RAID_CHATMESSAGE_GROUP_REQUEST: '{0} wurde in das Raidteam eingeladen.'
 RAID_CHATMESSAGE_KICKED: Du wurdest gekickt.
 RAID_CHATMESSAGE_KICKED_OTHER: Spieler wurde gekickt.
-RAID_CHATMESSAGE_LEFT: '{0} hat das Team verlassen.'
+RAID_CHATMESSAGE_LEFT: '{0} hat das Raidteam verlassen.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Dein Level entspricht nicht dem empfohlenen Raidlevel wodurch du keine Raidbox bei einem Sieg erhalten wirst.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein um am Raid teilnehmen zu können.
-RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Teamleiter.'
+RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Raidleiter.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder hat bereits begonnen!
-RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Teamleiter kann den Raid starten.
-RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist nicht Mitglied eines Teams.
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Raidleiter kann den Raid starten.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist nicht Mitglied eines Raidteams.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der Raid kann hier nicht gestartet werden.
-RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Team beigetreten.'
+RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Raidteam beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Möchtest du den {0} Raid beginnen?
-RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Team eingeladen. Akzeptieren?'
+RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raidteam eingeladen. Akzeptieren?'
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
 RAID_INFO_NO_LIVES_LEFT: Du hast alle deine Leben verbraucht.
 RAID_INFO_PLAYER_DEATH: Du bist gestorben! Du wirst in 20 Sekunden wiederbelebt.
-RAID_MESSAGE_DISOLVED: Das Team wurde aufgelöst.
+RAID_MESSAGE_DISOLVED: Das Raidteam wurde aufgelöst.
 RAID_NAME_CASTRA: Dark Castra
 RAID_NAME_CHICKENKING: Huhnkönig
 RAID_NAME_CUBY: Cuby Mutter
@@ -585,25 +585,25 @@ RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
 RAID_NAME_GINSENG: Xysenstrauch
 RAID_NAME_NAMAJU: Namaju
 RAID_NAME_SLADE: Riesenslade
-RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Team.
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raidteam.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieser Schalter wurde bereits betätigt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen solange du Teil einer Gruppe bist.
-RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannste keine Gruppenmitglieder in dein Team einladen.
-RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Team beitreten solange du dich in der Arena befindest!
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannste keine Gruppenmitglieder in dein Raidteam einladen.
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raidteam beitreten solange du dich in der Arena befindest!
 RAID_SHOUTMESSAGE_COMPLETED: "{0}'s hat {1} erfolgreich beendet!"
-RAID_SHOUTMESSAGE_IN_GROUP: Du kannst dem Team nicht beitreten solange Teil einer Gruppe bist.
+RAID_SHOUTMESSAGE_IN_GROUP: Du kannst einem Raidteam nicht beitreten solange Teil einer Gruppe bist.
 RAID_SHOUTMESSAGE_KICKED: Du wurdest gekickt.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Spieler wurde gekickt.
-RAID_SHOUTMESSAGE_LEFT: '{0} hat das Team verlassen.'
+RAID_SHOUTMESSAGE_LEFT: '{0} hat das Raidteam verlassen.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde erhalten Verstärkung!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Raid-Teamleiter.'
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Raidleiter.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raidmitglied {0} ist gestorben.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Der Raid ist voll.
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid wurde registriert.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele erfüllt.
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Ziele aktualisiert.
 RAID_SHOUTMESSAGE_UNREGISTERED: Dein Raid ist nicht länger registriert.
-RAID_SHOUTMESSAGE_X_JOINED: '{0} ist dem Team beigetreten'
+RAID_SHOUTMESSAGE_X_JOINED: '{0} ist dem Raidteam beigetreten'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Möchtest du den Ort der Wiederbelebung ändern?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Ort der Wiederbelebung wurde geändert!
 REVIVE_DIALOG_ARENA: Möchtest du dich wiederbeleben? Es wird dich {0} Gold kosten.
