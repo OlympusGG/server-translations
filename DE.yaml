@@ -393,7 +393,7 @@ MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen, um dieses Minispiel zu spielen.
-MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: {0}x {1} zur Miniland-Kiste hinzugefügt.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: '{0}x {1} zur Miniland-Kiste hinzugefügt.'
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da du nicht ausreichend Produktionspunkte besitzt. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Beschreibung wurde erneuert.
