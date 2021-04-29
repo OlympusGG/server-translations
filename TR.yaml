@@ -672,17 +672,17 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Uzmanlık Kartının ruhu yeniden canlandı
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Bunu yapabilmek için Uzmanlık Kartını kuşatman gerekiyor.
 SUM_MESSAGE_FAILED: Birleştirme başarısız.
 SUM_MESSAGE_SUCCESS: Birleştirme başarılı!
-TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
+TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu uzay-zamana katılamayacak kadar düşük.
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm uzay-zaman görevleri tamamlanmadı.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu Uzay-Zaman'a katılamayacak kadar düşük.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: 'Seviye cezası nedeniyle puanın %{0} azaltıldı.'
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Bir grup üyesinin uzay-zamanına katılmak ister misin?
-TIMESPACE_DIALOG_ASK_REVIVAL: Kendini diriltmek mi istiyorsun?
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Bir grup üyesinin Uzay-Zaman'a katılmak ister misin?
+TIMESPACE_DIALOG_ASK_REVIVAL: Dirilmek istiyor musun?
 TIMESPACE_DIALOG_ASK_START: İlk odaya girmek istiyor musun?
-TIMESPACE_DIALOG_ASK_START_RECORD: Kayıt modunda bir uzay-zaman başlatmak istiyor musunuz? {0} altına mal olacak.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Uzay-zamanı çoktan başladı.
+TIMESPACE_DIALOG_ASK_START_RECORD: Rekor modunda bir Uzay-Zaman başlatmak istiyor musunuz? {0} altına mal olacak.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Uzay-Zaman çoktan başladı.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Kapı açıldı.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Bir yerde bir kapı açıldı
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
@@ -690,7 +690,7 @@ TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hızlı Görevi başarıyla tamamladın.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
-TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-zaman dolu.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-Zaman dolu.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
 TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
 TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı
