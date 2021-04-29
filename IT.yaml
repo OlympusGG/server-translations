@@ -1,6 +1,6 @@
-ACCOUNT_INFO_BAD_ID: Login Errato.
+ACCOUNT_INFO_BAD_ID: Username errato.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore riprova nuovamente più tardi.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato. Riprova più tardi.
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
@@ -12,7 +12,7 @@ ACT4_DUNGEON_REVIVAL_DIALOG: Resuscitare qui richiede {0} punti reputazione. Se 
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La stanza del boss è stata chiusa.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Il boss del raid è stato sconfitto!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La stanza del boss è aperta.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Il portale per il raid è aperto sulla torre centrale a Bitoren Tundra!
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Il portale per il raid è aperto sulla torre centrale della Bitoren Tundra!
 ACT4_NEED_FACTION: Hai bisogno di far parte di una fazione.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Accampamento degli Angeli
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Accampamento dei Demoni
@@ -47,7 +47,7 @@ BAZAAR_INFO_RESYNC: Il cambio del prezzo è fallito. Riprova.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Vuoi modificare il prezzo dell'oggetto? Ti costerà {0} oro.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Oggetto aggiunto al NosBazaar!
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prezzo dell'oggetto modificato!
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attenzione, potresti venire attaccato dai mostri mentre usi il NosBazaar!
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attenzione, potresti essere attaccato dai mostri mentre usi il NosBazaar!
 BLACKLIST_INFO_ADDED: Giocatore aggiunto alla lista nera!
 BLACKLIST_INFO_BLOCKED: Questo giocatore ti ha bloccato!
 BLACKLIST_INFO_BLOCKING: Hai bloccato questo giocatore!
@@ -58,7 +58,7 @@ BUFF_CHATMESSAGE_SIDE_EFFECTS: Gli effetti secondari di {0} sono iniziati.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Sei sotto l'effetto di {0}
 CELLON_SHOUTMESSAGE_FAIL: L'aggiunta del Cellon al gioiello è fallita.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello del Cellon è troppo alto per questo gioiello.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: Gli slot dell'accessorio sono già pieni!
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Gli slot del gioiello sono già pieni!
 CELLON_SHOUTMESSAGE_SUCCESS: Opzione aggiunta.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è stato già stato scelto!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Il nome del tuo personaggio contiene la parola "{0}", che è vietata. Se pensi che sia un errore, sentiti libero di aprire un ticket sul nostro server Discord del supporto.
@@ -71,11 +71,12 @@ CLASS_NAME_MAGE: Mago
 CLASS_NAME_MARTIAL_ARTIST: Artista Marziale
 CLASS_NAME_SWORDSMAN: Spadaccino
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Hai cambiato la lingua a:'
-COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La lingua corrente è
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: "La lingua corrente è:"
+
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Comandi Disponibili:'
 COMMANDS_CHATMESSAGE_HELP: '[Comando di Aiuto]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Indocumentato.
-COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
+COMMANDS_CHATMESSAGE_USAGES: '[Usi del comando]'
 COMMEND_CHATMESSAGE_COOLDOWN: Puoi lodare solo un giocatore al giorno.
 COMMEND_CHATMESSAGE_GIVEN: Il giocatore {0} è stato lodato.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Devi attendere {0} prima di poter lodare qualcuno.
@@ -90,7 +91,7 @@ DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Il livello di difesa del tuo NosMate è aumen
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DOLL_SHOUTMESSAGE_WRONG_DOLL: Questa bambola non è adeguata !
-DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop errata.
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop non valida.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} nel tuo {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserimento della Pietra Fatata è fallito.
@@ -99,9 +100,9 @@ FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Non puoi inserire Pietre Fatate nell'equip
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello di questa Pietra Fatata è troppo alto per questo oggetto.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Non puoi inserire altre Pietre Fatate in questo oggetto.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Puoi inserire Pietre Fatate solo ad armi e armature.
-FAMILY_ACHIEVEMENT_UNLOCKED: 'Achievement sbloccato: {0}'
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Trofeo sbloccato: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) ha effettuato l'accesso!"
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Upgrade della Famiglia acquistato!
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Miglioramento della Famiglia acquistato!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Questo membro della Famiglia ha già questa autorizzazione..
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Vuoi sciogliere la tua Famiglia? Questa azione è irreversibile.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Vuoi far parte della Famiglia?
@@ -109,7 +110,7 @@ FAMILY_DIALOG_ASK_JOIN_FAMILY: Sei stato invitato nella Famiglia {0} da {1}, vuo
 FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Non puoi modificare le tue autorizzazioni.
 FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Non puoi cacciarti dalla Famiglia.
 FAMILY_DIALOG_CHANGE_HEAD: Vuoi modificare il capo della Famiglia?
-FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Il capo della Famiglia non può abbandonare senza scioglierla.
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Il capo della Famiglia non può abbandonarla senza scioglierla.
 FAMILY_INFO_ALREADY_IN_FAMILY: Sei già in una Famiglia.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Vuoi abbandonare la Famiglia?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Non puoi dare agli altri la stessa autorizzazione.
@@ -120,7 +121,7 @@ FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Limite dei Vicecapi raggiunto.
 FAMILY_INFO_FULL: La famiglia ha raggiunto il limite di membri.
 FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Qualcuno nel gruppo fa già parte di una Famiglia!
 FAMILY_INFO_GROUP_NOT_FULL: Non puoi creare una Famiglia senza un gruppo completo!
-FAMILY_INFO_INVITATION_NOT_ALLOWED: Non hai l'autorizzazione di invitare giocatori!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Non hai l'autorizzazione per invitare giocatori!
 FAMILY_INFO_INVITATION_REFUSED: Il giocatore ha rifiutato l'invito.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Limite dei Guardiani raggiunto.
 FAMILY_INFO_LEAVE: Hai abbandonato la famiglia.
@@ -129,20 +130,20 @@ FAMILY_INFO_NO_FAMILY: Non fai parte di una Famiglia.
 FAMILY_INFO_NO_FAMILY_RIGHT: Permessi insufficienti.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Non è stato trovato alcun Deposito della Famiglia.
 FAMILY_INFO_NOT_FAMILY_HEAD: Non sei il capo della Famiglia!
-FAMILY_INFO_NOT_IN_FAMILY: Non fai parte di una famiglia!
+FAMILY_INFO_NOT_IN_FAMILY: Non fai parte di una Famiglia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Il servizio della Famiglia è in manutenzione.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Questo giocatore deve essere un Vicecapo!
 FAMILY_INFO_USED_DAILY_MESSAGE: Hai già modificato il Motto Giornaliero.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Non puoi aggiungere questo oggetto nel Deposito della Famiglia!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Permessi insufficienti.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Errore inaspettato. Per favore prova più tardi.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Hai bisogno dell'upgrade precedente.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato. Riprova più tardi.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Hai bisogno del Miglioramento precedente.
 FAMILY_RANK_DEPUTY: Vicecapo
 FAMILY_RANK_HEAD: Capo
 FAMILY_RANK_KEEPER: Custode
 FAMILY_RANK_MEMBER: Membro
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La Famiglia fa già parte di questa fazione!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Il cambio di fazione della Famiglia è in ricarica.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Non puoi ancora cambiare la fazione della Famiglia.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Devi aspettare 24 ore prima di poter entrare nella Famiglia.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Il capo Famiglia è stato sostituito.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La Famiglia '{0}' è stata fondata!
@@ -337,7 +338,7 @@ INVENTORY_DIALOG_ASK_SORT: Vuoi riordinare il tuo inventario? Ha un minuto di ri
 INVENTORY_DIALOG_ASK_TO_DELETE: Vuoi eliminare questo oggetto?
 INVENTORY_DIALOG_SURE_TO_DELETE: Sei sicuro di voler eliminare questo oggetto?
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Non hai abbastanza oggetti
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Questo item non può contenere le pietre!
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Questo oggetto non può contenere le pietre!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Non puoi utilizzarlo.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Non puoi utilizzare questo oggetto, perché sei già sotto l'effetto del buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effetto di {0} è stato attivato!
@@ -347,7 +348,7 @@ ITEM_CHATMESSAGE_TIMEOUT: La durata di ({0}) è terminata.
 ITEM_CHATMESSAGE_UNFIXED: Il tuo oggetto non è più di livello fisso!
 ITEM_DIALOG_ASK_BIND: Vuoi indossare questo oggetto? Si legherà al tuo personaggio vietandone lo scambio.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Vuoi cambiare fazione?
-ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua Gilda?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua Famiglia?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Vuoi modificare le ali del tuo Specialista?
 ITEM_DIALOG_ASK_OPEN_BOX: Vuoi aprire questa scatola?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Vuoi tirare fuori il tuo NosMate dalla perla?
@@ -367,7 +368,7 @@ ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'elemento della fata è diverso da quell
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Questo oggetto non può essere buttato.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Questo oggetto non può essere buttato qui.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Puoi farlo solo in MiniLand.
-ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare la tua fazione in quella a cui appartieni!
+ITEM_SHOUTMESSAGE_SAME_FACTION: Appartieni già a questa fazione!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
@@ -414,7 +415,7 @@ MUTE_CHATMESSAGE_TIME_LEFT: 'Durata punizione rimasta: {0}'
 MUTE_MESSAGE_FEMALE: Sono stata una bimba cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
 NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova lettera!
-NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} note nella casella postale.
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} lettere nella casella postale.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Hai ricevuto il pacchetto dei buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Sei di livello troppo alto per ricevere il pacchetto dei buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Sei di livello troppo basso per ricevere il pacchetto dei buff.
@@ -490,10 +491,10 @@ PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Il tuo NosMate può già raccogliere gli og
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Hai ricevuto un nuovo NosMate: {0}!'
 PET_CHATMESSAGE_CAN_PICK_UP: Ora il tuo NosMate può raccogliere gli oggetti!
 PET_CHATMESSAGE_EAT_EVERYTHING: Il tuo NosMate è pieno!
-PET_DIALOG_ASK_SEND_BACK: Vuoi mandare il tuo NosMate alla Mini-Land?
+PET_DIALOG_ASK_SEND_BACK: Vuoi mandare il tuo NosMate nella Mini-Land?
 PET_DIALOG_ASK_SLOT_INCREASE: Vuoi espandere gli slot del NosMate?
 PET_INFO_LEAVE_BEAD: Il NosMate esce dalla perla!
-PET_INFO_RELEASED: Il tuo NosMate è stato liberato .
+PET_INFO_RELEASED: Il tuo NosMate è stato liberato.
 PET_INFO_STORED: Hai inserito il tuo NosMate nella perla.
 PET_MESSAGE_ALREADY_IN_TEAM: Il tuo NosMate è già nel team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Puoi già evocare il tuo NosMate!
@@ -504,9 +505,9 @@ PET_SHOUTMESSAGE_LEVEL_UP: Il livello di {0} è aumentato!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il NosMate è tornato alla Mini-Land.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Il NosMate tornerà tra 3 minuti.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate resuscitato grazie all'Angelo Custode per NosMate.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Probabilità di drop: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Hai ricevuto {0} come ricompensa extra!'
-PORTAL_CHATMESSAGE_BLOCKED: Questo portale è chiuso, non puoi utilizzaro
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Sistema anti-sfortuna] {0} => [{1}/{2}], Probabilità di drop: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Sistema anti-sfortuna] Hai ricevuto {0} come ricompensa extra!'
+PORTAL_CHATMESSAGE_BLOCKED: Questo portale è chiuso, non puoi utilizzarlo
 PORTAL_CHATMESSAGE_TOO_EARLY: Potrai muoverti a breve.
 PSP_AEGIR: Aegir il Furioso
 PSP_AMON: Sorvegliante Amon
@@ -550,7 +551,7 @@ QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} raccolti: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Questo Soldato Kenko è troppo forte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puoi ricevere una nuova quest da un NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cacciato {1}/{2}'
-QUEST_DIALOG_START_MAIN_QUEST: Una volta intrapresa, non puoi abbandonare la missione principale. Iniziare comunque?
+QUEST_DIALOG_START_MAIN_QUEST: Una volta intrapresa, non puoi abbandonare la missione principale. Vuoi iniziare comunque?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Vuoi teletrasportarti?
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Hai già completato questa missione principale!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Questa missione è già stata completata e non è ancora pronta.
@@ -606,18 +607,18 @@ RAID_SHOUTMESSAGE_UNREGISTERED: Il tuo raid non è più registrato.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} si è aggiunto al team'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Vuoi modificare il luogo della rinascita?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Il luogo della rinascita è stato modificato!
-REVIVE_DIALOG_ARENA: Vuoi resuscitare? ti costerà {0} oro.
+REVIVE_DIALOG_ARENA: Vuoi resuscitare? Ti costerà {0} oro.
 REVIVE_DIALOG_FREE: Vuoi resuscitare? Sarà gratuito fino al livello {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Vuoi resuscitare? Ti costerà {0} Semi della Potenza
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Per rimpiazzare la pietra devi prima utilizzare i profumi su questo oggetto.
 SHELLS_DIALOG_ADD_OPTIONS: Vuoi aggiungere un'opzione a questo oggetto? L'oggetto sarà legato esclusivamente a te.
-SHELLS_DIALOG_REPLACE_OPTIONS: L'opzione verrà sostituita. Hai 50% chance di successo, altrimenti la nuova pietra verrà distrutta. Vuoi continuare?
+SHELLS_DIALOG_REPLACE_OPTIONS: L'opzione verrà sostituita. Hai il 50% di possibilità di successo, altrimenti la nuova pietra verrà distrutta. Vuoi continuare?
 SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Questa pietra non può essere identificata.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Le opzioni di questa pietra sono già state identificate.
 SHELLS_SHOUTMESSAGE_BROKEN: La pietra è andata distrutta al fallimento.
 SHELLS_SHOUTMESSAGE_ERASED: L'opzione è stata cancellata.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Puoi utilizzare questa pietra soltanto su armature.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Puoi utilizzare questa pietra soltanto su armi.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Puoi utilizzare questa pietra soltanto sulle armature.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Puoi utilizzare questa pietra soltanto sulle armi.
 SHELLS_SHOUTMESSAGE_IDENTIFIED: Pietra identificata!
 SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Il livello della pietra deve essere uguale od inferiore a quello dell'equipaggiamento.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Prima di poter essere utilizzata la pietra deve essere identificata.
