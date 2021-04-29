@@ -680,7 +680,7 @@ TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může zah�
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% bodů sníženo za penalizaci kvůli tvé úrovni.'
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Chceš se přidat do time-space mise člena skupiny?
 TIMESPACE_DIALOG_ASK_REVIVAL: Chceš se oživit?
-TIMESPACE_DIALOG_ASK_START: Chceš vejít do první místnosti?
+TIMESPACE_DIALOG_ASK_START: Chceš vstoupit do první místnosti?
 TIMESPACE_DIALOG_ASK_START_RECORD: Chceš začít time-space v módu na rekord? Bude to stát {0} zlata.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space právě započal.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Dveře se otevřely
