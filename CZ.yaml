@@ -36,7 +36,7 @@ BANK_LOG_WITHDRAW_BANK: '{0}000 zlata vybráno.'
 BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
 BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
-BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finančních prostředky byly zaslány bance.
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finančních prostředky byly zaslány na bankovní účet.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána do NosBazaru.
 BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar je v údržbě.
@@ -73,12 +73,12 @@ CLASS_NAME_SWORDSMAN: Bojovník s mečem
 COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Změnil jsi hru do jazyka:'
 COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktuální jazyk je
 COMMANDS_CHATMESSAGE_AVAILABLE: 'Dostupné příkazy:'
-COMMANDS_CHATMESSAGE_HELP: '[Help command]'
+COMMANDS_CHATMESSAGE_HELP: '[Nápověda - příkazy]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Nedokumentováno.
-COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
+COMMANDS_CHATMESSAGE_USAGES: '[Použití příkazu]'
 COMMEND_CHATMESSAGE_COOLDOWN: Můžeš pochválit hráče jen jednou za den.
 COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl pochválen.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pohchválit, musíš počkat {0} minut.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pochválit, musíš počkat {0} minut.
 COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyšším jak 30.
 COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
