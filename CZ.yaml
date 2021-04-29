@@ -715,7 +715,7 @@ UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Vylepšení se nezdařilo, ale předmět byl 
 UPGRADE_MESSAGE_FIXED: Level zafixován.
 UPGRADE_MESSAGE_SP_DESTROYED: Duše karty specialisty byla zničena!
 UPGRADE_MESSAGE_SP_FAILED: Vylepšení SP selhalo!
-UPGRADE_MESSAGE_SP_FAILED_SAVED: Vylepšení karty specialisty selhalo, ale položka zůstala zachována.
+UPGRADE_MESSAGE_SP_FAILED_SAVED: Vylepšení karty specialisty se nezdařilo, ale předmět byl ochráněn před zničením.
 UPGRADE_MESSAGE_SP_SUCCESS: Vylepšení karty specialisty úspěšné!
 UPGRADE_MESSAGE_SUCCESS: Vylepšení úspěšné!
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Opravdu se chceš rozvést?
