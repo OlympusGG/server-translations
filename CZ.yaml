@@ -710,8 +710,8 @@ TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Nemůžeš obchodovat s provozovateli obchodů
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Se předmětem se nedá obchodovat.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Nemůžeš obchodovat obchodovat během raidu.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Nemůžeš zahájit obchod se členem raidu.
-UPGRADE_MESSAGE_FAILED: Vylepšení selhalo!
-UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Vylepšení selhalo, ale předmět byl zachován.
+UPGRADE_MESSAGE_FAILED: Vylepšení se nezdařilo!
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Vylepšení se nezdařilo, ale předmět byl zachován.
 UPGRADE_MESSAGE_FIXED: Level zafixován.
 UPGRADE_MESSAGE_SP_DESTROYED: Duše karty specialisty byla zničena!
 UPGRADE_MESSAGE_SP_FAILED: Vylepšení SP selhalo!
