@@ -93,12 +93,12 @@ DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato panenka je k úrovni tvého Mazlíčka nedost
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
 FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Vložení Fairy Stone se nezdařilo.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Vložení Fairy Stone proběhlo úspěšně!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Fairy Stones nelze vložit do vybavení pro levely hrdinů (C1+).
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Fairy Stone je je příliš velká pro tento předmět.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Do tohoto předmětu nelze vložit další Fairy Stone.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Fairy Stone lze vložit pouze do zbraní a brnění.
+FAIRYSTONES_MESSAGE_INSERT_FAILED: Vložení Vílího kamene se nezdařilo.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Vložení Vílího kamene proběhlo úspěšně!
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Vílí kámen nelze vložit do vybavení pro levely hrdinů (C1+).
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Vílího kamene je příliš velká pro tento předmět.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Do tohoto předmětu nelze vložit další Vílí kamene.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Vílí kámen lze vložit pouze do zbraní a brnění.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil do hry!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Rodinný upgrade zakoupen!
