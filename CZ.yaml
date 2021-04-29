@@ -349,7 +349,7 @@ ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na teb
 ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji frakci?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit frakci své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
-ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tuhle bednu?
+ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
 ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého Mazlíčka do perly?
 ITEM_DIALOG_ASK_USE: Chceš použít tento předmět?
@@ -631,7 +631,7 @@ SHOP_CHATMESSAGE_EMPTY: Obchod nesmí být prázdný!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: V obchodě můžeš prodávat pouze směnitelné věci.
 SHOP_DEFAULT_NAME: Obchod
 SHOP_INFO_ALREADY_OPEN: Už máš otevřený obchod!
-SHOP_INFO_NEAR_PORTAL: Nemůžeš vytvořit obchod tak blízo k portálu!
+SHOP_INFO_NEAR_PORTAL: Nemůžeš vytvořit obchod tak blízko k portálu!
 SHOP_INFO_NOT_ALLOWED: Nemůžeš otevřít obchod na obecných mapách.
 SHOP_INFO_NOT_ALLOWED_IN_RAID: Nemůžeš otevřít obchod během raidu!
 SHOP_INFO_OPEN: Obchod byl otevřen!
@@ -641,7 +641,7 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: Této dovednosti jsi již naučen.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nemůžeš se naučit dovednosti, když jsi transformován.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musíš se nejdříve naučit základní dovednosti.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Nemůžeš požadovat navrácení za tuto dovednost!
-SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo narušeno!
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Musíš počkat než skončí cooldown u dovednosti, než se začneš učit nové.
