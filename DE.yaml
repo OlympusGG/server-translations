@@ -6,12 +6,12 @@ ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Hüter der {0} getötet.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du benötigst eine Familie, um dem Verlies beitreten zu können!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Dem Verlies beizutreten wird dich {0} Rufpunkte kosten. Willst du beitreten?
-ACT4_DUNGEON_REVIVAL_DIALOG: Eine Wiederbelebung hier wird dich {0} Rufpunkte kosten. Wenn du abbrichst, wirst du an den Beginn des Verlies' teleportiert. Willst du hier wiederbelebt werden?
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Eine Familie wird benötigt um den Akt4 Raid zu betreten!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Den Akt4 Raid zu betreten wird dich {0} Rufpunkte kosten. Möchtest du eintreten?
+ACT4_DUNGEON_REVIVAL_DIALOG: Dich hier wiederzubeleben kostet {0} Rufpunkte. Wenn du abbrichst wirst du an den Eingang' teleportiert. Möchtest du hier wiederbelebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss wurde besiegt!
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Der Bossraum ist nun geöffnet.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Der Bossraum ist nun offen.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Verliesportal ist nun nahe des zentralen Grenzturms in der Bitoren Tundra geöffnet!
 ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Lager der Engel
