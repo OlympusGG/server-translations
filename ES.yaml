@@ -96,7 +96,7 @@ DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este obj
 FAIRYSTONES_DIALOG_INSERT: ¿Quieres insertar {0} a tu {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedras de Hada falló.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: ¡La inserción de Piedras de Hada tuvo éxito!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes instertar Piedras de Hada en el equipamiento de nivel heroico.
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes insertar Piedras de Hada en el equipamiento de nivel heroico.
 FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de esta Piedra de Hada es demasiado alto para este objeto.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en este objeto.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada en armas y armaduras.
@@ -112,7 +112,7 @@ FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes expulsar a ti mismo de la famil
 FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
 FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas abandonar la familia?
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
-FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes tu mismo nivel de autoridad a otro miembro.
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes dar tu mismo nivel de autoridad a otro miembro.
 FAMILY_INFO_CREATION_BANNED_NAME: Tu familia contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Debes estar en un grupo para crear una familia.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Alguien de tu grupo ya está en una familia o recientemente abandonó una familia.
@@ -150,7 +150,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: ¡El cabecilla ha cambiado su género!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: ¡La familia ha alcanzado el nivel {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-+FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} de oro.
+FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} de oro.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: ¿Quieres añadir a {0} a tu lista de amigos?
@@ -247,7 +247,7 @@ IC_90_150_45_70H_W5_TITLE: Oleada 5 - Zona de descanso.
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_NAME: Icebreaker
-+ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
+ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: ¡Prepárate para luchar!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} está congelado.'
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} ha sido descongelado.'
@@ -547,7 +547,7 @@ PSP_SHINOBI: Shinobi la Silenciosa
 PSP_VENUS: Pequeña Princesa Venus
 PSP_YUNA: Estudiante Mágica Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} Recolectados: [{1}/{2}]'
-QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: ¡Éste soldado Kenko es muy fuerte!
+QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: ¡Este soldado Kenko es muy fuerte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una nueva misión de un NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar una misión principal una vez comenzada. ¿Deseas aceptarla de todos modos?
@@ -600,7 +600,7 @@ RAID_SHOUTMESSAGE_NEW_LEADER: '{0} es el nuevo líder del raid.'
 RAID_SHOUTMESSAGE_PLAYER_DEATH: El integrante {0} ha muerto.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: El equipo está lleno.
 RAID_SHOUTMESSAGE_REGISTERED: Tu equipo de raid ha sido registrado.
-RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Todas las metas han sido completadas.
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Todas los objetivos han sido completados.
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Objetivos Actualizados.
 RAID_SHOUTMESSAGE_UNREGISTERED: Tu equipo de Raid ya no está registrado.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} se ha unido al equipo.'
@@ -698,7 +698,7 @@ TITLE_INFO_EFFECT_ENABLED: El efecto del título ha ido activado.
 TITLE_INFO_UNLOCKED: ¡El título ha sido desbloqueado!
 TITLE_INFO_VISIBLE_DISABLED: ¡Vista de títulos desactivada!
 TITLE_INFO_VISIBLE_ENABLED: ¡Vista de títulos activada!
-TRADE_CHATMESSAGE_BLOCKED: ¡Este usuario tiene bloqueadas la opción de comercio!
+TRADE_CHATMESSAGE_BLOCKED: ¡Este usuario tiene bloqueada la opción de comercio!
 TRADE_CHATMESSAGE_REFUSED: '{0} rechazó tu solicitud de comercio.'
 TRADE_CHATMESSAGE_YOU_REFUSED: Solicitud de comercio rechazada.
 TRADE_DIALOG_ASK_FOR_TRADE: Has solicitado comerciar con {0}.
