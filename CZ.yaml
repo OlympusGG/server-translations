@@ -329,7 +329,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Dostali jste požehnání o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Dostali jste požehnání ochrannou mocí démonů!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Ztratil jsi svou ochrannou sílu.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby bylo možné změnit křídla Specialisty, musí být karta alespoň na levelu 1.
-INTERACTION_SPEAKER_UNDER_COOLDOWN: Nemůžeš použít hlasatel, prodleva je 30 sekund.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Nemůžeš použít reproduktor, prodleva je 30 sekund.
 INTERACTION_VESSEL_LIMIT_REACHED: Bylo dosaženo limitu příšer z plavidel
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Obdrženo: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Obdrženo {0}x {1}
