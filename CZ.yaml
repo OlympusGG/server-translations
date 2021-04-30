@@ -13,7 +13,7 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Místnost s bossem byla uzavřena.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss byl poražen!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Místnost s bossem je nyní otevřena.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při centrální věži na mapě Bitoren Tundra!
-ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou frakci a mají ochrannou moc.
+ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou stranu a mají ochrannou moc.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor andělů
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor démonů
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
@@ -141,8 +141,8 @@ FAMILY_RANK_DEPUTY: Zástupce
 FAMILY_RANK_HEAD: Hlava
 FAMILY_RANK_KEEPER: Správce
 FAMILY_RANK_MEMBER: Člen
-FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodina už je této frakce!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Změna rodinné frakce je momentálně v cooldownu.
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodina už je této strany!
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Změna rodinné strany je momentálně v cooldownu.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Chceš se znovu připojit k rodině? Musíš nejdříve počkat 24 hodin.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Hlava rodiny změněna.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodina '{0}' byla založena!
@@ -162,7 +162,7 @@ FRIEND_INFO_REFUSED: Žádost o přátelství odmítnuta!
 FRIEND_INFO_REQUEST_BLOCKED: Tento hráč blokuje žádosti o přátelství.
 FRIEND_MESSAGE_NOT_FRIEND: Nejste přátelé!
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není ve tvém seznamu přátel.
-FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je v nepřátelské frakci.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je v nepřátelské straně.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Není možné sázet předměty se zafixovaným levelem.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto není možné sázet s nehrdinskými předměty.
 GAMBLING_INFO_AMULET_DESTROYED: 'UPOZORNĚNÍ: Ochranné kouzlo vypršelo.'
@@ -346,8 +346,8 @@ ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývajíc
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
 ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět již nemá zafixovaný level!
 ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na tebe a bude s ním nemožné obchodovat.
-ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji frakci?
-ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit frakci své rodiny?
+ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji stranu?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit stranu své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
@@ -362,12 +362,12 @@ ITEM_MESSAGE_ERASER_NO_SHELL: Nemůžeš odstranit vlastnosti mušle, protože t
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nemůžeš vylepšovat kartu Specialisty s mrtvou duší!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžeš nosit zničenou kartu Specialisty.
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Vytvořil jsi {1}x {0}.
-ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsi v rodině, nemůžeš použít vejce pro jednotlivce k zvolení frakce.
+ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsi v rodině, nemůžeš použít vejce pro jednotlivce k zvolení strany
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Element víly je liší od elemntu SP!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
-ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou frakci!
+ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně deaktivován.
