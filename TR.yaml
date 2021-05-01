@@ -84,12 +84,12 @@ COMMEND_CHATMESSAGE_RECEIVED: '{0} tarafından övüldün.'
 DIGNITY_CHATMESSAGE_LOSS: 'Şerefin düştü: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Şerefin yükseldi: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Saldırı seviyesinin gelişimi başarısız.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: NosMate'inin saldırı seviyesi yükseldi. +{0} -> +{1}
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Evcil hayvanının saldırı seviyesi yükseldi. +{0} -> +{1}
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: Savunma seviyesinin gelişimi başarısız.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: NosMate'inin savunma seviyesi yükseldi. +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Evcil hayvanının savunma seviyesi yükseldi. +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Daha fazla kukla çağıramazsın.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Bu kukla NosMate'inin seviyesine uygun değil.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Bu kukla evcil hayvanının seviyesine uygun değil.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
 DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
 FAIRYSTONES_DIALOG_INSERT: "{0}'ı {1}'e işlemek istiyor musun?"
