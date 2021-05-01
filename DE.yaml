@@ -35,7 +35,7 @@ BANK_LOG_OPEN_BANK: Willkommen in der Bank! Wie kann ich dir behilflich sein?
 BANK_LOG_WITHDRAW_BANK: '{0}000 Gold abgehoben.'
 BANK_MESSAGE_BALANCE: Du hast {0} Gold in deiner Bank.
 BANK_MESSAGE_DEPOSIT: '{0}000 Gold in deine Bank eingezahlt.'
-BANK_MESSAGE_MAX_GOLD_REACHED: Goldlimit der Bank erreicht!
+BANK_MESSAGE_MAX_GOLD_REACHED: Goldgrenze der Bank erreicht!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Überschüssiges Gold an die Bank gesendet.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
 BAZAAR_INFO_ITEM_CHANGED: Kauf nicht möglich, Gegenstand verkauft oder Preis geändert.
@@ -256,10 +256,10 @@ ICEBREAKER_SHOUTMESSAGE_WIN: Du hast den Icebreaker gewonnen!
 INFORMATION_CHANNEL: Channel
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Du kannst das momentan nicht benutzen!
 INFORMATION_CHATMESSAGE_NO_WINGS: Du besitzt keine 'Flügel der Freundschaft'!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Dein Mana ist nicht ausreichend!
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Dein Ruf ist nicht ausreichen!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nicht ausreichend Mana!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht ausreichend Ruf!
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört nicht dir!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht!
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosHändler Medaille ist aktiv.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerspezialist Verwandlung Abklingzeit: {0} Sek.'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: -{0}!'
@@ -306,7 +306,7 @@ INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Der Gegenstand wurde im Rucksack dei
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Du kannst dein NosMate nicht freilassen, solange es dir folgt.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: Wenn du eine Fahigkeit erlernen möchtest, musst du deine Spezialistenkarte ausziehen.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Entferne dein Fortbewegungmittel vor der Verwandlung.
-INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Dein Geschlecht wurde gewechselt!
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Die Geschlechtsoperation war erfolgreich!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Der Server wird in {0} Sekunden herunterfahren.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Der Spezialisten muss mindestens Stufe {0} sein um verbessert zu werden!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punkte verteilt.
@@ -317,7 +317,7 @@ INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Der Instant Combat wird in {0} Mi
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monster nähern sich...
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Der Instant Combat wird in {0} Sekunden enden.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Herzlichen Glückwunsch! Du hast den Instant Combat gewonnen!
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Leider konntest du die Monsterwelle nicht bezwingen und erhälst somit keine Belohnungen.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Leider konntest du die Monsterwelle nicht bezwingen. Daher erhältst du keine Belohnungen.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: Die nächste Monsterwelle wird in {0} Minuten auftauchen.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Die nächste Monsterwelle wird in {0} Sekunden auftauchen.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Selbstvorstellung gespeichert.
@@ -393,7 +393,7 @@ MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Produktionspunkte der Minispiele wurd
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Minispiel Beitrag: {0}'
-MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Stufe {0} sein und {1} Ruf besitzen um dieses Minispiel spielen zu können.
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Level {0} sein und {1} Ruf besitzen, um dieses Minispiel spielen zu können.
 MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: '{0}x {1} zur Miniland-Kiste hinzugefügt.'
 MINILAND_DIALOG_ASK_INVITE: Willst du das Mini-Land von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du wirst keine Belohnung erhalten, da deine Produktionspunkte nicht ausreichen. Möchtest du trotzdem fortfahren?
