@@ -1,12 +1,12 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
-ACT4_CHANNEL_OFFLINE: Der Akt4 Channel ist offline.
+ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Hüter der {0} getötet.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Es wird eine Familie benötigt, um den Akt4 Raid zu betreten!
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Es wird eine Familie benötigt, um das Verlies zu betreten!
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Verlies zu betreten wird dich {0} Rufpunkte kosten. Möchtest du eintreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Dich hier wiederzubeleben kostet {0} Rufpunkte. Wenn du abbrichst wirst du an den Verlieseingang' teleportiert. Möchtest du hier wiederbelebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
@@ -143,7 +143,7 @@ FAMILY_RANK_KEEPER: Verwalter
 FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Deine Familie gehört bereits dieser Fraktion an!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion steht für deine Familie unter Abklingzeit.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten bevor du einer neuen Familie beitreten kannst.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, bevor du einer neuen Familie beitreten kannst.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Ein neues Familienoberhaupt wurde ernannt.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht gewechselt!
@@ -385,7 +385,8 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten beginnen i
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten beginnen in {0} Sekunden.
 MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: noswings.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Du hast einen Fehler gefunden? Melde es hier: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_2: 'Du hast einen Fehler gefunden? Melde ihn hier: noswings.com/bug-report'
+
 MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: noswings.com/game-rules'
 MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs- oder Spielproblem? Dann besuche unseren Discord-Support Server'
