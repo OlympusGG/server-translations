@@ -306,7 +306,7 @@ INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Der Gegenstand wurde im Rucksack dei
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Du kannst dein NosMate nicht freilassen, solange es dir folgt.
 INFORMATION_SHOUTMESSAGE_REMOVE_SP: Wenn du eine Fahigkeit erlernen möchtest, musst du deine Spezialistenkarte ausziehen.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Entferne dein Fortbewegungmittel vor der Verwandlung.
-INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Die Geschlechtsoperation war erfolgreich!
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Dein Geschlecht wurde gewechselt!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Der Server wird in {0} Sekunden herunterfahren.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Der Spezialisten muss mindestens Stufe {0} sein um verbessert zu werden!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punkte verteilt.
