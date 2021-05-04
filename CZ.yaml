@@ -83,13 +83,13 @@ COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyš
 COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Vylepšení úrovně útoku tvého Mazlíčka se nezdařil.
+DOLL_MESSAGE_MATE_ATTACK_FAIL: Vylepšení úrovně útoku tvého Mazlíčka se nezdařilo.
 DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Úroveň útoku tvého Mazlíčka se zvýšila! +{0} -> +{1}
 DOLL_MESSAGE_MATE_DEFENSE_FAIL: Vylepšení úrovně obrany tvého Mazlíčka selhala.
 DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Úroveň obrany tvého Mazlíčka se zvýšila! +{0} -> +{1}
-DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete přivolat další panenky.
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato panenka je k úrovni tvého Mazlíčka nedostatečná!
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato loutka je k úrovni tvého Mazlíčka nedostatečná!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
 FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
