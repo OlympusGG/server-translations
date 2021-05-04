@@ -22,7 +22,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrador
 AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
-AMMO_LOADED_SWORDSMAN: ¡Virotes recargados!
+AMMO_LOADED_SWORDSMAN: ¡Pernos recargados!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Modo PvP activo.
 ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} de oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
@@ -295,7 +295,7 @@ INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: ¡Tienes que salir del grupo para hac
 INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Solo siendo un aventurero puedes cambiar de clase.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: No tienes munición de tirachinas. Puedes comprarla en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: No te quedan flechas. Puedes comprarlas en una tienda de equipamiento.
-INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: No te quedan virotes. Puedes comprarlos en una tienda de equipamiento.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: No te quedan pernos. Puedes comprarlos en una tienda de equipamiento.
 INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: ¡No tienes equipada una Tarjeta de Especialista!
 INFORMATION_SHOUTMESSAGE_NO_WEAPON: ¡No tienes un arma equipada!
 INFORMATION_SHOUTMESSAGE_NO_WIG: No llevas peluca.
