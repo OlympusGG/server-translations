@@ -1,0 +1,726 @@
+ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
+ACT4_CHATMESSAGE_PVP_ANGELS: anges
+ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a été vaincu par {1}.
+ACT4_CHATMESSAGE_PVP_DEMONS: démons
+ACT4_CHATMESSAGE_PVP_KILL: '{1} a vaincu un gardien des {0}.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Tu as besoin d'une famille pour entrer dans le donjon !
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrer dans le donjon te coûtera {0} points de réputation. Continuer ?
+ACT4_DUNGEON_REVIVAL_DIALOG: Revivre ici te coûtera {0} points de réputation. Si tu annules, tu seras téléporté à l'entrée du donjon. Continuer ?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La salle du boss a été scellée.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Le boss du donjon a été vaincu !
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La salle du boss est ouverte.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte au centre de la Toundra Bitoren !
+ACT4_NEED_FACTION: Seuls ceux qui ont un pouvoir de protection peuvent rejoindre la Couronne de glace.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Camp des anges
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Camp des démons
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Le {0} a vaincu le Seigneur Mukraju !
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Le {0} n'a pas réussi à vaincre le Seigneur Mukraju à temps.
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: Le {0} a invoqué le Seigneur Mukraju !
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
+AMMO_LOADED_ADVENTURER: Munitions chargées !
+AMMO_LOADED_ARCHER: Flèches chargées !
+AMMO_LOADED_SWORDSMAN: Carreaux chargés !
+ARENA_CHATMESSAGE_PVP_ACTIVE: Le combat entre joueurs est activé!
+ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or.
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
+BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
+BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
+BANK_INFO_NOT_ENOUGH_FUNDS: Pas assez d'or.
+BANK_INFO_TOO_MUCH_GOLD: Tu as trop d'or !
+BANK_LOG_OPEN_BANK: Bienvenue à la banque ! Comment puis-je t'aider ?
+BANK_LOG_WITHDRAW_BANK: "{0}000 pièces d'or retirées."
+BANK_MESSAGE_BALANCE: Tu as {0} pièces d'or sur ton compte.
+BANK_MESSAGE_DEPOSIT: Tu as déposé {0}000 pièces d'or sur ton compte.
+BANK_MESSAGE_MAX_GOLD_REACHED: La quantité maximale de pièces d'or est atteinte sur ton compte.
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: L'or en surplus a été envoyé sur ton compte.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - ajouté(s) au NosBazar.'
+BAZAAR_INFO_ITEM_CHANGED: Achat annulé. L'objet a été vendu ou le prix a changé.
+BAZAAR_INFO_MAINTENANCE_MODE: Le NosBazar est en maintenance.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: La quantité maximale d'objets a été atteinte.
+BAZAAR_INFO_NEEDS_MEDAL: Tu n'as pas de médaille NosMarchand.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Le prix de l'objet dépasse la limite.
+BAZAAR_INFO_RESYNC: Changement échoué. Essaye encore.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Changer le prix de l'objet coûtera {0} pièces d'or. Continuer ?
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Objet ajouté au NosBazar.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prix de l'objet changé avec succès.
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attention, tu peux être attaqué par les monstres en utilisant le NosBazar !
+BLACKLIST_INFO_ADDED: '{0} ajouté à la liste noire.'
+BLACKLIST_INFO_BLOCKED: Ce joueur t'a bloqué.
+BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
+BLACKLIST_INFO_DELETED: Joueur supprimé de ta liste noire.
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Tu as été protégé par une immunité.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: L'effet {0} s'est dissipé.
+BUFF_CHATMESSAGE_SIDE_EFFECTS: '{0} a déclenché des effets secondaires.'
+BUFF_CHATMESSAGE_UNDER_EFFECT: Tu es sous l'effet de {0}
+CELLON_SHOUTMESSAGE_FAIL: L'ajout d'option a échoué. Le cellon a disparu.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau du cellon est trop élévé pour cet accessoire.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Les emplacements de l'accessoire sont pleins.
+CELLON_SHOUTMESSAGE_SUCCESS: Option ajoutée.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ce nom est déjà utilisé.
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Le nom de ton personnage contient le mot "{0}", qui est banni. Si tu penses que c'est une erreur, tu peux ouvrir un ticket sur le Supprot de notre Serveur Discord.
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: Caractère(s) invalide(s) dans ton nom.
+CHARACTER_DELETION_INFO_FAILED: Ton personnage n'a pas pu être effacé. Merci de réessayer plus tard.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Ton personnage n'a pas pu être effacé. Merci de réessayer plus tard.
+CLASS_NAME_ADVENTURER: Aventurier
+CLASS_NAME_ARCHER: Archer
+CLASS_NAME_MAGE: Mage
+CLASS_NAME_MARTIAL_ARTIST: Artiste Martial
+CLASS_NAME_SWORDSMAN: Escrimeur
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'La langue a été changée en :'
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: La langue actuelle est
+COMMANDS_CHATMESSAGE_AVAILABLE: 'Commande invalide :'
+COMMANDS_CHATMESSAGE_HELP: "[Commande d'aide]"
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Inconnu.
+COMMANDS_CHATMESSAGE_USAGES: '[Utilisation de la commande]'
+COMMEND_CHATMESSAGE_COOLDOWN: Tu ne peux admirer qu'une personne par jour.
+COMMEND_CHATMESSAGE_GIVEN: Tu as admiré {0}.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: "{0} minutes restantes avant de pouvoir admirer quelqu'un."
+COMMEND_CHATMESSAGE_NOT_MINLVL: Tu ne peux admirer quelqu'un qu'à partir du niveau 30.
+COMMEND_CHATMESSAGE_RECEIVED: "{0} t'a admiré."
+DIGNITY_CHATMESSAGE_LOSS: Tu as perdu -{0} de dignité.
+DIGNITY_CHATMESSAGE_RESTORE: Tu as récupéré +{0} de dignité.
+DOLL_MESSAGE_MATE_ATTACK_FAIL: L'amélioration d'attaque de ton NosMate a échoué.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Le niveau d'attaque de ton NosMate a augmenté ! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: L'amélioration de défense de ton NosMate a échoué.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Le niveau de défense de ton NosMate a augmenté ! +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Tu ne peux pas invoquer davantage de mannequins.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Tu n'es pas dans la zone désignée.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Ce mannequin ne correspond pas au niveau de ton NosMate.
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantitée de butins incorrecte.
+DROP_SHOUTMESSAGE_FULL: Il y a trop d'objets au sol pour pouvoir jeter ton objet.
+FAIRYSTONES_DIALOG_INSERT: Veux-tu insérer {0} dans {1} ?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: L'insertion de la pierre de fée a échoué.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'insertion de la pierre de fée a réussi !
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée dans un équipement héroïque.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de cette pierre de fée est trop élévé pour cet objet.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Tu ne peux pas insérer davantage de pierres de fée dans cet objet.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Seuls les armes et les armures peuvent recevoir une pierre de fée.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Succès de famille débloqué: {0}'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté(e)"
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Amélioration de famille achetée!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Ce membre a déjà ce rôle.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: Souhaites-tu vraiment dissoudre ta famille ? Ce sera définitif.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Veux-tu vraiment rejoindre cette famille ?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Tu as été invité dans la famille {0} par {1}. Souhaites-tu la rejoindre ?
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Tu ne peux pas changer ton propre rôle.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Tu ne peux pas t'expulser toi-même de la famille.
+FAMILY_DIALOG_CHANGE_HEAD: Es-tu sûr de vouloir changer la tête de famille ?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: La tête de famille ne peut pas quitter sa famille sans la dissoudre.
+FAMILY_INFO_ALREADY_IN_FAMILY: Tu es déjà dans une famille.
+FAMILY_INFO_ASK_FAMILY_LEAVE: Es-tu sûr de vouloir quitter la famille ?
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Tu ne peux pas attribuer ton propre rôle.
+FAMILY_INFO_CREATION_BANNED_NAME: Le nom de ta famille contient le mot "{0}", qui est banni. Si tu penses que c'est une erreur, tu peux ouvrir un ticket sur le Supprot de notre Serveur Discord.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Tu dois être dans une groupe pour créer une famille.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Un joueur dans ton groupe est déjà dans une famille ou en a quitté une récemment.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Nombre maximal d'assistants atteint.
+FAMILY_INFO_FULL: La famille est pleine.
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Un joueur dans le groupe est déjà dans une famille.
+FAMILY_INFO_GROUP_NOT_FULL: Tu ne peux pas créer une famille sans un groupe complet.
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Tu n'as pas la permission d'inviter des joueurs.
+FAMILY_INFO_INVITATION_REFUSED: Le joueur a refusé l'invitation de famille.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Nombre maximal de gardiens atteint.
+FAMILY_INFO_LEAVE: Tu as quitté la famille.
+FAMILY_INFO_NAME_ALREADY_USED: Ce nom de famille est déjà utilisé.
+FAMILY_INFO_NO_FAMILY: Tu n'as pas de famille.
+FAMILY_INFO_NO_FAMILY_RIGHT: Tu n'as pas les permissions suffisantes.
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: Aucun entrepôt de famille.
+FAMILY_INFO_NOT_FAMILY_HEAD: Tu n'es pas la tête de famille.
+FAMILY_INFO_NOT_IN_FAMILY: Tu n'es pas dans une famille.
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Les services de famille sont actuellement sous maintenance.
+FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ce joueur doit être assistant.
+FAMILY_INFO_USED_DAILY_MESSAGE: La phrase du jour a déjà été rédigée aujourd'hui.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Tu ne peux pas ajouter cet objet dans l'entrepôt de famille!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Tu n'as pas assez de permissions pour faire ça.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur innatendue s'est produite. Merci de réessayer plus tard.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Tu as besoin des amélioratiions précédentes pour acheter celle-ci.
+FAMILY_RANK_DEPUTY: Assistant
+FAMILY_RANK_HEAD: Tête
+FAMILY_RANK_KEEPER: Gardien
+FAMILY_RANK_MEMBER: Membre
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Le changement de faction de la famille est en rechargement.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiéeh pour rejoindre une famille.
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
+FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
+FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0} !
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} a rejoint la famille !'
+FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILYARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène de famille? Ça te coûtera{0} pièces d'or.
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} est hors ligne.'
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Veux-tu devenir ami avec {0} ?
+FRIEND_INFO_ADDED: Demande d'ami acceptée.
+FRIEND_INFO_ALREADY_FRIEND: '{0} est déjà ton ami.'
+FRIEND_INFO_DELETED: Ami supprimé.
+FRIEND_INFO_FRIENDLIST_FULL: Ta liste d'ami est pleine.
+FRIEND_INFO_REFUSED: Demande d'ami refusée.
+FRIEND_INFO_REQUEST_BLOCKED: Ce joueur bloque les demandes d'ami.
+FRIEND_MESSAGE_NOT_FRIEND: Vous n'êtes pas amis !
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Ce joueur n'est pas dans ta liste d'ami.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Ton ami est dans la faction adverse.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Tu te peux pas parier les objets fixes.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Tu ne peux pas parier les objets non-héroïques avec ça.
+GAMBLING_INFO_AMULET_DESTROYED: 'ATTENTION: Le parchemin de protection a expiré.'
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: Tu possèdes déjà la plus haute rareté !
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Grâce à l'amulette, l'objet n'a pas été détruit.
+GAMBLING_MESSAGE_FAILED: Pari échoué ! L'objet a été détruit.
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Pari échoué, mais l'objet a été sauvé de la destruction.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: Tu ne peux pas parier un objet héroïque.
+GAMBLING_MESSAGE_SUCCESS: 'Pari réussi ! Niveau de rareté : {0}'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: 'Es-tu sûr de vouloir participer à : {0} ?'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: "Es-tu sûr de vouloir payer {1} pièces d'or pour participer à : {0} ? "
+GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Tu ne peux pas rejoindre l'évènement si tu n'es pas sur une carte générale.
+GAMEEVENT_MESSAGE_START: 'Un évenement a débuté: {0}.'
+GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Pas assez de joueurs pour l'évenement.
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: 'Dans {1} minutes commencera : {0}.'
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: 'Dans {0} secondes commencera : {0}.'
+GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} finira dans une minute.'
+GROUP_CHATMESSAGE_DROP_ORDERED: '(Groupe) [{0}x {1}] pour : {2}'
+GROUP_CHATMESSAGE_DROP_SHARED: (Groupe) [{0}x {1}] pour tout le monde
+GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} a refusé ton invitation de groupe.'
+GROUP_DIALOG_ASK_SHARE_POINT: Veux-tu partager le point de retour de {0}?
+GROUP_DIALOG_INVITED_YOU: "{0} t'as invité en groupe."
+GROUP_INFO_ADMIN: Tu es le chef du groupe !
+GROUP_INFO_ALREADY_IN_GROUP: Tu es déjà dans un groupe !
+GROUP_INFO_BLOCKED: Ce joueur bloque les invitations de groupe.
+GROUP_INFO_FULL: Le groupe est complet.
+GROUP_INFO_JOIN: Tu as rejoint le groupe de {0} !
+GROUP_INFO_LEFT: Tu as quitté le groupe.
+GROUP_INFO_NEW_LEADER: Tu es le nouveau chef du groupe !
+GROUP_INFO_REQUEST: Tu as invité {0} dans ton groupe.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Tu as demandé aux membres du groupe de partager ton point de retour.
+GROUP_SHOUTMESSAGE_CLOSED: Groupe dissous.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} a changé le point de retour.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} a refusé de partagé le point de retour avec les membres du groupe.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Tu as partagé le point de retour avec les membres du groupe.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Tu as refusé de partagé le point de retour avec les membres du groupe.
+GROUP_SHOUTMESSAGE_SHARING: 'Distribution des butins : tout le monde'
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Distribution des butins : Dans l'ordre"
+GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Tu n'es pas le chef du groupe !
+HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: La tentative a échoué! Réessaye après {0} secondes.
+HARVEST_SHOUTMESSAGE_TRY_FAIL: Malheureusement, la tentative a échoué.
+IC_1_49_W1_TITLE: Wave 1 -  Vague de monstres faibles
+IC_1_49_W2_TITLE: Wave 2 -  Vague de monstres verts
+IC_1_49_W3_TITLE: Wave 3 -  Vague de monstres rouges
+IC_1_49_W4_TITLE: Wave 4 -  Vague de monstres jaunes
+IC_1_49_W5_TITLE: Wave 5 -  Vague de monstres volants
+IC_50_59_W1_TITLE: Wave 1 - Vague de démons faibles
+IC_50_59_W2_TITLE: Wave 2 - Cours!
+IC_50_59_W3_TITLE: Wave 3 - Vague de démons plus forts
+IC_50_59_W4_TITLE: Wave 4 - Vague du Mont Krem
+IC_50_59_W5_TITLE: Wave 5 - Vague d'araignées
+IC_60_69_W1_TITLE: Wave 1 - Vague de spectres
+IC_60_69_W2_TITLE: Wave 2 - Vague de Catsy
+IC_60_69_W3_TITLE: Wave 3 - Vague du Donjon de Sharena
+IC_60_69_W4_TITLE: Wave 4 - Vague de boules de cuivre
+IC_60_69_W5_TITLE: Wave 5 - Vague des Chevaliers Infernaux
+IC_70_79_W1_TITLE: Wave 1 - Vague de la Sapinière
+IC_70_79_W2_TITLE: Wave 2 - Vague des Bois d'Erables
+IC_70_79_W3_TITLE: Wave 3 - Vague du Tunnel Enfoui
+IC_70_79_W4_TITLE: Wave 4 - Vague de Seli-Lusha
+IC_70_79_W5_TITLE: Wave 5 - Vague des Chevaliers Célestes
+IC_80_89_W1_TITLE: Wave 1 - Vague de Slades!
+IC_80_89_W2_TITLE: Wave 2 - Vague de Zombies!
+IC_80_89_W3_TITLE: Wave 3 - Vague des Déserteurs
+IC_80_89_W4_TITLE: Wave 4 - Vague des monstres de sable
+IC_80_89_W5_TITLE: Wave 5 - Vague de la garde de Shay
+IC_90_150_0_24H_W1_TITLE: Wave 1 - Vague du Temple de l'Agonie
+IC_90_150_0_24H_W2_TITLE: Wave 2 - Vague des monstres volcaniques
+IC_90_150_0_24H_W3_TITLE: Wave 3 - Vague des Épées enflammées
+IC_90_150_0_24H_W4_TITLE: Wave 4 - Vague des Portes Infernales
+IC_90_150_0_24H_W5_TITLE: Wave 5 - Vague des Portes Célestes
+IC_90_150_25_44H_W1_TITLE: Wave 1 - Vague des Ruines Infernales
+IC_90_150_25_44H_W2_TITLE: Wave 2 - Vague des Ruines Célestes
+IC_90_150_25_44H_W3_TITLE: Wave 3 - Vague des Zealots de l'avant-poste
+IC_90_150_25_44H_W4_TITLE: Wave 4 - Vague des Croisés de l'avant-poste
+IC_90_150_25_44H_W5_TITLE: Wave 5 - Vague de monstres de la Volonté d'Ancelloan
+IC_90_150_45_70H_W1_TITLE: Wave 1 - Vague des Spectres Inconnus!
+IC_90_150_45_70H_W2_TITLE: Wave 2 - Vague des démons
+IC_90_150_45_70H_W3_TITLE: Wave 3 - Vague des créatures humides
+IC_90_150_45_70H_W4_TITLE: Wave 4 - Vague d'Orcs
+IC_90_150_45_70H_W5_TITLE: Wave 5 - Un lieu de détente...
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Tu ne peux pas dégeler le joueur que tu as vaincu.
+ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Tu es trop loin pour dégeler !
+ICEBREAKER_NAME: Icebreaker
+ICEBREAKER_SHOUTMESSAGE_END: L'Icebreaker est terminé.
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Prépare-toi au combat !
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} est gelé.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} est dégelé.'
+ICEBREAKER_SHOUTMESSAGE_STARTED: L'Icebreaker a débuté.
+ICEBREAKER_SHOUTMESSAGE_WIN: Tu as gagné l'Icebreaker !
+INFORMATION_CHANNEL: Canal
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Vous ne pouvez pas utiliser ça maintenant !
+INFORMATION_CHATMESSAGE_NO_WINGS: Tu n'as pas d'ailes d'amitié !
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Pas assez de mana.
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Pas assez de réputation !
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Ton niveau est trop faible !
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Cet objet n'est pas à toi !
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: La médaille NosMarchand est active.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste du partenaire : {0} secondes."
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: -{0} points de réputation perdus !
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: +{0} points de réputation gagnés !
+INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: '{1}x {0} utilisé(s)'
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Le parchemin de protection a été utilisé !
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste : {0} secondes."
+INFORMATION_CHATMESSAGE_USER_NOT_HERO: Tu ne remplis pas les conditions pour pouvoir utiliser l'objet.
+INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Le joueur a bloqué les messages privés.
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Message envoyé à {0} sur le canal {1}.
+INFORMATION_CHATMESSAGE_WIN_SP_POINT: Tes points SP ont été augmentés de +{0} points.
+INFORMATION_HERO_LEVELUP: Tu as atteint un nouveau niveau héroïque !
+INFORMATION_INFO_PLAYER_IN_BATTLE: '{0} est en combat.'
+INFORMATION_INFO_PLAYER_OFFLINE: Ce joueur n'est pas connecté.
+INFORMATION_MESSAGE_LOW_JOB: Ton niveau de métier est trop faible !
+INFORMATION_MESSAGE_MAX_GOLD: Tu ne peux pas porter plus d'or !
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Je n'ai plus faim !
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Je n'ai plus faim !
+INFORMATION_MESSAGE_USER_NOT_CONNECTED: Ce joueur n'est pas connecté.
+INFORMATION_MESSAGE_USER_NOT_FOUND: Joueur introuvable !
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tu as changé de classe.
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tu as encore de l'équipement sur toi !
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} a progressé !'
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} a atteint le niveau maximal !'
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Tu as gagné un niveau de métier !
+INFORMATION_SHOUTMESSAGE_LEVELUP: Ton niveau a augmenté !
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Nombre maximal de partenaires atteint !
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Nombre maximal d'emplacements de partenaire atteint.
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Nombre maximal de familiers atteint !
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Nombre maximal d'emplacements de familiers atteint.
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Tu dois être sur une carte générale.
+INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: Quitte ton groupe avant de continuer.
+INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Seuls les aventuriers peuvent changer de classe.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Tu n'as pas assez de munitions de catapulte. Achètes-en dans un magasin d'équipement.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Tu n'as pas assez de flèches. Achètes-en dans un magasin d'équipement.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Tu n'as pas assez de carreaux d'arbalète. Achètes-en dans un magasin d'équipement.
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Tu n'es pas équipé d'une carte de spécialiste!
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: Tu n'es pas équipé d'une arme adéquate.
+INFORMATION_SHOUTMESSAGE_NO_WIG: Tu ne portes pas de perruque.
+INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Pas assez de points SP.
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Tu ne peux pas te séparer de ton partenaire tant qu'il porte un équipement.
+INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Tu ne peux pas te séparer de ton partenaire tant qu'il te suit.
+INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: L'équipement a été changé en équipement pour partenaire.
+INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Tu ne peux pas te séparer de ton familier tant qu'il te suit.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: Pour apprendre une compétence, déséquipe d'abord ta carte de spécialiste.
+INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Tu dois descendre de ta monture avant de pouvoir te transformer.
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Ton sexe a été modifié.
+INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Le serveur s'arrêtera dans {0} secondes.
+INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Avant de pouvoir être améliorée, ta carte de spécialiste doit atteindre le niveau {0} !
+INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points attribués.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Ton niveau est trop faible !
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Ce joueur n'est pas sur une carte générale !
+INSTANT_COMBAT_NAME: Combat Instantané
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Le Combat Instantané prendra fin dans {0} minute(s).
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Les monstres approchent...
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Le Combat Instantané prendra fin dans {0} secondes.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Félicitation! Vous avez remporté le Combat Instantané !
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Malheureusement, vous n'avez pas vaincu la vague et ne recevez aucun butin.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: La prochaine vague commencera dans {0} minute(s).
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: La prochaine vague commencera dans {0} secondes.
+INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Introduction mise à jour.
+INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: Tu n'as pas porté le premier coup, tu ne recevras donc qu'une partie de l'expérience.
+INTERACTION_LOG_ITEM_NOT_SELLABLE: Vous ne pouvez seulement vendre les items échangeables dans les magasins.
+INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Pas assez d'or.
+INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Pas assez de place dans l'inventaire !
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Tu as été béni par le pouvoir de protection des anges !
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Tu as été béni par le pouvoir de protection des démons !
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Tu as perdu ton pouvoir de protection.
+INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pour changer les ailes de ta carte de spécialiste, tu dois avoir une amélioration supérieur à +0.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: L'utilisation d'orateur est en rechargement, un orateur toutes les 30 seondes.
+INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
+INVENTORY_DIALOG_ASK_SORT: Veux-tu trier tes objets? Cela a 1 minute de rechargement.
+INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
+INVENTORY_DIALOG_SURE_TO_DELETE: L'objet sera perdu à jamais, es-tu vraiment sûr de vouloir le supprimer ?
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0}x {1}.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'objet ne peux pas contenir de runes.
+ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
+ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'objet davantage.
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé!
+ITEM_CHATMESSAGE_NO_GILLION: Tu n'as pas suffisament de pierres Gillion !
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Tu as déjà installé un poteau indicateur. Temps restant: {0}'
+ITEM_CHATMESSAGE_TIMEOUT: La durée d'effet ({0}) a expiré.
+ITEM_CHATMESSAGE_UNFIXED: Le niveau de l'objet n'est plus fixe !
+ITEM_DIALOG_ASK_BIND: Es-tu sûr de vouloir te lier à cet objet ? Il ne sera plus échangeable.
+ITEM_DIALOG_ASK_CHANGE_FACTION: Es-tu sûr de vouloir changer de faction ?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Es-tu sûr de vouloir changer la faction de la famille ?
+ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Es-tu sûr de vouloir changer tes ailes de spécialiste ?
+ITEM_DIALOG_ASK_OPEN_BOX: Es-tu sûr de vouloir ouvrir cette boîte ?
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: Es-tu sûr de vouloir libérer le familier ?
+ITEM_DIALOG_ASK_PET_STORE: Es-tu sûr de vouloir stocker ton familier dans la perle ?
+ITEM_DIALOG_ASK_USE: Es-tu sûr de vouloir utiliser cet objet ?
+ITEM_DIALOG_WANT_TO_SAVE_POSITION: Veux-tu sauvegarder ta position ?
+ITEM_INFO_PET_NAME_TOO_LONG: Tu ne peux pas dépasser les 14 caractères pour ton familier.
+ITEM_MESSAGE_CANT_USE: Tu ne peux pas utiliser cet objet.
+ITEM_MESSAGE_CANT_WEAR: Tu ne peux pas t'équiper de cet objet.
+ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas s'équiper de cet objet.
+ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas de rune à effacer.
+ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer une carte de spécialiste avec une âme détruite !
+ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas t'équiper d'une carte de spécialiste avec une âme détruite !
+ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Tu as fabriqué {1}x {0}.
+ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Tu ne peux pas utiliser d'oeuf de faction individuel dans une famille.
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'élément de la fée est différent de l'élément de la carte spécialiste !
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Tu ne peux faire ça que dans un mini-pays.
+ITEM_SHOUTMESSAGE_SAME_FACTION: Tu es déjà dans cette faction !
+ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Changement de l'horaire de maintenance. Début dans: {0}h."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: "Changement de l'horaire de maintenance. Début dans: {0}min."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: "Changement de l'horaire de maintenance. Début dans: {0}sec."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La maintenance a été arrêté.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La maintenance débutera dans {0}h.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La maintenance débutera dans {0}min.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La maintenance débutera dans {0}sec.
+MESSAGE_UNDER_CHAT_0: 'Pensez à vérifier sur notre site les ajouts récents: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Découvrez notre Serveur Discord: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Avez-vous trouvé un bug? Signalez-le sur: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Avez-vous une idée? Postez-la sur notre forum: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respectez et informez-vous sur nos règles du jeu sur: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Avez-vous un problème de paiement ou un problème sur le jeu? Faites-en part sur le Support de notre Serveur Discord: noswings.com/support'
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Les points de production du Mini-jeu ont été rafraîchis.
+MINIGAME_INFO_NO_REWARD: Il n'y a pas de récompenses dans ce mini-jeu.
+MINIGAME_INFO_POINTS_FULL: La quantitée maximale de points de production est atteinte.
+MINIGAME_INFO_REFILL: 'Points de production: {0}'
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Tu dois atteindre le niveau {0} et obtenir {1} points de réputation avant de pouvoir jouer.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Ajout de {0}x {1} dans la réserve du mini-pays.
+MINILAND_DIALOG_ASK_INVITE: Souhaites-tu rejoindre le mini-pays de {0} ?
+MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Aucune récompense ne sera obtenue car tu n'as pas suffisament de points de production. Continuer ?
+MINILAND_INFO_CHANGED: Ton message de bienvenue a été modifié.
+MINILAND_INFO_DURABILITY_MAXIMUM: Durabilité maximale de ton mini-jeu atteinte.
+MINILAND_INFO_INVITE_LOCK: Le mini-pays de ce joueur est verouillé.
+MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Pas assez de coupons de récompense !
+MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Pas assez de points de durabilité.
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Pas assez de points de production.
+MINILAND_MESSAGE_VISITOR: "Total des visites: {0}. Visites aujourd'hui : {1}"
+MINILAND_SHOUTMESSAGE_CLOSED: Le mini-pays est verouillé.
+MINILAND_SHOUTMESSAGE_FULL: Le mini-pays est plein.
+MINILAND_SHOUTMESSAGE_LOCK: Tu as verouillé le mini-pays.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Le mini-pays a besoin d'être verouillé pour effectuer ça!
+MINILAND_SHOUTMESSAGE_PRIVATE: Le mini-pays est maintenant privé.
+MINILAND_SHOUTMESSAGE_PUBLIC: Le mini-pays est maintenant public.
+MINILAND_WELCOME_MESSAGE: Bienvenue !
+MUTE_CHATMESSAGE_TIME_LEFT: 'Temps de sourdine restant : {0}'
+MUTE_MESSAGE_FEMALE: J'ai été une vilaine fille donc j'ai été punie !
+MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
+NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} notes.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Tu as reçu un lot de buff!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Ton niveau est trop haut pour recevoir ce lot de buff.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Ton niveau est trop bas pour recevoir ce lot de buff.
+NPC_SHOP_LOG_PURCHASE: Tu as acheté {1}x {0}.
+OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Le décompte des buffs est désormais désactivé.
+OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Le décompte des buffs est désormais activé.
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC désactivé.
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_ENABLED: DiscordRPC activé.
+OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Les smileys sont désormais masqués.
+OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Les smileys sont désormais affichés.
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Tu refuses désormais les invitations de famille.
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Tu acceptes désormais les invitations de famille.
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Tu refuses désormais les demandes d'amis.
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Tu acceptes désormais les demandes d'amis.
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Tu refuses désormais les demandes de groupe.
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_ENABLED: Tu acceptes désormais les demandes de groupe.
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Les chapeaux sont désormais visibles.
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Les chapeaux sont désormais invisibles.
+OPTIONS_SHOUTMESSAGE_HP_DISABLED: Affichage de la regénération des HP désactivé.
+OPTIONS_SHOUTMESSAGE_HP_ENABLED: Affichage de la regénération des HP activé.
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Tu refuses désormais les invitations dans des mini-pays.
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Tu acceptes désormais les invitations dans des mini-pays.
+OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Verrouillage de la souris désormais désactivé.
+OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Verrouillage de la souris désormais activé.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Après sa mort, ton partenaire sera renvoyé au mini-pays.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Après sa mort, ton partenaire sera ressuscité pour 5 graines de pouvoirs.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Après sa mort, ton familier sera renvoyé au mini-pays.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Après sa mort, ton familier sera ressuscité pour 5 graines de pouvoirs.
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Tu ne te lèves plus rapidement.
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Tu te lèves désormais rapidement.
+OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Affichage des orateurs désactivé.
+OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Affichage des orateurs activé.
+OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Tu refuses désormais les demandes d'échange.
+OPTIONS_SHOUTMESSAGE_TRADE_ENABLED: Tu acceptes désormais les demandes d'échange.
+OPTIONS_SHOUTMESSAGE_UI_DISABLED: Affichage de l'interface utilisateur désactivé.
+OPTIONS_SHOUTMESSAGE_UI_ENABLED: Affichage de l'interface utilisateur activé.
+OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Tu refuses désormais les chuchotements.
+OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Tu acceptes désormais les chuchotements.
+PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Tu as obtenu un nouveau partenaire : {0} !'
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: Ton partenaire ne peut plus rien manger.
+PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: La transformation de ton partenaire est à nouveau disponible.
+PARTNER_DIALOG_ASK_SLOT_INCREASE: Es-tu sûr de vouloir augmenter le nombre d'emplacements pour partenaire ?
+PARTNER_INFO_IS_WEARING_SP: Ton partenaire porte déjà une carte de spécialiste !
+PARTNER_INFO_LEAVE_BEAD: Ton nouveau partenaire est sorti de sa perle !
+PARTNER_INFO_LEVEL_IS_TOO_LOW: Le niveau de ton partenaire est trop faible !
+PARTNER_INFO_NEED_AGILITY_POINTS: Ton partenaire a besoin de plus de points d'agilité!
+PARTNER_INFO_NO_PARTNER_IN_TEAM: Tu n'as pas de partenaire en ta compagnie.
+PARTNER_INFO_RELEASED: Tu as libéré ton partenaire.
+PARTNER_INFO_SP_NEW_SKILL: Ton partenaire a appris une nouvelle compétence !
+PARTNER_INFO_STORED: Ton partenaire est maintenant stocké dans la perle.
+PARTNER_MESSAGE_100_AGILITY: Ton partenaire a atteint 100% de ses points d'agilité.
+PARTNER_MESSAGE_KICKED: Ton partenaire a été renvoyé dans ton mini-pays.
+PARTNER_MESSAGE_NO_SP_EQUIPPED: Ton partenaire n'est pas équipé d'une carte de spécialiste.
+PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Tu possèdes déjà ce partenaire.
+PARTNER_SHOUTMESSAGE_LEVEL_UP: '{0} est monté de niveau !'
+PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partenaire sauvé par la poupée ange gardienne.
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste du partenaire : {0} secondes."
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton partenaire a été renvoyé au mini-pays.
+PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Ton partenaire réapparaîtra dans 3 minutes.
+PERFECTSP_ATTACK: Attaque
+PERFECTSP_DEFENSE: Défense
+PERFECTSP_ELEMENT: Élement
+PERFECTSP_FIRE: Résistance feu
+PERFECTSP_HPMP: HP/MP
+PERFECTSP_LIGHT: Résistance lumière
+PERFECTSP_MESSAGE_FAILURE: Perfectionnement échoué !
+PERFECTSP_MESSAGE_SUCCESS: 'Perfectionnement réussi : +{1} {0} !'
+PERFECTSP_SHADOW: Résistance obscure
+PERFECTSP_WATER: Résistance eau
+PERSONAL_SHOP_LOG_PURCHASE_BUYER: Tu as acheté {1}x {0} à {2}.
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: "{0} t'a acheté {2}x {1}."
+PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Ton familier peut déjà ramasser les objets!
+PET_CHATMESSAGE_BEAD_EXTRACT: 'Tu as obtenu un nouveau familier : {0} !'
+PET_CHATMESSAGE_CAN_PICK_UP: Ton familier peut maintenant ramasser des objets !
+PET_CHATMESSAGE_EAT_EVERYTHING: Ton familier ne peut plus rien manger !
+PET_DIALOG_ASK_SEND_BACK: Es-tu sûr de vouloir renvoyer ton familier dans ton mini-pays ?
+PET_DIALOG_ASK_SLOT_INCREASE: Es-tu sûr de vouloir augmenter le nombre d'emplacements pour familier ?
+PET_INFO_LEAVE_BEAD: Ton nouveau familier est sorti de sa perle !
+PET_INFO_RELEASED: Tu as libéré ton familier.
+PET_INFO_STORED: Ton familier est maintenant stocké dans la perle.
+PET_MESSAGE_ALREADY_IN_TEAM: Ce familier est déjà en ta compagnie.
+PET_MESSAGE_IS_ALREADY_SUMMONABLE: Tu peux déjà invoquer ton familier !
+PET_MESSAGE_KICKED: Ton familier a été renvoyé au mini-pays.
+PET_MESSAGE_SUMMONABLE: Tu peux désormais invoquer ton familier.
+PET_SHOUTMESSAGE_HIGHER_LEVEL: Le niveau de ton familier est supérieur au tien !
+PET_SHOUTMESSAGE_LEVEL_UP: '{0} a monté de niveau !'
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton familier a été renvoyé au mini-pays.
+PET_SHOUTMESSAGE_WILL_BE_BACK: Ton familier réapparaîtra dans 3 minutes.
+PET_SHOUTMESSGE_SAVED_BY_SAVER: Ton familier a été sauvé par la poupée ange gardienne.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+PORTAL_CHATMESSAGE_BLOCKED: Ce portail est verouillé, tu ne peux pas l'utiliser.
+PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
+PSP_AEGIR: Aegir le Furibond
+PSP_AMON: Amon
+PSP_AMORA: Cupidia
+PSP_ARCHDAEMON_AMON: Archidémon Amon
+PSP_BARNI: Barni l'Intelligent
+PSP_CHEONGBI: Cheongbi
+PSP_CHLOE: Chloé la cowgirl
+PSP_DANIEL: Daniel Ducat
+PSP_DIALOG_ASK_RESET_ALL_SKILLS: Es-tu sûr de vouloir réinitialiser toutes les compétences ?
+PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Es-tu sûr de vouloir réinitialiser cette compétence ?
+PSP_ELIZA: Princesse des glaces Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya la fatidique
+PSP_GUARDIAN_LUCIFER: Gardien Lucifer
+PSP_HARLEQUIN: Arlequin
+PSP_HONGBI: Hongbi
+PSP_JINN: Djinn
+PSP_LAURENA: Laurena la Sorcière
+PSP_LOTUS: Lotus la Gracieuse
+PSP_LUCIFER: Archange Lucifer
+PSP_LUCY: Lucie Longoreil
+PSP_MACAVITY: Sujet-Test du Docteur Miaou Fou
+PSP_MAD_MARCH_HARE: Lapin de Pâques Fou
+PSP_MARU: Maru
+PSP_MESSAGE_ALL_SKILLS_RESET: Les compétences de ton partenaire ont été réinitialisées.
+PSP_MESSAGE_ONE_SKILL_RESET: La compétence de ton partenaire a été réinitialisée.
+PSP_MOTHER_MARU: Maru en habits de maman
+PSP_NELIA: Nélia la Nymphe
+PSP_ORKANI: Orkani le Turbulent
+PSP_PALINA: Marion Marionnettiste
+PSP_PERTI: Perti Déplumay
+PSP_PHARAOH: Akhénaton le Pharaon maudit
+PSP_RAGNAR: Guerrier Squelette Ragnar
+PSP_SHERIFF_CHLOE: Shérif Chloé
+PSP_SHINOBI: Shinobi the Silencieux
+PSP_VENUS: Princesse Venus
+PSP_YUNA: Yuna l'Ensorceleuse
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} Collecté: [{1}/{2}]'
+QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ce soldat Kenko est trop fort !
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Tu peux recevoir une nouvelle quête d'un PNJ.
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
+QUEST_DIALOG_START_MAIN_QUEST: Tu ne pourras pas abandonner la quête une fois commencée. Continuer ?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Veux-tu te téléporter?
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Tu as déjà complété cette quête !
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Cette quête a déjà été complétée et n'est pas encore prête.
+QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Tu as déjà cette quête.
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Tu as déjà une quête principale en cours.
+QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tu as des quêtes incomplètes.
+QUEST_SHOUTMESSAGE_LOW_LEVEL: Ton niveau est trop bas pour cette quête.
+QUEST_SHOUTMESSAGE_SLOT_FULL: Tu ne peux pas accepter davantage de quêtes.
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} cherche des membres pour le raid {1} !'
+RAID_CHATMESSAGE_GROUP_REQUEST: "{0} a été invité dans l'équipe."
+RAID_CHATMESSAGE_KICKED: Tu as été expulsé de l'équipe.
+RAID_CHATMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
+RAID_CHATMESSAGE_LEFT: "{0} a quitté l'équipe."
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Ton niveau n'étant pas conforme, tu ne recevras pas de boîte si le raid est un succès.
+RAID_CHATMESSAGE_LOW_LEVEL: Tu dois atteindre le niveau {0} pour rejoindre le raid.
+RAID_CHATMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe"
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Ce raid n'existe plus ou a déjà commencé!
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Seul le chef de l'équipe peut commencer le raid.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu n'es pas dans une équipe de raid.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne peut pas être commencé ici.
+RAID_CHATMESSAGE_X_JOINED: "{0} a rejoint l'équipe."
+RAID_DIALOG_ASK_START_RAID: Es-tu prêt pour commencer le raid {0} ?
+RAID_DIALOG_INVITED_YOU: Souhaites-tu rejoindre l'équipe de raid de {0} ?
+RAID_INFO_NO_EXIST: Ce raid n'existe pas !
+RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
+RAID_INFO_PLAYER_DEATH: Tu es mort ! Tu ressusciteras dans 20 secondes.
+RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
+RAID_NAME_CASTRA: Castra Obscure
+RAID_NAME_CHICKENKING: Roi Poulet
+RAID_NAME_CUBY: Mère Cuby
+RAID_NAME_GIANTBLACKSPIDER: Araignée Noire Géante
+RAID_NAME_GINSENG: Ginseng
+RAID_NAME_NAMAJU: Namaju
+RAID_NAME_SLADE: Slade Géant
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
+RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Cet objet a déjà été bougé.
+RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Tu ne peux pas créer un raid en étant dans un groupe.
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Tu ne peux pas inviter les membres d'un groupe dans ton équipe.
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Tu ne peux pas rejoindre un raid en étant en arène !
+RAID_SHOUTMESSAGE_COMPLETED: L'équipe de {0} a réussi le raid {1} !
+RAID_SHOUTMESSAGE_IN_GROUP: Tu ne peux pas rejoindre une équipe de raid en étant dans un groupe.
+RAID_SHOUTMESSAGE_KICKED: Tu as été expulsé de l'équipe.
+RAID_SHOUTMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
+RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe."
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Les ennemis reçoivent des renforts!
+RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe."
+RAID_SHOUTMESSAGE_PLAYER_DEATH: '{0} est mort.'
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe est complète.
+RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été mis en liste.
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: L'équipe a complété tous les objectifs !
+RAID_SHOUTMESSAGE_TARGETS_UPDATED: Objectifs mis à jour.
+RAID_SHOUTMESSAGE_UNREGISTERED: Ton raid n'est plus en liste.
+RAID_SHOUTMESSAGE_X_JOINED: "{0} a rejoint l'équipe."
+RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Es-tu sûr de vouloir changer ta zone de réapparition ?
+RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: La zone de résurrection a été changée !
+REVIVE_DIALOG_ARENA: Souhaites-tu réapparaître ? Ça te coûtera {0} pièces d'or.
+REVIVE_DIALOG_FREE: Souhaites-tu réapparaître ? C'est gratuit jusqu'au niveau {0}.
+REVIVE_DIALOG_SEEDS_OF_POWER: Souhaites-tu réapparaître ? Ça te coûtera {0} graines de pouvoir.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Pour remplacer la rune, tu as d'abord besoin de parfumer l'équipement.
+SHELLS_DIALOG_ADD_OPTIONS: Es-tu sûr de vouloir ajouter une option à cet objet ? Il te sera lié.
+SHELLS_DIALOG_REPLACE_OPTIONS: Tu as 50% de chance d'écraser l'ancienne rune pour la nouvelle. Autrement, la nouvelle rune sera supprimée. Es-tu sûr de vouloir continuer ?
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Cette rune n'a pas pu être identifiée.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Les options de cette rune sont déjà identifiées.
+SHELLS_SHOUTMESSAGE_BROKEN: La rune a été détruite à cause de l'échec de la tentative.
+SHELLS_SHOUTMESSAGE_ERASED: Les options ont été supprimées.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Seule une armure peut accepter cette rune.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Seule une arme peut accepter cette rune.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Rune identifiée !
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de la rune doit être identique ou inférieur au niveau de l'équipement.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La rune doit être identifiée avant d'être utilisée.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Les options de la rune ont été ajoutées.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Le niveau de rareté doit être identique ou inférieur à la rareté de l'équipement.
+SHIP_CHATMESSAGE_LEVEL_REQ: Tu dois être niveau {0} pour embarquer sur ce bateau.
+SHIP_SHOUTMESSAGE_COOLDOWN: Le bateau n'est pas encore revenu.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Le bateau partira dans {0} minutes.
+SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Le bateau partira dans {0} secondes.
+SHOP_CHATMESSAGE_EMPTY: Le magasin ne peut pas être vide !
+SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Tu ne peux vendre que des objets échangeables dans un magasin privé.
+SHOP_DEFAULT_NAME: Magasin privé
+SHOP_INFO_ALREADY_OPEN: Tu as déjà un magasin ouvert !
+SHOP_INFO_NEAR_PORTAL: Tu ne peux pas créer un magasin si proche d'un portail!
+SHOP_INFO_NOT_ALLOWED: Tu ne peux ouvrir de magasin sur une carte générale.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: Tu ne peux pas ouvrir un magasin en étant dans un raid!
+SHOP_INFO_OPEN: Le magasin a été ouvert !
+SHOP_INFO_TARGET_MAX_GOLD: Ce joueur a atteint le montant d'or maximal.
+SHOP_LOG_SELL_ITEM_VALID: L'échange a été validé.
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Tu as déjà appris cette compétence.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Tu ne peux pas apprendre de compétence si tu portes une spécialiste.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Tu as besoin d'apprendre la compétence précédente.
+SKILL_CHATMESSAGE_NOT_TO_REFUND: Tu ne peux pas te faire rembourser cette compétence !
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Sort interrompu !
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Veux-tu remplacer l'amélioration de compétence actuelle par celle-ci?
+SKILL_SHOUTMESSAGE_CANT_LEARN: Tu ne peux pas apprendre cette compétence.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Tu dois attendre la fin de rechargement de tes compétences pour pouvoir en apprendre une nouvelle.
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture échouée !
+SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Tu ne peux pas capturer ce monstre !
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Tu ne peux pas capturer ce monstre en étant dans un raid !
+SKILL_SHOUTMESSAGE_CAUGHT_PET: '{0} a été capturé avec succès !'
+SKILL_SHOUTMESSAGE_LEARNED: Tu as appris une nouvelle compétence !
+SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Le niveau du monstre doit être inférieur au tien pour pouvoir le capturer.
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Le monstre doit avoir moins de 50% de ses points de vie pour être capturé.
+SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se sacrifie pour {1}.'
+SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: L'effet du sacrifice a prit fin car le joueur est hors de portée.
+SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: L'effet du sacrifice va prendre fin, rapproches-toi du joueur ciblé !
+SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tu dois attendre que tous les rechargements soient terminés.
+SPEAKER_NAME: Orateur
+SPECIALIST_CHATMESSAGE_SP_BLOCKED: Tu ne peux pas changer de carte de spécialiste maintenant !
+SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Le rechargement de la spécialiste est terminé.
+SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Tu dois être transformé en spécialiste pour pouvoir faire ça!
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Tu ne peux pas attaquer pour l'instant.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La spécialiste est en rechargement - {0} seconde(s).
+SPECIALIST_SHOUTMESSAGE_LEVELUP: Niveau de spécialiste augmenté !
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Tu as besoin de {0} Points de Spécialiste pour pouvoir te transformer!
+SPECIALIST_SHOUTMESSAGE_NO_POINTS: Tu n'as plus de points de spécialiste! Impossible de se transformer.
+SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Tu ne peux pas retirer ta carte de spécialiste à cause du mauvais effet.
+SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: '{0} points de spécialistes ajoutés !'
+SPECIALIST_SHOUTMESSAGE_POINTS_RESET: Points de spécialiste réinitialisés.
+SPECIALIST_SHOUTMESSAGE_RESURRECTED: L'âme de ta carte de spécialiste a été réanimée.
+SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Tu dois être en spécialiste pour faire ça.
+SUM_MESSAGE_FAILED: Somme échouée.
+SUM_MESSAGE_SUCCESS: Somme réussie !
+TIMESPACE_CHATMESSAGE_EASY_MODE: Le défi de l'espace-temps est en mode facile - la durée a été prolongé, tu ne recevras pas les récompenses sélectionnées.
+TIMESPACE_CHATMESSAGE_GATE_LOCKED: Le porte est bloquée.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mon niveau est trop bas pour rejoindre l'espace-temps.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toute les missions d'espaces-temps n'ont pas étés accomplies.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le maitre du groupe peut commencer l'espace-temps.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% des points ont étés réduits à cause de la pénalité de niveau.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Veux-tu rejoindre la mission d'espace-temps avec ton équipe?
+TIMESPACE_DIALOG_ASK_REVIVAL: Veux-tu ressuciter ?
+TIMESPACE_DIALOG_ASK_START: Es-tu prêt à commencer ?
+TIMESPACE_DIALOG_ASK_START_RECORD: Veux-tu commencer l'espace-temps en mode "record"? Cela te coûtera {0} or.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: La mission d'espace-temps a déjà commencé.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Une porte s'est ouverte.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Une porte a été ouverte quelque part
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Les ennemis reçoivent des renforts!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Le levier a été activé.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La mission a été actualisée
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Tu as complété la mission.
+TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La mission commencera lorsque tu entreras dans la première salle.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: La mission d'espace-temps est complète, tu ne peux pas la rejoindre.
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Veuillez patienter...
+TITLE_DIALOG_ASK_ADD: Souhaites-tu ajouter ce titre ?
+TITLE_INFO_EFFECT_DISABLED: L'effet du titre n'est plus actif.
+TITLE_INFO_EFFECT_ENABLED: L'effet du titre est actif !
+TITLE_INFO_UNLOCKED: Tu as débloqué un nouveau titre.
+TITLE_INFO_VISIBLE_DISABLED: Le titre n'est plus visible.
+TITLE_INFO_VISIBLE_ENABLED: Le titre est maintenant visible !
+TRADE_CHATMESSAGE_BLOCKED: Ce joueur bloque les échanges !
+TRADE_CHATMESSAGE_REFUSED: "{0} a refusé ta proposition d'échange."
+TRADE_CHATMESSAGE_YOU_REFUSED: Échange refusé.
+TRADE_DIALOG_ASK_FOR_TRADE: Tu as proposé un échange à {0}.
+TRADE_DIALOG_INCOMING_EXCHANGE: '{0} [{1}(+{2})Lv.] te propose un échange.'
+TRADE_INFO_PLAYER_IN_BATTLE: Tu ne peux pas échanger en combat.
+TRADE_INFO_WAITING_FOR_TARGET: En attente de {0}...
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Ce joueur est en échange.
+TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Tu ne peux pas échanger avec des gérants de magasin.
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Cet objet ne peut pas être échangé.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Tu ne peux pas échanger en participant à un raid.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Tu ne peux pas échanger avec un membre de raid.
+UPGRADE_MESSAGE_FAILED: L'amélioration a échoué !
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: L'amélioration a échoué mais l'objet a été préservé.
+UPGRADE_MESSAGE_FIXED: Niveau fixe.
+UPGRADE_MESSAGE_SP_DESTROYED: L'âme de la carte de spécialiste a été détruite.
+UPGRADE_MESSAGE_SP_FAILED: L'amélioration a échoué.
+UPGRADE_MESSAGE_SP_FAILED_SAVED: L'amélioration a échoué mais la carte de spécialiste a été préservée.
+UPGRADE_MESSAGE_SP_SUCCESS: L'amélioration de la carte de spécialiste est un succès !
+UPGRADE_MESSAGE_SUCCESS: L'amélioration est un succès !
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Veux-tu divorcer?
+WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
+WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?
+WEDDING_INFO_DIVORCED: Le divorce a été prononcé.
+WEDDING_SHOUTMESSAGE_BROADCAST: Par les liens sacrés du mariage, {0} et {1}, je vous déclare mariés !
+WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de {1}.'
