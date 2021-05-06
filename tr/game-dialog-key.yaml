@@ -1,0 +1,726 @@
+ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakımda.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
+ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
+ACT4_CHATMESSAGE_PVP_ANGELS: Melekler
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} bir {0} koruyucusu tarafından yenildi.'
+ACT4_CHATMESSAGE_PVP_DEMONS: Şeytanlar
+ACT4_CHATMESSAGE_PVP_KILL: '{1} bir {0} koruyucusunu yendi.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Zindana katılmak için bir aileye ihtiyacın var!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Zindana girmek için {0} itibar puanı harcanacak. Girmek istiyor musun?
+ACT4_DUNGEON_REVIVAL_DIALOG: Yeninden canlanmak için {0} itibar puanı harcanacak. İptal edersen zindanın başına ışınlanacaksın. Burada yeniden canlanmak istiyor musun?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Patron odası kapandı!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Zindan patronu yenildi!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Patron odası açıldı!
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Zindan girişi Bitoren Tundrasının merkezinde açıldı!
+ACT4_NEED_FACTION: Sadece koruma gücü olanlar Donmuş Taç'a katılabilirler.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Melek Kampı
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Şeytan Kampı
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} Lord Mukraju'yu yendi!"
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} Lord Mukraju'yu zamanında yenemedi."
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} Lord Mukraju'yu çağırdı!"
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
+AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
+AMMO_LOADED_ARCHER: Oklar dolduruldu.
+AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
+ARENA_INFO_ASK_ENTER: '{0} altın karşılığında bireysel arenaya girmek istiyor musun?'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} {1} tarafından öldürüldü.'
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Zaten Cuarry Banka Kartına sahipsin.
+BANK_DIALOG_ASK_DEPOSIT: Banka hesabına {0}000 altın yatırmak istiyor musun?
+BANK_DIALOG_ASK_WITHDRAW: Banka hesabından {0}000 altın çekmek istiyor musun?
+BANK_INFO_NOT_ENOUGH_FUNDS: Yetersiz bakiye
+BANK_INFO_TOO_MUCH_GOLD: Çok fazla altının var!
+BANK_LOG_OPEN_BANK: Bankaya hoş geldiniz! Size nasıl yardımcı olabilirim?
+BANK_LOG_WITHDRAW_BANK: Banka hesabından {0}000 altın çekildi.
+BANK_MESSAGE_BALANCE: Banka hesabında {0}000 altın var.
+BANK_MESSAGE_DEPOSIT: Banka hesabına {0}000 altın yatırıldı.
+BANK_MESSAGE_MAX_GOLD_REACHED: Maksimum altın limitine ulaşıldı!
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Artan bakiye banka hesabına gönderildi.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: "{0}x {1} - NosPazar'a yerleştirildi."
+BAZAAR_INFO_ITEM_CHANGED: Geçersiz işlem, eşya satıldı veya fiyatı değiştirildi.
+BAZAAR_INFO_MAINTENANCE_MODE: NosPazar bakım altında.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Daha fazla ürün satamazsın.
+BAZAAR_INFO_NEEDS_MEDAL: NosTüccar madalyan yok!
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Ürün fiyatı limitin üzerinde!
+BAZAAR_INFO_RESYNC: Ürün fiyatı değiştirilemedi! Yeniden deneyin.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Ürünün fiyatını {0} altın karşılığında değiştirmek istiyor musun?
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Ürün NosPazar''a eklendi.
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Ürün fiyatı değiştirildi.
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Pazarı kullanırken canavarlar tarafından saldırılabileceğini unutma!
+BLACKLIST_INFO_ADDED: '{0} kara listeye eklendi.'
+BLACKLIST_INFO_BLOCKED: Bu karakter seni engellemiş.
+BLACKLIST_INFO_BLOCKING: Bu karakteri engelledin.
+BLACKLIST_INFO_DELETED: Karakter kara listeden çıkarıldı.
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Bağışıklık nedeniyle etkisi yok.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: '{0} etkisini kaybediyorsun.'
+BUFF_CHATMESSAGE_SIDE_EFFECTS: "{0}'in yan etkisi altındasın."
+BUFF_CHATMESSAGE_UNDER_EFFECT: '{0} etkisi altındasın.'
+CELLON_SHOUTMESSAGE_FAIL: Seçenek eklemeyi başaramadığın için Cellon yok oldu.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Cellon'un seviyesi aksesuarınkinden yüksek!
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuarın Cellon yuvaları zaten dolu.
+CELLON_SHOUTMESSAGE_SUCCESS: Seçenek eklendi.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Bu karakter adı başkası tarafından kullanılıyor!
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Karakter adı yasaklı olan "{0}" kelimesini içeriyor. Bunun bir hata olduğunu düşünüyorsan destek Discord sunucumuzda bir bilet açabilirsin.
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
+CHARACTER_DELETION_INFO_FAILED: Karakterin silinemedi. Lütfen Tekrar dene.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Karakterin silinemedi. Lütfen Tekrar dene.
+CLASS_NAME_ADVENTURER: Maceracı
+CLASS_NAME_ARCHER: Okçu
+CLASS_NAME_MAGE: Büyücü
+CLASS_NAME_MARTIAL_ARTIST: Dövüş Sanatçısı
+CLASS_NAME_SWORDSMAN: Kılıç Ustası
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Dili şuna değiştirdin: '
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: 'Mevcut dil: '
+COMMANDS_CHATMESSAGE_AVAILABLE: 'Kullanılabilir komutlar:'
+COMMANDS_CHATMESSAGE_HELP: '[Yardım komutu]'
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Belgelenmemiş.
+COMMANDS_CHATMESSAGE_USAGES: '[Komutun kullanılışı]'
+COMMEND_CHATMESSAGE_COOLDOWN: Günde sadece bir karakteri övebilirsin.
+COMMEND_CHATMESSAGE_GIVEN: "{0}'i övdün."
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Bir karakteri övmek için {0} dakika beklemelisin!
+COMMEND_CHATMESSAGE_NOT_MINLVL: Bir karakteri sadece Lv.30''a ulaştıysanız övebilirsin.
+COMMEND_CHATMESSAGE_RECEIVED: '{0} tarafından övüldün.'
+DIGNITY_CHATMESSAGE_LOSS: 'Şerefin düştü: -{0}.'
+DIGNITY_CHATMESSAGE_RESTORE: 'Şerefin yükseldi: +{0}.'
+DOLL_MESSAGE_MATE_ATTACK_FAIL: Saldırı seviyesinin gelişimi başarısız.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Evcil hayvanının saldırı seviyesi yükseldi. +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: Savunma seviyesinin gelişimi başarısız.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Evcil hayvanının savunma seviyesi yükseldi. +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Daha fazla kukla çağıramazsın.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Bu kukla evcil hayvanının seviyesine uygun değil.
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
+DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
+FAIRYSTONES_DIALOG_INSERT: "{0}'ı {1}'e işlemek istiyor musun?"
+FAIRYSTONES_MESSAGE_INSERT_FAILED: Peri Taşı işlemesi başarısız.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Peri Taşı işlemesi başarılı!
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Kahraman teçhizatlarına Peri Taşı işleyemezsin.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Peri Taşının seviyesi bu teçhizat için çok yüksek.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Bu teçhizata daha fazla Peri Taşı işleyemezsin.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Peri Taşlarını sadece silahlara ve zırhlara işleyebilirsin.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarısının kilidi açıldı: {0}'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile geliştirmesi alındı!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Aile üyesi zaten bu yetkiye sahip.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: Aileni dağıtmak mı istiyorsun? Bu işlem geri alınamaz.
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Aileye katılmak istediğine emin misin?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: '{0} ailesinden {1} seni ailesine davet etti. Katılmak istiyor musun?'
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Kendi rütbeni değiştiremezsin.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Kendini aileden atamazsın.
+FAMILY_DIALOG_CHANGE_HEAD: Aile başkanını değiştirmek istediğine emin misin?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Aile başkanı ailesini tamamen dağıtmadan aileden çıkamaz.
+FAMILY_INFO_ALREADY_IN_FAMILY: Zaten bir ailedesin.
+FAMILY_INFO_ASK_FAMILY_LEAVE: Aileden ayrılmak istiyor musun?
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Başkalarına kendi rütbeni veremezsin.
+FAMILY_INFO_CREATION_BANNED_NAME: Aile adı yasaklanmış olan "{0}" kelimesini içeriyor. Bunun bir hata olduğunu düşünüyorsanız, destek Discord sunucumuzda bir bilet açabilirsiniz.
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Aile kurmak için bir grupta olman gerekiyor.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Grubundan biri zaten ailede veya bir aileden yeni ayrılmış.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Daha fazla temsilci olamaz.
+FAMILY_INFO_FULL: Aile dolu!
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Grubundan biri zaten bir aileye sahip!
+FAMILY_INFO_GROUP_NOT_FULL: Aile kurmak için üç kişilik bir gruba ihtiyacın var!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Aileye davet etme yetkin yok.
+FAMILY_INFO_INVITATION_REFUSED: Aile daveti reddedildi.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Daha fazla idareci olamaz.
+FAMILY_INFO_LEAVE: Aileyi terk ettin.
+FAMILY_INFO_NAME_ALREADY_USED: Bu aile adı zaten kullanılıyor!
+FAMILY_INFO_NO_FAMILY: Bir ailen yok.
+FAMILY_INFO_NO_FAMILY_RIGHT: Gerekli yetkiye sahip değilsin.
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: Aile deposu bulunamadı.
+FAMILY_INFO_NOT_FAMILY_HEAD: Aile başkanı değilsin!
+FAMILY_INFO_NOT_IN_FAMILY: Bir ailede değilsin!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Aile hizmeti şu anda bakımda.
+FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Yalnızca temsilciler aile başkanı olarak atanabilir.
+FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün)
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Bu eşya aile deposuna ekleyemezsin!
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Bunu yapmak için yetkin yok.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Bunu almak için önceki geliştirmeye ihtiyacın var.
+FAMILY_RANK_DEPUTY: Temsilci
+FAMILY_RANK_HEAD: Başkan
+FAMILY_RANK_KEEPER: İdareci
+FAMILY_RANK_MEMBER: Üye
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Aile zaten bu koruma gücüne sahip.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Ailenin koruma gücü değişikliği şu anda bekleme süresinde.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Aileye tekrar katılmak için 24 saat beklemelisin.
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Aile başkanı değiştirildi.
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: '{0} ailesi kuruldu!'
+FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Aile başkanının cinsiyeti değiştirildi.
+FAMILY_SHOUTMESSAGE_LEVEL_UP: 'Aile seviye atladı: {0}!'
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} aileye katıldı!'
+FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILYARENA_INFO_ASK_ENTER: '{0} altın karşılığında aile arenasına girmek istiyor musun?'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: '{0} ile arkadaş olmak istiyor musun?'
+FRIEND_INFO_ADDED: Arkadaşlık isteğin kabul edildi.
+FRIEND_INFO_ALREADY_FRIEND: '{0} zaten senin arkadaşın!'
+FRIEND_INFO_DELETED: Arkadaş silindi.
+FRIEND_INFO_FRIENDLIST_FULL: Arkadaş listen dolu!
+FRIEND_INFO_REFUSED: Arkadaşlık isteği reddedildi.
+FRIEND_INFO_REQUEST_BLOCKED: Bu oyuncu arkadaşlık davetlerini kabul etmiyor.
+FRIEND_MESSAGE_NOT_FRIEND: Arkadaş değilsiniz!
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Bu oyuncu arkadaş listende değil.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Arkadaşın düşman tarafta!
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Bu eşya sabitlenmiş.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Bu tılsımı sadece kahraman teçhizatlarında kullanabilirsin.
+GAMBLING_INFO_AMULET_DESTROYED: 'Dikkat: Koruyucu tılsım yok oldu!'
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: Teçhizat zaten en yüksek nadirlik seviyesinde!
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Tılsımın sayesinde teçhizatın yok olmaktan kurtarıldı.
+GAMBLING_MESSAGE_FAILED: Şans oyunu başarısız, teçhizat yok edildi.
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Şans oyunu başarısız oldu ama teçhizat yok olmaktan kurtarıldı.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazsın.
+GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: '{0} etkinliğine katılmak istiyor musun?'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: '{1} karşılığında {0} etkinliğine katılmak istiyor musun?'
+GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Etkinliğe sadece genel haritalardan katılabilirsin.
+GAMEEVENT_MESSAGE_START: '{0} başladı.'
+GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Yetersiz oyuncu.
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0}, {1} dakika içinde başlayacak.'
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0}, {1} saniye içinde başlayacak.'
+GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} bir dakika içinde bitecek.'
+GROUP_CHATMESSAGE_DROP_ORDERED: (Grup) {2} için [{0}x {1}]
+GROUP_CHATMESSAGE_DROP_SHARED: (Grup) Herkes için [{0}x {1}]
+GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} grup isteğini reddetti.'
+GROUP_DIALOG_ASK_SHARE_POINT: '{0} geri dönüş noktasını paylaştı. Değiştirmek istiyor musun?'
+GROUP_DIALOG_INVITED_YOU: '{0} ile grup kurmak istiyor musun?'
+GROUP_INFO_ADMIN: Grubun lideri sensin!
+GROUP_INFO_ALREADY_IN_GROUP: Zaten bir gruptasın.
+GROUP_INFO_BLOCKED: Bu oyuncu grup davetlerini engelliyor.
+GROUP_INFO_FULL: Grup dolu.
+GROUP_INFO_JOIN: "{0}'in grubuna katıldın!"
+GROUP_INFO_LEFT: Gruptan ayrıldın.
+GROUP_INFO_NEW_LEADER: Grubun yeni lideri sensin!
+GROUP_INFO_REQUEST: 'Grup daveti gönderildi: {0}'
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Geri dönüş noktanızı grup üyeleriyle paylaşmayı teklif ettin.
+GROUP_SHOUTMESSAGE_CLOSED: Grup dağıtıldı.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} geri dönüş noktasını değiştirdi.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} geri dönüş noktasını değiştirmeyi reddetti.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Geri dönüş noktanı grubununkiyle değiştirdin.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Geri dönüş noktanı değiştirmeyi reddettin.
+GROUP_SHOUTMESSAGE_SHARING: Ganimetler paylaşılıyor.
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: Ganimetler sırayla dağıtılıyor.
+GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Grubun lideri sen değilsin.
+HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Deneme başarısız oldu. {0} saniye sonra tekrar deneyebilirsin.
+HARVEST_SHOUTMESSAGE_TRY_FAIL: Deneme başarısız oldu.
+IC_1_49_W1_TITLE: 1. Dalga - Cılızlar!
+IC_1_49_W2_TITLE: 2. Dalga - Yeşiller
+IC_1_49_W3_TITLE: 3. Dalga - Kırmızılar
+IC_1_49_W4_TITLE: 4. Dalga - Sarılar
+IC_1_49_W5_TITLE: 5. Dalga - Uçanlar
+IC_50_59_W1_TITLE: 1. Dalga - Küçük Şeytanlar
+IC_50_59_W2_TITLE: 2. Dalga - Koş!
+IC_50_59_W3_TITLE: 3. Dalga - Büyük Şeytanlar
+IC_50_59_W4_TITLE: 4. Dalga - Krem Yaratıkları
+IC_50_59_W5_TITLE: 5. Dalga - Örümcekler
+IC_60_69_W1_TITLE: 1. Dalga - Hayaletler
+IC_60_69_W2_TITLE: 2. Dalga - Kedicik
+IC_60_69_W3_TITLE: 3. Dalga - BDSM Zindanı
+IC_60_69_W4_TITLE: 4. Dalga - Bakır Toplar
+IC_60_69_W5_TITLE: 5. Dalga - Cehennem Şövalyeleri
+IC_70_79_W1_TITLE: 1. Dalga - Köknar Ormanı
+IC_70_79_W2_TITLE: 2. Dalga - Akçaağaç Ormanı
+IC_70_79_W3_TITLE: 3. Dalga - Nemli Mağaralar
+IC_70_79_W4_TITLE: 4. Dalga - Seli-Lusha
+IC_70_79_W5_TITLE: 5. Dalga - Cennet Şövalyeleri
+IC_80_89_W1_TITLE: 1. Dalga - Sladeler!
+IC_80_89_W2_TITLE: 2. Dalga - Zombiler!
+IC_80_89_W3_TITLE: 3. Dalga - Büyük Çöl Yaratıkları
+IC_80_89_W4_TITLE: 4. Dalga - Kumdoğanlar
+IC_80_89_W5_TITLE: 5. Dalga - Shay'in Kuvvetleri
+IC_90_150_0_24H_W1_TITLE: 1. Dalga - Acı Tapınağı
+IC_90_150_0_24H_W2_TITLE: 2. Dalga - Volkanik Püskürme
+IC_90_150_0_24H_W3_TITLE: 3. Dalga - Alevli Kılıç
+IC_90_150_0_24H_W4_TITLE: 4. Dalga - Cehennem Kapıları
+IC_90_150_0_24H_W5_TITLE: 5. Dalga - Cennet Kapıları
+IC_90_150_25_44H_W1_TITLE: 1. Dalga - Cennet Harabeleri
+IC_90_150_25_44H_W2_TITLE: 2. Dalga - Cehennem Harabeleri
+IC_90_150_25_44H_W3_TITLE: 3. Dalga - Zealotların Karakolu!
+IC_90_150_25_44H_W4_TITLE: 4. Dalga - Haçlıların Karakolu!
+IC_90_150_25_44H_W5_TITLE: 5. Dalga - Ancelloan'ın Dinlenme Yeri
+IC_90_150_45_70H_W1_TITLE: 1. Dalga - Bilinmeyen Diyarlılar!
+IC_90_150_45_70H_W2_TITLE: 2. Dalga - Cehennemdoğanlar
+IC_90_150_45_70H_W3_TITLE: 3. Dalga - Nemli Yaratıklar
+IC_90_150_45_70H_W4_TITLE: 4. Dalga - Orklar
+IC_90_150_45_70H_W5_TITLE: 5. Dalga - Sakin Bir Yer...
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Öldürdüğün karakteri çözemezsin.
+ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Karakteri çözmek için çok uzaktasın.
+ICEBREAKER_NAME: Buzkıran
+ICEBREAKER_SHOUTMESSAGE_END: Buzkıran sona erdi.
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Savaşa hazırlan!
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} dondu.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} çözüldü.'
+ICEBREAKER_SHOUTMESSAGE_STARTED: Buzkıran başladı!
+ICEBREAKER_SHOUTMESSAGE_WIN: Buzkıranı kazandın!
+INFORMATION_CHANNEL: Kanal
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Şu an kullanamazsın.
+INFORMATION_CHATMESSAGE_NO_WINGS: Arkadaşlık Kanatların yok.
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Yetersiz BP
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Yetersiz itibar
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Seviyen çok düşük!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Bu eşya senin değil!
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: NosTüccar Madalyası aktifleştirildi.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerin Uzman Kartı dönüşümü için kalan süre: {0} saniye.'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'İtibarın düştü: -{0}!'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'İtibarin yükseldi: +{0}!'
+INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: '{1}x {0} kullanıldı.'
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Koruma Parşömeni kullanıldı.
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
+INFORMATION_CHATMESSAGE_USER_NOT_HERO: Bunu sadece kahramanlar kullanabilir.
+INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Bu karakter fısıltıları engelliyor.
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: "{1} kanalındaki {0}'a gönderildi."
+INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP puanları: +{0}'
+INFORMATION_HERO_LEVELUP: Kahramanlık seviyen yükseldi!
+INFORMATION_INFO_PLAYER_IN_BATTLE: '{0} savaşta'
+INFORMATION_INFO_PLAYER_OFFLINE: Çevrimiçi değil
+INFORMATION_MESSAGE_LOW_JOB: Yetersiz iş seviyesi
+INFORMATION_MESSAGE_MAX_GOLD: Maksimum altın limitine ulaşıldı!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Aç değilim!
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Aç değilim!
+INFORMATION_MESSAGE_USER_NOT_CONNECTED: Oyuncu çevrimiçi değil.
+INFORMATION_MESSAGE_USER_NOT_FOUND: Oyuncu bulunamadı.
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Sınıfın değiştirildi!
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Ekipmanın boş değil!
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} seviye atladı!'
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} maksimum seviyeye ulaştı!'
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: İş seviyen yükseldi!
+INFORMATION_SHOUTMESSAGE_LEVELUP: Seviyen yükseldi!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maksimum partner limitine ulaşıldı!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maksimum partner yuvası limitine ulaşıldı!
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maksimum evcil hayvan limitine ulaşıldı!
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maksimum evcil hayvan yuvası limitine ulaşıldı!
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Genel haritada olman gerekiyor.
+INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: Önce gruptan ayrılman gerek.
+INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Yalnızca maceracılar sınıflarını değiştirebilir.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Yetersiz cephane! Teçhizat dükkanından cephane alabilirsin.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Yetersiz cephane! Teçhizat dükkanından cephane alabilirsin.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Yetersiz cephane! Teçhizat dükkanından cephane alabilirsin.
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Uzmanlık Kartı takmıyorsun!
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: Uygun silahı taşımıyorsun!
+INFORMATION_SHOUTMESSAGE_NO_WIG: Peruk takmıyorsun!
+INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Yetersiz CP
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Teçhizatı olan partnerlerine veda edemezsin.
+INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Seni takip etmekte olan partnerlerine veda edemezsin.
+INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Teçhizat partnerine uygun hale getirildi.
+INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Seni takip etmekte olan evcil hayvanlarına veda edemezsin.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: Yetenek öğrenmek için önce Uzmanlık Kartını çıkarmalısın.
+INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Dönüşmek için önce aracından inmelisin.
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Cinsiyetin değiştirildi.
+INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Sunucu {0} saniye içerisinde kapatılacak.
+INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Uzmanlık Kartı geliştirilmek için en az {0} seviye olmalı.
+INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puanlar dağıtıldı.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Seviyen çok düşük!
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Hedef genel haritada değil.
+INSTANT_COMBAT_NAME: Ani Savaş
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Ani Savaş {0} dakika sonra bitecek.
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Canavarlar yaklaşıyor!
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Ani Savaş {0} saniye sonra bitecek.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Ani Savaş'ı kazandın.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Canavarları zamanında yenemediğin için ödül kazanamadın.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: Canavarlar {0} dakika içinde ortaya çıkacak!
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Canavarlar {0} saniye içinde ortaya çıkacak!
+INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Takdim değiştirildi.
+INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: İlk vuruşu sen yapmadığın için tecrübe puanının sadece bir kısmını alıyorsun.
+INTERACTION_LOG_ITEM_NOT_SELLABLE: Dükkanında sadece takaslanabilir şeyleri satabilirsin.
+INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Yetersiz altın.
+INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Envanterinde yer yok!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Meleklerin koruyucu gücü tarafından kutsandın!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Şeytanların koruyucu gücü tarafından kutsandın!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Koruyucu gücünü kaybettin.
+INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Uzmanlık Kartının kanatlarını değiştirebilmek için kart en az +1 olmalı.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Hoparlörü her 30 saniyede kullanabilirsin.
+INTERACTION_VESSEL_LIMIT_REACHED: Bu haritadaki maksimum mühürlü canavar sayısına ulaşıldı.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Bir eşya aldın: {1} x{0} + {2}'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Bir eşya aldın: {1} x{0}'
+INVENTORY_DIALOG_ASK_SORT: Öğelerinizi sıralamak ister misiniz? Bir dakikalık soğuma süresi vardır.
+INVENTORY_DIALOG_ASK_TO_DELETE: Eşyayı silmek istiyor musun?
+INVENTORY_DIALOG_SURE_TO_DELETE: Eşyayı silmek istediğine emin misin? Bu işlem geri alınamaz!
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Yetersiz eşya - {0}x {1}.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Bu eşyaya midye işlenemez!
+ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
+ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
+ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
+ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
+ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
+ITEM_DIALOG_ASK_BIND: Bu eşyayı karakterine bağlamak istediğine emin misin? Karakterine bağlı eşyalar takaslanamaz!
+ITEM_DIALOG_ASK_CHANGE_FACTION: Koruyucu gücünü değiştirmek istiyor musun?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin koruyucu gücünü değiştirmek istiyor musun?
+ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Uzmanlık Kartının kanatlarını değiştirmek istiyor musun?
+ITEM_DIALOG_ASK_OPEN_BOX: Kutuyu açmak istiyor musun?
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: Evcil hayvanı inciden çıkarmak istiyor musun?
+ITEM_DIALOG_ASK_PET_STORE: Evcil hayvanı inciye yerleştirmek istiyor musun?
+ITEM_DIALOG_ASK_USE: Bu eşyayı kullanmak istiyor musun?
+ITEM_DIALOG_WANT_TO_SAVE_POSITION: Pozisyonunu kaydetmek istiyor musun? Kaydedilmiş pozisyonlara Geri Dönüş Tılsımıyla geri dönülebilir.
+ITEM_INFO_PET_NAME_TOO_LONG: Evcil hayvanının adı 14 karakterden fazla uzun olamaz.
+ITEM_MESSAGE_CANT_USE: Bu eşyayı kullanmazsın.
+ITEM_MESSAGE_CANT_WEAR: Bu eşyayı giyemezsin.
+ITEM_MESSAGE_CANT_WEAR_PARTNER: Partnerin bu eşyayı giyemez.
+ITEM_MESSAGE_ERASER_NO_SHELL: Silgi sadece midye işlenmiş teçhizatta kullanılabilir.
+ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Ruhu yok olmuş Uzmanlık Kartlarını geliştiremezsin.
+ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Ruhu yok olmuş Uzmanlık Kartlarını kuşanamazsın.
+ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: '{1}x {0} ürettin.'
+ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Bir ailedeyken bireysel koruyucu güç yumurtalarını kullanamazsın.
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Perinin elementi Uzmanlık Kartınınkiyle uyumsuz.
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Bunu sadece Miniland'deyken yapabilirsin.
+ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
+ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu öğe geçici olarak devre dışı bırakıldı.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Bakım yapıldı.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Bakım süresinin değiştirildi. Başlamak için yeni zaman: {0}saat.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}dakika.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}saniye.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Bakım {0} saat içinde başlayacak.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başlayacak.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
+MESSAGE_UNDER_CHAT_0: 'Lütfen en yeni güncellemeler için web sitemizi kontrol edin: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Discord sunucumuza göz atın: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: "Bir hata mı buldunuz Rapor et: noswings.com/bug-report -> noswings.com/bug-report 'dan bildirin."
+MESSAGE_UNDER_CHAT_3: 'Bir fikrin mi var? Forumumuzda yayınlayın: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Oyun kurallarına uyun: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Herhangi bir ödeme veya oyun içi sorununuz mu var? Support Discord sunucumuza göz atın: noswings.com/support'
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Mini oyun üretim puanları yenilendi.
+MINIGAME_INFO_NO_REWARD: Bu mini oyunda ödül yok.
+MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
+MINIGAME_INFO_REFILL: 'Mini oyun katkısı: {0}'
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Bu mini oyunu oynamak için {0} seviye ve {1} itibar puanına ihtiyacın var.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Miniland sandığına {0}x {1} eklendi.
+MINILAND_DIALOG_ASK_INVITE: "{0}'in Miniland'ine katılmak istiyor musun?"
+MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Üretim puanın yetersiz olduğu için ödül kazanamayacaksın. Yine de oynamak istiyor musun?
+MINILAND_INFO_CHANGED: Miniland'inin tanıtımı yenilendi.
+MINILAND_INFO_DURABILITY_MAXIMUM: Maksimum dayanıklığa ulaşıldı.
+MINILAND_INFO_INVITE_LOCK: Bu oyuncunun Miniland’i kilitli!
+MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Yetersiz ödül kuponu!
+MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Yetersiz dayanıklılık!
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Yetersiz üretim puanı!
+MINILAND_MESSAGE_VISITOR: 'Toplam misafir: {0}, Günlük misafir: {1}'
+MINILAND_SHOUTMESSAGE_CLOSED: Miniland kapandı.
+MINILAND_SHOUTMESSAGE_FULL: Miniland dolu!
+MINILAND_SHOUTMESSAGE_LOCK: Miniland kilitli.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Miniland'in bunun için kilitli olması gerekiyor.
+MINILAND_SHOUTMESSAGE_PRIVATE: Miniland arkadaşlarına özel.
+MINILAND_SHOUTMESSAGE_PUBLIC: Miniland herkese açık.
+MINILAND_WELCOME_MESSAGE: Hoş geldiniz!
+MUTE_CHATMESSAGE_TIME_LEFT: 'Kalan ceza süresi: {0}'
+MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
+MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
+NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Buff paketini aldınız!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Seviyeniz bu buff paketini alamayacak kadar yüksek.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Seviyeniz bu buff paketini alamayacak kadar düşük.
+NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
+OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Artık buff akışlarını engelliyorsun.
+OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Artık buff akışlarını kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC devre dışı
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_ENABLED: DiscordRPC aktif
+OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Artık gülücükleri engelliyorsun.
+OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Artık gülücükleri kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Aile davetlerini engelliyorsun.
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Aile davetlerini kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Arkadaşlık isteklerini engelliyorsun.
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Arkadaşlık isteklerini kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Grup davetlerini engelliyorsun.
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_ENABLED: Artık grup davetlerini kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Şapkan görünür
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Şapkan görünmez
+OPTIONS_SHOUTMESSAGE_HP_DISABLED: YP Yenileme bilgileri devre dışı
+OPTIONS_SHOUTMESSAGE_HP_ENABLED: YP Yenileme bilgileri aktif
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Miniland davetlerini engelliyorsun.
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Miniland davetlerini kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Fare kapanı devre dışı
+OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Fare kapanı aktif
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Öldükten sonra partnerin Miniland'e geri döner.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Öldükten sonra partnerin Güç Tohumlarıyla yeniden canlanır.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Öldükten sonra evcil hayvanın Miniland'e geri döner.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Öldükten sonra evcil hayvanın Güç Tohumlarıyla yeniden canlanır.
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Hızlı kalkma devre dışı
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Hızlı kalkma aktif
+OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Hoparlörler devre dışı
+OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Hoparlörler aktif
+OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Takas isteklerini engelliyorsun.
+OPTIONS_SHOUTMESSAGE_TRADE_ENABLED: Takas isteklerini kabul ediyorsun.
+OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI devre dışı
+OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI aktif
+OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Fısıltıları engelliyorsun.
+OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Fısıltıları kabul ediyorsun.
+PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Yeni bir partnerin oldu: {0}!'
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: Partnerin her şeyi yedi.
+PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partnerin şimdi Uzmanlık Kartını kuşanabilir.
+PARTNER_DIALOG_ASK_SLOT_INCREASE: Partner yuvasını genişletmek istiyor musun?
+PARTNER_INFO_IS_WEARING_SP: Partnerin zaten bir Uzmanlık Kartı takıyor.
+PARTNER_INFO_LEAVE_BEAD: Partner incisinden çıkıyor.
+PARTNER_INFO_LEVEL_IS_TOO_LOW: Partnerin seviyesi yetersiz.
+PARTNER_INFO_NEED_AGILITY_POINTS: Partnerin hüneri yetersiz.
+PARTNER_INFO_NO_PARTNER_IN_TEAM: Seni takip eden bir partner yok.
+PARTNER_INFO_RELEASED: Partnerine veda ediyorsun.
+PARTNER_INFO_SP_NEW_SKILL: Partnerin yeni bir yetenek öğrendi!
+PARTNER_INFO_STORED: Partnerin inciye yerleştirildi.
+PARTNER_MESSAGE_100_AGILITY: Partnerin hüneri 100% oldu.
+PARTNER_MESSAGE_KICKED: Partnerini Miniland'e gönderdin.
+PARTNER_MESSAGE_NO_SP_EQUIPPED: Partnerin bir Uzmanlık Kartı takmıyor.
+PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Bu partnere zaten sahipsin.
+PARTNER_SHOUTMESSAGE_LEVEL_UP: Partnerin {0} seviye atladı.
+PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partnerin koruyucu melekler tarafından yeniden canlandırıldı.
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Partnerin Uzman Kartı dönüşümü için kalan süre: {0} saniye'
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner Miniland'e geri döndü.
+PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partnerin üç dakika sonra yeniden canlanacak.
+PERFECTSP_ATTACK: Saldırı
+PERFECTSP_DEFENSE: Savunma
+PERFECTSP_ELEMENT: Element
+PERFECTSP_FIRE: Ateş Direnci
+PERFECTSP_HPMP: YP/BP
+PERFECTSP_LIGHT: Işık Direnci
+PERFECTSP_MESSAGE_FAILURE: Mükemmelleştirme başarısız!
+PERFECTSP_MESSAGE_SUCCESS: 'Mükemmelleştirme başarılı: {0} +{1}'
+PERFECTSP_SHADOW: Gölge Direnci
+PERFECTSP_WATER: Su direnci
+PERSONAL_SHOP_LOG_PURCHASE_BUYER: '{1}x {0} satın aldın.'
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} {2}x {1} satın aldı.'
+PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Evcil hayvanın zaten yerden eşya toplayabiliyor!
+PET_CHATMESSAGE_BEAD_EXTRACT: 'Yeni bir evcil hayvanın oldu: {0}!'
+PET_CHATMESSAGE_CAN_PICK_UP: Evcil hayvanın artık yerden eşya toplayabilecek.
+PET_CHATMESSAGE_EAT_EVERYTHING: Evcil hayvanın her şeyi yedi.
+PET_DIALOG_ASK_SEND_BACK: Evcil hayvanını Miniland'e geri göndermek istiyor musun?
+PET_DIALOG_ASK_SLOT_INCREASE: Evcil hayvan yuvasını genişletmek istiyor musun?
+PET_INFO_LEAVE_BEAD: Evcil hayvan incisinden çıkıyor.
+PET_INFO_RELEASED: Evcil hayvanına veda ediyorsun.
+PET_INFO_STORED: Evcil hayvanın inciye yerleştirildi.
+PET_MESSAGE_ALREADY_IN_TEAM: Evcil hayvan zaten seni takip ediyor.
+PET_MESSAGE_IS_ALREADY_SUMMONABLE: Evcil hayvanını zaten çağırabiliyorsun.
+PET_MESSAGE_KICKED: Evcil hayvanını Miniland'e gönderdin.
+PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin.
+PET_SHOUTMESSAGE_HIGHER_LEVEL: Evcil hayvanının seviyesi seninkinden yüksek!
+PET_SHOUTMESSAGE_LEVEL_UP: '{0} seviye atladı!'
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Evcil hayvan Miniland'e döndü.
+PET_SHOUTMESSAGE_WILL_BE_BACK: Evcil hayvanın üç dakika sonra yeniden canlanacak.
+PET_SHOUTMESSGE_SAVED_BY_SAVER: Evcil hayvanın koruyucu melekler tarafından yeniden canlandırıldı.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Merhamet Sistemi] {0} => [{1}/{2}], ödül şansı: %{3}'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Merhamet Sistemi] Ekstra ödül olarak {0} kazandın!'
+PORTAL_CHATMESSAGE_BLOCKED: Kilitli!
+PORTAL_CHATMESSAGE_TOO_EARLY: Kısa süre içerisinde ilerleyebilirsin.
+PSP_AEGIR: Kızgın Aegir
+PSP_AMON: Gözetmen Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Başşeytan Amon
+PSP_BARNI: Akıllı Barni
+PSP_CHEONGBI: Imp Cheongbi
+PSP_CHLOE: Kovboy Kız Chloe
+PSP_DANIEL: Daniel Ducats
+PSP_DIALOG_ASK_RESET_ALL_SKILLS: Partner Uzmanlık Kartının tüm yeteneklerini sıfırlamak istiyor musun?
+PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Bu yeteneği sıfırlamak istiyor musun?
+PSP_ELIZA: Buz Prensesi Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya
+PSP_GUARDIAN_LUCIFER: Koruyucu Lucifer
+PSP_HARLEQUIN: Harlequin
+PSP_HONGBI: Imp Hongbi
+PSP_JINN: Cin
+PSP_LAURENA: Cadı Laurena
+PSP_LOTUS: Zarif Lotus
+PSP_LUCIFER: Başmelek Lucifer
+PSP_LUCY: Lucy Lopears
+PSP_MACAVITY: Denek
+PSP_MAD_MARCH_HARE: Deli Mart Tavşanı
+PSP_MARU: Maru
+PSP_MESSAGE_ALL_SKILLS_RESET: Partnerin tüm yetenekleri sıfırlandı.
+PSP_MESSAGE_ONE_SKILL_RESET: Yetenek sıfırlandı.
+PSP_MOTHER_MARU: Anne Kürkünde Maru
+PSP_NELIA: Su Perisi Nelia
+PSP_ORKANI: Fırtınalı Orkani
+PSP_PALINA: Palina Kukla Ustası
+PSP_PERTI: Tek Kanatlı Melek Perti
+PSP_PHARAOH: Lanetli Firavun Akhenaton
+PSP_RAGNAR: Kemik Savaşçısı Ragnar
+PSP_SHERIFF_CHLOE: Şerif Chloe
+PSP_SHINOBI: Sessiz Shinobi
+PSP_VENUS: Küçük Prenses Venüs
+PSP_YUNA: Büyülü Öğrenci Yuna
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} toplandı: [{1}/{2}]'
+QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
+QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
+QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Zaten bir ana görev yapıyorsun.
+QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış görevlerin var.
+QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için yetersiz.
+QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0}, {1} akını için yardım arıyor!'
+RAID_CHATMESSAGE_GROUP_REQUEST: '{0} takıma davet edildi.'
+RAID_CHATMESSAGE_KICKED: Takımdan kovuldun.
+RAID_CHATMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
+RAID_CHATMESSAGE_LEFT: '{0} takımdan ayrıldı.'
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Seviyen önerilen seviyeden yüksek olduğu için akın başarılı olsa bile sandık kazanamayacaksın.
+RAID_CHATMESSAGE_LOW_LEVEL: Bu akına katılmak için en az {0} seviye olman gerekiyor.
+RAID_CHATMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın bulunamadı veya çoktan başlamış.
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece lider akını başlatabilir.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Bir akın takımına üye değilsin.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın buradan başlatılamaz.
+RAID_CHATMESSAGE_X_JOINED: '{0} takıma katıldı.'
+RAID_DIALOG_ASK_START_RAID: '{0} akınını başlatmak istiyor musun?'
+RAID_DIALOG_INVITED_YOU: "{0}'ın akın takımına katılmak istiyor musun?"
+RAID_INFO_NO_EXIST: Akın bulunamadı.
+RAID_INFO_NO_LIVES_LEFT: Tüm canlarını kullandın.
+RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
+RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
+RAID_NAME_CASTRA: Karanlık Castra
+RAID_NAME_CHICKENKING: Tavuk Kral
+RAID_NAME_CUBY: Anne Cuby
+RAID_NAME_GIANTBLACKSPIDER: Dev Siyah Örümcek
+RAID_NAME_GINSENG: Ginseng
+RAID_NAME_NAMAJU: Namaju
+RAID_NAME_SLADE: Dev Slade
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten bir akın takımına üyesin.
+RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Çoktan kullanılmış.
+RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Akın takımı kurmak için gruptan çıkmalısın.
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Grup üyelerini akın takımına davet edemezsin.
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Arenadayken akın takımına katılamazsın.
+RAID_SHOUTMESSAGE_COMPLETED: '{0} ve takımı {1} akınını başarıyla tamamladı!'
+RAID_SHOUTMESSAGE_IN_GROUP: Gruptayken akın takımına katılamazsın.
+RAID_SHOUTMESSAGE_KICKED: Akın takımından kovuldun!
+RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
+RAID_SHOUTMESSAGE_LEFT: '{0} takımdan ayrıldı.'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Düşmanlar takviye alıyor!
+RAID_SHOUTMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Takım üyesi {0} öldü.
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Akın takımı dolu!
+RAID_SHOUTMESSAGE_REGISTERED: Akın listeye eklendi!
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
+RAID_SHOUTMESSAGE_TARGETS_UPDATED: Hedefler güncellendi.
+RAID_SHOUTMESSAGE_UNREGISTERED: Akın listeden çekildi.
+RAID_SHOUTMESSAGE_X_JOINED: '{0} takıma katıldı.'
+RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Yeniden canlanma noktanı değiştirmek istiyor musun?
+RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Yeniden canlanma noktan değiştirildi.
+REVIVE_DIALOG_ARENA: '{0} altın karşılığında yeniden canlanmak istiyor musun?'
+REVIVE_DIALOG_FREE: Ücretsiz olarak yeniden canlanmak istiyor musun? ({0} seviye ve altı)
+REVIVE_DIALOG_SEEDS_OF_POWER: '{0} Güç Tohumu karşılığında yeniden canlanmak istiyor musun?'
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Midyeyi değiştirmek için önce parfüm kullanarak kendine bağlamalısın.
+SHELLS_DIALOG_ADD_OPTIONS: Midyeyi işlemek istiyor musun? Bunu yaparsan eşya karakterine bağlanacak.
+SHELLS_DIALOG_REPLACE_OPTIONS: '%50 şansla bu midyeyi teçhizatına işlemek istiyor musun? Başarısız olursan midyeni kaybedeceksin.'
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Midye tanımlanamadı.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Bu midyenin seçenekleri zaten tanımlanmış.
+SHELLS_SHOUTMESSAGE_BROKEN: İşlem başarısız olduğu için midye kırıldı.
+SHELLS_SHOUTMESSAGE_ERASED: Midye seçenekleri silindi.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Bu midye sadece zırhta kullanılabilir!
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Bu midye sadece silahta kullanılabilir!
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Seçenekler tanımlandı.
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Midyenin seviyesi çok yüksek!
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Kullanılmadan önce midyenin seçenekleri tanımlanmalı!
+SHELLS_SHOUTMESSAGE_OPTION_SET: Midye seçenekleri eklendi.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Midyenin nadirlik seviyesi çok yüksek!
+SHIP_CHATMESSAGE_LEVEL_REQ: Bu gemiye binebilmek için en az {0} seviye olmalısın.
+SHIP_SHOUTMESSAGE_COOLDOWN: Gemi henüz dönmedi.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içerisinde hareket edecek.
+SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içerisinde hareket edecek.
+SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.
+SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Dükkanda sadece takaslanabilir eşyaları satabilirsin.
+SHOP_DEFAULT_NAME: Dükkan
+SHOP_INFO_ALREADY_OPEN: Zaten bir dükkan açtın.
+SHOP_INFO_NEAR_PORTAL: Dükkanı kapıya bu kadar yakın açamazsın!
+SHOP_INFO_NOT_ALLOWED: Dükkan açmak için belirlenen alanları kullan!
+SHOP_INFO_NOT_ALLOWED_IN_RAID: Akın üyeleri dükkan açamaz.
+SHOP_INFO_OPEN: Dükkan açıldı.
+SHOP_INFO_TARGET_MAX_GOLD: Dükkan sahibi maksimum altın limitine ulaştı!
+SHOP_LOG_SELL_ITEM_VALID: Alışveriş başarılı
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Bu yeteneğe zaten sahipsin.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Dönüşüm halindeyken yetenek öğrenemezsin.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Önce temel yeteneği öğrenmen gerek.
+SKILL_CHATMESSAGE_NOT_TO_REFUND: Yetenek silinemez!
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Büyü uygulaması kesildi.
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Bu türdeki mevcut beceri yükseltmesini değiştirmek istiyor musun?
+SKILL_SHOUTMESSAGE_CANT_LEARN: Bu yeteneği öğrenemezsin!
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Yeni yetenek öğrenmek için soğuma sürelerinin dolmasını beklemelisin.
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Evcilleştirme başarısız!
+SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Bu canavarı evcilleştiremezsin!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Bu canavarı akın sırasında evcilleştiremezsin!
+SKILL_SHOUTMESSAGE_CAUGHT_PET: 'Evcilleştirilen canavar: {0}!'
+SKILL_SHOUTMESSAGE_LEARNED: Yeni bir yetenek öğrendin.
+SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Evcilleştireceğin canavarın seviyesi seninkinden az olmalı!
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Canavar evcilleştirilmeden önce yaşam puanları yarıya indirilmeli!
+SKILL_SHOUTMESSAGE_SACRIFICE: '{0} kendini {1} için feda ediyor.'
+SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Feda etkisi kayboldu çünkü hedef menzil dışında.
+SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Feda etkisi kaybolabilir çünkü hedef menzil dışına çıkıyor.
+SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tüm yeteneklerin dolmasını beklemelisin!
+SPEAKER_NAME: Hoparlör
+SPECIALIST_CHATMESSAGE_SP_BLOCKED: Henüz Uzmanlık Kartını kuşanamazsın.
+SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Uzmanlık Kartı artık kuşanılabilir.
+SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Bunu yapmak için Uzmanlık Kartını kuşatmış olmalısın.
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Henüz saldıramazsın.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
+SPECIALIST_SHOUTMESSAGE_LEVELUP: Uzmanın seviyesi yükseldi!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Uzman Kartı dönüşümü için {0} SP puanına ihtiyacın var.
+SPECIALIST_SHOUTMESSAGE_NO_POINTS: SP puanın bittiği için Uzmanlık Kartına dönüşemezsin.
+SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Kötü bir etki yüzünden Uzmanlık Kartını çıkartamazsın.
+SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: '{0} SP puanı eklendi!'
+SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP puanları sıfırlandı!
+SPECIALIST_SHOUTMESSAGE_RESURRECTED: Uzmanlık Kartının ruhu yeniden canlandırıldı.
+SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Bunu yapabilmek için Uzmanlık Kartını kuşatman gerekiyor.
+SUM_MESSAGE_FAILED: Birleştirme başarısız.
+SUM_MESSAGE_SUCCESS: Birleştirme başarılı!
+TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
+TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu Uzay-Zaman'a katılamayacak kadar düşük.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: 'Seviye cezası nedeniyle puanın %{0} azaltıldı.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Bir grup üyesinin Uzay-Zaman'a katılmak ister misin?
+TIMESPACE_DIALOG_ASK_REVIVAL: Dirilmek istiyor musun?
+TIMESPACE_DIALOG_ASK_START: İlk odaya girmek istiyor musun?
+TIMESPACE_DIALOG_ASK_START_RECORD: Rekor modunda bir Uzay-Zaman başlatmak istiyor musunuz? {0} altına mal olacak.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Uzay-Zaman çoktan başladı.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Kapı açıldı.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Bir yerde bir kapı açıldı
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hızlı Görevi başarıyla tamamladın.
+TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-Zaman dolu.
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
+TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
+TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı
+TITLE_INFO_EFFECT_ENABLED: Unvanın etkisi aktif
+TITLE_INFO_UNLOCKED: Unvan açıldı
+TITLE_INFO_VISIBLE_DISABLED: Unvan görünmez
+TITLE_INFO_VISIBLE_ENABLED: Unvan görünür
+TRADE_CHATMESSAGE_BLOCKED: Oyuncu takas isteklerini reddediyor.
+TRADE_CHATMESSAGE_REFUSED: '{0} takas isteğini reddetti.'
+TRADE_CHATMESSAGE_YOU_REFUSED: Takas reddedildi.
+TRADE_DIALOG_ASK_FOR_TRADE: 'Takas isteği gönderildi: {0}'
+TRADE_DIALOG_INCOMING_EXCHANGE: '{0} [{1}(+{2})] seninle takas yapmak istiyor.'
+TRADE_INFO_PLAYER_IN_BATTLE: Savaş sırasında takas yapılamaz.
+TRADE_INFO_WAITING_FOR_TARGET: '{0} bekleniyor.'
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Oyuncu başkasıyla takas yapıyor.
+TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Dükkan sahipleriyle takas yapamazsın.
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Eşya takas edilemez.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Akın içerisinde takas yapamazsın.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Akın takımı üyeleriyle takas yapamazsın.
+UPGRADE_MESSAGE_FAILED: Geliştirme başarısız.
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Geliştirme başarısız ama eşyan korundu.
+UPGRADE_MESSAGE_FIXED: Seviye sabitlendi.
+UPGRADE_MESSAGE_SP_DESTROYED: Uzmanlık Kartının ruhu yok oldu!
+UPGRADE_MESSAGE_SP_FAILED: Geliştirme başarısız.
+UPGRADE_MESSAGE_SP_FAILED_SAVED: Geliştirme başarısız ama Uzmanlık Kartın korundu.
+UPGRADE_MESSAGE_SP_SUCCESS: Geliştirme başarılı!
+UPGRADE_MESSAGE_SUCCESS: Geliştirme başarılı!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Boşanmak ister misin?
+WEDDING_DIALOG_REQUEST_RECEIVED: '{0} sana aşkını ilan ediyor!!! Evlenmeyi kabul ediyor musun?'
+WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
+WEDDING_INFO_DIVORCED: Boşandınız. Geçmiş olsun.
+WEDDING_SHOUTMESSAGE_BROADCAST: '{0} ve {1} evlendi! Darısı başınıza!'
+WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenmek teklifini reddetti! Aga be!"

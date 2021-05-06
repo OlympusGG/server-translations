@@ -1,0 +1,726 @@
+ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
+ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
+ACT4_CHATMESSAGE_PVP_ANGELS: andělé
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
+ACT4_CHATMESSAGE_PVP_DEMONS: démoni
+ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce strany {0}.'
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Pro vstup je potřeba být členem rodiny!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do podzemí tě bude stát {0} bodů reputace. Opravdu chceš vejít dovnitř?
+ACT4_DUNGEON_REVIVAL_DIALOG: Oživení zde vás bude stát {0} bodů reputace. Při zrušení budete teleportováni na začátek. Potvrzujete oživení na místě?
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Místnost s bossem byla uzavřena.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss byl poražen!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Místnost s bossem je nyní otevřena.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při centrální věži na mapě Bitoren Tundra!
+ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou stranu a mají ochrannou moc.
+ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor andělů
+ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor démonů
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
+ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
+AMMO_LOADED_ADVENTURER: Náboje nabity!
+AMMO_LOADED_ARCHER: Šíp připraven!
+AMMO_LOADED_SWORDSMAN: Šíp připraven v kuši!
+ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
+ARENA_INFO_ASK_ENTER: Opravdu chceš vstoupit do inviduální arény? Bude tě to stát {0} zlata.
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem: {1}'
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Již u sebe máš Cuarry Bank Debit Card.
+BANK_DIALOG_ASK_DEPOSIT: Opravdu chceš vložit {0}000 zlata na svůj bankovní účet?
+BANK_DIALOG_ASK_WITHDRAW: Opravdu chceš vybrat {0}000 zlata ze svého bankovního účtu?
+BANK_INFO_NOT_ENOUGH_FUNDS: Není dostatek hotovosti.
+BANK_INFO_TOO_MUCH_GOLD: Máš moc zlata!
+BANK_LOG_OPEN_BANK: Vítej v bance! S čím vám mohu pomoci?
+BANK_LOG_WITHDRAW_BANK: '{0}000 zlata vybráno.'
+BANK_MESSAGE_BALANCE: Máš {0} zlata ve své bance.
+BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
+BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
+BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finanční prostředky byly zaslány na bankovní účet.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána do NosBazaru.
+BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
+BAZAAR_INFO_MAINTENANCE_MODE: NosBazar je v údržbě.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Bylo dosaženo maximálního počtu nabízených položek.
+BAZAAR_INFO_NEEDS_MEDAL: Nemáš Medaili NosKupce.
+BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena položky překračuje limit.
+BAZAAR_INFO_RESYNC: Změna ceny položky se nezdařila. Zkus to znovu.
+BAZAAR_QNA_CHANGE_PRICE_FEE: Chceš změnit cenu položky? Bude to stát {0} zlata.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Položka přidána na NosBazar
+BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena položky změněna
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Varování! Při používání NosBaazaru tě mohou napadnout monstra!
+BLACKLIST_INFO_ADDED: Hráč přidán na černou listinu!
+BLACKLIST_INFO_BLOCKED: Tento hráč vás zablokoval!
+BLACKLIST_INFO_BLOCKING: Zablokoval jsi tohoto hráče!
+BLACKLIST_INFO_DELETED: Hráč odebrán z černé listiny!
+BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Žádný účinek díky imunitě.
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Ztratil jsi efekt {0}.
+BUFF_CHATMESSAGE_SIDE_EFFECTS: Vedlejší účinky efektu {0} začaly.
+BUFF_CHATMESSAGE_UNDER_EFFECT: Jsi pod vlivem {0}.
+CELLON_SHOUTMESSAGE_FAIL: Cellon zmizel, protože se ti nepodařilo přidat vlastnosti.
+CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Cellonu je pro toto příslušenství příliš vysoká.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Sloty pro příslušenství jsou již plné!
+CELLON_SHOUTMESSAGE_SUCCESS: Vlastnost přidána.
+CHARACTER_CREATION_INFO_ALREADY_TAKEN: Toto jméno je již obsazeno!
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Název vaší postavy obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord! 
+CHARACTER_CREATION_INFO_INVALID_CHARNAME: Vaše jméno obsahuje neplatné znaky!
+CHARACTER_DELETION_INFO_FAILED: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
+CLASS_NAME_ADVENTURER: Dobrodruh
+CLASS_NAME_ARCHER: Lukostřelec
+CLASS_NAME_MAGE: Mág
+CLASS_NAME_MARTIAL_ARTIST: Mistr boje
+CLASS_NAME_SWORDSMAN: Bojovník s mečem
+COMMAND_CHATMESSAGE_LANGUAGE_CHANGED: 'Změnil jsi hru do jazyka:'
+COMMAND_CHATMESSAGE_LANGUAGE_CURRENT: Aktuální jazyk je
+COMMANDS_CHATMESSAGE_AVAILABLE: 'Dostupné příkazy:'
+COMMANDS_CHATMESSAGE_HELP: '[Nápověda - příkazy]'
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Nedokumentováno.
+COMMANDS_CHATMESSAGE_USAGES: '[Použití příkazu]'
+COMMEND_CHATMESSAGE_COOLDOWN: Můžeš pochválit hráče jen jednou za den.
+COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl pochválen.
+COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pochválit, musíš počkat {0} minut.
+COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyšším jak 30.
+COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
+DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
+DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
+DOLL_MESSAGE_MATE_ATTACK_FAIL: Vylepšení úrovně útoku tvého Mazlíčka se nezdařilo.
+DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Úroveň útoku tvého Mazlíčka se zvýšila! +{0} -> +{1}
+DOLL_MESSAGE_MATE_DEFENSE_FAIL: Vylepšení úrovně obrany tvého Mazlíčka selhala.
+DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Úroveň obrany tvého Mazlíčka se zvýšila! +{0} -> +{1}
+DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
+DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
+DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato loutka je k úrovni tvého Mazlíčka nedostatečná!
+DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
+DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
+FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
+FAIRYSTONES_MESSAGE_INSERT_FAILED: Vložení Vílího kamene se nezdařilo.
+FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Vložení Vílího kamene proběhlo úspěšně!
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Vílí kámen nelze vložit do vybavení pro levely hrdinů (C1+).
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Vílího kamene je příliš velká pro tento předmět.
+FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Do tohoto předmětu nelze vložit další Vílí kamene.
+FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Vílí kámen lze vložit pouze do zbraní a brnění.
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil do hry!'
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Rodinný upgrade zakoupen!
+FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Tento člen rodiny již má příslušné oprávnění.
+FAMILY_DIALOG_ASK_DISMISS_FAMILY: Opravdu chceš rozpustit rodinu? Nepůjde to vrátit zpátky!
+FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Opravdu se chceš připojit do této rodiny?
+FAMILY_DIALOG_ASK_JOIN_FAMILY: Byl jsi pozván do rodiny {0} od {1}, chceš se připojit?
+FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: Nemůžeš změnit svoje oprávnění.
+FAMILY_DIALOG_CANNOT_KICK_YOURSELF: Sám sebe z rodiny vyhodit nemůžeš.
+FAMILY_DIALOG_CHANGE_HEAD: Chceš změnit hlavu rodiny?
+FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Hlava rodiny nemůže opustit rodinu, aniž by jí celou rozpustila!
+FAMILY_INFO_ALREADY_IN_FAMILY: Již jsi v rodině.
+FAMILY_INFO_ASK_FAMILY_LEAVE: Opravdu chceš opustit rodinu?
+FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Nemůžeš dát ostatním stejná oprávnění.
+FAMILY_INFO_CREATION_BANNED_NAME: Název vaší rodiny obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord! 
+FAMILY_INFO_CREATION_GROUP_REQUIRED: Musíš být ve skupině, aby bylo možné založit rodinu.
+FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Někdo z vaší skupiny je již v rodině nebo nedávno opustil rodinu.
+FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Dosažen maximální počet zástupců.
+FAMILY_INFO_FULL: Rodina je plná.
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Někdo ve tvé skupině již je členem rodiny!
+FAMILY_INFO_GROUP_NOT_FULL: Není možné vytvořit rodiny aniž by skupina byla plná!
+FAMILY_INFO_INVITATION_NOT_ALLOWED: Nemáš oprávnění pozvat do rodiny hráče!
+FAMILY_INFO_INVITATION_REFUSED: Hráč odmítl pozvání do rodiny.
+FAMILY_INFO_KEEPER_LIMIT_REACHED: Dosažen maximální počet správců.
+FAMILY_INFO_LEAVE: Opustil jsi rodinu.
+FAMILY_INFO_NAME_ALREADY_USED: Jméno této rodiny je již používáno!
+FAMILY_INFO_NO_FAMILY: Nemáš žádnou rodinu.
+FAMILY_INFO_NO_FAMILY_RIGHT: Na tuto akci nemáš dostatečná práva.
+FAMILY_INFO_NO_FAMILY_WAREHOUSE: Nebyl nalezen rodinný sklad.
+FAMILY_INFO_NOT_FAMILY_HEAD: Nejsi hlava rodiny!
+FAMILY_INFO_NOT_IN_FAMILY: Nejsi v rodině!
+FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Rodinný servis je v současné době v údržbě.
+FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Tento hráč musí být zástupce!
+FAMILY_INFO_USED_DAILY_MESSAGE: Denní zpráva již vyčerpána.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nemůžeš přidat tento předmět do rodinného skladu.
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nemáš dostatek oprávnění k této akci.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosím zkuste to znovu později.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Aby jsi toto mohl zakoupit je nejdříve třeba předešlého upgradu.
+FAMILY_RANK_DEPUTY: Zástupce
+FAMILY_RANK_HEAD: Hlava
+FAMILY_RANK_KEEPER: Správce
+FAMILY_RANK_MEMBER: Člen
+FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodina už je této strany!
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Změna rodinné strany je momentálně v cooldownu.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Chceš se znovu připojit k rodině? Musíš nejdříve počkat 24 hodin.
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Hlava rodiny změněna.
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodina '{0}' byla založena!
+FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Hlava rodiny změnila své pohlaví!
+FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla levelu {0}!
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
+FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stát {0} zlata.
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se připojil do hry.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
+FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Chceš se stát přáteli s {0}?
+FRIEND_INFO_ADDED: Žádost o přátelství přijata!
+FRIEND_INFO_ALREADY_FRIEND: '{0} je již tvým přítelem!'
+FRIEND_INFO_DELETED: Přítel odebrán!
+FRIEND_INFO_FRIENDLIST_FULL: Tvůj list přátel je již plný!
+FRIEND_INFO_REFUSED: Žádost o přátelství odmítnuta!
+FRIEND_INFO_REQUEST_BLOCKED: Tento hráč blokuje žádosti o přátelství.
+FRIEND_MESSAGE_NOT_FRIEND: Nejste přátelé!
+FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není ve tvém seznamu přátel.
+FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je v nepřátelské straně.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Není možné sázet předměty se zafixovaným levelem.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto není možné sázet s nehrdinskými předměty.
+GAMBLING_INFO_AMULET_DESTROYED: 'UPOZORNĚNÍ: Ochranné kouzlo vypršelo.'
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: Už máš nejvyšší možnou raritu!
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Díky amuletu nebyl předmět zničen!
+GAMBLING_MESSAGE_FAILED: Sázení selhalo! Předmět byl zničen!
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Sázení selhalo, ale předmět byl zachráněn před zničením.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: Nemůžeš sázet s hrdinským předmětem.
+GAMBLING_MESSAGE_SUCCESS: 'Sázení úspěšné! Nová rarita: {0}'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: Chceš se zúčastnit {0}?
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Chceš se zúčastnit {0}? Bude tě to stát {1}.
+GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Nemůžeš se napojit na event když nejsi na obecné mapě.
+GAMEEVENT_MESSAGE_START: '{0} započal.'
+GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Na event není dostatek hráčů.
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} začne za {1} minut.'
+GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} začne za {1} sekund.'
+GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} skončí za minutku.'
+GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] pro: {2}'
+GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] pro všechny
+GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} odmítl tvoji žádost o skupinu.'
+GROUP_DIALOG_ASK_SHARE_POINT: Chceš nastavit sdílení bodů s {0}?
+GROUP_DIALOG_INVITED_YOU: '{0} ti zaslal pozvánku do skupiny'
+GROUP_INFO_ADMIN: Nyní jsi správcem skupiny!
+GROUP_INFO_ALREADY_IN_GROUP: Již jsi ve skupině!
+GROUP_INFO_BLOCKED: Hráč blokuje pozvánky do skupiny.
+GROUP_INFO_FULL: Skupina je plná.
+GROUP_INFO_JOIN: Připojil jsi se do skupiny hráče {0}!
+GROUP_INFO_LEFT: Opustil jsi skupinu.
+GROUP_INFO_NEW_LEADER: Jsi novým vůdcem skupiny!
+GROUP_INFO_REQUEST: Žádost o skupinu odeslána hráči {0}.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Požádali jste o sdílení svého místa návratu se členy skupiny. 
+GROUP_SHOUTMESSAGE_CLOSED: Skupina rozpuštěna.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} změnil místo návratu.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} odmítl sdílení místa návratu se členy skupiny.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Změnil jsi stejné místo návratu pro členy skupiny.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Odmítl jsi sdílet místo návratu se členy skupiny.
+GROUP_SHOUTMESSAGE_SHARING: 'Sdílení kořisti: všichni'
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Sdílení kořisti: podle pořadí'
+GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Nejsi správcem skupiny!
+HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Pokus selhal! Zkus to znovu za {0} sekund.
+HARVEST_SHOUTMESSAGE_TRY_FAIL: Bohužel, pokus selhal.
+IC_1_49_W1_TITLE: Vlna první 1 - Slaboušci!
+IC_1_49_W2_TITLE: Vlna první 2 - Zeleňáci
+IC_1_49_W3_TITLE: Vlna první 3 - Červeňáci
+IC_1_49_W4_TITLE: Vlna první 4 - Žluťáci
+IC_1_49_W5_TITLE: Vlna první 5 - Letouni
+IC_50_59_W1_TITLE: Wave 1 - Slabší démoni
+IC_50_59_W2_TITLE: Wave 2 - Utíkej!
+IC_50_59_W3_TITLE: Wave 3 - Silnější démoni
+IC_50_59_W4_TITLE: Wave 4 - Nestvůry z Kremu
+IC_50_59_W5_TITLE: Wave 5 - Pavouci
+IC_60_69_W1_TITLE: Wave 1 - Duchové
+IC_60_69_W2_TITLE: Wave 2 - Kočičárna
+IC_60_69_W3_TITLE: Wave 3 - BDSM podsvětí
+IC_60_69_W4_TITLE: Wave 4 - Měděný koule
+IC_60_69_W5_TITLE: Wave 5 - Rytíři pekla
+IC_70_79_W1_TITLE: Wave 1 - Jedlový les
+IC_70_79_W2_TITLE: Wave 2 - Javorový les
+IC_70_79_W3_TITLE: Wave 3 - Vlhké jeskyně Moist Caves
+IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
+IC_70_79_W5_TITLE: Wave 5 - Rytíři nebes
+IC_80_89_W1_TITLE: Wave 1 - Sladi!
+IC_80_89_W2_TITLE: Wave 2 - Zombíci!
+IC_80_89_W3_TITLE: Wave 3 - Příšery pouště
+IC_80_89_W4_TITLE: Wave 4 - Mrchy z písku
+IC_80_89_W5_TITLE: Wave 5 - Shayovy síly
+IC_90_150_0_24H_W1_TITLE: Wave 1 - Palác utrpení
+IC_90_150_0_24H_W2_TITLE: Wave 2 - Sopečná erupce
+IC_90_150_0_24H_W3_TITLE: Wave 3 - Ohnivý meč
+IC_90_150_0_24H_W4_TITLE: Wave 4 - Brány do pekel
+IC_90_150_0_24H_W5_TITLE: Wave 5 - Brány do nebes
+IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruindy nebes
+IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruiny pekel
+IC_90_150_25_44H_W3_TITLE: Wave 3 - Základna Zeolotů!
+IC_90_150_25_44H_W4_TITLE: Wave 4 - Základna Crusaderů!
+IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloanovo místo odpočinku
+IC_90_150_45_70H_W1_TITLE: Wave 1 - Neznámí krajané!
+IC_90_150_45_70H_W2_TITLE: Wave 2 - Příšery pekel
+IC_90_150_45_70H_W3_TITLE: Wave 3 - Zamžená stvoření
+IC_90_150_45_70H_W4_TITLE: Wave 4 - Orkové
+IC_90_150_45_70H_W5_TITLE: Wave 5 - Chladné místo...
+ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Nemůžeš rozmrazit hráče, kterého jsi zmrazil!
+ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Jsi moc daleko k rozmrazení!
+ICEBREAKER_NAME: Ledoborec
+ICEBREAKER_SHOUTMESSAGE_END: Event Ledoborec ukončen.
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Připrav se k boji!
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} byl zmražen.'
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} byl rozmražen.'
+ICEBREAKER_SHOUTMESSAGE_STARTED: Ledoborec započal
+ICEBREAKER_SHOUTMESSAGE_WIN: Vyhrál jsi Ledoborec!
+INFORMATION_CHANNEL: Kanál
+INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Tohle teď nemůžu použít!
+INFORMATION_CHATMESSAGE_NO_WINGS: Nemáš žádné Křídla přátelství!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nedostatek mana bodů!
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nedostatek bodů reputace!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Tvůj level je příliš nízký!
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Tento předmět není tvůj!
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Medaile NosMerchant je momentálně aktivní.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformace specialisty Partnera má cooldown: {0} sekund.'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputace snížena: -{0}!'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputace zvýšena: +{0}!'
+INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Použití {1}x {0}
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Svitek Ochrany byl použit!
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Transformace specialisty má cooldown: {0} sekund.'
+INFORMATION_CHATMESSAGE_USER_NOT_HERO: Nemáš oprávnění toto použít.
+INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Uživatel má blokované soukromé zprávy!
+INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Odesláno hráči '{0}' na kanálu {1}.
+INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP body: +{0}'
+INFORMATION_HERO_LEVELUP: Hrdinská úroveň byla zvýšena!
+INFORMATION_INFO_PLAYER_IN_BATTLE: Hráč {0} je právě v bitvě.
+INFORMATION_INFO_PLAYER_OFFLINE: Hráč není online!
+INFORMATION_MESSAGE_LOW_JOB: Tvá úroveň práce je příliš nízká!
+INFORMATION_MESSAGE_MAX_GOLD: Maximální množství zlata dosaženo!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Nejsem hladová!
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Nejsem hladový!
+INFORMATION_MESSAGE_USER_NOT_CONNECTED: Uživatel není připojen.
+INFORMATION_MESSAGE_USER_NOT_FOUND: Uživatel nebyl nalezen!
+INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Tvá třída byla změněna!
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Tvé sloty vybavení nejsou prázdné!
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Tvoje víla {0} navýšila svoji úroveň!
+INFORMATION_SHOUTMESSAGE_FAIRYMAX: Tvoje víla {0} dosáhla maximální úrovně!
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Tvá úroveň práce byla navýšena!
+INFORMATION_SHOUTMESSAGE_LEVELUP: Tvá úroveň byla navýšena!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximální množství Partnerů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximální množství slotů Partnerů dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximální množství Mazlíčků dosaženo!
+INFORMATION_SHOUTMESSAGE_MAX_PET_SLOTS: Maximální množství slotů Mazlíčků dosaženo!
+INFORMATION_SHOUTMESSAGE_MUST_BE_IN_CLASSIC_MAP: Musíš být na obecné mapě.
+INFORMATION_SHOUTMESSAGE_NEED_LEAVE_GROUP: K této akci bude nutné opustit skupinu!
+INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Pouze dobrodruh může změnit svoji třídu.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Nemáš dostatek munice do katapultu. Kup ji v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Nemáš dostatek šípů. Kup je v obchodu s vybavením.
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Nemáš nasazenou kartu Specialisty!
+INFORMATION_SHOUTMESSAGE_NO_WEAPON: Nemáš nasazené vhodné brnění!
+INFORMATION_SHOUTMESSAGE_NO_WIG: Nenosíš žádnou paruku.
+INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Nedostatek CP.
+INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: Nemůžeš propustit svého Partnera, když na sobě má nějaké vybavení.
+INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého Partnera, když tě následuje.
+INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: Předmět byl změněn na vybavení Partnera.
+INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: Nemůžeš propustit svého Mazlíčka, když tě následuje.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: Chceš-li se naučit nové dovednosti, bude nutné sundat kartu Specialisty.
+INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Před transformací odeber vozidlo.
+INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Tvé pohlaví bylo změněno!
+INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server bude vypnut za {0} sekund.
+INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialista musí mít alespoň level {0} k vylepšení!
+INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Body nastaveny.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Tvůj level je příliš nízký!
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Tento hráč není na obecné mapě!
+INSTANT_COMBAT_NAME: Okamžitý Boj
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitý Boj skončí za {0} minut.
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Příšery přicházejí...
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitý Boj skončí za {0} sekund.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulujeme! Vyhráli jste Okamžitý Boj!
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Bohužel jste neporazili celou vlnu a neobdrželi žádnou kořist.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: Další vlna započne za {0} minut.
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Další vlna započne za {0} sekund.
+INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Představení nastaveno.
+INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: Neudělil jsi první ránu, proto obdržíš jen část zkušeností.
+INTERACTION_LOG_ITEM_NOT_SELLABLE: V soukromém obchodu můžeš prodat pouze směnitelné předměty.
+INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Nedostatek zlata.
+INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Nedostatek místa v inventáři!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Dostali jste požehnání ochrannou mocí andělů!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Dostali jste požehnání ochrannou mocí démonů!
+INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Ztratil jsi svou ochrannou sílu.
+INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby bylo možné změnit křídla Specialisty, musí být karta alespoň na levelu 1.
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Nemůžeš použít reproduktor, prodleva je 30 sekund.
+INTERACTION_VESSEL_LIMIT_REACHED: Bylo dosaženo limitu příšer z plavidel
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Obdrženo: {1} x{0} + {2}'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Obdrženo {0}x {1}
+INVENTORY_DIALOG_ASK_SORT: Chceš srovnat předměty v inventáři? Cooldown na další srovnání je 1 minuta.
+INVENTORY_DIALOG_ASK_TO_DELETE: Chceš smazat tento předmět?
+INVENTORY_DIALOG_SURE_TO_DELETE: Opravdu chceš smazat tento předmět?
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nedostatek předmětů
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Položka nemůže obsahovat mušle!
+ITEM_CHATMESSAGE_CANT_USE_THAT: Toto nemůžeš použít.
+ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože už máš buff {0}.
+ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
+ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
+ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
+ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět již nemá zafixovaný level!
+ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na tebe a bude s ním nemožné obchodovat.
+ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji stranu?
+ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit stranu své rodiny?
+ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
+ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
+ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
+ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého Mazlíčka do perly?
+ITEM_DIALOG_ASK_USE: Chceš použít tento předmět?
+ITEM_DIALOG_WANT_TO_SAVE_POSITION: Chceš uložit svoji pozici?
+ITEM_INFO_PET_NAME_TOO_LONG: Jméno Mazlíčka je příliš dlouhé! (Maximálně 14 znaků)
+ITEM_MESSAGE_CANT_USE: Tento předmět nemůžeš použít.
+ITEM_MESSAGE_CANT_WEAR: Tento předmět nemůžeš nosit.
+ITEM_MESSAGE_CANT_WEAR_PARTNER: Tvůj partner nemůže nosit tento předmět.
+ITEM_MESSAGE_ERASER_NO_SHELL: Nemůžeš odstranit vlastnosti mušle, protože tam žádné nejsou.
+ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nemůžeš vylepšovat kartu Specialisty s mrtvou duší!
+ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžeš nosit zničenou kartu Specialisty.
+ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Vytvořil jsi {1}x {0}.
+ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsi v rodině, nemůžeš použít vejce pro jednotlivce k zvolení strany
+ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Element víly je liší od elemntu SP!
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
+ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
+ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
+ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
+ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
+ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně deaktivován.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Máš nový balík.
+MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Máš {0} mailů v doručené poště.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Údržba byla provedena.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Údržba byla odložena.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Změna času Údržby. Nový čas do Údržby: {0} hodin.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Změna času Údržby. Nový čas do Údržby: {0} minut.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Změna času Údržby. Nový čas do Údržby: {0} sekund.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Údržba byla zastavena.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Údržba začne za {0} hodin/u.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Údržba začne za {0} minut.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Údržba začne za  {0} sekund.
+MESSAGE_UNDER_CHAT_0: 'Nejaktuálnější novinky najdete na našem webu: noswings.com'
+MESSAGE_UNDER_CHAT_1: 'Nezapomeňte na náš Discord server: noswings.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Povedlo se vám najít chybu? Stačí ji nahlásit na: noswings.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Máte nápad na novinku či vylepšení? Stačí jej zveřejnit na fóru: forum.noswings.com'
+MESSAGE_UNDER_CHAT_4: 'Respektujte naše pravidla hry: noswings.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Máte nějaké problémy s platbami nebo ve hře? Podívejte se na náš Support: noswings.com/support'
+MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Body produkce miniher byly obnoveny.
+MINIGAME_INFO_NO_REWARD: V této minihře nejsou žádné odměny.
+MINIGAME_INFO_POINTS_FULL: Maximální body produkce dosaženy.
+MINIGAME_INFO_REFILL: 'Příspěvek minihry: {0}'
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Musíš mít level {0} a {1} bodů reputace k hraní této minihry.
+MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Přidáno {0}x {1} k bednám Mini zemi.
+MINILAND_DIALOG_ASK_INVITE: Chceš se připojit k Mini zemi hráče {0}?
+MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Neobdržíš odměny, protože nemáš dostatek produkčních bodů. Chceš bez ohledu na to pokračovat?
+MINILAND_INFO_CHANGED: Mini-land info změněno
+MINILAND_INFO_DURABILITY_MAXIMUM: Bylo dosaženo maximální trvanlivosti minihry.
+MINILAND_INFO_INVITE_LOCK: Mini země tohoto hráče je zamknutá.
+MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Nedostatek kupónů na odměny!
+MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Nedostatek bodů trvanlivosti.
+MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Nedostatek výrobních bodů Mini země.
+MINILAND_MESSAGE_VISITOR: 'Celkové návštěvy: {0}, Denní návštěvy: {1}'
+MINILAND_SHOUTMESSAGE_CLOSED: Mini země je nyní zavřená.
+MINILAND_SHOUTMESSAGE_FULL: Mini země je plná.
+MINILAND_SHOUTMESSAGE_LOCK: Mini země je nyní uzamčená.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini země musí být nejdříve zavřená.
+MINILAND_SHOUTMESSAGE_PRIVATE: Mini země je nyní soukromá.
+MINILAND_SHOUTMESSAGE_PUBLIC: Mini země je nyní veřejná.
+MINILAND_WELCOME_MESSAGE: Vítejte!
+MUTE_CHATMESSAGE_TIME_LEFT: 'Trest bude ještě trvat: {0}'
+MUTE_MESSAGE_FEMALE: Byla jsem nezbedná dívka, a tak jsem byla potrestána!
+MUTE_MESSAGE_MALE: Byla jsem velmi zlobivý chlapec, a tak jsem byl potrestán!
+NOTE_CHATMESSAGE_NEW_NOTE: Dorazila nová zpráva!
+NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Máš {0} zpráv v doručené poště.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Obdržel jsi balíček Buffů!
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tvůj level je na tento balíček Buffů příliš vysoký.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tvůj level je na tento balíček Buffů příliš nízký.
+NPC_SHOP_LOG_PURCHASE: Zakoupil jsi {1}x {0}.
+OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blikající buffy zakázány
+OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Blikající buffy povoleny
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC zakázáno
+OPTIONS_SHOUTMESSAGE_DISCORDRPC_ENABLED: DiscordRPC povoleno
+OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotikony zakázány
+OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotikony povoleny
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Pozvánky do rodiny blokovány
+OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Pozvánky do rodiny povoleny
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Pozvánky k přátelství blokovány
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Pozvánky k přátelství povoleny
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Pozvánky do skupiny blokovány
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_ENABLED: Pozvánky do skupiny povoleny
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Klobouk je nyní viditelný
+OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Klobouk je nyní neviditelný
+OPTIONS_SHOUTMESSAGE_HP_DISABLED: Informace o HP regeneraci zakázány
+OPTIONS_SHOUTMESSAGE_HP_ENABLED: Informace o HP regeneraci povoleny
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Pozvánky do Mini země zakázány
+OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Pozvánky do Mini země povoleny
+OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Zamknutí myši zrušeno
+OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Zamknutí myši povoleno
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Po smrti se tvůj partner navrátí do Mini země.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Po smrti bude tvůj partner oživen pomocí Semínek moci.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj Mazlíček navrátí do Mini země.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj Mazlíček oživen pomocí Semínek moci.
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Rychlé zvednutí zakázáno
+OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Rychlé zvednutí povoleno
+OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Řečníci ztlumeni
+OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Řečníci povoleni
+OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Nabídky k obchodu blokovány
+OPTIONS_SHOUTMESSAGE_TRADE_ENABLED: Nabídky k obchodu povoleny
+OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI zakázáno
+OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI povoleno
+OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Šeptání zakázáno
+OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Šeptání povoleno
+PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Obdržel jsi nového partnera: {0}!'
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: Tvůj partner už je plný!
+PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown pro kartu specialisty partnera skončil.
+PARTNER_DIALOG_ASK_SLOT_INCREASE: Chceš navýšit počet slotů pro Partnery?
+PARTNER_INFO_IS_WEARING_SP: Tvůj partner má již nasazenou kartu specialisty!
+PARTNER_INFO_LEAVE_BEAD: Partner je nyní venku z mušle!
+PARTNER_INFO_LEVEL_IS_TOO_LOW: Tvůj level partnera je příliš nízký!
+PARTNER_INFO_NEED_AGILITY_POINTS: Tvůj partner potřebuje více bodů pohyblivosti!
+PARTNER_INFO_NO_PARTNER_IN_TEAM: Nemáš s sebou partnera.
+PARTNER_INFO_RELEASED: Tvůj partner je nyní volný.
+PARTNER_INFO_SP_NEW_SKILL: Tvůj partner se naučil nové dovednosti!
+PARTNER_INFO_STORED: Tvůj partner je nyní uložen v perle.
+PARTNER_MESSAGE_100_AGILITY: Tvůj partner dosáhl 100% pohyblivosti.
+PARTNER_MESSAGE_KICKED: Tvůj partner se navrátil do Mini země.
+PARTNER_MESSAGE_NO_SP_EQUIPPED: Tvůj partner nemá nasazenou kartu specialisty.
+PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Již máš tohoto partnera.
+PARTNER_SHOUTMESSAGE_LEVEL_UP: Tvůj partner {0} navýšil svoji úroveň!
+PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner oživen Ochranným andělem partnera.
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Karta specialisty partnera má cooldown - {0} sekund.
+PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner odešel zpět do Mini země.
+PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner bude zpět za 3 minuty.
+PERFECTSP_ATTACK: Útok
+PERFECTSP_DEFENSE: Obrana
+PERFECTSP_ELEMENT: Element
+PERFECTSP_FIRE: Oheň
+PERFECTSP_HPMP: HP/MP
+PERFECTSP_LIGHT: Světlo
+PERFECTSP_MESSAGE_FAILURE: Zdokonalení SP selhalo!
+PERFECTSP_MESSAGE_SUCCESS: 'Zdokonalení úspěšné: {0} +{1}'
+PERFECTSP_SHADOW: Stín
+PERFECTSP_WATER: Voda
+PERSONAL_SHOP_LOG_PURCHASE_BUYER: Koupil jsi {1}x {0} od {2}.
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} koupil {2}x {1}.'
+PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Tvůj Mazlíček již předměty sbírat může!
+PET_CHATMESSAGE_BEAD_EXTRACT: 'Obdržel jsi nového NosMate: {0}!'
+PET_CHATMESSAGE_CAN_PICK_UP: Tvůj Mazlíček nyní může sbírat předměty!
+PET_CHATMESSAGE_EAT_EVERYTHING: Tvůj Mazlíček je už plný!
+PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého Mazlíčka zpátky do Mini země?
+PET_DIALOG_ASK_SLOT_INCREASE: Chceš navýšit počet slotů pro své Mazlíčky?
+PET_INFO_LEAVE_BEAD: Mazlíček je venku z perly!
+PET_INFO_RELEASED: Tvůj Mazlíček je nyní volný.
+PET_INFO_STORED: Tvůj Mazlíček byl uložen do perly.
+PET_MESSAGE_ALREADY_IN_TEAM: Tvůj Mazlíček  již je v týmu.
+PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého Mazlíčka již zavolat můžeš!
+PET_MESSAGE_KICKED: Tvůj Mazlíček se navrátil do Mini země.
+PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého Mazlíčka kdykoliv.
+PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvoje úroveň!
+PET_SHOUTMESSAGE_LEVEL_UP: Tvůj Mazlíček {0} právě navýšil svoji úroveň!
+PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Mazlíček odešel zpět do Mini země.
+PET_SHOUTMESSAGE_WILL_BE_BACK: Mazlíček bude zpět za 3 minuty.
+PET_SHOUTMESSGE_SAVED_BY_SAVER: Mazlíček oživen díky ochrannému anděli mazlíčka.
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Systém Soucitu] {0} => [{1}/{2}], šance na odměnu: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Systém Soucitu] Obdržel jsi {0} jako extra odměnu!'
+PORTAL_CHATMESSAGE_BLOCKED: Tento portál je uzamčený, nemůžeš jej použít.
+PORTAL_CHATMESSAGE_TOO_EARLY: Již brzy bude umožněn vstup do portálu.
+PSP_AEGIR: Aegir
+PSP_AMON: Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Arcidémon Amon
+PSP_BARNI: Barni
+PSP_CHEONGBI: Cheongbi
+PSP_CHLOE: Kovbojka Chloe
+PSP_DANIEL: Daniel Dukát
+PSP_DIALOG_ASK_RESET_ALL_SKILLS: Chceš resetovat všechny dovednosti karty specilisty partnera?
+PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Chceš resetovat tuto dovednost?
+PSP_ELIZA: Ledová princezna Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya
+PSP_GUARDIAN_LUCIFER: Strážce Lucifer
+PSP_HARLEQUIN: Harlekýn
+PSP_HONGBI: Hongbi
+PSP_JINN: Jinn
+PSP_LAURENA: Laurena
+PSP_LOTUS: Lotus
+PSP_LUCIFER: Archanděl Lucifer
+PSP_LUCY: Lucy Klapouška
+PSP_MACAVITY: Testovací objekt Šíleného profesora Macavity
+PSP_MAD_MARCH_HARE: Šílený zajíc Březňák
+PSP_MARU: Maru
+PSP_MESSAGE_ALL_SKILLS_RESET: Všechny dovednosti partnera byly resetovány.
+PSP_MESSAGE_ONE_SKILL_RESET: Dovednost partnera byla resetována.
+PSP_MOTHER_MARU: Maru v mámině kožichu
+PSP_NELIA: Nelia Nymph
+PSP_ORKANI: Orkani
+PSP_PALINA: Loutkářka Palina
+PSP_PERTI: Jednokřídlá Perti
+PSP_PHARAOH: Prokletý Faraon Akhenaton
+PSP_RAGNAR: Kostěný válečník Ragnar
+PSP_SHERIFF_CHLOE: Šerif Chloe
+PSP_SHINOBI: Shinobi
+PSP_VENUS: Princeznička Venuše
+PSP_YUNA: Studentka magie Yuna
+QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} nasbíráno: [{1}/{2}]'
+QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Tento voják Kenko je příliš silný!
+QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Novou misi můžeš dostat u NPC.
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
+QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
+QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Tuto hlavní misi jsi již splnil!
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Tato mise byla již splněna a není momentálně dostupná
+QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Tuto misi jsi již splnil
+QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Již plníš hlavní misi
+QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Máš nějaké nesplněné mise
+QUEST_SHOUTMESSAGE_LOW_LEVEL: Tvůj level je na tuto misi příliš nízký
+QUEST_SHOUTMESSAGE_SLOT_FULL: Nemůžeš přijmout více misí.
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} hledá hráče na raid: {1}!'
+RAID_CHATMESSAGE_GROUP_REQUEST: '{0} byl pozván do raidu.'
+RAID_CHATMESSAGE_KICKED: Byl jsi vyhozen.
+RAID_CHATMESSAGE_KICKED_OTHER: Hráč byl vyhozen.
+RAID_CHATMESSAGE_LEFT: '{0} opustil tým.'
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jelikož nesplňuješ doporučený level pro tento raid, nemůžeš obdržet raid box ani při splnění mise.
+RAID_CHATMESSAGE_LOW_LEVEL: Musíš mít alespoň level {0} pro připojení do raidu.
+RAID_CHATMESSAGE_NEW_LEADER: '{0} je nový vedoucí týmu.'
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid neexistuje, nebo již započal!
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Pouze vedoucí může zahájit raid.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi členem žádného raid týmu.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
+RAID_CHATMESSAGE_X_JOINED: '{0} se přidal do týmu.'
+RAID_DIALOG_ASK_START_RAID: Chceš začít {0} raid?
+RAID_DIALOG_INVITED_YOU: '{0} tě pozval do raidu. Přijímáš?'
+RAID_INFO_NO_EXIST: Raid neexistuje!
+RAID_INFO_NO_LIVES_LEFT: Již jsi použil veškeré své životy.
+RAID_INFO_PLAYER_DEATH: Jsi mrtev, budeš oživen za 20 sekund..
+RAID_MESSAGE_DISOLVED: Raid tým byl rozpuštěn.
+RAID_NAME_CASTRA: Temný Castra
+RAID_NAME_CHICKENKING: Kuřecí král
+RAID_NAME_CUBY: Matka Kuby
+RAID_NAME_GIANTBLACKSPIDER: Obrovský černý pavouk
+RAID_NAME_GINSENG: Ženšen
+RAID_NAME_NAMAJU: Namaju
+RAID_NAME_SLADE: Obrovský Slade
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Již jsi v jiném týmu na raid.
+RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.
+RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nemůžeš vytvořit raid, když jsi ve skupině.
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do raidu.
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit do raidu, když jsi v aréně!
+RAID_SHOUTMESSAGE_COMPLETED: "Tým hráče {0} dokončil raid {1}!"
+RAID_SHOUTMESSAGE_IN_GROUP: Nemůžeš se připojit do raidu, když jsi ve skupině.
+RAID_SHOUTMESSAGE_KICKED: Byl jsi vyhozen
+RAID_SHOUTMESSAGE_KICKED_OTHER: Hráč byl vyhozen
+RAID_SHOUTMESSAGE_LEFT: '{0} opustil tým.'
+RAID_SHOUTMESSAGE_MONSTERS_WAVE: Nepřátelé dostávájí posily!
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} je nový vedoucí raidu.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Člen raidu {0} umřel.
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Tým je plný!
+RAID_SHOUTMESSAGE_REGISTERED: Tvůj raid tým byl registrován
+RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Všechny cíle splněny!
+RAID_SHOUTMESSAGE_TARGETS_UPDATED: Cíle aktualizovány.
+RAID_SHOUTMESSAGE_UNREGISTERED: Tvůj raid tým už není registrován.
+RAID_SHOUTMESSAGE_X_JOINED: '{0} se připojil do týmu'
+RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Chceš změnit lokaci k respawnu?
+RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Místo oživení bylo změněno!
+REVIVE_DIALOG_ARENA: Chceš se oživit? Bude tě to stát {0} zlata.
+REVIVE_DIALOG_FREE: Chceš se oživit? Je to zdarma až do levelu {0}.
+REVIVE_DIALOG_SEEDS_OF_POWER: Chceš se oživit? Bude tě to stát {0} Semínek moci
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Abys nahradil mušli, musíš nejdříve použít na vybavení parfém.
+SHELLS_DIALOG_ADD_OPTIONS: Chceš přidat vlastnost na tento předmět? Zda-li souhlasíš, předmět bude spojen s tebou.
+SHELLS_DIALOG_REPLACE_OPTIONS: Vlastnost bude nahrazena jinou. Máš 50% šanci na úspěch, jinak bude předmět rozbit. Chceš pokračovat?
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Tato mušle nemůže byt identifikována.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Vlastnosti této mušle jsou již identifikovány.
+SHELLS_SHOUTMESSAGE_BROKEN: Mušle je rozbitá, protože selhala během přidávání.
+SHELLS_SHOUTMESSAGE_ERASED: Vlastnost byla vymazána.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tuto mušli můžeš použit pouze na brnění.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Tuto mušli můžeš použít pouze na zbraně.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Mušle identifikována!
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Level mušle musí být stejné nebo nižší úrovně než úroveň vybavení.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Mušle musí být identifikována před použitím.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Vlastnosti mušle byly přidány.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Rarita mušle musí být stejná nebo nižší než rarita vybavení.
+SHIP_CHATMESSAGE_LEVEL_REQ: Je potřeba alespoň levelu {0} k nastoupení do lodi.
+SHIP_SHOUTMESSAGE_COOLDOWN: Loď se stále nevrátila.
+SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Loď dorazí za {0} minut.
+SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Loď dorazí za {0} sekund.
+SHOP_CHATMESSAGE_EMPTY: Obchod nesmí být prázdný!
+SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: V obchodě můžeš prodávat pouze směnitelné věci.
+SHOP_DEFAULT_NAME: Obchod
+SHOP_INFO_ALREADY_OPEN: Už máš otevřený obchod!
+SHOP_INFO_NEAR_PORTAL: Nemůžeš vytvořit obchod tak blízko k portálu!
+SHOP_INFO_NOT_ALLOWED: Nemůžeš otevřít obchod na obecných mapách.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: Nemůžeš otevřít obchod během raidu!
+SHOP_INFO_OPEN: Obchod byl otevřen!
+SHOP_INFO_TARGET_MAX_GOLD: Hráč dosáhl maximálního množství zlata.
+SHOP_LOG_SELL_ITEM_VALID: Transakce úspěšná
+SKILL_CHATMESSAGE_ALREADY_LEARNT: Této dovednosti jsi již naučen.
+SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nemůžeš se naučit dovednosti, když jsi transformován.
+SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musíš se nejdříve naučit základní dovednosti.
+SKILL_CHATMESSAGE_NOT_TO_REFUND: Nemůžeš požadovat navrácení za tuto dovednost!
+SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
+SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
+SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
+SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Musíš počkat než skončí cooldown u dovednosti, než se začneš učit nové.
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Odchycení selhalo!
+SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nemůžeš odchytit toto monstrum!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Nemůžeš odchytit toto monstrum během raidu!
+SKILL_SHOUTMESSAGE_CAUGHT_PET: Úspěšně jsi odchytil {0}!
+SKILL_SHOUTMESSAGE_LEARNED: Naučil ses nové dovednosti!
+SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Level monstra musí být menší než tvůj, aby bylo možné jej chytit!
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monstra musí mít méně než 50% HP, aby bylo možné je chytit.
+SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se obětoval pro {1}.'
+SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Efekt oběti odebrán, hráč je mimo dosah.
+SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Efekt oběti téměř odebrán, protože je hráč příliš daleko.
+SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Musíš počkat než vyprší veškeré cooldowny!
+SPEAKER_NAME: Reproduktor
+SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nyní nemůžeš vyměnit kartu specialisty!
+SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown transformace specialisty skončil.
+SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Musíš být transformován do karty specialisty, aby tato akce byla možná!
+SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nyní nemůžeš útočit.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta specialisty má cooldown - {0} sekund.
+SPECIALIST_SHOUTMESSAGE_LEVELUP: Level specialisty byl zvýšen!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Potřebuješ {0} SP bodů, aby bylo možné se transformovat do karty specialisty!
+SPECIALIST_SHOUTMESSAGE_NO_POINTS: Nezbývají ti žádné SP body! Nemůžeš se transformovat!
+SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Nemůžeš odebrat kartu specialisty kvůli negativnímu efektu.
+SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Přidal jsi {0} SP bodů!
+SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP body resetovány!
+SPECIALIST_SHOUTMESSAGE_RESURRECTED: Tvá duše specialisty byla vzkříšena!
+SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musíš být transformován do Specialisty, abys mohl toto dělat!
+SUM_MESSAGE_FAILED: Sčítání selhalo.
+SUM_MESSAGE_SUCCESS: Sčítání úspěšné!
+TIMESPACE_CHATMESSAGE_EASY_MODE: Time-space je v "Easy" módu - čas na dokončení byl prodloužen, ale neobdržíš zvolené odměny.
+TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brána je uzamčena!
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký pro připojení do této time-space mise.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Ne všechny time-space mise byly ukončeny.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může zahájit Time-space.
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% bodů sníženo za penalizaci kvůli tvé úrovni.'
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Chceš se přidat do time-space mise člena skupiny?
+TIMESPACE_DIALOG_ASK_REVIVAL: Chceš se oživit?
+TIMESPACE_DIALOG_ASK_START: Chceš vstoupit do první místnosti?
+TIMESPACE_DIALOG_ASK_START_RECORD: Chceš začít time-space v módu na rekord? Bude to stát {0} zlata.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space právě započal.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Dveře se otevřely
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Někde se otevřely dveře
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Nepřátelé brzy dostanou posily!
+TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Páčka byla zatažena.
+TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Mise byla aktualizována.
+TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Úspěšně jsi dokončil rychlou misi.
+TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Mise začíná jakmile vstoupíš do první místnosti.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: Time-Space je plný.
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Prosím čekejte...
+TITLE_DIALOG_ASK_ADD: Chceš přidat tento titul?
+TITLE_INFO_EFFECT_DISABLED: Efekt titulu byl zakázán.
+TITLE_INFO_EFFECT_ENABLED: Efekt titulu byl povolen.
+TITLE_INFO_UNLOCKED: Titul byl odemčen!
+TITLE_INFO_VISIBLE_DISABLED: Viditelnost titulu byla zakázána!
+TITLE_INFO_VISIBLE_ENABLED: Viditelnost titulu byla povolena!
+TRADE_CHATMESSAGE_BLOCKED: Hráč má blokované nabídky k obchodu!
+TRADE_CHATMESSAGE_REFUSED: Hráč {0} odmítl tvoji nabídku k obchodu.
+TRADE_CHATMESSAGE_YOU_REFUSED: Obchod odmítnut.
+TRADE_DIALOG_ASK_FOR_TRADE: Nabídl jsi obchod {0}.
+TRADE_DIALOG_INCOMING_EXCHANGE: Hráč {0} [{1}(+{2})Lv.] s tebou chce obchodovat.
+TRADE_INFO_PLAYER_IN_BATTLE: Nemůžeš obchodovat během boje.
+TRADE_INFO_WAITING_FOR_TARGET: Čeká se na {0}...
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Tento hráč již obchoduje.
+TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Nemůžeš obchodovat s provozovateli obchodů.
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Se předmětem se nedá obchodovat.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Nemůžeš obchodovat obchodovat během raidu.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Nemůžeš zahájit obchod se členem raidu.
+UPGRADE_MESSAGE_FAILED: Vylepšení se nezdařilo!
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Vylepšení se nezdařilo, ale předmět byl zachován.
+UPGRADE_MESSAGE_FIXED: Level zafixován.
+UPGRADE_MESSAGE_SP_DESTROYED: Duše karty specialisty byla zničena!
+UPGRADE_MESSAGE_SP_FAILED: Vylepšení SP selhalo!
+UPGRADE_MESSAGE_SP_FAILED_SAVED: Vylepšení karty specialisty se nezdařilo, ale předmět byl ochráněn před zničením.
+UPGRADE_MESSAGE_SP_SUCCESS: Vylepšení karty specialisty úspěšné!
+UPGRADE_MESSAGE_SUCCESS: Vylepšení úspěšné!
+WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Opravdu se chceš rozvést?
+WEDDING_DIALOG_REQUEST_RECEIVED: Pozor! {0} vám navrhl/a sňatek. Přijímáš nabídku ke svatbě?
+WEDDING_DIALOG_REQUEST_VERIFICATION: Opravdu si chceš vzít {0}?
+WEDDING_INFO_DIVORCED: Svatba byla přerušena.
+WEDDING_SHOUTMESSAGE_BROADCAST: Svatba! {0} a {1} se právě vzali!
+WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} právě odmítl nabídku ke sňatku s {1}.'
