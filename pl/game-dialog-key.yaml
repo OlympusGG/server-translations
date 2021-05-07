@@ -413,9 +413,13 @@ MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Pozostały czas kary: {0}'
 MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ten gracz jest wyciszony.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Jesteś wyciszony.
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Otrzymano zestaw efektów!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: Ten zestaw efektów jest w trakcie odnowy.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Osiągnięto maksymalną dzienną ilość tego zestawu efektów.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Twój poziom jest zbyt wysoki, aby otrzymać ten zestaw efektów.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Twój poziom jest zbyt niski, aby otrzymać ten zestaw efektów.
 NPC_SHOP_LOG_PURCHASE: Kupiłeś {1}x {0}.
@@ -474,6 +478,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner został ożywiony za pomocą Anioł
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Karta Specjalisty partnera jest w trakcie odnowy - {0} sek.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner wrócił do Mini-Landu.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner wróci za 3 minuty.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Brak miejsca w plecaku partnera.
 PERFECTSP_ATTACK: Atak
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
@@ -672,8 +677,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Dusza Karty Specjalisty została wskrzeszon
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SUM_MESSAGE_FAILED: Łączenie nie udało się.
 SUM_MESSAGE_SUCCESS: Łączenie udało się.
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Musisz odczekać po ataku.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Czasoprzestrzeń jest w trybie łatwym - czas trwania został wydłużony i nie otrzymasz wybranych nagród.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Portal jest zamknięty!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mój poziom jest zbyt wysoki aby dołączyć do tej czasoprzestrzeni.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mój poziom jest zbyt niski aby dołączyć do tej czasoprzestrzeni.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nie wszystkie misje czasoprzestrzeni zostały ukończone.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Tylko lider czasoprzestrzeni może wystartować.
@@ -683,15 +690,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Czy chcesz się wskrzesić?
 TIMESPACE_DIALOG_ASK_START: Czy chcesz wejść do pierwszego pokoju?
 TIMESPACE_DIALOG_ASK_START_RECORD: Czy chcesz rozpocząć czasoprzestrzeń w trybie rekordu? Będzie to kosztowało {0} szt. złota.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Czasoprzestrzeń już się rozpoczęła.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: Nie możesz być w grupie dla tej czasoprzestrzeni
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: Nie możesz utworzyć portalu czasoprzestrzeni w pobliżu innego portalu
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Portal został otwarty
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Gdzieś otworzył się portal
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Wrogowie otrzymują posiłki!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Przesunięto dźwignię
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Jeden z członków grupy nie znajduje się na ogólnej mapie
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Misja została zaktualizowana
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Musisz posiadać grupę dla tej czasoprzestrzeni
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Za mało członków grupy, aby wystartować czasoprzestrzeń
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Nie jesteś właścicielem tej czasoprzestrzeni
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Jeden z członków nie znajduje się na tej samej mapie co ty
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Pomyślnie ukończono szybką misję.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Misja rozpocznie się, gdy wejdziesz do pierwszego pomieszczenia.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Czasoprzestrzeń jest pełna.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Proszę czekać...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Nieprawidłowy akt dla tej czasoprzestrzeni
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: Nie możesz utworzyć czasoprzestrzeni na tej mapie
 TITLE_DIALOG_ASK_ADD: Czy chcesz dodać ten tytuł?
 TITLE_INFO_EFFECT_DISABLED: Efekt tytułu został wyłączony
 TITLE_INFO_EFFECT_ENABLED: Efekt tytułu został włączony

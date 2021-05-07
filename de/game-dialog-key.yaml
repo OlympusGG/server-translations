@@ -230,7 +230,7 @@ IC_80_89_W3_TITLE: Wave 3 - Größere Wüstenlinge
 IC_80_89_W4_TITLE: Wave 4 - Sandspawns
 IC_80_89_W5_TITLE: Wave 5 - Shay's Kräfte
 IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempel der Qual
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Vulkanerruption 
+IC_90_150_0_24H_W2_TITLE: Wave 2 - Vulkanerruption
 IC_90_150_0_24H_W3_TITLE: Wave 3 - Flammendes Schwert
 IC_90_150_0_24H_W4_TITLE: Wave 4 - Tore der Hölle
 IC_90_150_0_24H_W5_TITLE: Wave 5 - Tore des Himmels
@@ -323,7 +323,6 @@ INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Die nächste Monsterwelle wi
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Selbstvorstellung gespeichert.
 INTERACTION_CHATMESSAGE_XP_NOT_FIRST_HIT: Du hast nicht den ersten Treffer gemacht und erhälst somit nur einen Teil der Erfahrung.
 INTERACTION_LOG_ITEM_NOT_SELLABLE: Du kannst nur handelbare Gegenstände im Shop verkaufen.
-
 INTERACTION_MESSAGE_NOT_ENOUGH_GOLD: Nicht ausreichend Gold.
 INTERACTION_MESSAGE_NOT_ENOUGH_PLACE: Nicht ausreichend Platz im Inventar!
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Du wurdest mit dem Schutz der Engel gesegnet!
@@ -386,10 +385,9 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten beginnen i
 MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Updates: noswings.com'
 MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Du hast einen Fehler gefunden? Melde ihn hier: noswings.com/bug-report'
-
 MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Forum: forum.noswings.com'
 MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs- oder Spielproblem? Dann besuche unseren Discord-Support Server'
+MESSAGE_UNDER_CHAT_5: Du hast ein Zahlungs- oder Spielproblem? Dann besuche unseren Discord-Support Server
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Produktionspunkte der Minispiele wurden erneuert.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
@@ -415,9 +413,13 @@ MINILAND_WELCOME_MESSAGE: Willkommen!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Verbleibende Dauer der Bestrafung: {0}'
 MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Du hast eine neue Notiz erhalten!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Du hast {0} Notizen in deinem Postfach
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Du hast ein Buffpaket erhalten!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch um dieses Buffpaket zu erhalten.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig um dieses Buffpaket zu erhalten.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
@@ -476,6 +478,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner wurde durch 'Partner Schutzengel' w
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Spezialistenkarte Abklingzeit - {0} Sek.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner ist in dein Mini-Land zurückgekehrt.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner wird in 3 Minuten wiederbelebt.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Angriff
 PERFECTSP_DEFENSE: Verteidigung
 PERFECTSP_ELEMENT: Element
@@ -674,26 +677,37 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wi
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst dich in deine Spezialistenkarte verwandeln, um dies zu tun!
 SUM_MESSAGE_FAILED: Summieren fehlgeschlagen.
 SUM_MESSAGE_SUCCESS: Summieren erfolgreich!
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace befindet sich im erleichterten Modus - die verfügbare Zeit wurde verlängert, jedoch wirst du keine Belohnungen erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Diese Tür ist verschlossen!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenleiter kann den Timespace starten.
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.' 
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden aufgrund einer Levelstrafe abgezogen.'
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Möchtest du den Timespace deines Gruppenmitglieds betreten?
 TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben?
 TIMESPACE_DIALOG_ASK_START: Möchtest du den ersten Raum betreten?
 TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du diesen Timespace im Rekord-Modus starten? Es wird dich {0} Gold kosten.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Der Timespace wurde bereits gestartet.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür wurde geöffnet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Feinde erhalten Verstärkung!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde betätigt.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Möchtest du diesen Titel hinzufügen?
 TITLE_INFO_EFFECT_DISABLED: Der Effekt des Titels wurde deaktiviert.
 TITLE_INFO_EFFECT_ENABLED: Der Effekt des Titels wurde aktiviert.

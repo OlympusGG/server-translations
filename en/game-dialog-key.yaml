@@ -413,9 +413,13 @@ MINILAND_WELCOME_MESSAGE: Welcome!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Remaining punishment duration: {0}'
 MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
 MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in your inbox.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You received the buff pack!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
@@ -474,6 +478,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
@@ -672,8 +677,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrec
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: You need to be transformed into a Specialist to do this!
 SUM_MESSAGE_FAILED: Combination failed.
 SUM_MESSAGE_SUCCESS: Combination successful!
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: The Time-Space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this Time-Space.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all Time-Space missions have been completed.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Only the party leader can start the Time-Space.
@@ -683,15 +690,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Do you want to resurrect yourself?
 TIMESPACE_DIALOG_ASK_START: Do you want to enter the first room?
 TIMESPACE_DIALOG_ASK_START_RECORD: Do you want to start a Time-Space in record mode? It will cost {0} gold.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-Space has already begun.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: A door has opened.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: A door has opened somewhere.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: The enemies are getting reinforcements!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: The lever has been pulled.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: The mission has been updated.
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: You have successfully completed the Quick Mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: The mission starts as soon as you enter the first room.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: The Time-Space is full.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Please wait...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Do you want to add this title?
 TITLE_INFO_EFFECT_DISABLED: Title effect has been disabled.
 TITLE_INFO_EFFECT_ENABLED: Title effect has been enabled.

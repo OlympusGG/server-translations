@@ -413,9 +413,13 @@ MINILAND_WELCOME_MESSAGE: Hoş geldiniz!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Kalan ceza süresi: {0}'
 MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Buff paketini aldınız!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Seviyeniz bu buff paketini alamayacak kadar yüksek.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Seviyeniz bu buff paketini alamayacak kadar düşük.
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
@@ -474,6 +478,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partnerin koruyucu melekler tarafından yen
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Partnerin Uzman Kartı dönüşümü için kalan süre: {0} saniye'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner Miniland'e geri döndü.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partnerin üç dakika sonra yeniden canlanacak.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Saldırı
 PERFECTSP_DEFENSE: Savunma
 PERFECTSP_ELEMENT: Element
@@ -672,26 +677,37 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Uzmanlık Kartının ruhu yeniden canlandı
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Bunu yapabilmek için Uzmanlık Kartını kuşatman gerekiyor.
 SUM_MESSAGE_FAILED: Birleştirme başarısız.
 SUM_MESSAGE_SUCCESS: Birleştirme başarılı!
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu Uzay-Zaman'a katılamayacak kadar düşük.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: 'Seviye cezası nedeniyle puanın %{0} azaltıldı.'
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Seviye cezası nedeniyle puanın %{0} azaltıldı.
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: Bir grup üyesinin Uzay-Zaman'a katılmak ister misin?
 TIMESPACE_DIALOG_ASK_REVIVAL: Dirilmek istiyor musun?
 TIMESPACE_DIALOG_ASK_START: İlk odaya girmek istiyor musun?
 TIMESPACE_DIALOG_ASK_START_RECORD: Rekor modunda bir Uzay-Zaman başlatmak istiyor musunuz? {0} altına mal olacak.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Uzay-Zaman çoktan başladı.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Kapı açıldı.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Bir yerde bir kapı açıldı
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hızlı Görevi başarıyla tamamladın.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-Zaman dolu.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
 TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı
 TITLE_INFO_EFFECT_ENABLED: Unvanın etkisi aktif
