@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Twój partner nie może założyć tego przedmio
 ITEM_MESSAGE_ERASER_NO_SHELL: Przedmiot nie posiada żadnych osłon.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nie możesz ulepszyć zniszczonej Karty Specjalisty.
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nie możesz założyć zniszczonej Karty Specjalisty
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: Ta skrzynka jest pusta!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Nie możesz użyć osobistego jajka, gdy jesteś w rodzinie.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Atrybut wróżki różni się od atrybutu specjalisty.
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nje, to jest fejkowy eliksir Mwimica! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Możesz to zrobić tylko w Mini-Landzie!

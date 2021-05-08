@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Your partner can't wear this item.
 ITEM_MESSAGE_ERASER_NO_SHELL: You can't erase shell options because there aren't any.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: You can't upgrade Specialist Card with a dead soul!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: You can't wear destroyed Specialist Card.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: You have crafted {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use individual faction egg when you're in a family.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different than the SP element!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Miniland.

@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Partnerin bu eşyayı giyemez.
 ITEM_MESSAGE_ERASER_NO_SHELL: Silgi sadece midye işlenmiş teçhizatta kullanılabilir.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Ruhu yok olmuş Uzmanlık Kartlarını geliştiremezsin.
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Ruhu yok olmuş Uzmanlık Kartlarını kuşanamazsın.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: '{1}x {0} ürettin.'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Bir ailedeyken bireysel koruyucu güç yumurtalarını kullanamazsın.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Perinin elementi Uzmanlık Kartınınkiyle uyumsuz.
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Bunu sadece Miniland'deyken yapabilirsin.

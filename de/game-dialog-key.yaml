@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Dein Partner kann diesen Gegenstand nicht tragen
 ITEM_MESSAGE_ERASER_NO_SHELL: Du kannst die Muscheleigenschaften nicht löschen, da auf dem Gegenstand keine vorhanden sind.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Du kannst eine Spezialistenkarte mit einer zerstörten Seele nicht verbessern!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Du kannst keine zerstörte Spezialistenkarte anziehen.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Du hast {1}x {0} hergestellt.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Du kannst das individuelle Fraktionsei nicht verwenden, wenn du Teil einer Familie bist.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Das Element der ausgerüsteten Fee entspricht nicht dem Element der Spezialistenkarte!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Dieser Gegenstand kann nicht fallen gelassen werden.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst diesen Gegenstand hier nicht fallen lassen.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Miniland tun.

@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Tvůj partner nemůže nosit tento předmět.
 ITEM_MESSAGE_ERASER_NO_SHELL: Nemůžeš odstranit vlastnosti mušle, protože tam žádné nejsou.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nemůžeš vylepšovat kartu Specialisty s mrtvou duší!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžeš nosit zničenou kartu Specialisty.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Vytvořil jsi {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsi v rodině, nemůžeš použít vejce pro jednotlivce k zvolení strany
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Element víly je liší od elemntu SP!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.

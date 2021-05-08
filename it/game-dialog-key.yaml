@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Il tuo compagno non può indossare questo oggett
 ITEM_MESSAGE_ERASER_NO_SHELL: Non puoi cancellare le opzioni della pietra perché non sono presenti.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Non puoi migliorare uno Specialista se la sua anima è stata distrutta!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Non puoi indossare una Carta dello Specialista distrutta.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Hai creato {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Non puoi utilizzare un uovo per cambiare individualmente la tua fazione se ti trovi in una Famiglia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'elemento della fata è diverso da quello dello Specialista!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Questo oggetto non può essere buttato.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Questo oggetto non può essere buttato qui.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Puoi farlo solo in MiniLand.

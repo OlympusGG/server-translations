@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas s'équiper de cet obj
 ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas de rune à effacer.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas t'équiper d'une carte de spécialiste avec une âme détruite !
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Tu as fabriqué {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Tu ne peux pas utiliser d'oeuf de faction individuel dans une famille.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'élément de la fée est différent de l'élément de la carte spécialiste !
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Tu ne peux faire ça que dans un mini-pays.
