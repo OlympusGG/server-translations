@@ -361,9 +361,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas s'équiper de cet obj
 ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas de rune à effacer.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer une carte de spécialiste avec une âme détruite !
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas t'équiper d'une carte de spécialiste avec une âme détruite !
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Tu as fabriqué {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Tu ne peux pas utiliser d'oeuf de faction individuel dans une famille.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'élément de la fée est différent de l'élément de la carte spécialiste !
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Tu ne peux faire ça que dans un mini-pays.
@@ -413,9 +415,13 @@ MINILAND_WELCOME_MESSAGE: Bienvenue !
 MUTE_CHATMESSAGE_TIME_LEFT: 'Temps de sourdine restant : {0}'
 MUTE_MESSAGE_FEMALE: J'ai été une vilaine fille donc j'ai été punie !
 MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} notes.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Tu as reçu un lot de buff!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Ton niveau est trop haut pour recevoir ce lot de buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Ton niveau est trop bas pour recevoir ce lot de buff.
 NPC_SHOP_LOG_PURCHASE: Tu as acheté {1}x {0}.
@@ -474,6 +480,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partenaire sauvé par la poupée ange gardi
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste du partenaire : {0} secondes."
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton partenaire a été renvoyé au mini-pays.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Ton partenaire réapparaîtra dans 3 minutes.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Attaque
 PERFECTSP_DEFENSE: Défense
 PERFECTSP_ELEMENT: Élement
@@ -672,8 +679,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: L'âme de ta carte de spécialiste a été 
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Tu dois être en spécialiste pour faire ça.
 SUM_MESSAGE_FAILED: Somme échouée.
 SUM_MESSAGE_SUCCESS: Somme réussie !
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Le défi de l'espace-temps est en mode facile - la durée a été prolongé, tu ne recevras pas les récompenses sélectionnées.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Le porte est bloquée.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mon niveau est trop bas pour rejoindre l'espace-temps.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toute les missions d'espaces-temps n'ont pas étés accomplies.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le maitre du groupe peut commencer l'espace-temps.
@@ -683,15 +692,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Veux-tu ressuciter ?
 TIMESPACE_DIALOG_ASK_START: Es-tu prêt à commencer ?
 TIMESPACE_DIALOG_ASK_START_RECORD: Veux-tu commencer l'espace-temps en mode "record"? Cela te coûtera {0} or.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: La mission d'espace-temps a déjà commencé.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Une porte s'est ouverte.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Une porte a été ouverte quelque part
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Les ennemis reçoivent des renforts!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Le levier a été activé.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La mission a été actualisée
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Tu as complété la mission.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La mission commencera lorsque tu entreras dans la première salle.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: La mission d'espace-temps est complète, tu ne peux pas la rejoindre.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Veuillez patienter...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Souhaites-tu ajouter ce titre ?
 TITLE_INFO_EFFECT_DISABLED: L'effet du titre n'est plus actif.
 TITLE_INFO_EFFECT_ENABLED: L'effet du titre est actif !
