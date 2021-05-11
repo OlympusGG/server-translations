@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakımda.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
 ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Melekler
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} bir {0} koruyucusu tarafından yenildi.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Şeytanlar

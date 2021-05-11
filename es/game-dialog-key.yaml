@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios

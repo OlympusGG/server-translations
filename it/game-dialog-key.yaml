@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Username errato.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato. Riprova più tardi.
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: dei Demoni

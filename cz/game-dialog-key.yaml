@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: démoni

@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
 ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
