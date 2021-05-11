@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: Nie jesteś szefem rodziny!
 FAMILY_INFO_NOT_IN_FAMILY: Nie jesteś w rodzinie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: System rodziny aktualnie jest w trybie przerwy technicznej.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
+FAMILY_INFO_TODAY_LOW_LEVEL: Musisz posiadać przynajmniej 30 poziom aby użyć sentencji dnia
 FAMILY_INFO_USED_DAILY_MESSAGE: Już użyto sentencji dnia.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nie możesz dodać tego przedmiotu do magazynu rodziny!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nie masz wystarczających uprawnień aby to zrobić.

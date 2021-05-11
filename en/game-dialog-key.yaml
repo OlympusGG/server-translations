@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Daily sentence has already been written today.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enough permission to do that.
