@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este artículo al almacén familiar!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.

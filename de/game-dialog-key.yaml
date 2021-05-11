@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: Du bist nicht das Familienoberhaupt!
 FAMILY_INFO_NOT_IN_FAMILY: Du bist in keiner Familie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Der Familienservice befindet sich momentan im Wartungsmodus.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Dieser Spieler muss Vertreter sein!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Tägliche Nachricht bereits verwendet.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Dieser Gegenstand kann dem Familienwarenhaus nicht hinzugefügt werden!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Es werden höhere Rechte benötigt, um diese Aktion durchzuführen.

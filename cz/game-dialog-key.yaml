@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: Nejsi hlava rodiny!
 FAMILY_INFO_NOT_IN_FAMILY: Nejsi v rodině!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Rodinný servis je v současné době v údržbě.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Tento hráč musí být zástupce!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Denní zpráva již vyčerpána.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nemůžeš přidat tento předmět do rodinného skladu.
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nemáš dostatek oprávnění k této akci.

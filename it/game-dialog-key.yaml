@@ -132,6 +132,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: Non sei il capo della Famiglia!
 FAMILY_INFO_NOT_IN_FAMILY: Non fai parte di una Famiglia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Il servizio della Famiglia è in manutenzione.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Questo giocatore deve essere un Vicecapo!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Hai già modificato il Motto Giornaliero.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Non puoi aggiungere questo oggetto nel Deposito della Famiglia!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Permessi insufficienti.
