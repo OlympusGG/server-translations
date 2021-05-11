@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Błędny login.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
+ACT4_CHATMESSAGE_KILL_INFO: 'Zabójstwa: {0} Śmierci: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: aniołów
 ACT4_CHATMESSAGE_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
 ACT4_CHATMESSAGE_PVP_DEMONS: demonów
