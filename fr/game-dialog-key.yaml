@@ -2,7 +2,7 @@ ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
-ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0} Deaths: {1}'
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a été vaincu par {1}.
 ACT4_CHATMESSAGE_PVP_DEMONS: démons
