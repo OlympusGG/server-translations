@@ -152,7 +152,7 @@ FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Le changement de faction de la famille est en rechargement.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre 24 heures avant de rejoindre la famille.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiéeh pour rejoindre une famille.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
@@ -433,7 +433,7 @@ MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Vous êtes en sourdine.
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} note(s).
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Tu as reçu un lot de buff!
-NPC_BUFFER_SHOUT_BUFF_ON_CD: Le lot de buff est en cooldown.
+NPC_BUFFER_SHOUT_BUFF_ON_CD: Le lot de buff est en rechargement.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Tu as atteint la limite journalière de ce lot de buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Ton niveau est trop haut pour recevoir ce lot de buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Ton niveau est trop bas pour recevoir ce lot de buff.
