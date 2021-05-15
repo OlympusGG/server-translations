@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
@@ -61,7 +62,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiad
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No sé pueden añadir más opciones al accesorio!
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord. 
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
@@ -110,8 +111,8 @@ FAMILY_DIALOG_CANNOT_CHANGE_YOUR_OWN_AUTHORITY: No puedes cambiar tu propia auto
 FAMILY_DIALOG_CANNOT_KICK_YOURSELF: No te puedes expulsar a ti mismo de la familia.
 FAMILY_DIALOG_CHANGE_HEAD: ¿Quieres cambiar el cabecilla de la familia?
 FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: El cabecilla de la familia no puede salir de esta sin deshacerla por completo.
-FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas abandonar la familia?
 FAMILY_INFO_ALREADY_IN_FAMILY: Ya estás en una familia.
+FAMILY_INFO_ASK_FAMILY_LEAVE: ¿Deseas abandonar la familia?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: No le puedes dar tu mismo nivel de autoridad a otro miembro.
 FAMILY_INFO_CREATION_BANNED_NAME: Tu familia contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Debes estar en un grupo lleno para crear una familia.
@@ -132,6 +133,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este artículo al almacén familiar!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.
@@ -155,7 +157,7 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: ¿Quieres añadir a {0} a tu lista de amigos?
 FRIEND_INFO_ADDED: ¡Solicitud de amistad aceptada!
-FRIEND_INFO_ALREADY_FRIEND: '¡{0} ya está en tu lista de amigos!'
+FRIEND_INFO_ALREADY_FRIEND: ¡{0} ya está en tu lista de amigos!
 FRIEND_INFO_DELETED: ¡Jugador eliminado!
 FRIEND_INFO_FRIENDLIST_FULL: ¡Tu lista de amigos está llena!
 FRIEND_INFO_REFUSED: Solicitud de amistad rechazada.
@@ -317,7 +319,7 @@ INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: El Combate Instantáneo terminar�
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Se acercan monstruos...
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: El Combate Instantáneo terminará en {0} seg.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: ¡Felicidades! ¡Has ganado el Combate Instantáneo!
-INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Desafortunadamente, no batiste la oleada. No recibiste botín. 
+INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Desafortunadamente, no batiste la oleada. No recibiste botín.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_MINUTES_REMAINING: La siguiente oleada comenzará en {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: La siguiente oleada comenzará en {0} seg.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Set de introducción.
@@ -361,9 +363,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Tu compañero no se puede poner este objeto.
 ITEM_MESSAGE_ERASER_NO_SHELL: No puedes borrar las opciones de concha porque no hay.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: ¡No puedes mejorar la Tarjeta de Especialista porque está destruída!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: No puedes ponerte una Tarjeta de Especialista destruída.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Has creado {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: No puedes usar un huevo de facción individual cuando estás en una familia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: ¡El elemento de tu hada es distinto al elemento de la Tarjeta de Especialista!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: No puedes tirar este objeto.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: No puedes tirar este objeto en este sitio.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Solo puedes hacer esto en el Mini-Mundo.
@@ -413,9 +417,13 @@ MINILAND_WELCOME_MESSAGE: ¡Bienvenido!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Duración restante de castigo: {0}.'
 MUTE_MESSAGE_FEMALE: ¡He sido una chica muy mala, así que he sido castigada!
 MUTE_MESSAGE_MALE: ¡He sido un chico muy malo, así que he sido castigado!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: ¡Ha llegado una nueva nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tienes {0} notas en tu bandeja de entrada.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: ¡Has recibido un paquete de buffs!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tu nivel es muy alto para recibir este paquete de buffs.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tu nivel es muy bajo para recibir este paquete de buffs.
 NPC_SHOP_LOG_PURCHASE: Has comprado {1}x {0}.
@@ -474,6 +482,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Compañero ha ido revivido por el Ángel Gu
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: La Tarjeta de Especialista de tu compañero está en enfriamiento - {0} seg.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Tu compañero ha regresado al Mini-Mundo.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Tu compañero volverá en 3 minutos.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Ataque
 PERFECTSP_DEFENSE: Defensa
 PERFECTSP_ELEMENT: Elemento
@@ -541,7 +550,7 @@ PSP_ORKANI: Orkani el Turbulento
 PSP_PALINA: Palina Maestra de las Marionetas
 PSP_PERTI: Ángel de un ala Perti
 PSP_PHARAOH: Akhenaton el Faraón Maldito
-PSP_RAGNAR: Caballero de Huesos Ragnar 
+PSP_RAGNAR: Caballero de Huesos Ragnar
 PSP_SHERIFF_CHLOE: Sheriff Chloe
 PSP_SHINOBI: Shinobi la Silenciosa
 PSP_VENUS: Pequeña Princesa Venus
@@ -559,7 +568,7 @@ QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Ya estás cursando una misión principal.
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tienes algunas misiones sin completar.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Tu nivel es demasiado bajo para esta misión.
 QUEST_SHOUTMESSAGE_SLOT_FULL: No puedes aceptar mas misiones.
-RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '¡{0} está buscando miembros para el raid {1}!'
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: ¡{0} está buscando miembros para el raid {1}!
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} ha sido invitado al equipo de raid.'
 RAID_CHATMESSAGE_KICKED: Has sido expulsado.
 RAID_CHATMESSAGE_KICKED_OTHER: El jugador ha sido expulsado.
@@ -590,7 +599,7 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: El objeto ya ha sido movido.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un raid mientras estas en un grupo.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a un integrante de grupo a un raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: ¡No puedes unirte a un raid mientras estás en la arena!
-RAID_SHOUTMESSAGE_COMPLETED: "¡El equipo de {0} ha completado el raid {1}!"
+RAID_SHOUTMESSAGE_COMPLETED: ¡El equipo de {0} ha completado el raid {1}!
 RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de raid mientras formas parte de un grupo.
 RAID_SHOUTMESSAGE_KICKED: Has sido expulsado.
 RAID_SHOUTMESSAGE_KICKED_OTHER: El jugador ha sido expulsado.
@@ -672,8 +681,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: ¡Tu Tarjeta de Especialista ha sido resuci
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: ¡Debes estar transformado en Especialista para hacer esto!
 SUM_MESSAGE_FAILED: La adición ha fallado.
 SUM_MESSAGE_SUCCESS: ¡Adición exitosa!
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: El Time-Space está en modo fácil - La duración ha sido extendida y no recibirás recompensas.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: ¡La puerta está cerrada!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mi nivel es demasiado bajo para unirme a este Time-Space.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: No todas las misiones del Time-Space han sido completadas.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo el líder del grupo puede iniciar el Time-Space.
@@ -683,15 +694,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: ¿Deseas revivir?
 TIMESPACE_DIALOG_ASK_START: ¿Quieres entrar a la primera habitación?
 TIMESPACE_DIALOG_ASK_START_RECORD: ¿Quieres comenzar el Time-Space en Modo Record? Te costará {0} de oro.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: El Time-Space ya ha comenzado.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Se ha abierto una puerta.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: En algún lugar ha aparecido una puerta.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: ¡Lo enemigos reciben refuerzos!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Has utilizado la palanca.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La misión ha sido actualizada.
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Misión rápida completada exitosamente.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La misión comienza cuando entres al primer cuarto.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: El Time-Space está lleno.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Por favor espera...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: ¿Quieres agregar este título?
 TITLE_INFO_EFFECT_DISABLED: El efecto del título ha sido desactivado.
 TITLE_INFO_EFFECT_ENABLED: El efecto del título ha ido activado.
@@ -702,7 +722,7 @@ TRADE_CHATMESSAGE_BLOCKED: ¡Este usuario tiene bloqueada la opción de comercio
 TRADE_CHATMESSAGE_REFUSED: '{0} rechazó tu solicitud de comercio.'
 TRADE_CHATMESSAGE_YOU_REFUSED: Solicitud de comercio rechazada.
 TRADE_DIALOG_ASK_FOR_TRADE: Has solicitado comerciar con {0}.
-TRADE_DIALOG_INCOMING_EXCHANGE:  '{0} [{1}(+{2})Lv.] quiere comerciar contigo.'
+TRADE_DIALOG_INCOMING_EXCHANGE: '{0} [{1}(+{2})Lv.] quiere comerciar contigo.'
 TRADE_INFO_PLAYER_IN_BATTLE: No puedes intercambiar si estás en combate.
 TRADE_INFO_WAITING_FOR_TARGET: Esperando a {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Este jugador ya está intercambiando.
@@ -722,5 +742,5 @@ WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} te ha propuesto matrimonio. ¿Aceptas?'
 WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Quieres casarte con {0}?
 WEDDING_INFO_DIVORCED: Te has divorciado.
-WEDDING_SHOUTMESSAGE_BROADCAST:  ¡{0} y {1} ahora están casados!
+WEDDING_SHOUTMESSAGE_BROADCAST: ¡{0} y {1} ahora están casados!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrimonio de {1}.'

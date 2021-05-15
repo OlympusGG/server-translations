@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: démoni
@@ -61,7 +62,7 @@ CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Cellonu je pro toto příslušenstv
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Sloty pro příslušenství jsou již plné!
 CELLON_SHOUTMESSAGE_SUCCESS: Vlastnost přidána.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Toto jméno je již obsazeno!
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Název vaší postavy obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord! 
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Název vaší postavy obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord!
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Vaše jméno obsahuje neplatné znaky!
 CHARACTER_DELETION_INFO_FAILED: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
@@ -113,7 +114,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: Hlava rodiny nemůže opustit rodinu, an
 FAMILY_INFO_ALREADY_IN_FAMILY: Již jsi v rodině.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Opravdu chceš opustit rodinu?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Nemůžeš dát ostatním stejná oprávnění.
-FAMILY_INFO_CREATION_BANNED_NAME: Název vaší rodiny obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord! 
+FAMILY_INFO_CREATION_BANNED_NAME: Název vaší rodiny obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord!
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Musíš být ve skupině, aby bylo možné založit rodinu.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Někdo z vaší skupiny je již v rodině nebo nedávno opustil rodinu.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Dosažen maximální počet zástupců.
@@ -132,6 +133,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: Nejsi hlava rodiny!
 FAMILY_INFO_NOT_IN_FAMILY: Nejsi v rodině!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Rodinný servis je v současné době v údržbě.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Tento hráč musí být zástupce!
+FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Denní zpráva již vyčerpána.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nemůžeš přidat tento předmět do rodinného skladu.
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nemáš dostatek oprávnění k této akci.
@@ -193,7 +195,7 @@ GROUP_INFO_JOIN: Připojil jsi se do skupiny hráče {0}!
 GROUP_INFO_LEFT: Opustil jsi skupinu.
 GROUP_INFO_NEW_LEADER: Jsi novým vůdcem skupiny!
 GROUP_INFO_REQUEST: Žádost o skupinu odeslána hráči {0}.
-GROUP_INFO_SHARE_POINT_TO_MEMBERS: Požádali jste o sdílení svého místa návratu se členy skupiny. 
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Požádali jste o sdílení svého místa návratu se členy skupiny.
 GROUP_SHOUTMESSAGE_CLOSED: Skupina rozpuštěna.
 GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} změnil místo návratu.'
 GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} odmítl sdílení místa návratu se členy skupiny.'
@@ -361,9 +363,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Tvůj partner nemůže nosit tento předmět.
 ITEM_MESSAGE_ERASER_NO_SHELL: Nemůžeš odstranit vlastnosti mušle, protože tam žádné nejsou.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nemůžeš vylepšovat kartu Specialisty s mrtvou duší!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžeš nosit zničenou kartu Specialisty.
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Vytvořil jsi {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Když jsi v rodině, nemůžeš použít vejce pro jednotlivce k zvolení strany
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Element víly je liší od elemntu SP!
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
@@ -413,9 +417,13 @@ MINILAND_WELCOME_MESSAGE: Vítejte!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Trest bude ještě trvat: {0}'
 MUTE_MESSAGE_FEMALE: Byla jsem nezbedná dívka, a tak jsem byla potrestána!
 MUTE_MESSAGE_MALE: Byla jsem velmi zlobivý chlapec, a tak jsem byl potrestán!
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Dorazila nová zpráva!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Máš {0} zpráv v doručené poště.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Obdržel jsi balíček Buffů!
+NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tvůj level je na tento balíček Buffů příliš vysoký.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tvůj level je na tento balíček Buffů příliš nízký.
 NPC_SHOP_LOG_PURCHASE: Zakoupil jsi {1}x {0}.
@@ -474,6 +482,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner oživen Ochranným andělem partner
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Karta specialisty partnera má cooldown - {0} sekund.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner odešel zpět do Mini země.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner bude zpět za 3 minuty.
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PERFECTSP_ATTACK: Útok
 PERFECTSP_DEFENSE: Obrana
 PERFECTSP_ELEMENT: Element
@@ -590,7 +599,7 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nemůžeš vytvořit raid, když jsi ve skupině.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do raidu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit do raidu, když jsi v aréně!
-RAID_SHOUTMESSAGE_COMPLETED: "Tým hráče {0} dokončil raid {1}!"
+RAID_SHOUTMESSAGE_COMPLETED: Tým hráče {0} dokončil raid {1}!
 RAID_SHOUTMESSAGE_IN_GROUP: Nemůžeš se připojit do raidu, když jsi ve skupině.
 RAID_SHOUTMESSAGE_KICKED: Byl jsi vyhozen
 RAID_SHOUTMESSAGE_KICKED_OTHER: Hráč byl vyhozen
@@ -672,8 +681,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Tvá duše specialisty byla vzkříšena!
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musíš být transformován do Specialisty, abys mohl toto dělat!
 SUM_MESSAGE_FAILED: Sčítání selhalo.
 SUM_MESSAGE_SUCCESS: Sčítání úspěšné!
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Time-space je v "Easy" módu - čas na dokončení byl prodloužen, ale neobdržíš zvolené odměny.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brána je uzamčena!
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký pro připojení do této time-space mise.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Ne všechny time-space mise byly ukončeny.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může zahájit Time-space.
@@ -683,15 +694,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Chceš se oživit?
 TIMESPACE_DIALOG_ASK_START: Chceš vstoupit do první místnosti?
 TIMESPACE_DIALOG_ASK_START_RECORD: Chceš začít time-space v módu na rekord? Bude to stát {0} zlata.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Time-space právě započal.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Dveře se otevřely
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Někde se otevřely dveře
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Nepřátelé brzy dostanou posily!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Páčka byla zatažena.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Mise byla aktualizována.
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Úspěšně jsi dokončil rychlou misi.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Mise začíná jakmile vstoupíš do první místnosti.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Time-Space je plný.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Prosím čekejte...
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Chceš přidat tento titul?
 TITLE_INFO_EFFECT_DISABLED: Efekt titulu byl zakázán.
 TITLE_INFO_EFFECT_ENABLED: Efekt titulu byl povolen.
