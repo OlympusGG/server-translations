@@ -174,6 +174,7 @@ GAMBLING_MESSAGE_FAILED: Şans oyunu başarısız, teçhizat yok edildi.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Şans oyunu başarısız oldu ama teçhizat yok olmaktan kurtarıldı.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazsın.
 GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
+GAME_FEATURE_DISABLED: This game feature is currently disabled
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: '{0} etkinliğine katılmak istiyor musun?'
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: '{1} karşılığında {0} etkinliğine katılmak istiyor musun?'
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Etkinliğe sadece genel haritalardan katılabilirsin.

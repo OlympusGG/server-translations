@@ -174,6 +174,7 @@ GAMBLING_MESSAGE_FAILED: Gambling failed! The item was destroyed.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
 GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
+GAME_FEATURE_DISABLED: This game feature is currently disabled
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: Do you want to participate in {0}?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Do you want to participate in {0}? It will cost you {1}.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: You can't join the event while not in a general map.
