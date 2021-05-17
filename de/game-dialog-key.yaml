@@ -583,11 +583,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast nicht erfüllte Questaufträge.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} sucht Spieler für den {1} Raid!'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} wurde in das Raidteam eingeladen.'
 RAID_CHATMESSAGE_KICKED: Du wurdest gekickt.
 RAID_CHATMESSAGE_KICKED_OTHER: Spieler wurde gekickt.
 RAID_CHATMESSAGE_LEFT: '{0} hat das Raidteam verlassen.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Dein Level entspricht nicht dem empfohlenen Level für diesen Raid, daher wirst du bei einem Sieg keine Raidbox erhalten.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilnehmen zu können.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Raidleiter.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder hat bereits begonnen!

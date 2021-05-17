@@ -583,11 +583,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tu as des quêtes incomplètes.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Ton niveau est trop bas pour cette quête.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Tu ne peux pas accepter davantage de quêtes.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} cherche des membres pour le raid {1} !'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: "{0} a été invité dans l'équipe."
 RAID_CHATMESSAGE_KICKED: Tu as été expulsé de l'équipe.
 RAID_CHATMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
 RAID_CHATMESSAGE_LEFT: "{0} a quitté l'équipe."
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Ton niveau n'étant pas conforme, tu ne recevras pas de boîte si le raid est un succès.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Tu dois atteindre le niveau {0} pour rejoindre le raid.
 RAID_CHATMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe"
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Ce raid n'existe plus ou a déjà commencé!

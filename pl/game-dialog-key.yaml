@@ -583,11 +583,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Masz nieukończone misję.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Masz za niski poziom na tę misję.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nie masz miejsca na nową misję.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} poszukuję członków do rajdu: {1}!'
+RAID_CHATMESSAGE_AMULET_NEEDED: Potrzebujesz przedmiotu {0} aby dołączyć do tego rajdu.
 RAID_CHATMESSAGE_GROUP_REQUEST: Gracz {0} został zaproszony.
 RAID_CHATMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_CHATMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
 RAID_CHATMESSAGE_LEFT: '{0} opuścił drużynę.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jako że zalecany poziom rajdu nie odpowiada Twojemu poziomowi, po jego pomyślnym ukończeniu nie otrzymasz Pudła Rajdu.
+RAID_CHATMESSAGE_LIMIT_LEFT: Dzisiaj możesz wziąć udział w rajdzie {0} {1} razy.
+RAID_CHATMESSAGE_LIMIT_REACHED: Osiągnięto maksymalną ilość wejść w rajdzie {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Rajd nie istnieje lub już wystartował.

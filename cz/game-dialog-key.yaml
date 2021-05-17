@@ -583,11 +583,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Máš nějaké nesplněné mise
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Tvůj level je na tuto misi příliš nízký
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nemůžeš přijmout více misí.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} hledá hráče na raid: {1}!'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} byl pozván do raidu.'
 RAID_CHATMESSAGE_KICKED: Byl jsi vyhozen.
 RAID_CHATMESSAGE_KICKED_OTHER: Hráč byl vyhozen.
 RAID_CHATMESSAGE_LEFT: '{0} opustil tým.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jelikož nesplňuješ doporučený level pro tento raid, nemůžeš obdržet raid box ani při splnění mise.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Musíš mít alespoň level {0} pro připojení do raidu.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} je nový vedoucí týmu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid neexistuje, nebo již započal!

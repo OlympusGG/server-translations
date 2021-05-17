@@ -583,11 +583,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış görevlerin var.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için yetersiz.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0}, {1} akını için yardım arıyor!'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} takıma davet edildi.'
 RAID_CHATMESSAGE_KICKED: Takımdan kovuldun.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
 RAID_CHATMESSAGE_LEFT: '{0} takımdan ayrıldı.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Seviyen önerilen seviyeden yüksek olduğu için akın başarılı olsa bile sandık kazanamayacaksın.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Bu akına katılmak için en az {0} seviye olman gerekiyor.
 RAID_CHATMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın bulunamadı veya çoktan başlamış.
