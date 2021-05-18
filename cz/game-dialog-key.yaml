@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Vstup do podsvětí je nyní otevřen při ce
 ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají již přidělenou stranu a mají ochrannou moc.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor andělů
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor démonů
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'

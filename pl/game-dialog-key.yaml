@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Błędny login.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy na pewno chcesz opuścić loch?
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_KILL_INFO: 'Zabójstwa: {0}, Śmierci: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: aniołów
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Brama rajdowewgo lochu jest otwarta przy cent
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Obóz Aniołów
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Obóz Demonów
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Obóz jest już postawiony.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: Założono nowy główny obóz Aniołów!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Założono nowy główny obóz Demonów!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
