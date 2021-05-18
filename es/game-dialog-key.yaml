@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal del calabozo se ha abierto cerca 
 ACT4_NEED_FACTION: Sólo aquellos con una facción pueden viajar a Glacernon.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de los ángeles
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de los demonios
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡Lord Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: ¡Lord Mukraju no ha sido derrotado a tiempo!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!

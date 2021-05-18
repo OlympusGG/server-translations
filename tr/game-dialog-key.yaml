@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakımda.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Melekler
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Zindan girişi Bitoren Tundrasının merkezin
 ACT4_NEED_FACTION: Sadece koruma gücü olanlar Donmuş Taç'a katılabilirler.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Melek Kampı
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Şeytan Kampı
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} Lord Mukraju'yu yendi!"
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} Lord Mukraju'yu zamanında yenemedi."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} Lord Mukraju'yu çağırdı!"

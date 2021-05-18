@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Portal zum Verlies hat sich nahe des zent
 ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Lager der Engel
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Lager der Dämonen
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju ist tot!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju ist gestorben
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'

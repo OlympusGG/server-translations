@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Username errato.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato. Riprova più tardi.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Il portale per il raid è aperto sulla torre 
 ACT4_NEED_FACTION: Hai bisogno di far parte di una fazione.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Accampamento degli Angeli
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Accampamento dei Demoni
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju è stato sconfitto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju è scomparso!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} ha evocato Lord Mukraju!'

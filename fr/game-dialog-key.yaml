@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
@@ -17,6 +18,9 @@ ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte au 
 ACT4_NEED_FACTION: Seuls ceux qui ont un pouvoir de protection peuvent rejoindre la Couronne de glace.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Camp des anges
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Camp des démons
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Le {0} a vaincu le Seigneur Mukraju !
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Le {0} n'a pas réussi à vaincre le Seigneur Mukraju à temps.
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: Le {0} a invoqué le Seigneur Mukraju !
