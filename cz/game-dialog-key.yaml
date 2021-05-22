@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na teb
 ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji stranu?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit stranu své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
 ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého Mazlíčka do perly?

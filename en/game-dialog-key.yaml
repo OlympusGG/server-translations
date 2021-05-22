@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: Do you want to wear that item? It will bind this item to y
 ITEM_DIALOG_ASK_CHANGE_FACTION: Do you want to change your faction?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Do you want to change your specialist wings?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Do you want to open this box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Do you want to take out your NosMate?
 ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead?

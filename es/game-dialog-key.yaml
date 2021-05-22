@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: ¿Quieres ponerte ese objeto? Se fijará a tu personaje y 
 ITEM_DIALOG_ASK_CHANGE_FACTION: ¿Quieres cambiar tu facción?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: ¿Quieres cambiar la facción de tu familia?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: ¿Quieres cambiar tus Alas de Especialista?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: ¿Quieres abrir esta caja?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: ¿Quieres sacar al NosMate de la perla?
 ITEM_DIALOG_ASK_PET_STORE: ¿Quieres introducir a tu NosMate en la perla?

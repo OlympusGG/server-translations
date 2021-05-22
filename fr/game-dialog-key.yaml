@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: Es-tu sûr de vouloir te lier à cet objet ? Il ne sera pl
 ITEM_DIALOG_ASK_CHANGE_FACTION: Es-tu sûr de vouloir changer de faction ?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Es-tu sûr de vouloir changer la faction de la famille ?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Es-tu sûr de vouloir changer tes ailes de spécialiste ?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Es-tu sûr de vouloir ouvrir cette boîte ?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Es-tu sûr de vouloir libérer le familier ?
 ITEM_DIALOG_ASK_PET_STORE: Es-tu sûr de vouloir stocker ton familier dans la perle ?

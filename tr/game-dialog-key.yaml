@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: Bu eşyayı karakterine bağlamak istediğine emin misin? 
 ITEM_DIALOG_ASK_CHANGE_FACTION: Koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Uzmanlık Kartının kanatlarını değiştirmek istiyor musun?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Kutuyu açmak istiyor musun?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Evcil hayvanı inciden çıkarmak istiyor musun?
 ITEM_DIALOG_ASK_PET_STORE: Evcil hayvanı inciye yerleştirmek istiyor musun?

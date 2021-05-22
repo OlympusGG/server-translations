@@ -357,7 +357,7 @@ ITEM_DIALOG_ASK_BIND: Möchtest du diesen Gegenstand benutzen? Dadurch wird der 
 ITEM_DIALOG_ASK_CHANGE_FACTION: Möchtest du deine Fraktion ändern?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Möchtest du die Fraktion deiner Familie ändern?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Möchtest du die Flügel deiner Spezialistenkarte ändern?
-ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
+ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Möchtest du die Box öffnen?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Möchtest du das NosMate befreien?
 ITEM_DIALOG_ASK_PET_STORE: Möchtest du dein NosMate in einer Perle aufbewahren?
