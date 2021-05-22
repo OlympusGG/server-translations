@@ -176,6 +176,7 @@ GAMBLING_MESSAGE_ALREADY_MAX_RARE: Hai già raggiunto la rarità massima!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: L'oggetto non è stato distrutto grazie alla protezione dell'amuleto!
 GAMBLING_MESSAGE_FAILED: Scommessa fallita! L'oggetto è stato distrutto.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Scommessa fallita, ma l'oggetto è stato protetto dalla distruzione.
+GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Non puoi scommettere oggetti Eroici.
 GAMBLING_MESSAGE_SUCCESS: 'Scommessa riuscita! Nuovo livello di rarità: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
@@ -356,6 +357,7 @@ ITEM_DIALOG_ASK_BIND: Vuoi indossare questo oggetto? Si legherà al tuo personag
 ITEM_DIALOG_ASK_CHANGE_FACTION: Vuoi cambiare fazione?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua Famiglia?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Vuoi modificare le ali del tuo Specialista?
+ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
 ITEM_DIALOG_ASK_OPEN_BOX: Vuoi aprire questa scatola?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Vuoi tirare fuori il tuo NosMate dalla perla?
 ITEM_DIALOG_ASK_PET_STORE: Vuoi inserire il tuo NosMate nella perla?
@@ -432,6 +434,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Sei di livello troppo alto per ricevere il pacchetto dei buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Sei di livello troppo basso per ricevere il pacchetto dei buff.
 NPC_SHOP_LOG_PURCHASE: Hai comprato {1}x {0}.
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Icone Buff Intermittenti disattivate
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Icone Buff Intermittenti attivate
 OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC disattivato

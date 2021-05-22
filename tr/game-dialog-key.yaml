@@ -176,6 +176,7 @@ GAMBLING_MESSAGE_ALREADY_MAX_RARE: Teçhizat zaten en yüksek nadirlik seviyesin
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Tılsımın sayesinde teçhizatın yok olmaktan kurtarıldı.
 GAMBLING_MESSAGE_FAILED: Şans oyunu başarısız, teçhizat yok edildi.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Şans oyunu başarısız oldu ama teçhizat yok olmaktan kurtarıldı.
+GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazsın.
 GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
@@ -356,6 +357,7 @@ ITEM_DIALOG_ASK_BIND: Bu eşyayı karakterine bağlamak istediğine emin misin? 
 ITEM_DIALOG_ASK_CHANGE_FACTION: Koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Uzmanlık Kartının kanatlarını değiştirmek istiyor musun?
+ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
 ITEM_DIALOG_ASK_OPEN_BOX: Kutuyu açmak istiyor musun?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Evcil hayvanı inciden çıkarmak istiyor musun?
 ITEM_DIALOG_ASK_PET_STORE: Evcil hayvanı inciye yerleştirmek istiyor musun?
@@ -432,6 +434,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Seviyeniz bu buff paketini alamayacak kadar yüksek.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Seviyeniz bu buff paketini alamayacak kadar düşük.
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Artık buff akışlarını engelliyorsun.
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Artık buff akışlarını kabul ediyorsun.
 OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC devre dışı

@@ -176,6 +176,7 @@ GAMBLING_MESSAGE_ALREADY_MAX_RARE: You already have the highest rarity!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
 GAMBLING_MESSAGE_FAILED: Gambling failed! The item was destroyed.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
+GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
 GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
@@ -356,6 +357,7 @@ ITEM_DIALOG_ASK_BIND: Do you want to wear that item? It will bind this item to y
 ITEM_DIALOG_ASK_CHANGE_FACTION: Do you want to change your faction?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Do you want to change your specialist wings?
+ITEM_DIALOG_ASK_NOT_TRADABLE: '#ITEM_DIALOG_ASK_NOT_TRADABLE'
 ITEM_DIALOG_ASK_OPEN_BOX: Do you want to open this box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Do you want to take out your NosMate?
 ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead?
@@ -432,6 +434,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blinking buffs disabled
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Blinking buffs enabled
 OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC disabled
