@@ -107,6 +107,7 @@ FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Vílí kámen lze vložit pouze do zbr
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil do hry!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Rodinný upgrade zakoupen!
+FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Tento člen rodiny již má příslušné oprávnění.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Opravdu chceš rozpustit rodinu? Nepůjde to vrátit zpátky!
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Opravdu se chceš připojit do této rodiny?

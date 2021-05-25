@@ -107,6 +107,7 @@ FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to we
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
+FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: This family member has already that authority.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Do you want to dismiss your family? It can't be undone.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Are you sure you want to join the family?
