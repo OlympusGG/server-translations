@@ -107,6 +107,7 @@ FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Peri Taşlarını sadece silahlara ve 
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarısının kilidi açıldı: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile geliştirmesi alındı!
+FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Aile üyesi zaten bu yetkiye sahip.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Aileni dağıtmak mı istiyorsun? Bu işlem geri alınamaz.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Aileye katılmak istediğine emin misin?

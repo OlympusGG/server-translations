@@ -107,6 +107,7 @@ FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Puoi inserire Pietre Fatate solo ad ar
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Trofeo sbloccato: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) ha effettuato l'accesso!"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Miglioramento della Famiglia acquistato!
+FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Questo membro della Famiglia ha già questa autorizzazione..
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Vuoi sciogliere la tua Famiglia? Questa azione è irreversibile.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Vuoi far parte della Famiglia?

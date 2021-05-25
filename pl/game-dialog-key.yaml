@@ -107,6 +107,7 @@ FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Możesz umieścić Kamienie Wróżki t
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono rozszerzenie rodziny!
+FAMILY_CHATMESSAGE_XP_GAINED: 'Otrzymane punkty PDR: {0}'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Członek rodziny już ma te same uprawnienia.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Czy na pewno chcesz rozwiązać rodzinę? Nie można tego cofnąć.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Czy na pewno chcesz dołączyć do rodziny?
