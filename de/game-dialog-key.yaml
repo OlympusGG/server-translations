@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Das NosMate ist bereits in deinem Team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Dein NosMate kann bereits beschworen werden!
 PET_MESSAGE_KICKED: Dein NosMate ist in das Mini-Land zurückgekehrt.
 PET_MESSAGE_SUMMONABLE: Dein NosMate kann jetzt jederzeit herbeigerufen werden.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Das Level deines NosMate's ist höher als deins!
 PET_SHOUTMESSAGE_LEVEL_UP: Dein NosMate {0} ist aufgestiegen!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist in das Mini-Land zurückgekehrt.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Möchtest du deine bereits erlernte Fähigkeitsverbesserung ersetzen?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Du musst warten, bis die Abklingzeiten deiner Fähigkeiten vorüber sind, bevor du eine neue Fähigkeit erlernen kannst.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Du kannst dieses Monster während eines Raids nicht einfangen!

@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please tr
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a été vaincu par {1}.
 ACT4_CHATMESSAGE_PVP_DEMONS: démons
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Ce familier est déjà en ta compagnie.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Tu peux déjà invoquer ton familier !
 PET_MESSAGE_KICKED: Ton familier a été renvoyé au mini-pays.
 PET_MESSAGE_SUMMONABLE: Tu peux désormais invoquer ton familier.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Le niveau de ton familier est supérieur au tien !
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} a monté de niveau !'
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton familier a été renvoyé au mini-pays.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Sort interrompu !
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Veux-tu remplacer l'amélioration de compétence actuelle par celle-ci?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Tu ne peux pas apprendre cette compétence.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Tu dois attendre la fin de rechargement de tes compétences pour pouvoir en apprendre une nouvelle.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture échouée !
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Tu ne peux pas capturer ce monstre !
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Tu ne peux pas capturer ce monstre en étant dans un raid !

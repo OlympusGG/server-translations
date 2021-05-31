@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Pros�
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: démoni
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Tvůj Mazlíček  již je v týmu.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého Mazlíčka již zavolat můžeš!
 PET_MESSAGE_KICKED: Tvůj Mazlíček se navrátil do Mini země.
 PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého Mazlíčka kdykoliv.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvoje úroveň!
 PET_SHOUTMESSAGE_LEVEL_UP: Tvůj Mazlíček {0} právě navýšil svoji úroveň!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Mazlíček odešel zpět do Mini země.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Musíš počkat než skončí cooldown u dovednosti, než se začneš učit nové.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Odchycení selhalo!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nemůžeš odchytit toto monstrum!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Nemůžeš odchytit toto monstrum během raidu!

@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please tr
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: angels
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: demons
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Your NosMate is already in the team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: You can already summon your NosMate!
 PET_MESSAGE_KICKED: Your NosMate has returned to the Miniland.
 PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Your NosMate's level is higher than yours!
 PET_SHOUTMESSAGE_LEVEL_UP: Your NosMate {0} has leveled up!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate went back to Miniland.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: You need to wait for skill cooldowns to finish before learning new ones.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture failed!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: You can't capture this monster!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: You can't capture this monster during the Raid!

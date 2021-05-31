@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: degli Angeli
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: dei Demoni
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Il tuo NosMate è già nel team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Puoi già evocare il tuo NosMate!
 PET_MESSAGE_KICKED: Il tuo NosMate è stato inviato alla Mini-Land.
 PET_MESSAGE_SUMMONABLE: Puoi evocare il tuo NosMate in qualsiasi momento.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Il livello del tuo NosMate è più alto del tuo!
 PET_SHOUTMESSAGE_LEVEL_UP: Il livello di {0} è aumentato!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il NosMate è tornato alla Mini-Land.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Incantesimo interrotto!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Vuoi rimpiazzare il corrente miglioramento dell'abilità di questo tipo?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Non puoi apprendere questa abilità.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Devi attendere la fine del caricamente delle tue abilità prima di poterne apprendere altre.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Cattura fallita!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Non puoi catturare questo mostro!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Non puoi catturare questo mostro nel raid!

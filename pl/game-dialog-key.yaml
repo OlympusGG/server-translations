@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Sprób
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy na pewno chcesz opuścić loch?
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_KILL_INFO: 'Zabójstwa: {0}, Śmierci: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Pozyskanie lub strata reputacji jest zmniejszona, ponieważ ty lub wróg zginąłeś dziś wiele razy
 ACT4_CHATMESSAGE_PVP_ANGELS: aniołów
 ACT4_CHATMESSAGE_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika {0}
 ACT4_CHATMESSAGE_PVP_DEMONS: demonów
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: NosKumpel aktualnie w drużynie!
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: NosKumpel już może być przywoływany.
 PET_MESSAGE_KICKED: NosKumpel wrócił do Mini-Landu.
 PET_MESSAGE_SUMMONABLE: Możesz teraz przywołać swojego NosKumpla w dowolnym momencie.
+PET_SHOUTMESSAGE_DIGNITY_LOW: Nie możesz wziąć ze sobą NosKumpla, ponieważ twoja godność jest zbyt niska
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Poziom NosKumpla jest wyższy od Twojego.
 PET_SHOUTMESSAGE_LEVEL_UP: Twój NosKumpel {0} osiągnął następny poziom!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Działanie umiejętności zostało przerwane.
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Czy na pewno chcesz zastąpić aktualne ulepszenie tego typu?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nie możesz nauczyć się tej umiejętnóści.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Aby nauczyć się nowej umiejętności, czas odnowy musi się zakończyć.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Nie możesz schwytać stwora ze względu na zbyt niski poziom godności.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Nie udało się złapać stwora!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nie możesz złapać tego stwora!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Nie możesz łapać zwierząt podczas rajdu!
