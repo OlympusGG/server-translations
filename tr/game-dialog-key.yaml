@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen 
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: Melekler
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} bir {0} koruyucusu tarafından yenildi.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Şeytanlar
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Evcil hayvan zaten seni takip ediyor.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Evcil hayvanını zaten çağırabiliyorsun.
 PET_MESSAGE_KICKED: Evcil hayvanını Miniland'e gönderdin.
 PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Evcil hayvanının seviyesi seninkinden yüksek!
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} seviye atladı!'
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Evcil hayvan Miniland'e döndü.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Büyü uygulaması kesildi.
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Bu türdeki mevcut beceri yükseltmesini değiştirmek istiyor musun?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Bu yeteneği öğrenemezsin!
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Yeni yetenek öğrenmek için soğuma sürelerinin dolmasını beklemelisin.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Evcilleştirme başarısız!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Bu canavarı evcilleştiremezsin!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Bu canavarı akın sırasında evcilleştiremezsin!

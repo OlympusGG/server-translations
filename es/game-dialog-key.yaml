@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por fa
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
@@ -518,6 +519,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Tu NosMate ya se encuentra en tu equipo.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: ¡Ya puedes invocar a tu NosMate!
 PET_MESSAGE_KICKED: Tu NosMate ha vuelto al Mini-Mundo.
 PET_MESSAGE_SUMMONABLE: Ahora puedes invocar a tu NosMate en cualquier momento.
+PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: ¡El nivel de tu NosMate es más alto que el tuyo!
 PET_SHOUTMESSAGE_LEVEL_UP: ¡Tu NosMate {0} ha subido de nivel!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: El NosMate ha vuelto al Minimundo.
@@ -664,6 +666,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: ¡Hechizo interrumpido!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: ¿Quieres reemplazar la mejora de habilidad de ese tipo?
 SKILL_SHOUTMESSAGE_CANT_LEARN: No puedes aprender esta habilidad.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Debes esperar a que terminen los enfriamientos de tus habilidades para aprender unas nuevas.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: ¡Captura Fallida!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: ¡No puedes capturar a esta criatura!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: ¡No puedes capturar a esta criatura durante el Raid!
