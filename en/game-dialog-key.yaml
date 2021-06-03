@@ -688,7 +688,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} SP points to transform into a Specialist Card!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} basic SP points to transform into a Specialist Card!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: You have no SP points left! You can't transform now!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: You can't remove the Specialist Card because of a negative effect.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: You added {0} SP points!

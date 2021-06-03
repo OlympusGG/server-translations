@@ -688,7 +688,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Twoja podstawowa ilość punktów SP jest bard
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nie możesz teraz atakować!
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Poziom profesji Karty Specjalisty został podwyższony!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Potrzebujesz {0} punktów SP, aby przetransformować się w Kartę Specjalisty!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Potrzebujesz {0} podstawowych punktów SP, aby przetransformować się w Kartę Specjalisty!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Nie posiadasz wystarczająco punktów SP, aby się przetransformować.
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Nie możesz się przetransformować, gdyż posiadasz negatywne efekty!
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Dodano {0} punktów SP!
