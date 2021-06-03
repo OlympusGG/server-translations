@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: '{0}000 Gold in deine Bank eingezahlt.'
 BANK_MESSAGE_MAX_GOLD_REACHED: Goldgrenze der Bank erreicht!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Überschüssiges Gold an die Bank gesendet.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ITEM_CHANGED: Kauf nicht möglich, Gegenstand verkauft oder Preis geändert.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBasar wird gewartet.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximale Anzahl an Gegenständen registriert.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da du bereits unter dem Effekt {0} stehst.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
+ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Du hast bereits einen Wegweiser aufgestellt. Verbliebene Zeit: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Haltbarkeit des Items {0} ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Die Fixierung deines Gegenstands wurde aufgehoben!
@@ -682,6 +684,7 @@ SPEAKER_NAME: Gesamt
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Du kannst die Spezialistenkarte nicht ändern!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Abklingzeit des Spezialisten abgelaufen.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Du musst dich in deine Spezialistenkarte verwandeln, um dies zu tun!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Abklingkeit der Spezialistenkarte - {0} Sek.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Das Level deiner Spezialistenkarten wurde erhöht!

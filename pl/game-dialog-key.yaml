@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: 'Wpłacono: {0}000 złota'
 BANK_MESSAGE_MAX_GOLD_REACHED: Osiągnięto maksymalną ilość złota w banku!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Nadmiar złota został przekazany do banku.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} został dodany do NosBazaru.'
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Sprzedano przedmiot {0}x {1} na NosBazarze
 BAZAAR_INFO_ITEM_CHANGED: Zakup niemożliwy, przedmiot został sprzedany lub jego cena uległa zmianie.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar jest w trakcie konserwacji.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maksymalna liczba wystawionych przedmiotów została osiągnięta.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Nie możesz tego użyć.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ posiadasz już efekt {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
+ITEM_CHATMESSAGE_ON_MOUNT: Będąc na pojeździe możesz używać tylko przekąsek oraz eliksirów.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
 ITEM_CHATMESSAGE_UNFIXED: Odblokowano utrwalony przedmiot.
@@ -525,8 +527,8 @@ PET_SHOUTMESSAGE_LEVEL_UP: Twój NosKumpel {0} osiągnął następny poziom!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[System Pity] {0} => [{1}/{2}], szansa na zdobycie nagrody: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[System Pity] Otrzymano {0} jaką dodatkową nagrodę!'
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
@@ -682,6 +684,7 @@ SPEAKER_NAME: Głośnik
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Czas odnowienia Karty Specjalisty zniknął.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Musisz przetransformować się w Kartę Specjalisty, aby to zrobić!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Twoja podstawowa ilość punktów SP jest bardzo niska!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nie możesz teraz atakować!
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta Specjalisty jest w trakcie odnowy - {0} sek.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Poziom profesji Karty Specjalisty został podwyższony!

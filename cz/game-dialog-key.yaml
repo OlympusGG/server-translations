@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: Vloženo {0}000 na bankovní účet.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximální množství zlata v bance bylo dosaženo!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finanční prostředky byly zaslány na bankovní účet.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: Položka přidána do NosBazaru.
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ITEM_CHANGED: Nákup není možný, položka byla prodána nebo byla změněna její cena.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar je v údržbě.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Bylo dosaženo maximálního počtu nabízených položek.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Toto nemůžeš použít.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože už máš buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
+ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
 ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět již nemá zafixovaný level!
@@ -682,6 +684,7 @@ SPEAKER_NAME: Reproduktor
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nyní nemůžeš vyměnit kartu specialisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown transformace specialisty skončil.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Musíš být transformován do karty specialisty, aby tato akce byla možná!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nyní nemůžeš útočit.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta specialisty má cooldown - {0} sekund.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Level specialisty byl zvýšen!

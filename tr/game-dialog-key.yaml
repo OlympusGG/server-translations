@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: Banka hesabına {0}000 altın yatırıldı.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maksimum altın limitine ulaşıldı!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Artan bakiye banka hesabına gönderildi.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: "{0}x {1} - NosPazar'a yerleştirildi."
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ITEM_CHANGED: Geçersiz işlem, eşya satıldı veya fiyatı değiştirildi.
 BAZAAR_INFO_MAINTENANCE_MODE: NosPazar bakım altında.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Daha fazla ürün satamazsın.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
+ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
 ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
@@ -682,6 +684,7 @@ SPEAKER_NAME: Hoparlör
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Henüz Uzmanlık Kartını kuşanamazsın.
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Uzmanlık Kartı artık kuşanılabilir.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Bunu yapmak için Uzmanlık Kartını kuşatmış olmalısın.
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Henüz saldıramazsın.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Uzmanın seviyesi yükseldi!
