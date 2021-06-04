@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: Deposited {0}000 gold into your bank.
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximum amount of gold in bank reached!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - added to NosBazaar.'
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ITEM_CHANGED: Purchase invalid, item sold or price changed.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazaar is under maintenance.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: You can't use that.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already have {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: The {0} effect has been activated!
 ITEM_CHATMESSAGE_NO_GILLION: You don't have enough Gillion Stone!
+ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Item's ({0}) duration has expired.
 ITEM_CHATMESSAGE_UNFIXED: Your item is no longer level fixed!
@@ -682,10 +684,11 @@ SPEAKER_NAME: Speaker
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: You need to be transformed into your Specialist Card to do this!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} SP points to transform into a Specialist Card!
+SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} basic SP points to transform into a Specialist Card!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: You have no SP points left! You can't transform now!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: You can't remove the Specialist Card because of a negative effect.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: You added {0} SP points!

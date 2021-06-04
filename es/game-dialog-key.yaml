@@ -44,6 +44,7 @@ BANK_MESSAGE_DEPOSIT: Has depositado {0} de oro en tu cuenta bancaria.
 BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ITEM_CHANGED: No se puedo comprar el objeto. Este ha sido vendido o su precio ha cambiado.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar está bajo mantenimiento.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos a la venta.
@@ -352,6 +353,7 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: No puedes usar eso.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: No puedes usar ese objeto, debido a que ya tienes {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto {0} ha sido activado!
 ITEM_CHATMESSAGE_NO_GILLION: ¡No tienes suficiente Piedra de Gillion!
+ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Ya tienes una señal de Mini-Mundo establecida. Tiempo restante: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La duración del objeto ({0}) ha terminado.
 ITEM_CHATMESSAGE_UNFIXED: ¡Tu objeto ya no tiene nivel fijado!
@@ -682,6 +684,7 @@ SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: ¡No puedes cambiar tu Tarjeta de Especialista ahora!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: El enfriamiento de la Tarjeta de Especialista ha terminado.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: ¡Necesitas estar transformado en tu Tarjeta de Especialista para hacer esto!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: No puedes atacar ahora mismo.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Tarjeta de Especialista está en enfriamiento - {0} sec.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: ¡Nivel de Especialista aumentado!
