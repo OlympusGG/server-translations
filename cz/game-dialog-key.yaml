@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Byl postaven nový základní tábor démon
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
@@ -354,6 +355,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože u
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
 ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět již nemá zafixovaný level!
@@ -361,6 +363,7 @@ ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na teb
 ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji stranu?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit stranu své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
@@ -382,6 +385,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
@@ -610,6 +614,7 @@ RAID_NAME_CUBY: Matka Kuby
 RAID_NAME_GIANTBLACKSPIDER: Obrovský černý pavouk
 RAID_NAME_GINSENG: Ženšen
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Obrovský Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Již jsi v jiném týmu na raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.

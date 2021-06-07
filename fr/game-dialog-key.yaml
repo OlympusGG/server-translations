@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Le {0} a vaincu le Seigneur Mukraju !
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Le {0} n'a pas réussi à vaincre le Seigneur Mukraju à temps.
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: Le {0} a invoqué le Seigneur Mukraju !
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
 AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèches chargées !
@@ -354,6 +355,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu as déjà {0}, tu ne peux pas utiliser l'obj
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé!
 ITEM_CHATMESSAGE_NO_GILLION: Tu n'as pas suffisament de pierres Gillion !
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Tu as déjà installé un poteau indicateur. Temps restant: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durée d'effet ({0}) a expiré.
 ITEM_CHATMESSAGE_UNFIXED: Le niveau de l'objet n'est plus fixe !
@@ -361,6 +363,7 @@ ITEM_DIALOG_ASK_BIND: Es-tu sûr de vouloir te lier à cet objet ? Il ne sera pl
 ITEM_DIALOG_ASK_CHANGE_FACTION: Es-tu sûr de vouloir changer de faction ?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Es-tu sûr de vouloir changer la faction de la famille ?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Es-tu sûr de vouloir changer tes ailes de spécialiste ?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Es-tu sûr de vouloir ouvrir cette boîte ?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Es-tu sûr de vouloir libérer le familier ?
@@ -382,6 +385,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Cet objet ne peut pas être jeté.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tu ne peux pas jeter cet objet ici.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Tu ne peux faire ça que dans un mini-pays.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Tu es déjà dans cette faction !
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
@@ -610,6 +614,7 @@ RAID_NAME_CUBY: Mère Cuby
 RAID_NAME_GIANTBLACKSPIDER: Araignée Noire Géante
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Slade Géant
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Cet objet a déjà été bougé.

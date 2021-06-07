@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju ist tot!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju ist gestorben
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Schleuder nachgeladen.
 AMMO_LOADED_ARCHER: Bogen nachgeladen.
@@ -354,6 +355,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da 
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Du hast bereits einen Wegweiser aufgestellt. Verbliebene Zeit: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Haltbarkeit des Items {0} ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Die Fixierung deines Gegenstands wurde aufgehoben!
@@ -361,6 +363,7 @@ ITEM_DIALOG_ASK_BIND: Möchtest du diesen Gegenstand benutzen? Dadurch wird der 
 ITEM_DIALOG_ASK_CHANGE_FACTION: Möchtest du deine Fraktion ändern?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Möchtest du die Fraktion deiner Familie ändern?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Möchtest du die Flügel deiner Spezialistenkarte ändern?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Möchtest du die Box öffnen?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Möchtest du das NosMate befreien?
@@ -382,6 +385,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Dieser Gegenstand kann nicht fallen gelassen werden.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst diesen Gegenstand hier nicht fallen lassen.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Miniland tun.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht nochmal verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
@@ -610,6 +614,7 @@ RAID_NAME_CUBY: Cuby Mutter
 RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
 RAID_NAME_GINSENG: Xysenstrauch
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Riesenslade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raidteam.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieser Schalter wurde bereits betätigt.

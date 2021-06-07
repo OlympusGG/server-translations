@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} has defeated Lord Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} could not defeat Lord Mukraju in time.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Ammo loaded!
 AMMO_LOADED_ARCHER: Arrow loaded!
@@ -354,6 +355,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already ha
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: The {0} effect has been activated!
 ITEM_CHATMESSAGE_NO_GILLION: You don't have enough Gillion Stone!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Item's ({0}) duration has expired.
 ITEM_CHATMESSAGE_UNFIXED: Your item is no longer level fixed!
@@ -361,6 +363,7 @@ ITEM_DIALOG_ASK_BIND: Do you want to wear that item? It will bind this item to y
 ITEM_DIALOG_ASK_CHANGE_FACTION: Do you want to change your faction?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Do you want to change your family's faction?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Do you want to change your specialist wings?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Do you want to open this box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Do you want to take out your NosMate?
@@ -382,6 +385,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Miniland.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
@@ -610,6 +614,7 @@ RAID_NAME_CUBY: Mother Cuby
 RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Massive Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
