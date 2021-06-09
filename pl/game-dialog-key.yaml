@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Założono nowy główny obóz Demonów!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
+ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono żadnej receptury do tego typu wymiany.
 ACT5_MESSAGE_RETURN_DISABLED: Nie możesz ponownie się udać do miejsca powrotu.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!

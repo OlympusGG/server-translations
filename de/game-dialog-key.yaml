@@ -25,6 +25,7 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju ist tot!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju ist gestorben
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'
+ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Schleuder nachgeladen.
