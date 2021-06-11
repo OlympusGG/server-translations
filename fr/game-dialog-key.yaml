@@ -580,6 +580,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Tu peux recevoir une nouvelle quête d'u
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Tu ne pourras pas abandonner la quête une fois commencée. Continuer ?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Veux-tu te téléporter?
+QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Tu as déjà complété cette quête !
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Cette quête a déjà été complétée et n'est pas encore prête.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Tu as déjà cette quête.

@@ -580,6 +580,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una nueva misión de un N
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar una misión principal una vez comenzada. ¿Deseas aceptarla de todos modos?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: ¿Deseas teletransportarte?
+QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: ¡Ya has completado esta misión principal!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Esta misión ya ha sido completada y aún no está lista.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Ya tienes esta misión.
