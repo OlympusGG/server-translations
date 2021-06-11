@@ -374,7 +374,7 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Il tuo compagno non può indossare questo oggett
 ITEM_MESSAGE_ERASER_NO_SHELL: Non puoi cancellare le opzioni della pietra perché non sono presenti.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Non puoi migliorare uno Specialista se la sua anima è stata distrutta!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Non puoi indossare una Carta dello Specialista distrutta.
-ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: Questa cassa è vuota!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Hai creato {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Non puoi utilizzare un uovo per cambiare individualmente la tua fazione se ti trovi in una Famiglia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'elemento della fata è diverso da quello dello Specialista!
@@ -428,13 +428,13 @@ MINILAND_WELCOME_MESSAGE: Benvenuti!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Durata punizione rimasta: {0}'
 MUTE_MESSAGE_FEMALE: Sono stata una bimba cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
-MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
-MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Questo giocatore è mutato.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Sei mutato.
 NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova lettera!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Hai {0} lettere nella casella postale.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Hai ricevuto il pacchetto dei buff.
-NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
-NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
+NPC_BUFFER_SHOUT_BUFF_ON_CD: Il pacchetto dei buff è in cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Hai raggiunto il limite giornaliero per questo pacchetto dei buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Sei di livello troppo alto per ricevere il pacchetto dei buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Sei di livello troppo basso per ricevere il pacchetto dei buff.
 NPC_SHOP_LOG_PURCHASE: Hai comprato {1}x {0}.
@@ -495,7 +495,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Compagno resuscitato dall'Angelo Custode pe
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Lo Specialista del compagno è in ricarica - {0} secondi.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il compagno è tornato nella Mini-Land.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Il compagno tornerà tra 3 minuti.
-PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Non c'è abbastanza spazio nello zaino del compagno!
 PERFECTSP_ATTACK: Attacco
 PERFECTSP_DEFENSE: Difesa
 PERFECTSP_ELEMENT: Elemento
@@ -536,7 +536,7 @@ PSP_AMON: Sorvegliante Amon
 PSP_AMORA: Amora
 PSP_ARCHDAEMON_AMON: Arcidemone Amon
 PSP_BARNI: Barni l'Astuto
-PSP_CHEONGBI: Imp Cheongbi
+PSP_CHEONGBI: Demone Cheongbi
 PSP_CHLOE: Cowgirl Chloe
 PSP_DANIEL: Daniel Dugatto
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Vuoi resettare tutte le ablità della Carta dello Specialista del Compagno?
@@ -547,7 +547,7 @@ PSP_FOXY: Foxy
 PSP_FREYA: Freya la Terribile
 PSP_GUARDIAN_LUCIFER: Guardiano Lucifero
 PSP_HARLEQUIN: Arlecchino
-PSP_HONGBI: Imp Hongbi
+PSP_HONGBI: Demone Hongbi
 PSP_JINN: Jinn
 PSP_LAURENA: Strega Laurena
 PSP_LOTUS: Lotus l'Aggraziata
@@ -698,9 +698,9 @@ SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Per effettuare questa azione devi prima esse
 SUM_MESSAGE_FAILED: Somma fallita.
 SUM_MESSAGE_SUCCESS: Somma riuscita!
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
-TIMESPACE_CHATMESSAGE_EASY_MODE: La Pietra Spazio-Temporale è in modalità facile - la durata è stata estesa e non riceverai ricompense..
+TIMESPACE_CHATMESSAGE_EASY_MODE: La Pietra Spazio-Temporale è in modalità facile - la durata è stata estesa e non riceverai ricompense.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Il portale è chiuso!
-TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Il mio livello è troppo alto per poter partecipare a questa Pietra Spazio-Temporale.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Il mio livello è troppo basso per poter partecipare a questa Pietra Spazio-Temporale.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Non sono state completate tutte le Pietre Spazio-Temporali.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo il capogruppo può dare via alla missione SpazioTempo
@@ -716,9 +716,9 @@ TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Un portale è stato aperto
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Da qualche parte una porta si è aperta
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: I nemici hanno chiamato rinforzi|
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: La leva è stata azionata.
-TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Uno dei membri del gruppo non è nella mappa generale
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La missione è stata aggiornata.
-TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Hai bisogno di un gruppo per questa Pietra Spazio-Temporale
 TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
 TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
 TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
