@@ -25,6 +25,8 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Założono nowy główny obóz Demonów!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
+ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono żadnej receptury do tego typu wymiany.
+ACT5_MESSAGE_RETURN_DISABLED: Nie możesz ponownie się udać do miejsca powrotu.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
 AMMO_LOADED_ARCHER: Strzały załadowane!
@@ -354,6 +356,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ p
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Będąc na pojeździe możesz używać tylko przekąsek oraz eliksirów.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ ostatnio uczestniczyłeś w walce z graczem.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
 ITEM_CHATMESSAGE_UNFIXED: Odblokowano utrwalony przedmiot.
@@ -361,6 +364,7 @@ ITEM_DIALOG_ASK_BIND: Czy chcesz założyć ten przedmiot? Po założeniu nie b�
 ITEM_DIALOG_ASK_CHANGE_FACTION: Czy chcesz zmienić frakcję?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Czy chcesz zmienić frakcję dla rodziny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Czy zmienić skrzydła na tej karcie specjalisty?
+ITEM_DIALOG_ASK_EXCHANGE: Czy na pewno chcesz wymienić?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Czy na pewno chcesz przypisać ten przedmiot? Nie będzie już zdatny w handlu.
 ITEM_DIALOG_ASK_OPEN_BOX: Czy chcesz otworzyć pudło?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Czy chcesz wyciągnąć NosKumpla z perły?
@@ -382,6 +386,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nje, to jest fejkowy eliksir Mwimica! >w
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Możesz to zrobić tylko w Mini-Landzie!
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Twój poziom jest zbyt niski, aby badać relikty.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nie możesz przemienić się w tę samą frakcję.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych skrzydeł!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz wejść na pojazd, ponieważ posiadasz negatywny efekt!
@@ -575,6 +580,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Możesz odebrać nową misję u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Czy chcesz zostać przeteleportowany?
+QUEST_INFO_CANT_GIVE_UP: Nie możesz porzucić tej misji.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Już ukończyłeś tę misję główną!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Już ukończyłeś tę misję drugorzędną!
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Już posiadasz tę misję.
@@ -583,11 +589,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Masz nieukończone misję.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Masz za niski poziom na tę misję.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nie masz miejsca na nową misję.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} poszukuję członków do rajdu: {1}!'
+RAID_CHATMESSAGE_AMULET_NEEDED: Potrzebujesz przedmiotu {0} aby dołączyć do tego rajdu.
 RAID_CHATMESSAGE_GROUP_REQUEST: Gracz {0} został zaproszony.
 RAID_CHATMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_CHATMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
 RAID_CHATMESSAGE_LEFT: '{0} opuścił drużynę.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jako że zalecany poziom rajdu nie odpowiada Twojemu poziomowi, po jego pomyślnym ukończeniu nie otrzymasz Pudła Rajdu.
+RAID_CHATMESSAGE_LIMIT_LEFT: Dzisiaj możesz wziąć udział w rajdzie {0} {1} razy.
+RAID_CHATMESSAGE_LIMIT_REACHED: Osiągnięto maksymalną ilość wejść w rajdzie {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Rajd nie istnieje lub już wystartował.
@@ -607,6 +616,7 @@ RAID_NAME_CUBY: Matka Kostek
 RAID_NAME_GIANTBLACKSPIDER: Gigantyczny Czarny Pająk
 RAID_NAME_GINSENG: Żeń-Szeń
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Banda Pustynnych Rozbójników
 RAID_NAME_SLADE: Gigantyczny Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.

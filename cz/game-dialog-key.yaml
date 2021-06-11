@@ -25,6 +25,8 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Byl postaven nový základní tábor démon
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
+ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
@@ -354,6 +356,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože u
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
 ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět již nemá zafixovaný level!
@@ -361,6 +364,7 @@ ITEM_DIALOG_ASK_BIND: Chceš nosit tento předmět? Předmět se naváže na teb
 ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svoji stranu?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit stranu své rodiny?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Opravdu chceš změnit křídla Specialisty?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
@@ -382,6 +386,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Tento předmět nemůže být zahozen!
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Tento předmět zde zahodit nemůžeš.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Toto můžeš udělat pouze v Mini zemi.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
@@ -575,6 +580,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Novou misi můžeš dostat u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
+QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Tuto hlavní misi jsi již splnil!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Tato mise byla již splněna a není momentálně dostupná
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Tuto misi jsi již splnil
@@ -583,11 +589,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Máš nějaké nesplněné mise
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Tvůj level je na tuto misi příliš nízký
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nemůžeš přijmout více misí.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} hledá hráče na raid: {1}!'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} byl pozván do raidu.'
 RAID_CHATMESSAGE_KICKED: Byl jsi vyhozen.
 RAID_CHATMESSAGE_KICKED_OTHER: Hráč byl vyhozen.
 RAID_CHATMESSAGE_LEFT: '{0} opustil tým.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jelikož nesplňuješ doporučený level pro tento raid, nemůžeš obdržet raid box ani při splnění mise.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Musíš mít alespoň level {0} pro připojení do raidu.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} je nový vedoucí týmu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid neexistuje, nebo již započal!
@@ -607,6 +616,7 @@ RAID_NAME_CUBY: Matka Kuby
 RAID_NAME_GIANTBLACKSPIDER: Obrovský černý pavouk
 RAID_NAME_GINSENG: Ženšen
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Obrovský Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Již jsi v jiném týmu na raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.

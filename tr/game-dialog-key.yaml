@@ -25,6 +25,8 @@ ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} Lord Mukraju'yu yendi!"
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} Lord Mukraju'yu zamanında yenemedi."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} Lord Mukraju'yu çağırdı!"
+ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
@@ -354,6 +356,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu ku
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
 ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
@@ -361,6 +364,7 @@ ITEM_DIALOG_ASK_BIND: Bu eşyayı karakterine bağlamak istediğine emin misin? 
 ITEM_DIALOG_ASK_CHANGE_FACTION: Koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin koruyucu gücünü değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: Uzmanlık Kartının kanatlarını değiştirmek istiyor musun?
+ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Kutuyu açmak istiyor musun?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Evcil hayvanı inciden çıkarmak istiyor musun?
@@ -382,6 +386,7 @@ ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Bunu sadece Miniland'deyken yapabilirsin.
+ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
@@ -575,6 +580,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
+QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.
@@ -583,11 +589,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış görevlerin var.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için yetersiz.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0}, {1} akını için yardım arıyor!'
+RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} takıma davet edildi.'
 RAID_CHATMESSAGE_KICKED: Takımdan kovuldun.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
 RAID_CHATMESSAGE_LEFT: '{0} takımdan ayrıldı.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Seviyen önerilen seviyeden yüksek olduğu için akın başarılı olsa bile sandık kazanamayacaksın.
+RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
+RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
 RAID_CHATMESSAGE_LOW_LEVEL: Bu akına katılmak için en az {0} seviye olman gerekiyor.
 RAID_CHATMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın bulunamadı veya çoktan başlamış.
@@ -607,6 +616,7 @@ RAID_NAME_CUBY: Anne Cuby
 RAID_NAME_GIANTBLACKSPIDER: Dev Siyah Örümcek
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
+RAID_NAME_ROBBERGANG: Desert Robber Band
 RAID_NAME_SLADE: Dev Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten bir akın takımına üyesin.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Çoktan kullanılmış.
