@@ -6,7 +6,7 @@ ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: La pérdida o ganancia de reputación se reduce debido a que hoy, o tu o el enemigo habéis muerto muchas veces.
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
-ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'est
+ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
 ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián de los {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar al calabozo!
