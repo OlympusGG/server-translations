@@ -581,6 +581,7 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Tuto hlavní misi jsi již splnil!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Tato mise byla již splněna a není momentálně dostupná
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Tuto misi jsi již splnil

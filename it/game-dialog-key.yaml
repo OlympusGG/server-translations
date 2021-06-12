@@ -581,6 +581,7 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cacciato {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Una volta intrapresa, non puoi abbandonare la missione principale. Vuoi iniziare comunque?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Vuoi teletrasportarti?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Hai già completato questa missione principale!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Questa missione è già stata completata e non è ancora pronta.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Hai già accettato questa missione
