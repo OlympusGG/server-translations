@@ -1,36 +1,36 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
-ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
+ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
-ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
-ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: La pérdida o ganancia de reputación se reduce debido a que hoy, o tu o el enemigo habéis muerto muchas veces.
 ACT4_CHATMESSAGE_PVP_ANGELS: Ángeles
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
 ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián de los {0}.'
-ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar a la mazmorra!
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar a la mazmorra te costará {0} puntos de reputación. ¿Entrarás?
+ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar al calabozo!
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar al calabozo te costará {0} puntos de reputación. ¿Deseas entrar?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La sala del jefe se ha cerrado.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: ¡Se ha derrotado al jefe de la mazmorra!
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: ¡Se ha derrotado al jefe del calabozo!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La sala del jefe se ha abierto.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal de la mazmorra se ha abierto cerca de la torre central en Bitoren Tundra!
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: ¡El portal del calabozo se ha abierto cerca de la torre central en Bitoren Tundra!
 ACT4_NEED_FACTION: Sólo aquellos con una facción pueden viajar a Glacernon.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de los ángeles
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de los demonios
-ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡El Señor Mukraju ha muerto!
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: El Señor Mukraju murió
-ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado al Señor Mukraju!
-ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
-ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
+ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Ya hay un campamento instalado.
+ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: ¡Se ha instalado un Campamento Base Ángel nuevo!
+ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: ¡Se ha instalado un Campamento Base Demonio nuevo!
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡Lord Mukraju ha muerto!
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: ¡Lord Mukraju no ha sido derrotado a tiempo!
+ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!
+ACT5_CHATMESSAGE_NO_RECIPE: No se encontró ninguna receta para este tipo de intercambio.
+ACT5_MESSAGE_RETURN_DISABLED: No puede volver al punto de retorno.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrador
 AMMO_LOADED_ADVENTURER: ¡Munición recargada!
 AMMO_LOADED_ARCHER: ¡Flechas recargadas!
-AMMO_LOADED_SWORDSMAN: ¡Pernos cargados!
+AMMO_LOADED_SWORDSMAN: ¡Pernos recargados!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Modo PvP activo.
 ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} de oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
@@ -40,13 +40,13 @@ BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0} de oro de tu cuenta bancaria?
 BANK_INFO_NOT_ENOUGH_FUNDS: No hay fondos suficientes.
 BANK_INFO_TOO_MUCH_GOLD: ¡Tienes demasiado oro!
 BANK_LOG_OPEN_BANK: ¡Bienvenido al banco! ¿Como te puedo ayudar?
-BANK_LOG_WITHDRAW_BANK: '{0} de oro retirados.'
+BANK_LOG_WITHDRAW_BANK: '{0} de oro retirado.'
 BANK_MESSAGE_BALANCE: Tienes {0} de oro en tu cuenta bancaria.
 BANK_MESSAGE_DEPOSIT: Has depositado {0} de oro en tu cuenta bancaria.
 BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
-BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Tu objeto {0}x {1} se ha vendido en el NosBazar.
 BAZAAR_INFO_ITEM_CHANGED: No se puedo comprar el objeto. Este ha sido vendido o su precio ha cambiado.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar está bajo mantenimiento.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos a la venta.
@@ -62,12 +62,12 @@ BLACKLIST_INFO_BLOCKED: ¡Este jugador te ha bloqueado!
 BLACKLIST_INFO_BLOCKING: ¡Has bloqueado a este jugador!
 BLACKLIST_INFO_DELETED: ¡Jugador eliminado de la lista negra!
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No hace efecto gracias a la inmunidad.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: Has perdido el efecto {0}
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Has perdido el efecto {0}.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Los efectos secundarios de {0} han empezado.
-BUFF_CHATMESSAGE_UNDER_EFFECT: Estas bajo los efectos de {0}
+BUFF_CHATMESSAGE_UNDER_EFFECT: Estas bajo los efectos de {0}.
 CELLON_SHOUTMESSAGE_FAIL: La piedra de cellón ha desaparecido al intentar añadirla.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiado alta para este accesorio.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No sé pueden añadir más opciones al accesorio!
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No se pueden añadir más opciones al accesorio!
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
@@ -142,7 +142,7 @@ FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
-FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
+FAMILY_INFO_TODAY_LOW_LEVEL: Tienes que ser nivel 30 mínimo para usar tu frase diaria.
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: ¡No puedes agregar este artículo al almacén familiar!
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.
@@ -181,10 +181,10 @@ GAMBLING_MESSAGE_ALREADY_MAX_RARE: ¡Ya tiene la rareza máxima!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: ¡El objeto no se destruyó gracias al amuleto!
 GAMBLING_MESSAGE_FAILED: ¡Fallaste la apuesta! El objeto ha sido destruido.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Fallaste la apuesta, pero el objeto no se destruyó gracias al amuleto.
-GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
+GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: Tienes la opción 'Apuesta Segura' activada, desactívala si quieres apostar sin amuleto.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: No puedes apostar equipamiento heroico.
 GAMBLING_MESSAGE_SUCCESS: '¡Apuesta exitosa! Nuevo nivel de rareza: {0}'
-GAME_FEATURE_DISABLED: This game feature is currently disabled
+GAME_FEATURE_DISABLED: Esta opción está desactivada actualmente.
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: ¿Quieres participar en {0}?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: ¿Quieres participar en {0}? Te costará {1} oro.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: No puedes entrar al evento si no estás en un mapa general.
@@ -355,8 +355,8 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: No puedes usar eso.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: No puedes usar ese objeto, debido a que ya tienes {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto {0} ha sido activado!
 ITEM_CHATMESSAGE_NO_GILLION: ¡No tienes suficiente Piedra de Gillion!
-ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
-ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
+ITEM_CHATMESSAGE_ON_MOUNT: Mientras estés en tu vehículo, solo puedes usar snacks y pociones.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: No puedes usar este objeto ya que acabas de salir de un combate contra otro jugador.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Ya tienes una señal de Mini-Mundo establecida. Tiempo restante: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La duración del item ({0}) ha terminado.
 ITEM_CHATMESSAGE_UNFIXED: ¡Tu objeto ya no tiene nivel fijado!
@@ -364,8 +364,8 @@ ITEM_DIALOG_ASK_BIND: ¿Quieres ponerte ese objeto? Se fijará ese objeto a tu p
 ITEM_DIALOG_ASK_CHANGE_FACTION: ¿Quieres cambiar tu facción?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: ¿Quieres cambiar la facción de tu familia?
 ITEM_DIALOG_ASK_CHANGE_SP_WINGS: ¿Quieres cambiar tus Alas de Especialista?
-ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
-ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
+ITEM_DIALOG_ASK_EXCHANGE: ¿Quieres intercambiar?
+ITEM_DIALOG_ASK_NOT_TRADABLE: ¿Quieres apropiarte de este objeto? Ya no será intercambiable.
 ITEM_DIALOG_ASK_OPEN_BOX: ¿Quieres abrir esta caja?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: ¿Quieres sacar al NosMate de la perla?
 ITEM_DIALOG_ASK_PET_STORE: ¿Quieres introducir a tu NosMate en la perla?
@@ -378,12 +378,12 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Tu compañero no se puede poner este objeto.
 ITEM_MESSAGE_ERASER_NO_SHELL: No puedes borrar las opciones de concha porque no hay.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: ¡No puedes mejorar la Tarjeta de Especialista porque está destruída!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: No puedes ponerte una Tarjeta de Especialista destruída.
-ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: ¡Este cofre está vacío!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Has creado {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: No puedes usar un huevo de facción individual cuando estás en una familia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: ¡El elemento de tu hada es distinto al elemento de la Tarjeta de Especialista!
 ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
-ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: ¡Oh ñió, esh una poshión falsha de Mímic! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: No puedes tirar este objeto.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: No puedes tirar este objeto en este sitio.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Solo puedes hacer esto en el Mini-Mundo.
@@ -434,18 +434,18 @@ MINILAND_WELCOME_MESSAGE: ¡Bienvenido!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Duración restante del castigo: {0}'
 MUTE_MESSAGE_FEMALE: ¡He sido una chica muy traviesa, así que me han castigado!
 MUTE_MESSAGE_MALE: ¡He sido un chico muy travieso, así que me han castigado!
-MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
-MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
+MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Este jugador está muteado.
+MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Estás muteado.
 NOTE_CHATMESSAGE_NEW_NOTE: ¡Te ha llegado una nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tienes {0} notas en la bandeja de entrada.
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: ¡Has recibido el paquete de bendiciones!
-NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
-NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
+NPC_BUFFER_SHOUT_BUFF_ON_CD: El paquete de bendiciones está en enfriamiento.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Has alcanzado el límite de uso diario de este paquete de bendiciones.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tu nivel es demasiado alto para recibir este paquete de bendiciones.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tu nivel es demasiado bajo para recibir este paquete de bendiciones.
 NPC_SHOP_LOG_PURCHASE: Has comprado {1}x {0}.
-OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
-OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Opción de Apuesta Segura desactivada
+OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Opción de Apuesta Segura activada
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Parpadeo de buff desactivado
 OPTIONS_SHOUTMESSAGE_BUFF_ENABLED: Parpadeo de buff activado
 OPTIONS_SHOUTMESSAGE_DISCORDRPC_DISABLED: DiscordRPC desactivado
@@ -501,7 +501,7 @@ PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Tu compañero ha sido revivido por un Ánge
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: La Tarjeta de Especialista de tu compañero está en enfriamiento - {0} sec.
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Tu compañero ha regresado al Mini-Mundo.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Tu compañero estará de vuelta en 3 minutos.
-PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: ¡No hay suficiente espacio en el almacén de tu compañero!
 PERFECTSP_ATTACK: Ataque
 PERFECTSP_DEFENSE: Defensa
 PERFECTSP_ELEMENT: Elemento
@@ -527,7 +527,7 @@ PET_MESSAGE_ALREADY_IN_TEAM: Tu NosMate ya está en tu equipo.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: ¡Ya puedes invocar a tu NosMate!
 PET_MESSAGE_KICKED: Tu NosMate ha regresado al Mini-Mundo.
 PET_MESSAGE_SUMMONABLE: Ahora puedes invocar a tu NosMate.
-PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
+PET_SHOUTMESSAGE_DIGNITY_LOW: No puedes ir con tu NosMate debido a que tu dignidad es demasiado baja.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: ¡El nivel de tu NosMate es más alto que el tuyo!
 PET_SHOUTMESSAGE_LEVEL_UP: Tu NosMate {0} ha subido de nivel!
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Tu NosMate ha regresado al Mini-Mundo.
@@ -581,7 +581,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una misión nueva de un N
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar la misión principal una vez comenzada. ¿Quieres comenzar?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: ¿Quieres teletransportarte?
-QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_INFO_CANT_GIVE_UP: No puedes abandonar esta misión.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: ¡Ya has comenzado esta misión!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Esta misión ya ha sido completada y aún no está lista.
@@ -591,14 +591,14 @@ QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tienes alguna misión incompleta.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Tu nivel es demasiado bajo para esta misión.
 QUEST_SHOUTMESSAGE_SLOT_FULL: No puedes aceptar más misiones.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} está buscando a miembros para el raid {1}!'
-RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
+RAID_CHATMESSAGE_AMULET_NEEDED: Necesitas el objeto {0} para unirte al raid.
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} ha sido invitado al equipo de raid.'
 RAID_CHATMESSAGE_KICKED: Te han echado.
 RAID_CHATMESSAGE_KICKED_OTHER: El jugador fue echado.
 RAID_CHATMESSAGE_LEFT: '{0} ha abandonado el equipo.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: No recibirás caja de raid porque tu nivel es demasiado alto.
-RAID_CHATMESSAGE_LIMIT_LEFT: You can take part in the {0} raid {1} times today.
-RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} raid.
+RAID_CHATMESSAGE_LIMIT_LEFT: Puedes unirte al raid {0} {1} veces.
+RAID_CHATMESSAGE_LIMIT_REACHED: Has alcanzado el límite de entradas en el raid {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Tienes que ser nivel {0} para unirte al raid.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} es el nuevo líder de equipo.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: ¡El raid no existe o ya ha comenzado!
@@ -618,7 +618,7 @@ RAID_NAME_CUBY: Mamá Cubi
 RAID_NAME_GIANTBLACKSPIDER: Araña negra gigante
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
+RAID_NAME_ROBBERGANG: Ibrahim
 RAID_NAME_SLADE: Slade Gigante
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Este objeto ya ha sido activado.
@@ -680,7 +680,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: ¡Hechizo interrumpido!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: ¿Quieres reemplazar la mejora de habilidad actual de ese tipo?
 SKILL_SHOUTMESSAGE_CANT_LEARN: No puedes aprender esta habilidad.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Tienes que esperar que finalice el enfriamiento de tus habilidades antes de aprender otras habilidades.
-SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
+SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Tu dignidad es demasiado baja para capturar este monstruo.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: ¡La captura falló!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: ¡No puedes capturar este monstruo!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: ¡No puedes capturar este bicho dentro del Raid!
@@ -696,9 +696,9 @@ SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: ¡No puedes cambiar tu Tarjeta de Especialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Enfriamiento de la transformación de la Tarjeta de Especialista finalizado.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: ¡Tienes que estar transformado en tu Tarjeta de Especialista para hacer esto!
-SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
+SPECIALIST_MESSAGE_LOW_SP_POINTS: ¡Tus puntos de SP base son demasiado bajos!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: No puedes atacar ahora mismo.
-SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Tarjeta de Especialista está en enfriamiento - {0} sec.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Tarjeta de Especialista está en enfriamiento - {0} seg.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: ¡Nivel de Especialista aumentado!
 SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: ¡Necesitas {0} puntos de SP para transformarte en tu Tarjeta de Especialista!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: ¡No te quedan puntos de SP! ¡No te puedes transformar!
@@ -709,10 +709,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: ¡Tu Tarjeta de Especialista ha sido resuci
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: ¡Tienes que estar transformado en tu Tarjeta de Especialista para hacer esto!
 SUM_MESSAGE_FAILED: Suma fallada.
 SUM_MESSAGE_SUCCESS: ¡Suma exitosa!
-TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
+TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Tienes que esperar después del ataque.
 TIMESPACE_CHATMESSAGE_EASY_MODE: El time-space está en modo fácil - la duración ha aumentado y no podrás seleccionar recompensa.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: ¡El portal está bloqueado!
-TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mi nivel es demasiado alto para unirme a este time-space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mi nivel es demasiado bajo para unirme a este time-space.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: No has completado todas las misiones de time-space.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo el líder del grupo puede comenzar el time-space.
@@ -722,24 +722,24 @@ TIMESPACE_DIALOG_ASK_REVIVAL: ¿Quieres resucitar?
 TIMESPACE_DIALOG_ASK_START: ¿Quieres entrar a la sala?
 TIMESPACE_DIALOG_ASK_START_RECORD: ¿Quieres entrar al time-space en modo record? Te costará {0} de oro.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: El time-space ha comenzado.
-TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Space
-TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: No puedes entrar a este time-space si formas parte de un grupo.
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: No puedes crear un portal time-space cerca de otro portal.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Se ha abierto una puerta.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Se ha abierto una puerta en alguna parte.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: ¡Los enemigos reciben refuerzos!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Se ha tirado de la palanca.
-TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Algún miembro del grupo no está en un mapa general.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La misión ha sido actualizada.
-TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Tienes que estar en grupo para entrar a este time-space.
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficiente miembros en el grupo para comenzar el time-space.
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: No eres el propietario de este time-space.
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Uno de los miembros del grupo no está en el mismo mapa que tu.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Has completado la misión rápida.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La misión comenzará al entrar en la primera sala.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: El time-space está lleno.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Por favor espera...
-TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
-TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Este acto no es el adecuado para este time-space
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: No puedes crear un time-space en este mapa.
 TITLE_DIALOG_ASK_ADD: ¿Quieres añadir este título?
 TITLE_INFO_EFFECT_DISABLED: El efecto del título ha sido desactivado.
 TITLE_INFO_EFFECT_ENABLED: El efecto del título ha sido activado.
