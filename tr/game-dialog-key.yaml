@@ -581,6 +581,7 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.

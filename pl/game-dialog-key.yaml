@@ -581,6 +581,7 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Czy chcesz zostać przeteleportowany?
 QUEST_INFO_CANT_GIVE_UP: Nie możesz porzucić tej misji.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Już ukończyłeś tę misję główną!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Już ukończyłeś tę misję drugorzędną!
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Już posiadasz tę misję.

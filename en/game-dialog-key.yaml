@@ -581,6 +581,7 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: You already completed this main quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: This quest has been already completed and it's not ready yet
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: You already have this quest
