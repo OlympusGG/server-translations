@@ -382,6 +382,7 @@ ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: You have crafted {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use individual faction egg when you're in a family.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different than the SP element!
+ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
@@ -759,12 +760,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: You can't trade in a raid.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: You can't trade with a raid member.
 UPGRADE_MESSAGE_FAILED: Upgrade failed!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Upgrade failed but the item was saved.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Level fixed.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Specialist Card soul has been destroyed!
 UPGRADE_MESSAGE_SP_FAILED: SP upgrading failed!
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Specialist Card upgrading failed but item was saved.
 UPGRADE_MESSAGE_SP_SUCCESS: Specialist Card upgraded successfully!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Upgrade successful!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: Player {0} has proposed to you. Do you accept the marriage proposal?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?
