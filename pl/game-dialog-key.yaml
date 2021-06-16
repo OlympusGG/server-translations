@@ -382,6 +382,7 @@ ITEM_SHOUTMESSAGE_CHEST_EMPTY: Ta skrzynka jest pusta!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: 'Wytworzono nowy przedmiot: {1}x {0}'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Nie możesz użyć osobistego jajka, gdy jesteś w rodzinie.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Atrybut wróżki różni się od atrybutu specjalisty.
+ITEM_SHOUTMESSAGE_IS_LIMITED: Nie możesz tego zrobić ponieważ NosKumpel jest limitowany.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nje, to jest fejkowy eliksir Mwimica! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Ten przedmiot nie może zostać wyrzucony.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Nie możesz wyrzucić tego przedmiotu.

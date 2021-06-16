@@ -382,6 +382,7 @@ ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: '{1}x {0} ürettin.'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Bir ailedeyken bireysel koruyucu güç yumurtalarını kullanamazsın.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Perinin elementi Uzmanlık Kartınınkiyle uyumsuz.
+ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.

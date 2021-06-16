@@ -382,6 +382,7 @@ ITEM_SHOUTMESSAGE_CHEST_EMPTY: Questa cassa è vuota!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: Hai creato {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Non puoi utilizzare un uovo per cambiare individualmente la tua fazione se ti trovi in una Famiglia.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: L'elemento della fata è diverso da quello dello Specialista!
+ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Questo oggetto non può essere buttato.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Questo oggetto non può essere buttato qui.
