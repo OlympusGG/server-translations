@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Nemůžeš obchodovat obchodovat během 
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Nemůžeš zahájit obchod se členem raidu.
 UPGRADE_MESSAGE_FAILED: Vylepšení se nezdařilo!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Vylepšení se nezdařilo, ale předmět byl zachován.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Level zafixován.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Duše karty specialisty byla zničena!
 UPGRADE_MESSAGE_SP_FAILED: Vylepšení SP selhalo!
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Vylepšení karty specialisty se nezdařilo, ale předmět byl ochráněn před zničením.
 UPGRADE_MESSAGE_SP_SUCCESS: Vylepšení karty specialisty úspěšné!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Vylepšení úspěšné!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Opravdu se chceš rozvést?
 WEDDING_DIALOG_REQUEST_RECEIVED: Pozor! {0} vám navrhl/a sňatek. Přijímáš nabídku ke svatbě?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Opravdu si chceš vzít {0}?

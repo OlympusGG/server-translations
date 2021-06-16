@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Tu ne peux pas échanger en participant 
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Tu ne peux pas échanger avec un membre de raid.
 UPGRADE_MESSAGE_FAILED: L'amélioration a échoué !
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: L'amélioration a échoué mais l'objet a été préservé.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Niveau fixe.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: L'âme de la carte de spécialiste a été détruite.
 UPGRADE_MESSAGE_SP_FAILED: L'amélioration a échoué.
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: L'amélioration a échoué mais la carte de spécialiste a été préservée.
 UPGRADE_MESSAGE_SP_SUCCESS: L'amélioration de la carte de spécialiste est un succès !
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: L'amélioration est un succès !
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Veux-tu divorcer?
 WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?

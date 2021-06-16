@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Du kannst in einem Raid nicht tauschen.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du kannst mit Raidmitgliedern nicht tauschen.
 UPGRADE_MESSAGE_FAILED: Verbesserung fehlgeschlagen!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde geschützt.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Level fixiert.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Die Seele der Spezialistenkarte wurde zerstört!
 UPGRADE_MESSAGE_SP_FAILED: SP Verbesserung fehlgeschlagen!
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Verbesserung fehlgeschlagen, jedoch wurde der Gegenstand geschützt.
 UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte wurde erfolgreich verbessert!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Möchtest du dich scheiden lassen?
 WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Heiratsantrag gemacht. Möchtest du ihn annehmen?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Bist du dir sicher, dass du {0} heiraten möchtest?

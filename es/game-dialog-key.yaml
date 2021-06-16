@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: No puedes comerciar en un raid.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes comerciar con un miembro de Raid.
 UPGRADE_MESSAGE_FAILED: ¡Mejora fallida!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: La mejora ha fallado pero el objeto ha sido protegido.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Nivel fijado.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: ¡El alma de la Tarjeta de Especialista ha sido destruída!
 UPGRADE_MESSAGE_SP_FAILED: ¡Mejora de SP fallida!
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: La mejora de Tarjeta de Especialista ha fallado pero el objeto ha sido salvado.
 UPGRADE_MESSAGE_SP_SUCCESS: ¡Mejora de Tarjeta de Especialista exitosa!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: ¡Mejora exitosa!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} te ha propuesto matrimonio. ¿Aceptas?'
 WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Quieres casarte con {0}?

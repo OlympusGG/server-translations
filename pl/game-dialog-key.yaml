@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Nie możesz wymieniać się w trakcie ra
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Nie możesz wymieniać się z członkiem rajdu.
 UPGRADE_MESSAGE_FAILED: Ulepszenie nie powiodło się! Przedmiot został zniszczony.
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale twój przedmiot został zachowany.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Stały poziom.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Dusza Karty Specjalisty uległa zniszczeniu!
 UPGRADE_MESSAGE_SP_FAILED: Ulepszenie nie powiodło się!
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Ulepszenie nie powiodło się, ale twoja Karta Specjalisty została zachowana!
 UPGRADE_MESSAGE_SP_SUCCESS: Ulepszenie powiodło się!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Ulepszenie powiodło się!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
 WEDDING_DIALOG_REQUEST_RECEIVED: Gracz {0} oświadczył ci się. Czy zaakceptować zaręczyny?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?

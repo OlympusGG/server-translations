@@ -759,12 +759,17 @@ TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Akın içerisinde takas yapamazsın.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Akın takımı üyeleriyle takas yapamazsın.
 UPGRADE_MESSAGE_FAILED: Geliştirme başarısız.
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Geliştirme başarısız ama eşyan korundu.
+UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_FIXED: Seviye sabitlendi.
+UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Uzmanlık Kartının ruhu yok oldu!
 UPGRADE_MESSAGE_SP_FAILED: Geliştirme başarısız.
+UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Geliştirme başarısız ama Uzmanlık Kartın korundu.
 UPGRADE_MESSAGE_SP_SUCCESS: Geliştirme başarılı!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Geliştirme başarılı!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Boşanmak ister misin?
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} sana aşkını ilan ediyor!!! Evlenmeyi kabul ediyor musun?'
 WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
