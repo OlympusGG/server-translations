@@ -639,6 +639,22 @@ RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Misja została zaktualizowana.
 RAID_SHOUTMESSAGE_UNREGISTERED: Drużyna rajdu nie jest już zarejestrowana
 RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
+RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
+RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
+RAINBOW_BATTLE_EVENT_NAME: Bitwa Tęczowego Kryształu
+RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Gracz {0} przejął kryształ: {1}'
+RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Niebieska drużyna przejeła kryształ: {0}'
+RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Twój poziom jest zbyt niski, aby wziąć udział w Bitwie Tęczowego Kryształu.
+RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Za mało graczy, aby rozpocząć Bitwę Tęczowego Kryształu.
+RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Gracz {0} wyszedł z Bitwy Tęczowego Kryształu.
+RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Czerwona drużyna przejeła kryształ: {0}'
+RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Bitwa Tęczowego Kryształu została zakończona. Twoja drużyna przegrała.
+RAINBOW_BATTLE_MESSAGE_YOU_WON: Bitwa Tęczowego Kryształu została zakończona. Twoja drużyna wygrała.
+RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Bitwa Tęczowego Kryształu rozpocznie się za 5 sekund. Jesteś w niebieskiej drużynie.
+RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Gracz {0} zamarzł
+RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Bitwa Tęczowego Kryształu rozpocznie się za 5 sekund. Jesteś w czerwonej drużynie.
+RAINBOW_BATTLE_SHOUTMESSAGE_START: Bitwa Tęczowego Kryształu wystartowała! Walcz!
+RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Gracz {0} został odmrożony.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Czy chcesz ustawić tę wioskę miejscem ożywienia?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Punkt odrodzenia został zmieniony.
 REVIVE_DIALOG_ARENA: Czy chcesz się wskrzesić? Będzie to kosztować {0} szt. złota.
