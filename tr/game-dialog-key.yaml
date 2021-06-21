@@ -558,23 +558,23 @@ PSP_JINN: Cin
 PSP_LAURENA: Cadı Laurena
 PSP_LOTUS: Zarif Lotus
 PSP_LUCIFER: Başmelek Lucifer
-PSP_LUCY: Lucy Lopears
+PSP_LUCY: Lucy Büyükkulak
 PSP_MACAVITY: Denek
-PSP_MAD_MARCH_HARE: Deli Mart Tavşanı
+PSP_MAD_MARCH_HARE: Çılgın Paskalya Tavşanı
 PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: Partnerin tüm yetenekleri sıfırlandı.
 PSP_MESSAGE_ONE_SKILL_RESET: Yetenek sıfırlandı.
 PSP_MOTHER_MARU: Maru Anne Postunda
 PSP_NELIA: Su Perisi Nelia
 PSP_ORKANI: Fırtınalı Orkani
-PSP_PALINA: Palina Kukla Ustası
-PSP_PERTI: Tek Kanatlı Melek Perti
+PSP_PALINA: Kuklacı Palina
+PSP_PERTI: Tek Kanat Perti
 PSP_PHARAOH: Lanetli Firavun Akhenaton
-PSP_RAGNAR: Kemik Savaşçısı Ragnar
+PSP_RAGNAR: Kemik Savaşçı Ragnar
 PSP_SHERIFF_CHLOE: Şerif Chloe
 PSP_SHINOBI: Sessiz Shinobi
 PSP_VENUS: Küçük Prenses Venüs
-PSP_YUNA: Büyülü Öğrenci Yuna
+PSP_YUNA: Sihir Çırağı Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} toplandı: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
