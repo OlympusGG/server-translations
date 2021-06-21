@@ -355,8 +355,8 @@ ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
-ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
-ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
+ITEM_CHATMESSAGE_ON_MOUNT: Araçtayken sadece atıştırmalık ve iksir kullanabilirsin.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: Bu öğeyi kullanamazsın çünkü yakın zamanda bir oyuncuyla savaşa katıldınız.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
 ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
@@ -378,11 +378,11 @@ ITEM_MESSAGE_CANT_WEAR_PARTNER: Partnerin bu eşyayı giyemez.
 ITEM_MESSAGE_ERASER_NO_SHELL: Silgi sadece midye işlenmiş teçhizatta kullanılabilir.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Ruhu yok olmuş Uzmanlık Kartlarını geliştiremezsin.
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Ruhu yok olmuş Uzmanlık Kartlarını kuşanamazsın.
-ITEM_SHOUTMESSAGE_CHEST_EMPTY: This chest is empty!
+ITEM_SHOUTMESSAGE_CHEST_EMPTY: Bu sandık boş!
 ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: '{1}x {0} ürettin.'
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: Bir ailedeyken bireysel koruyucu güç yumurtalarını kullanamazsın.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: Perinin elementi Uzmanlık Kartınınkiyle uyumsuz.
-ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
+ITEM_SHOUTMESSAGE_IS_LIMITED: NosMate sınırlı olduğu için bunu yapamazsın.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Bu eşya atılamaz.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Bu eşyayı buraya atamazsın.
@@ -399,7 +399,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Bakım süresinin değiştirildi. Başlamak için yeni zaman: {0}saat.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}dakika.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}saniye.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Bakım durdurulmuştur.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Bakım {0} saat içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
@@ -439,8 +439,8 @@ MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Buff paketini aldınız!
-NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
-NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
+NPC_BUFFER_SHOUT_BUFF_ON_CD: Buff paketi bekleme süresinde.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Bu buff paketinin günlük limitine ulaştınız.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Seviyeniz bu buff paketini alamayacak kadar yüksek.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Seviyeniz bu buff paketini alamayacak kadar düşük.
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
@@ -581,8 +581,8 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
-QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
-QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
+QUEST_INFO_CANT_GIVE_UP: Bu görevi bırakamazsın.
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: Bu görevi zaten tamamladın!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.
@@ -639,22 +639,22 @@ RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Hedefler güncellendi.
 RAID_SHOUTMESSAGE_UNREGISTERED: Akın listeden çekildi.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} takıma katıldı.'
-RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
-RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
-RAINBOW_BATTLE_EVENT_NAME: Rainbow Battle
-RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Player {0} captured the flag: {1}'
-RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Blue Team captured the flag: {0}'
-RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Your level is too low to participate in Rainbow Battle.
-RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the Rainbow Battle.
-RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Player {0} left the Rainbow Battle
-RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Red Team captured the flag: {0}'
-RAINBOW_BATTLE_MESSAGE_YOU_LOSE: The Rainbow has finished. Your team lose.
-RAINBOW_BATTLE_MESSAGE_YOU_WON: The Rainbow has finished. Your team won.
-RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Rainbow Battle will start in 5 seconds. You are in Blue Team
-RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Player {0} is frozen.
-RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Rainbow Battle will start in 5 seconds. You are in Red Team
-RAINBOW_BATTLE_SHOUTMESSAGE_START: Rainbow Battle has started! Fight!
-RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Player {0} has been unfrozen.
+RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Bu bayrak zaten takımın tarafından ele geçirildi.
+RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Bu bayrağı yakalamak için {0} saniye beklemeniz gerekiyor.
+RAINBOW_BATTLE_EVENT_NAME: Gökkuşağı Savaşı
+RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Oyuncu {0} Bayrağı ele geçirdi: {1}'
+RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Mavi takım bayrağı ele geçirdi: {0}'
+RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Seviyeniz Gökkuşağı Savaşına katılmak için çok düşük.
+RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Gökkuşağı Savaşına başlamak için yeterli oyuncu yok.
+RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Oyuncu {0} Gökkuşağı Savaşından ayrıldı.
+RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Kırmızı takım bayrağı ele geçirdi: {0}'
+RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Gökkuşağı Savaşı bitti. Takımın kaybetti.
+RAINBOW_BATTLE_MESSAGE_YOU_WON: Gökkuşağı Savaşı bitti. Takımın kazandı.
+RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Mavi Takımdasın
+RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Oyuncu {0} donduruldu.
+RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Kırmızı Takımdasın
+RAINBOW_BATTLE_SHOUTMESSAGE_START: Gökkuşağı Savaşı başladı! Savaş!
+RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Oyuncu {0} dondurulması çözüldü.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Yeniden canlanma noktanı değiştirmek istiyor musun?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Yeniden canlanma noktan değiştirildi.
 REVIVE_DIALOG_ARENA: '{0} altın karşılığında yeniden canlanmak istiyor musun?'
@@ -728,7 +728,7 @@ SUM_MESSAGE_SUCCESS: Birleştirme başarılı!
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
-TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Seviyem bu Uzay-Zaman'a katılmak için çok yüksek.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu Uzay-Zaman'a katılamayacak kadar düşük.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Yalnızca grup lideri Uzay-Zaman'ı başlatabilir.
@@ -746,16 +746,16 @@ TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
 TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi
-TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: You need to have a group for this Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough group members to start Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: You're not owner of this Time-Space
-TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same map as you
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Bu Uzay-Zaman için bir grubunuz olmalı
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Uzay-Zaman'ı başlatmak için yeterli grup üyesi yok
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Bu Uzay-Zamanın sahibi değilsiniz
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Üyelerden biri sizinle aynı haritada değil
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hızlı Görevi başarıyla tamamladın.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-Zaman dolu.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
-TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
-TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Bu Uzay-Zaman için geçersiz hareket
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: Bu haritada Uzay-Zaman yaratamazsınız.
 TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
 TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı
 TITLE_INFO_EFFECT_ENABLED: Unvanın etkisi aktif
