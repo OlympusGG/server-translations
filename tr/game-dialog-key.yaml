@@ -356,7 +356,7 @@ ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu ku
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
 ITEM_CHATMESSAGE_ON_MOUNT: Araçtayken sadece atıştırmalık ve iksir kullanabilirsin.
-ITEM_CHATMESSAGE_PVP_COOLDOWN: Bu öğeyi kullanamazsın çünkü yakın zamanda bir oyuncuyla savaşa katıldınız.
+ITEM_CHATMESSAGE_PVP_COOLDOWN: Bu eşyayı kullanamazsın çünkü yakın zamanda bir oyuncuyla savaştın.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
 ITEM_CHATMESSAGE_UNFIXED: Teçhizatın seviyesi artık sabit değil!
@@ -399,7 +399,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Bakım süresinin değiştirildi. Başlamak için yeni zaman: {0}saat.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}dakika.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Bakım süresinin değiştirildi. Yeni başlama zamanı: {0}saniye.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Bakım durdurulmuştur.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Bakım durduruldu.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Bakım {0} saat içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
@@ -440,7 +440,7 @@ NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Buff paketini aldınız!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: Buff paketi bekleme süresinde.
-NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Bu buff paketinin günlük limitine ulaştınız.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Bu buff paketinin günlük limitine ulaştın.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Seviyeniz bu buff paketini alamayacak kadar yüksek.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Seviyeniz bu buff paketini alamayacak kadar düşük.
 NPC_SHOP_LOG_PURCHASE: 'Satın aldın: {1}x {0}'
@@ -640,21 +640,21 @@ RAID_SHOUTMESSAGE_TARGETS_UPDATED: Hedefler güncellendi.
 RAID_SHOUTMESSAGE_UNREGISTERED: Akın listeden çekildi.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} takıma katıldı.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Bu bayrak zaten takımın tarafından ele geçirildi.
-RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Bu bayrağı yakalamak için {0} saniye beklemeniz gerekiyor.
+RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Bu bayrağı yakalamak için {0} saniye beklemen gerekiyor.
 RAINBOW_BATTLE_EVENT_NAME: Gökkuşağı Savaşı
-RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Oyuncu {0} Bayrağı ele geçirdi: {1}'
+RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: ' {0} bayrağı ele geçirdi: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Mavi takım bayrağı ele geçirdi: {0}'
-RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Seviyeniz Gökkuşağı Savaşına katılmak için çok düşük.
+RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Seviyen Gökkuşağı Savaşına katılmak için çok düşük.
 RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Gökkuşağı Savaşına başlamak için yeterli oyuncu yok.
 RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Oyuncu {0} Gökkuşağı Savaşından ayrıldı.
 RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Kırmızı takım bayrağı ele geçirdi: {0}'
 RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Gökkuşağı Savaşı bitti. Takımın kaybetti.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: Gökkuşağı Savaşı bitti. Takımın kazandı.
-RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Mavi Takımdasın
+RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Mavi Takım'dasın.
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Oyuncu {0} donduruldu.
-RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Kırmızı Takımdasın
+RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Gökkuşağı Savaşı 5 saniye içinde başlayacak. Kırmızı Takım'dasın.
 RAINBOW_BATTLE_SHOUTMESSAGE_START: Gökkuşağı Savaşı başladı! Savaş!
-RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Oyuncu {0} dondurulması çözüldü.
+RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: '{0} çözüldü.'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Yeniden canlanma noktanı değiştirmek istiyor musun?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Yeniden canlanma noktan değiştirildi.
 REVIVE_DIALOG_ARENA: '{0} altın karşılığında yeniden canlanmak istiyor musun?'
@@ -746,16 +746,16 @@ TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
 TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi
-TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Bu Uzay-Zaman için bir grubunuz olmalı
-TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Uzay-Zaman'ı başlatmak için yeterli grup üyesi yok
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Bu Uzay-Zamanın sahibi değilsiniz
-TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Üyelerden biri sizinle aynı haritada değil
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Bu Uzay-Zaman için bir grubun olmalı.
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Uzay-Zaman'ı başlatmak için yeterli grup üyesi yok.
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Bu Uzay-Zaman'ın sahibi değilsin.
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Üyelerden biri sizinle aynı haritada değil.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Hızlı Görevi başarıyla tamamladın.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Görev ilk odaya girdiğinde başlar.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Uzay-Zaman dolu.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Lütfen bekle.
-TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Bu Uzay-Zaman için geçersiz hareket
-TIMESPACE_SHOUTMESSAGE_WRONG_MAP: Bu haritada Uzay-Zaman yaratamazsınız.
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Bunun için gereken tüm Uzay-Zamanları tamamlamadın.
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: Bu haritada Uzay-Zaman yaratamazsın.
 TITLE_DIALOG_ASK_ADD: Bu unvanı eklemek istiyor musun?
 TITLE_INFO_EFFECT_DISABLED: Unvanın etkisi devre dışı
 TITLE_INFO_EFFECT_ENABLED: Unvanın etkisi aktif
