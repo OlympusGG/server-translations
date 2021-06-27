@@ -641,6 +641,7 @@ RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This crystal is already captured by your team.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} seconds to capture this crystal.
+RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_EVENT_NAME: Rainbow Battle
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Player {0} captured the crystal: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Blue Team captured the crystal: {0}'
