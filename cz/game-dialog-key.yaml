@@ -641,6 +641,7 @@ RAID_SHOUTMESSAGE_UNREGISTERED: Tvůj raid tým už není registrován.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} se připojil do týmu'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
+RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_EVENT_NAME: Rainbow Battle
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Player {0} captured the flag: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Blue Team captured the flag: {0}'
