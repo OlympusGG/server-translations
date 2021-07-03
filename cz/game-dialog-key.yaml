@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Tento hráč není na obecné mapě!
 INSTANT_COMBAT_NAME: Okamžitý Boj
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitý Boj skončí za {0} minut.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Příšery přicházejí...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitý Boj skončí za {0} sekund.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulujeme! Vyhráli jste Okamžitý Boj!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Bohužel jste neporazili celou vlnu a neobdrželi žádnou kořist.

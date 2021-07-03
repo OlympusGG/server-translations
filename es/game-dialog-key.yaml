@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: ¡El jugador no está en un mapa gene
 INSTANT_COMBAT_NAME: Combate Instantáneo
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: El Combate Instantáneo terminará en {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Se acercan monstruos...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: El Combate Instantáneo terminará en {0} seg.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: ¡Felicidades! ¡Has ganado el Combate Instantáneo!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Desafortunadamente, no batiste la oleada. No recibiste botín.

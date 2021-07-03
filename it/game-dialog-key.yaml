@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Il giocatore non è in una mappa gene
 INSTANT_COMBAT_NAME: La Guerra Istantanea
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: La Guerra Istantanea finirà tra {0} minuti/o.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Stanno arrivando i mostri...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: La Guerra Istantanea finirà tra {0} secondi.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulazioni! hai vinto La Guerra Istantanea!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Sfortunatamente, non hai sconfitto l'ondata e non hai ricevuto il bottino.

@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Der Spieler befinden sich auf keiner 
 INSTANT_COMBAT_NAME: Instant Combat
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Der Instant Combat wird in {0} Minuten enden.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monster nähern sich...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Der Instant Combat wird in {0} Sekunden enden.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Herzlichen Glückwunsch! Du hast den Instant Combat gewonnen!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Leider konntest du die Monsterwelle nicht bezwingen. Daher erhältst du keine Belohnungen.

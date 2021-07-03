@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map!
 INSTANT_COMBAT_NAME: Instant Combat
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: The Instant Combat will end in {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monsters incoming...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: The Instant Combat will end in {0} sec.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulations! You won the Instant Combat!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Unfortunately, you didn't beat the wave and didn't receive the loot.

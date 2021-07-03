@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Ce joueur n'est pas sur une carte gé
 INSTANT_COMBAT_NAME: Combat Instantané
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Le Combat Instantané prendra fin dans {0} minute(s).
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Les monstres approchent...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Le Combat Instantané prendra fin dans {0} secondes.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Félicitation! Vous avez remporté le Combat Instantané !
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Malheureusement, vous n'avez pas vaincu la vague et ne recevez aucun butin.
