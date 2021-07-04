@@ -328,6 +328,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Gracz nie znajduje się na ogólnej m
 INSTANT_COMBAT_NAME: Błyskawiczna Bitwa
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Błyskawiczna Bitwa zakończy się za {0} min.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Nadchodzą potwory...
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Pozostała ilość potworów: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Błyskawiczna Bitwa zakończy się za {0} sec.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulacje! Wygrano Błyskawiczną Bitwę!
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Nie udało się pokonać fali potworów, więc nie pojawiły się łupy.
@@ -642,6 +643,8 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Twoja aktywność nie była wystarczająca duża, aby otrzymać nagrodę.
+RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: 'Ze względu na twoje ostatnie opuszczanie BTK nie otrzymasz żadnych nagród. Pozostała ilość gier do rozegrania, aby otrzymać nagrodę: {0}. Jeśli nie będziesz aktywny podczas meczu, ta ilość gier nie zmniejszy się.'
+RAINBOW_BATTLE_CHATMESSAGE_PENALTY_NEXT_REWARD: Ze względu na twoje ostatnie opuszczanie BTK nie otrzymasz żadnych nagród. W następnym meczu otrzymasz nagrody.
 RAINBOW_BATTLE_EVENT_NAME: Bitwa Tęczowego Kryształu
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Gracz {0} przejął kryształ: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Niebieska drużyna przejeła kryształ: {0}'
