@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} has defeated Lord Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} could not defeat Lord Mukraju in time.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Ammo loaded!
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: by order'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: You are not the group leader!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: The attempt has failed! Try again after {0} seconds.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Unfortunately, the attempt has failed.
-IC_1_49_W1_TITLE: Wave 1 - Weaklings!
-IC_1_49_W2_TITLE: Wave 2 - Greens
-IC_1_49_W3_TITLE: Wave 3 - Reds
-IC_1_49_W4_TITLE: Wave 4 - Yellows
-IC_1_49_W5_TITLE: Wave 5 - Flyings
-IC_50_59_W1_TITLE: Wave 1 - Lesser Demons
-IC_50_59_W2_TITLE: Wave 2 - Run!
-IC_50_59_W3_TITLE: Wave 3 - Greater Demons
-IC_50_59_W4_TITLE: Wave 4 - Krem Creatures
-IC_50_59_W5_TITLE: Wave 5 - Spiders
-IC_60_69_W1_TITLE: Wave 1 - Ghosts
-IC_60_69_W2_TITLE: Wave 2 - Catsy
-IC_60_69_W3_TITLE: Wave 3 - BDSM Dungeon
-IC_60_69_W4_TITLE: Wave 4 - Copper Balls
-IC_60_69_W5_TITLE: Wave 5 - Knights of Hell
-IC_70_79_W1_TITLE: Wave 1 - Fir Forest
-IC_70_79_W2_TITLE: Wave 2 - Maple Woods
-IC_70_79_W3_TITLE: Wave 3 - Moist Caves
-IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Wave 5 - Knights of Heaven
-IC_80_89_W1_TITLE: Wave 1 - Slades!
-IC_80_89_W2_TITLE: Wave 2 - Zombies!
-IC_80_89_W3_TITLE: Wave 3 - Greater Desertlings
-IC_80_89_W4_TITLE: Wave 4 - Sandspawns
-IC_80_89_W5_TITLE: Wave 5 - Shay's Forces
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Temple of Agony
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Volcanic Eruption
-IC_90_150_0_24H_W3_TITLE: Wave 3 - Flaming Sword
-IC_90_150_0_24H_W4_TITLE: Wave 4 - Gates of Hell
-IC_90_150_0_24H_W5_TITLE: Wave 5 - Gates of Heaven
-IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruins of Heaven
-IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruins of Hell
-IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Outpost!
-IC_90_150_25_44H_W4_TITLE: Wave 4 - Crusaders' Outpost!
-IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rest Place
-IC_90_150_45_70H_W1_TITLE: Wave 1 - Unknownlanders!
-IC_90_150_45_70H_W2_TITLE: Wave 2 - Hellspawns
-IC_90_150_45_70H_W3_TITLE: Wave 3 - Moist Creatures
-IC_90_150_45_70H_W4_TITLE: Wave 4 - Orcs
-IC_90_150_45_70H_W5_TITLE: Wave 5 - A Chill Place...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: You can't unfreeze the person you killed!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 ICEBREAKER_NAME: Icebreaker
@@ -613,14 +574,6 @@ RAID_INFO_NO_EXIST: Raid does not exist!
 RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
-RAID_NAME_CASTRA: Dark Castra
-RAID_NAME_CHICKENKING: Chicken King
-RAID_NAME_CUBY: Mother Cuby
-RAID_NAME_GIANTBLACKSPIDER: Giant Black Spider
-RAID_NAME_GINSENG: Ginseng
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
-RAID_NAME_SLADE: Massive Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in a group.

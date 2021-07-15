@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju è stato sconfitto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju è scomparso!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} ha evocato Lord Mukraju!'
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Amministratore
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Bottino Condiviso: Ordinato'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Non sei il capogruppo!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Tentativo fallito! Riprova tra {0} secondi.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Sfortunatamente, il tentativo è fallito.
-IC_1_49_W1_TITLE: Wave 1 - Smidollati!
-IC_1_49_W2_TITLE: Wave 2 - Verdi
-IC_1_49_W3_TITLE: Wave 3 - Rossi
-IC_1_49_W4_TITLE: Wave 4 - Gialli
-IC_1_49_W5_TITLE: Wave 5 - Volanti
-IC_50_59_W1_TITLE: Wave 1 - Demoni Minori
-IC_50_59_W2_TITLE: Wave 2 - Corri! Scappa!
-IC_50_59_W3_TITLE: Wave 3 - Demoni Maggiori
-IC_50_59_W4_TITLE: Wave 4 - Creature di Krem
-IC_50_59_W5_TITLE: Wave 5 - Ragni
-IC_60_69_W1_TITLE: Wave 1 - Fantasmi
-IC_60_69_W2_TITLE: Wave 2 - Catsy
-IC_60_69_W3_TITLE: Wave 3 - Cantina BDSM
-IC_60_69_W4_TITLE: Wave 4 - Palle di Rame
-IC_60_69_W5_TITLE: Wave 5 - Cavalieri Infernali
-IC_70_79_W1_TITLE: Wave 1 - Bosco d'Abeti
-IC_70_79_W2_TITLE: Wave 2 - Bosco d'Aceri
-IC_70_79_W3_TITLE: Wave 3 - Grotte Umide
-IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Wave 5 - Cavaliari Paradisiaci
-IC_80_89_W1_TITLE: Wave 1 - Invasione Slade!
-IC_80_89_W2_TITLE: Wave 2 - Orda Zombie!
-IC_80_89_W3_TITLE: Wave 3 - Abitanti del Deserto
-IC_80_89_W4_TITLE: Wave 4 - Bestie Desertiche
-IC_80_89_W5_TITLE: Wave 5 - Truppe di Shay
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempio del Dolore
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Eruzione Vulcanica
-IC_90_150_0_24H_W3_TITLE: Wave 3 - Spada Fiammeggiante
-IC_90_150_0_24H_W4_TITLE: Wave 4 - Cancelli dell'Inferno
-IC_90_150_0_24H_W5_TITLE: Wave 5 - Cancelli del Paradiso
-IC_90_150_25_44H_W1_TITLE: Wave 1 - Rovine del Paradiso
-IC_90_150_25_44H_W2_TITLE: Wave 2 - Rovine dell'Inferno
-IC_90_150_25_44H_W3_TITLE: Wave 3 - Avamposto degli Zeloti!
-IC_90_150_25_44H_W4_TITLE: Wave 4 - Avamposti dei Crociati!
-IC_90_150_25_44H_W5_TITLE: Wave 5 - Riposo di Ancelloan
-IC_90_150_45_70H_W1_TITLE: Wave 1 - Senzaorigine!
-IC_90_150_45_70H_W2_TITLE: Wave 2 - Bestie Infernali
-IC_90_150_45_70H_W3_TITLE: Wave 3 - Creature Bagnate
-IC_90_150_45_70H_W4_TITLE: Wave 4 - Orchi
-IC_90_150_45_70H_W5_TITLE: Wave 5 - Un posto fresco...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Non puoi scongelare un personaggio che hai sconfitto!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Sei troppo lontano per scongelare!
 ICEBREAKER_NAME: Icebreaker
@@ -613,14 +574,6 @@ RAID_INFO_NO_EXIST: Il raid non esiste!
 RAID_INFO_NO_LIVES_LEFT: Hai consumato tutte le vite a disposizione!
 RAID_INFO_PLAYER_DEATH: Sei morto! Resusciterai tra 20 secondi.
 RAID_MESSAGE_DISOLVED: Il team del raid è stato sciolto.
-RAID_NAME_CASTRA: Castra Oscuro
-RAID_NAME_CHICKENKING: Re Pollo
-RAID_NAME_CUBY: Madre Cuby
-RAID_NAME_GIANTBLACKSPIDER: Ragno Nero Gigante
-RAID_NAME_GINSENG: Ginseng
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
-RAID_NAME_SLADE: Slade Colossale
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Fai già parte di un team del raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Questo oggetto è stato già utilizzato.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Non puoi creare un team del raid mentre fai parte di un gruppo.
