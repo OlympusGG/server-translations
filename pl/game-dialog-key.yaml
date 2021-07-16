@@ -316,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Nie możesz tego użyć.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ posiadasz już efekt {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Efekt Olej z lodowych kwiatów został przedłużony.
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Będąc na pojeździe możesz używać tylko przekąsek oraz eliksirów.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ ostatnio uczestniczyłeś w walce z graczem.

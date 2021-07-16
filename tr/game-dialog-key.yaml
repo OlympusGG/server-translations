@@ -316,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Bu eşyaya midye işlenemez!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.

@@ -316,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: ¡Este objeto no puede contener concha!
 ITEM_CHATMESSAGE_CANT_USE_THAT: No puedes usar eso.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: No puedes usar ese objeto, debido a que ya tienes {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto {0} ha sido activado!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: ¡No tienes suficiente Piedra de Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Mientras estés en tu vehículo, solo puedes usar snacks y pociones.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: No puedes usar este objeto ya que acabas de salir de un combate contra otro jugador.

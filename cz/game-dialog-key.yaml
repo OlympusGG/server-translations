@@ -316,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Položka nemůže obsahovat mušle!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Toto nemůžeš použít.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tento předmět nemůžeš použít, protože už máš buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.

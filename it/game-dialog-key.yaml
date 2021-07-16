@@ -316,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Questo oggetto non può contenere le piet
 ITEM_CHATMESSAGE_CANT_USE_THAT: Non puoi utilizzarlo.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Non puoi utilizzare questo oggetto, perché sei già sotto l'effetto del buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effetto di {0} è stato attivato!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Non hai abbastanza Pietre Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
