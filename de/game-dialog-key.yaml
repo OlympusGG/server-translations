@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju ist tot!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju ist gestorben
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Schleuder nachgeladen.
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Beute teilen: Nach Reihenfolge'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Der Versuch ist fehlgeschlagen! Versuche es in {0} Sekunden erneut.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Der Versuch ist fehlgeschlagen.
-IC_1_49_W1_TITLE: Wave 1 - Schwächlinge!
-IC_1_49_W2_TITLE: Wave 2 - Grünlinge
-IC_1_49_W3_TITLE: Wave 3 - Rotlinge
-IC_1_49_W4_TITLE: Wave 4 - Gelblinge
-IC_1_49_W5_TITLE: Wave 5 - Fliegende
-IC_50_59_W1_TITLE: Wave 1 - Kleinere Dämonen
-IC_50_59_W2_TITLE: Wave 2 - Renn!
-IC_50_59_W3_TITLE: Wave 3 - Größere Dämonen
-IC_50_59_W4_TITLE: Wave 4 - Krem Kreaturen
-IC_50_59_W5_TITLE: Wave 5 - Spinnen
-IC_60_69_W1_TITLE: Wave 1 - Geister
-IC_60_69_W2_TITLE: Wave 2 - Catsy
-IC_60_69_W3_TITLE: Wave 3 - BDSM Dungeon
-IC_60_69_W4_TITLE: Wave 4 - Kupferbälle
-IC_60_69_W5_TITLE: Wave 5 - Höllenritter
-IC_70_79_W1_TITLE: Wave 1 - Tannenwald
-IC_70_79_W2_TITLE: Wave 2 - Ahornwald
-IC_70_79_W3_TITLE: Wave 3 - Feuchte Höhlen
-IC_70_79_W4_TITLE: Wave 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Wave 5 - Ritter des Himmels
-IC_80_89_W1_TITLE: Wave 1 - Slades!
-IC_80_89_W2_TITLE: Wave 2 - Zombies!
-IC_80_89_W3_TITLE: Wave 3 - Größere Wüstenlinge
-IC_80_89_W4_TITLE: Wave 4 - Sandspawns
-IC_80_89_W5_TITLE: Wave 5 - Shay's Kräfte
-IC_90_150_0_24H_W1_TITLE: Wave 1 - Tempel der Qual
-IC_90_150_0_24H_W2_TITLE: Wave 2 - Vulkanerruption
-IC_90_150_0_24H_W3_TITLE: Wave 3 - Flammendes Schwert
-IC_90_150_0_24H_W4_TITLE: Wave 4 - Tore der Hölle
-IC_90_150_0_24H_W5_TITLE: Wave 5 - Tore des Himmels
-IC_90_150_25_44H_W1_TITLE: Wave 1 - Ruinen des Himmels
-IC_90_150_25_44H_W2_TITLE: Wave 2 - Ruinen der Hölle
-IC_90_150_25_44H_W3_TITLE: Wave 3 - Zealots' Außenposten!
-IC_90_150_25_44H_W4_TITLE: Wave 4 - Kreuzritters' Außenposten!
-IC_90_150_25_44H_W5_TITLE: Wave 5 - Ancelloan's Rastplatz
-IC_90_150_45_70H_W1_TITLE: Wave 1 - Unknownlanders!
-IC_90_150_45_70H_W2_TITLE: Wave 2 - Höllenspawns
-IC_90_150_45_70H_W3_TITLE: Wave 3 - Finstere Kreaturen
-IC_90_150_45_70H_W4_TITLE: Wave 4 - Orks
-IC_90_150_45_70H_W5_TITLE: Wave 5 - Ein ruhiger Ort...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst eine Person, die du getötet hast, nicht auftauen!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Du bist zu weit entfernt, um das Ziel aufzutauen!
 ICEBREAKER_NAME: Icebreaker
@@ -355,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Auf diesen Gegenstand ist keine Muschel a
 ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, da du bereits unter dem Effekt {0} stehst.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der Effekt {0} wurde aktiviert!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Du hast nicht genügend Gillionsteine!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
@@ -613,14 +575,6 @@ RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
 RAID_INFO_NO_LIVES_LEFT: Du hast alle deine Leben verbraucht.
 RAID_INFO_PLAYER_DEATH: Du bist gestorben! Du wirst in 20 Sekunden wiederbelebt.
 RAID_MESSAGE_DISOLVED: Das Raidteam wurde aufgelöst.
-RAID_NAME_CASTRA: Dark Castra
-RAID_NAME_CHICKENKING: Huhnkönig
-RAID_NAME_CUBY: Cuby Mutter
-RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
-RAID_NAME_GINSENG: Xysenstrauch
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
-RAID_NAME_SLADE: Riesenslade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raidteam.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieser Schalter wurde bereits betätigt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, solange du Teil einer Gruppe bist.

@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡Lord Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: ¡Lord Mukraju no ha sido derrotado a tiempo!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!
 ACT5_CHATMESSAGE_NO_RECIPE: No se encontró ninguna receta para este tipo de intercambio.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: No puede volver al punto de retorno.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrador
 AMMO_LOADED_ADVENTURER: ¡Munición recargada!
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Compartir: por orden'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: ¡No eres el líder del grupo!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: El intento ha fallado. Vuelve a intentarlo en {0} segundos.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Desafortunadamente, el intento ha fallado.
-IC_1_49_W1_TITLE: Oleada 1 - ¡Debiluchos!
-IC_1_49_W2_TITLE: Oleada 2 - ¡Monstruos verdes!
-IC_1_49_W3_TITLE: Oleada 3 - ¡Monstruos rojos!
-IC_1_49_W4_TITLE: Oleada 4 - ¡Monstruos amarillos!
-IC_1_49_W5_TITLE: Oleada 5 - ¡Monstruos voladores!
-IC_50_59_W1_TITLE: Oleada 1 - ¡Demonios débiles!
-IC_50_59_W2_TITLE: Oleada 2 - ¡Corre!
-IC_50_59_W3_TITLE: Oleada 3 - ¡Demonios fuertes!
-IC_50_59_W4_TITLE: Oleada 4 - ¡Criaturas de Krem!
-IC_50_59_W5_TITLE: Oleada 5 - ¡Arañas!
-IC_60_69_W1_TITLE: Oleada 1 - ¡Fantasmas!
-IC_60_69_W2_TITLE: Oleada 2 - ¡Catsy!
-IC_60_69_W3_TITLE: Oleada 3 - ¡Mazmorra imposible!
-IC_60_69_W4_TITLE: Oleada 4 - ¡Bolas de cobre!
-IC_60_69_W5_TITLE: Oleada 5 - ¡Caballeros del infierno!
-IC_70_79_W1_TITLE: Oleada 1 - ¡Bosque de abetos!
-IC_70_79_W2_TITLE: Oleada 2 - ¡Bosque arce!
-IC_70_79_W3_TITLE: Oleada 3 - ¡Túnel frío!
-IC_70_79_W4_TITLE: Oleada 4 - ¡Seli-Lusha!
-IC_70_79_W5_TITLE: Oleada 5 - ¡Caballeros del cielo!
-IC_80_89_W1_TITLE: Oleada 1 - ¡Slades!
-IC_80_89_W2_TITLE: Oleada 2 - ¡Zombies!
-IC_80_89_W3_TITLE: Oleada 3 - ¡Desertores fuertes!
-IC_80_89_W4_TITLE: Oleada 4 - ¡Criaturas de arena!
-IC_80_89_W5_TITLE: Oleada 5 - ¡Las fuerzas de Shay!
-IC_90_150_0_24H_W1_TITLE: Oleada 1 - ¡El templo de la agonía!
-IC_90_150_0_24H_W2_TITLE: Oleada 2 - ¡Erupción volcánica!
-IC_90_150_0_24H_W3_TITLE: Oleada 3 - ¡Espada flameante!
-IC_90_150_0_24H_W4_TITLE: Oleada 4 - ¡Puertas del infierno!
-IC_90_150_0_24H_W5_TITLE: Oleada 5 - ¡Puertas del cielo!
-IC_90_150_25_44H_W1_TITLE: Oleada 1 - ¡Ruinas del cielo!
-IC_90_150_25_44H_W2_TITLE: Oleada 2 - ¡Ruinas del infierno!
-IC_90_150_25_44H_W3_TITLE: Oleada 3 - ¡Avanzada de los Zelotes!
-IC_90_150_25_44H_W4_TITLE: Oleada 4 - ¡Avanzada de los Cruzados!
-IC_90_150_25_44H_W5_TITLE: Oleada 5 - ¡Patio de descanso de Ancelloan!
-IC_90_150_45_70H_W1_TITLE: Oleada 1 - ¡Desconocidos!
-IC_90_150_45_70H_W2_TITLE: Oleada 2 - ¡Criaturas del infierno!
-IC_90_150_45_70H_W3_TITLE: Oleada 3 - ¡Criaturas heladas!
-IC_90_150_45_70H_W4_TITLE: Oleada 4 - ¡Orcos!
-IC_90_150_45_70H_W5_TITLE: Oleada 5 - Zona de descanso
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_NAME: Icebreaker
@@ -355,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: ¡Este objeto no puede contener concha!
 ITEM_CHATMESSAGE_CANT_USE_THAT: No puedes usar eso.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: No puedes usar ese objeto, debido a que ya tienes {0} buff.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto {0} ha sido activado!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: ¡No tienes suficiente Piedra de Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Mientras estés en tu vehículo, solo puedes usar snacks y pociones.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: No puedes usar este objeto ya que acabas de salir de un combate contra otro jugador.
@@ -613,14 +575,6 @@ RAID_INFO_NO_EXIST: ¡El raid no existe!
 RAID_INFO_NO_LIVES_LEFT: Habéis usado todas las vidas.
 RAID_INFO_PLAYER_DEATH: ¡Has muerto! Revivirás en 20 segundos.
 RAID_MESSAGE_DISOLVED: El equipo del raid se ha disuelto.
-RAID_NAME_CASTRA: Castra Oscuro
-RAID_NAME_CHICKENKING: Rey Pollo
-RAID_NAME_CUBY: Mamá Cubi
-RAID_NAME_GIANTBLACKSPIDER: Araña negra gigante
-RAID_NAME_GINSENG: Ginseng
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Ibrahim
-RAID_NAME_SLADE: Slade Gigante
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Este objeto ya ha sido activado.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un equipo de raid mientras estás en grupo.

@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
 ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono żadnej receptury do tego typu wymiany.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: Wokół ciebie zamyka się żar płonącego miecza.
 ACT5_MESSAGE_RETURN_DISABLED: Nie możesz ponownie się udać do miejsca powrotu.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Dziele łupów: kolejność'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Nie jesteś liderem grupy!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Próba nie udana! Spróbuj ponownie za {0} sek.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Próba nie udana
-IC_1_49_W1_TITLE: Fala 1 - Słabiaki!
-IC_1_49_W2_TITLE: Fala 2 - Zielone
-IC_1_49_W3_TITLE: Fala 3 - Czerwone
-IC_1_49_W4_TITLE: Fala 4 - Żółte
-IC_1_49_W5_TITLE: Fala 5 - Latające
-IC_50_59_W1_TITLE: Fala 1 - Pomniejsze Demony
-IC_50_59_W2_TITLE: Fala 2 - Uciekaj!
-IC_50_59_W3_TITLE: Fala 3 - Większe Demony
-IC_50_59_W4_TITLE: Fala 4 - Kreatury Kremu
-IC_50_59_W5_TITLE: Fala 5 - Pająki
-IC_60_69_W1_TITLE: Fala 1 - Duchy
-IC_60_69_W2_TITLE: Fala 2 - Catsy
-IC_60_69_W3_TITLE: Fala 3 - Loch BDSM
-IC_60_69_W4_TITLE: Fala 4 - Miedziane Kulki
-IC_60_69_W5_TITLE: Fala 5 - Rycerze Piekła
-IC_70_79_W1_TITLE: Fala 1 - Las Jodłowy
-IC_70_79_W2_TITLE: Fala 2 - Las Klonowy
-IC_70_79_W3_TITLE: Fala 3 - Wilgotne Jaskinie
-IC_70_79_W4_TITLE: Fala 4 - Seli-Lusha
-IC_70_79_W5_TITLE: Fala 5 - Rycerze Nieba
-IC_80_89_W1_TITLE: Fala 1 - Slade!
-IC_80_89_W2_TITLE: Fala 2 - Zombie!
-IC_80_89_W3_TITLE: Fala 3 - Większe Pustynniaki
-IC_80_89_W4_TITLE: Fala 4 - Piaskowe Pomioty
-IC_80_89_W5_TITLE: Fala 5 - Siły Shaya
-IC_90_150_0_24H_W1_TITLE: Fala 1 - Świątynia Agonii
-IC_90_150_0_24H_W2_TITLE: Fala 2 - Wulkaniczna Erupcja
-IC_90_150_0_24H_W3_TITLE: Fala 3 - Płonący Miecz
-IC_90_150_0_24H_W4_TITLE: Fala 4 - Bramy Piekła
-IC_90_150_0_24H_W5_TITLE: Fala 5 - Bramy Nieba
-IC_90_150_25_44H_W1_TITLE: Fala 1 - Ruiny Nieba
-IC_90_150_25_44H_W2_TITLE: Fala 2 - Ruiny Piekła
-IC_90_150_25_44H_W3_TITLE: Fala 3 - Posterunek Zelotów
-IC_90_150_25_44H_W4_TITLE: Fala 4 - Posterunek Krzyżowców
-IC_90_150_25_44H_W5_TITLE: Fala 5 - Miejsce Spoczynku Ancelloan
-IC_90_150_45_70H_W1_TITLE: Fala 1 - Nieznanokrainowcy!
-IC_90_150_45_70H_W2_TITLE: Fala 2 - Pomioty Piekła
-IC_90_150_45_70H_W3_TITLE: Fala 3 - Wilgotne Kreatury
-IC_90_150_45_70H_W4_TITLE: Fala 4 - Orkowie
-IC_90_150_45_70H_W5_TITLE: Fala 5 - Chłodne Miejsce...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Nie możesz odmrozić tej osoby!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Jesteś za daleko by odmrażać!
 ICEBREAKER_NAME: Lodołamacz
@@ -355,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Przedmiot nie może zawierać osłon!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Nie możesz tego użyć.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nie możesz użyć tego przedmiotu, ponieważ posiadasz już efekt {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Efekt Olej z lodowych kwiatów został przedłużony.
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Będąc na pojeździe możesz używać tylko przekąsek oraz eliksirów.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ ostatnio uczestniczyłeś w walce z graczem.
@@ -613,14 +575,6 @@ RAID_INFO_NO_EXIST: Rajd nie istnieje!
 RAID_INFO_NO_LIVES_LEFT: Wykorzystano wszystkie życia.
 RAID_INFO_PLAYER_DEATH: Nie żyjesz! Zostaniesz wskrzeszony za 20 sekund.
 RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
-RAID_NAME_CASTRA: Mroczny Castra
-RAID_NAME_CHICKENKING: Król Kurczaków
-RAID_NAME_CUBY: Matka Kostek
-RAID_NAME_GIANTBLACKSPIDER: Gigantyczny Czarny Pająk
-RAID_NAME_GINSENG: Żeń-Szeń
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Banda Pustynnych Rozbójników
-RAID_NAME_SLADE: Gigantyczny Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nie możesz utworzyć rajdu gdy znajdujesz się w grupie!

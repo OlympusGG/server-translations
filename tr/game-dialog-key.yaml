@@ -26,6 +26,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0} Lord Mukraju'yu yendi!"
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} Lord Mukraju'yu zamanında yenemedi."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0} Lord Mukraju'yu çağırdı!"
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
@@ -217,46 +218,6 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: Ganimetler sırayla dağıtılıyor.
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Grubun lideri sen değilsin.
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Deneme başarısız oldu. {0} saniye sonra tekrar deneyebilirsin.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Deneme başarısız oldu.
-IC_1_49_W1_TITLE: 1. Dalga - Cılızlar!
-IC_1_49_W2_TITLE: 2. Dalga - Yeşiller
-IC_1_49_W3_TITLE: 3. Dalga - Kırmızılar
-IC_1_49_W4_TITLE: 4. Dalga - Sarılar
-IC_1_49_W5_TITLE: 5. Dalga - Uçanlar
-IC_50_59_W1_TITLE: 1. Dalga - Küçük Şeytanlar
-IC_50_59_W2_TITLE: 2. Dalga - Koş!
-IC_50_59_W3_TITLE: 3. Dalga - Büyük Şeytanlar
-IC_50_59_W4_TITLE: 4. Dalga - Krem Yaratıkları
-IC_50_59_W5_TITLE: 5. Dalga - Örümcekler
-IC_60_69_W1_TITLE: 1. Dalga - Hayaletler
-IC_60_69_W2_TITLE: 2. Dalga - Kedicik
-IC_60_69_W3_TITLE: 3. Dalga - BDSM Zindanı
-IC_60_69_W4_TITLE: 4. Dalga - Bakır Toplar
-IC_60_69_W5_TITLE: 5. Dalga - Cehennem Şövalyeleri
-IC_70_79_W1_TITLE: 1. Dalga - Köknar Ormanı
-IC_70_79_W2_TITLE: 2. Dalga - Akçaağaç Ormanı
-IC_70_79_W3_TITLE: 3. Dalga - Nemli Mağaralar
-IC_70_79_W4_TITLE: 4. Dalga - Seli-Lusha
-IC_70_79_W5_TITLE: 5. Dalga - Cennet Şövalyeleri
-IC_80_89_W1_TITLE: 1. Dalga - Sladeler!
-IC_80_89_W2_TITLE: 2. Dalga - Zombiler!
-IC_80_89_W3_TITLE: 3. Dalga - Büyük Çöl Yaratıkları
-IC_80_89_W4_TITLE: 4. Dalga - Kumdoğanlar
-IC_80_89_W5_TITLE: 5. Dalga - Shay'in Kuvvetleri
-IC_90_150_0_24H_W1_TITLE: 1. Dalga - Acı Tapınağı
-IC_90_150_0_24H_W2_TITLE: 2. Dalga - Volkanik Püskürme
-IC_90_150_0_24H_W3_TITLE: 3. Dalga - Alevli Kılıç
-IC_90_150_0_24H_W4_TITLE: 4. Dalga - Cehennem Kapıları
-IC_90_150_0_24H_W5_TITLE: 5. Dalga - Cennet Kapıları
-IC_90_150_25_44H_W1_TITLE: 1. Dalga - Cennet Harabeleri
-IC_90_150_25_44H_W2_TITLE: 2. Dalga - Cehennem Harabeleri
-IC_90_150_25_44H_W3_TITLE: 3. Dalga - Zealotların Karakolu!
-IC_90_150_25_44H_W4_TITLE: 4. Dalga - Haçlıların Karakolu!
-IC_90_150_25_44H_W5_TITLE: 5. Dalga - Ancelloan'ın Dinlenme Yeri
-IC_90_150_45_70H_W1_TITLE: 1. Dalga - Bilinmeyen Diyarlılar!
-IC_90_150_45_70H_W2_TITLE: 2. Dalga - Cehennemdoğanlar
-IC_90_150_45_70H_W3_TITLE: 3. Dalga - Nemli Yaratıklar
-IC_90_150_45_70H_W4_TITLE: 4. Dalga - Orklar
-IC_90_150_45_70H_W5_TITLE: 5. Dalga - Sakin Bir Yer...
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Öldürdüğün karakteri çözemezsin.
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Karakteri çözmek için çok uzaktasın.
 ICEBREAKER_NAME: Buzkıran
@@ -355,6 +316,7 @@ ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Bu eşyaya midye işlenemez!
 ITEM_CHATMESSAGE_CANT_USE_THAT: Bunu kullanamazsın.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Zaten {0} etkisi altında olduğu için bunu kullanamazsın.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
+ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
@@ -613,14 +575,6 @@ RAID_INFO_NO_EXIST: Akın bulunamadı.
 RAID_INFO_NO_LIVES_LEFT: Tüm canlarını kullandın.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
-RAID_NAME_CASTRA: Karanlık Castra
-RAID_NAME_CHICKENKING: Tavuk Kral
-RAID_NAME_CUBY: Anne Cuby
-RAID_NAME_GIANTBLACKSPIDER: Dev Siyah Örümcek
-RAID_NAME_GINSENG: Ginseng
-RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
-RAID_NAME_SLADE: Dev Slade
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten bir akın takımına üyesin.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Çoktan kullanılmış.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Akın takımı kurmak için gruptan çıkmalısın.
