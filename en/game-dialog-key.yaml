@@ -218,6 +218,10 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Loot sharing: by order'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: You are not the group leader!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: The attempt has failed! Try again after {0} seconds.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Unfortunately, the attempt has failed.
+ICE_DUST_ASK_DIALOG_BUY: '#ICE_DUST_ASK_DIALOG_BUY'
+ICE_DUST_ASK_DIALOG_EXCHANGE: '#ICE_DUST_ASK_DIALOG_EXCHANGE'
+ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE: '#ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE'
+ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: You can't unfreeze the person you killed!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 ICEBREAKER_NAME: Icebreaker
@@ -355,6 +359,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: '#LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: '#LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: '#LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS'
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mail(s) in your inbox.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
@@ -545,11 +552,15 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
+QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
+QUEST_SHOUTMESSAGE_ACT_SKIPPED: Act skipped successfully
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: You already completed this main quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: This quest has been already completed and it's not ready yet
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: You already have this quest
 QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Already doing a main quest
+QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: You need to have a main quest to skip the act
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: You have some incomplete quests
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Your level is too low for this quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: You cannot accept any more quests
@@ -674,7 +685,6 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: You need {0} basic SP points to transform into a Specialist Card!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: You have no SP points left! You can't transform now!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: You can't remove the Specialist Card because of a negative effect.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: You added {0} SP points!
@@ -732,6 +742,11 @@ TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: You can't trade with shop keepers.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Item can't be traded.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: You can't trade in a raid.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: You can't trade with a raid member.
+TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: This trophy is already the maximum Tier!
+TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: The selected item is not a trophy.
+TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: The trophy upgrade failed!
+TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: The trophy upgrade succeeded!
+TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} successfully upgraded their trophy to last tier: {1}!'
 UPGRADE_MESSAGE_FAILED: Upgrade failed!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Upgrade failed but the item was saved.
 UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'

@@ -218,6 +218,10 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Beute teilen: Nach Reihenfolge'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Du bist nicht der Gruppenleiter!
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Der Versuch ist fehlgeschlagen! Versuche es in {0} Sekunden erneut.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Der Versuch ist fehlgeschlagen.
+ICE_DUST_ASK_DIALOG_BUY: '#ICE_DUST_ASK_DIALOG_BUY'
+ICE_DUST_ASK_DIALOG_EXCHANGE: '#ICE_DUST_ASK_DIALOG_EXCHANGE'
+ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE: '#ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE'
+ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Du kannst eine Person, die du getötet hast, nicht auftauen!
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Du bist zu weit entfernt, um das Ziel aufzutauen!
 ICEBREAKER_NAME: Icebreaker
@@ -355,6 +359,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht nochmal verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: '#LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: '#LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: '#LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS'
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.
@@ -545,11 +552,15 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst eine angenommene Hauptquest nicht aufgegeben. Möchtest du trotzdem fortfahren?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich teleportieren?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
+QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
+QUEST_SHOUTMESSAGE_ACT_SKIPPED: Act skipped successfully
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Du hast diese Quest bereits abgeschlossen. Sie ist noch nicht wieder verfügbar!
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits angenommen.
 QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du hast bereits eine Hauptquest angenommen.
+QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: You need to have a main quest to skip the act
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Du hast nicht erfüllte Questaufträge.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Dein Level ist zu niedrig für diese Quest.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Du kannst keine weiteren Quests annehmen.
@@ -674,7 +685,6 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Abklingkeit der Spezialistenkarte - {0} Sek.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Das Level deiner Spezialistenkarten wurde erhöht!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Du brauchst {0} SP Punkte, um dich in deine Spezialistenkarte zu verwandeln!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Du hast keine SP Punkte übrig! Du kannst dich jetzt nicht verwandeln!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Die Spezialistenkarte kann aufgrund eines negativen Effekts nicht ausgezogen werden.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: Du hast {0} SP Punkte verteilt!
@@ -732,6 +742,11 @@ TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Du kannst mit einem Ladenbesitzer nicht tausch
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Dieser Gegenstand kann nicht getauscht werden.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Du kannst in einem Raid nicht tauschen.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du kannst mit Raidmitgliedern nicht tauschen.
+TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: This trophy is already the maximum Tier!
+TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: The selected item is not a trophy.
+TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: The trophy upgrade failed!
+TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: The trophy upgrade succeeded!
+TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} successfully upgraded their trophy to last tier: {1}!'
 UPGRADE_MESSAGE_FAILED: Verbesserung fehlgeschlagen!
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde geschützt.
 UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'

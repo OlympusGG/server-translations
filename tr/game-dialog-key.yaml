@@ -218,6 +218,10 @@ GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: Ganimetler sırayla dağıtılıyor.
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Grubun lideri sen değilsin.
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: Deneme başarısız oldu. {0} saniye sonra tekrar deneyebilirsin.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Deneme başarısız oldu.
+ICE_DUST_ASK_DIALOG_BUY: '#ICE_DUST_ASK_DIALOG_BUY'
+ICE_DUST_ASK_DIALOG_EXCHANGE: '#ICE_DUST_ASK_DIALOG_EXCHANGE'
+ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE: '#ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE'
+ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
 ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: Öldürdüğün karakteri çözemezsin.
 ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: Karakteri çözmek için çok uzaktasın.
 ICEBREAKER_NAME: Buzkıran
@@ -355,6 +359,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu öğe geçici olarak devre dışı bırakıldı.
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: '#LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: '#LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: '#LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS'
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Bir paket geldi.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Posta kutunda {0} paket var.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Bakım yapıldı.
@@ -545,11 +552,15 @@ QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
+QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
+QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
+QUEST_SHOUTMESSAGE_ACT_SKIPPED: Act skipped successfully
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Zaten bu göreve sahipsin.
 QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Zaten bir ana görev yapıyorsun.
+QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: You need to have a main quest to skip the act
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış görevlerin var.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için yetersiz.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
@@ -674,7 +685,6 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Henüz saldıramazsın.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Uzmanın seviyesi yükseldi!
-SPECIALIST_SHOUTMESSAGE_NO_ENOUGH_SP_POINTS: Uzman Kartı dönüşümü için {0} SP puanına ihtiyacın var.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: SP puanın bittiği için Uzmanlık Kartına dönüşemezsin.
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Kötü bir etki yüzünden Uzmanlık Kartını çıkartamazsın.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: '{0} SP puanı eklendi!'
@@ -732,6 +742,11 @@ TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Dükkan sahipleriyle takas yapamazsın.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Eşya takas edilemez.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Akın içerisinde takas yapamazsın.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Akın takımı üyeleriyle takas yapamazsın.
+TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: This trophy is already the maximum Tier!
+TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: The selected item is not a trophy.
+TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: The trophy upgrade failed!
+TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: The trophy upgrade succeeded!
+TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} successfully upgraded their trophy to last tier: {1}!'
 UPGRADE_MESSAGE_FAILED: Geliştirme başarısız.
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Geliştirme başarısız ama eşyan korundu.
 UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
