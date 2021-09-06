@@ -359,9 +359,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht nochmal verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
-LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: '#LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS'
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: '#LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN'
-LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: '#LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS'
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.

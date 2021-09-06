@@ -359,9 +359,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: ¡No te puedes cambiar a la facción que ya tien
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: ¡No te puedes poner las mismas alas!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: ¡No te puedes subir a una montura porque tienes un efecto maligno!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Este objeto ha sido deshabilitado temporalmente.
-LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: '#LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS'
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: '#LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN'
-LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: '#LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS'
+LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Has recibido un paquete.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} cartas en el buzón.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: El mantenimiento ha sido ejecutado.
