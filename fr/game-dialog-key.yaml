@@ -20,11 +20,12 @@ ACT4_NEED_FACTION: Seuls ceux qui ont un pouvoir de protection peuvent rejoindre
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Camp des anges
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Camp des démons
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No camp built yet.
+ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Le {0} a vaincu le Seigneur Mukraju !
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Le {0} n'a pas réussi à vaincre le Seigneur Mukraju à temps.
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: Le {0} a invoqué le Seigneur Mukraju !
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
@@ -177,6 +178,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Ce joueur n'est pas dans ta liste d'am
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Ton ami est dans la faction adverse.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Tu ne peux pas parier les objets fixes.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Tu ne peux pas parier les objets non-héroïques avec ça.
+GAMBLING_DIALOG_RARITY_CONFIRMATION: Are you sure that you want to gamble this high-rarity item?
 GAMBLING_INFO_AMULET_DESTROYED: 'ATTENTION: Le parchemin de protection a expiré.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Tu possèdes déjà la plus haute rareté !
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Grâce à l'amulette, l'objet n'a pas été détruit.
@@ -364,6 +366,7 @@ LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completi
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un paquet.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} message(s).
+MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La maintenance a été réalisée.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La maintenance a été levée.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Changement de l'horaire de maintenance. Début dans: {0}h."
@@ -408,6 +411,9 @@ MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ce joueur est en sourdine.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Vous êtes en sourdine.
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} note(s).
+NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
+NOTE_INFO_SEND_FAILED: Failed to send a note.
+NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Tu as reçu un lot de buff!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: Le lot de buff est en rechargement.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Tu as atteint la limite journalière de ce lot de buff.
@@ -753,6 +759,7 @@ UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed 
 UPGRADE_MESSAGE_FIXED: Niveau fixe.
 UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: L'âme de la carte de spécialiste a été détruite.
+UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Specialist Card soul was saved by the scroll!
 UPGRADE_MESSAGE_SP_FAILED: L'amélioration a échoué.
 UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: L'amélioration a échoué mais la carte de spécialiste a été préservée.

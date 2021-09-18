@@ -20,11 +20,12 @@ ACT4_NEED_FACTION: K Frozen Crown se mohou připojit pouze ti, kteří mají ji�
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor andělů
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor démonů
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Tábor je již postaven.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: Byl postaven nový základní tábor andělů!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Byl postaven nový základní tábor démonů!
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No camp built yet.
+ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: Lord Mukraju je mrtev!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: Lord Mukraju zemřel
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} svolal(i) Lorda Mukraju!'
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
@@ -177,6 +178,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není ve tvém seznamu p�
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je v nepřátelské straně.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Není možné sázet předměty se zafixovaným levelem.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: S tímto není možné sázet s nehrdinskými předměty.
+GAMBLING_DIALOG_RARITY_CONFIRMATION: Are you sure that you want to gamble this high-rarity item?
 GAMBLING_INFO_AMULET_DESTROYED: 'UPOZORNĚNÍ: Ochranné kouzlo vypršelo.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Už máš nejvyšší možnou raritu!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Díky amuletu nebyl předmět zničen!
@@ -364,6 +366,7 @@ LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completi
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Máš nový balík.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Máš {0} mailů v doručené poště.
+MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Údržba byla provedena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Údržba byla odložena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Změna času Údržby. Nový čas do Údržby: {0} hodin.'
@@ -408,6 +411,9 @@ MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: Dorazila nová zpráva!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Máš {0} zpráv v doručené poště.
+NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
+NOTE_INFO_SEND_FAILED: Failed to send a note.
+NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Obdržel jsi balíček Buffů!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
@@ -753,6 +759,7 @@ UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed 
 UPGRADE_MESSAGE_FIXED: Level zafixován.
 UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: Duše karty specialisty byla zničena!
+UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Specialist Card soul was saved by the scroll!
 UPGRADE_MESSAGE_SP_FAILED: Vylepšení SP selhalo!
 UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Vylepšení karty specialisty se nezdařilo, ale předmět byl ochráněn před zničením.
