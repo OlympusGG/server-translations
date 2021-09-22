@@ -773,3 +773,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?
 WEDDING_INFO_DIVORCED: The marriage was terminated.
 WEDDING_SHOUTMESSAGE_BROADCAST: Players {0} and {1} just got married!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal of {1}.'
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
