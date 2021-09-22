@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -290,6 +291,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Dein Geschlecht wurde gewechselt!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Der Server wird in {0} Sekunden herunterfahren.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Der Spezialisten muss mindestens Stufe {0} sein um verbessert zu werden!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punkte verteilt.
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Dein Level ist zu niedrig!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Der Spieler befinden sich auf keiner generellen Karte!
 INSTANT_COMBAT_NAME: Instant Combat
@@ -511,6 +513,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten wiederbelebt.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate wurde durch NosMate Schutzengel wiederbelebt.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Chance für den Preis: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Du hast {0} als eine extra Belohnung erhalten!'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
+POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
+POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich noch nicht bewegen.
 PSP_AEGIR: Aegir der Wütende

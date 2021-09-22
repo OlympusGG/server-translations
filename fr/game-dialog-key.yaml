@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: L'entrepôt est en maintenance.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur innatendue s'est produite. Veuillez réessayer plus tard.
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_KILL_INFO: 'Tués: {0}, Morts: {1}'
@@ -290,6 +291,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Ton sexe a été modifié.
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Le serveur s'arrêtera dans {0} secondes.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Avant de pouvoir être améliorée, ta carte de spécialiste doit atteindre le niveau {0} !
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points attribués.
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Ton niveau est trop faible !
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Ce joueur n'est pas sur une carte générale !
 INSTANT_COMBAT_NAME: Combat Instantané
@@ -511,6 +513,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Ton familier réapparaîtra dans 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Ton familier a été sauvé par la poupée ange gardienne.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
+POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
+POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
 PORTAL_CHATMESSAGE_BLOCKED: Ce portail est verouillé, tu ne peux pas l'utiliser.
 PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
 PSP_AEGIR: Aegir le Furibond
