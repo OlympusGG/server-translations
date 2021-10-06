@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACHIEVEMENT_COMPLETED: Achievement completed
+ACHIEVEMENT_COMPLETED: Achievement completed.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
