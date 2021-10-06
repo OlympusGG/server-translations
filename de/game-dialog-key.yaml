@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus befindet sich im Wartungsmodus.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später erneut.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Der Akt 4 Channel ist offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} hat dir eine Gruppeneinladung geschickt'
 GROUP_INFO_ADMIN: Du bist jetzt der Gruppenleiter!
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits Teil einer Gruppe!
 GROUP_INFO_BLOCKED: Dieser Spieler blockiert Gruppeneinladungen.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: Gruppe ist voll.
 GROUP_INFO_JOIN: Du bist der Gruppe von {0} beigetreten!
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht nochmal verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
+LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
+LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
+LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Your level is too low.
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Land of Death is closed.
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Land of Death is under maintenance.
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of Death.
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: Benutzeroberfläche deaktiviert
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: Benutzeroberfläche aktiviert
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Flüstern deaktiviert
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Flüstern aktiviert
+ORNAMENT_UNLOCKED: Ornament unlocked.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Du hast einen neuen Partner erhalten: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partner ist satt!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner SP Abklingzeit beendet.

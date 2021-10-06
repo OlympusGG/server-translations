@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Chybné přihlášení k účtu.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Opravdu chceš opustit dungeon?
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} ti zaslal pozvánku do skupiny'
 GROUP_INFO_ADMIN: Nyní jsi správcem skupiny!
 GROUP_INFO_ALREADY_IN_GROUP: Již jsi ve skupině!
 GROUP_INFO_BLOCKED: Hráč blokuje pozvánky do skupiny.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: Skupina je plná.
 GROUP_INFO_JOIN: Připojil jsi se do skupiny hráče {0}!
 GROUP_INFO_LEFT: Opustil jsi skupinu.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně deaktivován.
+LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
+LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
+LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Your level is too low.
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Land of Death is closed.
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Land of Death is under maintenance.
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of Death.
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI zakázáno
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI povoleno
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Šeptání zakázáno
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Šeptání povoleno
+ORNAMENT_UNLOCKED: Ornament unlocked.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Obdržel jsi nového partnera: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Tvůj partner už je plný!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown pro kartu specialisty partnera skončil.

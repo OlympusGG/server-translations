@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: Player {0} has sent you a group request.
 GROUP_INFO_ADMIN: You are the group leader now!
 GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
 GROUP_INFO_BLOCKED: The player blocks group invites.
+GROUP_INFO_DISABLED: Groups are disabled on this map.
 GROUP_INFO_FULL: Group is full.
 GROUP_INFO_JOIN: You joined the group of player {0}!
 GROUP_INFO_LEFT: You left the group.
@@ -291,7 +292,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialist must have at least level {0} to upgrade!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points set.
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Your level is too low!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map!
 INSTANT_COMBAT_NAME: Instant Combat
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
+LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
+LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Your level is too low.
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Land of Death is closed.
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Land of Death is under maintenance.
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of Death.
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -378,12 +386,12 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0} hour(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0} minute(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0} second(s).
-MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: noswings.com'
-MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: noswings.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: noswings.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.noswings.com'
-MESSAGE_UNDER_CHAT_4: 'Respect our game rules: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit Support Discord server: noswings.com/support'
+MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: olympusgg.com'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: olympusgg.com/discord'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: olympusgg.com/bug-report'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.olympusgg.com'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: olympusgg.com/game-rules'
+MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit Support Discord server: olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI disabled
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI enabled
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Whispers disabled
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Whispers enabled
+ORNAMENT_UNLOCKED: Ornament unlocked.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'You got a new Partner: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Your Partner is full!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner specialist cooldown finished.
@@ -513,11 +522,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
-POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
-POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
-POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: 'In order to create a Pocket Dimension, all your group members have to be on the same map.'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: 'Group member {0} is under cooldown to create a new Pocket Dimension.'
+POCKET_DIMENSION_MAP_MISCONFIGURED: 'Pocket Dimension does not seem well configured, please report it to our support team.'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: 'Pocket Dimension on this map is not available.'
+POCKET_DIMENSION_UNDER_COOLDOWN: 'You need to wait to create a new Pocket Dimension.'
 PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
 PORTAL_CHATMESSAGE_TOO_EARLY: You will be able to move shortly.
 PSP_AEGIR: Aegir the Angry
