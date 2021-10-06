@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -20,11 +21,12 @@ ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Cr
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: A new Angel Base Camp has been built!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: A new Demon Base Camp has been built!
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: A camp hasn't been built yet.
+ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} has defeated Lord Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} could not defeat Lord Mukraju in time.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
@@ -177,6 +179,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: This player is not in your friendlist.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in the enemy faction.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: You can't gamble with fixed level items.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: You can't gamble non-heroic items with that.
+GAMBLING_DIALOG_RARITY_CONFIRMATION: Are you sure that you want to gamble this high-rarity item?
 GAMBLING_INFO_AMULET_DESTROYED: 'CAUTION: The protection amulet has expired because all uses have been spent.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: You already have the highest rarity!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: The item was not destroyed, thanks to the amulet!
@@ -288,6 +291,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Specialist must have at least level {0} to upgrade!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Points set.
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Your level is too low!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map!
 INSTANT_COMBAT_NAME: Instant Combat
@@ -364,6 +368,7 @@ LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completi
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mail(s) in your inbox.
+MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0}h.'
@@ -408,6 +413,9 @@ MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in your inbox.
+NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
+NOTE_INFO_SEND_FAILED: Failed to send a note.
+NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: You received the buff pack!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: The buff pack is on cooldown.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
@@ -505,6 +513,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
+POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
+POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
 PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
 PORTAL_CHATMESSAGE_TOO_EARLY: You will be able to move shortly.
 PSP_AEGIR: Aegir the Angry

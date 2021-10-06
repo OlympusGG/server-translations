@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
@@ -20,11 +21,12 @@ ACT4_NEED_FACTION: Sólo aquellos con una facción pueden viajar a Glacernon.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Campamento de los ángeles
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Campamento de los demonios
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Ya hay un campamento instalado.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: ¡Se ha instalado un Campamento Base Ángel nuevo!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: ¡Se ha instalado un Campamento Base Demonio nuevo!
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No camp built yet.
+ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡Lord Mukraju ha muerto!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: ¡Lord Mukraju no ha sido derrotado a tiempo!
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado a Lord Mukraju!
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: No se encontró ninguna receta para este tipo de intercambio.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: No puede volver al punto de retorno.
@@ -177,6 +179,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Este jugador no está en tu lista de a
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tu amigo está en la facción enemiga.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: No puedes apostar equipamiento con nivel fijado.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: No puedes apostar equipamiento no-heroico con ese amuleto.
+GAMBLING_DIALOG_RARITY_CONFIRMATION: Are you sure that you want to gamble this high-rarity item?
 GAMBLING_INFO_AMULET_DESTROYED: 'PRECAUCIÓN: El hechizo de protección ha expirado.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: ¡Ya tiene la rareza máxima!
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: ¡El objeto no se destruyó gracias al amuleto!
@@ -288,6 +291,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: ¡Has cambiado tu género!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: El servidor cerrará en {0} seg.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: ¡La especialista tiene que ser al menos nivel {0} para poderla mejorar!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puntos añadidos.
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: ¡Tu nivel es demasiado bajo!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: ¡El jugador no está en un mapa general!
 INSTANT_COMBAT_NAME: Combate Instantáneo
@@ -364,6 +368,7 @@ LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completi
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Has recibido un paquete.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} cartas en el buzón.
+MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: El mantenimiento ha sido ejecutado.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: El mantenimiento ha concluido.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Cambio del mantenimiento programado. Nueva hora de inicio: {0}hr.'
@@ -408,6 +413,9 @@ MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Este jugador está muteado.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Estás muteado.
 NOTE_CHATMESSAGE_NEW_NOTE: ¡Te ha llegado una nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tienes {0} notas en la bandeja de entrada.
+NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
+NOTE_INFO_SEND_FAILED: Failed to send a note.
+NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: ¡Has recibido el paquete de bendiciones!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: El paquete de bendiciones está en enfriamiento.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Has alcanzado el límite de uso diario de este paquete de bendiciones.
@@ -505,6 +513,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Tu NosMate será revivido en 3 minutos.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Tu NosMate ha sido revivido por un Ángel Guardián.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], probabilidad para que te toque el premio: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] ¡Has adquirido {0} como recompensa extra!'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
+POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
+POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
 PORTAL_CHATMESSAGE_BLOCKED: Este portal está bloqueado. no puedo usarlo.
 PORTAL_CHATMESSAGE_TOO_EARLY: Serás capaz de moverte en breves.
 PSP_AEGIR: Aegir
@@ -753,6 +766,7 @@ UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed 
 UPGRADE_MESSAGE_FIXED: Nivel fijado.
 UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Next upgrade attempt is a guaranteed success.'
 UPGRADE_MESSAGE_SP_DESTROYED: ¡El alma de la Tarjeta de Especialista ha sido destruida!
+UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Specialist Card soul was saved by the scroll!
 UPGRADE_MESSAGE_SP_FAILED: ¡La mejora de la Tarjeta de Especialista ha fallado!
 UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] {0} fail(s) left until a guaranteed success.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: La mejora de la Tarjeta de Especialista ha fallado, pero ha sido salvada.

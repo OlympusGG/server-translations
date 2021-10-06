@@ -1,6 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Błędny login.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
+ACHIEVEMENT_COMPLETED: 'Achievement completed'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy na pewno chcesz opuścić loch?
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_KILL_INFO: 'Zabójstwa: {0}, Śmierci: {1}'
@@ -20,11 +21,12 @@ ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Obóz Aniołów
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Obóz Demonów
 ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: Obóz jest już postawiony.
-ACT4_SHOUTMESSAGE_FLAG_PLACED_ANGEL: Założono nowy główny obóz Aniołów!
-ACT4_SHOUTMESSAGE_FLAG_PLACED_DEMON: Założono nowy główny obóz Demonów!
+ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: No camp built yet.
+ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built!
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie zdążył pokonać Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} wezwał Lorda Mukraju!'
+ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono żadnej receptury do tego typu wymiany.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Wokół ciebie zamyka się żar płonącego miecza.
 ACT5_MESSAGE_RETURN_DISABLED: Nie możesz ponownie się udać do miejsca powrotu.
@@ -177,6 +179,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Gracz nie znajduje się na liście prz
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Przyjaciel znajduje się we wrogiej frakcji.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Przedmiot jest utrwalony!
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Nie możesz tego zrobić, ponieważ przedmiot nie jest bohaterski.
+GAMBLING_DIALOG_RARITY_CONFIRMATION: Are you sure that you want to gamble this high-rarity item?
 GAMBLING_INFO_AMULET_DESTROYED: 'UWAGA: zaklęcie ochronne amuletu zniknęło!'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Przedmiot posiada najwyższą unikalność.
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Dzięki amuletowi, przedmiot nie został zniszczony!
@@ -288,6 +291,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Płeć została zmieniona!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Serwer zostanie wyłączony za {0} sek.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Do ulepszenia Karty Specjalisty potrzebna jest {0} profesja.
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Pomyślnie przydzielono punkty
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Twój poziom jest za niski!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Gracz nie znajduje się na ogólnej mapie!
 INSTANT_COMBAT_NAME: Błyskawiczna Bitwa
@@ -364,6 +368,7 @@ LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completi
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Otrzymano paczkę.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
+MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Przerwa techniczna wykonała się.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Przerwa techniczna została zniesiona.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Zmiana czasu przerwy technicznej. Nowy czas do rozpoczęcia: {0} godz.'
@@ -408,6 +413,9 @@ MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ten gracz jest wyciszony.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Jesteś wyciszony.
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
+NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
+NOTE_INFO_SEND_FAILED: Failed to send a note.
+NOTE_INFO_SENDING_TOO_MANY: You are sending too many notes!
 NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Otrzymano zestaw efektów!
 NPC_BUFFER_SHOUT_BUFF_ON_CD: Ten zestaw efektów jest w trakcie odnowy.
 NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Osiągnięto maksymalną dzienną ilość tego zestawu efektów.
@@ -505,6 +513,11 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[System Pity] {0} => [{1}/{2}], szansa na zdobycie nagrody: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[System Pity] Otrzymano {0} jaką dodatkową nagrodę!'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
+POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
+POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
@@ -753,6 +766,7 @@ UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] pozostało {0} niepowodzeń do gwara
 UPGRADE_MESSAGE_FIXED: Stały poziom.
 UPGRADE_MESSAGE_PITY_NEXT_GUARANTEED: '[Pity System] Następna próba ulepszenia to gwarantowany sukces.'
 UPGRADE_MESSAGE_SP_DESTROYED: Dusza Karty Specjalisty uległa zniszczeniu!
+UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Specialist Card soul was saved by the scroll!
 UPGRADE_MESSAGE_SP_FAILED: Ulepszenie nie powiodło się!
 UPGRADE_MESSAGE_SP_FAILED_PITY: '[Pity System] pozostało {0} niepowodzeń do gwarantowanego sukcesu.'
 UPGRADE_MESSAGE_SP_FAILED_SAVED: Ulepszenie nie powiodło się, ale twoja Karta Specjalisty została zachowana!
