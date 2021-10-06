@@ -11,10 +11,10 @@ configs/
 i18n/
 .vscode
 obj/
-bin\*
-obj\*
-.vs\ 
-.git\ 
+bin/*
+obj/*
+.vs/*
+.git/*
 docs\
 dist/
 dist\*
