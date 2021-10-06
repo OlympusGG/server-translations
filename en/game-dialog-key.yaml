@@ -522,9 +522,9 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], chance for the prize: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] You acquired {0} as an extra reward!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: 'In order to create the Pocket Dimension, all your group members have to be on the same map.'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: 'Member: {0} of your group is under cooldown to create a new Pocket Dimension'
-POCKET_DIMENSION_MAP_MISCONFIGURED: 'Pocket Dimension does not seem well configured, please report it to our support.'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: 'In order to create a Pocket Dimension, all your group members have to be on the same map.'
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: 'Group member {0} is under cooldown to create a new Pocket Dimension.'
+POCKET_DIMENSION_MAP_MISCONFIGURED: 'Pocket Dimension does not seem well configured, please report it to our support team.'
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: 'Pocket Dimension on this map is not available.'
 POCKET_DIMENSION_UNDER_COOLDOWN: 'You need to wait to create a new Pocket Dimension.'
 PORTAL_CHATMESSAGE_BLOCKED: This portal is locked, I can't use it.
