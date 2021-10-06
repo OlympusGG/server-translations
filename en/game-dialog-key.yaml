@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: Player {0} has sent you a group request.
 GROUP_INFO_ADMIN: You are the group leader now!
 GROUP_INFO_ALREADY_IN_GROUP: You are already in a group!
 GROUP_INFO_BLOCKED: The player blocks group invites.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: Group is full.
 GROUP_INFO_JOIN: You joined the group of player {0}!
 GROUP_INFO_LEFT: You left the group.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+LOD_DIALOG_ASK_REVIVE: '#LOD_DIALOG_ASK_REVIVE'
+LOD_SHOUTMESSAGE_HORN_DESPAWN: '#LOD_SHOUTMESSAGE_HORN_DESPAWN'
+LOD_SHOUTMESSAGE_HORN_SPAWN: '#LOD_SHOUTMESSAGE_HORN_SPAWN'
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: '#LOD_SHOUTMESSAGE_LEVEL_TOO_LOW'
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: '#LOD_SHOUTMESSAGE_LOD_IS_CLOSED'
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: '#LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE'
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: '#LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI disabled
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI enabled
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Whispers disabled
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Whispers enabled
+ORNAMENT_UNLOCKED: '#ORNAMENT_UNLOCKED'
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'You got a new Partner: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Your Partner is full!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner specialist cooldown finished.

@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Username errato.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore inaspettato. Riprova più tardi.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Il canale dell'atto 4 è offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} ti ha inviato una richiesta di gruppo'
 GROUP_INFO_ADMIN: Sei il capogruppo!
 GROUP_INFO_ALREADY_IN_GROUP: Sei già in un gruppo!
 GROUP_INFO_BLOCKED: Il giocatore ha bloccato gli inviti al gruppo.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: Il gruppo è pieno.
 GROUP_INFO_JOIN: Fai parte del gruppo di {0}!
 GROUP_INFO_LEFT: Hai abbandonato il gruppo.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Appartieni già a questa fazione!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi utilizzare le stesse ali!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi utilizzare il tuo veicolo a causa di un effetto negativo!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
+LOD_DIALOG_ASK_REVIVE: '#LOD_DIALOG_ASK_REVIVE'
+LOD_SHOUTMESSAGE_HORN_DESPAWN: '#LOD_SHOUTMESSAGE_HORN_DESPAWN'
+LOD_SHOUTMESSAGE_HORN_SPAWN: '#LOD_SHOUTMESSAGE_HORN_SPAWN'
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: '#LOD_SHOUTMESSAGE_LEVEL_TOO_LOW'
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: '#LOD_SHOUTMESSAGE_LOD_IS_CLOSED'
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: '#LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE'
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: '#LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI disattivata
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI attivata
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Messaggi Privati disattivati
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Messaggi Privati attivati
+ORNAMENT_UNLOCKED: '#ORNAMENT_UNLOCKED'
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Hai ricevuto un nuovo compagno: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Il tuo compagno è pieno!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: La tempo di ricarica per lo Specialista del Compagno è terminato.

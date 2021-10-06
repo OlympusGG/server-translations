@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} te ha enviado una solicitud de grupo.'
 GROUP_INFO_ADMIN: ¡Eres el líder del grupo!
 GROUP_INFO_ALREADY_IN_GROUP: ¡Ya estás en un grupo!
 GROUP_INFO_BLOCKED: El jugador bloquea solicitudes de grupo.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: El grupo está lleno.
 GROUP_INFO_JOIN: ¡Has entrado al grupo del jugador {0}!
 GROUP_INFO_LEFT: Has salido del grupo.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: ¡No te puedes cambiar a la facción que ya tien
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: ¡No te puedes poner las mismas alas!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: ¡No te puedes subir a una montura porque tienes un efecto maligno!
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Este objeto ha sido deshabilitado temporalmente.
+LOD_DIALOG_ASK_REVIVE: '#LOD_DIALOG_ASK_REVIVE'
+LOD_SHOUTMESSAGE_HORN_DESPAWN: '#LOD_SHOUTMESSAGE_HORN_DESPAWN'
+LOD_SHOUTMESSAGE_HORN_SPAWN: '#LOD_SHOUTMESSAGE_HORN_SPAWN'
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: '#LOD_SHOUTMESSAGE_LEVEL_TOO_LOW'
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: '#LOD_SHOUTMESSAGE_LOD_IS_CLOSED'
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: '#LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE'
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: '#LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: IU desactivada
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: IU activada
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Susurros desactivados
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Susurros activados
+ORNAMENT_UNLOCKED: '#ORNAMENT_UNLOCKED'
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: '¡Tienes un nuevo compañero: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: ¡Tu compañero está lleno!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: El enfriamiento de la Tarjeta de Especialista de tu compañero ha finalizado.

@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakımda.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
-ACHIEVEMENT_COMPLETED: 'Achievement completed'
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Sahne 4 çevrimdışı!
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -205,6 +205,7 @@ GROUP_DIALOG_INVITED_YOU: '{0} ile grup kurmak istiyor musun?'
 GROUP_INFO_ADMIN: Grubun lideri sensin!
 GROUP_INFO_ALREADY_IN_GROUP: Zaten bir gruptasın.
 GROUP_INFO_BLOCKED: Bu oyuncu grup davetlerini engelliyor.
+GROUP_INFO_DISABLED: Groups are disabled on this map
 GROUP_INFO_FULL: Grup dolu.
 GROUP_INFO_JOIN: "{0}'in grubuna katıldın!"
 GROUP_INFO_LEFT: Gruptan ayrıldın.
@@ -363,6 +364,13 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu öğe geçici olarak devre dışı bırakıldı.
+LOD_DIALOG_ASK_REVIVE: '#LOD_DIALOG_ASK_REVIVE'
+LOD_SHOUTMESSAGE_HORN_DESPAWN: '#LOD_SHOUTMESSAGE_HORN_DESPAWN'
+LOD_SHOUTMESSAGE_HORN_SPAWN: '#LOD_SHOUTMESSAGE_HORN_SPAWN'
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: '#LOD_SHOUTMESSAGE_LEVEL_TOO_LOW'
+LOD_SHOUTMESSAGE_LOD_IS_CLOSED: '#LOD_SHOUTMESSAGE_LOD_IS_CLOSED'
+LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: '#LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE'
+LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: '#LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
@@ -458,6 +466,7 @@ OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI devre dışı
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI aktif
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Fısıltıları engelliyorsun.
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Fısıltıları kabul ediyorsun.
+ORNAMENT_UNLOCKED: '#ORNAMENT_UNLOCKED'
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Yeni bir partnerin oldu: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Partnerin her şeyi yedi.
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partnerin şimdi Uzmanlık Kartını kuşanabilir.
