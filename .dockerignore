@@ -16,8 +16,7 @@ obj/*
 .vs/*
 .git/*
 docs\
-dist/
-dist\*
+dist/*
 **/dist/*
 **/bin/*
 **/obj/*
