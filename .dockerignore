@@ -15,7 +15,7 @@ bin/*
 obj/*
 .vs/*
 .git/*
-docs\
+docs/
 dist/*
 **/dist/*
 **/bin/*
