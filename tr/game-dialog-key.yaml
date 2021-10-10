@@ -292,7 +292,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Cinsiyetin değiştirildi.
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Sunucu {0} saniye içerisinde kapatılacak.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Uzmanlık Kartı geliştirilmek için en az {0} seviye olmalı.
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puanlar dağıtıldı.
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Seviyen çok düşük!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Hedef genel haritada değil.
 INSTANT_COMBAT_NAME: Ani Savaş
@@ -522,11 +522,12 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Evcil hayvanın üç dakika sonra yeniden canlana
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Evcil hayvanın koruyucu melekler tarafından yeniden canlandırıldı.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Merhamet Sistemi] {0} => [{1}/{2}], ödül şansı: %{3}'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Merhamet Sistemi] Ekstra ödül olarak {0} kazandın!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
-POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
-POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
-POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Group member {0} is under cooldown to create a new Pocket Dimension.
+POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, you need a group
+POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
+POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
 PORTAL_CHATMESSAGE_BLOCKED: Kilitli!
 PORTAL_CHATMESSAGE_TOO_EARLY: Kısa süre içerisinde ilerleyebilirsin.
 PSP_AEGIR: Kızgın Aegir
