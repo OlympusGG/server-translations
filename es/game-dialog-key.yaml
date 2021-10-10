@@ -292,7 +292,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: ¡Has cambiado tu género!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: El servidor cerrará en {0} seg.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: ¡La especialista tiene que ser al menos nivel {0} para poderla mejorar!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puntos añadidos.
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: ¡Tu nivel es demasiado bajo!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: ¡El jugador no está en un mapa general!
 INSTANT_COMBAT_NAME: Combate Instantáneo
@@ -522,11 +522,12 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Tu NosMate será revivido en 3 minutos.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Tu NosMate ha sido revivido por un Ángel Guardián.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], probabilidad para que te toque el premio: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] ¡Has adquirido {0} como recompensa extra!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
-POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
-POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
-POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Group member {0} is under cooldown to create a new Pocket Dimension.
+POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, you need a group
+POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
+POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
 PORTAL_CHATMESSAGE_BLOCKED: Este portal está bloqueado. no puedo usarlo.
 PORTAL_CHATMESSAGE_TOO_EARLY: Serás capaz de moverte en breves.
 PSP_AEGIR: Aegir

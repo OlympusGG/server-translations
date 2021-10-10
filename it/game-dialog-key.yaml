@@ -292,7 +292,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Il tuo sesso è stato cambiato!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Il Server verrà disconnesso in {0} secondi.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Lo Specialista deve aver raggiunto il livello {0} per essere migliorato!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punti impostati.
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Il tuo livello è troppo basso!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Il giocatore non è in una mappa generale!
 INSTANT_COMBAT_NAME: La Guerra Istantanea
@@ -522,11 +522,12 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: Il NosMate tornerà tra 3 minuti.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate resuscitato grazie all'Angelo Custode per NosMate.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Sistema anti-sfortuna] {0} => [{1}/{2}], Probabilità di drop: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Sistema anti-sfortuna] Hai ricevuto {0} come ricompensa extra!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
-POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
-POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
-POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Group member {0} is under cooldown to create a new Pocket Dimension.
+POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, you need a group
+POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
+POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
 PORTAL_CHATMESSAGE_BLOCKED: Questo portale è chiuso, non puoi utilizzarlo
 PORTAL_CHATMESSAGE_TOO_EARLY: Potrai muoverti a breve.
 PSP_AEGIR: Aegir il Furioso

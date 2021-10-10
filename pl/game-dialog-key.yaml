@@ -292,7 +292,7 @@ INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Płeć została zmieniona!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Serwer zostanie wyłączony za {0} sek.
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Do ulepszenia Karty Specjalisty potrzebna jest {0} profesja.
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Pomyślnie przydzielono punkty
-INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: '#INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL'
+INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Twój poziom jest za niski!
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Gracz nie znajduje się na ogólnej mapie!
 INSTANT_COMBAT_NAME: Błyskawiczna Bitwa
@@ -522,11 +522,12 @@ PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[System Pity] {0} => [{1}/{2}], szansa na zdobycie nagrody: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[System Pity] Otrzymano {0} jaką dodatkową nagrodę!'
-POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: '#POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP'
-POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: '#POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN'
-POCKET_DIMENSION_MAP_MISCONFIGURED: '#POCKET_DIMENSION_MAP_MISCONFIGURED'
-POCKET_DIMENSION_MAP_NOT_AVAILABLE: '#POCKET_DIMENSION_MAP_NOT_AVAILABLE'
-POCKET_DIMENSION_UNDER_COOLDOWN: '#POCKET_DIMENSION_UNDER_COOLDOWN'
+POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
+POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Group member {0} is under cooldown to create a new Pocket Dimension.
+POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, you need a group
+POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
+POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
+POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
