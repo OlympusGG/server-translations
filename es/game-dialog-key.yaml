@@ -571,6 +571,7 @@ PSP_YUNA: Aprendiz de maga Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} recogió: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: ¡Este soldado Kenko es demasiado fuerte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una misión nueva de un NPC.
+QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar la misión principal una vez comenzada. ¿Quieres comenzar?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: ¿Quieres teletransportarte?

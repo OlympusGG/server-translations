@@ -571,6 +571,7 @@ PSP_YUNA: Studentka magie Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} nasbíráno: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Tento voják Kenko je příliš silný!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Novou misi můžeš dostat u NPC.
+QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?

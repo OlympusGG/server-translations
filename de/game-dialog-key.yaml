@@ -571,6 +571,7 @@ PSP_YUNA: Zauberlehrling Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} gesammelt: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenkosoldat ist zu stark!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC annehmen.
+QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst eine angenommene Hauptquest nicht aufgegeben. Möchtest du trotzdem fortfahren?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich teleportieren?
