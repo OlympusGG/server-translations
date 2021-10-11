@@ -571,6 +571,7 @@ PSP_YUNA: Yuna l'Ensorceleuse
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} Collecté: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ce soldat Kenko est trop fort !
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Tu peux recevoir une nouvelle quête d'un PNJ.
+QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Chasse {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Tu ne pourras pas abandonner la quête une fois commencée. Continuer ?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Veux-tu te téléporter?
