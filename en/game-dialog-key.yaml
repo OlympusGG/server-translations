@@ -355,7 +355,7 @@ ITEM_SHOUTMESSAGE_CRAFTED_OBJECT: You have crafted {1}x {0}.
 ITEM_SHOUTMESSAGE_FACTION_CANT_IN_FAMILY: You can't use individual faction egg when you're in a family.
 ITEM_SHOUTMESSAGE_FAIRY_WRONG_ELEMENT: The fairy element is different than the SP element!
 ITEM_SHOUTMESSAGE_IS_LIMITED: You can't do that because NosMate is limited.
-ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oh nyo, it is a Mwimwic fakey wakey powtion! >w<
+ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Oops!! That's a fake potion from a Mimic.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: This item cannot be dropped.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: You cannot drop that item here.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: You can do this only in Miniland.
