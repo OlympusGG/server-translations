@@ -135,9 +135,9 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Grubundan biri zaten bir aileye sahi
 FAMILY_INFO_GROUP_NOT_FULL: Aile kurmak için üç kişilik bir gruba ihtiyacın var!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Aileye davet etme yetkin yok.
 FAMILY_INFO_INVITATION_REFUSED: Aile daveti reddedildi.
-FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: '#FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN'
+FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: This person cannot join a family yet.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Daha fazla idareci olamaz.
-FAMILY_INFO_KICK_SUCCESSFULL: '#FAMILY_INFO_KICK_SUCCESSFULL'
+FAMILY_INFO_KICK_SUCCESSFULL: User kicked.
 FAMILY_INFO_LEAVE: Aileyi terk ettin.
 FAMILY_INFO_NAME_ALREADY_USED: Bu aile adı zaten kullanılıyor!
 FAMILY_INFO_NO_FAMILY: Bir ailen yok.
@@ -146,7 +146,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: Aile deposu bulunamadı.
 FAMILY_INFO_NOT_FAMILY_HEAD: Aile başkanı değilsin!
 FAMILY_INFO_NOT_IN_FAMILY: Bir ailede değilsin!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Aile hizmeti şu anda bakımda.
-FAMILY_INFO_SUCCESSFULLY_JOINED: '#FAMILY_INFO_SUCCESSFULLY_JOINED'
+FAMILY_INFO_SUCCESSFULLY_JOINED: You have joined the family.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Yalnızca temsilciler aile başkanı olarak atanabilir.
 FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: “Günün Sözü” yayınlandı. (Saat 5’ten itibaren tekrar mümkün)
@@ -167,7 +167,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Aile başkanının cinsiyeti değiştirildi
 FAMILY_SHOUTMESSAGE_LEVEL_UP: 'Aile seviye atladı: {0}!'
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} aileye katıldı!'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '#FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY'
+FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: '{0} altın karşılığında aile arenasına girmek istiyor musun?'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
@@ -423,8 +423,8 @@ MUTE_MESSAGE_FEMALE: Çok yaramaz bir kız olduğum için cezalandırıldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
-MYSTERY_BOX_NO_REWARD: '#MYSTERY_BOX_NO_REWARD'
-MYSTERY_BOX_SUPER_REWARD: '#MYSTERY_BOX_SUPER_REWARD'
+MYSTERY_BOX_NO_REWARD: You did not get any rewards.
+MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -615,7 +615,7 @@ RAID_INFO_NO_EXIST: Akın bulunamadı.
 RAID_INFO_NO_LIVES_LEFT: Tüm canlarını kullandın.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
-RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: '#RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN'
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten bir akın takımına üyesin.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Çoktan kullanılmış.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Akın takımı kurmak için gruptan çıkmalısın.
@@ -623,7 +623,7 @@ RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Grup üyelerini akın takımına davet edem
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Arenadayken akın takımına katılamazsın.
 RAID_SHOUTMESSAGE_COMPLETED: '{0} ve takımı {1} akınını başarıyla tamamladı!'
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: '#RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE'
+RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: Gruptayken akın takımına katılamazsın.
 RAID_SHOUTMESSAGE_KICKED: Akın takımından kovuldun!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
