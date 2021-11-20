@@ -1,7 +1,7 @@
 ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-ACHIEVEMENT_COMPLETED: Achievement completed.
+ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -135,7 +135,9 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Someone in the group is a member of 
 FAMILY_INFO_GROUP_NOT_FULL: You can't create a family without a full group!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: The player blocks family invites.
 FAMILY_INFO_INVITATION_REFUSED: The player refused family invitation.
+FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: This person cannot join a family yet.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Assistants limit reached.
+FAMILY_INFO_KICK_SUCCESSFULL: User kicked.
 FAMILY_INFO_LEAVE: You left the family.
 FAMILY_INFO_NAME_ALREADY_USED: This family name is already in use!
 FAMILY_INFO_NO_FAMILY: You don't have a family.
@@ -144,6 +146,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: No family warehouse found.
 FAMILY_INFO_NOT_FAMILY_HEAD: You are not the family head!
 FAMILY_INFO_NOT_IN_FAMILY: You are not in a family!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
+FAMILY_INFO_SUCCESSFULLY_JOINED: You have joined the family.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: This player needs to be a deputy!
 FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Daily sentence has already been written today.
@@ -164,6 +167,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: The family head have changed their gender!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: The family has reached level {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
@@ -419,6 +423,8 @@ MUTE_MESSAGE_FEMALE: I was a very naughty girl so I got punished!
 MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
+MYSTERY_BOX_NO_REWARD: You did not get any rewards.
+MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} notes in your inbox.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -571,7 +577,6 @@ PSP_YUNA: Magic Student Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} collected: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: This Kenko soldier is too strong!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: You can receive a new quest from NPC.
-QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] hunting {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: You cannot abandon the main quest once started. Start anyway?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Do you want to teleport?
@@ -610,12 +615,15 @@ RAID_INFO_NO_EXIST: Raid does not exist!
 RAID_INFO_NO_LIVES_LEFT: You used up all your lives.
 RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in a group.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
 RAID_SHOUTMESSAGE_COMPLETED: Team of player {0} has completed {1} raid!
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
+RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
 RAID_SHOUTMESSAGE_KICKED: You were kicked from the raid team!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} was kicked from the raid team'

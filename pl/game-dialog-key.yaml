@@ -135,7 +135,9 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jeden z członków grupy należy ju�
 FAMILY_INFO_GROUP_NOT_FULL: Aby założyć rodzinę, musisz posiadać pełną grupę!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Gracz blokuje zaproszenia do rodziny.
 FAMILY_INFO_INVITATION_REFUSED: Gracz odrzucił zaproszenie do rodziny
+FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: This person cannot join a family yet.
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Nie możesz mieć więcej zarządców.
+FAMILY_INFO_KICK_SUCCESSFULL: User kicked.
 FAMILY_INFO_LEAVE: Opuszczono rodzinę.
 FAMILY_INFO_NAME_ALREADY_USED: Nazwa rodziny jest już zajęta!
 FAMILY_INFO_NO_FAMILY: Nie jesteś w rodzinie.
@@ -144,6 +146,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: Brak magazynu rodzinnego.
 FAMILY_INFO_NOT_FAMILY_HEAD: Nie jesteś szefem rodziny!
 FAMILY_INFO_NOT_IN_FAMILY: Nie jesteś w rodzinie!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: System rodziny aktualnie jest w trybie przerwy technicznej.
+FAMILY_INFO_SUCCESSFULLY_JOINED: You have joined the family.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ten gracz musi być zastępcą!
 FAMILY_INFO_TODAY_LOW_LEVEL: Musisz posiadać przynajmniej 30 poziom aby użyć sentencji dnia
 FAMILY_INFO_USED_DAILY_MESSAGE: Już użyto sentencji dnia.
@@ -164,6 +167,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Płeć głowy rodziny została zmieniona!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Osiągnięto {0} poziom rodziny!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Gracz {0} dołączył do rodziny.
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę rodziny? Koszt wynosi {0} szt. złota.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} zalogował się.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} wylogował się.'
@@ -419,6 +423,8 @@ MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ten gracz jest wyciszony.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Jesteś wyciszony.
+MYSTERY_BOX_NO_REWARD: You did not get any rewards.
+MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -571,7 +577,6 @@ PSP_YUNA: Uczeń Czarnoksiężnika Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: 'Zebrano {0}: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Ten żołnież Kenko jest zbyt silny!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Możesz odebrać nową misję u NPC.
-QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] polowanie {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nie możesz porzucić głównej misji po rozpoczęciu. Czy chcesz rozpocząć misję?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Czy chcesz zostać przeteleportowany?
@@ -610,12 +615,15 @@ RAID_INFO_NO_EXIST: Rajd nie istnieje!
 RAID_INFO_NO_LIVES_LEFT: Wykorzystano wszystkie życia.
 RAID_INFO_PLAYER_DEATH: Nie żyjesz! Zostaniesz wskrzeszony za 20 sekund.
 RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nie możesz utworzyć rajdu gdy znajdujesz się w grupie!
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nie możesz zapraszać członków grupy do rajdu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nie możesz dołączyć do rajdu będąc na arenie!
 RAID_SHOUTMESSAGE_COMPLETED: Drużyna gracza {0} ukończyła rajd {1}!
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
+RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: Nie możesz dołączyć do rajdu będąc w grupie.
 RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
