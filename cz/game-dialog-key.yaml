@@ -135,7 +135,9 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Někdo ve tvé skupině již je čle
 FAMILY_INFO_GROUP_NOT_FULL: Není možné vytvořit rodiny aniž by skupina byla plná!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Nemáš oprávnění pozvat do rodiny hráče!
 FAMILY_INFO_INVITATION_REFUSED: Hráč odmítl pozvání do rodiny.
+FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: '#FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN'
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Dosažen maximální počet správců.
+FAMILY_INFO_KICK_SUCCESSFULL: '#FAMILY_INFO_KICK_SUCCESSFULL'
 FAMILY_INFO_LEAVE: Opustil jsi rodinu.
 FAMILY_INFO_NAME_ALREADY_USED: Jméno této rodiny je již používáno!
 FAMILY_INFO_NO_FAMILY: Nemáš žádnou rodinu.
@@ -144,6 +146,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: Nebyl nalezen rodinný sklad.
 FAMILY_INFO_NOT_FAMILY_HEAD: Nejsi hlava rodiny!
 FAMILY_INFO_NOT_IN_FAMILY: Nejsi v rodině!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Rodinný servis je v současné době v údržbě.
+FAMILY_INFO_SUCCESSFULLY_JOINED: '#FAMILY_INFO_SUCCESSFULLY_JOINED'
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Tento hráč musí být zástupce!
 FAMILY_INFO_TODAY_LOW_LEVEL: You must be at least level 30 to use the daily sentence
 FAMILY_INFO_USED_DAILY_MESSAGE: Denní zpráva již vyčerpána.
@@ -164,6 +167,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Hlava rodiny změnila své pohlaví!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla levelu {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '#FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY'
 FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stát {0} zlata.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se připojil do hry.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
@@ -419,6 +423,8 @@ MUTE_MESSAGE_FEMALE: Byla jsem nezbedná dívka, a tak jsem byla potrestána!
 MUTE_MESSAGE_MALE: Byla jsem velmi zlobivý chlapec, a tak jsem byl potrestán!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
+MYSTERY_BOX_NO_REWARD: '#MYSTERY_BOX_NO_REWARD'
+MYSTERY_BOX_SUPER_REWARD: '#MYSTERY_BOX_SUPER_REWARD'
 NOTE_CHATMESSAGE_NEW_NOTE: Dorazila nová zpráva!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Máš {0} zpráv v doručené poště.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -571,7 +577,6 @@ PSP_YUNA: Studentka magie Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} nasbíráno: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Tento voják Kenko je příliš silný!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Novou misi můžeš dostat u NPC.
-QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
@@ -610,12 +615,15 @@ RAID_INFO_NO_EXIST: Raid neexistuje!
 RAID_INFO_NO_LIVES_LEFT: Již jsi použil veškeré své životy.
 RAID_INFO_PLAYER_DEATH: Jsi mrtev, budeš oživen za 20 sekund..
 RAID_MESSAGE_DISOLVED: Raid tým byl rozpuštěn.
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: '#RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN'
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Již jsi v jiném týmu na raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nemůžeš vytvořit raid, když jsi ve skupině.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do raidu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit do raidu, když jsi v aréně!
 RAID_SHOUTMESSAGE_COMPLETED: Tým hráče {0} dokončil raid {1}!
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
+RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: '#RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE'
 RAID_SHOUTMESSAGE_IN_GROUP: Nemůžeš se připojit do raidu, když jsi ve skupině.
 RAID_SHOUTMESSAGE_KICKED: Byl jsi vyhozen
 RAID_SHOUTMESSAGE_KICKED_OTHER: Hráč byl vyhozen

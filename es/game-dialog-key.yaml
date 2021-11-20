@@ -135,7 +135,9 @@ FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: ¡Alguien del grupo ya pertenece a u
 FAMILY_INFO_GROUP_NOT_FULL: ¡No puedes crear una familia sin un grupo completo!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: ¡No tienes permisos para invitar a jugadores!
 FAMILY_INFO_INVITATION_REFUSED: El jugador rechazó la invitación.
+FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: '#FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN'
 FAMILY_INFO_KEEPER_LIMIT_REACHED: Límite de administradores alcanzado.
+FAMILY_INFO_KICK_SUCCESSFULL: '#FAMILY_INFO_KICK_SUCCESSFULL'
 FAMILY_INFO_LEAVE: Has abandonado la familia.
 FAMILY_INFO_NAME_ALREADY_USED: ¡Este nombre ya está en uso!
 FAMILY_INFO_NO_FAMILY: No tienes familia.
@@ -144,6 +146,7 @@ FAMILY_INFO_NO_FAMILY_WAREHOUSE: No hay almacen familiar.
 FAMILY_INFO_NOT_FAMILY_HEAD: ¡No eres el cabecilla!
 FAMILY_INFO_NOT_IN_FAMILY: ¡No estás en una familia!
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: El servicio familiar se encuentra actualmente en mantenimiento.
+FAMILY_INFO_SUCCESSFULLY_JOINED: '#FAMILY_INFO_SUCCESSFULLY_JOINED'
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: ¡Este jugador tiene que ser un representante!
 FAMILY_INFO_TODAY_LOW_LEVEL: Tienes que ser nivel 30 mínimo para usar tu frase diaria.
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has publicado tu mensaje diario.
@@ -164,6 +167,7 @@ FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: ¡El cabecilla ha cambiado su género!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: ¡La familia ha alcanzado el nivel {0}!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
+FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '#FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY'
 FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} de oro.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} ha iniciado sesión.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se ha desconectado.'
@@ -419,6 +423,8 @@ MUTE_MESSAGE_FEMALE: ¡He sido una chica muy traviesa, así que me han castigado
 MUTE_MESSAGE_MALE: ¡He sido un chico muy travieso, así que me han castigado!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Este jugador está muteado.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Estás muteado.
+MYSTERY_BOX_NO_REWARD: '#MYSTERY_BOX_NO_REWARD'
+MYSTERY_BOX_SUPER_REWARD: '#MYSTERY_BOX_SUPER_REWARD'
 NOTE_CHATMESSAGE_NEW_NOTE: ¡Te ha llegado una nota!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tienes {0} notas en la bandeja de entrada.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -571,7 +577,6 @@ PSP_YUNA: Aprendiz de maga Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} recogió: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: ¡Este soldado Kenko es demasiado fuerte!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una misión nueva de un NPC.
-QUEST_CHATMESSAGE_PICK_QUEST_AT_NPC: You can receive the quest at level [{0}] from [{1}].
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar la misión principal una vez comenzada. ¿Quieres comenzar?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: ¿Quieres teletransportarte?
@@ -610,12 +615,15 @@ RAID_INFO_NO_EXIST: ¡El raid no existe!
 RAID_INFO_NO_LIVES_LEFT: Habéis usado todas las vidas.
 RAID_INFO_PLAYER_DEATH: ¡Has muerto! Revivirás en 20 segundos.
 RAID_MESSAGE_DISOLVED: El equipo del raid se ha disuelto.
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: '#RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN'
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Este objeto ya ha sido activado.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un equipo de raid mientras estás en grupo.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros de un grupo a un equipo de raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: ¡No puedes unirte a un equipo de raid en arena!
 RAID_SHOUTMESSAGE_COMPLETED: El equipo de {0} ha completado {1}!
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
+RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: '#RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE'
 RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de raid mientras estás en grupo.
 RAID_SHOUTMESSAGE_KICKED: Te han echado.
 RAID_SHOUTMESSAGE_KICKED_OTHER: El jugador fue echado.
