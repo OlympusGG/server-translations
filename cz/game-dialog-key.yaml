@@ -162,6 +162,7 @@ FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Rodina už je této strany!
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Změna rodinné strany je momentálně v cooldownu.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Chceš se znovu připojit k rodině? Musíš nejdříve počkat 24 hodin.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Hlava rodiny změněna.
+FAMILY_SHOUTMESSAGE_DISBANDED: Family has been disbanded
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Rodina '{0}' byla založena!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Hlava rodiny změnila své pohlaví!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Rodina dosáhla levelu {0}!
@@ -318,6 +319,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Dostali jste požehnání o
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Ztratil jsi svou ochrannou sílu.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby bylo možné změnit křídla Specialisty, musí být karta alespoň na levelu 1.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Nemůžeš použít reproduktor, prodleva je 30 sekund.
+INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Bylo dosaženo limitu příšer z plavidel
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Obdrženo: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Obdrženo {0}x {1}

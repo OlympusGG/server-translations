@@ -162,6 +162,7 @@ FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La Famiglia fa già parte di questa fa
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Non puoi ancora cambiare la fazione della Famiglia.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Devi aspettare 24 ore prima di poter entrare nella Famiglia.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Il capo Famiglia è stato sostituito.
+FAMILY_SHOUTMESSAGE_DISBANDED: Family has been disbanded
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La Famiglia '{0}' è stata fondata!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Il capo Famiglia ha effettuato il cambio di sesso!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La Famiglia ha raggiunto il livello {0}!
@@ -318,6 +319,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Sei stato benedetto dal pot
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Hai perso il potere della protezione.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Per modificare le ali dello Specialista, deve avere un livello di miglioramento maggiore di 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Il tuo Altoparlante è in ricarica, puoi utilizzarne uno ogni 30 secondi.
+INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Limite nella mappa di Mostri del Vaso Sigillato raggiunto
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquisito {0}x {1}

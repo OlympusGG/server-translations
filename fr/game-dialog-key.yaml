@@ -162,6 +162,7 @@ FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette 
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Le changement de faction de la famille est en rechargement.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre 24 heures avant de rejoindre la famille.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiéeh pour rejoindre une famille.
+FAMILY_SHOUTMESSAGE_DISBANDED: Family has been disbanded
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0} !
@@ -318,6 +319,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Tu as été béni par le po
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Tu as perdu ton pouvoir de protection.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pour changer les ailes de ta carte de spécialiste, tu dois avoir une amélioration supérieur à +0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: L'utilisation d'orateur est en rechargement, un orateur toutes les 30 seondes.
+INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
