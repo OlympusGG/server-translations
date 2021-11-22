@@ -162,6 +162,7 @@ FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: ¡La familia ya pertenece a esa facci�
 FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: El cambio de facción familiar está actualmente en enfriamiento.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tienes que esperar 24 horas para poder entrar a una familia.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: El cabecilla ha cambiado.
+FAMILY_SHOUTMESSAGE_DISBANDED: Family has been disbanded
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: ¡La familia '{0}' ha sido fundada!
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: ¡El cabecilla ha cambiado su género!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: ¡La familia ha alcanzado el nivel {0}!
@@ -318,6 +319,7 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: ¡Has sido bendecido por el
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Has perdido tu poder de protección.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Para poder cambiar las alas de tu Tarjeta de Especialista, tiene que tener una mejora superior a 0.
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Tu altavoz está en enfriamiento, usa uno cada 30 segundos.
+INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: El límite de monstruos de los vasos sellados en este mapa ha sido alcanzado.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Has adquirido: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Has adquirido {0}x {1}
