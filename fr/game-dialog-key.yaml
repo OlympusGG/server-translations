@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèches chargées !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: Tu as admiré {0}.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: "{0} minutes restantes avant de pouvoir admirer quelqu'un."
 COMMEND_CHATMESSAGE_NOT_MINLVL: Tu ne peux admirer quelqu'un qu'à partir du niveau 30.
 COMMEND_CHATMESSAGE_RECEIVED: "{0} t'a admiré."
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: Tu as perdu -{0} de dignité.
 DIGNITY_CHATMESSAGE_RESTORE: Tu as récupéré +{0} de dignité.
 DOLL_MESSAGE_MATE_ATTACK_FAIL: L'amélioration d'attaque de ton NosMate a échoué.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir te marier avec {0}?
 WEDDING_INFO_DIVORCED: Le divorce a été prononcé.
 WEDDING_SHOUTMESSAGE_BROADCAST: Par les liens sacrés du mariage, {0} et {1}, je vous déclare mariés !
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de {1}.'
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.

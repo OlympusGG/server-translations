@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Náboje nabity!
 AMMO_LOADED_ARCHER: Šíp připraven!
 AMMO_LOADED_SWORDSMAN: Šíp připraven v kuši!
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl pochválen.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pochválit, musíš počkat {0} minut.
 COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyšším jak 30.
 COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Vylepšení úrovně útoku tvého Mazlíčka se nezdařilo.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Opravdu si chceš vzít {0}?
 WEDDING_INFO_DIVORCED: Svatba byla přerušena.
 WEDDING_SHOUTMESSAGE_BROADCAST: Svatba! {0} a {1} se právě vzali!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} právě odmítl nabídku ke sňatku s {1}.'
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.

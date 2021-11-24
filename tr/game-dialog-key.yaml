@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
 AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: "{0}'i övdün."
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Bir karakteri övmek için {0} dakika beklemelisin!
 COMMEND_CHATMESSAGE_NOT_MINLVL: Bir karakteri sadece Lv.30''a ulaştıysanız övebilirsin.
 COMMEND_CHATMESSAGE_RECEIVED: '{0} tarafından övüldün.'
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Şerefin düştü: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Şerefin yükseldi: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Saldırı seviyesinin gelişimi başarısız.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
 WEDDING_INFO_DIVORCED: Boşandınız. Geçmiş olsun.
 WEDDING_SHOUTMESSAGE_BROADCAST: '{0} ve {1} evlendi! Darısı başınıza!'
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenmek teklifini reddetti! Aga be!"
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
