@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono żadnej receptury do tego typu wymian
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Wokół ciebie zamyka się żar płonącego miecza.
 ACT5_MESSAGE_RETURN_DISABLED: Nie możesz ponownie się udać do miejsca powrotu.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Amunicja załadowana!
 AMMO_LOADED_ARCHER: Strzały załadowane!
 AMMO_LOADED_SWORDSMAN: Belty załadowane!
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: Pochwalono gracza {0}.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Musisz odczekać jeszcze {0} min aby pochwalić kogoś.
 COMMEND_CHATMESSAGE_NOT_MINLVL: Musisz mieć co najmniej 30 poziom, aby kogoś pochwalić.
 COMMEND_CHATMESSAGE_RECEIVED: Gracz {0} cię pochwalił.
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Godność zmniejszono: -{0}'
 DIGNITY_CHATMESSAGE_RESTORE: 'Godność zwiększona: +{0}'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Ulepszenie poziomu ataku twojego NosKumpla nie powiodło się.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
 WEDDING_INFO_DIVORCED: Małzeństwo zostało rozwiązane.
 WEDDING_SHOUTMESSAGE_BROADCAST: Gracz {0} i {1} pobrali się.
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odrzucił zaręczyny gracza {1}.'
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.

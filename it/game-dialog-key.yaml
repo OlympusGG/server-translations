@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Amministratore
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Munizioni caricate!
 AMMO_LOADED_ARCHER: Frecce caricate!
 AMMO_LOADED_SWORDSMAN: Dardi caricati!
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: Il giocatore {0} è stato lodato.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Devi attendere {0} prima di poter lodare qualcuno.
 COMMEND_CHATMESSAGE_NOT_MINLVL: Puoi lodare qualcuno dopo aver raggiunto il livello 30.
 COMMEND_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha lodato.
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignità persa: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignità recuperata: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: L'aumento del livello d'attacco del tuo NosMate è fallito.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Sei sicuro/a di voler accettare {0}?
 WEDDING_INFO_DIVORCED: Il matrimonio è stato terminato.
 WEDDING_SHOUTMESSAGE_BROADCAST: I giocatori {0} e {1} si sono sposati!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rifiutato la richiesta di matrimonio {1}.'
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.

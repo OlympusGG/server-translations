@@ -31,6 +31,7 @@ ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burning Sword.
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrator
+ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
 AMMO_LOADED_ADVENTURER: Ammo loaded!
 AMMO_LOADED_ARCHER: Arrow loaded!
 AMMO_LOADED_SWORDSMAN: Bolts loaded!
@@ -93,6 +94,7 @@ COMMEND_CHATMESSAGE_GIVEN: Player {0} has been commended.
 COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can commend someone.
 COMMEND_CHATMESSAGE_NOT_MINLVL: You can only commend someone if you have reached 30Lv.
 COMMEND_CHATMESSAGE_RECEIVED: Player {0} has commended you.
+DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignity lost: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
 DOLL_MESSAGE_MATE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
@@ -801,3 +803,4 @@ WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?
 WEDDING_INFO_DIVORCED: The marriage was terminated.
 WEDDING_SHOUTMESSAGE_BROADCAST: Players {0} and {1} just got married!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal of {1}.'
+WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
