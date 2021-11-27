@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Partnerin Uzman Kartı dönüşümü için
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner Miniland'e geri döndü.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partnerin üç dakika sonra yeniden canlanacak.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Saldırı
 PERFECTSP_DEFENSE: Savunma
 PERFECTSP_ELEMENT: Element

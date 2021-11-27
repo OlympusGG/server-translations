@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Lo Specialista del compagno è in ricarica 
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il compagno è tornato nella Mini-Land.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Il compagno tornerà tra 3 minuti.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Non c'è abbastanza spazio nello zaino del compagno!
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Attacco
 PERFECTSP_DEFENSE: Difesa
 PERFECTSP_ELEMENT: Elemento
