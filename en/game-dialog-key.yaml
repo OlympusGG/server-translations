@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element

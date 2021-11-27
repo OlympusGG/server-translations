@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Spezialistenkarte Abklingzeit - {0}
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner ist in dein Mini-Land zurückgekehrt.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner wird in 3 Minuten wiederbelebt.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Angriff
 PERFECTSP_DEFENSE: Verteidigung
 PERFECTSP_ELEMENT: Element

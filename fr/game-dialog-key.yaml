@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: "Temps restant avant de pouvoir s'équiper 
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton partenaire a été renvoyé au mini-pays.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Ton partenaire réapparaîtra dans 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Pas assez de place dans l'inventaire du partenaire !
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Attaque
 PERFECTSP_DEFENSE: Défense
 PERFECTSP_ELEMENT: Élement

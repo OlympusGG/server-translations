@@ -499,6 +499,7 @@ PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Karta specialisty partnera má cooldown - {
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner odešel zpět do Mini země.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner bude zpět za 3 minuty.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
+PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTSP_ATTACK: Útok
 PERFECTSP_DEFENSE: Obrana
 PERFECTSP_ELEMENT: Element
