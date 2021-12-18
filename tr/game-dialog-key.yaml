@@ -337,6 +337,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: '{0} etkisi aktifleştirildi!'
 ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Yetersiz Gillion taşı!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You cannot transform a champion equipment into partner equipment.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir işaret tabelası kurdun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) kullanım süresi bitti.
@@ -372,6 +373,7 @@ ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Zaten bu koruyucu güce sahipsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Zaten bu kanatlara sahipsin.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Kötü bir etki yüzünden taşıta binemezsin.
+ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu öğe geçici olarak devre dışı bırakıldı.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
@@ -429,7 +431,7 @@ MUTE_MESSAGE_MALE: Çok yaramaz bir çocuk olduğum için cezalandırıldım!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
+MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the Gods Altar!'
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir mesaj geldi!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Posta kutunda {0} mesaj var!
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -633,6 +635,7 @@ RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this 
 RAID_SHOUTMESSAGE_IN_GROUP: Gruptayken akın takımına katılamazsın.
 RAID_SHOUTMESSAGE_KICKED: Akın takımından kovuldun!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} takımdan kovuldu.'
+RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} takımdan ayrıldı.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Düşmanlar takviye alıyor!
 RAID_SHOUTMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
@@ -641,6 +644,7 @@ RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Akın takımı dolu!
 RAID_SHOUTMESSAGE_REGISTERED: Akın listeye eklendi!
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Hedefler güncellendi.
+RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Akın listeden çekildi.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} takıma katıldı.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.

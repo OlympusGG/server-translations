@@ -337,6 +337,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} został aktywowany!
 ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Efekt Olej z lodowych kwiatów został przedłużony.
 ITEM_CHATMESSAGE_NO_GILLION: Nie posiadasz wystarczającej ilości Kamienia Gillion!
 ITEM_CHATMESSAGE_ON_MOUNT: Będąc na pojeździe możesz używać tylko przekąsek oraz eliksirów.
+ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You cannot transform a champion equipment into partner equipment.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ ostatnio uczestniczyłeś w walce z graczem.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
@@ -372,6 +373,7 @@ ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Twój poziom jest zbyt niski, aby badać rel
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nie możesz przemienić się w tę samą frakcję.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych skrzydeł!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz wejść na pojazd, ponieważ posiadasz negatywny efekt!
+ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
@@ -429,7 +431,7 @@ MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ten gracz jest wyciszony.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Jesteś wyciszony.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
+MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the Gods Altar!'
 NOTE_CHATMESSAGE_NEW_NOTE: Przyszła nowa notka!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Masz {0} notek w skrzynce.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -633,6 +635,7 @@ RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this 
 RAID_SHOUTMESSAGE_IN_GROUP: Nie możesz dołączyć do rajdu będąc w grupie.
 RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
+RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} opuścił drużynę'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Wrogowie otrzymują posiłki!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
@@ -641,6 +644,7 @@ RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna jest pełna
 RAID_SHOUTMESSAGE_REGISTERED: Zarejestrowano rajd!
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Misja została zaktualizowana.
+RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Drużyna rajdu nie jest już zarejestrowana
 RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.

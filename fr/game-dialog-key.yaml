@@ -337,6 +337,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé!
 ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Tu n'as pas suffisament de pierres Gillion !
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You cannot transform a champion equipment into partner equipment.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Tu as déjà installé un poteau indicateur. Temps restant: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durée d'effet ({0}) a expiré.
@@ -372,6 +373,7 @@ ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Tu es déjà dans cette faction !
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
+ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Cet objet a temporairement été désactivé.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
@@ -429,7 +431,7 @@ MUTE_MESSAGE_MALE: J'ai été un vilain garçon donc j'ai été puni !
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Ce joueur est en sourdine.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Vous êtes en sourdine.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
+MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the Gods Altar!'
 NOTE_CHATMESSAGE_NEW_NOTE: Une nouvelle note est arrivée !
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Tu as {0} note(s).
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -633,6 +635,7 @@ RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this 
 RAID_SHOUTMESSAGE_IN_GROUP: Tu ne peux pas rejoindre une équipe de raid en étant dans un groupe.
 RAID_SHOUTMESSAGE_KICKED: Tu as été expulsé de l'équipe.
 RAID_SHOUTMESSAGE_KICKED_OTHER: "{0} a été expulsé de l'équipe."
+RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe."
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Les ennemis reçoivent des renforts!
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe."
@@ -641,6 +644,7 @@ RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe est complète.
 RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été mis en liste.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: L'équipe a complété tous les objectifs !
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Objectifs mis à jour.
+RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Ton raid n'est plus en liste.
 RAID_SHOUTMESSAGE_X_JOINED: "{0} a rejoint l'équipe."
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.

@@ -337,6 +337,7 @@ ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
 ITEM_CHATMESSAGE_ICE_FLOWER_OIL_EXTENDED: Ice Flower Oil effect has been extended.
 ITEM_CHATMESSAGE_NO_GILLION: Nemáš dostatek Gillion Kamenů!
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
+ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You cannot transform a champion equipment into partner equipment.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You cannot use this item because you recently participated in a fight with a player.
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už máš nastavený ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Doba trvání ({0}) vypršela.
@@ -372,6 +373,7 @@ ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit na stejnou stranu!
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla Specialisty!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se proměnit ve vozítko, kvůli negativnímu efektu!
+ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně deaktivován.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
@@ -429,7 +431,7 @@ MUTE_MESSAGE_MALE: Byla jsem velmi zlobivý chlapec, a tak jsem byl potrestán!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: Someone won the big prize at the Gods Altar!
+MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the Gods Altar!'
 NOTE_CHATMESSAGE_NEW_NOTE: Dorazila nová zpráva!
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: Máš {0} zpráv v doručené poště.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself!
@@ -633,6 +635,7 @@ RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this 
 RAID_SHOUTMESSAGE_IN_GROUP: Nemůžeš se připojit do raidu, když jsi ve skupině.
 RAID_SHOUTMESSAGE_KICKED: Byl jsi vyhozen
 RAID_SHOUTMESSAGE_KICKED_OTHER: Hráč byl vyhozen
+RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} opustil tým.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Nepřátelé dostávájí posily!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} je nový vedoucí raidu.'
@@ -641,6 +644,7 @@ RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Tým je plný!
 RAID_SHOUTMESSAGE_REGISTERED: Tvůj raid tým byl registrován
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Všechny cíle splněny!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Cíle aktualizovány.
+RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Tvůj raid tým už není registrován.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} se připojil do týmu'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
