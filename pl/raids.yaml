@@ -28,3 +28,8 @@ ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start short
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin." 
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin." 
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
+ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
