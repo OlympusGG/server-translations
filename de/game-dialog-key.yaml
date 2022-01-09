@@ -471,6 +471,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Dein NosMate wird nach dem Tod in
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Dein NosMate wird nach dem Tod durch Saat der Macht wiederbelebt.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Schnelles Aufstehen deaktiviert
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Schnelles Aufstehen aktiviert
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED'
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Lautsprecher deaktiviert
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Lautsprecher aktiviert
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Handelsanfragen deaktiviert
@@ -639,6 +641,7 @@ RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} hat das Raidteam verlassen.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde erhalten Verstärkung!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Raidleiter.'
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raidmitglied {0} ist gestorben.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Raidteam ist voll.
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid wurde registriert.
@@ -707,6 +710,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Zauber unterbrochen!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Möchtest du deine bereits erlernte Fähigkeitsverbesserung ersetzen?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Du musst warten, bis die Abklingzeiten deiner Fähigkeiten vorüber sind, bevor du eine neue Fähigkeit erlernen kannst.
+SKILL_SHOUTMESSAGE_CANT_USE: You can't use that skill on this map.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fangen fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!

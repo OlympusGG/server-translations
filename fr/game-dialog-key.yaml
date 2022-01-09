@@ -471,6 +471,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Après sa mort, ton familier sera
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Après sa mort, ton familier sera ressuscité pour 5 graines de pouvoirs.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Tu ne te lèves plus rapidement.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Tu te lèves désormais rapidement.
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED'
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Affichage des orateurs désactivé.
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Affichage des orateurs activé.
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Tu refuses désormais les demandes d'échange.
@@ -639,6 +641,7 @@ RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe."
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Les ennemis reçoivent des renforts!
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe."
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: '{0} est mort.'
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe est complète.
 RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été mis en liste.
@@ -707,6 +710,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Sort interrompu !
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Veux-tu remplacer l'amélioration de compétence actuelle par celle-ci?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Tu ne peux pas apprendre cette compétence.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Tu dois attendre la fin de rechargement de tes compétences pour pouvoir en apprendre une nouvelle.
+SKILL_SHOUTMESSAGE_CANT_USE: You can't use that skill on this map.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Capture échouée !
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Tu ne peux pas capturer ce monstre !

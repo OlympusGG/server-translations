@@ -471,6 +471,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj Mazlíček navr
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj Mazlíček oživen pomocí Semínek moci.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Rychlé zvednutí zakázáno
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Rychlé zvednutí povoleno
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED'
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Řečníci ztlumeni
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Řečníci povoleni
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Nabídky k obchodu blokovány
@@ -639,6 +641,7 @@ RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} opustil tým.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Nepřátelé dostávájí posily!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} je nový vedoucí raidu.'
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Člen raidu {0} umřel.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Tým je plný!
 RAID_SHOUTMESSAGE_REGISTERED: Tvůj raid tým byl registrován
@@ -707,6 +710,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Musíš počkat než skončí cooldown u dovednosti, než se začneš učit nové.
+SKILL_SHOUTMESSAGE_CANT_USE: You can't use that skill on this map.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Odchycení selhalo!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Nemůžeš odchytit toto monstrum!

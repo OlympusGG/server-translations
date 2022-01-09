@@ -471,6 +471,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Alla morte il tuo NosMate torner�
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Alla morte il tuo NosMate verrà resuscitato dai Semi della Potenza.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Raccolta rapida disattivato
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Raccolta rapida attivato
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: '#OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED'
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Altoparlanti disattivati
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Altoparlanti attivati
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Richieste Scambio disattivate
@@ -639,6 +641,7 @@ RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: You're too far to remove the curse.
 RAID_SHOUTMESSAGE_LEFT: '{0} ha lasciato il team.'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: I rinforzi nemici stanno arrivando!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} è il nuovo capo del team del raid.'
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Il membro del raid {0} è stato sconfitto.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Il team è pieno
 RAID_SHOUTMESSAGE_REGISTERED: Il tuo raid è stato registrato
@@ -707,6 +710,7 @@ SKILL_CHATMESSAGE_WAS_INTERRUPTED: Incantesimo interrotto!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Vuoi rimpiazzare il corrente miglioramento dell'abilità di questo tipo?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Non puoi apprendere questa abilità.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Devi attendere la fine del caricamente delle tue abilità prima di poterne apprendere altre.
+SKILL_SHOUTMESSAGE_CANT_USE: You can't use that skill on this map.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Your dignity is too low to capture this monster.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Cattura fallita!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Non puoi catturare questo mostro!
