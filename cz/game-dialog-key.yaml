@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Důstojnost ztracena: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Důstojnost obnovena: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Vylepšení úrovně útoku tvého Mazlíčka se nezdařilo.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Úroveň útoku tvého Mazlíčka se zvýšila! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Vylepšení úrovně obrany tvého Mazlíčka selhala.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Úroveň obrany tvého Mazlíčka se zvýšila! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Tato loutka je k úrovni tvého Mazlíčka nedostatečná!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
 FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Po smrti se tvůj Mazlíček navr
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Po smrti bude tvůj Mazlíček oživen pomocí Semínek moci.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Rychlé zvednutí zakázáno
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Rychlé zvednutí povoleno
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Řečníci ztlumeni
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Řečníci povoleni
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Nabídky k obchodu blokovány
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: Tvůj Mazlíček  již je v týmu.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Svého Mazlíčka již zavolat můžeš!
 PET_MESSAGE_KICKED: Tvůj Mazlíček se navrátil do Mini země.
 PET_MESSAGE_SUMMONABLE: Nyní můžeš zavolat svého Mazlíčka kdykoliv.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Úroveň tvého Mazlíčka je vyšší než tvoje úroveň!
 PET_SHOUTMESSAGE_LEVEL_UP: Tvůj Mazlíček {0} právě navýšil svoji úroveň!
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Mazlíček odešel zpět do Mini země.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Mazlíček bude zpět za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Mazlíček oživen díky ochrannému anděli mazlíčka.

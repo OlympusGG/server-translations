@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: '{0} tarafından övüldün.'
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Şerefin düştü: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Şerefin yükseldi: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Saldırı seviyesinin gelişimi başarısız.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Evcil hayvanının saldırı seviyesi yükseldi. +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Savunma seviyesinin gelişimi başarısız.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Evcil hayvanının savunma seviyesi yükseldi. +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Daha fazla kukla çağıramazsın.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Bu kukla evcil hayvanının seviyesine uygun değil.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
 DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
 FAIRYSTONES_DIALOG_INSERT: "{0}'ı {1}'e işlemek istiyor musun?"
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Öldükten sonra evcil hayvanın 
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Öldükten sonra evcil hayvanın Güç Tohumlarıyla yeniden canlanır.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Hızlı kalkma devre dışı
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Hızlı kalkma aktif
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Hoparlörler devre dışı
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Hoparlörler aktif
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Takas isteklerini engelliyorsun.
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: Evcil hayvan zaten seni takip ediyor.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Evcil hayvanını zaten çağırabiliyorsun.
 PET_MESSAGE_KICKED: Evcil hayvanını Miniland'e gönderdin.
 PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Evcil hayvanının seviyesi seninkinden yüksek!
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} seviye atladı!'
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Evcil hayvan Miniland'e döndü.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Evcil hayvanın üç dakika sonra yeniden canlanacak.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Evcil hayvanın koruyucu melekler tarafından yeniden canlandırıldı.

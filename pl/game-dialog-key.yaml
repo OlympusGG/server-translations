@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: Gracz {0} cię pochwalił.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Godność zmniejszono: -{0}'
 DIGNITY_CHATMESSAGE_RESTORE: 'Godność zwiększona: +{0}'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Ulepszenie poziomu ataku twojego NosKumpla nie powiodło się.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Poziom ataku twojego NosKumpla wzrósł! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Ulepszenie poziomu obrony twojego NosKumpla nie powiodło się.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Poziom obrony twojego NosKumpla wzrósł! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Lalka jest nieodpowiednia do poziomu NosKumpla!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 FAIRYSTONES_DIALOG_INSERT: 'Czy chcesz umieścić {0} w twoim przedmiocie: {1}?'
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: NosKumpel nie zostanie ożywiony
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: NosKumpel zostanie ożywiony
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Wyłączono szybkie wstawanie
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Włączono szybkie wstawanie
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Wyłączono głośniki
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Włączono głośniki
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Wyłączono prośby o wymianę
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: NosKumpel aktualnie w drużynie!
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: NosKumpel już może być przywoływany.
 PET_MESSAGE_KICKED: NosKumpel wrócił do Mini-Landu.
 PET_MESSAGE_SUMMONABLE: Możesz teraz przywołać swojego NosKumpla w dowolnym momencie.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: Nie możesz wziąć ze sobą NosKumpla, ponieważ twoja godność jest zbyt niska
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Poziom NosKumpla jest wyższy od Twojego.
 PET_SHOUTMESSAGE_LEVEL_UP: Twój NosKumpel {0} osiągnął następny poziom!
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.

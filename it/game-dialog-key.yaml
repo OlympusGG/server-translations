@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha lodato.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignità persa: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignità recuperata: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: L'aumento del livello d'attacco del tuo NosMate è fallito.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Il livello d'attacco del tuo NosMate è aumentato! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: L'aumento del livello di difesa del tuo NosMate è fallito.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Il livello di difesa del tuo NosMate è aumentato! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Questa bambola non è adeguata !
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop non valida.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} nel tuo {1}?
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Alla morte il tuo NosMate torner�
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Alla morte il tuo NosMate verrà resuscitato dai Semi della Potenza.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Raccolta rapida disattivato
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Raccolta rapida attivato
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Altoparlanti disattivati
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Altoparlanti attivati
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Richieste Scambio disattivate
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: Il tuo NosMate è già nel team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Puoi già evocare il tuo NosMate!
 PET_MESSAGE_KICKED: Il tuo NosMate è stato inviato alla Mini-Land.
 PET_MESSAGE_SUMMONABLE: Puoi evocare il tuo NosMate in qualsiasi momento.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Il livello del tuo NosMate è più alto del tuo!
 PET_SHOUTMESSAGE_LEVEL_UP: Il livello di {0} è aumentato!
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Il NosMate è tornato alla Mini-Land.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Il NosMate tornerà tra 3 minuti.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate resuscitato grazie all'Angelo Custode per NosMate.
