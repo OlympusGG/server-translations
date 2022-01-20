@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: Player {0} has commended you.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: 'Dignity lost: -{0}.'
 DIGNITY_CHATMESSAGE_RESTORE: 'Dignity restored: +{0}.'
-DOLL_MESSAGE_MATE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Your NosMate's attack level has increased! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Your NosMate's defense level has increased! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: This doll is inadequate to NosMate's level!
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
 FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: After death your NosMate will ret
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: After death your NosMate will be revived by Seeds of Power.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Quick get up disabled
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Quick get up enabled
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Speakers disabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Speakers enabled
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Trade requests disabled
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: Your NosMate is already in the team.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: You can already summon your NosMate!
 PET_MESSAGE_KICKED: Your NosMate has returned to the Miniland.
 PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Your NosMate's level is higher than yours!
 PET_SHOUTMESSAGE_LEVEL_UP: Your NosMate {0} has leveled up!
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate went back to Miniland.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate will be back in 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate revived by NosMate Guardian Angel.

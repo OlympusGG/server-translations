@@ -97,13 +97,8 @@ COMMEND_CHATMESSAGE_RECEIVED: "{0} t'a admiré."
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
 DIGNITY_CHATMESSAGE_LOSS: Tu as perdu -{0} de dignité.
 DIGNITY_CHATMESSAGE_RESTORE: Tu as récupéré +{0} de dignité.
-DOLL_MESSAGE_MATE_ATTACK_FAIL: L'amélioration d'attaque de ton NosMate a échoué.
-DOLL_MESSAGE_MATE_ATTACK_UPGRADE: Le niveau d'attaque de ton NosMate a augmenté ! +{0} -> +{1}
-DOLL_MESSAGE_MATE_DEFENSE_FAIL: L'amélioration de défense de ton NosMate a échoué.
-DOLL_MESSAGE_MATE_DEFENSE_UPGRADE: Le niveau de défense de ton NosMate a augmenté ! +{0} -> +{1}
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Tu ne peux pas invoquer davantage de mannequins.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Tu n'es pas dans la zone désignée.
-DOLL_SHOUTMESSAGE_WRONG_DOLL: Ce mannequin ne correspond pas au niveau de ton NosMate.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantitée de butins incorrecte.
 DROP_SHOUTMESSAGE_FULL: Il y a trop d'objets au sol pour pouvoir jeter ton objet.
 FAIRYSTONES_DIALOG_INSERT: Veux-tu insérer {0} dans {1} ?
@@ -471,8 +466,8 @@ OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Après sa mort, ton familier sera
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Après sa mort, ton familier sera ressuscité pour 5 graines de pouvoirs.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Tu ne te lèves plus rapidement.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Tu te lèves désormais rapidement.
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: 'HP/MP labels disabled'
-OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: 'HP/MP labels enabled'
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
+OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Affichage des orateurs désactivé.
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Affichage des orateurs activé.
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Tu refuses désormais les demandes d'échange.
@@ -530,9 +525,15 @@ PET_MESSAGE_ALREADY_IN_TEAM: Ce familier est déjà en ta compagnie.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: Tu peux déjà invoquer ton familier !
 PET_MESSAGE_KICKED: Ton familier a été renvoyé au mini-pays.
 PET_MESSAGE_SUMMONABLE: Tu peux désormais invoquer ton familier.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Le niveau de ton familier est supérieur au tien !
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} a monté de niveau !'
+PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
+PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton familier a été renvoyé au mini-pays.
 PET_SHOUTMESSAGE_WILL_BE_BACK: Ton familier réapparaîtra dans 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: Ton familier a été sauvé par la poupée ange gardienne.
