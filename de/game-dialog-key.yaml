@@ -392,12 +392,12 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartungsarbeiten wurden gestoppt.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartungsarbeiten beginnen in {0} Stunden.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartungsarbeiten beginnen in {0} Minuten.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartungsarbeiten beginnen in {0} Sekunden.
-MESSAGE_UNDER_CHAT_0: 'Wirf bitte einen Blick auf unsere Website für die neusten Updates: noswings.com'
-MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: noswings.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Du hast einen Fehler gefunden? Melde ihn hier: noswings.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Forum: forum.noswings.com'
-MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: noswings.com/game-rules'
-MESSAGE_UNDER_CHAT_5: Du hast ein Zahlungs- oder Spielproblem? Dann besuche unseren Discord-Support Server
+MESSAGE_UNDER_CHAT_0: 'Lautsprecher, Sprechblasen und der Helden Chat sind nur in englischer Sprache erlaubt!'
+MESSAGE_UNDER_CHAT_1: 'Wirf einen Blick auf unseren Discord Server: discord.gg/olympusgg'
+MESSAGE_UNDER_CHAT_2: 'Du hast einen Fehler gefunden? Melde ihn hier: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_3: 'Du hast Ideen und Vorschläge? Poste sie in unserem Discord Server!'
+MESSAGE_UNDER_CHAT_4: 'Halte dich an unsere Regeln: dashboard.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'Du hast ein Zahlungs- oder Spielproblem? Dann besuche unseren Discord-Support Server: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Produktionspunkte der Minispiele wurden erneuert.
 MINIGAME_INFO_NO_REWARD: Es gibt keine Belohnungen in diesem Minispiel.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
