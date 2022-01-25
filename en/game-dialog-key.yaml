@@ -392,12 +392,12 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0} hour(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0} minute(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0} second(s).
-MESSAGE_UNDER_CHAT_0: 'Please check our website for the newest updates: olympusgg.com'
-MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: olympusgg.com/discord'
-MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Report it on: olympusgg.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Post it on our forum: forum.olympusgg.com'
-MESSAGE_UNDER_CHAT_4: 'Respect our game rules: olympusgg.com/game-rules'
-MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit Support Discord server: olympusgg.com/support'
+MESSAGE_UNDER_CHAT_0: 'Speakers, Speech Bubbles and the Hero Chat are English only!'
+MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: discord.gg/olympusgg'
+MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Open a bug ticket on: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Create a suggestion on our Discord!'
+MESSAGE_UNDER_CHAT_4: 'Respect our game rules: dashboard.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit our Support Discord server: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames production points has been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
