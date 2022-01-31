@@ -392,10 +392,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0} hour(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0} minute(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: The maintenance will start in {0} second(s).
-MESSAGE_UNDER_CHAT_0: 'Speakers, Speech Bubbles and the Hero Chat are English only!'
+MESSAGE_UNDER_CHAT_0: Speakers, Speech Bubbles and the Hero Chat are English only!
 MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: discord.gg/olympusgg'
 MESSAGE_UNDER_CHAT_2: 'Did you find a bug? Open a bug ticket on: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: 'Do you have an idea? Create a suggestion on our Discord!'
+MESSAGE_UNDER_CHAT_3: Do you have an idea? Create a suggestion on our Discord!
 MESSAGE_UNDER_CHAT_4: 'Respect our game rules: dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit our Support Discord server: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames production points has been refreshed.
@@ -409,9 +409,11 @@ MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: You won't receive any rewards because you 
 MINILAND_INFO_CHANGED: Your Miniland greeting message has been changed!
 MINILAND_INFO_DURABILITY_MAXIMUM: Maximum minigame durability reached.
 MINILAND_INFO_INVITE_LOCK: This player's Miniland is locked.
+MINILAND_INFO_MUST_BE_IN_MINILAND: You must be in miniland to perform this action.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Not enough Reward Coupons!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Not enough durability points.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Not enough Miniland production points.
+MINILAND_INFO_WAREHOUSE_INVALID_ITEM: This item cannot be put in warehouse.
 MINILAND_MESSAGE_VISITOR: 'Total visits: {0}, Daily visits: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland is closed.
 MINILAND_SHOUTMESSAGE_FULL: Miniland is full.
@@ -477,6 +479,7 @@ OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI enabled
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Whispers disabled
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Whispers enabled
 ORNAMENT_UNLOCKED: Ornament unlocked.
+PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: This item cannot be put in partner backpack.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'You got a new Partner: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Your Partner is full!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner specialist cooldown finished.

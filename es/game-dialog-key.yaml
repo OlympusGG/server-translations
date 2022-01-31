@@ -409,9 +409,11 @@ MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: No obtendrás recompensa debido a que no t
 MINILAND_INFO_CHANGED: Información del Mini-Mundo cambiada.
 MINILAND_INFO_DURABILITY_MAXIMUM: Durabilidad máxima del Mini-Juego alcanzada.
 MINILAND_INFO_INVITE_LOCK: El Mini-Mundo de este jugador está bloqueado.
+MINILAND_INFO_MUST_BE_IN_MINILAND: You must be in miniland to perform this action.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: ¡No hay suficientes cupones de recompensa!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: No hay suficientes puntos de durabilidad.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: No hay suficientes puntos de producción de Mini-Mundo.
+MINILAND_INFO_WAREHOUSE_INVALID_ITEM: This item cannot be put in warehouse.
 MINILAND_MESSAGE_VISITOR: 'Visitas totales: {0}, Visitas diarias: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: El Mini-Mundo está cerrado.
 MINILAND_SHOUTMESSAGE_FULL: El Mini-Mundo está lleno.
@@ -477,6 +479,7 @@ OPTIONS_SHOUTMESSAGE_UI_ENABLED: IU activada
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Susurros desactivados
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Susurros activados
 ORNAMENT_UNLOCKED: Ornament unlocked.
+PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: This item cannot be put in partner backpack.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: '¡Tienes un nuevo compañero: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: ¡Tu compañero está lleno!
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: El enfriamiento de la Tarjeta de Especialista de tu compañero ha finalizado.

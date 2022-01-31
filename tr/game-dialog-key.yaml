@@ -409,9 +409,11 @@ MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Üretim puanın yetersiz olduğu için öd
 MINILAND_INFO_CHANGED: Miniland'inin tanıtımı yenilendi.
 MINILAND_INFO_DURABILITY_MAXIMUM: Maksimum dayanıklığa ulaşıldı.
 MINILAND_INFO_INVITE_LOCK: Bu oyuncunun Miniland’i kilitli!
+MINILAND_INFO_MUST_BE_IN_MINILAND: You must be in miniland to perform this action.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Yetersiz ödül kuponu!
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Yetersiz dayanıklılık!
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Yetersiz üretim puanı!
+MINILAND_INFO_WAREHOUSE_INVALID_ITEM: This item cannot be put in warehouse.
 MINILAND_MESSAGE_VISITOR: 'Toplam misafir: {0}, Günlük misafir: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland kapandı.
 MINILAND_SHOUTMESSAGE_FULL: Miniland dolu!
@@ -477,6 +479,7 @@ OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI aktif
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Fısıltıları engelliyorsun.
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Fısıltıları kabul ediyorsun.
 ORNAMENT_UNLOCKED: Ornament unlocked.
+PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: This item cannot be put in partner backpack.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Yeni bir partnerin oldu: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Partnerin her şeyi yedi.
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partnerin şimdi Uzmanlık Kartını kuşanabilir.
