@@ -229,15 +229,23 @@ ICE_DUST_ASK_DIALOG_BUY: '#ICE_DUST_ASK_DIALOG_BUY'
 ICE_DUST_ASK_DIALOG_EXCHANGE: '#ICE_DUST_ASK_DIALOG_EXCHANGE'
 ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE: '#ICE_DUST_SHOUTMESSAGE_WRONG_ITEM_TYPE'
 ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
-ICEBREAKER_CHATMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
-ICEBREAKER_CHATMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
-ICEBREAKER_NAME: Icebreaker
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: There are not enough players to start the Ice Breaker
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "You don't have enough gold to participate in the Ice Breaker (required: {0})"
+ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to participate in the Ice Breaker
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: ¡El PvP será activado en {0}s!
+ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El PvP ha sido activado!
 ICEBREAKER_SHOUTMESSAGE_END: El IceBreaker ha terminado.
-ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: ¡Prepárate para luchar!
-ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: '{0} está congelado.'
-ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: '{0} ha sido descongelado.'
-ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El Icebreaker ha comenzado!
-ICEBREAKER_SHOUTMESSAGE_WIN: ¡Has ganado el Icebreaker!
+ICEBREAKER_SHOUTMESSAGE_END_WARNING: The Ice Breaker will end in {0}m and {1}s!
+ICEBREAKER_SHOUTMESSAGE_WIN: ¡Tu equipo ha ganado el Ice Breaker!
+ICEBREAKER_NAME: Ice Breaker
+ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: "Jugador '{0}' ha sido congelado!"
+ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: "Jugador '{0}' ha sido descongelado!"
+ICEBREAKER_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
+ICEBREAKER_SHOUTMESSAGE_CANT_UNFREEZE_KILL: ¡No puedes descongelar al jugador que has matado!
+ICEBREAKER_INFO_REGISTRATION_CLOSED: The registration is already closed, too much time has passed!
+ICEBREAKER_INFO_REGISTRATION_SUCCEEDED: You've been registered successfully! Please wait patiently while the other players join
+ICEBREAKER_INFO_REGISTRATION_DIALOG: Do you want to participate in the Ice Breaker? It will cost you {1}
+ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Ice Breaker registration ending in {0}s!
 INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
 INFORMATION_CHATMESSAGE_NO_WINGS: ¡No tienes Alas de Amistad!
