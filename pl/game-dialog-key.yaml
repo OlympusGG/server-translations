@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: 'Czy chcesz umieścić {0} w twoim przedmiocie: {1}?'
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Umieszczenie Kamienia Wróżki nie powiodło się.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Umieszczenie Kamienia Wróżki powiodło się!

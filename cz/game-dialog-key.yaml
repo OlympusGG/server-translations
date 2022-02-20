@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Vložení Vílího kamene se nezdařilo.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Vložení Vílího kamene proběhlo úspěšně!

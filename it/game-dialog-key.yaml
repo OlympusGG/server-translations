@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop non valida.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: Vuoi inserire {0} nel tuo {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'inserimento della Pietra Fatata è fallito.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'inserimento della Pietra Fatata ha avuto successo!

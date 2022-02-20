@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Daha fazla kukla çağıramazsın.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
 DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: "{0}'ı {1}'e işlemek istiyor musun?"
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Peri Taşı işlemesi başarısız.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Peri Taşı işlemesi başarılı!

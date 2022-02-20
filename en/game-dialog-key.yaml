@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Fairy Stone insertion failed.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Fairy Stone insertion succeeded!
