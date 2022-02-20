@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Du kannst keine weiteren Puppen beschwören.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Du bist nicht in der ausgewiesenen Zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge an fallengelassenen Gegenständen.
 DROP_SHOUTMESSAGE_FULL: Es befinden sich bereits zu viele Gegenstände auf dieser Karte, um diesen fallen zu lassen.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: Willst du {0} in {1} einfügen?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: Einfügen des Feensteins fehlgeschlagen.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Einfügen des Feensteins erfolgreich!

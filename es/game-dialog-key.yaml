@@ -105,6 +105,8 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: No puedes invocar más monigotes.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
 DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
+EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 FAIRYSTONES_DIALOG_INSERT: ¿Quiere insertar {0} a su {1}?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedras de Hada falló.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: ¡La inserción de Piedras de Hada tuvo éxito!
