@@ -33,3 +33,4 @@ ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
