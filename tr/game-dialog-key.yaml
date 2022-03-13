@@ -634,6 +634,7 @@ RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın buradan başlatılamaz.
 RAID_CHATMESSAGE_X_JOINED: '{0} takıma katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} akınını başlatmak istiyor musun?'
 RAID_DIALOG_INVITED_YOU: "{0}'ın akın takımına katılmak istiyor musun?"
+RAID_FERNON_SAY_BLADES: Foolish mortals!
 RAID_FERNON_SHOUTMESSAGE_BLADES: Fernon threw her blades!
 RAID_INFO_NO_EXIST: Akın bulunamadı.
 RAID_INFO_NO_LIVES_LEFT: Tüm canlarını kullandın.

@@ -634,6 +634,7 @@ RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Questa non è l'entrata del raid.
 RAID_CHATMESSAGE_X_JOINED: '{0} ora fa parte del team.'
 RAID_DIALOG_ASK_START_RAID: Vuoi dare via al raid {0}?
 RAID_DIALOG_INVITED_YOU: '{0} ti ha invitato nel team del raid. Accettare?'
+RAID_FERNON_SAY_BLADES: Foolish mortals!
 RAID_FERNON_SHOUTMESSAGE_BLADES: Fernon threw her blades!
 RAID_INFO_NO_EXIST: Il raid non esiste!
 RAID_INFO_NO_LIVES_LEFT: Hai consumato tutte le vite a disposizione!

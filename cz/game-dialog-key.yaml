@@ -634,6 +634,7 @@ RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
 RAID_CHATMESSAGE_X_JOINED: '{0} se přidal do týmu.'
 RAID_DIALOG_ASK_START_RAID: Chceš začít {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} tě pozval do raidu. Přijímáš?'
+RAID_FERNON_SAY_BLADES: Foolish mortals!
 RAID_FERNON_SHOUTMESSAGE_BLADES: Fernon threw her blades!
 RAID_INFO_NO_EXIST: Raid neexistuje!
 RAID_INFO_NO_LIVES_LEFT: Již jsi použil veškeré své životy.
