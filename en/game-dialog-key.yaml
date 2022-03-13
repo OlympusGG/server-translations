@@ -3,6 +3,8 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
+ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
@@ -107,13 +109,6 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
-FAIRYSTONES_DIALOG_INSERT: Do you want to insert {0} to your {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Fairy Stone insertion failed.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Fairy Stone insertion succeeded!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: You cannot insert Fairy Stones into Heroic Level equipment.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: This Fairy Stone's level is too high for this item.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: You can't insert any more Fairy Stones in this item.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: You can only insert Fairy Stones to weapons and armors.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
@@ -205,6 +200,7 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players for the event.
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} will start in {1} minutes.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} will start in {1} seconds.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
+GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
@@ -250,7 +246,6 @@ ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to partici
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Player '{0}' has been frozen!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Player '{0}' has been unfrozen!
 ICEBREAKER_SHOUTMESSAGE_STARTED: PvP has been enabled!
-ICEBREAKER_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 ICEBREAKER_SHOUTMESSAGE_WIN: Your team has won the Ice Breaker!
 INFORMATION_CHANNEL: Channel
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Can't use that right now!
@@ -651,7 +646,6 @@ RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid te
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
 RAID_SHOUTMESSAGE_COMPLETED: Team of player {0} has completed {1} raid!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
 RAID_SHOUTMESSAGE_KICKED: You were kicked from the raid team!
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} was kicked from the raid team'
@@ -745,6 +739,7 @@ SPEAKER_NAME: Speaker
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: You need to be transformed into your Specialist Card to do this!
+SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).
@@ -757,6 +752,18 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrec
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: You need to be transformed into a Specialist to do this!
 SUM_MESSAGE_FAILED: Combination failed.
 SUM_MESSAGE_SUCCESS: Combination successful!
+TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
+TALENT_ARENA_CLOSED: Arena of Talent is closed.
+TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
+TALENT_ARENA_NOT_FOUND: '#TALENT_ARENA_NOT_FOUND'
+TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
+TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
+TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
+TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
+TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
+TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
+TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
 TATTOO_ADDED: '#TATTOO_ADDED'
 TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
 TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
@@ -833,6 +840,9 @@ VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
+WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
 WEDDING_DIALOG_REQUEST_RECEIVED: Player {0} has proposed to you. Do you accept the marriage proposal?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Are you sure you want to marry {0}?

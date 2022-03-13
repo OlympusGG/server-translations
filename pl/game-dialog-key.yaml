@@ -3,6 +3,8 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy na pewno chcesz opuścić loch?
+ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Kanał aktu 4 jest niedostępny.
 ACT4_CHATMESSAGE_KILL_INFO: 'Zabójstwa: {0}, Śmierci: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: Pozyskanie lub strata reputacji jest zmniejszona, ponieważ ty lub wróg zginąłeś dziś wiele razy
@@ -107,13 +109,6 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucen
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
-FAIRYSTONES_DIALOG_INSERT: 'Czy chcesz umieścić {0} w twoim przedmiocie: {1}?'
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Umieszczenie Kamienia Wróżki nie powiodło się.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Umieszczenie Kamienia Wróżki powiodło się!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Nie możesz umieścić Kamieni Wróżki do bohaterskiego ekwipunku.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom tego Kamienia Wróżki jest zbyt wysoki dla tego przedmiotu.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Nie możesz umieścić więcej Kamieni Wróżek w tym przedmiocie.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Możesz umieścić Kamienie Wróżki tylko w broniach i zbrojach.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono rozszerzenie rodziny!
@@ -205,6 +200,7 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Brak wystarczającej liczby graczy.
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} rozpocznie się za {1}min.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} rozpocznie się za {1}sec.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} zakończy się za minutę.'
+GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupa) [{0}x {1}] dla: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grupa) [{0}x {1}] dla wszystkich
 GROUP_CHATMESSAGE_REQUEST_REFUSED: Gracz {0} odrzucił Twoje zaproszenie do grupy.
@@ -250,7 +246,6 @@ ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to partici
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Player '{0}' has been frozen!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Player '{0}' has been unfrozen!
 ICEBREAKER_SHOUTMESSAGE_STARTED: PvP has been enabled!
-ICEBREAKER_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 ICEBREAKER_SHOUTMESSAGE_WIN: Your team has won the Ice Breaker!
 INFORMATION_CHANNEL: Kanał
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć!
@@ -651,7 +646,6 @@ RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nie możesz zapraszać członków grupy do 
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nie możesz dołączyć do rajdu będąc na arenie!
 RAID_SHOUTMESSAGE_COMPLETED: Drużyna gracza {0} ukończyła rajd {1}!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: Nie możesz dołączyć do rajdu będąc w grupie.
 RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_SHOUTMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
@@ -745,6 +739,7 @@ SPEAKER_NAME: Głośnik
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Czas odnowienia Karty Specjalisty zniknął.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Musisz przetransformować się w Kartę Specjalisty, aby to zrobić!
+SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Twoja podstawowa ilość punktów SP jest bardzo niska!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nie możesz teraz atakować!
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta Specjalisty jest w trakcie odnowy - {0} sek.
@@ -757,6 +752,18 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Dusza Karty Specjalisty została wskrzeszon
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musisz być na Karcie Specjalisty aby to zrobić.
 SUM_MESSAGE_FAILED: Łączenie nie udało się.
 SUM_MESSAGE_SUCCESS: Łączenie udało się.
+TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
+TALENT_ARENA_CLOSED: Arena of Talent is closed.
+TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
+TALENT_ARENA_NOT_FOUND: '#TALENT_ARENA_NOT_FOUND'
+TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
+TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
+TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
+TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
+TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
+TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
+TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
 TATTOO_ADDED: '#TATTOO_ADDED'
 TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
 TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
@@ -833,6 +840,9 @@ VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
+WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
 WEDDING_DIALOG_REQUEST_RECEIVED: Gracz {0} oświadczył ci się. Czy zaakceptować zaręczyny?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?

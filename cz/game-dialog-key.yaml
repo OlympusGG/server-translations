@@ -3,6 +3,8 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Sklad prochází údržbou.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Vyskytla se neočekávaná chyba. Prosíme zkuste to znovu později.
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Opravdu chceš opustit dungeon?
+ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Kanál Aktu 4 je offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: Reputation loss or gain is reduced because you or the enemy died a lot of times today
@@ -107,13 +109,6 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
-FAIRYSTONES_DIALOG_INSERT: Chceš vložit {0} do tvého {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: Vložení Vílího kamene se nezdařilo.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: Vložení Vílího kamene proběhlo úspěšně!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Vílí kámen nelze vložit do vybavení pro levely hrdinů (C1+).
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň Vílího kamene je příliš velká pro tento předmět.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Do tohoto předmětu nelze vložit další Vílí kamene.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Vílí kámen lze vložit pouze do zbraní a brnění.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil do hry!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Rodinný upgrade zakoupen!
@@ -205,6 +200,7 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Na event není dostatek hráčů.
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} začne za {1} minut.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} začne za {1} sekund.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} skončí za minutku.'
+GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] pro: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] pro všechny
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} odmítl tvoji žádost o skupinu.'
@@ -250,7 +246,6 @@ ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to partici
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Player '{0}' has been frozen!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Player '{0}' has been unfrozen!
 ICEBREAKER_SHOUTMESSAGE_STARTED: PvP has been enabled!
-ICEBREAKER_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 ICEBREAKER_SHOUTMESSAGE_WIN: Your team has won the Ice Breaker!
 INFORMATION_CHANNEL: Kanál
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Tohle teď nemůžu použít!
@@ -651,7 +646,6 @@ RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do raidu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit do raidu, když jsi v aréně!
 RAID_SHOUTMESSAGE_COMPLETED: Tým hráče {0} dokončil raid {1}!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: Nemůžeš se připojit do raidu, když jsi ve skupině.
 RAID_SHOUTMESSAGE_KICKED: Byl jsi vyhozen
 RAID_SHOUTMESSAGE_KICKED_OTHER: Hráč byl vyhozen
@@ -745,6 +739,7 @@ SPEAKER_NAME: Reproduktor
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nyní nemůžeš vyměnit kartu specialisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown transformace specialisty skončil.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Musíš být transformován do karty specialisty, aby tato akce byla možná!
+SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nyní nemůžeš útočit.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta specialisty má cooldown - {0} sekund.
@@ -757,6 +752,18 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Tvá duše specialisty byla vzkříšena!
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Musíš být transformován do Specialisty, abys mohl toto dělat!
 SUM_MESSAGE_FAILED: Sčítání selhalo.
 SUM_MESSAGE_SUCCESS: Sčítání úspěšné!
+TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
+TALENT_ARENA_CLOSED: Arena of Talent is closed.
+TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
+TALENT_ARENA_NOT_FOUND: '#TALENT_ARENA_NOT_FOUND'
+TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
+TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
+TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
+TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
+TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
+TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
+TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
 TATTOO_ADDED: '#TATTOO_ADDED'
 TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
 TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
@@ -833,6 +840,9 @@ VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
+WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Opravdu se chceš rozvést?
 WEDDING_DIALOG_REQUEST_RECEIVED: Pozor! {0} vám navrhl/a sňatek. Přijímáš nabídku ke svatbě?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Opravdu si chceš vzít {0}?
