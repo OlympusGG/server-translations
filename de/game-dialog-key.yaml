@@ -634,6 +634,7 @@ RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der Raid kann hier nicht gestartet we
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Raidteam beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Möchtest du den {0} Raid starten?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich in ein Raidteam eingeladen. Akzeptieren?'
+RAID_FERNON_SHOUTMESSAGE_BLADES: Fernon threw her blades!
 RAID_INFO_NO_EXIST: Der Raid existiert nicht länger!
 RAID_INFO_NO_LIVES_LEFT: Du hast alle deine Leben verbraucht.
 RAID_INFO_PLAYER_DEATH: Du bist gestorben! Du wirst in 20 Sekunden wiederbelebt.

@@ -634,6 +634,7 @@ RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten portal jest błędny dla tego raj
 RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wysartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
+RAID_FERNON_SHOUTMESSAGE_BLADES: Fernon threw her blades!
 RAID_INFO_NO_EXIST: Rajd nie istnieje!
 RAID_INFO_NO_LIVES_LEFT: Wykorzystano wszystkie życia.
 RAID_INFO_PLAYER_DEATH: Nie żyjesz! Zostaniesz wskrzeszony za 20 sekund.
