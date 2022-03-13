@@ -3,6 +3,8 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
+ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: La pérdida o ganancia de reputación se reduce debido a que hoy, o tu o el enemigo habéis muerto muchas veces.
@@ -107,13 +109,6 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
 DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
-FAIRYSTONES_DIALOG_INSERT: ¿Quiere insertar {0} a su {1}?
-FAIRYSTONES_MESSAGE_INSERT_FAILED: La inserción de Piedras de Hada falló.
-FAIRYSTONES_MESSAGE_INSERT_SUCCESS: ¡La inserción de Piedras de Hada tuvo éxito!
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: No puedes instertar Piedras de Hada en el equipamiento de nivel heroico.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de esta Piedra de Hada es demasiado alto para este objeto.
-FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: No puedes insertar más Piedras de Hada en este objeto.
-FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Solo puedes insertar Piedras de Hada en armas y armaduras.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) ha iniciado sesión!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: ¡Mejora familiar comprada!
@@ -205,6 +200,7 @@ GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay jugadores suficientes para el 
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} empezará en {1} minutos.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} empezará en {1} segundos.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} terminará en un minuto.'
+GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze!
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupo) [{0}x {1}] para: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grupo) [{0}x {1}] para todos
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} ha rechazado tu solicitud.'
@@ -250,7 +246,6 @@ ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to partici
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Jugador '{0}' ha sido congelado!
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Jugador '{0}' ha sido descongelado!
 ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El PvP ha sido activado!
-ICEBREAKER_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: ¡Estás demasiado lejos para descongelar!
 ICEBREAKER_SHOUTMESSAGE_WIN: ¡Tu equipo ha ganado el Ice Breaker!
 INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
@@ -651,7 +646,6 @@ RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros de un grupo a 
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: ¡No puedes unirte a un equipo de raid en arena!
 RAID_SHOUTMESSAGE_COMPLETED: El equipo de {0} ha completado {1}!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_GLACERUS_TOO_FAR_TO_UNFREEZE: You're too far to unfreeze this player.
 RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de raid mientras estás en grupo.
 RAID_SHOUTMESSAGE_KICKED: Te han echado.
 RAID_SHOUTMESSAGE_KICKED_OTHER: El jugador fue echado.
@@ -745,6 +739,7 @@ SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: ¡No puedes cambiar tu Tarjeta de Especialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Enfriamiento de la transformación de la Tarjeta de Especialista finalizado.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: ¡Tienes que estar transformado en tu Tarjeta de Especialista para hacer esto!
+SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
 SPECIALIST_MESSAGE_LOW_SP_POINTS: ¡Tus puntos de SP base son demasiado bajos!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: No puedes atacar ahora mismo.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Tarjeta de Especialista está en enfriamiento - {0} seg.
@@ -757,6 +752,18 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: ¡Tu Tarjeta de Especialista ha sido resuci
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: ¡Tienes que estar transformado en tu Tarjeta de Especialista para hacer esto!
 SUM_MESSAGE_FAILED: Suma fallada.
 SUM_MESSAGE_SUCCESS: ¡Suma exitosa!
+TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
+TALENT_ARENA_CLOSED: Arena of Talent is closed.
+TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
+TALENT_ARENA_NOT_FOUND: '#TALENT_ARENA_NOT_FOUND'
+TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
+TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
+TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
+TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
+TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
+TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
+TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
 TATTOO_ADDED: '#TATTOO_ADDED'
 TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
 TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
@@ -833,6 +840,9 @@ VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
+WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
 WEDDING_DIALOG_REQUEST_RECEIVED: El jugador {0} se te ha declarado. ¿Aceptas la propuesta de matrimonio?
 WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Estás seguro de que quieres casarte con{0}?
