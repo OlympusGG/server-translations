@@ -19,6 +19,8 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Pokój bossa został zamknięty.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss lochu został pokonany!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Pokój bossa został otwarty.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Brama rajdowewgo lochu jest otwarta przy centralnej wieży granicznej w Tundrze Bitoren!
+ACT4_FERNON_SHOUTMESSAGE_CLOSED: Fernon entrance is now closed.
+ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open!
 ACT4_NEED_FACTION: Tylko ci, którzy posiadają moc ochronną, mogą dołączyć do Glacernonu.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Obóz Aniołów
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Obóz Demonów
@@ -109,6 +111,8 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucen
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted!
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item: {0}'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono rozszerzenie rodziny!
@@ -647,6 +651,7 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nie możesz utworzyć rajdu gdy znajdu
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nie możesz zapraszać członków grupy do rajdu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nie możesz dołączyć do rajdu będąc na arenie!
 RAID_SHOUTMESSAGE_COMPLETED: Drużyna gracza {0} ukończyła rajd {1}!
+RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open on Glacernon in {0} minutes!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
 RAID_SHOUTMESSAGE_IN_GROUP: Nie możesz dołączyć do rajdu będąc w grupie.
 RAID_SHOUTMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.

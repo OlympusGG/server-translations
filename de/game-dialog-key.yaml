@@ -19,6 +19,8 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss wurde besiegt!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Der Bossraum ist nun offen.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Portal zum Verlies hat sich nahe des zentralen Grenzturms in der Bitoren Tundra geöffnet!
+ACT4_FERNON_SHOUTMESSAGE_CLOSED: Fernon entrance is now closed.
+ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open!
 ACT4_NEED_FACTION: Nur diejenigen, die über die Kraft der Bewahrung verfügen, können Glacernon betreten.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Lager der Engel
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Lager der Dämonen
@@ -109,6 +111,8 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge an fallengelassenen Gegenständ
 DROP_SHOUTMESSAGE_FULL: Es befinden sich bereits zu viele Gegenstände auf dieser Karte, um diesen fallen zu lassen.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted!
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item: {0}'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Familienerrungenschaft freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich angemeldet!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Du hast die Familienerweiterung erworben!
@@ -647,6 +651,7 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, solan
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannste keine Gruppenmitglieder in ein Raidteam einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raidteam beitreten, solange du dich in der Arena befindest!
 RAID_SHOUTMESSAGE_COMPLETED: "{0}'s hat {1} erfolgreich beendet!"
+RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open on Glacernon in {0} minutes!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
 RAID_SHOUTMESSAGE_IN_GROUP: Du kannst einem Raidteam nicht beitreten, solange du Teil einer Gruppe bist.
 RAID_SHOUTMESSAGE_KICKED: Du wurdest aus dem Raidteam geworfen!.

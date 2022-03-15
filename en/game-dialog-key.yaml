@@ -19,6 +19,8 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room has been closed.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss has been defeated!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room is now open.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Dungeon gate is now open near the central boundary tower in Bitoren Tundra!
+ACT4_FERNON_SHOUTMESSAGE_CLOSED: Fernon entrance is now closed.
+ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open!
 ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Crown.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
@@ -109,6 +111,8 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted!
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item: {0}'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
@@ -647,6 +651,7 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
 RAID_SHOUTMESSAGE_COMPLETED: Team of player {0} has completed {1} raid!
+RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open on Glacernon in {0} minutes!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
 RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
 RAID_SHOUTMESSAGE_KICKED: You were kicked from the raid team!
