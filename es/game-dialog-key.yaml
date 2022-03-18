@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por fa
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_REVIVAL_DIALOG: Do you want to revive at Caligor Realm's entrance ?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Glacernon se encuentra deshabilitado.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Muertes: {1}'
@@ -651,6 +652,8 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un equipo de raid mien
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros de un grupo a un equipo de raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: ¡No puedes unirte a un equipo de raid en arena!
 RAID_SHOUTMESSAGE_COMPLETED: El equipo de {0} ha completado {1}!
+RAID_SHOUTMESSAGE_FERNON_1_MINUTE: Fernon raid will close in 1 minute!
+RAID_SHOUTMESSAGE_FERNON_5_MINUTES: Fernon raid will close in 5 minutes!
 RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open on Glacernon in {0} minutes!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
 RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de raid mientras estás en grupo.
@@ -767,14 +770,15 @@ TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
 TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
 TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
 TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Talent arena opened on channel {0}
 TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
-TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
-TATTOO_ADDED: '#TATTOO_ADDED'
-TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
-TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
-TATTOO_UPGRADE_SUCCESS: '#TATTOO_UPGRADE_SUCCESS'
+TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
+TATTOO_ADDED: Tattoo added!
+TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
+TATTOO_UPGRADE_FAIL: Tattoo upgrade failed...
+TATTOO_UPGRADE_SUCCESS: Tattoo upgrade succeeded!
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Tienes que esperar después del ataque.
 TIMESPACE_CHATMESSAGE_EASY_MODE: El time-space está en modo fácil - la duración ha aumentado y no podrás seleccionar recompensa.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: ¡El portal está bloqueado!

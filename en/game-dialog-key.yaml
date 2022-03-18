@@ -4,6 +4,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please tr
 ACHIEVEMENT_COMPLETED: Achievement completed
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
+ACT4_CALIGOR_REVIVAL_DIALOG: Do you want to revive at Caligor Realm's entrance ?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started!
 ACT4_CHANNEL_OFFLINE: Act 4 channel is currently offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Deaths: {1}'
@@ -20,7 +21,7 @@ ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon Boss has been defeated!
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Boss Room is now open.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Dungeon gate is now open near the central boundary tower in Bitoren Tundra!
 ACT4_FERNON_SHOUTMESSAGE_CLOSED: Fernon entrance is now closed.
-ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open!
+ACT4_FERNON_SHOUTMESSAGE_OPEN: Fernon entrance is now open! The Airship Captain will be waiting for 1 hour!
 ACT4_NEED_FACTION: Only those who have a protection power can join the Frozen Crown.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Angels Camp
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Demons Camp
@@ -651,7 +652,9 @@ RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena!
 RAID_SHOUTMESSAGE_COMPLETED: Team of player {0} has completed {1} raid!
-RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open on Glacernon in {0} minutes!
+RAID_SHOUTMESSAGE_FERNON_1_MINUTE: Fernon raid will close in 1 minute!
+RAID_SHOUTMESSAGE_FERNON_5_MINUTES: Fernon raid will close in 5 minutes!
+RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Fernon entrance will open in Cylloan in {0} minutes!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
 RAID_SHOUTMESSAGE_IN_GROUP: You can't join a raid team while being in a group.
 RAID_SHOUTMESSAGE_KICKED: You were kicked from the raid team!
@@ -767,14 +770,15 @@ TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
 TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
 TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
 TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Talent arena opened on channel {0}
 TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
-TALENT_ARENA_TOO_LOW_LEVEL: '#TALENT_ARENA_TOO_LOW_LEVEL'
-TATTOO_ADDED: '#TATTOO_ADDED'
-TATTOO_UPGRADE_DOWNGRADE: '#TATTOO_UPGRADE_DOWNGRADE'
-TATTOO_UPGRADE_FAIL: '#TATTOO_UPGRADE_FAIL'
-TATTOO_UPGRADE_SUCCESS: '#TATTOO_UPGRADE_SUCCESS'
+TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
+TATTOO_ADDED: Tattoo added!
+TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
+TATTOO_UPGRADE_FAIL: Tattoo upgrade failed...
+TATTOO_UPGRADE_SUCCESS: Tattoo upgrade succeeded!
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: The Time-Space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked!
