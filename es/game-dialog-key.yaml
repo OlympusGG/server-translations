@@ -608,6 +608,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Puedes recibir una misión nueva de un N
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] cazados {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: No puedes abandonar la misión principal una vez comenzada. ¿Quieres comenzar?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: ¿Quieres teletransportarte?
+QUEST_DISABLED: '#QUEST_DISABLED'
 QUEST_INFO_CANT_GIVE_UP: No puedes abandonar esta misión.
 QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
 QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
@@ -633,6 +634,7 @@ RAID_CHATMESSAGE_LIMIT_REACHED: Has alcanzado el límite de entradas en el raid 
 RAID_CHATMESSAGE_LOW_LEVEL: Tienes que ser nivel {0} para unirte al raid.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} es el nuevo líder de equipo.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: ¡El raid no existe o ya ha comenzado!
+RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo el líder de equipo puede comenzar el raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este raid no comienza aquí.

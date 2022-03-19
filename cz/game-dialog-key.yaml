@@ -608,6 +608,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Novou misi můžeš dostat u NPC.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lov {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní misi jakmile jí začneš. Opravdu začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
+QUEST_DISABLED: '#QUEST_DISABLED'
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
 QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
@@ -633,6 +634,7 @@ RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} r
 RAID_CHATMESSAGE_LOW_LEVEL: Musíš mít alespoň level {0} pro připojení do raidu.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} je nový vedoucí týmu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid neexistuje, nebo již započal!
+RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Pouze vedoucí může zahájit raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi členem žádného raid týmu.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.

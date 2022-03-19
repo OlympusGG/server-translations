@@ -608,6 +608,7 @@ QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC anneh
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] jage {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Du kannst eine angenommene Hauptquest nicht aufgegeben. Möchtest du trotzdem fortfahren?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Möchtest du dich teleportieren?
+QUEST_DISABLED: '#QUEST_DISABLED'
 QUEST_INFO_CANT_GIVE_UP: You can't give up this quest.
 QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this means to not receive any reward from them.
 QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
@@ -633,6 +634,7 @@ RAID_CHATMESSAGE_LIMIT_REACHED: Reached the maximum number of entries in a {0} r
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilnehmen zu können.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist der neue Raidleiter.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht, oder hat bereits begonnen!
+RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Raidleiter kann den Raid starten.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist nicht Mitglied eines Raidteams.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Der Raid kann hier nicht gestartet werden.
