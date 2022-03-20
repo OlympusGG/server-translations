@@ -751,7 +751,7 @@ SPEAKER_NAME: Speaker
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: You need to be transformed into your Specialist Card to do this!
-SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
+SPECIALIST_DIALOG_ASK_CONFIRMATION: Do you want to upgrade your Specialist Card ? 
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).

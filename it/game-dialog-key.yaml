@@ -751,7 +751,7 @@ SPEAKER_NAME: Altoparlante
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: In questo momento non puoi cambiare la Carta dello Specialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Il tempo di attesa della trasformazione in Specialista è terminato.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Per effettuare questa azione devi prima essere trasformato in uno Specialista!
-SPECIALIST_DIALOG_ASK_CONFIRMATION: '#SPECIALIST_DIALOG_ASK_CONFIRMATION'
+SPECIALIST_DIALOG_ASK_CONFIRMATION: Do you want to upgrade your Specialist Card ? 
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Non puoi attaccare al momento.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Carta dello Specialista è in ricarica - {0} secondi.
