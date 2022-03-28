@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: Moc gracza {1} została skradziona przez strażnika 
 ACT4_CHATMESSAGE_PVP_DEMONS: demonów
 ACT4_CHATMESSAGE_PVP_KILL: Gracz {1} pokonał strażnika {0}
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Potrzebujesz rodziny, aby wstąpić do lochu!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Wejście do lochu będzie cię kosztować {0} punktów reputacji. Czy chcesz wejść?
 ACT4_DUNGEON_REVIVAL_DIALOG: Wskrzeszenie będzie cię kosztować {0} punktów reputacji. Jeśli anulujesz, zostaniesz przeniesiony na początek lochu. Czy chcesz się wskrzesić tutaj?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Pokój bossa został zamknięty.

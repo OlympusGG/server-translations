@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem strany {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: démoni
 ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce strany {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Pro vstup je potřeba být členem rodiny!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do podzemí tě bude stát {0} bodů reputace. Opravdu chceš vejít dovnitř?
 ACT4_DUNGEON_REVIVAL_DIALOG: Oživení zde vás bude stát {0} bodů reputace. Při zrušení budete teleportováni na začátek. Potvrzujete oživení na místě?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Místnost s bossem byla uzavřena.

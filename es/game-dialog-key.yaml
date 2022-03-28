@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} fue derrotado por un guardián de los {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
 ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián de los {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar al calabozo!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar al calabozo te costará {0} puntos de reputación. ¿Deseas entrar?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La sala del jefe se ha cerrado.

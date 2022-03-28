@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} è stato sconfitto da un guardiano {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: dei Demoni
 ACT4_CHATMESSAGE_PVP_KILL: '{1} ha sconfitto un guardiano {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Hai bisogno di essere in una Famiglia per entrare nel raid!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: L'accesso al raid richiede {0} punti reputazione. Vuoi entrare?
 ACT4_DUNGEON_REVIVAL_DIALOG: Resuscitare qui richiede {0} punti reputazione. Se rifiuti, verrai teletrasportato all'ingresso del raid. Vuoi resuscitare?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La stanza del boss è stata chiusa.

@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: demons
 ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
 ACT4_DUNGEON_REVIVAL_DIALOG: Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Boss Room has been closed.

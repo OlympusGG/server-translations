@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Es wird eine Familie benötigt, um das Verlies zu betreten!
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Verlies zu betreten wird dich {0} Rufpunkte kosten. Möchtest du eintreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Dich hier wiederzubeleben kostet {0} Rufpunkte. Wenn du abbrichst wirst du an den Verlieseingang' teleportiert. Möchtest du hier wiederbelebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
