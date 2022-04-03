@@ -175,6 +175,7 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Hráč {0} se připojil do rodiny!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stát {0} zlata.
+FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se připojil do hry.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Chceš se stát přáteli s {0}?
@@ -492,6 +493,8 @@ OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Nabídky k obchodu blokovány
 OPTIONS_SHOUTMESSAGE_TRADE_ENABLED: Nabídky k obchodu povoleny
 OPTIONS_SHOUTMESSAGE_UI_DISABLED: UI zakázáno
 OPTIONS_SHOUTMESSAGE_UI_ENABLED: UI povoleno
+OPTIONS_SHOUTMESSAGE_UPGRADE_BLOCK_DISABLED: Safe Upgrade Disabled!
+OPTIONS_SHOUTMESSAGE_UPGRADE_BLOCK_ENABLED: Safe Upgrade Enabled!
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Šeptání zakázáno
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Šeptání povoleno
 ORNAMENT_UNLOCKED: Ornament unlocked.
@@ -509,6 +512,7 @@ PARTNER_INFO_RELEASED: Tvůj partner je nyní volný.
 PARTNER_INFO_SP_NEW_SKILL: Tvůj partner se naučil nové dovednosti!
 PARTNER_INFO_STORED: Tvůj partner je nyní uložen v perle.
 PARTNER_MESSAGE_100_AGILITY: Tvůj partner dosáhl 100% pohyblivosti.
+PARTNER_MESSAGE_ACTION_BLOCKED: You cannot reset the skill of a partner that is not in your team!
 PARTNER_MESSAGE_KICKED: Tvůj partner se navrátil do Mini země.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Tvůj partner nemá nasazenou kartu specialisty.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Již máš tohoto partnera.
@@ -851,6 +855,7 @@ UPGRADE_MESSAGE_SP_SUCCESS: Vylepšení karty specialisty úspěšné!
 UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity System] Your Specialist card has been upgraded.'
 UPGRADE_MESSAGE_SUCCESS: Vylepšení úspěšné!
 UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
+UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: You have the 'Safe Upgrade' option enabled, disable it if you want to upgrade without scroll.
 UPGRADE_SHOUTMESSAGE_UNPROTECTED: The SP is unprotected. Do you want to continue with the upgrade anyways?
 VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
