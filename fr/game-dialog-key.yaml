@@ -487,6 +487,8 @@ OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Tu ne te lèves plus rapidement.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Tu te lèves désormais rapidement.
 OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP labels disabled
 OPTIONS_SHOUTMESSAGE_SHOWHPMP_ENABLED: HP/MP labels enabled
+OPTIONS_SHOUTMESSAGE_SOLO_RIFT_AUTOLOOT_DISABLED: Solo pocket dimension auto loot disabled
+OPTIONS_SHOUTMESSAGE_SOLO_RIFT_AUTOLOOT_ENABLED: Solo pocket dimension auto loot enabled
 OPTIONS_SHOUTMESSAGE_SPEAKERS_DISABLED: Affichage des orateurs désactivé.
 OPTIONS_SHOUTMESSAGE_SPEAKERS_ENABLED: Affichage des orateurs activé.
 OPTIONS_SHOUTMESSAGE_TRADE_DISABLED: Tu refuses désormais les demandes d'échange.
