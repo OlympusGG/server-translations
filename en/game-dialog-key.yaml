@@ -68,6 +68,7 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost 
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed successfully.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
+BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
 BLACKLIST_INFO_ADDED: Player {0} added to blacklist!
 BLACKLIST_INFO_BLOCKED: You have been blocked.
 BLACKLIST_INFO_BLOCKING: This player is on your blacklist.
@@ -198,6 +199,7 @@ GAMBLING_MESSAGE_FAILED: Gambling failed! The item was destroyed.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from destruction.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
 GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: Do you want to participate in {0}?
@@ -525,6 +527,7 @@ PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
+PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
@@ -552,9 +555,12 @@ PET_MESSAGE_KICKED: Your NosMate has returned to the Miniland.
 PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
 PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
 PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_CANNOT_EVOLVE: This pet cannot evolve.
 PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
 PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
+PET_SHOUTMESSAGE_EVOLUTION_FAILED: Pet evolution failed.
+PET_SHOUTMESSAGE_EVOLUTION_SUCCESS: Pet evolution succeeded.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Your NosMate's level is higher than yours!
 PET_SHOUTMESSAGE_LEVEL_UP: Your NosMate {0} has leveled up!
 PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!

@@ -68,6 +68,7 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Ürünün fiyatını {0} altın karşılığında d
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Ürün NosPazar''a eklendi.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Ürün fiyatı değiştirildi.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Pazarı kullanırken canavarlar tarafından saldırılabileceğini unutma!
+BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
 BLACKLIST_INFO_ADDED: '{0} kara listeye eklendi.'
 BLACKLIST_INFO_BLOCKED: Bu karakter seni engellemiş.
 BLACKLIST_INFO_BLOCKING: Bu karakteri engelledin.
@@ -198,6 +199,7 @@ GAMBLING_MESSAGE_FAILED: Şans oyunu başarısız, teçhizat yok edildi.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Şans oyunu başarısız oldu ama teçhizat yok olmaktan kurtarıldı.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazsın.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
 GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: '{0} etkinliğine katılmak istiyor musun?'
@@ -525,6 +527,7 @@ PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner Miniland'e geri döndü.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partnerin üç dakika sonra yeniden canlanacak.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
+PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Saldırı
 PERFECTSP_DEFENSE: Savunma
 PERFECTSP_ELEMENT: Element
@@ -552,9 +555,12 @@ PET_MESSAGE_KICKED: Evcil hayvanını Miniland'e gönderdin.
 PET_MESSAGE_SUMMONABLE: Artık evcil hayvanını dilediğinde yanına çağırabilirsin.
 PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
 PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_CANNOT_EVOLVE: This pet cannot evolve.
 PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
 PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
+PET_SHOUTMESSAGE_EVOLUTION_FAILED: Pet evolution failed.
+PET_SHOUTMESSAGE_EVOLUTION_SUCCESS: Pet evolution succeeded.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Evcil hayvanının seviyesi seninkinden yüksek!
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} seviye atladı!'
 PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
@@ -868,6 +874,7 @@ VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: You can't join this map, you are under fight/change map cooldown.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Boşanmak ister misin?
 WEDDING_DIALOG_REQUEST_RECEIVED: '{0} sana aşkını ilan ediyor!!! Evlenmeyi kabul ediyor musun?'

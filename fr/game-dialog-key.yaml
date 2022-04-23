@@ -68,6 +68,7 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Changer le prix de l'objet coûtera {0} pièces d'o
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Objet ajouté au NosBazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prix de l'objet changé avec succès.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attention, tu peux être attaqué par les monstres en utilisant le NosBazar !
+BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
 BLACKLIST_INFO_ADDED: '{0} ajouté à la liste noire.'
 BLACKLIST_INFO_BLOCKED: Ce joueur t'a bloqué.
 BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
@@ -198,6 +199,7 @@ GAMBLING_MESSAGE_FAILED: Pari échoué ! L'objet a été détruit.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Pari échoué, mais l'objet a été sauvé de la destruction.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Tu ne peux pas parier un objet héroïque.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
 GAMBLING_MESSAGE_SUCCESS: 'Pari réussi ! Niveau de rareté : {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: 'Es-tu sûr de vouloir participer à : {0} ?'
@@ -525,6 +527,7 @@ PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Ton partenaire a été renvoyé au m
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Ton partenaire réapparaîtra dans 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Pas assez de place dans l'inventaire du partenaire !
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
+PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Attaque
 PERFECTSP_DEFENSE: Défense
 PERFECTSP_ELEMENT: Élement
@@ -552,9 +555,12 @@ PET_MESSAGE_KICKED: Ton familier a été renvoyé au mini-pays.
 PET_MESSAGE_SUMMONABLE: Tu peux désormais invoquer ton familier.
 PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
 PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased! +{0} -> +{1}
+PET_SHOUTMESSAGE_CANNOT_EVOLVE: This pet cannot evolve.
 PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
 PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased! +{0} -> +{1}
 PET_SHOUTMESSAGE_DIGNITY_LOW: You cannot bring any NosMates because your dignity is too low.
+PET_SHOUTMESSAGE_EVOLUTION_FAILED: Pet evolution failed.
+PET_SHOUTMESSAGE_EVOLUTION_SUCCESS: Pet evolution succeeded.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: Le niveau de ton familier est supérieur au tien !
 PET_SHOUTMESSAGE_LEVEL_UP: '{0} a monté de niveau !'
 PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: Your NosMate already has the maximum level of this upgrade!
@@ -868,6 +874,7 @@ VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: You can't join this map, you are under fight/change map cooldown.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Veux-tu divorcer?
 WEDDING_DIALOG_REQUEST_RECEIVED: "{0} te demande en mariage. Souhaites-tu t'engager en acceptant ?"
