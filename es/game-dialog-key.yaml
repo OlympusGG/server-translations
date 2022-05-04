@@ -68,6 +68,7 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: El precio del objeto ha cambiado.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: ¡Cuidado! Te pueden atacar monstruos mientras usas el Bazar.
+BELIAL_QNA_ENTER: Do you want to enter Belial's lair ?
 BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
 BLACKLIST_INFO_ADDED: ¡Jugador agregado a la lista negra!
 BLACKLIST_INFO_BLOCKED: ¡Este jugador te ha bloqueado!
@@ -259,6 +260,7 @@ ICEBREAKER_SHOUTMESSAGE_STARTED: ¡El PvP ha sido activado!
 ICEBREAKER_SHOUTMESSAGE_WIN: ¡Tu equipo ha ganado el Ice Breaker!
 INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: ¡No puedes usar eso en este momento!
+INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Your level is not high enough to travel over there.
 INFORMATION_CHATMESSAGE_NO_WINGS: ¡No tienes Alas de Amistad!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: ¡No tienes suficiente MP!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: ¡No tienes suficientes puntos de reputación!
@@ -502,6 +504,9 @@ OPTIONS_SHOUTMESSAGE_UPGRADE_BLOCK_ENABLED: Safe Upgrade Enabled!
 OPTIONS_SHOUTMESSAGE_WHISPER_DISABLED: Susurros desactivados
 OPTIONS_SHOUTMESSAGE_WHISPER_ENABLED: Susurros activados
 ORNAMENT_UNLOCKED: Ornament unlocked.
+PAIMON_RAID_SAY_CANT_USE_RIFT: Err... I can't do that...
+PAIMON_RAID_SHOUTMESSAGE_RIFT_CLOSED: The rift in the sky has been sealed. The monster invasion has been kept at bay for a short time.
+PAIMON_RAID_SHOUTMESSAGE_RIFT_OPENED: The rift in the sky has been reopened. The monster invasion is continuing.
 PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: This item cannot be put in partner backpack.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: '¡Tienes un nuevo compañero: {0}!'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: ¡Tu compañero está lleno!
