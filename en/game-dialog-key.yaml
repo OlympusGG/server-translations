@@ -803,6 +803,8 @@ TATTOO_ADDED: Tattoo added!
 TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
 TATTOO_UPGRADE_FAIL: Tattoo upgrade failed...
 TATTOO_UPGRADE_SUCCESS: Tattoo upgrade succeeded!
+TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo upgrade failed but was protected from downgrade.
+TATTOO_SWITCH: You have successfully switched tattoo!
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: The Time-Space is in easy mode - the duration has been extended and you will not receive selected rewards.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked!
