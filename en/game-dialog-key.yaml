@@ -66,6 +66,7 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
 BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds the limit.
 BAZAAR_INFO_RESYNC: Item price change failed. Try again.
+BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed successfully.
