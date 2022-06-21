@@ -73,24 +73,27 @@ BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed successfully.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
 BELIAL_QNA_ENTER: Do you want to enter the Celestial Spire ?
 BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
-BID_INFO_AUCTION_ALREADY_ENDED: '#BID_INFO_AUCTION_ALREADY_ENDED'
-BID_INFO_AUCTION_BID_TOO_LOW: '#BID_INFO_AUCTION_BID_TOO_LOW'
-BID_INFO_AUCTIONLIST_SUCCESS: '#BID_INFO_AUCTIONLIST_SUCCESS'
-BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: '#BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS'
+BID_DIALOG_AUCTIONLIST_FEE_WARNING: 'Putting this item up for auction will cost {0} gold. Do you want to continue?'
+BID_INFO_AUCTION_ALREADY_ENDED: 'This auction has already ended'
+BID_INFO_AUCTION_BID_TOO_LOW: 'Your bid is too low, try a higher amount'
+BID_INFO_AUCTIONLIST_SUCCESS: 'The item has been put up for auction!'
+BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: "You can't put this item up for auction, you are already auctioning too many items!"
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
-BID_INFO_DETAIL_TOO_MANY_WINDOWS: '#BID_INFO_DETAIL_TOO_MANY_WINDOWS'
-BID_INFO_NOT_ENOUGH_BANK_GOLD: '#BID_INFO_NOT_ENOUGH_BANK_GOLD'
-BID_INFO_SERVICE_MAINTENANCE: '#BID_INFO_SERVICE_MAINTENANCE'
-BID_INFO_SERVICE_UNAVAILABLE: '#BID_INFO_SERVICE_UNAVAILABLE'
-BID_INFO_UNEXPECTED_ERROR: '#BID_INFO_UNEXPECTED_ERROR'
-BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '#BID_INFO_WITHDREW_GOLD_SUCCESSFULLY'
-BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: '#BID_INFO_WITHDREW_ITEM_SUCCESSFULLY'
-BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: '#BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION'
-BID_NOTIFMESSAGE_BOUGHT_ITEM: '#BID_NOTIFMESSAGE_BOUGHT_ITEM'
-BID_NOTIFMESSAGE_EXPIRED_ITEM: '#BID_NOTIFMESSAGE_EXPIRED_ITEM'
-BID_NOTIFMESSAGE_OVERBID: '#BID_NOTIFMESSAGE_OVERBID'
-BID_NOTIFMESSAGE_SOLD_ITEM: '#BID_NOTIFMESSAGE_SOLD_ITEM'
-BID_NOTIFMESSAGE_TITLE: '#BID_NOTIFMESSAGE_TITLE'
+BID_INFO_DETAIL_TOO_MANY_WINDOWS: 'You are trying to open too many detailed windows at once, please close some of them'
+BID_INFO_ITEM_NOT_ALLOWED: "This item can't be auctioned"
+BID_INFO_NOT_ENOUGH_BANK_GOLD: "You don't have enough gold in the bank to bid"
+BID_INFO_SERVICE_MAINTENANCE: 'The Auctioning System is currently undergoing maintenance, try again later!'
+BID_INFO_SERVICE_UNAVAILABLE: 'The Auctioning System is unavailable, try again later!'
+BID_INFO_UNEXPECTED_ERROR: 'The Auctioning System has ran into an unexpected error while trying to perform your request'
+BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item!'
+BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: 'The auctioned item has been retrieved successfully!'
+BID_MODAL_DISCLAIMER: "Before using the Bidding System, please make sure to read and understand this disclaimer.\nTo ensure a fair and responsive Bid System for our players, you will not be able to:\n\t- Remove an Auctioned Item before its end date if someone has already Bid.\n\t- Back-down from a Bid done to an Auctioned Item.\n\nThe button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.\n\nThe button to put an item in auction will ask you for confirmation before proceeding. This is done to ensure a player's decision.\n\nHappy Bidding!"
+BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: 'Open auction'
+BID_NOTIFMESSAGE_BOUGHT_ITEM: 'The auction has been won!'
+BID_NOTIFMESSAGE_EXPIRED_ITEM: 'The auction has ended without any bidder'
+BID_NOTIFMESSAGE_OVERBID: 'You have been outbidded!'
+BID_NOTIFMESSAGE_SOLD_ITEM: 'The auction has ended with a bidder!'
+BID_NOTIFMESSAGE_TITLE: 'Auctioning System'
 BLACKLIST_INFO_ADDED: Player {0} added to blacklist!
 BLACKLIST_INFO_BLOCKED: You have been blocked.
 BLACKLIST_INFO_BLOCKING: This player is on your blacklist.
