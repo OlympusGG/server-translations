@@ -77,17 +77,17 @@ BID_DIALOG_AUCTIONLIST_FEE_WARNING: 'Putting this item up for auction will cost 
 BID_INFO_AUCTION_ALREADY_ENDED: 'This auction has already ended'
 BID_INFO_AUCTION_BID_TOO_LOW: 'Your bid is too low, try a higher amount'
 BID_INFO_AUCTIONLIST_SUCCESS: 'The item has been put up for auction!'
-BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: 'You can't put this item up for auction, you are already auctioning too many items!'
+BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: "You can't put this item up for auction, you are already auctioning too many items!"
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: 'You are trying to open too many detailed windows at once, please close some of them'
-BID_INFO_ITEM_NOT_ALLOWED: 'This item can't be auctioned'
-BID_INFO_NOT_ENOUGH_BANK_GOLD: 'You don't have enough gold in the bank to bid'
+BID_INFO_ITEM_NOT_ALLOWED: "This item can't be auctioned"
+BID_INFO_NOT_ENOUGH_BANK_GOLD: "You don't have enough gold in the bank to bid"
 BID_INFO_SERVICE_MAINTENANCE: 'The Auctioning System is currently undergoing maintenance, try again later!'
 BID_INFO_SERVICE_UNAVAILABLE: 'The Auctioning System is unavailable, try again later!'
 BID_INFO_UNEXPECTED_ERROR: 'The Auctioning System has ran into an unexpected error while trying to perform your request'
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item!'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: 'The auctioned item has been retrieved successfully!'
-BID_MODAL_DISCLAIMER: 'Before using the Bidding System, please make sure to read and understand this disclaimer.\nTo ensure a fair and responsive Bid System for our players, you will not be able to:\t- Remove an Auctioned Item before its end date if someone has already Bid.\t- Back-down from a Bid done to an Auctioned Item.\n\nThe button used for bidding will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.\n\nThe button used for auctioning an item will ask you for confirmation before proceeding. This is done to ensure a player's decision.\n\nHappy Bidding!'
+BID_MODAL_DISCLAIMER: "Before using the Bidding System, please make sure to read and understand this disclaimer.\nTo ensure a fair and responsive Bid System for our players, you will not be able to:\t- Remove an Auctioned Item before its end date if someone has already Bid.\t- Back-down from a Bid done to an Auctioned Item.\n\nThe button used for bidding will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.\n\nThe button used for auctioning an item will ask you for confirmation before proceeding. This is done to ensure a player's decision.\n\nHappy Bidding!"
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: 'Open auction'
 BID_NOTIFMESSAGE_BOUGHT_ITEM: 'The auction has been won!'
 BID_NOTIFMESSAGE_EXPIRED_ITEM: 'The auction has ended without any bidder'
