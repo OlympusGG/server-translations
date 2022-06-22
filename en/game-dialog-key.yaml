@@ -557,6 +557,7 @@ PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
+PARTNER_SAY_IS_NOT_FOLLOWING: Partner must be following you.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
