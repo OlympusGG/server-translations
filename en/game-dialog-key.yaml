@@ -60,41 +60,54 @@ BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - added to NosBazaar.'
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
+BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
 BAZAAR_INFO_ITEM_CHANGED: Purchase invalid, item sold or price changed.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazaar is under maintenance.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximum listed items limit reached.
 BAZAAR_INFO_NEEDS_MEDAL: You don't have NosMerchant Medal.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Item price exceeds the limit.
 BAZAAR_INFO_RESYNC: Item price change failed. Try again.
-BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
 BAZAAR_QNA_CHANGE_PRICE_FEE: Do you want to change the item price? It will cost {0} gold.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Item added to NosBaazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Item price changed successfully.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Warning, you can be attacked by monsters when you use the Bazaar!
 BELIAL_QNA_ENTER: Do you want to enter the Celestial Spire ?
 BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
-BID_DIALOG_AUCTIONLIST_FEE_WARNING: 'Putting this item up for auction will cost {0} gold. Do you want to continue?'
-BID_INFO_AUCTION_ALREADY_ENDED: 'This auction has already ended'
-BID_INFO_AUCTION_BID_TOO_LOW: 'Your bid is too low, try a higher amount'
-BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH: 'The given "Min. bid increment" is higher than the "Instant price", please put a lower value'
-BID_INFO_AUCTIONLIST_SUCCESS: 'The item has been put up for auction!'
-BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: "You can't put this item up for auction, you are already auctioning too many items!"
+BID_DIALOG_AUCTIONLIST_FEE_WARNING: Putting this item up for auction will cost {0} gold. Do you want to continue?
+BID_INFO_AUCTION_ALREADY_ENDED: This auction has already ended
+BID_INFO_AUCTION_BID_TOO_LOW: Your bid is too low, try a higher amount
+BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH: The given "Min. bid increment" is higher than the "Instant price", please put a lower value
+BID_INFO_AUCTIONLIST_SUCCESS: The item has been put up for auction!
+BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, you are already auctioning too many items!
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
-BID_INFO_DETAIL_TOO_MANY_WINDOWS: 'You are trying to open too many detailed windows at once, please close some of them'
-BID_INFO_ITEM_NOT_ALLOWED: "This item can't be auctioned"
-BID_INFO_NOT_ENOUGH_BANK_GOLD: "You don't have enough gold in the bank to bid"
-BID_INFO_SERVICE_MAINTENANCE: 'The Auctioning System is currently undergoing maintenance, try again later!'
-BID_INFO_SERVICE_UNAVAILABLE: 'The Auctioning System is unavailable, try again later!'
-BID_INFO_UNEXPECTED_ERROR: 'The Auctioning System has ran into an unexpected error while trying to perform your request'
+BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
+BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
+BID_INFO_NOT_ENOUGH_BANK_GOLD: You don't have enough gold in the bank to bid
+BID_INFO_SERVICE_MAINTENANCE: The Auctioning System is currently undergoing maintenance, try again later!
+BID_INFO_SERVICE_UNAVAILABLE: The Auctioning System is unavailable, try again later!
+BID_INFO_UNEXPECTED_ERROR: The Auctioning System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account!'
-BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: 'The auctioned item has been retrieved successfully!'
-BID_MODAL_DISCLAIMER: "Before using the Bidding System, please make sure to read and understand this disclaimer.\nTo ensure a fair and responsive Bid System for our players, you will not be able to:\n\t- Remove an Auctioned Item before its end date if someone has already Bid.\n\t- Back-down from a Bid done to an Auctioned Item.\n\nThe button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.\n\nThe button to put an item in auction will ask you for confirmation before proceeding. This is done to ensure a player's decision.\n\nHappy Bidding!"
-BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: 'Open auction'
-BID_NOTIFMESSAGE_BOUGHT_ITEM: 'The auction has been won!'
-BID_NOTIFMESSAGE_EXPIRED_ITEM: 'The auction has ended without any bidder'
-BID_NOTIFMESSAGE_OVERBID: 'You have been outbidded!'
-BID_NOTIFMESSAGE_SOLD_ITEM: 'The auction has ended with a bidder!'
-BID_NOTIFMESSAGE_TITLE: 'Auctioning System'
+BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully!
+BID_MODAL_DISCLAIMER: >-
+  Before using the Bidding System, please make sure to read and understand this disclaimer.
+
+  To ensure a fair and responsive Bid System for our players, you will not be able to:
+  	- Remove an Auctioned Item before its end date if someone has already Bid.
+  	- Back-down from a Bid done to an Auctioned Item.
+
+  The button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
+
+
+  The button to put an item in auction will ask you for confirmation before proceeding. This is done to ensure a player's decision.
+
+
+  Happy Bidding!
+BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Open auction
+BID_NOTIFMESSAGE_BOUGHT_ITEM: The auction has been won!
+BID_NOTIFMESSAGE_EXPIRED_ITEM: The auction has ended without any bidder
+BID_NOTIFMESSAGE_OVERBID: You have been outbidded!
+BID_NOTIFMESSAGE_SOLD_ITEM: The auction has ended with a bidder!
+BID_NOTIFMESSAGE_TITLE: Auctioning System
 BLACKLIST_INFO_ADDED: Player {0} added to blacklist!
 BLACKLIST_INFO_BLOCKED: You have been blocked.
 BLACKLIST_INFO_BLOCKING: This player is on your blacklist.
@@ -103,6 +116,10 @@ BUFF_CHATMESSAGE_EFFECT_RESISTANCE: No effect because of immunity.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: You have lost the {0} effect.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Side effects of {0} have started.
 BUFF_CHATMESSAGE_UNDER_EFFECT: You are under the effect of {0}
+CELESTIAL_TOWER_DAILY_REFRESH: '#CELESTIAL_TOWER_DAILY_REFRESH'
+CELESTIAL_TOWER_MONTHLY_REFRESH: '#CELESTIAL_TOWER_MONTHLY_REFRESH'
+CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: '#CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED'
+CELESTIAL_TOWER_SHOUTMESSAGE_START: '#CELESTIAL_TOWER_SHOUTMESSAGE_START'
 CELLON_SHOUTMESSAGE_FAIL: The Cellon has disappeared because you failed to add options.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: The Cellon level too high for this accessory.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: The accessory slots are already full!
@@ -203,6 +220,23 @@ FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '#FISHING_MSG_ENCYCLOPAEDIA_COMPLETED'
+FISHING_MSG_ONLY_ON_FISHING: '#FISHING_MSG_ONLY_ON_FISHING'
+FISHING_MSG_REGION_COMPLETED: '#FISHING_MSG_REGION_COMPLETED'
+FISHING_SAY_ALREADY: '#FISHING_SAY_ALREADY'
+FISHING_SAY_CANNOT_USED_HERE: '#FISHING_SAY_CANNOT_USED_HERE'
+FISHING_SAY_CANT_FISH_HERE: '#FISHING_SAY_CANT_FISH_HERE'
+FISHING_SAY_CATCH_NOTHING: '#FISHING_SAY_CATCH_NOTHING'
+FISHING_SAY_FIRST_FISH: '#FISHING_SAY_FIRST_FISH'
+FISHING_SAY_FISH_ATE_BAIT: '#FISHING_SAY_FISH_ATE_BAIT'
+FISHING_SAY_LINE_BROKE: '#FISHING_SAY_LINE_BROKE'
+FISHING_SAY_LOW_JOB_LEVEL: '#FISHING_SAY_LOW_JOB_LEVEL'
+FISHING_SAY_NO_BAIT: '#FISHING_SAY_NO_BAIT'
+FISHING_SAY_NO_LINE: '#FISHING_SAY_NO_LINE'
+FISHING_SAY_NOTHING_BIT: '#FISHING_SAY_NOTHING_BIT'
+FISHING_SAY_OVER_JOB_LEVEL: '#FISHING_SAY_OVER_JOB_LEVEL'
+FISHING_SAY_PERSONAL_RECORD: '#FISHING_SAY_PERSONAL_RECORD'
+FISHING_SAY_TIME_UP: '#FISHING_SAY_TIME_UP'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
@@ -486,6 +520,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Your level is too high to receive this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Your level is too low to receive this buff pack.
 NPC_SHOP_LOG_PURCHASE: You bought {1}x {0}.
+OPTIONS_FPS_UNLOCKED_DISABLED: 'FPS Unlock option has been disabled.'
+OPTIONS_FPS_UNLOCKED_ENABLED: 'FPS Unlock option has been enabled.'
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Blinking buffs disabled
@@ -549,7 +585,9 @@ PARTNER_MESSAGE_100_AGILITY: Your Partner has reached 100% agility.
 PARTNER_MESSAGE_ACTION_BLOCKED: You cannot reset the skill of a partner that is not in your team!
 PARTNER_MESSAGE_KICKED: Your Partner has returned to the Miniland.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Your partner is not wearing a Specialist Card.
+PARTNER_SAY_IS_NOT_FOLLOWING: Partner must be following you.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: You already have this partner.
+PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: '#PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET'
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Your Partner {0} has leveled up!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown - {0} sec.
@@ -557,7 +595,6 @@ PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse!
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
-PARTNER_SAY_IS_NOT_FOLLOWING: Partner must be following you.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Attack
 PERFECTSP_DEFENSE: Defense
@@ -743,6 +780,11 @@ RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed!
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} Gold.
 REVIVE_DIALOG_FREE: Do you want to revive? It will be free until level {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Do you want to revive? It will cost you {0} Seeds of Power
+RUNE_MSG_EQUIPMENT_IS_RUINED: '#RUNE_MSG_EQUIPMENT_IS_RUINED'
+RUNE_MSG_UPGRADE_FAILED: '#RUNE_MSG_UPGRADE_FAILED'
+RUNE_MSG_UPGRADE_RUINED: '#RUNE_MSG_UPGRADE_RUINED'
+RUNE_MSG_UPGRADE_SUCCESS: '#RUNE_MSG_UPGRADE_SUCCESS'
+RUNE_SHOUTMESSAGE_NEED_PERFUME: '#RUNE_SHOUTMESSAGE_NEED_PERFUME'
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to use perfume on the equipment first.
 SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
 SHELLS_DIALOG_REPLACE_OPTIONS: The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Proceed?
@@ -801,6 +843,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
+SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: 'You can not remove your Specialist in Talent Arena'
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
