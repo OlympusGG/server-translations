@@ -784,6 +784,12 @@ RUNE_MSG_EQUIPMENT_IS_RUINED: You can't upgrade a damaged weapon.
 RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
+RUNE_MSG_NOT_RUINED: Can only be used on damaged weapons.
+RUNE_MSG_REPAIRED: Repaired the damaged weapon.
+RUNE_MSG_MAX_UPGRADE: You can't carve any more runes as it is already at the highest level.
+RUNE_MSG_NO_RUNE: This weapon doesn't have any runes.
+RUNE_MSG_MATERIALS_PROTECTED: Rune upgrade failed, but none of the materials were consumed.
+RUNE_MSG_REMOVED: Rune removed.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to use perfume on the equipment first.
 SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
