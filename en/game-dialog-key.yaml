@@ -780,11 +780,11 @@ RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed!
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} Gold.
 REVIVE_DIALOG_FREE: Do you want to revive? It will be free until level {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Do you want to revive? It will cost you {0} Seeds of Power
-RUNE_MSG_EQUIPMENT_IS_RUINED: '#RUNE_MSG_EQUIPMENT_IS_RUINED'
-RUNE_MSG_UPGRADE_FAILED: '#RUNE_MSG_UPGRADE_FAILED'
-RUNE_MSG_UPGRADE_RUINED: '#RUNE_MSG_UPGRADE_RUINED'
-RUNE_MSG_UPGRADE_SUCCESS: '#RUNE_MSG_UPGRADE_SUCCESS'
-RUNE_SHOUTMESSAGE_NEED_PERFUME: '#RUNE_SHOUTMESSAGE_NEED_PERFUME'
+RUNE_MSG_EQUIPMENT_IS_RUINED: You can't upgrade a damaged weapon.
+RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
+RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
+RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
+RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to use perfume on the equipment first.
 SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
 SHELLS_DIALOG_REPLACE_OPTIONS: The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Proceed?
