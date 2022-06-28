@@ -60,7 +60,7 @@ BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: L'or en surplus a été envoyé sur ton compte.
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - ajouté(s) au NosBazar.'
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
-BAZAAR_INFO_ALREADY_USED_ITEM: '#BAZAAR_INFO_ALREADY_USED_ITEM'
+BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
 BAZAAR_INFO_ITEM_CHANGED: Achat annulé. L'objet a été vendu ou le prix a changé.
 BAZAAR_INFO_MAINTENANCE_MODE: Le NosBazar est en maintenance.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: La quantité maximale d'objets a été atteinte.
@@ -73,22 +73,35 @@ BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prix de l'objet changé avec succès.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: Attention, tu peux être attaqué par les monstres en utilisant le NosBazar !
 BELIAL_QNA_ENTER: Do you want to enter the Celestial Spire ?
 BETTING_DIALOG_ASK_CONFIRMATION: Do you want to proceed with betting?
-BID_DIALOG_AUCTIONLIST_FEE_WARNING: '#BID_DIALOG_AUCTIONLIST_FEE_WARNING'
+BID_DIALOG_AUCTIONLIST_FEE_WARNING: Putting this item up for auction will cost {0} gold. Do you want to continue?
 BID_INFO_AUCTION_ALREADY_ENDED: This auction has already ended
 BID_INFO_AUCTION_BID_TOO_LOW: Your bid is too low, try a higher amount
-BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH: '#BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH'
+BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH: The given "Min. bid increment" is higher than the "Instant price", please put a lower value
 BID_INFO_AUCTIONLIST_SUCCESS: The item has been put up for auction!
 BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, you are already auctioning too many items!
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
-BID_INFO_ITEM_NOT_ALLOWED: '#BID_INFO_ITEM_NOT_ALLOWED'
+BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
 BID_INFO_NOT_ENOUGH_BANK_GOLD: You don't have enough gold in the bank to bid
 BID_INFO_SERVICE_MAINTENANCE: The Auctioning System is currently undergoing maintenance, try again later!
 BID_INFO_SERVICE_UNAVAILABLE: The Auctioning System is unavailable, try again later!
 BID_INFO_UNEXPECTED_ERROR: The Auctioning System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account!'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully!
-BID_MODAL_DISCLAIMER: '#BID_MODAL_DISCLAIMER'
+BID_MODAL_DISCLAIMER: >-
+  Before using the Bidding System, please make sure to read and understand this disclaimer.
+
+  To ensure a fair and responsive Bid System for our players, you will not be able to:
+  	- Remove an Auctioned Item before its end date if someone has already Bid.
+  	- Back-down from a Bid done to an Auctioned Item.
+
+  The button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
+
+
+  The button to put an item in auction will ask you for confirmation before proceeding. This is done to ensure a player's decision.
+
+
+  Happy Bidding!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Open auction
 BID_NOTIFMESSAGE_BOUGHT_ITEM: The auction has been won!
 BID_NOTIFMESSAGE_EXPIRED_ITEM: The auction has ended without any bidder
@@ -507,8 +520,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Tu as atteint la limite journalière de ce
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Ton niveau est trop haut pour recevoir ce lot de buff.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Ton niveau est trop bas pour recevoir ce lot de buff.
 NPC_SHOP_LOG_PURCHASE: Tu as acheté {1}x {0}.
-OPTIONS_FPS_UNLOCKED_DISABLED: '#OPTIONS_FPS_UNLOCKED_DISABLED'
-OPTIONS_FPS_UNLOCKED_ENABLED: '#OPTIONS_FPS_UNLOCKED_ENABLED'
+OPTIONS_FPS_UNLOCKED_DISABLED: FPS Unlock option has been disabled.
+OPTIONS_FPS_UNLOCKED_ENABLED: FPS Unlock option has been enabled.
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Le décompte des buffs est désormais désactivé.
@@ -572,9 +585,9 @@ PARTNER_MESSAGE_100_AGILITY: Ton partenaire a atteint 100% de ses points d'agili
 PARTNER_MESSAGE_ACTION_BLOCKED: You cannot reset the skill of a partner that is not in your team!
 PARTNER_MESSAGE_KICKED: Ton partenaire a été renvoyé dans ton mini-pays.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Ton partenaire n'est pas équipé d'une carte de spécialiste.
-PARTNER_SAY_IS_NOT_FOLLOWING: '#PARTNER_SAY_IS_NOT_FOLLOWING'
+PARTNER_SAY_IS_NOT_FOLLOWING: Partner must be following you.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Tu possèdes déjà ce partenaire.
-PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: '#PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET'
+PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: You cannot take or send back your partner when it has skills in cooldown.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: '{0} est monté de niveau !'
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partenaire sauvé par la poupée ange gardienne.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste du partenaire : {0} secondes."
@@ -767,11 +780,17 @@ RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: La zone de résurrection a été changée 
 REVIVE_DIALOG_ARENA: Souhaites-tu réapparaître ? Ça te coûtera {0} pièces d'or.
 REVIVE_DIALOG_FREE: Souhaites-tu réapparaître ? C'est gratuit jusqu'au niveau {0}.
 REVIVE_DIALOG_SEEDS_OF_POWER: Souhaites-tu réapparaître ? Ça te coûtera {0} graines de pouvoir.
-RUNE_MSG_EQUIPMENT_IS_RUINED: '#RUNE_MSG_EQUIPMENT_IS_RUINED'
-RUNE_MSG_UPGRADE_FAILED: '#RUNE_MSG_UPGRADE_FAILED'
-RUNE_MSG_UPGRADE_RUINED: '#RUNE_MSG_UPGRADE_RUINED'
-RUNE_MSG_UPGRADE_SUCCESS: '#RUNE_MSG_UPGRADE_SUCCESS'
-RUNE_SHOUTMESSAGE_NEED_PERFUME: '#RUNE_SHOUTMESSAGE_NEED_PERFUME'
+RUNE_MSG_EQUIPMENT_IS_RUINED: You can't upgrade a damaged weapon.
+RUNE_MSG_MATERIALS_PROTECTED: Rune upgrade failed, but none of the materials were consumed.
+RUNE_MSG_MAX_UPGRADE: You can't carve any more runes as it is already at the highest level.
+RUNE_MSG_NO_RUNE: This weapon doesn't have any runes.
+RUNE_MSG_NOT_RUINED: Can only be used on damaged weapons.
+RUNE_MSG_REMOVED: Rune removed.
+RUNE_MSG_REPAIRED: Repaired the damaged weapon.
+RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
+RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
+RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
+RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Pour remplacer la rune, tu as d'abord besoin de parfumer l'équipement.
 SHELLS_DIALOG_ADD_OPTIONS: Es-tu sûr de vouloir ajouter une option à cet objet ? Il te sera lié.
 SHELLS_DIALOG_REPLACE_OPTIONS: Tu as 50% de chance d'écraser l'ancienne rune pour la nouvelle. Autrement, la nouvelle rune sera supprimée. Es-tu sûr de vouloir continuer ?
@@ -830,7 +849,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
-SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: '#SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA'
+SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Tu ne peux pas attaquer pour l'instant.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La spécialiste est en rechargement - {0} seconde(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Niveau de spécialiste augmenté !
