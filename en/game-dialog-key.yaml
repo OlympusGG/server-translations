@@ -369,7 +369,7 @@ INFORMATION_SHOUTMESSAGE_PARTNER_EQ_UNRELEASABLE: You can't release your Partner
 INFORMATION_SHOUTMESSAGE_PARTNER_IN_TEAM_UNRELEASABLE: You can't release your Partner if it's following you.
 INFORMATION_SHOUTMESSAGE_PARTNER_ITEM_DONE: The item has been changed into partner equipment.
 INFORMATION_SHOUTMESSAGE_PET_IN_TEAM_UNRELEASABLE: You can't release your NosMate if it's following you.
-INFORMATION_SHOUTMESSAGE_REMOVE_SP: If you want to learn a skill, you need to remove your Specialist card.
+INFORMATION_SHOUTMESSAGE_REMOVE_SP: You need to remove your Specialist card.
 INFORMATION_SHOUTMESSAGE_REMOVE_VEHICLE: Remove your vehicle before transforming.
 INFORMATION_SHOUTMESSAGE_SEX_CHANGED: Your gender has been changed!
 INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server will be shutdown in {0} sec.
