@@ -463,6 +463,7 @@ LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty C
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Máš nový balík.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Máš {0} mailů v doručené poště.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
+MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Údržba byla provedena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Údržba byla odložena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Změna času Údržby. Nový čas do Údržby: {0} hodin.'

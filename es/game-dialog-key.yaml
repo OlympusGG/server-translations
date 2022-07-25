@@ -463,6 +463,7 @@ LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty C
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Has recibido un paquete.
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} cartas en el buzón.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
+MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: El mantenimiento ha sido ejecutado.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: El mantenimiento ha concluido.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Cambio del mantenimiento programado. Nueva hora de inicio: {0}hr.'
