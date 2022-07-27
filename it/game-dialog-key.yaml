@@ -730,6 +730,9 @@ RAID_INFO_NO_EXIST: Il raid non esiste!
 RAID_INFO_NO_LIVES_LEFT: Hai consumato tutte le vite a disposizione!
 RAID_INFO_PLAYER_DEATH: Sei morto! Resusciterai tra 20 secondi.
 RAID_MESSAGE_DISOLVED: Il team del raid è stato sciolto.
+RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
+RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Your team successfuly beat {0} raid, check out your team stats
+RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Fai già parte di un team del raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Questo oggetto è stato già utilizzato.

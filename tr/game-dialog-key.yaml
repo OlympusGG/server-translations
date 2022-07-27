@@ -730,6 +730,9 @@ RAID_INFO_NO_EXIST: Akın bulunamadı.
 RAID_INFO_NO_LIVES_LEFT: Tüm canlarını kullandın.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye içerisinde yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Takım dağıtıldı.
+RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
+RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Your team successfuly beat {0} raid, check out your team stats
+RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten bir akın takımına üyesin.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Çoktan kullanılmış.

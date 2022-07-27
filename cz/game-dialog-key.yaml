@@ -730,6 +730,9 @@ RAID_INFO_NO_EXIST: Raid neexistuje!
 RAID_INFO_NO_LIVES_LEFT: Již jsi použil veškeré své životy.
 RAID_INFO_PLAYER_DEATH: Jsi mrtev, budeš oživen za 20 sekund..
 RAID_MESSAGE_DISOLVED: Raid tým byl rozpuštěn.
+RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
+RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Your team successfuly beat {0} raid, check out your team stats
+RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Již jsi v jiném týmu na raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt už byl přesunut.
