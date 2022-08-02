@@ -82,13 +82,13 @@ BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, 
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
 BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
+BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
 BID_INFO_NOT_ENOUGH_BANK_GOLD: You don't have enough gold in the bank to bid
 BID_INFO_SERVICE_MAINTENANCE: The Auctioning System is currently undergoing maintenance, try again later!
 BID_INFO_SERVICE_UNAVAILABLE: The Auctioning System is unavailable, try again later!
 BID_INFO_UNEXPECTED_ERROR: The Auctioning System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account!'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully!
-BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
 BID_MODAL_DISCLAIMER: >-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
 
@@ -733,7 +733,7 @@ RAID_INFO_PLAYER_DEATH: You are dead! You will be revived in 20 seconds.
 RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Check out your team stats for {0} raid
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Raid Report Ready'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Raid Report Ready
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
@@ -971,3 +971,5 @@ WEDDING_INFO_DIVORCED: The marriage was terminated.
 WEDDING_SHOUTMESSAGE_BROADCAST: Players {0} and {1} just got married!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal of {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
+WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
+WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings
