@@ -88,6 +88,7 @@ BID_INFO_SERVICE_UNAVAILABLE: The Auctioning System is unavailable, try again la
 BID_INFO_UNEXPECTED_ERROR: The Auctioning System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account!'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully!
+BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
 BID_MODAL_DISCLAIMER: >-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
 
