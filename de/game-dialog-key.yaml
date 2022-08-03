@@ -81,6 +81,7 @@ BID_INFO_AUCTIONLIST_SUCCESS: The item has been put up for auction!
 BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, you are already auctioning too many items!
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
+BID_INFO_INSTANT_PRICE_WARNING: 'WARNING: You are about to buy {0} for {1} gold.'
 BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
 BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
 BID_INFO_NOT_ENOUGH_BANK_GOLD: You don't have enough gold in the bank to bid
