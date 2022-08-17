@@ -461,10 +461,11 @@ LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
-MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un Pacco ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You need to wait {0} seconds to claim all parcels again.
+MAIL_INFO_TOO_MANY_MAILS: You got new mail(s) but your mailbox is full. It has been discarded, to recover it contact Support.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è iniziata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è finita.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}ore.'
