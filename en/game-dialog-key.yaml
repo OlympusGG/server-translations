@@ -462,7 +462,7 @@ LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
-MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel.
+MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mail(s) in your inbox.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
