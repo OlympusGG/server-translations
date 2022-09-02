@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_DEATH: '{1} was killed by a guardian of {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: demons
 ACT4_CHATMESSAGE_PVP_KILL: '{1} defeated a guardian of {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: You need a family to join the dungeon!
+ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entering the dungeon will cost you {0} reputation points. Do you want to enter?
 ACT4_DUNGEON_REVIVAL_DIALOG: Reviving here will cost you {0} reputation points. If you cancel, you will be teleported to the start of the dungeon. Do you wish to respawn here?
@@ -221,6 +222,7 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Player {0} has joined the family!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
+FERNON_NOTIFY_TITLE: Fernon
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '#FISHING_MSG_ENCYCLOPAEDIA_COMPLETED'
 FISHING_MSG_ONLY_ON_FISHING: '#FISHING_MSG_ONLY_ON_FISHING'
@@ -975,3 +977,8 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal o
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
 WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings
+FARMING_REPORT_NOTIFY_TITLE: Farming Report
+FARMING_REPORT_NOTIFY_DESC: Check your farming report!
+FARMING_REPORT_NOTIFY_ACTION_OPEN: Open the Report
+BAZAAR_NOTIFY_TITLE: Bazaar
+BAZAAR_NOTIFY_ACTION_OPEN: Open Bazaar
