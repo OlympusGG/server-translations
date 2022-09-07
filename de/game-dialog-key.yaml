@@ -16,6 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} wurde von einem Hüter der {0} getötet.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Es wird eine Familie benötigt, um das Verlies zu betreten!
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
+ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Verlies zu betreten wird dich {0} Rufpunkte kosten. Möchtest du eintreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Dich hier wiederzubeleben kostet {0} Rufpunkte. Wenn du abbrichst wirst du an den Verlieseingang' teleportiert. Möchtest du hier wiederbelebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
@@ -67,6 +68,8 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Maximale Anzahl an Gegenständen registriert.
 BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosHändler Medaille.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Der Preis des Gegenstands überschreitet den maximal zugelassenen Preis.
 BAZAAR_INFO_RESYNC: Preisänderung fehlgeschlagen. Bitte versuche es erneut.
+BAZAAR_NOTIFY_ACTION_OPEN: Open Bazaar
+BAZAAR_NOTIFY_TITLE: Bazaar
 BAZAAR_QNA_CHANGE_PRICE_FEE: Möchtest du den Preis des Gegenstands ändern? Es wird dich {0} Gold kosten.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand im NosBasar registriert
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Preis des Gegenstands geändert
@@ -83,6 +86,7 @@ BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
 BID_INFO_INSTANT_PRICE_WARNING: 'WARNING: You are about to buy {0} for {1} gold.'
 BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
+BID_INFO_MAX_DURATION_EXCEEDED_DURATION: '#BID_INFO_MAX_DURATION_EXCEEDED_DURATION'
 BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
 BID_INFO_NOT_ENOUGH_BANK_GOLD: You don't have enough gold in the bank to bid
 BID_INFO_SERVICE_MAINTENANCE: The Auctioning System is currently undergoing maintenance, try again later!
@@ -221,7 +225,11 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena betreten? Es wird dich {0} Gold kosten.
+FARMING_REPORT_NOTIFY_ACTION_OPEN: Open the Report
+FARMING_REPORT_NOTIFY_DESC: Check your farming report!
+FARMING_REPORT_NOTIFY_TITLE: Farming Report
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
+FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '#FISHING_MSG_ENCYCLOPAEDIA_COMPLETED'
 FISHING_MSG_ONLY_ON_FISHING: '#FISHING_MSG_ONLY_ON_FISHING'
 FISHING_MSG_REGION_COMPLETED: '#FISHING_MSG_REGION_COMPLETED'
@@ -465,8 +473,8 @@ LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty C
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast eine Sendung erhalten ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
-MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
 MAIL_INFO_TOO_MANY_MAILS: You got new mail(s) but your mailbox is full. It has been discarded, to recover it contact Support.
+MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Die Wartungsarbeiten wurden beendet.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Änderung der Zeit für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Stunden.'
@@ -524,8 +532,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: You reached daily limit of this buff pack.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch um dieses Buffpaket zu erhalten.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig um dieses Buffpaket zu erhalten.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
-OPTIONS_FPS_UNLOCKED_DISABLED: FPS Unlock option has been disabled.
-OPTIONS_FPS_UNLOCKED_ENABLED: FPS Unlock option has been enabled.
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED'
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED'
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Safe Gamble option disabled
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_ENABLED: Safe Gamble option enabled
 OPTIONS_SHOUTMESSAGE_BUFF_DISABLED: Buffeffekte deaktiviert
@@ -536,6 +544,8 @@ OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotes deaktiviert
 OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotes aktiviert
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Familienanfragen deaktiviert
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Familienanfragen aktiviert
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED'
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED'
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Freundschaftsanfragen deaktiviert
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Freundschaftsanfragen aktiviert
 OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Gruppenanfrage deaktiviert
@@ -640,6 +650,7 @@ PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: You need to select a pet to do that.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist in das Mini-Land zurückgekehrt.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten wiederbelebt.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate wurde durch NosMate Schutzengel wiederbelebt.
+PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: '#PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS'
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], Chance für den Preis: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] Du hast {0} als eine extra Belohnung erhalten!'
 POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
@@ -868,6 +879,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Die Seele deiner Spezialistenkarte wurde wi
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Du musst dich in deine Spezialistenkarte verwandeln, um dies zu tun!
 SUM_MESSAGE_FAILED: Summieren fehlgeschlagen.
 SUM_MESSAGE_SUCCESS: Summieren erfolgreich!
+SUMMER_EVENT_INFO_PIRATE_GAMBLE: '#SUMMER_EVENT_INFO_PIRATE_GAMBLE'
+SUMMER_EVENT_INFO_TEMPORARY_SP: '#SUMMER_EVENT_INFO_TEMPORARY_SP'
+SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: '#SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP'
+SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: '#SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE'
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
 TALENT_ARENA_CLOSED: Arena of Talent is closed.
 TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
