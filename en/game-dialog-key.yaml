@@ -879,10 +879,10 @@ SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrec
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: You need to be transformed into a Specialist to do this!
 SUM_MESSAGE_FAILED: Combination failed.
 SUM_MESSAGE_SUCCESS: Combination successful!
-SUMMER_EVENT_INFO_PIRATE_GAMBLE: '#SUMMER_EVENT_INFO_PIRATE_GAMBLE'
-SUMMER_EVENT_INFO_TEMPORARY_SP: '#SUMMER_EVENT_INFO_TEMPORARY_SP'
-SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: '#SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP'
-SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: '#SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE'
+SUMMER_EVENT_INFO_PIRATE_GAMBLE: Do you want to trade a pirate sp fragment for a chance to receive the Pirate Specialist ?
+SUMMER_EVENT_INFO_TEMPORARY_SP: Do you want to receive a temporary pirate sp ? This item will disappear after the event.
+SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: You have already received this item.
+SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Player {0} received {1} from Jack Panon!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}
 TALENT_ARENA_CLOSED: Arena of Talent is closed.
 TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
