@@ -897,6 +897,7 @@ TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} sec
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
 TATTOO_ADDED: Tattoo added!
+TATTOO_SHOUT_MESSAGE_CANT_SWAP: You will be able to switch tattoo set in {0} seconds.
 TATTOO_SWITCH: You have successfully switched tattoo!
 TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
 TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo upgrade failed but was protected from downgrade.

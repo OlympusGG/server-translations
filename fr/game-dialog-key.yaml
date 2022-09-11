@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: démons
 ACT4_CHATMESSAGE_PVP_KILL: '{1} a vaincu un gardien des {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Tu as besoin d'une famille pour entrer dans le donjon !
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
-ACT4_DUNGEON_NOTIFY_TITLE: '#ACT4_DUNGEON_NOTIFY_TITLE'
+ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrer dans le donjon te coûtera {0} points de réputation. Continuer ?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivre ici te coûtera {0} points de réputation. Si tu annules, tu seras téléporté à l'entrée du donjon. Continuer ?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La salle du boss a été scellée.
@@ -68,8 +68,8 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: La quantité maximale d'objets a été attein
 BAZAAR_INFO_NEEDS_MEDAL: Tu n'as pas de médaille NosMarchand.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Le prix de l'objet dépasse la limite.
 BAZAAR_INFO_RESYNC: Changement échoué. Essaye encore.
-BAZAAR_NOTIFY_ACTION_OPEN: '#BAZAAR_NOTIFY_ACTION_OPEN'
-BAZAAR_NOTIFY_TITLE: '#BAZAAR_NOTIFY_TITLE'
+BAZAAR_NOTIFY_ACTION_OPEN: Open Bazaar
+BAZAAR_NOTIFY_TITLE: Bazaar
 BAZAAR_QNA_CHANGE_PRICE_FEE: Changer le prix de l'objet coûtera {0} pièces d'or. Continuer ?
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Objet ajouté au NosBazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Prix de l'objet changé avec succès.
@@ -84,7 +84,7 @@ BID_INFO_AUCTIONLIST_SUCCESS: The item has been put up for auction!
 BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, you are already auctioning too many items!
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
-BID_INFO_INSTANT_PRICE_WARNING: '#BID_INFO_INSTANT_PRICE_WARNING'
+BID_INFO_INSTANT_PRICE_WARNING: 'WARNING: You are about to buy {0} for {1} gold.'
 BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
 BID_INFO_MAX_DURATION_EXCEEDED_DURATION: '#BID_INFO_MAX_DURATION_EXCEEDED_DURATION'
 BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
@@ -225,11 +225,11 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} a rejoint la famille !'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène de famille? Ça te coûtera{0} pièces d'or.
-FARMING_REPORT_NOTIFY_ACTION_OPEN: '#FARMING_REPORT_NOTIFY_ACTION_OPEN'
-FARMING_REPORT_NOTIFY_DESC: '#FARMING_REPORT_NOTIFY_DESC'
-FARMING_REPORT_NOTIFY_TITLE: '#FARMING_REPORT_NOTIFY_TITLE'
+FARMING_REPORT_NOTIFY_ACTION_OPEN: Open the Report
+FARMING_REPORT_NOTIFY_DESC: Check your farming report!
+FARMING_REPORT_NOTIFY_TITLE: Farming Report
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
-FERNON_NOTIFY_TITLE: '#FERNON_NOTIFY_TITLE'
+FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '#FISHING_MSG_ENCYCLOPAEDIA_COMPLETED'
 FISHING_MSG_ONLY_ON_FISHING: '#FISHING_MSG_ONLY_ON_FISHING'
 FISHING_MSG_REGION_COMPLETED: '#FISHING_MSG_REGION_COMPLETED'
@@ -337,8 +337,8 @@ INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Ton niveau est trop faible !
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Cet objet n'est pas à toi !
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: La médaille NosMarchand est active.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste du partenaire : {0} secondes."
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: "Vous avez perdu {0} points de réputation !"
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: "Vous avez gagné {0} points de réputation !"
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: Vous avez perdu {0} points de réputation !
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: Vous avez gagné {0} points de réputation !
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: '{1}x {0} utilisé(s)'
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Le parchemin de protection a été utilisé !
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: "Temps restant avant de pouvoir s'équiper à nouveau de la carte spécialiste : {0} secondes."
@@ -897,6 +897,7 @@ TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} sec
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
 TATTOO_ADDED: Tattoo added!
+TATTOO_SHOUT_MESSAGE_CANT_SWAP: You will be able to switch tattoo set in {0} seconds.
 TATTOO_SWITCH: You have successfully switched tattoo!
 TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
 TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo upgrade failed but was protected from downgrade.
@@ -988,5 +989,5 @@ WEDDING_INFO_DIVORCED: Le divorce a été prononcé.
 WEDDING_SHOUTMESSAGE_BROADCAST: Par les liens sacrés du mariage, {0} et {1}, je vous déclare mariés !
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
-WINGS_SWAPPER_DELAY_SWAPPING: '#WINGS_SWAPPER_DELAY_SWAPPING'
-WINGS_SWAPPER_LAST_SKILL_SWAPPING: '#WINGS_SWAPPER_LAST_SKILL_SWAPPING'
+WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
+WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings

@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: Demonios
 ACT4_CHATMESSAGE_PVP_KILL: '{1} derrotó a un guardián de los {0}.'
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: ¡Necesitas una familia para entrar al calabozo!
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
-ACT4_DUNGEON_NOTIFY_TITLE: '#ACT4_DUNGEON_NOTIFY_TITLE'
+ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Entrar al calabozo te costará {0} puntos de reputación. ¿Deseas entrar?
 ACT4_DUNGEON_REVIVAL_DIALOG: Revivir aquí te costará {0} puntos de reputación. Si cancelas, serás teletransportado al inicio de la mazmorra. ¿Deseas revivir?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La sala del jefe se ha cerrado.
@@ -68,8 +68,8 @@ BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Se ha alcanzado el máximo número de objetos
 BAZAAR_INFO_NEEDS_MEDAL: Necesitas el Medallón de NosComerciante para realizar esta acción.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: El precio del objeto sobrepasa el límite.
 BAZAAR_INFO_RESYNC: El cambio de precio del objeto falló. Intentalo de nuevo.
-BAZAAR_NOTIFY_ACTION_OPEN: '#BAZAAR_NOTIFY_ACTION_OPEN'
-BAZAAR_NOTIFY_TITLE: '#BAZAAR_NOTIFY_TITLE'
+BAZAAR_NOTIFY_ACTION_OPEN: Open Bazaar
+BAZAAR_NOTIFY_TITLE: Bazaar
 BAZAAR_QNA_CHANGE_PRICE_FEE: ¿Quieres cambiar el precio del objeto? Te costará {0} de oro.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: El objeto se ha puesto a la venta en el NosBazar.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: El precio del objeto ha cambiado.
@@ -84,7 +84,7 @@ BID_INFO_AUCTIONLIST_SUCCESS: The item has been put up for auction!
 BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: You can't put this item up for auction, you are already auctioning too many items!
 BID_INFO_CANT_BID_OWN_AUCTION: '#BID_INFO_CANT_BID_OWN_AUCTION'
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: You are trying to open too many detailed windows at once, please close some of them
-BID_INFO_INSTANT_PRICE_WARNING: '#BID_INFO_INSTANT_PRICE_WARNING'
+BID_INFO_INSTANT_PRICE_WARNING: 'WARNING: You are about to buy {0} for {1} gold.'
 BID_INFO_ITEM_NOT_ALLOWED: This item can't be auctioned
 BID_INFO_MAX_DURATION_EXCEEDED_DURATION: '#BID_INFO_MAX_DURATION_EXCEEDED_DURATION'
 BID_INFO_NO_SPEAKER: You don't have any speaker in your inventory
@@ -225,11 +225,11 @@ FAMILY_SHOUTMESSAGE_MEMBER_JOINED: ¡El jugador {0} se ha unido a la familia!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} left your family.'
 FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0} de oro.
-FARMING_REPORT_NOTIFY_ACTION_OPEN: '#FARMING_REPORT_NOTIFY_ACTION_OPEN'
-FARMING_REPORT_NOTIFY_DESC: '#FARMING_REPORT_NOTIFY_DESC'
-FARMING_REPORT_NOTIFY_TITLE: '#FARMING_REPORT_NOTIFY_TITLE'
+FARMING_REPORT_NOTIFY_ACTION_OPEN: Open the Report
+FARMING_REPORT_NOTIFY_DESC: Check your farming report!
+FARMING_REPORT_NOTIFY_TITLE: Farming Report
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started!
-FERNON_NOTIFY_TITLE: '#FERNON_NOTIFY_TITLE'
+FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: '#FISHING_MSG_ENCYCLOPAEDIA_COMPLETED'
 FISHING_MSG_ONLY_ON_FISHING: '#FISHING_MSG_ONLY_ON_FISHING'
 FISHING_MSG_REGION_COMPLETED: '#FISHING_MSG_REGION_COMPLETED'
@@ -897,6 +897,7 @@ TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} sec
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
 TATTOO_ADDED: Tattoo added!
+TATTOO_SHOUT_MESSAGE_CANT_SWAP: You will be able to switch tattoo set in {0} seconds.
 TATTOO_SWITCH: You have successfully switched tattoo!
 TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
 TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo upgrade failed but was protected from downgrade.
@@ -988,5 +989,5 @@ WEDDING_INFO_DIVORCED: El matrimonio ha terminado.
 WEDDING_SHOUTMESSAGE_BROADCAST: ¡Los jugadores {0} y {1} se han casado!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrimonio de {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
-WINGS_SWAPPER_DELAY_SWAPPING: '#WINGS_SWAPPER_DELAY_SWAPPING'
-WINGS_SWAPPER_LAST_SKILL_SWAPPING: '#WINGS_SWAPPER_LAST_SKILL_SWAPPING'
+WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
+WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings
