@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} sacrifices for {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: You need to wait until all cooldowns finish!
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Speaker
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.

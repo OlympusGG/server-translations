@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} si sacrifica per {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Effetto del sacrificio rimosso, perché il giocatore è fuori dal raggio d'azione.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: L'effetto del sacrifico potrebbe essere rimosso, perché il giocatore è troppo lontano.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Devi attendere la fine della ricarica delle abilità!
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Altoparlante
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: In questo momento non puoi cambiare la Carta dello Specialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Il tempo di attesa della trasformazione in Specialista è terminato.

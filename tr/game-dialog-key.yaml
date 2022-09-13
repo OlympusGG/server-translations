@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} kendini {1} için feda ediyor.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Feda etkisi kayboldu çünkü hedef menzil dışında.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Feda etkisi kaybolabilir çünkü hedef menzil dışına çıkıyor.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tüm yeteneklerin dolmasını beklemelisin!
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Hoparlör
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Henüz Uzmanlık Kartını kuşanamazsın.
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Uzmanlık Kartı artık kuşanılabilir.

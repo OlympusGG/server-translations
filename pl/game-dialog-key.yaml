@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} poświęca się dla {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Efekt poświęcenia został usunięty, ponieważ wybrany gracz znajduje się poza jego zasięgiem.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Efekt poświęcenia już prawie znikł, ponieważ odległość do wybranego gracza jest zbyt duża.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Głośnik
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Czas odnowienia Karty Specjalisty zniknął.

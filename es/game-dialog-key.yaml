@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se sacrifica por {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: El efecto de Sacrifio ha sido eliminado porque el jugador está fuera de rango.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: El efecto de Sacricio se va a eliminar, porque el jugador está muy lejos.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: ¡Tienes que esperar a que finalicen los enfriamientos!
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: ¡No puedes cambiar tu Tarjeta de Especialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Enfriamiento de la transformación de la Tarjeta de Especialista finalizado.

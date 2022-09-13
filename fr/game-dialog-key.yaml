@@ -858,6 +858,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se sacrifie pour {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: L'effet du sacrifice a prit fin car le joueur est hors de portée.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: L'effet du sacrifice va prendre fin, rapproches-toi du joueur ciblé !
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tu dois attendre que tous les rechargements soient terminés.
+SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SPEAKER_NAME: Orateur
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Tu ne peux pas changer de carte de spécialiste maintenant !
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Le rechargement de la spécialiste est terminé.
