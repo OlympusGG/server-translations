@@ -993,3 +993,8 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal o
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
 WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings
+DUEL_REQUEST_REFUSED: '{0} has refused your duel request.'
+DUEL_REQUEST_INVITE: '{0} challenged you! Want to accept?'
+DUEL_USER_OFFLINE: The challenger is no longer online
+DUEL_NOT_SAME_MAP: The challenger is on another map
+DUEL_REVIVAL_DIALOG: Continue?
