@@ -998,3 +998,4 @@ DUEL_REQUEST_INVITE: '{0} challenged you! Want to accept?'
 DUEL_USER_OFFLINE: The challenger is no longer online
 DUEL_NOT_SAME_MAP: The challenger is on another map
 DUEL_REVIVAL_DIALOG: Continue?
+DUEL_SCORE: '{0} {1}-{2} {3}'
