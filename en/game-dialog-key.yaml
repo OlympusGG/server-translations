@@ -146,11 +146,6 @@ COMMANDS_CHATMESSAGE_AVAILABLE: 'Available commands:'
 COMMANDS_CHATMESSAGE_HELP: '[Help command]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Undocummented.
 COMMANDS_CHATMESSAGE_USAGES: '[Command usage]'
-COMMEND_CHATMESSAGE_COOLDOWN: You can commend only one player per day.
-COMMEND_CHATMESSAGE_GIVEN: Player {0} has been commended.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can commend someone.
-COMMEND_CHATMESSAGE_NOT_MINLVL: You can only commend someone if you have reached 30Lv.
-COMMEND_CHATMESSAGE_RECEIVED: Player {0} has commended you.
 COSTUME_FUSION_ALREADY_FUSED: '#COSTUME_FUSION_ALREADY_FUSED'
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: '#COSTUME_FUSION_NOT_BOUND_TO_CHARACTER'
 COSTUME_FUSION_NOT_PERMANENT: '#COSTUME_FUSION_NOT_PERMANENT'
@@ -993,3 +988,9 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal o
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
 WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings
+ENCOURAGE_CHATMESSAGE_NOT_MINLVL: You can only encourage someone if you have reached {0}Lv.
+ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can encourage someone.
+ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
+ENCOURAGE_CHATMESSAGE_COOLDOWN: You can encourage only one player per day.
+ENCOURAGE_CHATMESSAGE_GIVEN: Player {0} has been encouraged.
+ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
