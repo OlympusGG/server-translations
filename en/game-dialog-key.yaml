@@ -777,6 +777,7 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This crystal is already captured by your team.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: You are banned from Rainbow Battle until {0}
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} seconds to capture this crystal.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."
