@@ -146,11 +146,6 @@ COMMANDS_CHATMESSAGE_AVAILABLE: 'Dostępne komendy:'
 COMMANDS_CHATMESSAGE_HELP: '[Komenda pomoc]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Brak dokumentacji
 COMMANDS_CHATMESSAGE_USAGES: '[Użycie komendy]'
-COMMEND_CHATMESSAGE_COOLDOWN: Pochwalić kogoś możesz tylko raz dziennie.
-COMMEND_CHATMESSAGE_GIVEN: Pochwalono gracza {0}.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Musisz odczekać jeszcze {0} min aby pochwalić kogoś.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Musisz mieć co najmniej 30 poziom, aby kogoś pochwalić.
-COMMEND_CHATMESSAGE_RECEIVED: Gracz {0} cię pochwalił.
 COSTUME_FUSION_ALREADY_FUSED: '#COSTUME_FUSION_ALREADY_FUSED'
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: '#COSTUME_FUSION_NOT_BOUND_TO_CHARACTER'
 COSTUME_FUSION_NOT_PERMANENT: '#COSTUME_FUSION_NOT_PERMANENT'
@@ -164,6 +159,12 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucen
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
+ENCOURAGE_CHATMESSAGE_COOLDOWN: You can encourage only one player per day.
+ENCOURAGE_CHATMESSAGE_GIVEN: Player {0} has been encouraged.
+ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can encourage someone.
+ENCOURAGE_CHATMESSAGE_NOT_MINLVL: You can only encourage someone if you have reached {0}Lv.
+ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted!
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item: {0}'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
@@ -699,6 +700,7 @@ PSP_PHARAOH: Echnaton Przeklęty Faraon
 PSP_RAGNAR: Kościsty Wojownik Ragnar
 PSP_SHERIFF_CHLOE: Szeryfka Chloe
 PSP_SHINOBI: Shinobi Bezgłośny
+PSP_TEST_SUBJECT: '#PSP_TEST_SUBJECT'
 PSP_VENUS: Księżniczka Venus
 PSP_YUNA: Uczeń Czarnoksiężnika Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: 'Zebrano {0}: [{1}/{2}]'
@@ -777,7 +779,6 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Drużyna rajdu nie jest już zarejestrowana
 RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: You are banned from Rainbow Battle until {0}
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Twoja aktywność nie była wystarczająca duża, aby otrzymać nagrodę.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: 'Ze względu na twoje ostatnie opuszczanie BTK nie otrzymasz żadnych nagród. Pozostała ilość gier do rozegrania, aby otrzymać nagrodę: {0}. Jeśli nie będziesz aktywny podczas meczu, ta ilość gier nie zmniejszy się.'
@@ -834,6 +835,7 @@ SHOP_CHATMESSAGE_EMPTY: Sklep nie może być pusty!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko przedmioty zdatne do handlu w sklepie.
 SHOP_DEFAULT_NAME: Sklep
 SHOP_INFO_ALREADY_OPEN: Już posiadasz otwarty sklep.
+SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: You need to disable "Safe Equipment Selling" Option to sell this item.
 SHOP_INFO_NEAR_PORTAL: Nie możesz otworzyć sklepu blisko portalu!
 SHOP_INFO_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu!
 SHOP_INFO_NOT_ALLOWED_IN_RAID: Nie możesz otworzyć sklepu podczas rajdu!

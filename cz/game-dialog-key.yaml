@@ -146,11 +146,6 @@ COMMANDS_CHATMESSAGE_AVAILABLE: 'Dostupné příkazy:'
 COMMANDS_CHATMESSAGE_HELP: '[Nápověda - příkazy]'
 COMMANDS_CHATMESSAGE_UNDOCUMENTED: Nedokumentováno.
 COMMANDS_CHATMESSAGE_USAGES: '[Použití příkazu]'
-COMMEND_CHATMESSAGE_COOLDOWN: Můžeš pochválit hráče jen jednou za den.
-COMMEND_CHATMESSAGE_GIVEN: Hráč {0} byl pochválen.
-COMMEND_CHATMESSAGE_LOGIN_COOLDOWN: Než někoho budeš moci pochválit, musíš počkat {0} minut.
-COMMEND_CHATMESSAGE_NOT_MINLVL: Můžeš pochválit pouze hráče s levelem vyšším jak 30.
-COMMEND_CHATMESSAGE_RECEIVED: Hráč {0} tě pochválil.
 COSTUME_FUSION_ALREADY_FUSED: '#COSTUME_FUSION_ALREADY_FUSED'
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: '#COSTUME_FUSION_NOT_BOUND_TO_CHARACTER'
 COSTUME_FUSION_NOT_PERMANENT: '#COSTUME_FUSION_NOT_PERMANENT'
@@ -164,6 +159,12 @@ DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
+ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
+ENCOURAGE_CHATMESSAGE_COOLDOWN: You can encourage only one player per day.
+ENCOURAGE_CHATMESSAGE_GIVEN: Player {0} has been encouraged.
+ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you can encourage someone.
+ENCOURAGE_CHATMESSAGE_NOT_MINLVL: You can only encourage someone if you have reached {0}Lv.
+ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted!
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Item converted successfully! New Item: {0}'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
@@ -699,6 +700,7 @@ PSP_PHARAOH: Prokletý Faraon Akhenaton
 PSP_RAGNAR: Kostěný válečník Ragnar
 PSP_SHERIFF_CHLOE: Šerif Chloe
 PSP_SHINOBI: Shinobi
+PSP_TEST_SUBJECT: '#PSP_TEST_SUBJECT'
 PSP_VENUS: Princeznička Venuše
 PSP_YUNA: Studentka magie Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} nasbíráno: [{1}/{2}]'
@@ -777,7 +779,6 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Tvůj raid tým už není registrován.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} se připojil do týmu'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: You are banned from Rainbow Battle until {0}
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."
@@ -834,6 +835,7 @@ SHOP_CHATMESSAGE_EMPTY: Obchod nesmí být prázdný!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: V obchodě můžeš prodávat pouze směnitelné věci.
 SHOP_DEFAULT_NAME: Obchod
 SHOP_INFO_ALREADY_OPEN: Už máš otevřený obchod!
+SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: You need to disable "Safe Equipment Selling" Option to sell this item.
 SHOP_INFO_NEAR_PORTAL: Nemůžeš vytvořit obchod tak blízko k portálu!
 SHOP_INFO_NOT_ALLOWED: Nemůžeš otevřít obchod na obecných mapách.
 SHOP_INFO_NOT_ALLOWED_IN_RAID: Nemůžeš otevřít obchod během raidu!
