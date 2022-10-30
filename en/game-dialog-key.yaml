@@ -815,7 +815,7 @@ RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: To replace the shell you need to use perfume on the equipment first.
 SHELLS_DIALOG_ADD_OPTIONS: Do you want to add an option to this item? If you agree, this item will be linked to you only.
-SHELLS_DIALOG_REPLACE_OPTIONS: The option will be replaced by the new one. You have 50% chance to succeed, or else the new shell item will be destroyed. Proceed?
+SHELLS_DIALOG_REPLACE_OPTIONS: The options will be replaced and this item will be linked to you only.
 SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: This shell couldn't be identified.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Options of this shell are already identified.
 SHELLS_SHOUTMESSAGE_BROKEN: The shell was destroyed because you failed to insert it.
