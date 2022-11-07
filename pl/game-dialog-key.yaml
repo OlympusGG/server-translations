@@ -791,6 +791,7 @@ RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Za mało graczy, aby rozpocząć Bitw
 RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Gracz {0} wyszedł z Bitwy Tęczowego Kryształu.
 RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Czerwona drużyna przejeła kryształ: {0}'
 RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Bitwa Tęczowego Kryształu została zakończona. Twoja drużyna przegrała.
+RAINBOW_BATTLE_MESSAGE_YOU_TIE: The Rainbow Battle has finished. It's a tie.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: Bitwa Tęczowego Kryształu została zakończona. Twoja drużyna wygrała.
 RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Bitwa Tęczowego Kryształu rozpocznie się za 5 sekund. Jesteś w niebieskiej drużynie.
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Gracz {0} zamarzł
