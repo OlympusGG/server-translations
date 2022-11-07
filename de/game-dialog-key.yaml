@@ -792,9 +792,9 @@ RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Player {0} left the Rainbow Battle
 RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Red Team captured the flag: {0}'
 RAINBOW_BATTLE_MESSAGE_YOU_LOSE: The Rainbow Battle has finished. Your team lose.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: The Rainbow Battle has finished. Your team won.
-RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Rainbow Battle will start in 5 seconds. You are in Blue Team
+RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Rainbow Battle will start in {0} seconds. You are in Blue Team
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Player {0} is frozen.
-RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Rainbow Battle will start in 5 seconds. You are in Red Team
+RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Rainbow Battle will start in {0} seconds. You are in Red Team
 RAINBOW_BATTLE_SHOUTMESSAGE_START: Rainbow Battle has started! Fight!
 RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Player {0} has been unfrozen.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Möchtest du den Ort der Wiederbelebung ändern?
