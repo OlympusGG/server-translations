@@ -59,6 +59,8 @@ BANK_MESSAGE_MAINTENANCE: '#BANK_MESSAGE_MAINTENANCE'
 BANK_MESSAGE_MAX_GOLD_REACHED: ¡Cantidad máxima de oro alcanzada!
 BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Fondos excedentes enviados a tu cuenta bancaria.
+BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: '#BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE'
+BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
 BAZAAR_CHATMESSAGE_ITEM_ADDED: El objeto ha sido puesto a la venta en el NosBazar.
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Tu objeto {0}x {1} se ha vendido en el NosBazar.
 BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
@@ -157,6 +159,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: No puedes invocar más monigotes.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
 DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
+DUEL_LOST: '#DUEL_LOST'
+DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
+DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
+DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
+DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
+DUEL_SCORE: '#DUEL_SCORE'
+DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
+DUEL_WON: '#DUEL_WON'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
@@ -461,6 +471,7 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: ¡No te puedes poner las mismas ala
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: ¡No te puedes subir a una montura porque tienes un efecto maligno!
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Este objeto ha sido deshabilitado temporalmente.
+LAND_OF_LIFE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
 LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
@@ -614,6 +625,7 @@ PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: ¡No hay suficiente espacio en el alm
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Ataque
+PERFECTSP_CRIT_DEFENSE: '#PERFECTSP_CRIT_DEFENSE'
 PERFECTSP_DEFENSE: Defensa
 PERFECTSP_ELEMENT: Elemento
 PERFECTSP_FIRE: Fuego
@@ -700,7 +712,7 @@ PSP_PHARAOH: Akenatón, el faraón maldito
 PSP_RAGNAR: Ragnar, guerrero óseo
 PSP_SHERIFF_CHLOE: Sheriff Chloe
 PSP_SHINOBI: Shinobi
-PSP_TEST_SUBJECT: '#PSP_TEST_SUBJECT'
+PSP_TEST_SUBJECT: Test Subject
 PSP_VENUS: Princesita Venus
 PSP_YUNA: Aprendiz de maga Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} recogió: [{1}/{2}]'
@@ -779,6 +791,7 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Tu equipo de raid ya no está registrado.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} se ha unido al equipo'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: '#RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT'
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."

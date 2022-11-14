@@ -59,6 +59,8 @@ BANK_MESSAGE_MAINTENANCE: '#BANK_MESSAGE_MAINTENANCE'
 BANK_MESSAGE_MAX_GOLD_REACHED: Osiągnięto maksymalną ilość złota w banku!
 BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Nadmiar złota został przekazany do banku.
+BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: '#BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE'
+BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} został dodany do NosBazaru.'
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Sprzedano przedmiot {0}x {1} na NosBazarze
 BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
@@ -157,6 +159,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
+DUEL_LOST: '#DUEL_LOST'
+DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
+DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
+DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
+DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
+DUEL_SCORE: '#DUEL_SCORE'
+DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
+DUEL_WON: '#DUEL_WON'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
@@ -461,6 +471,7 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz założyć tych samych 
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz wejść na pojazd, ponieważ posiadasz negatywny efekt!
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+LAND_OF_LIFE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
 LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
@@ -614,6 +625,7 @@ PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Brak miejsca w plecaku partnera.
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Atak
+PERFECTSP_CRIT_DEFENSE: '#PERFECTSP_CRIT_DEFENSE'
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
 PERFECTSP_FIRE: Odporność na ogień
@@ -700,7 +712,7 @@ PSP_PHARAOH: Echnaton Przeklęty Faraon
 PSP_RAGNAR: Kościsty Wojownik Ragnar
 PSP_SHERIFF_CHLOE: Szeryfka Chloe
 PSP_SHINOBI: Shinobi Bezgłośny
-PSP_TEST_SUBJECT: '#PSP_TEST_SUBJECT'
+PSP_TEST_SUBJECT: Test Subject
 PSP_VENUS: Księżniczka Venus
 PSP_YUNA: Uczeń Czarnoksiężnika Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: 'Zebrano {0}: [{1}/{2}]'
@@ -779,6 +791,7 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Drużyna rajdu nie jest już zarejestrowana
 RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: '#RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT'
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Twoja aktywność nie była wystarczająca duża, aby otrzymać nagrodę.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: 'Ze względu na twoje ostatnie opuszczanie BTK nie otrzymasz żadnych nagród. Pozostała ilość gier do rozegrania, aby otrzymać nagrodę: {0}. Jeśli nie będziesz aktywny podczas meczu, ta ilość gier nie zmniejszy się.'

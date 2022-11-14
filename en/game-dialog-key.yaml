@@ -59,6 +59,8 @@ BANK_MESSAGE_MAINTENANCE: '#BANK_MESSAGE_MAINTENANCE'
 BANK_MESSAGE_MAX_GOLD_REACHED: Maximum amount of gold in bank reached!
 BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Exceeding funds sent to the bank.
+BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: '#BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE'
+BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - added to NosBazaar.'
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
@@ -157,6 +159,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
+DUEL_LOST: '#DUEL_LOST'
+DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
+DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
+DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
+DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
+DUEL_SCORE: '#DUEL_SCORE'
+DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
+DUEL_WON: '#DUEL_WON'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
@@ -461,6 +471,7 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect!
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
+LAND_OF_LIFE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
 LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
@@ -614,6 +625,7 @@ PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Attack
+PERFECTSP_CRIT_DEFENSE: '#PERFECTSP_CRIT_DEFENSE'
 PERFECTSP_DEFENSE: Defense
 PERFECTSP_ELEMENT: Element
 PERFECTSP_FIRE: Fire Resistance
@@ -779,6 +791,7 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This crystal is already captured by your team.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: '#RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT'
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} seconds to capture this crystal.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."
