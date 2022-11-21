@@ -46,6 +46,18 @@ AMMO_LOADED_SWORDSMAN: Carreaux chargés !
 ARENA_CHATMESSAGE_PVP_ACTIVE: Le combat entre joueurs est activé!
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? Ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
+ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
+ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
+ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
+ASGOBAS_SHOUTMESSAGE_ARRIVED: Asgobas' Instant Combat has started. Defeat the city!
+ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
+ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas flies higher into the air to recover.
+ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: The injured Asgobas retreats.
+ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas is approaching.
+ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Asgobas' attack is about to start.
+ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobas' magic makes him stronger.
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
 BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
 BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
@@ -471,7 +483,18 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu portes déjà ces ailes !
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Un effet négatif t'empêche d'utiliser ta monture.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Cet objet a temporairement été désactivé.
-LAND_OF_LIFE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
+LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
+LAND_OF_LIFE_QNA_ENTER: Would you like to move to the Land of Life?
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: The altar has disappeared.
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: An altar has appeared somewhere.
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} has disappeared.'
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '{0} has started hunting!'
+LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: You cannot enter now.
+LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Only family members can enter the land of life.
+LAND_OF_LIFE_SHOUTMESSAGE_KICKED: You must leave the Land of Life as your time has run out.
+LAND_OF_LIFE_SHOUTMESSAGE_LEVEL_MISMATCH: Level doesn't match.
+LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: You will soon return to the Portal to the Land of Life.
+LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: You cannot enter the Land of Life as you have used up all your time.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
 LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
