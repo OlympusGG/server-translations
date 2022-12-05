@@ -51,7 +51,6 @@ ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a
 ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
 ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
-ASGOBAS_SHOUTMESSAGE_ARRIVED: '#ASGOBAS_SHOUTMESSAGE_ARRIVED'
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
 ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas flies higher into the air to recover.
 ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: The injured Asgobas retreats.
@@ -269,7 +268,6 @@ FISHING_SAY_NO_LINE: '#FISHING_SAY_NO_LINE'
 FISHING_SAY_NOTHING_BIT: '#FISHING_SAY_NOTHING_BIT'
 FISHING_SAY_OVER_JOB_LEVEL: '#FISHING_SAY_OVER_JOB_LEVEL'
 FISHING_SAY_PERSONAL_RECORD: '#FISHING_SAY_PERSONAL_RECORD'
-FISHING_SAY_TIME_UP: '#FISHING_SAY_TIME_UP'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
@@ -484,6 +482,7 @@ ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negat
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
+LAND_OF_LIFE_DIALOG_ASK_REVIVE: '#LAND_OF_LIFE_DIALOG_ASK_REVIVE'
 LAND_OF_LIFE_QNA_ENTER: Would you like to move to the Land of Life?
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: The altar has disappeared.
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: An altar has appeared somewhere.
@@ -709,6 +708,8 @@ PSP_CHLOE: Cowgirl Chloe
 PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Do you want to reset all of your Partner Specialist Card skills?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Do you want to reset this skill?
+PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
+PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
 PSP_ELIZA: Ice Princess Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy
