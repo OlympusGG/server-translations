@@ -46,6 +46,17 @@ AMMO_LOADED_SWORDSMAN: Armbrust nachgeladen.
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet'
+ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
+ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
+ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
+ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
+ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas flies higher into the air to recover.
+ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: The injured Asgobas retreats.
+ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas is approaching.
+ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Asgobas' attack is about to start.
+ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobas' magic makes him stronger.
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: In deinem Inventar befindet sich bereits eine 'Cuarry Bank Debit Card'.
 BANK_DIALOG_ASK_DEPOSIT: Möchtest du {0}000 Gold einzahlen?
 BANK_DIALOG_ASK_WITHDRAW: Möchtest du {0}000 Gold von der Bank abheben?
@@ -470,7 +481,19 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht 
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
-LAND_OF_LIFE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
+LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
+LAND_OF_LIFE_DIALOG_ASK_REVIVE: '#LAND_OF_LIFE_DIALOG_ASK_REVIVE'
+LAND_OF_LIFE_QNA_ENTER: Would you like to move to the Land of Life?
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: The altar has disappeared.
+LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: An altar has appeared somewhere.
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} has disappeared.'
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '{0} has started hunting!'
+LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: You cannot enter now.
+LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Only family members can enter the land of life.
+LAND_OF_LIFE_SHOUTMESSAGE_KICKED: You must leave the Land of Life as your time has run out.
+LAND_OF_LIFE_SHOUTMESSAGE_LEVEL_MISMATCH: Level doesn't match.
+LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: You will soon return to the Portal to the Land of Life.
+LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: You cannot enter the Land of Life as you have used up all your time.
 LOD_DIALOG_ASK_REVIVE: Would you like to use Potion of Salvation to revive?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: The Flying Fire Devil has vanished.
 LOD_SHOUTMESSAGE_HORN_SPAWN: The hunt for the Flying Fire Devil has begun.
@@ -525,6 +548,7 @@ MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Dein Mini-Land muss geschlossen sein damit
 MINILAND_SHOUTMESSAGE_PRIVATE: Dein Mini-Land ist nun privat.
 MINILAND_SHOUTMESSAGE_PUBLIC: Dein Mini-Land ist nun öffentlich.
 MINILAND_WELCOME_MESSAGE: Willkommen!
+MONTHLY_ACHIEVEMENTS_REFRESHED: Monthly repeatable achievements have been refreshed.
 MUTE_CHATMESSAGE_TIME_LEFT: 'Verbleibende Dauer der Bestrafung: {0}'
 MUTE_MESSAGE_FEMALE: Ich war ein böses Mädchen, deshalb wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein böser Junge, deshalb wurde ich bestraft!
@@ -685,6 +709,9 @@ PSP_CHLOE: Cowgirl Chloe
 PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Möchtest du alle Fähigkeiten der Spezialistenkarte deines Partners zurücksetzten?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Möchtest du diese Fähigkeit zurücksetzten?
+PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
+PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
+PSP_DIALOG_SKILL_MAX_LEVEL: You cannot upgrade skills that already reached the S rank.
 PSP_ELIZA: Eisprinzessin Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy
