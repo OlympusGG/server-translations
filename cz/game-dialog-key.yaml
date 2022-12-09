@@ -548,6 +548,7 @@ MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini země musí být nejdříve zavřená
 MINILAND_SHOUTMESSAGE_PRIVATE: Mini země je nyní soukromá.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini země je nyní veřejná.
 MINILAND_WELCOME_MESSAGE: Vítejte!
+MONTHLY_ACHIEVEMENTS_REFRESHED: Monthly repeatable achievements have been refreshed.
 MUTE_CHATMESSAGE_TIME_LEFT: 'Trest bude ještě trvat: {0}'
 MUTE_MESSAGE_FEMALE: Byla jsem nezbedná dívka, a tak jsem byla potrestána!
 MUTE_MESSAGE_MALE: Byla jsem velmi zlobivý chlapec, a tak jsem byl potrestán!
@@ -710,6 +711,7 @@ PSP_DIALOG_ASK_RESET_ALL_SKILLS: Chceš resetovat všechny dovednosti karty spec
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Chceš resetovat tuto dovednost?
 PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
 PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
+PSP_DIALOG_SKILL_MAX_LEVEL: You cannot upgrade skills that already reached the S rank.
 PSP_ELIZA: Ledová princezna Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy

@@ -548,6 +548,7 @@ MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Mini-Land musi być zamknięty aby to zrob
 MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Powitalna wiadomość!
+MONTHLY_ACHIEVEMENTS_REFRESHED: Monthly repeatable achievements have been refreshed.
 MUTE_CHATMESSAGE_TIME_LEFT: 'Pozostały czas kary: {0}'
 MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
@@ -710,6 +711,7 @@ PSP_DIALOG_ASK_RESET_ALL_SKILLS: Czy na pewno chcesz zresetować wszystkie umiej
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Czy chcesz tę zresetować umiejętność?
 PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
 PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
+PSP_DIALOG_SKILL_MAX_LEVEL: You cannot upgrade skills that already reached the S rank.
 PSP_ELIZA: Lodowa Księżniczka Eliza
 PSP_FIONA: Fiona
 PSP_FOXY: Foxy
