@@ -1003,6 +1003,7 @@ TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: The selected item is not a trophy.
 TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: The trophy upgrade failed!
 TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: The trophy upgrade succeeded!
 TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} successfully upgraded their trophy to last tier: {1}!'
+UPGRADE_DIALOG_ASK_CONFIRMATION: Proceed the reinforcement as you set up?
 UPGRADE_MESSAGE_FAILED: Ulepszenie nie powiodło się! Przedmiot został zniszczony.
 UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Ulepszenie nie powiodło się, ale twój przedmiot został zachowany.
 UPGRADE_MESSAGE_FAILED_PITY: '[Pity System] pozostało {0} niepowodzeń do gwarantowanego sukcesu.'
