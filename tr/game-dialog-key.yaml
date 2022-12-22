@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Hesap bilgileri yanlış!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakımda.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir sorun oluştu. Lütfen daha sonra tekrar deneyin.
 ACHIEVEMENT_COMPLETED: Achievement completed
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: 'Bu eylemi atlamak için en az {0} seviyesinde olmalısınız!'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CALIGOR_CONTRIBUTION_POINTS_IS: Caligor - You now have {0} contribution points
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
@@ -268,6 +269,8 @@ FISHING_SAY_NO_LINE: You don't have a fishing line so you can't go fishing.
 FISHING_SAY_NOTHING_BIT: Bad luck... Unfortunately, nothing bit.
 FISHING_SAY_OVER_JOB_LEVEL: Your fishing level is too high to fish here.
 FISHING_SAY_PERSONAL_RECORD: This is the biggest fish of this species you have caught!
+FORTUNE_WHEEL_CHATMESSAGE_FAIL: '#FORTUNE_WHEEL_CHATMESSAGE_FAIL'
+FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: '#FORTUNE_WHEEL_CHATMESSAGE_SUCCESS'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: '{0} ile arkadaş olmak istiyor musun?'
