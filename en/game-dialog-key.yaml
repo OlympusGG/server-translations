@@ -2,6 +2,7 @@ ACCOUNT_INFO_BAD_ID: Wrong username!
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance!
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACHIEVEMENT_COMPLETED: Achievement completed
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: 'You must be at least at level {0} to skip this act!'
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
 ACT4_CALIGOR_CONTRIBUTION_POINTS_IS: Caligor - You now have {0} contribution points
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
@@ -268,6 +269,8 @@ FISHING_SAY_NO_LINE: You don't have a fishing line so you can't go fishing.
 FISHING_SAY_NOTHING_BIT: Bad luck... Unfortunately, nothing bit.
 FISHING_SAY_OVER_JOB_LEVEL: Your fishing level is too high to fish here.
 FISHING_SAY_PERSONAL_RECORD: This is the biggest fish of this species you have caught!
+FORTUNE_WHEEL_CHATMESSAGE_FAIL: '#FORTUNE_WHEEL_CHATMESSAGE_FAIL'
+FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: '#FORTUNE_WHEEL_CHATMESSAGE_SUCCESS'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} has logged out.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Do you want to become friends with {0}?
