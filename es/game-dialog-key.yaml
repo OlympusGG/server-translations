@@ -848,6 +848,7 @@ REVIVE_DIALOG_SEEDS_OF_POWER: ¿Quieres revivir? Te costará {0} Semillas del Po
 RUNE_MSG_EQUIPMENT_IS_RUINED: You can't upgrade a damaged weapon.
 RUNE_MSG_MATERIALS_PROTECTED: Rune upgrade failed, but none of the materials were consumed.
 RUNE_MSG_MAX_UPGRADE: You can't carve any more runes as it is already at the highest level.
+RUNE_MSG_NO_MIN_UPGRADE: La Runa debe ser al menos +12 para usar el disolvente.
 RUNE_MSG_NO_RUNE: This weapon doesn't have any runes.
 RUNE_MSG_NOT_RUINED: Can only be used on damaged weapons.
 RUNE_MSG_REMOVED: Rune removed.
