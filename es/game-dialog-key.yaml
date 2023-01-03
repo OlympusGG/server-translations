@@ -2,7 +2,7 @@ ACCOUNT_INFO_BAD_ID: Error al iniciar la cuenta.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ha ocurrido un error inesperado. Por favor intentalo más tarde.
 ACHIEVEMENT_COMPLETED: Achievement completed
-ACT_SKIP_CHATMESSAGE_NOT_MINLVL: 'Debes estar al menos en el nivel {0} para saltarte este acto!'
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Debes estar al menos en el nivel {0} para saltarte este acto!
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres abandonar la mazmorra?
 ACT4_CALIGOR_CONTRIBUTION_POINTS_IS: Caligor - You now have {0} contribution points
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
@@ -836,6 +836,7 @@ RAINBOW_BATTLE_MESSAGE_YOU_LOSE: The Rainbow Battle has finished. Your team lose
 RAINBOW_BATTLE_MESSAGE_YOU_TIE: The Rainbow Battle has finished. It's a tie.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: The Rainbow Battle has finished. Your team won.
 RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Rainbow Battle will start in {0} seconds. You are in Blue Team
+RAINBOW_BATTLE_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You cannot use this skill before the fight starts.
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Player {0} is frozen.
 RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Rainbow Battle will start in {0} seconds. You are in Red Team
 RAINBOW_BATTLE_SHOUTMESSAGE_START: Rainbow Battle has started! Fight!
@@ -941,6 +942,7 @@ TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
 TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
 TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
 TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You cannot use this skill before entering the fighting area.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Talent arena opened on channel {0}
 TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds

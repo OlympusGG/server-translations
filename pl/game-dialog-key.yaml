@@ -2,7 +2,7 @@ ACCOUNT_INFO_BAD_ID: Błędny login.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Spróbuj ponownie później.
 ACHIEVEMENT_COMPLETED: Achievement completed
-ACT_SKIP_CHATMESSAGE_NOT_MINLVL: 'Musisz być co najmniej na poziomie {0}, aby pominąć ten akt!'
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Musisz być co najmniej na poziomie {0}, aby pominąć ten akt!
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy na pewno chcesz opuścić loch?
 ACT4_CALIGOR_CONTRIBUTION_POINTS_IS: Caligor - You now have {0} contribution points
 ACT4_CALIGOR_MAP_FULL: Caligor event is full.
@@ -836,6 +836,7 @@ RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Bitwa Tęczowego Kryształu została zakończon
 RAINBOW_BATTLE_MESSAGE_YOU_TIE: The Rainbow Battle has finished. It's a tie.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: Bitwa Tęczowego Kryształu została zakończona. Twoja drużyna wygrała.
 RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Bitwa Tęczowego Kryształu rozpocznie się za 5 sekund. Jesteś w niebieskiej drużynie.
+RAINBOW_BATTLE_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You cannot use this skill before the fight starts.
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Gracz {0} zamarzł
 RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Bitwa Tęczowego Kryształu rozpocznie się za 5 sekund. Jesteś w czerwonej drużynie.
 RAINBOW_BATTLE_SHOUTMESSAGE_START: Bitwa Tęczowego Kryształu wystartowała! Walcz!
@@ -941,6 +942,7 @@ TALENT_ARENA_PENALTY_NOTICE: Leaving Arena of Talent will lead to penalty.
 TALENT_ARENA_PLAYER_IN_GROUP: You can't joint Arena of Talent while in a group.
 TALENT_ARENA_PLAYER_LEFT_QUEUE: You left the queue
 TALENT_ARENA_PLAYER_NOT_FOUND: '#TALENT_ARENA_PLAYER_NOT_FOUND'
+TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You cannot use this skill before entering the fighting area.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Talent arena opened on channel {0}
 TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
