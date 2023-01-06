@@ -651,7 +651,7 @@ PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Brak miejsca w plecaku partnera.
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Atak
-PERFECTSP_CRIT_DEFENSE: '#PERFECTSP_CRIT_DEFENSE'
+PERFECTSP_CRIT_DEFENSE: Zmniejszone obrażenia krytyczne
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Element
 PERFECTSP_FIRE: Odporność na ogień
