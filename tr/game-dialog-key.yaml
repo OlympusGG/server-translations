@@ -651,7 +651,7 @@ PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse
 PARTNER_WEARS_EQUIPMENT: Your partner needs to unequip everything to do that.
 PERFECTION_DIALOG_ASK_CONFIRMATION: Do you want to proceed with specialist perfection?
 PERFECTSP_ATTACK: Saldırı
-PERFECTSP_CRIT_DEFENSE: '#PERFECTSP_CRIT_DEFENSE'
+PERFECTSP_CRIT_DEFENSE: Azaltılmış Kritik Hasar
 PERFECTSP_DEFENSE: Savunma
 PERFECTSP_ELEMENT: Element
 PERFECTSP_FIRE: Ateş Direnci
