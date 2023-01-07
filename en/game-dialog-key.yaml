@@ -137,6 +137,7 @@ BUFF_CHATMESSAGE_EFFECT_TERMINATED: You have lost the {0} effect.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Side effects of {0} have started.
 BUFF_CHATMESSAGE_UNDER_EFFECT: You are under the effect of {0}
 CELESTIAL_TOWER_DAILY_REFRESH: Celestial Tower ranking has been refreshed.
+CELESTIAL_TOWER_INFO_RESET_CONFIRM: Do you want to reset all your celestial spire progress? Ranking won't be reset.
 CELESTIAL_TOWER_MONTHLY_REFRESH: Celestial Tower has been reset.
 CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: The NosMate has been added to your team.
 CELESTIAL_TOWER_SHOUTMESSAGE_START: The Infinite Celestial Spire challenge is starting! Fight your way to the very top.
