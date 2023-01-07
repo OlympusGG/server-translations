@@ -439,7 +439,7 @@ INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Acquired: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Do you want to delete this item?
 INVENTORY_DIALOG_SURE_TO_DELETE: Are you sure you want to delete this item? This action cannot be undone and the item will be lost forever.
-INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items - {0}x {1}.
+INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Not enough items - {0} x{1}.
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Equipment with shell options cannot be converted.
 ITEM_CHATMESSAGE_CANT_USE_THAT: You can't use that.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: You can't use that item, because you already have {0} buff.
