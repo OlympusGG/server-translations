@@ -269,8 +269,8 @@ FISHING_SAY_NO_LINE: You don't have a fishing line so you can't go fishing.
 FISHING_SAY_NOTHING_BIT: Bad luck... Unfortunately, nothing bit.
 FISHING_SAY_OVER_JOB_LEVEL: Your fishing level is too high to fish here.
 FISHING_SAY_PERSONAL_RECORD: This is the biggest fish of this species you have caught!
-FORTUNE_WHEEL_CHATMESSAGE_FAIL: '#FORTUNE_WHEEL_CHATMESSAGE_FAIL'
-FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: '#FORTUNE_WHEEL_CHATMESSAGE_SUCCESS'
+FORTUNE_WHEEL_CHATMESSAGE_FAIL: Something went wrong when adding a spin to your account. If the problem persists, please contact the support.
+FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: A spin has been added to your account! You can redeem it on the dashboard!
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: '{0} ile arkadaş olmak istiyor musun?'
