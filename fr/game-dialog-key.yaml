@@ -172,14 +172,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Tu ne peux pas invoquer davantage de mannequins.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Tu n'es pas dans la zone désignée.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantitée de butins incorrecte.
 DROP_SHOUTMESSAGE_FULL: Il y a trop d'objets au sol pour pouvoir jeter ton objet.
-DUEL_LOST: '#DUEL_LOST'
-DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
-DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
-DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
-DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
-DUEL_SCORE: '#DUEL_SCORE'
-DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
-DUEL_WON: '#DUEL_WON'
+DUEL_LOST: 'Vous avez perdu le duel. Score : {0}-{1}'
+DUEL_NOT_SAME_MAP: Le challenger est sur une autre carte
+DUEL_REQUEST_INVITE: '{0} vous a mis au défi! Voulez-vous accepter?'
+DUEL_REQUEST_REFUSED: '{0} a refusé votre demande de duel.'
+DUEL_REVIVAL_DIALOG: Continuer?
+DUEL_SCORE: '{0} {1}-{2} {3}'
+DUEL_USER_OFFLINE: Le challenger n'est plus en ligne
+DUEL_WON: 'Vous avez gagné le duel! Score: {0}-{1}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.

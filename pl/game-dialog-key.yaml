@@ -172,14 +172,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
-DUEL_LOST: '#DUEL_LOST'
-DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
-DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
-DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
-DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
-DUEL_SCORE: '#DUEL_SCORE'
-DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
-DUEL_WON: '#DUEL_WON'
+DUEL_LOST: 'Przegrałeś pojedynek. Wynik: {0}-{1}'
+DUEL_NOT_SAME_MAP: Wyzwanie jest na innej mapie
+DUEL_REQUEST_INVITE: '{0} wyzwał cię! Chcesz się zgodzić?'
+DUEL_REQUEST_REFUSED: '{0} odrzucił twoją prośbę o pojedynek.'
+DUEL_REVIVAL_DIALOG: Kontynuować?
+DUEL_SCORE: '{0} {1}-{2} {3}'
+DUEL_USER_OFFLINE: Wyzwanie nie jest już online
+DUEL_WON: 'Wygrałeś pojedynek! Wynik: {0}-{1}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.

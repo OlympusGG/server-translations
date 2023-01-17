@@ -172,14 +172,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
-DUEL_LOST: '#DUEL_LOST'
-DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
-DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
-DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
-DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
-DUEL_SCORE: '#DUEL_SCORE'
-DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
-DUEL_WON: '#DUEL_WON'
+DUEL_LOST: 'You lost the duel. Score: {0}-{1}'
+DUEL_NOT_SAME_MAP: The challenger is on another map
+DUEL_REQUEST_INVITE: '{0} challenged you! Want to accept?'
+DUEL_REQUEST_REFUSED: '{0} has refused your duel request.'
+DUEL_REVIVAL_DIALOG: Continue?
+DUEL_SCORE: '{0} {1}-{2} {3}'
+DUEL_USER_OFFLINE: The challenger is no longer online
+DUEL_WON: 'You have won the duel! Score: {0}-{1}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
