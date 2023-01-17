@@ -172,14 +172,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Du kannst keine weiteren Puppen beschwören.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Du bist nicht in der ausgewiesenen Zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge an fallengelassenen Gegenständen.
 DROP_SHOUTMESSAGE_FULL: Es befinden sich bereits zu viele Gegenstände auf dieser Karte, um diesen fallen zu lassen.
-DUEL_LOST: '#DUEL_LOST'
-DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
-DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
-DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
-DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
-DUEL_SCORE: '#DUEL_SCORE'
-DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
-DUEL_WON: '#DUEL_WON'
+DUEL_LOST: 'Du hast das Duell verloren. Ergebnis: {0}-{1}'
+DUEL_NOT_SAME_MAP: Der Herausforderer ist auf einer anderen Karte
+DUEL_REQUEST_INVITE: '{0} hat Sie herausgefordert! Willst du annehmen?'
+DUEL_REQUEST_REFUSED: '{0} hat deine Forderung nach einem Duell abgelehnt.'
+DUEL_REVIVAL_DIALOG: Weiter?
+DUEL_SCORE: '{0} {1}-{2} {3}'
+DUEL_USER_OFFLINE: Der Herausforderer ist nicht mehr online
+DUEL_WON: 'Du hast das Duell gewonnen! Ergebnis: {0}-{1}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.

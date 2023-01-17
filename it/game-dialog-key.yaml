@@ -172,14 +172,14 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop non valida.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
-DUEL_LOST: '#DUEL_LOST'
-DUEL_NOT_SAME_MAP: '#DUEL_NOT_SAME_MAP'
-DUEL_REQUEST_INVITE: '#DUEL_REQUEST_INVITE'
-DUEL_REQUEST_REFUSED: '#DUEL_REQUEST_REFUSED'
-DUEL_REVIVAL_DIALOG: '#DUEL_REVIVAL_DIALOG'
-DUEL_SCORE: '#DUEL_SCORE'
-DUEL_USER_OFFLINE: '#DUEL_USER_OFFLINE'
-DUEL_WON: '#DUEL_WON'
+DUEL_LOST: 'Hai perso il duello. Punteggio: {0}-{1}'
+DUEL_NOT_SAME_MAP: Lo sfidante è su un'altra mappa
+DUEL_REQUEST_INVITE: '{0} ti ha sfidato! Vuoi accettare?'
+DUEL_REQUEST_REFUSED: '{0} ha rifiutato la tua richiesta di duello.'
+DUEL_REVIVAL_DIALOG: Continuare??
+DUEL_SCORE: '{0} {1}-{2} {3}'
+DUEL_USER_OFFLINE: Lo sfidante non è più online
+DUEL_WON: 'Hai vinto il duello! Punteggio: {0}-{1}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
