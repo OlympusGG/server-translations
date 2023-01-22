@@ -147,6 +147,7 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Les emplacements de l'accessoire sont pleins.
 CELLON_SHOUTMESSAGE_SUCCESS: Option ajoutée.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ce nom est déjà utilisé.
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Le nom de ton personnage contient le mot "{0}", qui est banni. Si tu penses que c'est une erreur, tu peux ouvrir un ticket sur le Supprot de notre Serveur Discord.
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: '#CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET'
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Caractère(s) invalide(s) dans ton nom.
 CHARACTER_DELETION_INFO_FAILED: Ton personnage n'a pas pu être effacé. Merci de réessayer plus tard.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Ton personnage n'a pas pu être effacé. Merci de réessayer plus tard.
@@ -701,6 +702,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
+PORTAL_ASK_DIALOG_EXIT: '#PORTAL_ASK_DIALOG_EXIT'
 PORTAL_CHATMESSAGE_BLOCKED: Ce portail est verouillé, tu ne peux pas l'utiliser.
 PORTAL_CHATMESSAGE_TOO_EARLY: Tu pourras bientôt te déplacer.
 PSP_AEGIR: Aegir le Furibond
