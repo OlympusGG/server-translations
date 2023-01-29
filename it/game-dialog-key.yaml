@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Non puoi evocare altre bambole.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Non ti trovi nell'area designata.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Quantità di drop non valida.
 DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare quest'oggetto.
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'Hai perso il duello. Punteggio: {0}-{1}'
 DUEL_NOT_SAME_MAP: Lo sfidante è su un'altra mappa
 DUEL_REQUEST_INVITE: '{0} ti ha sfidato! Vuoi accettare?'
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Effetto del sacrificio rimosso, perché il
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: L'effetto del sacrifico potrebbe essere rimosso, perché il giocatore è troppo lontano.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Devi attendere la fine della ricarica delle abilità!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Altoparlante
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: In questo momento non puoi cambiare la Carta dello Specialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Il tempo di attesa della trasformazione in Specialista è terminato.

@@ -147,7 +147,7 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Sloty pro příslušenství jsou již plné!
 CELLON_SHOUTMESSAGE_SUCCESS: Vlastnost přidána.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Toto jméno je již obsazeno!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Název vaší postavy obsahuje slovo „{0}“, které je zakázáno. Pokud si myslíte, že se jedná o chybu, neváhejte zavítat a informovat nás na náš discord!
-CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: '#CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET'
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Vaše jméno obsahuje neplatné znaky!
 CHARACTER_DELETION_INFO_FAILED: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'Souboj jsi prohrál. Skóre: {0}-{1}'
 DUEL_NOT_SAME_MAP: Vyzývatel je na jiné mapě
 DUEL_REQUEST_INVITE: '{0} vás vyzval! Chcete to přijmout?'
@@ -702,7 +703,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
-PORTAL_ASK_DIALOG_EXIT: '#PORTAL_ASK_DIALOG_EXIT'
+PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Tento portál je uzamčený, nemůžeš jej použít.
 PORTAL_CHATMESSAGE_TOO_EARLY: Již brzy bude umožněn vstup do portálu.
 PSP_AEGIR: Aegir
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Efekt oběti odebrán, hráč je mimo dosa
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Efekt oběti téměř odebrán, protože je hráč příliš daleko.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Musíš počkat než vyprší veškeré cooldowny!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Reproduktor
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nyní nemůžeš vyměnit kartu specialisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Cooldown transformace specialisty skončil.

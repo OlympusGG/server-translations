@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
 DROP_SHOUTMESSAGE_FULL: There are too many items on this map to drop this item.
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_NOT_SAME_MAP: The challenger is on another map
 DUEL_REQUEST_INVITE: '{0} challenged you! Want to accept?'
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the play
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: You need to wait until all cooldowns finish!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Speaker
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: You can't change Specialist Card now!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Specialist transformation cooldown finished.

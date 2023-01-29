@@ -147,7 +147,7 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuarın Cellon yuvaları zaten dolu.
 CELLON_SHOUTMESSAGE_SUCCESS: Seçenek eklendi.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Bu karakter adı başkası tarafından kullanılıyor!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Karakter adı yasaklı olan "{0}" kelimesini içeriyor. Bunun bir hata olduğunu düşünüyorsan destek Discord sunucumuzda bir bilet açabilirsin.
-CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: '#CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET'
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
 CHARACTER_DELETION_INFO_FAILED: Karakterin silinemedi. Lütfen Tekrar dene.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Karakterin silinemedi. Lütfen Tekrar dene.
@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Daha fazla kukla çağıramazsın.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Bu kuklayı burada çağıramazsın.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Yanlış miktar!
 DROP_SHOUTMESSAGE_FULL: Haritada düşürülebilecek eşya sınırına ulaşıldı. Daha sonra tekrar dene!
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'Düelloyu kaybettin. Puan: {0}-{1}'
 DUEL_NOT_SAME_MAP: Rakip başka bir haritada
 DUEL_REQUEST_INVITE: '{0} sana meydan okudu! Kabul etmek istiyor musun?'
@@ -702,7 +703,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
-PORTAL_ASK_DIALOG_EXIT: '#PORTAL_ASK_DIALOG_EXIT'
+PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Kilitli!
 PORTAL_CHATMESSAGE_TOO_EARLY: Kısa süre içerisinde ilerleyebilirsin.
 PSP_AEGIR: Kızgın Aegir
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Feda etkisi kayboldu çünkü hedef menzil
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Feda etkisi kaybolabilir çünkü hedef menzil dışına çıkıyor.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tüm yeteneklerin dolmasını beklemelisin!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Hoparlör
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Henüz Uzmanlık Kartını kuşanamazsın.
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Uzmanlık Kartı artık kuşanılabilir.

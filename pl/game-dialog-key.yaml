@@ -147,7 +147,7 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: Akcesorium nie posiada miejsca na nowe opcje.
 CELLON_SHOUTMESSAGE_SUCCESS: Dodano opcje!
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ta nazwa postaci jest już zajęta.
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
-CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: '#CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET'
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 CHARACTER_DELETION_INFO_FAILED: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You're not in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nieprawidłowa ilość przedmiotu do wyrzucenia.
 DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie później.
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'Przegrałeś pojedynek. Wynik: {0}-{1}'
 DUEL_NOT_SAME_MAP: Wyzwanie jest na innej mapie
 DUEL_REQUEST_INVITE: '{0} wyzwał cię! Chcesz się zgodzić?'
@@ -702,7 +703,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
-PORTAL_ASK_DIALOG_EXIT: '#PORTAL_ASK_DIALOG_EXIT'
+PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Portal jest zamknięty, nie możesz wejść.
 PORTAL_CHATMESSAGE_TOO_EARLY: Za niedługo będziesz mógł ponownie się przeteleportować.
 PSP_AEGIR: Aegir Gniewny
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Efekt poświęcenia został usunięty, pon
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Efekt poświęcenia już prawie znikł, ponieważ odległość do wybranego gracza jest zbyt duża.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Musisz poczekać, aż zakończy się czas odnowienia umiejętności!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Głośnik
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: Nie możesz teraz zmienić Karty Specjalisty!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Czas odnowienia Karty Specjalisty zniknął.

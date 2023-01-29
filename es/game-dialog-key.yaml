@@ -147,7 +147,7 @@ CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No se pueden añadir más opciones al acceso
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
-CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: '#CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET'
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: No puedes invocar más monigotes.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: No estás en la zona designada.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Cantidad de drop incorrecta.
 DROP_SHOUTMESSAGE_FULL: Hay demasiados objetos en este mapa para soltar este objeto.
+DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
 DUEL_LOST: 'Perdiste el duelo. Puntuación: {0}-{1}'
 DUEL_NOT_SAME_MAP: El aspirante está en otro mapa
 DUEL_REQUEST_INVITE: '{0} ¡te ha retado! ¿Quieres aceptar?'
@@ -702,7 +703,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_MISCONFIGURED: Pocket Dimension does not seem well configured, please report it to our support team.
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
-PORTAL_ASK_DIALOG_EXIT: '#PORTAL_ASK_DIALOG_EXIT'
+PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Este portal está bloqueado. no puedo usarlo.
 PORTAL_CHATMESSAGE_TOO_EARLY: Serás capaz de moverte en breves.
 PSP_AEGIR: Aegir
@@ -912,6 +913,7 @@ SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: El efecto de Sacrifio ha sido eliminado po
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: El efecto de Sacricio se va a eliminar, porque el jugador está muy lejos.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: ¡Tienes que esperar a que finalicen los enfriamientos!
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
+SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Altavoz
 SPECIALIST_CHATMESSAGE_SP_BLOCKED: ¡No puedes cambiar tu Tarjeta de Especialista!
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Enfriamiento de la transformación de la Tarjeta de Especialista finalizado.
