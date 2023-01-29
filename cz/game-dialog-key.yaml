@@ -173,15 +173,15 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
+DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
+DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map
+DUEL_CHATMESSAGE_REQUEST_REFUSED: '{0} has refused your duel request.'
+DUEL_CHATMESSAGE_USER_OFFLINE: The challenger is no longer online
+DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
+DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
+DUEL_DIALOG_REVIVAL: Continue?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
-DUEL_LOST: 'Souboj jsi prohrál. Skóre: {0}-{1}'
-DUEL_NOT_SAME_MAP: Vyzývatel je na jiné mapě
-DUEL_REQUEST_INVITE: '{0} vás vyzval! Chcete to přijmout?'
-DUEL_REQUEST_REFUSED: '{0} odmítl vaši žádost o souboj.'
-DUEL_REVIVAL_DIALOG: Pokračovat?
-DUEL_SCORE: '{0} {1}-{2} {3}'
-DUEL_USER_OFFLINE: Vyzývatel již není online
-DUEL_WON: 'Vyhrál jsi souboj! Skóre: {0}-{1}'
+DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have that emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote!
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: The player has already been encouraged by someone.
