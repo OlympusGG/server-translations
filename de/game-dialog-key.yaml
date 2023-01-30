@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Du kannst keine weiteren Puppen beschwören.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Du bist nicht in der ausgewiesenen Zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge an fallengelassenen Gegenständen.
 DROP_SHOUTMESSAGE_FULL: Es befinden sich bereits zu viele Gegenstände auf dieser Karte, um diesen fallen zu lassen.
+DUEL_CHATMESSAGE_INVITATION_EXPIRED: Duel invitation has expired
 DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map
 DUEL_CHATMESSAGE_REQUEST_REFUSED: '{0} has refused your duel request.'

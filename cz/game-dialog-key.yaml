@@ -173,6 +173,7 @@ DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nemůžete využít další loutky.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: Nejsi v určené zóně.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Nesprávné upuštěné množství.
 DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tento předmět vyhozen!
+DUEL_CHATMESSAGE_INVITATION_EXPIRED: Duel invitation has expired
 DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map
 DUEL_CHATMESSAGE_REQUEST_REFUSED: '{0} has refused your duel request.'
