@@ -41,6 +41,7 @@ ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burnin
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrateur
 ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
+ALZANOR_SHOUTMESSAGE_DEFLECTOR: Alzanor is preparing a powerful ice attack. Go to the nearest frost deflector to avoid any damage.
 AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèches chargées !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
@@ -920,12 +921,14 @@ SPECIALIST_CHATMESSAGE_SP_BLOCKED: Tu ne peux pas changer de carte de spécialis
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Le rechargement de la spécialiste est terminé.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Tu dois être transformé en spécialiste pour pouvoir faire ça!
 SPECIALIST_DIALOG_ASK_CONFIRMATION: Do you want to upgrade your Specialist Card ?
+SPECIALIST_DIALOG_NEED_MAX_UPGRADE: Your specialist card must be +20.
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Tu ne peux pas attaquer pour l'instant.
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'The specialist card has been enchanted with the following item: {0}.'
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La spécialiste est en rechargement - {0} seconde(s).
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Niveau de spécialiste augmenté !
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Tu n'as plus de points de spécialiste! Impossible de se transformer.

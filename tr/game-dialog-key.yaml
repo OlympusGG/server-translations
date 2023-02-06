@@ -41,6 +41,7 @@ ACT5_MESSAGE_HEAT_BURNING_SWORD: You have been encased in the heat of the Burnin
 ACT5_MESSAGE_RETURN_DISABLED: You cannot go back to the point of return.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 ALL_ACHIEVEMENTS_REFRESHED: All repeatable achievements have been refreshed.
+ALZANOR_SHOUTMESSAGE_DEFLECTOR: Alzanor is preparing a powerful ice attack. Go to the nearest frost deflector to avoid any damage.
 AMMO_LOADED_ADVENTURER: Cephane dolduruldu.
 AMMO_LOADED_ARCHER: Oklar dolduruldu.
 AMMO_LOADED_SWORDSMAN: Oklar dolduruldu.
@@ -920,12 +921,14 @@ SPECIALIST_CHATMESSAGE_SP_BLOCKED: Henüz Uzmanlık Kartını kuşanamazsın.
 SPECIALIST_CHATMESSAGE_TRANSFORM_DISAPPEAR: Uzmanlık Kartı artık kuşanılabilir.
 SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: Bunu yapmak için Uzmanlık Kartını kuşatmış olmalısın.
 SPECIALIST_DIALOG_ASK_CONFIRMATION: Do you want to upgrade your Specialist Card ?
+SPECIALIST_DIALOG_NEED_MAX_UPGRADE: Your specialist card must be +20.
 SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Henüz saldıramazsın.
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'The specialist card has been enchanted with the following item: {0}.'
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: 'Uzman Kartı dönüşümü için kalan süre: {0} saniye'
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Uzmanın seviyesi yükseldi!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: SP puanın bittiği için Uzmanlık Kartına dönüşemezsin.
