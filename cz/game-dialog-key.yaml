@@ -517,6 +517,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Máš {0} mailů v doručené poště.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAIL_INFO_TOO_MANY_MAILS: You got new mail(s) but your mailbox is full. It has been discarded, to recover it contact Support.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
+MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: 'Hello {0}, a maintenance is scheduled at {1}, in {2}'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Údržba byla provedena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Údržba byla odložena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Změna času Údržby. Nový čas do Údržby: {0} hodin.'
