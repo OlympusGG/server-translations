@@ -517,7 +517,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachrichten in deinem Postfach.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAIL_INFO_TOO_MANY_MAILS: You got new mail(s) but your mailbox is full. It has been discarded, to recover it contact Support.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all parcels again.
-MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: 'Hello {0}, a maintenance is scheduled at {1}, in {2}'
+MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Hello {0}, a maintenance is scheduled at {1}, in {2}
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartungsarbeiten wurden abgeschlossen.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Die Wartungsarbeiten wurden beendet.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Änderung der Zeit für die Wartungsarbeiten. Neue Zeit bis zum Start: {0} Stunden.'
@@ -1036,6 +1036,8 @@ UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
 UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Your equipment has been upgraded.'
 UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: You have the 'Safe Upgrade' option enabled, disable it if you want to upgrade without scroll.
 UPGRADE_SHOUTMESSAGE_UNPROTECTED: The SP is unprotected. Do you want to continue with the upgrade anyways?
+VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Use the energy of the zombie dragon captured from monsters to remove the fog of fear.
+VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Defeat all summoned monsters to remove the fog shield.
 VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
