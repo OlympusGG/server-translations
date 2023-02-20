@@ -517,7 +517,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} paquete(s) en el buzón.
 MAIL_INFO_OPEN_FAILED: No se ha podido abrir el paquete.
 MAIL_INFO_TOO_MANY_MAILS: Tienes un nuevo paquete pero tu buzón está lleno. Ha sido descartado, para recuperarlo contacta con Soporte.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Tienes que esperar {0} segundos antes de poder abrir todos los paquetes de golpe.
-MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Hello {0}, a maintenance is scheduled at {1}, in {2}
+MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: A maintenance is scheduled at {0}. ({1} remaining)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: El mantenimiento ha sido ejecutado.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: El mantenimiento ha concluido.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Cambio del mantenimiento programado. Nueva hora de inicio: {0}hr.'

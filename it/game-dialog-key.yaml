@@ -517,7 +517,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} messaggi nella tua casella.
 MAIL_INFO_OPEN_FAILED: Failed to open the mail.
 MAIL_INFO_TOO_MANY_MAILS: You got new mail(s) but your mailbox is full. It has been discarded, to recover it contact Support.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You need to wait {0} seconds to claim all parcels again.
-MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Hello {0}, a maintenance is scheduled at {1}, in {2}
+MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: A maintenance is scheduled at {0}. ({1} remaining)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è iniziata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è finita.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Orario Manutenzione cambiato. Manutenzione tra: {0}ore.'
