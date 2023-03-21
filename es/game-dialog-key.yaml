@@ -146,10 +146,12 @@ CELLON_SHOUTMESSAGE_FAIL: La piedra de cellón ha desaparecido al intentar añad
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la piedra de cellón es demasiado alta para este accesorio.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: ¡No se pueden añadir más opciones al accesorio!
 CELLON_SHOUTMESSAGE_SUCCESS: Se ha añadido la opción al accesorio correctamente.
+CHARACTER_CREATION_INFO_ALREADY_HAVE_MARTIAL_ARTIST: You can only have one martial artist
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CLASS_NAME_ADVENTURER: Aventurero

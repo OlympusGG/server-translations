@@ -146,10 +146,12 @@ CELLON_SHOUTMESSAGE_FAIL: Das Cellon ist verschwunden, da die Verzauberung fehlg
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Cellonlevel ist zu hoch für diesen Schmuck.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Die Schmuckoptionen sind bereits befüllt!
 CELLON_SHOUTMESSAGE_SUCCESS: Option hinzugefügt.
+CHARACTER_CREATION_INFO_ALREADY_HAVE_MARTIAL_ARTIST: You can only have one martial artist
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Der Name deines Charakters beinhaltet das Wort "{0}", welches verboten ist. Wenn du denkst, dass dies ein Fehler ist, kannst du ein Ticket auf unserem Support Discord Server eröffnen.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Dein Charaktername enthält nicht erlaubte Zeichen!
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
 CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später nochmal.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später erneut.
 CLASS_NAME_ADVENTURER: Abenteurer
