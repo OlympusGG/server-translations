@@ -151,7 +151,7 @@ CHARACTER_CREATION_INFO_ALREADY_TAKEN: ¡Este nombre ya está en uso!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: El nombre de tu personaje contiene la palabra "{0}", que está prohibida. Si crees que es un error, no dudes en abrir un ticket en nuestro servidor de soporte de Discord.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nombre!
-CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CLASS_NAME_ADVENTURER: Aventurero
@@ -867,6 +867,9 @@ RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
+SHEEP_GAME_EVENT_NAME: Sheep Game
+SHEEP_GAME_SHOUT_END_PREPARATION: 'You will be teleported back in {0} seconds'
+SHEEP_GAME_SHOUT_START_PREPARATION: 'The game will start in {0} seconds!'
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Para reemplazar la concha, primero tienes que usar fragancias en el equipamiento.
 SHELLS_DIALOG_ADD_OPTIONS: ¿Quieres añadir una opción a este objeto? Si aceptas, este objeto estará vinculado a ti.
 SHELLS_DIALOG_REPLACE_OPTIONS: La opción será reemplazada por una nueva. Tienes 50% de probabilidad de acertar, o la concha nueva será destruida. ¿Quieres continuar?

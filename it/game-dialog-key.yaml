@@ -151,7 +151,7 @@ CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è stato già stato scelto!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Il nome del tuo personaggio contiene la parola "{0}", che è vietata. Se pensi che sia un errore, sentiti libero di aprire un ticket sul nostro server Discord del supporto.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: Non puoi ancora creare un artista marziale
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Il nome contiene caratteri non validi!
-CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
 CLASS_NAME_ADVENTURER: Avventuriero
@@ -867,6 +867,9 @@ RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
+SHEEP_GAME_EVENT_NAME: Sheep Game
+SHEEP_GAME_SHOUT_END_PREPARATION: 'You will be teleported back in {0} seconds'
+SHEEP_GAME_SHOUT_START_PREPARATION: 'The game will start in {0} seconds!'
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Per rimpiazzare la pietra devi prima utilizzare i profumi su questo oggetto.
 SHELLS_DIALOG_ADD_OPTIONS: Vuoi aggiungere un'opzione a questo oggetto? L'oggetto sarà legato esclusivamente a te.
 SHELLS_DIALOG_REPLACE_OPTIONS: L'opzione verrà sostituita. Hai il 50% di possibilità di successo, altrimenti la nuova pietra verrà distrutta. Vuoi continuare?
