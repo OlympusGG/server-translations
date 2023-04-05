@@ -151,7 +151,7 @@ CHARACTER_CREATION_INFO_ALREADY_TAKEN: Questo nome è stato già stato scelto!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Il nome del tuo personaggio contiene la parola "{0}", che è vietata. Se pensi che sia un errore, sentiti libero di aprire un ticket sul nostro server Discord del supporto.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: Non puoi ancora creare un artista marziale
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Il nome contiene caratteri non validi!
-CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
 CLASS_NAME_ADVENTURER: Avventuriero
@@ -747,6 +747,7 @@ PSP_ORKANI: Orkani il Ribelle
 PSP_PALINA: Palina la Burattinaia
 PSP_PERTI: Perti Ala spezzata
 PSP_PHARAOH: Akhenaton il Faraone Maledetto
+PSP_QNA_REMOVE: Do you really want to remove your partner's specialist ?
 PSP_RAGNAR: Ragnar Soldato Scheletrico
 PSP_SHERIFF_CHLOE: Sceriffo Chloe
 PSP_SHINOBI: Shinobi il Silenzioso
@@ -929,6 +930,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
+SPECIALIST_QNA_REMOVE: Do you really want to remove your specialist ?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Non puoi attaccare al momento.
 SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'The specialist card has been enchanted with the following item: {0}.'

@@ -151,7 +151,7 @@ CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
-CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
 CLASS_NAME_ADVENTURER: Adventurer
@@ -747,6 +747,7 @@ PSP_ORKANI: Orkani the Turbulent
 PSP_PALINA: Palina Puppet Master
 PSP_PERTI: One-Winged Angel Perti
 PSP_PHARAOH: Akhenaton the Cursed Pharaoh
+PSP_QNA_REMOVE: Do you really want to remove your partner's specialist ?
 PSP_RAGNAR: Bone Warrior Ragnar
 PSP_SHERIFF_CHLOE: Sheriff Chloe
 PSP_SHINOBI: Shinobi the Silent
@@ -929,6 +930,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
+SPECIALIST_QNA_REMOVE: Do you really want to remove your specialist ?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: You can't attack right now.
 SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'The specialist card has been enchanted with the following item: {0}.'

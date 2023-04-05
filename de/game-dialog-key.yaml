@@ -151,7 +151,7 @@ CHARACTER_CREATION_INFO_ALREADY_TAKEN: Dieser Name wird bereits verwendet!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Der Name deines Charakters beinhaltet das Wort "{0}", welches verboten ist. Wenn du denkst, dass dies ein Fehler ist, kannst du ein Ticket auf unserem Support Discord Server eröffnen.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Dein Charaktername enthält nicht erlaubte Zeichen!
-CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: 'You must have a character of at least level {0} to create a martial artist'
+CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später nochmal.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht gelöscht werden. Bitte versuche es später erneut.
 CLASS_NAME_ADVENTURER: Abenteurer
@@ -747,6 +747,7 @@ PSP_ORKANI: Orkani der Stürmische
 PSP_PALINA: Puppenmeister Palina
 PSP_PERTI: Perti, der einflüglige Engel
 PSP_PHARAOH: Akhenaton der verfluchte Pharao
+PSP_QNA_REMOVE: Do you really want to remove your partner's specialist ?
 PSP_RAGNAR: Knochenkrieger Ragna
 PSP_SHERIFF_CHLOE: Sheriff Chloe
 PSP_SHINOBI: Shinobi der Leise
@@ -929,6 +930,7 @@ SPECIALIST_MESSAGE_LOW_SP_POINTS: Your base SP points are very low!
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
+SPECIALIST_QNA_REMOVE: Do you really want to remove your specialist ?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: You can not remove your Specialist in Talent Arena
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
 SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'The specialist card has been enchanted with the following item: {0}.'
