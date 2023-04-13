@@ -868,6 +868,9 @@ RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
+SHEEP_GAME_EVENT_NAME: Sheep Game
+SHEEP_GAME_SHOUT_END_PREPARATION: 'You will be teleported back in {0} seconds'
+SHEEP_GAME_SHOUT_START_PREPARATION: 'The game will start in {0} seconds!'
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Pour remplacer la rune, tu as d'abord besoin de parfumer l'équipement.
 SHELLS_DIALOG_ADD_OPTIONS: Es-tu sûr de vouloir ajouter une option à cet objet ? Il te sera lié.
 SHELLS_DIALOG_REPLACE_OPTIONS: Tu as 50% de chance d'écraser l'ancienne rune pour la nouvelle. Autrement, la nouvelle rune sera supprimée. Es-tu sûr de vouloir continuer ?
