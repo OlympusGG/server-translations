@@ -126,6 +126,7 @@ BID_MODAL_DISCLAIMER: >-
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Open auction
 BID_NOTIFMESSAGE_BOUGHT_ITEM: The auction has been won!
 BID_NOTIFMESSAGE_EXPIRED_ITEM: The auction has ended without any bidder
+BID_NOTIFMESSAGE_NEW_BID: Someone placed a new bid on your item!
 BID_NOTIFMESSAGE_OVERBID: You have been outbidded!
 BID_NOTIFMESSAGE_SOLD_ITEM: The auction has ended with a bidder!
 BID_NOTIFMESSAGE_TITLE: Auctioning System
@@ -869,8 +870,8 @@ RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHEEP_GAME_EVENT_NAME: Sheep Game
-SHEEP_GAME_SHOUT_END_PREPARATION: 'You will be teleported back in {0} seconds'
-SHEEP_GAME_SHOUT_START_PREPARATION: 'The game will start in {0} seconds!'
+SHEEP_GAME_SHOUT_END_PREPARATION: You will be teleported back in {0} seconds
+SHEEP_GAME_SHOUT_START_PREPARATION: The game will start in {0} seconds!
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Midyeyi değiştirmek için önce parfüm kullanarak kendine bağlamalısın.
 SHELLS_DIALOG_ADD_OPTIONS: Midyeyi işlemek istiyor musun? Bunu yaparsan eşya karakterine bağlanacak.
 SHELLS_DIALOG_REPLACE_OPTIONS: '%50 şansla bu midyeyi teçhizatına işlemek istiyor musun? Başarısız olursan midyeni kaybedeceksin.'
