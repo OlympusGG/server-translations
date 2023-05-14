@@ -1050,6 +1050,7 @@ VALENTINE_PROPOSE: Do you want to accept {0}'s Valentine's Day Gift?
 VALENTINE_PROPOSE_ACCEPTED: "{0} has accepted the Valentine's Day Gift."
 VALENTINE_PROPOSE_REJECTED: "{0} rejected the Valentine's Day gift."
 VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
+WARDROBE_INFO_NEED_KEY: You need a wardrobe key to use this feature.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'This return point is in cooldown. Time remaining: {0} seconds.'
