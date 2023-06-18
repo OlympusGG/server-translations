@@ -788,6 +788,7 @@ RAID_CHATMESSAGE_LOW_LEVEL: Bu akına katılmak için en az {0} seviye olman ger
 RAID_CHATMESSAGE_NEW_LEADER: 'Takımın yeni lideri: {0}'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın bulunamadı veya çoktan başlamış.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
+RAID_CHATMESSAGE_REWARD_BANNED: Due to repeated AFK raids, you cannot receive rewards for the next hour.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece lider akını başlatabilir.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Bir akın takımına üye değilsin.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın buradan başlatılamaz.

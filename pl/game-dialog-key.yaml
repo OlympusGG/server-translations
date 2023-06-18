@@ -788,6 +788,7 @@ RAID_CHATMESSAGE_LOW_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączy�
 RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Rajd nie istnieje lub już wystartował.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
+RAID_CHATMESSAGE_REWARD_BANNED: Due to repeated AFK raids, you cannot receive rewards for the next hour.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nie jestem liderem rajdu!
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nie jestem w drużynie rajdu!
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten portal jest błędny dla tego rajdu!

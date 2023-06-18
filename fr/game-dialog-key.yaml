@@ -788,6 +788,7 @@ RAID_CHATMESSAGE_LOW_LEVEL: Tu dois atteindre le niveau {0} pour rejoindre le ra
 RAID_CHATMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe"
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Ce raid n'existe plus ou a déjà commencé!
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: The raid was completed under {x}.
+RAID_CHATMESSAGE_REWARD_BANNED: Due to repeated AFK raids, you cannot receive rewards for the next hour.
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Seul le chef de l'équipe peut commencer le raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu n'es pas dans une équipe de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne peut pas être commencé ici.
