@@ -15,6 +15,7 @@ ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a été vaincu par {1}.
 ACT4_CHATMESSAGE_PVP_DEMONS: démons
 ACT4_CHATMESSAGE_PVP_KILL: '{1} a vaincu un gardien des {0}.'
+ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: You have already completed this dungeon on your account.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Tu as besoin d'une famille pour entrer dans le donjon !
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Act4 Dungeon: {0} has started for your faction'
 ACT4_DUNGEON_NOTIFY_TITLE: Act4
@@ -968,6 +969,9 @@ TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} sec
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
 TATTOO_ADDED: Tattoo added!
+TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
+TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.
+TATTOO_INFO_TAB_NOT_UNLOCKED: You need to unlock this tab using a Tattooist's Coin.
 TATTOO_SHOUT_MESSAGE_CANT_SWAP: You will be able to switch tattoo set in {0} seconds.
 TATTOO_SWITCH: You have successfully switched tattoo!
 TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
