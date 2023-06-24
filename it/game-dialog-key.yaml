@@ -57,6 +57,7 @@ ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resum
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
 ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas flies higher into the air to recover.
 ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: The injured Asgobas retreats.
+ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobas Instant Combat will start on channel {0} in 5 minutes.
 ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas is approaching.
 ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Asgobas' attack is about to start.
 ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobas' magic makes him stronger.
