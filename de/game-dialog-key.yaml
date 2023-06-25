@@ -445,6 +445,7 @@ INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Die maximale Anzahl aus Gefäßen beschworener Monster wurde für diese Karte erreicht.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Erhalten: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Erhalten {0}x {1}
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} picked up: {1} x{2}.'
 INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Die Abklingzeit beträgt eine Minute.
 INVENTORY_DIALOG_ASK_TO_DELETE: Möchtest du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du dir sicher, dass du diesen Gegenstand löschen möchtest?

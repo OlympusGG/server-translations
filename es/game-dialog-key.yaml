@@ -445,6 +445,7 @@ INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: El límite de monstruos de los vasos sellados en este mapa ha sido alcanzado.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Has adquirido: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Has adquirido {0}x {1}
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} picked up: {1} x{2}.'
 INVENTORY_DIALOG_ASK_SORT: ¿Quieres ordenar tus objetos? Tiene un minuto de enfriamiento.
 INVENTORY_DIALOG_ASK_TO_DELETE: ¿Quieres borrar este objeto?
 INVENTORY_DIALOG_SURE_TO_DELETE: ¿Estás seguro de que quieres borrar este objeto?
