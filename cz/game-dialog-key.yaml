@@ -445,7 +445,7 @@ INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Bylo dosaženo limitu příšer z plavidel
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Obdrženo: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Obdrženo {0}x {1}
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} picked up: {1} x{2}.'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} has received an item: {1}'
 INVENTORY_DIALOG_ASK_SORT: Chceš srovnat předměty v inventáři? Cooldown na další srovnání je 1 minuta.
 INVENTORY_DIALOG_ASK_TO_DELETE: Chceš smazat tento předmět?
 INVENTORY_DIALOG_SURE_TO_DELETE: Opravdu chceš smazat tento předmět?

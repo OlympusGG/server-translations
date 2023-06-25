@@ -445,7 +445,7 @@ INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Bu haritadaki maksimum mühürlü canavar sayısına ulaşıldı.
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Bir eşya aldın: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Bir eşya aldın: {1} x{0}'
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} picked up: {1} x{2}.'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} has received an item: {1}'
 INVENTORY_DIALOG_ASK_SORT: Öğelerinizi sıralamak ister misiniz? Bir dakikalık soğuma süresi vardır.
 INVENTORY_DIALOG_ASK_TO_DELETE: Eşyayı silmek istiyor musun?
 INVENTORY_DIALOG_SURE_TO_DELETE: Eşyayı silmek istediğine emin misin? Bu işlem geri alınamaz!

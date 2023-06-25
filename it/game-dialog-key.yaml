@@ -445,7 +445,7 @@ INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs
 INTERACTION_VESSEL_LIMIT_REACHED: Limite nella mappa di Mostri del Vaso Sigillato raggiunto
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: Acquisito {0}x {1}
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} picked up: {1} x{2}.'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} has received an item: {1}'
 INVENTORY_DIALOG_ASK_SORT: Vuoi riordinare il tuo inventario? Ha un minuto di ricarica.
 INVENTORY_DIALOG_ASK_TO_DELETE: Vuoi eliminare questo oggetto?
 INVENTORY_DIALOG_SURE_TO_DELETE: Sei sicuro di voler eliminare questo oggetto?
