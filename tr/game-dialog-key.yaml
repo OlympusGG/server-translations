@@ -76,6 +76,9 @@ BANK_MESSAGE_UNEXPECTED_ISSUE: '#BANK_MESSAGE_UNEXPECTED_ISSUE'
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Artan bakiye banka hesabına gönderildi.
 BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: '#BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE'
 BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
+BATTLE_ROYALE_NOTIFY_ACTION_OPEN: '#BATTLE_ROYALE_NOTIFY_ACTION_OPEN'
+BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_NOTIFY_DESC'
+BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_NOTIFY_TITLE'
 BAZAAR_CHATMESSAGE_ITEM_ADDED: "{0}x {1} - NosPazar'a yerleştirildi."
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Your item {0}x {1} has been sold in NosBazaar
 BAZAAR_INFO_ALREADY_USED_ITEM: This item is already used.
@@ -306,6 +309,7 @@ GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman teçhizatıyla şans oyunu oynayamazs�
 GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
 GAMBLING_MESSAGE_SUCCESS: 'Şans oyunu başarılı! Yeni nadirlik seviyesi: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled
+GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: You dont fulfill the necessary requirements to enter this mode
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: '{0} etkinliğine katılmak istiyor musun?'
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: '{1} karşılığında {0} etkinliğine katılmak istiyor musun?'
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Etkinliğe sadece genel haritalardan katılabilirsin.
@@ -498,8 +502,8 @@ ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu öğe geçici olarak devre dışı 
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} min.'
 LAND_OF_LIFE_DIALOG_ASK_REVIVE: '#LAND_OF_LIFE_DIALOG_ASK_REVIVE'
 LAND_OF_LIFE_QNA_ENTER: Would you like to move to the Land of Life?
-LAND_OF_LIFE_RECONNECT_EXPIRED: '#LAND_OF_LIFE_RECONNECT_EXPIRED'
-LAND_OF_LIFE_RECONNECT_QUESTION_MSG: '#LAND_OF_LIFE_RECONNECT_QUESTION_MSG'
+LAND_OF_LIFE_RECONNECT_EXPIRED: Sorry, rejoining Land of Life expired, you have to click faster next time.
+LAND_OF_LIFE_RECONNECT_QUESTION_MSG: Do you want to rejoin Land Of Life?
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: The altar has disappeared.
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: An altar has appeared somewhere.
 LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} has disappeared.'
