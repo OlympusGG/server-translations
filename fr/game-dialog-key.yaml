@@ -52,6 +52,7 @@ ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
 ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not receive any rewards because you didn't have enough contribution.
 ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
@@ -932,6 +933,8 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se sacrifie pour {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: L'effet du sacrifice a prit fin car le joueur est hors de portée.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: L'effet du sacrifice va prendre fin, rapproches-toi du joueur ciblé !
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Tu dois attendre que tous les rechargements soient terminés.
+SKILL_SHOUTMESSAGE_TAMING_FAILED: Taming failed.
+SKILL_SHOUTMESSAGE_TAMING_SUCCESS: Taming Successful.
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Orateur
@@ -976,6 +979,12 @@ TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
+TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has already reached the maximum.
+TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Can only upgrade once the maximum training level has been reached.
+TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
+TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: Your pet cannot evolve further.
+TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Essence can only be extracted from pets which have reached the maximum training level.
+TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your miniland.
 TATTOO_ADDED: Tattoo added!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
 TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.
