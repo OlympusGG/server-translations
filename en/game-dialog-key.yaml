@@ -979,12 +979,13 @@ TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
-TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has already reached the maximum.
+TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has already reached the maximum training level.
 TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Can only upgrade once the maximum training level has been reached.
 TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
 TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: Your pet cannot evolve further.
 TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Essence can only be extracted from pets which have reached the maximum training level.
 TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your miniland.
+TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}.
 TATTOO_ADDED: Tattoo added!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
 TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.
