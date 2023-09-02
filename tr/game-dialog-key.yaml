@@ -161,6 +161,9 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: Adın geçersiz karakterler içeriyor!
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Karakterin silinemedi. Lütfen Tekrar dene.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Karakterin silinemedi. Lütfen Tekrar dene.
+CHARACTER_RENAMING_INFO_NOT_ALLOWED: You can not rename this character, you need to use the Renaming Card item
+CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: 'Your character has been renamed to: {0}'
+CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Something wrong happened while renaming your character, please contact the support
 CLASS_NAME_ADVENTURER: Maceracı
 CLASS_NAME_ARCHER: Okçu
 CLASS_NAME_MAGE: Büyücü
@@ -916,6 +919,7 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: Bu yeteneğe zaten sahipsin.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Dönüşüm halindeyken yetenek öğrenemezsin.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Önce temel yeteneği öğrenmen gerek.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Yetenek silinemez!
+SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND: '#SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND'
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Büyü uygulaması kesildi.
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Bu türdeki mevcut beceri yükseltmesini değiştirmek istiyor musun?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Bu yeteneği öğrenemezsin!
@@ -979,13 +983,6 @@ TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
-TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has already reached the maximum.
-TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Can only upgrade once the maximum training level has been reached.
-TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
-TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: Your pet cannot evolve further.
-TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Essence can only be extracted from pets which have reached the maximum training level.
-TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your miniland.
-TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}.
 TATTOO_ADDED: Tattoo added!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
 TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.
