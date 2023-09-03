@@ -52,6 +52,7 @@ ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido matado por {1}'
 ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
 ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
@@ -160,6 +161,11 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: ¡Hay caracteres inválidos en tu nomb
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: No se ha podido eliminar tu personaje. Por favor inténtalo de nuevo más tarde.
+CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: '#CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET'
+CHARACTER_RENAMING_INFO_NEXT_LOGIN: '#CHARACTER_RENAMING_INFO_NEXT_LOGIN'
+CHARACTER_RENAMING_INFO_NOT_ALLOWED: '#CHARACTER_RENAMING_INFO_NOT_ALLOWED'
+CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: '#CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X'
+CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: '#CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR'
 CLASS_NAME_ADVENTURER: Aventurero
 CLASS_NAME_ARCHER: Arquero
 CLASS_NAME_MAGE: Mago
@@ -786,6 +792,7 @@ QUEST_SHOUTMESSAGE_LOW_LEVEL: Tu nivel es demasiado bajo para esta misión.
 QUEST_SHOUTMESSAGE_SLOT_FULL: No puedes aceptar más misiones.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} está buscando a miembros para el raid {1}!'
 RAID_CHATMESSAGE_AMULET_NEEDED: Necesitas el objeto {0} para unirte al raid.
+RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: '#RAID_CHATMESSAGE_DOUBLEBOX_LUCKY'
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} ha sido invitado al equipo de raid.'
 RAID_CHATMESSAGE_KICKED: Te han echado.
 RAID_CHATMESSAGE_KICKED_OTHER: El jugador fue echado.
@@ -915,6 +922,7 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: Ya has aprendido esta habilidad.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: No puedes aprender habilidades si estás transformado.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Primero tienes que aprender la habilidad básica.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: ¡No puedes reembolsar esta habilidad!
+SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND: '#SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND'
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: ¡Hechizo interrumpido!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: ¿Quieres reemplazar la mejora de habilidad actual de ese tipo?
 SKILL_SHOUTMESSAGE_CANT_LEARN: No puedes aprender esta habilidad.
@@ -932,6 +940,8 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se sacrifica por {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: El efecto de Sacrifio ha sido eliminado porque el jugador está fuera de rango.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: El efecto de Sacricio se va a eliminar, porque el jugador está muy lejos.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: ¡Tienes que esperar a que finalicen los enfriamientos!
+SKILL_SHOUTMESSAGE_TAMING_FAILED: '#SKILL_SHOUTMESSAGE_TAMING_FAILED'
+SKILL_SHOUTMESSAGE_TAMING_SUCCESS: '#SKILL_SHOUTMESSAGE_TAMING_SUCCESS'
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Altavoz

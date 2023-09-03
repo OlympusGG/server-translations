@@ -52,6 +52,7 @@ ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
 ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
+ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not receive any rewards because you didn't have enough contribution.
 ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
@@ -155,11 +156,16 @@ CELLON_SHOUTMESSAGE_SUCCESS: Option added.
 CHARACTER_CREATION_INFO_ALREADY_HAVE_MARTIAL_ARTIST: You can only have one martial artist
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: This name is already taken!
 CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
-CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist
+CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: You cannot yet create a martial artist.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Invalid characters in your nickname!
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
+CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: You have already used a Renaming Card without changing your name, change your name before using a new Renaming Card.
+CHARACTER_RENAMING_INFO_NEXT_LOGIN: You will be able to rename your character in your character selection screen.
+CHARACTER_RENAMING_INFO_NOT_ALLOWED: You can not rename this character, you need to use the Renaming Card item.
+CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: 'Your character has been renamed to: {0}.'
+CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Something wrong happened while renaming your character, please contact the support.
 CLASS_NAME_ADVENTURER: Adventurer
 CLASS_NAME_ARCHER: Archer
 CLASS_NAME_MAGE: Mage
@@ -786,6 +792,7 @@ QUEST_SHOUTMESSAGE_LOW_LEVEL: Your level is too low for this quest
 QUEST_SHOUTMESSAGE_SLOT_FULL: You cannot accept any more quests
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} is searching for members for raid: {1}!'
 RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
+RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: You got lucky and received a second box!
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} was invited to the raid team.'
 RAID_CHATMESSAGE_KICKED: You were kicked from the raid team.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} was kicked from the raid team.'
@@ -915,6 +922,7 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: You can't refund this skill!
+SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND: '#SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND'
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
@@ -932,6 +940,8 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} sacrifices for {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Sacrifice effect removed, because the player is out of range.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Sacrifice effect nearly removed, because the player is too far.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: You need to wait until all cooldowns finish!
+SKILL_SHOUTMESSAGE_TAMING_FAILED: Taming failed.
+SKILL_SHOUTMESSAGE_TAMING_SUCCESS: Taming Successful.
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Speaker
