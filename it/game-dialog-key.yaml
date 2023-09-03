@@ -161,6 +161,7 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: Il nome contiene caratteri non validi!
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: La cancellazione del personaggio non è andata a buon fine. Per favore, prova più tardi.
+CHARACTER_RENAMING_INFO_NEXT_LOGIN: You will be able to rename your character in your character selection screen.
 CHARACTER_RENAMING_INFO_NOT_ALLOWED: You can not rename this character, you need to use the Renaming Card item
 CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: 'Your character has been renamed to: {0}'
 CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Something wrong happened while renaming your character, please contact the support
@@ -790,6 +791,7 @@ QUEST_SHOUTMESSAGE_LOW_LEVEL: Il tuo livello non è sufficiente per questa missi
 QUEST_SHOUTMESSAGE_SLOT_FULL: Non puoi accettare altre missioni
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} è alla ricerca di membri per il Raid {1}!'
 RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
+RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: '#RAID_CHATMESSAGE_DOUBLEBOX_LUCKY'
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} è stato invitato al team del Raid.'
 RAID_CHATMESSAGE_KICKED: Sei stato espulso.
 RAID_CHATMESSAGE_KICKED_OTHER: Il giocatore è stato espulso.
