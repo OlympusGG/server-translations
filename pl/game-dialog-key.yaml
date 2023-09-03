@@ -161,6 +161,7 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: Nieprawidłowe znaki w nazwie!
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Nie udało sie pomyślnie usunąć twojej postaci. Spróbuj ponownie później.
+CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: '#CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET'
 CHARACTER_RENAMING_INFO_NEXT_LOGIN: You will be able to rename your character in your character selection screen.
 CHARACTER_RENAMING_INFO_NOT_ALLOWED: You can not rename this character, you need to use the Renaming Card item
 CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: 'Your character has been renamed to: {0}'
@@ -791,7 +792,7 @@ QUEST_SHOUTMESSAGE_LOW_LEVEL: Masz za niski poziom na tę misję.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nie masz miejsca na nową misję.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} poszukuję członków do rajdu: {1}!'
 RAID_CHATMESSAGE_AMULET_NEEDED: Potrzebujesz przedmiotu {0} aby dołączyć do tego rajdu.
-RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: '#RAID_CHATMESSAGE_DOUBLEBOX_LUCKY'
+RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: You have been lucky and won a second raid box.
 RAID_CHATMESSAGE_GROUP_REQUEST: Gracz {0} został zaproszony.
 RAID_CHATMESSAGE_KICKED: Zostałeś wyrzucony z drużyny.
 RAID_CHATMESSAGE_KICKED_OTHER: Gracz {0} został wyrzucony.
