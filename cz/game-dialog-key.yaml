@@ -52,7 +52,7 @@ ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem: {1}'
 ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: You received {0} job experience points as a reward for this phase.
-ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
+ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not receive any rewards because you didn't have enough contribution.
 ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: You will be revived in 20 seconds. You can then resume battle against Asgobas.
 ASGOBAS_SHOUTMESSAGE_FAILED: You didn't manage to defend Dragonveil.
@@ -161,11 +161,11 @@ CHARACTER_CREATION_INFO_INVALID_CHARNAME: Vaše jméno obsahuje neplatné znaky!
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: You must have a character of at least level {0} to create a martial artist
 CHARACTER_DELETION_INFO_FAILED: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Vaši postavu se nepodařilo úspěšně smazat. Prosím zkuste to znovu později.
-CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: '#CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET'
-CHARACTER_RENAMING_INFO_NEXT_LOGIN: '#CHARACTER_RENAMING_INFO_NEXT_LOGIN'
-CHARACTER_RENAMING_INFO_NOT_ALLOWED: '#CHARACTER_RENAMING_INFO_NOT_ALLOWED'
-CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: '#CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X'
-CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: '#CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR'
+CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: You have already used a Renaming Card without changing your name, change your name before using a new Renaming Card.
+CHARACTER_RENAMING_INFO_NEXT_LOGIN: You will be able to rename your character in your character selection screen.
+CHARACTER_RENAMING_INFO_NOT_ALLOWED: You can not rename this character, you need to use the Renaming Card item.
+CHARACTER_RENAMING_INFO_SUCCESSFULY_RENAMED_TO_X: 'Your character has been renamed to: {0}.'
+CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Something wrong happened while renaming your character, please contact the support.
 CLASS_NAME_ADVENTURER: Dobrodruh
 CLASS_NAME_ARCHER: Lukostřelec
 CLASS_NAME_MAGE: Mág
@@ -480,7 +480,8 @@ ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Chceš otevřít tento box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Chceš otevřít perlu s Mazlíčkem?
-ITEM_DIALOG_ASK_PET_STORE: Chceš uložit svého Mazlíčka do perly?
+ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead? IT'S STAR LEVEL WILL NOT BE SAVED.
+ITEM_DIALOG_ASK_PET_STORE_PET_TRAINER_BEAD: Do you want to place your NosMate in a bead? It's Star-Level will be saved.
 ITEM_DIALOG_ASK_USE: Chceš použít tento předmět?
 ITEM_DIALOG_WANT_TO_SAVE_POSITION: Chceš uložit svoji pozici?
 ITEM_INFO_PET_NAME_TOO_LONG: Jméno Mazlíčka je příliš dlouhé! (Maximálně 14 znaků)
@@ -792,7 +793,7 @@ QUEST_SHOUTMESSAGE_LOW_LEVEL: Tvůj level je na tuto misi příliš nízký
 QUEST_SHOUTMESSAGE_SLOT_FULL: Nemůžeš přijmout více misí.
 RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} hledá hráče na raid: {1}!'
 RAID_CHATMESSAGE_AMULET_NEEDED: You need {0} item to join this raid.
-RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: '#RAID_CHATMESSAGE_DOUBLEBOX_LUCKY'
+RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: You got lucky and received a second box!
 RAID_CHATMESSAGE_GROUP_REQUEST: '{0} byl pozván do raidu.'
 RAID_CHATMESSAGE_KICKED: Byl jsi vyhozen.
 RAID_CHATMESSAGE_KICKED_OTHER: Hráč byl vyhozen.
@@ -922,7 +923,6 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: Této dovednosti jsi již naučen.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nemůžeš se naučit dovednosti, když jsi transformován.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musíš se nejdříve naučit základní dovednosti.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: Nemůžeš požadovat navrácení za tuto dovednost!
-SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND: '#SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND'
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Kouzlo přerušeno!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Chceš nahradit aktuální vylepšení dovednosti tímto typem?
 SKILL_SHOUTMESSAGE_CANT_LEARN: Nemůžeš se učit této dovednosti.
@@ -940,8 +940,8 @@ SKILL_SHOUTMESSAGE_SACRIFICE: '{0} se obětoval pro {1}.'
 SKILL_SHOUTMESSAGE_SACRIFICE_REMOVED: Efekt oběti odebrán, hráč je mimo dosah.
 SKILL_SHOUTMESSAGE_SACRIFICE_WARNING: Efekt oběti téměř odebrán, protože je hráč příliš daleko.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Musíš počkat než vyprší veškeré cooldowny!
-SKILL_SHOUTMESSAGE_TAMING_FAILED: '#SKILL_SHOUTMESSAGE_TAMING_FAILED'
-SKILL_SHOUTMESSAGE_TAMING_SUCCESS: '#SKILL_SHOUTMESSAGE_TAMING_SUCCESS'
+SKILL_SHOUTMESSAGE_TAMING_FAILED: Taming failed.
+SKILL_SHOUTMESSAGE_TAMING_SUCCESS: Taming Successful.
 SKILL_SHOUTMESSAGE_WOLF_CANT_USE: Your wolf cannot use this skill for now.
 SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING: '#SP_CUSTOMIZER_SPSKIN_DELAY_SWAPPING'
 SPEAKER_NAME: Reproduktor
@@ -986,6 +986,15 @@ TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
+TAMING_CHATMESSAGE_PLAYER_X_UPGRADED_TO_6_STARS: '{0} has successfully increased the star rating of {1} to {2} stars.'
+TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has alrady reached the maximum training level.
+TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Can only upgrade once the maximum training level has been reached.
+TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
+TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: This pet has already reached the maximum grade.
+TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Can only extract essence once the maximum training level has been reached.
+TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your Miniland.
+TAMING_SHOUTMESSAGE_STAR_UPGRADE_SUCCESS: Star rating increased to {0}.
+TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}
 TATTOO_ADDED: Tattoo added!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
 TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.

@@ -480,7 +480,8 @@ ITEM_DIALOG_ASK_EXCHANGE: Do you want to exchange?
 ITEM_DIALOG_ASK_NOT_TRADABLE: Do you want to assign this item? It will be no longer tradable.
 ITEM_DIALOG_ASK_OPEN_BOX: Do you want to open this box?
 ITEM_DIALOG_ASK_OPEN_PET_BEAD: Do you want to take out your NosMate?
-ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead?
+ITEM_DIALOG_ASK_PET_STORE: Do you want to place your NosMate in a bead? IT'S STAR LEVEL WILL NOT BE SAVED.
+ITEM_DIALOG_ASK_PET_STORE_PET_TRAINER_BEAD: Do you want to place your NosMate in a bead? It's Star-Level will be saved.
 ITEM_DIALOG_ASK_USE: Do you want to use this item?
 ITEM_DIALOG_WANT_TO_SAVE_POSITION: Do you want to save your position?
 ITEM_INFO_PET_NAME_TOO_LONG: The NosMate name is too long! (14 characters max.)
@@ -922,7 +923,6 @@ SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.
 SKILL_CHATMESSAGE_NOT_TO_REFUND: You can't refund this skill!
-SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND: '#SKILL_CHATMESSAGE_TAMING_NOT_IN_MINILAND'
 SKILL_CHATMESSAGE_WAS_INTERRUPTED: Spell interrupted!
 SKILL_DIALOG_CONFIRM_REPLACE_UPGRADE: Do you want to replace the current skill upgrade of that type?
 SKILL_SHOUTMESSAGE_CANT_LEARN: You can't learn this skill.
@@ -986,6 +986,15 @@ TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} left the Arena of Talent'
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: You will be summoned in {0} seconds
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: You are temporarily banned from Arena of Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Your level is too low to enter Talent Arena.
+TAMING_CHATMESSAGE_PLAYER_X_UPGRADED_TO_6_STARS: '{0} has successfully increased the star rating of {1} to {2} stars.'
+TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: You cannot train your pet any more as it has alrady reached the maximum training level.
+TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Can only upgrade once the maximum training level has been reached.
+TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
+TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: This pet has already reached the maximum grade.
+TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Can only extract essence once the maximum training level has been reached.
+TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your Miniland.
+TAMING_SHOUTMESSAGE_STAR_UPGRADE_SUCCESS: Star rating increased to {0}.
+TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}.
 TATTOO_ADDED: Tattoo added!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Tattoo tab unlocked.
 TATTOO_INFO_ALREADY_MAX_TABS: You cannot have more tattoo tabs.
