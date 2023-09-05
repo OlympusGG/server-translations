@@ -993,6 +993,7 @@ TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Can only upgrade in your miniland.
 TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: This pet has already reached the maximum grade.
 TAMING_SHOUTMESSAGE_EXTRACT_FAILED: Can only extract essence once the maximum training level has been reached.
 TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Essence can only be extracted in your Miniland.
+TAMING_SHOUTMESSAGE_IMMUNE_TO_EXTRACTION: This pet is immune to essence extraction.
 TAMING_SHOUTMESSAGE_STAR_UPGRADE_SUCCESS: Star rating increased to {0}.
 TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}.
 TATTOO_ADDED: Tattoo added!
