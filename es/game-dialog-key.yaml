@@ -860,7 +860,7 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} se ha unido al equipo'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Blue team has surrended.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} has logged out.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: '#RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT'
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: 'You are banned from rainbow battle until {0}'
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."

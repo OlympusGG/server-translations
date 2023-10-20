@@ -860,7 +860,7 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Blue team has surrended.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} has logged out.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: '#RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT'
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: 'You are banned from rainbow battle until {0}'
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Twoja aktywność nie była wystarczająca duża, aby otrzymać nagrodę.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: 'Ze względu na twoje ostatnie opuszczanie BTK nie otrzymasz żadnych nagród. Pozostała ilość gier do rozegrania, aby otrzymać nagrodę: {0}. Jeśli nie będziesz aktywny podczas meczu, ta ilość gier nie zmniejszy się.'
