@@ -80,9 +80,11 @@ BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: '#BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST'
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: '#BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED'
 BASE_WARS_CHATMSG_ROLE_X_SELECTED: '#BASE_WARS_CHATMSG_ROLE_X_SELECTED'
 BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: '#BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT'
+BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: '#BASE_WARS_DUNGEON_BOSS_ROOM_OPEN'
 BASE_WARS_FIGHTING_PHASE_START: '#BASE_WARS_FIGHTING_PHASE_START'
 BASE_WARS_MSG_UPGRADE_X_BOUGHT: '#BASE_WARS_MSG_UPGRADE_X_BOUGHT'
 BASE_WARS_PREPARATION_PHASE: '#BASE_WARS_PREPARATION_PHASE'
+BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: '#BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED'
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: '#BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT'
 BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: '#BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE'
 BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
@@ -728,6 +730,9 @@ PET_SHOUTMESSGE_SAVED_BY_SAVER: Tu NosMate ha sido revivido por un Ángel Guardi
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: '#PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS'
 PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity System] {0} => [{1}/{2}], probabilidad para que te toque el premio: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity System] ¡Has adquirido {0} como recompensa extra!'
+PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX: '#PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX'
+PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX: '#PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX'
+PITY_CHATMESSAGE_TROPHY_COUNTER_TO_MAX: '#PITY_CHATMESSAGE_TROPHY_COUNTER_TO_MAX'
 POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: In order to create a Pocket Dimension, all your group members have to be on the same map.
 POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Group member {0} is under cooldown to create a new Pocket Dimension.
 POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, you need a group
@@ -860,7 +865,7 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} se ha unido al equipo'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Blue team has surrended.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} has logged out.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This flag is already captured by your team.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: 'You are banned from rainbow battle until {0}'
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: You are banned from rainbow battle until {0}
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} second to capture this flag.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."
@@ -908,6 +913,7 @@ RUNE_MSG_REPAIRED: Repaired the damaged weapon.
 RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
+RUNE_MSG_UPGRADE_SUCCESS_PITY: '#RUNE_MSG_UPGRADE_SUCCESS_PITY'
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SHEEP_GAME_EVENT_NAME: Sheep Game
 SHEEP_GAME_SHOUT_END_PREPARATION: You will be teleported back in {0} seconds
@@ -973,6 +979,7 @@ SPECIALIST_CHATMESSAGE_TRANSFORMATION_NEEDED: ¡Tienes que estar transformado en
 SPECIALIST_DIALOG_ASK_CONFIRMATION: Do you want to upgrade your Specialist Card ?
 SPECIALIST_DIALOG_NEED_MAX_UPGRADE: Your specialist card must be +20.
 SPECIALIST_MESSAGE_LOW_SP_POINTS: ¡Tus puntos de SP base son demasiado bajos!
+SPECIALIST_MSG_NEED_PERFECTION: '#SPECIALIST_MSG_NEED_PERFECTION'
 SPECIALIST_MUST_BE_EQUIPMENT_INVENTORY: The specialist card must be in the Equipment pocket of the inventory.
 SPECIALIST_NEED_MAX_PERFECTION: This specialist card is not fully perfected.
 SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
@@ -984,10 +991,12 @@ SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: La Tarjeta de Especialista está en enfriam
 SPECIALIST_SHOUTMESSAGE_LEVELUP: ¡Nivel de Especialista aumentado!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: ¡No te quedan puntos de SP! ¡No te puedes transformar!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: No te puedes quitar la Tarjeta de Especialista, debido a que tienes un efecto negativo.
+SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY: '#SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY'
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: ¡Has añadido {0} puntos de SP!
 SPECIALIST_SHOUTMESSAGE_POINTS_RESET: ¡Puntos de SP reiniciados!
 SPECIALIST_SHOUTMESSAGE_RESURRECTED: ¡Tu Tarjeta de Especialista ha sido resucitada!
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: ¡Tienes que estar transformado en tu Tarjeta de Especialista para hacer esto!
+SPECIALIST_SHOUTMESSAGE_WRONG_CLASS_DAILY: '#SPECIALIST_SHOUTMESSAGE_WRONG_CLASS_DAILY'
 SUM_MESSAGE_FAILED: Suma fallada.
 SUM_MESSAGE_SUCCESS: ¡Suma exitosa!
 SUMMER_EVENT_INFO_PIRATE_GAMBLE: Do you want to trade a pirate sp fragment for a chance to receive the Pirate Specialist ?
@@ -1028,6 +1037,7 @@ TATTOO_UPGRADE_DOWNGRADE: Tattoo level downgraded...
 TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo upgrade failed but was protected from downgrade.
 TATTOO_UPGRADE_FAIL: Tattoo upgrade failed...
 TATTOO_UPGRADE_SUCCESS: Tattoo upgrade succeeded!
+TATTOO_UPGRADE_SUCCESS_PITY: '#TATTOO_UPGRADE_SUCCESS_PITY'
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Tienes que esperar después del ataque.
 TIMESPACE_CHATMESSAGE_EASY_MODE: El time-space está en modo fácil - la duración ha aumentado y no podrás seleccionar recompensa.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: ¡El portal está bloqueado!
