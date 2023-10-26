@@ -911,7 +911,7 @@ RUNE_MSG_NOT_RUINED: Can only be used on damaged weapons.
 RUNE_MSG_REMOVED: Rune removed.
 RUNE_MSG_REPAIRED: Repaired the damaged weapon.
 RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
-RUNE_MSG_UPGRADE_RUINED: The weapon was damaged in the process.
+RUNE_MSG_UPGRADE_RUINED: The equipment was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added!
 RUNE_MSG_UPGRADE_SUCCESS_PITY: '#RUNE_MSG_UPGRADE_SUCCESS_PITY'
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
