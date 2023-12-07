@@ -1000,7 +1000,7 @@ SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialist Card is in cooldown - {0} second
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Specialist level increased!
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: You have no SP points left! You can't transform now!
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: You can't remove the Specialist Card because of a negative effect.
-SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY: '#SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY'
+SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY: 'A specialist card can only be claimed once per day!'
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: You added {0} SP points!
 SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP points reset!
 SPECIALIST_SHOUTMESSAGE_RESURRECTED: Your Specialist Card soul has been resurrected!
