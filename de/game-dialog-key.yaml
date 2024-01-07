@@ -723,14 +723,49 @@ POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimensi
 PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich noch nicht bewegen.
+PSP_AEGIR: Aegir der Wütende
+PSP_AMON: Aufseher Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Erzdämon Amon
+PSP_BARNI: Barni der Schlaue
+PSP_CHEONGBI: Imp Cheongbi
+PSP_CHLOE: Cowgirl Chloe
+PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Möchtest du alle Fähigkeiten der Spezialistenkarte deines Partners zurücksetzten?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Möchtest du diese Fähigkeit zurücksetzten?
 PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
 PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
 PSP_DIALOG_SKILL_MAX_LEVEL: You cannot upgrade skills that already reached the S rank.
+PSP_ELIZA: Eisprinzessin Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya die Schicksalhafte
+PSP_GUARDIAN_LUCIFER: Wächter Lucifer
+PSP_HARLEQUIN: Harlequin
+PSP_HONGBI: Imp Hongbi
+PSP_JINN: Jinn
+PSP_LAURENA: Hexe Laurena
+PSP_LOTUS: Lotus die Elegante
+PSP_LUCIFER: Erzengel Lucifer
+PSP_LUCY: Lucy Löffel
+PSP_MACAVITY: Testobjekt
+PSP_MAD_MARCH_HARE: Wütender Märzhase
+PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: Alle Partnerfähigkeiten wurden zurückgesetzt.
 PSP_MESSAGE_ONE_SKILL_RESET: Partnerfähigkeit wurde zurückgesetzt.
+PSP_MOTHER_MARU: Maru in Mama's Pelz
+PSP_NELIA: Nelia Nymph
+PSP_ORKANI: Orkani der Stürmische
+PSP_PALINA: Puppenmeister Palina
+PSP_PERTI: Perti, der einflüglige Engel
+PSP_PHARAOH: Akhenaton der verfluchte Pharao
 PSP_QNA_REMOVE: Do you really want to remove your partner's specialist ?
+PSP_RAGNAR: Knochenkrieger Ragna
+PSP_SHERIFF_CHLOE: Sheriff Chloe
+PSP_SHINOBI: Shinobi der Leise
+PSP_TEST_SUBJECT: Test Subject
+PSP_VENUS: Kleine Prinzessin Venus
+PSP_YUNA: Zauberlehrling Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} gesammelt: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Dieser Kenkosoldat ist zu stark!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: Du kannst eine neue Quest beim NPC annehmen.

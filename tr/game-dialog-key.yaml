@@ -723,14 +723,49 @@ POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimensi
 PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
 PORTAL_CHATMESSAGE_BLOCKED: Kilitli!
 PORTAL_CHATMESSAGE_TOO_EARLY: Kısa süre içerisinde ilerleyebilirsin.
+PSP_AEGIR: Kızgın Aegir
+PSP_AMON: Gözetmen Amon
+PSP_AMORA: Amora
+PSP_ARCHDAEMON_AMON: Başşeytan Amon
+PSP_BARNI: Akıllı Barni
+PSP_CHEONGBI: Imp Cheongbi
+PSP_CHLOE: Kovboy Kız Chloe
+PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Partner Uzmanlık Kartının tüm yeteneklerini sıfırlamak istiyor musun?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Bu yeteneği sıfırlamak istiyor musun?
 PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Do you want to upgrade the rank of this skill?
 PSP_DIALOG_ONE_SKILL_UPGRADED: The rank of the skill has been increased.
 PSP_DIALOG_SKILL_MAX_LEVEL: You cannot upgrade skills that already reached the S rank.
+PSP_ELIZA: Buz Prensesi Eliza
+PSP_FIONA: Fiona
+PSP_FOXY: Foxy
+PSP_FREYA: Freya
+PSP_GUARDIAN_LUCIFER: Koruyucu Lucifer
+PSP_HARLEQUIN: Harlequin
+PSP_HONGBI: Imp Hongbi
+PSP_JINN: Cin
+PSP_LAURENA: Cadı Laurena
+PSP_LOTUS: Zarif Lotus
+PSP_LUCIFER: Başmelek Lucifer
+PSP_LUCY: Lucy Lopears
+PSP_MACAVITY: Denek
+PSP_MAD_MARCH_HARE: Deli Mart Tavşanı
+PSP_MARU: Maru
 PSP_MESSAGE_ALL_SKILLS_RESET: Partnerin tüm yetenekleri sıfırlandı.
 PSP_MESSAGE_ONE_SKILL_RESET: Yetenek sıfırlandı.
+PSP_MOTHER_MARU: Maru Anne Postunda
+PSP_NELIA: Su Perisi Nelia
+PSP_ORKANI: Fırtınalı Orkani
+PSP_PALINA: Palina Kukla Ustası
+PSP_PERTI: Tek Kanatlı Melek Perti
+PSP_PHARAOH: Lanetli Firavun Akhenaton
 PSP_QNA_REMOVE: Do you really want to remove your partner's specialist ?
+PSP_RAGNAR: Kemik Savaşçısı Ragnar
+PSP_SHERIFF_CHLOE: Şerif Chloe
+PSP_SHINOBI: Sessiz Shinobi
+PSP_TEST_SUBJECT: Test Subject
+PSP_VENUS: Küçük Prenses Venüs
+PSP_YUNA: Büyülü Öğrenci Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} toplandı: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
