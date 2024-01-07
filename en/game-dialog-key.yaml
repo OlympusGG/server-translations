@@ -34,7 +34,7 @@ ACT4_SHOUTMESSAGE_FLAG_ALREADY_IN: The camp is already set up.
 ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: Your family doesn't have a camp built.
 ACT4_SHOUTMESSAGE_FLAG_PLACED: Your family camp has been built.
 ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} has defeated Lord Mukraju!'
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} couldn't defeat Lord Mukraju in time.'
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} couldn't defeat Lord Mukraju in time."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} has summoned Lord Mukraju!'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: You need to be in a family to build a camp.
 ACT5_CHATMESSAGE_NO_RECIPE: No recipe for this type of exchange was found.
@@ -202,8 +202,8 @@ COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: You can only use costumes bound to your c
 COSTUME_FUSION_NOT_PERMANENT: You can only fuse permanent costumes.
 COSTUME_FUSION_SUCCESS: Costumes have been fused successfully.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
-DIGNITY_CHATMESSAGE_LOSS: Dignity: -{0}
-DIGNITY_CHATMESSAGE_RESTORE: Dignity: +{0}
+DIGNITY_CHATMESSAGE_LOSS: 'Dignity: -{0}'
+DIGNITY_CHATMESSAGE_RESTORE: 'Dignity: +{0}'
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: You can't summon more dolls.
 DOLL_SHOUTMESSAGE_NOT_IN_ZONE: You aren't in the designated zone.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Incorrect drop amount.
@@ -213,7 +213,7 @@ DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map.
 DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Player {0} has refused your duel request.'
 DUEL_CHATMESSAGE_USER_OFFLINE: The challenger is no longer online.
-DUEL_CHATMESSAGE_WON: You have won the duel! Score: {0}-{1}
+DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
 DUEL_DIALOG_REVIVAL: Continue?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
@@ -228,10 +228,10 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: You can only encourage someone if you have rea
 ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: This item cannot be converted.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: The item was successfully converted {0}.
-FAMILY_ACHIEVEMENT_UNLOCKED: Family achievement unlocked: {0}
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) has logged in!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade.
-FAMILY_CHATMESSAGE_XP_GAINED: Family Reward: {0} FXP
+FAMILY_CHATMESSAGE_XP_GAINED: 'Family Reward: {0} FXP'
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: This family member already has this authority.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Do you want to dismiss your family? It can't be undone.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Are you sure you want to join the family?
@@ -333,7 +333,7 @@ GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Gambling failed, but the item was saved from
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: You have the 'Safe Gamble' option enabled, disable it if you want to gamble without amulet.
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: You can't gamble a heroic item.
 GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: This item is not heroic.
-GAMBLING_MESSAGE_SUCCESS: Gambling succeeded! New rarity level: {0}
+GAMBLING_MESSAGE_SUCCESS: 'Gambling succeeded! New rarity level: {0}'
 GAME_FEATURE_DISABLED: This game feature is currently disabled.
 GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: You don't fulfill the necessary requirements to enter this mode.
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: Do you want to participate in {0}?
@@ -345,7 +345,7 @@ GAMEEVENT_SHOUTMESSAGE_PREPARATION_MINUTES: '{0} will start in {1} minutes.'
 GAMEEVENT_SHOUTMESSAGE_PREPARATION_SECONDS: '{0} will start in {1} seconds.'
 GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} will finish in a minute.'
 GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: You are too far to unfreeze.
-GROUP_CHATMESSAGE_DROP_ORDERED: (Group) [{0}x {1}] for: {2}
+GROUP_CHATMESSAGE_DROP_ORDERED: '(Group) [{0}x {1}] for: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Group) [{0}x {1}] for everyone
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} refused your group request.'
 GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point of return as yours?
@@ -384,7 +384,7 @@ ICEBREAKER_SHOUTMESSAGE_END: The Ice Breaker has ended.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: The Ice Breaker will end in {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP will be enabled in {0} seconds.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Ice Breaker registration ending in {0} seconds.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: You don't have enough gold to participate in the Ice Breaker (required: {0} gold)
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "You don't have enough gold to participate in the Ice Breaker (required: {0} gold)"
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: There are not enough players to start the Ice Breaker.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: You need to be in a Base Map to participate in the Ice Breaker.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Player '{0}' has been frozen.
@@ -400,12 +400,12 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Not enough reputation.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Your level is too low.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: This item is not yours.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: The NosMerchant Medal is currently active.
-INFORMATION_CHATMESSAGE_PSP_STAY_TIME: Partner Specialist transformation in cooldown: {0} seconds
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: Reputation: -{0}
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: Reputation: +{0}
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner Specialist transformation in cooldown: {0} seconds'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputation: -{0}'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputation: +{0}'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Used {1}x {0}.
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Protection Scroll has been used.
-INFORMATION_CHATMESSAGE_SP_STAY_TIME: Specialist transformation in cooldown: {0} seconds
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Specialist transformation in cooldown: {0} seconds'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: You are not eligible to use this.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: User has blocked private messages.
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Sent to '{0}' on channel {1}.
@@ -455,7 +455,7 @@ INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: The player is not on a general map.
 INSTANT_COMBAT_NAME: Instant Combat
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: The Instant Combat will end in {0} minutes.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monsters incoming...
-INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: Monsters remaining: {0}
+INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Monsters remaining: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: The Instant Combat will end in {0} seconds.
 INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Congratulations! You won the Instant Combat.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Unfortunately, you couldn't defeat the wave and receive the loot.
@@ -473,7 +473,7 @@ INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: To change the wings of the S
 INTERACTION_SPEAKER_UNDER_COOLDOWN: You can only use one speaker per 30 seconds.
 INTERACTION_SPEAKER_URLS_FORBIDDEN: Speakers can't contain URLs.
 INTERACTION_VESSEL_LIMIT_REACHED: Vessel monster count has reached the limit for the current map.
-INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: Acquired: {1} x{0} + {2}
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Acquired: {1} x{0}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} has received an item: {1}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
@@ -489,7 +489,7 @@ ITEM_CHATMESSAGE_NO_GILLION: You don't have enough Gillion Stone.
 ITEM_CHATMESSAGE_ON_MOUNT: While being on the vehicle, you can only use snacks and potions.
 ITEM_CHATMESSAGE_PARTNER_EQ_NO_HEROIC: You can't transform a champion equipment into partner equipment.
 ITEM_CHATMESSAGE_PVP_COOLDOWN: You can't use this item because you recently participated in a fight with a player.
-ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: You have already set up a signpost. Time remaining: {0}
+ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'You have already set up a signpost. Time remaining: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Item's ({0}) duration has expired.
 ITEM_CHATMESSAGE_UNFIXED: Your item is no longer fixed.
 ITEM_DIALOG_ASK_BIND: Do you want to equip this item? It will bind this item to your character and you won't be able to trade it.
@@ -526,7 +526,7 @@ ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
-LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: Remaining Land of Life Time: {0} minutes.
+LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Remaining Land of Life Time: {0} minutes.'
 LAND_OF_LIFE_DIALOG_ASK_REVIVE: '#LAND_OF_LIFE_DIALOG_ASK_REVIVE'
 LAND_OF_LIFE_QNA_ENTER: Would you like to join the Land of Life?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Sorry, rejoining Land of Life expired. You have to click faster next time.
@@ -549,7 +549,7 @@ LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Land of Death is closed.
 LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Land of Death is under maintenance.
 LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Only family members can enter the Land of Death.
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: You can't receive more Loyalty Coins from this activity for today.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'You have received {0} coins completing an activity from the Loyalty System. Remaining daily activity completions: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: You can't receive more Loyalty Coins today.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: You got a parcel ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: You have {0} mail(s) in your inbox.
@@ -559,9 +559,9 @@ MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You must wait {0} seconds before claiming all 
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: A maintenance is scheduled on {0}. ({1} remaining)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: The maintenance has been executed.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: The maintenance has been lifted.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: Change of maintenance time. New time to start: {0} hours.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: Change of maintenance time. New time to start: {0} minutes.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: Change of maintenance time. New time to start: {0} seconds.
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Change of maintenance time. New time to start: {0} hours.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Change of maintenance time. New time to start: {0} minutes.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Change of maintenance time. New time to start: {0} seconds.'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: The maintenance has been stopped.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: The maintenance will start in {0} hour(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: The maintenance will start in {0} minute(s).
@@ -575,7 +575,7 @@ MESSAGE_UNDER_CHAT_5: 'Payment or in-game issue? Visit our Support Discord serve
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames' production points have been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
-MINIGAME_INFO_REFILL: Minigame contribution points: {0}
+MINIGAME_INFO_REFILL: 'Minigame contribution points: {0}'
 MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: You need to be level {0} and have {1} reputation to play this minigame.
 MINILAND_CHEST_CHATMESSAGE_X_ITEM_ACQUIRED: Added {0}x {1} to the Miniland chest.
 MINILAND_DIALOG_ASK_INVITE: Do you want to join {0}'s Miniland?
@@ -588,7 +588,7 @@ MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Not enough Reward Coupons.
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Not enough durability points.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Not enough Miniland production points.
 MINILAND_INFO_WAREHOUSE_INVALID_ITEM: This item can't be put in warehouse.
-MINILAND_MESSAGE_VISITOR: Total visits: {0}, Daily visits: {1}
+MINILAND_MESSAGE_VISITOR: 'Total visits: {0}, Daily visits: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland is closed.
 MINILAND_SHOUTMESSAGE_FULL: Miniland is full.
 MINILAND_SHOUTMESSAGE_LOCK: Miniland is now locked.
@@ -603,7 +603,7 @@ MUTE_MESSAGE_MALE: I was a very naughty boy so I got punished!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: This player is muted.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: You are muted.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: '{0} won the big prize at the God's Altar!'
+MYSTERY_BOX_SUPER_REWARD: "{0} won the big prize at the God's Altar!"
 NOTE_CHATMESSAGE_NEW_NOTE: A new note has arrived.
 NOTE_CHATMESSAGE_YOU_HAVE_X_NOTES: You have {0} note(s) in your inbox.
 NOTE_INFO_CANT_SEND_TO_SELF: You can't send a note to yourself.
@@ -668,7 +668,7 @@ PAIMON_RAID_SAY_CANT_USE_RIFT: Err... I can't do that...
 PAIMON_RAID_SHOUTMESSAGE_RIFT_CLOSED: The rift in the sky has been sealed. The monster invasion is now kept at bay for a short time.
 PAIMON_RAID_SHOUTMESSAGE_RIFT_OPENED: The rift in the sky has been reopened. The monster invasion continues.
 PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: This item cannot be put in partner backpack.
-PARTNER_CHATMESSAGE_BEAD_EXTRACT: You got a new Partner: {0}
+PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'You got a new Partner: {0}'
 PARTNER_CHATMESSAGE_EAT_EVERYTHING: Your Partner is full.
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Partner Specialist Card cooldown is up.
 PARTNER_DIALOG_ASK_SLOT_INCREASE: Do you want to expand your partner slots?
@@ -689,7 +689,7 @@ PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: You already have this partner.
 PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: You can't take or send back your partner when it has skills in cooldown.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Your Partner {0} has leveled up!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner revived by Partner Guardian Angel.
-PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: Partner Specialist Card is in cooldown: {0} seconds
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Partner Specialist Card is in cooldown: {0} seconds'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner went back to Miniland.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner will be back in 3 minutes.
 PARTNER_WAREHOUSE_MESSAGE_NO_ENOUGH_PLACE: Not enough space in partner warehouse.
@@ -703,13 +703,13 @@ PERFECTSP_FIRE: Fire Resistance
 PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Light Resistance
 PERFECTSP_MESSAGE_FAILURE: SP Perfection failed!
-PERFECTSP_MESSAGE_SUCCESS: Perfection successful: {0} +{1}
+PERFECTSP_MESSAGE_SUCCESS: 'Perfection successful: {0} +{1}'
 PERFECTSP_SHADOW: Shadow Resistance
 PERFECTSP_WATER: Water Resistance
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: You bought {1}x {0} from {2}.
-PERSONAL_SHOP_LOG_PURCHASE_OWNER: {0} bought {2}x {1}.
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} bought {2}x {1}.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Your NosMate can already pick up items.
-PET_CHATMESSAGE_BEAD_EXTRACT: You got a new NosMate: {0}
+PET_CHATMESSAGE_BEAD_EXTRACT: 'You got a new NosMate: {0}'
 PET_CHATMESSAGE_CAN_PICK_UP: Your NosMate can now pick up items.
 PET_CHATMESSAGE_EAT_EVERYTHING: Your NosMate is full.
 PET_DIALOG_ASK_SEND_BACK: Do you want to send your NosMate back to the Miniland?
@@ -722,10 +722,10 @@ PET_MESSAGE_IS_ALREADY_SUMMONABLE: You can already summon your NosMate!
 PET_MESSAGE_KICKED: Your NosMate has returned to the Miniland.
 PET_MESSAGE_SUMMONABLE: You can now summon your NosMate at any moment.
 PET_SHOUTMESSAGE_ATTACK_FAIL: Your NosMate's attack level upgrade failed.
-PET_SHOUTMESSAGE_ATTACK_UPGRADED: Your NosMate's attack level has increased: +{0} -> +{1}
+PET_SHOUTMESSAGE_ATTACK_UPGRADED: "Your NosMate's attack level has increased: +{0} -> +{1}"
 PET_SHOUTMESSAGE_CANNOT_EVOLVE: This pet can't evolve.
 PET_SHOUTMESSAGE_DEFENSE_FAIL: Your NosMate's defense level upgrade failed.
-PET_SHOUTMESSAGE_DEFENSE_UPGRADED: Your NosMate's defense level has increased: +{0} -> +{1}
+PET_SHOUTMESSAGE_DEFENSE_UPGRADED: "Your NosMate's defense level has increased: +{0} -> +{1}"
 PET_SHOUTMESSAGE_DIGNITY_LOW: You can't bring any NosMates because your dignity is too low.
 PET_SHOUTMESSAGE_EVOLUTION_FAILED: Pet evolution failed.
 PET_SHOUTMESSAGE_EVOLUTION_SUCCESS: Pet evolution succeeded.
@@ -877,7 +877,7 @@ RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: This crystal is already captured by
 RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: You are banned from Rainbow Battle until {0}.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: You need to wait {0} seconds to capture this crystal.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: You weren't active enough to receive the reward.
-RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number.
+RAINBOW_BATTLE_CHATMESSAGE_PENALTY_LEFT: "Because lately you have left a Rainbow Battle match, you will not receive any rewards. Remaining matches to play: {0}. If you're not active during a match, it won't count towards this number."
 RAINBOW_BATTLE_CHATMESSAGE_PENALTY_NEXT_REWARD: Because lately you have left a Rainbow Battle match, you will not receive any rewards. You will be able to receive rewards in the next Rainbow Battle match.
 RAINBOW_BATTLE_EVENT_NAME: Rainbow Battle
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Player {0} captured the crystal: {1}'
@@ -1127,7 +1127,7 @@ VALENTINE_PROPOSE_SENT: '{0} has been asked to accept the gift.'
 WARDROBE_INFO_NEED_KEY: You need a wardrobe key to use this feature.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Are you sure you want to remove your Warp at map {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: You can't join this map.
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: This return point is in cooldown. Time remaining: {0} seconds
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'This return point is in cooldown. Time remaining: {0} seconds'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: You can't join this map yet. You are either in combat or under change map cooldown.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: You can't set a Warp on this map.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Do you want to get a divorce?
