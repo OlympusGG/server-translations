@@ -20,7 +20,7 @@ RAID_NAME_MADMARCHHARE: Mad March Hare
 RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
 RAID_NAME_CARNO: Twisted Beast King Carno
 RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon 
+RAID_NAME_PAIMON: Evil Overlord Paimon
 RAID_NAME_PIRATE: Captain Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
 RAID_NAME_FOXY: Foxy
@@ -49,3 +49,6 @@ ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She'
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
 FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
 PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
+PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Pete O'Peng Deniz Ejderhalarını çağırdı!
+RAID_NAME_FAFNIR: Açgözlü Fafnir
+FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Hepinizi eriteceğim!

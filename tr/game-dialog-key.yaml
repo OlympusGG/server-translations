@@ -137,8 +137,11 @@ BID_MODAL_DISCLAIMER: >-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
 
   To ensure a fair and responsive Bid System for our players, you will not be able to:
+
   	- Remove an Auctioned Item before its end date if someone has already Bid.
+
   	- Back-down from a Bid done to an Auctioned Item.
+
 
   The button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
 
@@ -187,7 +190,7 @@ CLASS_NAME_ARCHER: Okçu
 CLASS_NAME_MAGE: Büyücü
 CLASS_NAME_MARTIAL_ARTIST: Dövüş Sanatçısı
 CLASS_NAME_SWORDSMAN: Kılıç Ustası
-COMMANDS_CHATMESSAGE_UNDOCUMENTED: Belgelenmemiş.
+COMMANDS_CHATMESSAGE_UNDOCUMENTED: Belgelenmemiş
 COMMANDS_CHATMESSAGE_USAGES: '[Komutun kullanılışı]'
 COSTUME_FUSION_ALREADY_FUSED: This costume has already been fused with another one before.
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: You can only use costumes bound to your character.
@@ -242,7 +245,7 @@ FAMILY_INFO_INVITATION_REFUSED: Aile daveti reddedildi.
 FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: This person cannot join a family yet.
 FAMILY_INFO_KICK_SUCCESSFULL: User kicked.
 FAMILY_INFO_LEAVE: Aileyi terk ettin.
-FAMILY_INFO_NAME_ALREADY_USED: Bu aile adı zaten kullanılıyor!
+FAMILY_INFO_NAME_ALREADY_USED: Bu aile adı zaten kullanılıyor.
 FAMILY_INFO_NO_FAMILY: Bir ailen yok.
 FAMILY_INFO_NO_FAMILY_RIGHT: Gerekli yetkiye sahip değilsin.
 FAMILY_INFO_NO_FAMILY_WAREHOUSE: Aile deposu bulunamadı.
@@ -302,7 +305,7 @@ FRIEND_INFO_DELETED: Arkadaş silindi.
 FRIEND_INFO_FRIENDLIST_FULL: Arkadaş listen dolu!
 FRIEND_INFO_REFUSED: Arkadaşlık isteği reddedildi.
 FRIEND_INFO_REQUEST_BLOCKED: Bu oyuncu arkadaşlık davetlerini kabul etmiyor.
-FRIEND_MESSAGE_NOT_FRIEND: Arkadaş değilsiniz!
+FRIEND_MESSAGE_NOT_FRIEND: Bunu yapmak için arkadaş olmanız gerekiyor.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Bu oyuncu arkadaş listende değil.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Arkadaşın düşman tarafta!
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Bu eşya sabitlenmiş.
@@ -377,8 +380,8 @@ INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Your level is not high enough to t
 INFORMATION_CHATMESSAGE_NO_WINGS: Arkadaşlık Kanatların yok.
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Yetersiz BP
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Yetersiz itibar
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Seviyen çok düşük!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Bu eşya senin değil!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Seviyen çok düşük.
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Bu eşya senin değil.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: NosTüccar Madalyası aktifleştirildi.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerin Uzman Kartı dönüşümü için kalan süre: {0} saniye.'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'İtibarın düştü: -{0}!'
@@ -395,13 +398,13 @@ INFORMATION_INFO_PLAYER_IN_BATTLE: '{0} savaşta'
 INFORMATION_INFO_PLAYER_OFFLINE: Çevrimiçi değil
 INFORMATION_MESSAGE_LOW_JOB: Yetersiz iş seviyesi
 INFORMATION_MESSAGE_MAX_GOLD: Maksimum altın limitine ulaşıldı!
-INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Aç değilim!
-INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Aç değilim!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Aç değilim.
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Aç değilim.
 INFORMATION_MESSAGE_USER_NOT_CONNECTED: Oyuncu çevrimiçi değil.
 INFORMATION_MESSAGE_USER_NOT_FOUND: Oyuncu bulunamadı.
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Sınıfın değiştirildi!
-INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Ekipmanın boş değil!
-INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} seviye atladı!'
+INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Sınıfını değiştirmeden önce Maceracı eşyalarını çıkar.
+INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: '{0} seviye atladı.'
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: '{0} maksimum seviyeye ulaştı!'
 INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: İş seviyen yükseldi!
 INFORMATION_SHOUTMESSAGE_LEVELUP: Seviyen yükseldi!
@@ -430,7 +433,7 @@ INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Sunucu {0} saniye içerisinde kapatılaca
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Uzmanlık Kartı geliştirilmek için en az {0} seviye olmalı.
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Puanlar dağıtıldı.
 INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
-INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Seviyen çok düşük!
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Seviyen çok düşük.
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Hedef genel haritada değil.
 INSTANT_COMBAT_NAME: Ani Savaş
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Ani Savaş {0} dakika sonra bitecek.
@@ -661,7 +664,7 @@ PARTNER_INFO_LEVEL_IS_TOO_LOW: Partnerin seviyesi yetersiz.
 PARTNER_INFO_NEED_AGILITY_POINTS: Partnerin hüneri yetersiz.
 PARTNER_INFO_NO_PARTNER_IN_TEAM: Seni takip eden bir partner yok.
 PARTNER_INFO_RELEASED: Partnerine veda ediyorsun.
-PARTNER_INFO_SP_NEW_SKILL: Partnerin yeni bir yetenek öğrendi!
+PARTNER_INFO_SP_NEW_SKILL: Partnerin yeni bir yetenek öğrendi.
 PARTNER_INFO_STORED: Partnerin inciye yerleştirildi.
 PARTNER_MESSAGE_100_AGILITY: Partnerin hüneri 100% oldu.
 PARTNER_MESSAGE_ACTION_BLOCKED: You cannot reset the skill of a partner that is not in your team!
@@ -776,7 +779,7 @@ PSP_TEST_SUBJECT: Test Subject
 PSP_VENUS: Küçük Prenses Venüs
 PSP_YUNA: Büyülü Öğrenci Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} toplandı: [{1}/{2}]'
-QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü!
+QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Bu Kenko askeri çok güçlü.
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: NPC'den yeni bir görev alabilirsin.
 QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] avlandı {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Bir kere başladıktan sonra ana görevini bırakamazsın. Yine de başlamak istiyor musun?
@@ -970,7 +973,7 @@ SPECIALIST_SHOUTMESSAGE_NO_POINTS: SP puanın bittiği için Uzmanlık Kartına 
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Kötü bir etki yüzünden Uzmanlık Kartını çıkartamazsın.
 SPECIALIST_SHOUTMESSAGE_ONLY_ONCE_DAILY: You can only do this once a day.
 SPECIALIST_SHOUTMESSAGE_POINTS_ADDED: '{0} SP puanı eklendi!'
-SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP puanları sıfırlandı!
+SPECIALIST_SHOUTMESSAGE_POINTS_RESET: SP puanları sıfırlandı.
 SPECIALIST_SHOUTMESSAGE_RESURRECTED: Uzmanlık Kartının ruhu yeniden canlandırıldı.
 SPECIALIST_SHOUTMESSAGE_USE_NEEDED: Bunu yapabilmek için Uzmanlık Kartını kuşatman gerekiyor.
 SPECIALIST_SHOUTMESSAGE_WRONG_CLASS_DAILY: Your can only claim SPs from your own class.
@@ -1015,7 +1018,7 @@ TATTOO_UPGRADE_SUCCESS: Tattoo upgrade succeeded!
 TATTOO_UPGRADE_SUCCESS_PITY: '[Pity System] Tattoo upgrade succeeded!'
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: You have to wait after the attack.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Daha fazla vaktin var ama seçilen ödülleri almayacaksın.
-TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli!
+TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Seviyem bu Uzay-Zaman'a katılamayacak kadar düşük.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
@@ -1030,7 +1033,7 @@ TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: You can't be in group for this Time-Spa
 TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: You can't create Time-Space portal close to another portal
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Kapı açıldı.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Bir yerde bir kapı açıldı
-TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor!
+TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Düşmanlar takviye alıyor.
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Kol çekildi.
 TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: One of the group member is not on general map
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Görev güncellendi

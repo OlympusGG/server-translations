@@ -46,7 +46,7 @@ AMMO_LOADED_ARCHER: Bogen nachgeladen.
 AMMO_LOADED_SWORDSMAN: Armbrust nachgeladen.
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Willst du die individuelle Arena betreten? Es wird dich {0} Gold kosten.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet.'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: You cannot wear two artefacts of the same type.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: You received {0} battle experience points as a reward for this phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: You received {0} champion experience points as a reward for this phase.
@@ -137,8 +137,11 @@ BID_MODAL_DISCLAIMER: >-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
 
   To ensure a fair and responsive Bid System for our players, you will not be able to:
+
   	- Remove an Auctioned Item before its end date if someone has already Bid.
+
   	- Back-down from a Bid done to an Auctioned Item.
+
 
   The button to bid on an item will not ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
 
@@ -194,8 +197,8 @@ COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: You can only use costumes bound to your c
 COSTUME_FUSION_NOT_PERMANENT: You can only fuse permanent costumes.
 COSTUME_FUSION_SUCCESS: Costumes have been fused successfully.
 DAILY_ACHIEVEMENTS_REFRESHED: Daily repeatable achievements have been refreshed.
-DIGNITY_CHATMESSAGE_LOSS: 'Würde verloren: -{0}.'
-DIGNITY_CHATMESSAGE_RESTORE: 'Würde wiederhergestellt: +{0}.'
+DIGNITY_CHATMESSAGE_LOSS: 'Würde: -{0}'
+DIGNITY_CHATMESSAGE_RESTORE: 'Würde: +{0}'
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Du kannst keine weiteren Puppen beschwören.
 DROP_SHOUTMESSAGE_BAD_DROP_AMOUNT: Falsche Menge an fallengelassenen Gegenständen.
 DROP_SHOUTMESSAGE_FULL: Es befinden sich bereits zu viele Gegenstände auf dieser Karte, um diesen fallen zu lassen.
@@ -235,7 +238,7 @@ FAMILY_INFO_CREATION_BANNED_NAME: Dein Familienname beinhaltet das Wort "{0}", w
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Du musst in einer Gruppe sein, um eine Familie zu gründen.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Ein Gruppenmitglied ist bereits Teil einer Familie oder hat kürzlich eine Familie verlassen.
 FAMILY_INFO_FULL: Die Familie ist voll.
-FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jemand in der Gruppe ist bereits Mitglied einer Familie!
+FAMILY_INFO_GROUP_MEMBER_ALREADY_IN_FAMILY: Jemand in der Gruppe gehört bereits einer Familie an.
 FAMILY_INFO_GROUP_NOT_FULL: Du benötigst eine volle Gruppe, um eine Familie zu gründen!
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Dieser Spieler blockiert Familieneinladungen.
 FAMILY_INFO_INVITATION_REFUSED: Der Spieler hat die Familieneinladung abgelehnt.
@@ -265,7 +268,7 @@ FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Das Wechseln der Fraktion ste
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, bevor du einer neuen Familie beitreten kannst.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Ein neues Familienoberhaupt wurde ernannt.
 FAMILY_SHOUTMESSAGE_DISBANDED: Family has been disbanded
-FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet!
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: Die Familie '{0}' wurde gegründet.
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Das Familienoberhaupt hat das Geschlecht gewechselt!
 FAMILY_SHOUTMESSAGE_LEVEL_UP: Deine Familie hat Stufe {0} erreicht!
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Spieler {0} ist der Familie beigetreten!
@@ -298,17 +301,17 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat sich ausgeloggt.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Möchtest du ein Freund von {0} werden?
 FRIEND_INFO_ADDED: Freundschaftsanfrage akzeptiert!
 FRIEND_INFO_ALREADY_FRIEND: '{0} ist bereits dein Freund!'
-FRIEND_INFO_DELETED: Freund gelöscht!
-FRIEND_INFO_FRIENDLIST_FULL: Deine Freundesliste ist voll!
+FRIEND_INFO_DELETED: Freund gelöscht.
+FRIEND_INFO_FRIENDLIST_FULL: Deine Freundesliste ist voll.
 FRIEND_INFO_REFUSED: Freundschaftsanfrage abgelehnt.
 FRIEND_INFO_REQUEST_BLOCKED: Dieser Spieler blockiert Freundschaftsanfragen.
-FRIEND_MESSAGE_NOT_FRIEND: Ihr seid keine Freunde!
+FRIEND_MESSAGE_NOT_FRIEND: Ihr müsst Freunde sein, um das zu tun.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Dieser Spieler ist nicht in deiner Freundesliste.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Dein Freund ist Teil der gegnerischen Fraktion.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst fixierte Gegenständen nicht wetten.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Du kannst damit keine Gegenstände ohne Heldenlevel wetten.
 GAMBLING_INFO_AMULET_DESTROYED: 'VORSICHT: Der Schutzeffekt ist ausgelaufen!'
-GAMBLING_MESSAGE_ALREADY_MAX_RARE: Du hast bereits die höchste Seltenheit!
+GAMBLING_MESSAGE_ALREADY_MAX_RARE: Du hast bereits die höchste Seltenheit.
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Der Gegenstand wurde durch das Amulett beschützt!
 GAMBLING_MESSAGE_FAILED: Wetten fehlgeschlagen! Der Gegenstand wurde zerstört.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Wetten fehlgeschlagen, der Gegenstand wurde jedoch geschützt.
@@ -377,34 +380,34 @@ INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Your level is not high enough to t
 INFORMATION_CHATMESSAGE_NO_WINGS: Du besitzt keine 'Flügel der Freundschaft'!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nicht ausreichend Mana!
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht ausreichend Ruf!
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig!
-INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht!
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig.
+INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosHändler Medaille ist aktiv.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerspezialist Verwandlung Abklingzeit: {0} Sek.'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: - {0}!'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf erhöht: +{0}!'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Benutzt {1}x {0}
-INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Schutzrolle wurde verwendet!
+INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Schutzrolle wurde verwendet.
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialistenverwandlung Abklingzeit: {0} Sek.'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Du bist nicht berechtigt, dies zu benutzen.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Der Spieler blockiert Flüsternachrichten!
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Gesendet an '{0}' in Channel {1}.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP Punkte: +{0}'
-INFORMATION_HERO_LEVELUP: Dein Heldenlevel wurde erhöht!
+INFORMATION_HERO_LEVELUP: Dein Heldenlevel wurde erhöht.
 INFORMATION_INFO_PLAYER_IN_BATTLE: Spieler {0} befindet sich im Kampf.
-INFORMATION_INFO_PLAYER_OFFLINE: Spieler ist nicht online!
-INFORMATION_MESSAGE_LOW_JOB: Dein Joblevel ist zu niedrig!
+INFORMATION_INFO_PLAYER_OFFLINE: Spieler ist nicht online.
+INFORMATION_MESSAGE_LOW_JOB: Dein Joblevel ist zu niedrig.
 INFORMATION_MESSAGE_MAX_GOLD: Maximale Anzahl an Gold erreicht!
-INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Ich habe keinen Hunger!
-INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Ich habe keinen Hunger!
+INFORMATION_MESSAGE_NOT_HUNGRY_FEMALE: Ich habe keinen Hunger.
+INFORMATION_MESSAGE_NOT_HUNGRY_MALE: Ich habe keinen Hunger.
 INFORMATION_MESSAGE_USER_NOT_CONNECTED: Spieler ist nicht online.
 INFORMATION_MESSAGE_USER_NOT_FOUND: Spieler nicht gefunden!
 INFORMATION_SHOUTMESSAGE_CLASS_CHANGED: Deine Klasse wurde geändert.
 INFORMATION_SHOUTMESSAGE_EQ_NOT_EMPTY: Du darfst keine Ausrüstung tragen!
 INFORMATION_SHOUTMESSAGE_FAIRY_LEVELUP: Dein {0} ist aufgestiegen!
 INFORMATION_SHOUTMESSAGE_FAIRYMAX: Dein {0} hat die höchste Stufe erreicht!
-INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Dein Joblevel wurde erhöht!
-INFORMATION_SHOUTMESSAGE_LEVELUP: Dein Level wurde erhöht!
+INFORMATION_SHOUTMESSAGE_JOB_LEVELUP: Dein Joblevel wurde erhöht.
+INFORMATION_SHOUTMESSAGE_LEVELUP: Dein Level wurde erhöht.
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_COUNT: Maximale Anzahl an Partnern erreicht!
 INFORMATION_SHOUTMESSAGE_MAX_PARTNER_SLOTS: Maximale Anzahl an Partnerplätzen erreicht.
 INFORMATION_SHOUTMESSAGE_MAX_PET_COUNT: Maximale Anzahl an NosMates erreicht!
@@ -415,7 +418,7 @@ INFORMATION_SHOUTMESSAGE_NO_ADNVENTURER: Nur Abenteurer können ihre Klasse wech
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ADVENTURER: Du besitzt keine Munition für deine Schleuder. Kaufe sie im Ausrüstungsladen.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_ARCHER: Du besitzt keine Pfeile mehr. Kaufe sie im Ausrüstungsladen.
 INFORMATION_SHOUTMESSAGE_NO_AMMO_SWORDSMAN: Du besitzt keine Bolzen mehr. Kaufe sie im Ausrüstungsladen.
-INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Du trägst keine Spezialistenkarte!
+INFORMATION_SHOUTMESSAGE_NO_SPECIALIST_CARD: Du trägst keine Spezialistenkarte.
 INFORMATION_SHOUTMESSAGE_NO_WEAPON: Du trägst keine Waffe!
 INFORMATION_SHOUTMESSAGE_NO_WIG: Du trägst keine Perücke.
 INFORMATION_SHOUTMESSAGE_NOT_ENOUGH_CP: Nicht ausreichend CP.
@@ -430,7 +433,7 @@ INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Der Server wird in {0} Sekunden herunterf
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Der Spezialisten muss mindestens Stufe {0} sein um verbessert zu werden!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punkte verteilt.
 INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Your level is too high!
-INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Dein Level ist zu niedrig!
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Dein Level ist zu niedrig.
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Der Spieler befinden sich auf keiner generellen Karte!
 INSTANT_COMBAT_NAME: Instant Combat
 INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Der Instant Combat wird in {0} Minuten enden.
@@ -498,7 +501,7 @@ ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Dieser Gegenstand kann nicht fallen gelassen we
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst diesen Gegenstand hier nicht fallen lassen.
 ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Du kannst dies nur im Miniland tun.
 ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Your level is too low to examine relicts.
-ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln!
+ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in die gleiche Fraktion wechseln.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst die selben Flügel nicht nochmal verwenden!
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Aufgrund eines negativen Effektes kannst du dein Fortbewegungsmittel nicht verwenden!
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
@@ -730,7 +733,7 @@ POCKET_DIMENSION_GROUP_REQUIRED: In order to create a Group Pocket Dimension, yo
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Pocket Dimension on this map is not available.
 POCKET_DIMENSION_UNDER_COOLDOWN: You need to wait to create a new Pocket Dimension.
 PORTAL_ASK_DIALOG_EXIT: Do you want to exit?
-PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen, ich kann es nicht benutzen.
+PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen. Ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du kannst dich noch nicht bewegen.
 PSP_AEGIR: Aegir der Wütende
 PSP_AMON: Aufseher Amon
@@ -787,7 +790,7 @@ QUEST_INFO_SKIP_ACT_CONFIRM_1: Do you want to skip this act quests? Doing this m
 QUEST_INFO_SKIP_ACT_CONFIRM_2: Are you really sure that you want to skip this act quests?
 QUEST_SHOUTMESSAGE_ACT_SKIPPED: Act skipped successfully
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: You already completed this quest!
-QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen!
+QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Du hast diese Hauptquest bereits abgeschlossen.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Du hast diese Quest bereits abgeschlossen. Sie ist noch nicht wieder verfügbar!
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Du hast diese Quest bereits angenommen.
 QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Du hast bereits eine Hauptquest angenommen.
@@ -922,7 +925,7 @@ SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff wird in {0} Sekunden ablegen.
 SHOP_CHATMESSAGE_EMPTY: Der Laden darf nicht leer sein!
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Du kannst nur handelbare Gegenstände in einem Laden verkaufen.
 SHOP_DEFAULT_NAME: Laden
-SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Laden offen!
+SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Laden offen.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: You need to disable "Safe Equipment Selling" Option to sell this item.
 SHOP_INFO_NEAR_PORTAL: Du kannst einen Laden nicht so nah an einem Portal eröffnen!
 SHOP_INFO_NOT_ALLOWED: Du kannst einen Laden nicht auf einer generellen Karte eröffnen.
@@ -1041,13 +1044,13 @@ TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: One of the member is not on the same ma
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald der erste Raum betreten wurde.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
-TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warten...
+TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Bitte warte.
 TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Invalid act for this Time-Space
 TIMESPACE_SHOUTMESSAGE_WRONG_MAP: You can't create Time-Space on this map
 TITLE_DIALOG_ASK_ADD: Möchtest du diesen Titel hinzufügen?
 TITLE_INFO_EFFECT_DISABLED: Der Effekt des Titels wurde deaktiviert.
 TITLE_INFO_EFFECT_ENABLED: Der Effekt des Titels wurde aktiviert.
-TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet!
+TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet.
 TITLE_INFO_VISIBLE_DISABLED: Sichtbarkeit des Titels deaktiviert!
 TITLE_INFO_VISIBLE_ENABLED: Sichtbarkeit des Titels aktiviert!
 TRADE_CHATMESSAGE_BLOCKED: Der Spieler blockiert Tauschanfragen!
