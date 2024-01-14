@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: demonów
 ACT4_CHATMESSAGE_PVP_KILL: Gracz {1} pokonał strażnika {0}
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: You have already completed this dungeon on your account.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Potrzebujesz rodziny, aby dołączyć do lochu.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Lokacja {0} rozpoczęła się dla twojej frakcji.'
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Lokacja {0} rozpoczęła się dla twojej frakcji.
 ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Wejście do lochu będzie cię kosztować {0} punktów reputacji. Czy chcesz wejść?
 ACT4_DUNGEON_REVIVAL_DIALOG: Wskrzeszenie będzie cię kosztować {0} punktów reputacji. Jeśli anulujesz, zostaniesz przeniesiony na początek lochu. Czy chcesz się wskrzesić tutaj?
@@ -75,13 +75,13 @@ BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Nadmiar złota został przekazany do
 BASE_WARS_CHATMSG_NOT_ENOUGH_CURRENCY: Nie masz wystarczającej ilości Lodowych Odłamków.
 BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: Ta rola nie istnieje.
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: The maximum amount of players for this role is reached.
-BASE_WARS_CHATMSG_ROLE_X_SELECTED: 'Wybrałeś rolę {0}.'
+BASE_WARS_CHATMSG_ROLE_X_SELECTED: Wybrałeś rolę {0}.
 BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: This upgrade is already active.
 BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Portal do pokoju bossa został otwarty.
 BASE_WARS_FIGHTING_PHASE_START: Faza walki się rozpoczęła.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0} pojawił się w {1}.'
 BASE_WARS_MSG_BOSS_X_SPAWNING_IN_Y: '{0} pojawi się w {1} za {2} sekund.'
-BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: 'Nie możesz zbudować obozu na tej mapie.'
+BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: Nie możesz zbudować obozu na tej mapie.
 BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Nie możesz zbudować obozu na tej mapie.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Dla twojej frakcji nie został zbudowany obóz.
 BASE_WARS_MSG_FLAG_PLACED: Obóz został zbudowany.
@@ -89,7 +89,7 @@ BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Nie możesz jeszcze zbudować nowego obozu.
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
 BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: The teleporter is on cooldown.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
-BASE_WARS_MSG_UPGRADE_X_BOUGHT: 'Twój zespół kupił ulepszenie {0}.'
+BASE_WARS_MSG_UPGRADE_X_BOUGHT: Twój zespół kupił ulepszenie {0}.
 BASE_WARS_PREPARATION_PHASE: Rozpoczęła się faza przygotowań.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Musisz najpierw ukończyć ten loch.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Najpierw musisz kupić poprzednie ulepszenie.
@@ -161,7 +161,7 @@ BLACKLIST_INFO_DELETED: Usunięto gracza z czarnej listy.
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Brak efektu z powodu odporności.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: 'Stracono efekt: {0}.'
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Skutki uboczne efektu {0} rozpoczęły się
-BUFF_CHATMESSAGE_UNDER_EFFECT: 'Jesteś pod wpływem {0}.'
+BUFF_CHATMESSAGE_UNDER_EFFECT: Jesteś pod wpływem {0}.
 CELESTIAL_TOWER_INFO_RESET_CONFIRM: Czy chcesz zresetować cały postęp w Wieży Niebiańskiej? Ranking nie zostanie zresetowany.
 CELESTIAL_TOWER_MONTHLY_REFRESH: Celestial Tower has been reset.
 CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: The NosMate has been added to your team.
@@ -202,7 +202,7 @@ DROP_SHOUTMESSAGE_FULL: Na mapie jest za dużo przedmiotów! Spróbuj ponownie p
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: Zaproszenie do pojedynku wygasło.
 DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: Wyzwający znajduje się na innej mapie.
-DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Gracz {0} odrzucił twoje zaproszenie do pojedynku.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: Gracz {0} odrzucił twoje zaproszenie do pojedynku.
 DUEL_CHATMESSAGE_USER_OFFLINE: Wyzwający nie jest już dostępny online.
 DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
@@ -218,7 +218,7 @@ ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you ca
 ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Możesz kogoś zachęcić tylko jeśli osiągnąłeś poziom {0}.
 ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tego przedmiotu nie można przekształcić.
-EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Przedmiot został pomyślnie przekształcony {0}.'
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Przedmiot został pomyślnie przekształcony {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodziny: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się.'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono ulepszenie rodziny.
@@ -319,7 +319,7 @@ GAMBLING_MESSAGE_SUCCESS: 'Hazard powiódł się! Nowy poziom unikalności: {0}'
 GAME_FEATURE_DISABLED: Ta funkcja gry jest obecnie wyłączona.
 GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: Nie spełniasz wymaganych warunków, aby wejść w ten tryb.
 GAMEEVENT_DIALOG_ASK_PARTICIPATE: 'Czy chcesz wziąć udział w: {0}?'
-GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: 'Czy chcesz wziąć udział w {0}? Kosztuje to {1} złota.'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Czy chcesz wziąć udział w {0}? Kosztuje to {1} złota.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Nie możesz dołączyć do wydarzenia nie będąc na normalnej mapie.
 GAMEEVENT_MESSAGE_START: '{0} rozpoczął się.'
 GAMEEVENT_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Nie było wystarczającej liczby graczy na wydarzenie.
@@ -364,7 +364,7 @@ ICEBREAKER_SHOUTMESSAGE_END: Przełamywanie Lodów zakończone.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: Przełamywanie Lodów zakończy się za {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP zostanie włączone za {0} sekund.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Koniec rejestracji do Przełamywania Lodów za {0} sekund.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "Nie masz wystarczająco złota, aby wziąć udział w Przełamywaniu Lodów (wymagane: {0} złota)"
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Nie masz wystarczająco złota, aby wziąć udział w Przełamywaniu Lodów (wymagane: {0} złota)'
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Nie ma wystarczającej liczby graczy, aby rozpocząć Przełamywanie Lodów.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Musisz być na Mapie Bazy, aby wziąć udział w Przełamywaniu Lodów.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Gracz '{0}' został zamrożony.
@@ -383,7 +383,7 @@ INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Nedal NosHandlarza jest aktywny.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformacja Partnera Specjalisty w odnowieniu: {0} sekund'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputacja: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputacja: +{0}'
-INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: 'Użyto {1}x {0}.'
+INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Użyto {1}x {0}.
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Zastosowano Zwoj Ochronny.
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Transformacja Specjalisty w odnowieniu: {0} sekund'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Tylko trzech pierwszych graczy w rankingu może tego użyć.
@@ -963,7 +963,7 @@ SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
 SPECIALIST_QNA_REMOVE: Czy na pewno chcesz usunąć swojego specjalistę?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: Nie możesz usunąć swojego Specjalisty w Arenie Talentów.
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nie możesz teraz atakować!
-SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'Karta specjalisty została ulepszona za pomocą {0}.'
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: Karta specjalisty została ulepszona za pomocą {0}.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Karta Specjalisty ma czas odnowienia - {0} sekund.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Poziom specjalisty wzrósł.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Nie masz już punktów SP. Nie możesz się teraz przemienić.

@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: dei Demoni
 ACT4_CHATMESSAGE_PVP_KILL: '{1} ha sconfitto un guardiano {0}.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: You have already completed this dungeon on your account.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Hai bisogno di una famiglia per entrare nel dungeon.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Il dungeon {0} è iniziato per la tua fazione.'
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Il dungeon {0} è iniziato per la tua fazione.
 ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: L'accesso al raid richiede {0} punti reputazione. Vuoi entrare?
 ACT4_DUNGEON_REVIVAL_DIALOG: Resuscitare qui richiede {0} punti reputazione. Se rifiuti, verrai teletrasportato all'ingresso del raid. Vuoi resuscitare?
@@ -75,13 +75,13 @@ BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Soldi in eccesso inviati al conto ba
 BASE_WARS_CHATMSG_NOT_ENOUGH_CURRENCY: Non hai abbastanza Frammenti Glaciali.
 BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: Questo ruolo non esiste.
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: The maximum amount of players for this role is reached.
-BASE_WARS_CHATMSG_ROLE_X_SELECTED: 'Hai scelto il ruolo {0}.'
+BASE_WARS_CHATMSG_ROLE_X_SELECTED: Hai scelto il ruolo {0}.
 BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: This upgrade is already active.
 BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Il portale per la stanza del boss si è aperto.
 BASE_WARS_FIGHTING_PHASE_START: La fase di combattimento è iniziata.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0} è apparso in {1}.'
 BASE_WARS_MSG_BOSS_X_SPAWNING_IN_Y: '{0} apparirà in {1} tra {2} secondi.'
-BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: 'Non puoi costruire un accampamento su questa mappa.'
+BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: Non puoi costruire un accampamento su questa mappa.
 BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Non puoi costruire un accampamento su questa mappa.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Non c'è un accampamento costruito per la tua fazione.
 BASE_WARS_MSG_FLAG_PLACED: Un accampamento è stato costruito.
@@ -89,7 +89,7 @@ BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Non puoi ancora costruire un nuovo accampamen
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
 BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: The teleporter is on cooldown.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
-BASE_WARS_MSG_UPGRADE_X_BOUGHT: 'L''aggiornamento {0} è stato acquistato dalla tua squadra.'
+BASE_WARS_MSG_UPGRADE_X_BOUGHT: L'aggiornamento {0} è stato acquistato dalla tua squadra.
 BASE_WARS_PREPARATION_PHASE: La fase di preparazione è iniziata.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Devi completare prima questo dungeon.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Devi acquistare prima l'aggiornamento precedente.
@@ -131,7 +131,7 @@ BID_INFO_NOT_ENOUGH_BANK_GOLD: Non hai abbastanza oro in banca per fare un'offer
 BID_INFO_SERVICE_MAINTENANCE: Il Sistema di Offerte è attualmente in manutenzione, riprova più tardi.
 BID_INFO_SERVICE_UNAVAILABLE: Il Sistema di Offerte non è disponibile, riprova più tardi.
 BID_INFO_UNEXPECTED_ERROR: Il Sistema di Offerte ha riscontrato un errore imprevisto durante il tentativo di eseguire la tua richiesta
-BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} oro è stato recuperato dall''oggetto messo all''asta ed inviato al tuo conto in banca.'
+BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} oro è stato recuperato dall'oggetto messo all'asta ed inviato al tuo conto in banca."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperato con successo.
 BID_MODAL_DISCLAIMER: >-
   Prima di usare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
@@ -202,7 +202,7 @@ DROP_SHOUTMESSAGE_FULL: Ci sono troppi oggetti nella mappa per poter buttare que
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: L'invito al duello è scaduto.
 DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: Lo sfidante si trova su un'altra mappa.
-DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Il giocatore {0} ha rifiutato la tua richiesta di duello.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: Il giocatore {0} ha rifiutato la tua richiesta di duello.
 DUEL_CHATMESSAGE_USER_OFFLINE: Lo sfidante non è più online.
 DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
@@ -218,7 +218,7 @@ ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you ca
 ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Puoi incoraggiare qualcuno solo se hai raggiunto il livello {0}.
 ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Questo oggetto non può essere convertito.
-EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'L''oggetto è stato convertito con successo {0}.'
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'oggetto è stato convertito con successo {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Trofeo sbloccato: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) ha effettuato l'accesso!"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Acquistato l'aggiornamento della famiglia.
@@ -297,7 +297,7 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} ha effettuato l'accesso."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Vuoi accettare la richiesta di amicizia di {0}?
 FRIEND_INFO_ADDED: Richiesta di amiciza accettata!
-FRIEND_INFO_ALREADY_FRIEND: 'Il giocatore {0} è già tuo amico.'
+FRIEND_INFO_ALREADY_FRIEND: Il giocatore {0} è già tuo amico.
 FRIEND_INFO_DELETED: Amico eliminato.
 FRIEND_INFO_FRIENDLIST_FULL: La tua lista amici è piena.
 FRIEND_INFO_REFUSED: Richiesta di amicizia rifiutata.
@@ -543,9 +543,9 @@ MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: You need to wait {0} seconds to claim all parc
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: A maintenance is scheduled on {0}. ({1} remaining)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La Manutenzione è iniziata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La Manutenzione è finita.
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: 'Cambio dell''orario di manutenzione. Nuovo inizio previsto: {0} ore.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: 'Cambio dell''orario di manutenzione. Nuovo inizio previsto: {0} minuti.'
-MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: 'Cambio dell''orario di manutenzione. Nuovo inizio previsto: {0} secondi.'
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_HOURS: "Cambio dell'orario di manutenzione. Nuovo inizio previsto: {0} ore."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_MINUTES: "Cambio dell'orario di manutenzione. Nuovo inizio previsto: {0} minuti."
+MAINTENANCE_SHOUTMESSAGE_NOTIFY_RESCHEDULED_SECONDS: "Cambio dell'orario di manutenzione. Nuovo inizio previsto: {0} secondi."
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La Manutenzione è stata fermata.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0}ore.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0}min.
@@ -588,7 +588,7 @@ MUTE_MESSAGE_MALE: Sono stato un bimbo cattivo e sono stato punito!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Questo giocatore è mutato.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Sei mutato.
 MYSTERY_BOX_NO_REWARD: You did not get any rewards.
-MYSTERY_BOX_SUPER_REWARD: '{0} ha vinto il grande premio all''Altare degli Dei!'
+MYSTERY_BOX_SUPER_REWARD: "{0} ha vinto il grande premio all'Altare degli Dei!"
 NOTE_CHATMESSAGE_NEW_NOTE: È arrivata una nuova nota.
 NOTE_INFO_CANT_SEND_TO_SELF: Non puoi inviare una nota a te stesso.
 NOTE_INFO_SEND_FAILED: Failed to send a note.
@@ -963,7 +963,7 @@ SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
 SPECIALIST_QNA_REMOVE: Vuoi davvero rimuovere il tuo specialista?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: Non puoi rimuovere il tuo Specialista nell'Arena del Talento.
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Non puoi attaccare al momento.
-SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'La carta specialista è stata incantata con {0}.'
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: La carta specialista è stata incantata con {0}.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Carta Specialista in cooldown - {0} secondi.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Livello specialista aumentato.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Non hai più punti SP. Non puoi trasformarti ora.

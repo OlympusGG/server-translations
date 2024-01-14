@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: démoni
 ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce strany {0}.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: You have already completed this dungeon on your account.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Potřebuješ rodinu, abys se mohl připojit do dungeonu.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Pro tvou frakci začal dungeon {0}.'
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Pro tvou frakci začal dungeon {0}.
 ACT4_DUNGEON_NOTIFY_TITLE: Act4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do podzemí tě bude stát {0} bodů reputace. Opravdu chceš vejít dovnitř?
 ACT4_DUNGEON_REVIVAL_DIALOG: Oživení zde vás bude stát {0} bodů reputace. Při zrušení budete teleportováni na začátek. Potvrzujete oživení na místě?
@@ -75,13 +75,13 @@ BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Překročené finanční prostředky
 BASE_WARS_CHATMSG_NOT_ENOUGH_CURRENCY: Nemáš dostatek Ledových střepů.
 BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: Tato role neexistuje.
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: The maximum amount of players for this role is reached.
-BASE_WARS_CHATMSG_ROLE_X_SELECTED: 'Vybral sis roli {0}.'
+BASE_WARS_CHATMSG_ROLE_X_SELECTED: Vybral sis roli {0}.
 BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: This upgrade is already active.
 BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Portál do místnosti s bossem byl otevřen.
 BASE_WARS_FIGHTING_PHASE_START: Bojová fáze začala.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0} se objevil v {1}.'
 BASE_WARS_MSG_BOSS_X_SPAWNING_IN_Y: '{0} se objeví v {1} za {2} sekund.'
-BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: 'Na této mapě nemůžeš postavit tábor.'
+BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: Na této mapě nemůžeš postavit tábor.
 BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Na této mapě nemůžeš postavit tábor.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Pro tvou frakci není postaven žádný tábor.
 BASE_WARS_MSG_FLAG_PLACED: Tábor byl postaven.
@@ -89,7 +89,7 @@ BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Ještě nemůžeš postavit nový tábor.
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
 BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: The teleporter is on cooldown.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
-BASE_WARS_MSG_UPGRADE_X_BOUGHT: 'Vylepšení {0} bylo zakoupeno tvým týmem.'
+BASE_WARS_MSG_UPGRADE_X_BOUGHT: Vylepšení {0} bylo zakoupeno tvým týmem.
 BASE_WARS_PREPARATION_PHASE: Začala přípravná fáze.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Nejdřív musíš dokončit tento dungeon.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Nejdřív musíš koupit předchozí vylepšení.
@@ -131,7 +131,7 @@ BID_INFO_NOT_ENOUGH_BANK_GOLD: V bance nemáš dostatek zlata na nabídku.
 BID_INFO_SERVICE_MAINTENANCE: Systém nabídek je momentálně v údržbě, zkuste to později.
 BID_INFO_SERVICE_UNAVAILABLE: Systém nabídek není dostupný, zkuste to později.
 BID_INFO_UNEXPECTED_ERROR: Při pokusu o provedení vašeho požadavku došlo v systému aukcí k neočekávané chybě.
-BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: 'Bylo získáno {0} zlatých z aukční předmětu a posláno na váš bankovní účet.'
+BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Bylo získáno {0} zlatých z aukční předmětu a posláno na váš bankovní účet.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Aukční předmět byl úspěšně získán zpět.
 BID_MODAL_DISCLAIMER: >-
   Před použitím systému aukcí si prosím přečtěte a pochopit tento prohlášení.
@@ -202,7 +202,7 @@ DROP_SHOUTMESSAGE_FULL: Na mapě je příliš mnoho položek, aby mohl být tent
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: Pozvánka k duelu vypršela.
 DUEL_CHATMESSAGE_LOST: 'You lost the duel. Score: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: Soupeř je na jiné mapě.
-DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Hráč {0} odmítl tvou výzvu k souboji.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: Hráč {0} odmítl tvou výzvu k souboji.
 DUEL_CHATMESSAGE_USER_OFFLINE: Soupeř již není online.
 DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
@@ -218,7 +218,7 @@ ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: You have to wait {0} minutes before you ca
 ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Můžeš někoho povzbudit, až dosáhneš úrovně {0}.
 ENCOURAGE_CHATMESSAGE_RECEIVED: Player {0} has encouraged you.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tuto položku nelze převést.
-EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Položka byla úspěšně převedena {0}.'
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Položka byla úspěšně převedena {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Rodinný úspěch odemčený: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil do hry!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakoupeno rodinné vylepšení.
@@ -297,7 +297,7 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se připojil do hry.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} se odhlásil.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Chceš se stát přáteli s {0}?
 FRIEND_INFO_ADDED: Žádost o přátelství přijata!
-FRIEND_INFO_ALREADY_FRIEND: 'Hráč {0} už je tvůj kamarád.'
+FRIEND_INFO_ALREADY_FRIEND: Hráč {0} už je tvůj kamarád.
 FRIEND_INFO_DELETED: Kamarád smazán.
 FRIEND_INFO_FRIENDLIST_FULL: Tvůj seznam kamarádů je plný.
 FRIEND_INFO_REFUSED: Žádost o přátelství odmítnuta!
@@ -364,7 +364,7 @@ ICEBREAKER_SHOUTMESSAGE_END: Průlom ledu skončil.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: Průlom ledu skončí za {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP bude povoleno za {0} sekund.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Registrace na Ice Breaker končí za {0} sekund.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "Nemáš dostatek zlata na účast v Ice Breaker (požadováno: {0} zlata)"
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Nemáš dostatek zlata na účast v Ice Breaker (požadováno: {0} zlata)'
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Není dost hráčů na spuštění Ice Breakeru.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Musíš být na Base Mapě, abys se mohl zúčastnit Ice Breakeru.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Hráč '{0}' byl zmražen.
@@ -963,7 +963,7 @@ SPECIALIST_PERFECTION_RESET: Perfection points have been reset.
 SPECIALIST_QNA_REMOVE: Opravdu chceš odstranit svého specialistu?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: Ve Stadiónu talentu nemůžeš odstranit svého specialistu.
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Nyní nemůžeš útočit.
-SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'Specialistická karta byla očarována s {0}.'
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: Specialistická karta byla očarována s {0}.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Specialistická karta má cooldown - {0} sekund.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Úroveň specialisty zvýšena.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Nemáš žádné SP body. Teď se nemůžeš proměnit.
