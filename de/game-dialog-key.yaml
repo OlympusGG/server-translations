@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
 ACT4_CHATMESSAGE_PVP_KILL: '{1} hat einen Wächter von {0} besiegt.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Du hast diesen Dungeon bereits auf deinem Account abgeschlossen.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du brauchst eine Familie, um den Dungeon zu betreten.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Dungeon {0} hat für deine Fraktion begonnen.'
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Dungeon {0} hat für deine Fraktion begonnen.
 ACT4_DUNGEON_NOTIFY_TITLE: Akt4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Betreten des Dungeons kostet dich {0} Reputationspunkte. Möchtest du eintreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Hier wiederzubeleben kostet dich {0} Reputationspunkte. Wenn du abbrichst, wirst du zum Start des Dungeons teleportiert. Möchtest du hier respawnen?
@@ -75,27 +75,27 @@ BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Überschüssiges Guthaben wurde zur 
 BASE_WARS_CHATMSG_NOT_ENOUGH_CURRENCY: Du hast nicht genug Gletschersplitter.
 BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: Diese Rolle gibt es nicht.
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: Die maximale Anzahl an Spielern für diese Rolle ist erreicht.
-BASE_WARS_CHATMSG_ROLE_X_SELECTED: 'Du hast die Rolle {0} gewählt.'
+BASE_WARS_CHATMSG_ROLE_X_SELECTED: Du hast die Rolle {0} gewählt.
 BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: Dieses Upgrade ist bereits aktiv.
 BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Das Portal zum Bossraum hat sich geöffnet.
 BASE_WARS_FIGHTING_PHASE_START: Die Kampfphase hat begonnen.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0} erschien in {1}.'
 BASE_WARS_MSG_BOSS_X_SPAWNING_IN_Y: '{0} wird in {1} in {2} Sekunden erscheinen.'
-BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: 'Du kannst auf dieser Karte kein Lager bauen.'
+BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: Du kannst auf dieser Karte kein Lager bauen.
 BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Du kannst auf dieser Karte kein Lager bauen.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Für deine Fraktion wurde kein Lager gebaut.
 BASE_WARS_MSG_FLAG_PLACED: Ein Lager wurde gebaut.
 BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Du kannst noch kein neues Lager bauen.
-BASE_WARS_MSG_ITEM_COOLDOWN: 'Gegenstand ist noch im Abkühlen.'
+BASE_WARS_MSG_ITEM_COOLDOWN: Gegenstand ist noch im Abkühlen.
 BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Der Teleporter ist gerade in Abkühlung.
-BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: 'Teleporter kann nicht in Dungeons benutzt werden.'
-BASE_WARS_MSG_UPGRADE_X_BOUGHT: 'Upgrade {0} wurde von deinem Team gekauft.'
+BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: Teleporter kann nicht in Dungeons benutzt werden.
+BASE_WARS_MSG_UPGRADE_X_BOUGHT: Upgrade {0} wurde von deinem Team gekauft.
 BASE_WARS_PREPARATION_PHASE: Die Vorbereitungsphase hat begonnen.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Du musst zuerst diesen Dungeon abschließen.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Du musst zuerst das vorherige Upgrade kaufen.
-BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: 'Kampfpass ist nicht aktiv.'
-BATTLE_PASS_INFO_ALREADY_PREMIUM: 'Kampfpass ist bereits Premium.'
-BATTLE_ROYALE_NOTIFY_ACTION_OPEN: 'Battle Royale Aktion öffnen'
+BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: Kampfpass ist nicht aktiv.
+BATTLE_PASS_INFO_ALREADY_PREMIUM: Kampfpass ist bereits Premium.
+BATTLE_ROYALE_NOTIFY_ACTION_OPEN: Battle Royale Aktion öffnen
 BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_BENACHRICHTIGUNG_BESCHREIBUNG'
 BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_BENACHRICHTIGUNG_TITEL'
 BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - zum NosBasar hinzugefügt.'
@@ -205,7 +205,7 @@ DROP_SHOUTMESSAGE_FULL: Es sind zu viele Gegenstände auf dieser Karte, um diese
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: Duell-Einladung ist abgelaufen.
 DUEL_CHATMESSAGE_LOST: 'Du hast das Duell verloren. Punktestand: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: Der Herausforderer befindet sich auf einer anderen Karte.
-DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Spieler {0} hat deine Duellanfrage abgelehnt.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: Spieler {0} hat deine Duellanfrage abgelehnt.
 DUEL_CHATMESSAGE_USER_OFFLINE: Der Herausforderer ist nicht mehr online.
 DUEL_CHATMESSAGE_WON: 'Du hast das Duell gewonnen! Punktestand: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} hat dich herausgefordert! Willst du annehmen?'
@@ -221,7 +221,7 @@ ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jema
 ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Du kannst jemanden nur ermutigen, wenn du Level {0} erreicht hast.
 ENCOURAGE_CHATMESSAGE_RECEIVED: Spieler {0} hat dich ermutigt.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Dieser Gegenstand kann nicht umgewandelt werden.
-EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Der Gegenstand wurde erfolgreich umgewandelt {0}.'
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Der Gegenstand wurde erfolgreich umgewandelt {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Familien-Erfolg freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich eingeloggt!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Familien-Upgrade gekauft.
@@ -300,7 +300,7 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} hat sich eingeloggt.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} hat sich ausgeloggt.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Möchtest du mit {0} befreundet sein?
 FRIEND_INFO_ADDED: Freundschaftsanfrage akzeptiert!
-FRIEND_INFO_ALREADY_FRIEND: 'Spieler {0} ist bereits dein Freund.'
+FRIEND_INFO_ALREADY_FRIEND: Spieler {0} ist bereits dein Freund.
 FRIEND_INFO_DELETED: Freund gelöscht.
 FRIEND_INFO_FRIENDLIST_FULL: Deine Freundesliste ist voll.
 FRIEND_INFO_REFUSED: Freundschaftsanfrage abgelehnt.
@@ -333,7 +333,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Gruppe) [{0}x {1}] für: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Gruppe) [{0}x {1}] für alle
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} hat deine Gruppenanfrage abgelehnt.'
 GROUP_DIALOG_ASK_SHARE_POINT: Möchtest du den Rückkehrpunkt von {0} als deinen festlegen?
-GROUP_DIALOG_INVITED_YOU: 'Spieler {0} hat dir eine Gruppenanfrage gesendet.'
+GROUP_DIALOG_INVITED_YOU: Spieler {0} hat dir eine Gruppenanfrage gesendet.
 GROUP_INFO_ADMIN: Du bist jetzt der Gruppenführer.
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits in einer Gruppe.
 GROUP_INFO_BLOCKED: Der Spieler blockiert Gruppeneinladungen.
@@ -367,7 +367,7 @@ ICEBREAKER_SHOUTMESSAGE_END: Der Ice Breaker ist zu Ende.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: Der Ice Breaker endet in {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP wird in {0} Sekunden aktiviert.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Anmeldung zum Ice Breaker endet in {0} Sekunden.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "Du hast nicht genug Gold, um am Ice Breaker teilzunehmen (erforderlich: {0} Gold)."
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Du hast nicht genug Gold, um am Ice Breaker teilzunehmen (erforderlich: {0} Gold).'
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Es sind nicht genug Spieler vorhanden, um den Ice Breaker zu starten.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Du musst dich auf einer Basis-Karte befinden, um am Ice Breaker teilnehmen zu können.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Spieler '{0}' wurde eingefroren.
@@ -505,7 +505,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in dieselbe Fraktion wechseln.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die gleichen Flügel benutzen.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Du kannst dich wegen eines negativen Effekts nicht in ein Reittier verwandeln.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: 'Gegenstandsverwendung im Multiversum deaktiviert.'
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Gegenstandsverwendung im Multiversum deaktiviert.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Verbleibende Lebensland-Zeit: {0} Minuten.'
 LAND_OF_LIFE_QNA_ENTER: Möchtest du dem Lebensland beitreten?
@@ -602,8 +602,8 @@ NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Du hast das tägliche Limit dieses Buff-Pa
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Dein Level ist zu hoch, um dieses Buff-Paket zu erhalten.
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Dein Level ist zu niedrig, um dieses Buff-Paket zu erhalten.
 NPC_SHOP_LOG_PURCHASE: Du hast {1}x {0} gekauft.
-OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: 'Option zum Ausblenden von Cooldowns deaktiviert'
-OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: 'Option zum Ausblenden von Cooldowns aktiviert'
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: Option zum Ausblenden von Cooldowns deaktiviert
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: Option zum Ausblenden von Cooldowns aktiviert
 OPTION_SHOUTMESSAGE_X_DISABLED: Option {0} ist jetzt deaktiviert!
 OPTION_SHOUTMESSAGE_X_ENABLED: Option {0} ist jetzt aktiviert!
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Option für sicheres Wetten deaktiviert
@@ -616,8 +616,8 @@ OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotes deaktiviert
 OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotes aktiviert
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Familienanfragen deaktiviert
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Familienanfragen aktiviert
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: 'Option zur FPS-Entsperrung deaktiviert'
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: 'Option zur FPS-Entsperrung aktiviert'
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: Option zur FPS-Entsperrung deaktiviert
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: Option zur FPS-Entsperrung aktiviert
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Freundschaftsanfragen deaktiviert
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Freundschaftsanfragen aktiviert
 OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Gruppenanfragen deaktiviert
@@ -825,7 +825,7 @@ RAID_INFO_PLAYER_DEATH: Du bist tot! Du wirst in 20 Sekunden wiederbelebt.
 RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Raid-Bericht öffnen
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Schau dir die Team-Statistiken für {0} an.
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Raid-Bericht fertig'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Raid-Bericht fertig
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
@@ -833,7 +833,7 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, wenn du in einer Gruppe bist.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannst keine Gruppenmitglieder zu einem Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du in der Arena bist.
-RAID_SHOUTMESSAGE_COMPLETED: "Das Team von Spieler {0} hat {1} Raid abgeschlossen!"
+RAID_SHOUTMESSAGE_COMPLETED: Das Team von Spieler {0} hat {1} Raid abgeschlossen!
 RAID_SHOUTMESSAGE_FERNON_1_MINUTE: Der Fernon-Raid wird in 1 Minute geschlossen!
 RAID_SHOUTMESSAGE_FERNON_5_MINUTES: Der Fernon-Raid wird in 5 Minuten geschlossen!
 RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Der Eingang zu Fernon wird in Cylloan in {0} Minuten öffnen!
@@ -966,7 +966,7 @@ SPECIALIST_PERFECTION_RESET: Perfektionspunkte wurden zurückgesetzt.
 SPECIALIST_QNA_REMOVE: Willst du wirklich deinen Spezialisten entfernen?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: Du kannst deinen Spezialisten in der Arena des Talents nicht entfernen.
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Du kannst gerade nicht angreifen.
-SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'Die Spezialistenkarte wurde mit {0} verzaubert.'
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: Die Spezialistenkarte wurde mit {0} verzaubert.
 SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Spezialistenkarte ist im Abklingzeit - {0} Sekunden.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Spezialistenlevel erhöht.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: Du hast keine SP-Punkte mehr übrig. Du kannst dich jetzt nicht verwandeln.
@@ -1021,6 +1021,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus. Die Dauer
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Das Tor ist verschlossen.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mein Level ist zu hoch, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace-Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenanführer kann den Timespace starten.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden wegen des Levelabzugs reduziert.'
@@ -1085,8 +1086,8 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Du hast die Option 'Sicheres Upg
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Nutze die Energie des Zombie-Drachens, die du von Monstern gefangen hast, um den Nebel der Angst zu vertreiben.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Besiege alle beschworenen Monster, um den Nebelschild zu entfernen.
 VALENTINE_PROPOSE: Möchtest du das Valentinstagsgeschenk von {0} annehmen?
-VALENTINE_PROPOSE_ACCEPTED: "{0} hat das Valentinstagsgeschenk angenommen."
-VALENTINE_PROPOSE_REJECTED: "{0} hat das Valentinstagsgeschenk abgelehnt."
+VALENTINE_PROPOSE_ACCEPTED: '{0} hat das Valentinstagsgeschenk angenommen.'
+VALENTINE_PROPOSE_REJECTED: '{0} hat das Valentinstagsgeschenk abgelehnt.'
 VALENTINE_PROPOSE_SENT: '{0} wurde gefragt, ob er das Geschenk annehmen möchte.'
 WARDROBE_INFO_NEED_KEY: Du benötigst einen Garderobenschlüssel, um diese Funktion zu nutzen.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Bist du sicher, dass du deinen Warp auf der Karte {1} (Slot {0}) entfernen möchtest?
@@ -1103,3 +1104,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgel
 WEEKLY_ACHIEVEMENTS_REFRESHED: Wöchentlich wiederholbare Erfolge wurden zurückgesetzt.
 WINGS_SWAPPER_DELAY_SWAPPING: Du musst {0} warten, bevor du deine Flügel erneut wechseln kannst.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Du musst {0} warten, nachdem du eine Fähigkeit benutzt hast, um deine Flügel wechseln zu können.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

@@ -163,7 +163,7 @@ BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
 BLACKLIST_INFO_DELETED: Le joueur a été retiré de la liste noire.
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Aucun effet à cause de l'immunité.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: Tu as perdu l'effet {0}.
-BUFF_CHATMESSAGE_SIDE_EFFECTS: 'Les effets secondaires de {0} ont commencé.'
+BUFF_CHATMESSAGE_SIDE_EFFECTS: Les effets secondaires de {0} ont commencé.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Vous êtes sous l'effet de {0}.
 CELESTIAL_TOWER_INFO_RESET_CONFIRM: Voulez-vous réinitialiser toute votre progression dans la Tour Céleste ? Le classement ne sera pas réinitialisé.
 CELESTIAL_TOWER_MONTHLY_REFRESH: La Tour Céleste a été réinitialisée.
@@ -271,7 +271,7 @@ FAMILY_SHOUTMESSAGE_DISBANDED: La famille a été dissoute.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille '{0}' a été fondée.
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Le chef de famille a changé de genre.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0}.
-FAMILY_SHOUTMESSAGE_MEMBER_JOINED: 'Le joueur {0} a rejoint la famille !'
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Le joueur {0} a rejoint la famille !
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} a quitté ta famille.'
 FAMILYARENA_INFO_ASK_ENTER: Tu veux entrer dans l'arène familiale ? Ça te coûtera {0} pièces d'or.
@@ -297,7 +297,7 @@ FISHING_SAY_PERSONAL_RECORD: C'est le plus gros poisson de cette espèce que tu 
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Un problème est survenu lors de l'ajout d'un tour à ton compte. Si le problème persiste, veuillez contacter le support.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Un tour a été ajouté à ton compte. Tu peux le valider sur le tableau de bord.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} s''est déconnecté.'
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: "{0} s'est déconnecté."
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Veux-tu devenir ami avec {0} ?
 FRIEND_INFO_ADDED: Demande d'ami acceptée !
 FRIEND_INFO_ALREADY_FRIEND: Le joueur {0} est déjà ton ami.
@@ -310,7 +310,7 @@ FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Il faut être amis pour faire ça.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Ton ami est dans la faction ennemie.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Tu ne peux pas jouer avec des objets de niveau fixe.
 GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Tu ne peux pas jouer des objets non-héroïques avec ça.
-GAMBLING_INFO_AMULET_DESTROYED: "Consulte ton rapport de culture."
+GAMBLING_INFO_AMULET_DESTROYED: Consulte ton rapport de culture.
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Tu as déjà la rareté la plus élevée.
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: L'objet n'a pas été détruit, grâce à l'amulette.
 GAMBLING_MESSAGE_FAILED: Échec du jeu ! L'objet a été détruit.
@@ -321,7 +321,7 @@ GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Cet objet n'est pas héroïque.
 GAMBLING_MESSAGE_SUCCESS: 'Pari réussi ! Nouveau niveau de rareté : {0}'
 GAME_FEATURE_DISABLED: Cette fonctionnalité du jeu est actuellement désactivée.
 GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: Tu ne remplis pas les conditions nécessaires pour entrer dans ce mode.
-GAMEEVENT_DIALOG_ASK_PARTICIPATE: 'Veux-tu participer à {0} ?'
+GAMEEVENT_DIALOG_ASK_PARTICIPATE: Veux-tu participer à {0} ?
 GAMEEVENT_DIALOG_ASK_PARTICIPATE_WITH_COST: Veux-tu participer à {0} ? Cela te coûtera {1} or.
 GAMEEVENT_MESSAGE_NOT_IN_GENERAL_MAP: Tu ne peux pas rejoindre l'événement si tu n'es pas sur une carte générale.
 GAMEEVENT_MESSAGE_START: '{0} a commencé.'
@@ -333,7 +333,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Groupe) [{0}x {1}] pour : {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Groupe) [{0}x {1}] pour tout le monde
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} a refusé ta demande de groupe.'
 GROUP_DIALOG_ASK_SHARE_POINT: Veux-tu définir le point de retour de {0} comme le tien ?
-GROUP_DIALOG_INVITED_YOU: "Le joueur {0} t'a envoyé une demande de groupe."
+GROUP_DIALOG_INVITED_YOU: Le joueur {0} t'a envoyé une demande de groupe.
 GROUP_INFO_ADMIN: Tu es maintenant le chef du groupe.
 GROUP_INFO_ALREADY_IN_GROUP: Tu es déjà dans un groupe.
 GROUP_INFO_BLOCKED: Le joueur bloque les invitations de groupe.
@@ -350,7 +350,7 @@ GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} a refusé la demande de changement
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Tu as changé le point de retour suite à la demande du groupe.
 GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Tu as refusé de changer le point de retour demandé par le groupe.
 GROUP_SHOUTMESSAGE_SHARING: 'Partage du butin : tout le monde'
-GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Partage du butin : par ordre"
+GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: 'Partage du butin : par ordre'
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Tu n'es pas le chef du groupe.
 HARVEST_SHOUTMESSAGE_FAIL_TRY_AGAIN: La tentative a échoué ! Réessaie dans {0} secondes.
 HARVEST_SHOUTMESSAGE_TRY_FAIL: Malheureusement, la tentative a échoué.
@@ -388,13 +388,13 @@ INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Réputation : -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Réputation : +{0}'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: Utilisé {1}x {0}.
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Parchemin de Protection utilisé.
-INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Un parchemin de protection a été utilisé.'
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: Un parchemin de protection a été utilisé.
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Tu n'as pas le droit d'utiliser ceci.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: L'utilisateur a bloqué les messages privés.
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: Envoyé à '{0}' sur le canal {1}.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'Points SP : +{0}'
 INFORMATION_HERO_LEVELUP: Ton niveau de héros a été augmenté.
-INFORMATION_INFO_PLAYER_IN_BATTLE: 'Le joueur {0} est en combat.'
+INFORMATION_INFO_PLAYER_IN_BATTLE: Le joueur {0} est en combat.
 INFORMATION_INFO_PLAYER_OFFLINE: Le joueur n'est pas en ligne.
 INFORMATION_MESSAGE_LOW_JOB: Ton niveau de métier est trop bas.
 INFORMATION_MESSAGE_MAX_GOLD: Quantité maximale d'or atteinte.
@@ -536,7 +536,7 @@ LOTTERY_CHATMESSAGE_TOTAL_TICKETS: 'Participants totaux : {0}'
 LOTTERY_SHOUTMESSAGE_FAIL: Une erreur s'est produite lors de l'achat d'un billet. Veuillez contacter le support.
 LOTTERY_SHOUTMESSAGE_WINNER_PICKED: '{0} a gagné à la loterie !'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: Tu ne peux plus recevoir de Pièces de Loyauté pour cette activité aujourd'hui.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Tu as reçu {0} pièces en complétant une activité du Système de Loyauté. Nombre de complétions d''activités quotidiennes restantes : {1}'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: "Tu as reçu {0} pièces en complétant une activité du Système de Loyauté. Nombre de complétions d'activités quotidiennes restantes : {1}"
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: Tu ne peux plus recevoir de Pièces de Loyauté aujourd'hui.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Tu as reçu un colis ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} mail(s) dans ta boîte de réception.
@@ -553,10 +553,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La maintenance a été arrêtée.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La maintenance commencera dans {0} heure(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La maintenance commencera dans {0} minute(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La maintenance commencera dans {0} seconde(s).
-MESSAGE_UNDER_CHAT_0: 'Les haut-parleurs, les bulles de dialogue et le chat du héros sont uniquement en anglais !'
+MESSAGE_UNDER_CHAT_0: Les haut-parleurs, les bulles de dialogue et le chat du héros sont uniquement en anglais !
 MESSAGE_UNDER_CHAT_1: 'Découvre notre serveur Discord : discord.gg/olympusgg'
 MESSAGE_UNDER_CHAT_2: 'Tu as trouvé un bug ? Ouvre un ticket de bug sur : dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: 'Tu as une idée ? Crée une suggestion sur notre Discord !'
+MESSAGE_UNDER_CHAT_3: Tu as une idée ? Crée une suggestion sur notre Discord !
 MESSAGE_UNDER_CHAT_4: 'Respecte nos règles de jeu : dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: 'Problème de paiement ou en jeu ? Visite notre serveur Discord de Support : dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Les points de production des mini-jeux ont été actualisés.
@@ -574,7 +574,7 @@ MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Pas assez de Coupons de Récompense.
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Pas assez de points de durabilité.
 MINILAND_INFO_NOT_ENOUGH_PRODUCTION_POINTS: Pas assez de points de production à Miniland.
 MINILAND_INFO_WAREHOUSE_INVALID_ITEM: Cet objet ne peut pas être mis dans l'entrepôt.
-MINILAND_MESSAGE_VISITOR: "Total des visites : {0}, Visites quotidiennes : {1}"
+MINILAND_MESSAGE_VISITOR: 'Total des visites : {0}, Visites quotidiennes : {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland est fermé.
 MINILAND_SHOUTMESSAGE_FULL: Miniland est plein.
 MINILAND_SHOUTMESSAGE_LOCK: Miniland est maintenant verrouillé.
@@ -673,7 +673,7 @@ PARTNER_MESSAGE_NO_SP_EQUIPPED: Ton partenaire ne porte pas de Carte de Spécial
 PARTNER_SAY_IS_NOT_FOLLOWING: Ton partenaire doit te suivre.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Tu as déjà ce partenaire.
 PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: Tu ne peux pas prendre ou renvoyer ton partenaire quand il a des compétences en cours de recharge.
-PARTNER_SHOUTMESSAGE_LEVEL_UP: 'Ton partenaire {0} a gagné un niveau !'
+PARTNER_SHOUTMESSAGE_LEVEL_UP: Ton partenaire {0} a gagné un niveau !
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partenaire ressuscité par l'Ange Gardien du partenaire.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Carte Spécialiste Partenaire en recharge : {0} secondes'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Le partenaire est retourné à Miniland.
@@ -692,7 +692,7 @@ PERFECTSP_MESSAGE_SUCCESS: 'Perfection réussie : {0} +{1}'
 PERFECTSP_SHADOW: Résistance Ombre
 PERFECTSP_WATER: Résistance Eau
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Tu as acheté {1}x {0} de {2}.
-PERSONAL_SHOP_LOG_PURCHASE_OWNER: "{0} a acheté {2}x {1}."
+PERSONAL_SHOP_LOG_PURCHASE_OWNER: '{0} a acheté {2}x {1}.'
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Ton NosMate peut déjà ramasser des objets.
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Tu as un nouveau NosMate : {0}'
 PET_CHATMESSAGE_CAN_PICK_UP: Ton NosMate peut maintenant ramasser des objets.
@@ -722,7 +722,7 @@ PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate est retourné au Miniland.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate sera de retour dans 3 minutes.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate ressuscité par l'Ange Gardien de NosMate.
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Les dragons d'eau approchent.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Système de Pitié] {0} => [{1}/{2}], chance d''obtenir le prix : {3}%'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: "[Système de Pitié] {0} => [{1}/{2}], chance d'obtenir le prix : {3}%"
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Système de consolation] Tu as obtenu {0} comme récompense supplémentaire.'
 PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX: '[Système de consolation] {0} => [{1}/{2}]'
 PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX: '[Système de Pitié] {0} => [{1}/{2}]'
@@ -825,7 +825,7 @@ RAID_INFO_PLAYER_DEATH: Tu es mort ! Tu seras ressuscité dans 20 secondes.
 RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Ouvrir le Rapport de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Regarde les stats de ton équipe pour {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Rapport de Raid Prêt'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Rapport de Raid Prêt
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tous les joueurs sont gelés.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
@@ -846,7 +846,7 @@ RAID_SHOUTMESSAGE_LEFT: "{0} a quitté l'équipe de raid"
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Les ennemis reçoivent des renforts !
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe de raid."
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Pas assez de joueurs pour commencer le raid.
-RAID_SHOUTMESSAGE_PLAYER_DEATH: 'Le membre du raid {0} est mort.'
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Le membre du raid {0} est mort.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe de raid est complète.
 RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été enregistré.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Toutes les cibles ont été complétées !
@@ -855,18 +855,18 @@ RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Le buisson épineux a été enlevé.
 RAID_SHOUTMESSAGE_UNREGISTERED: Votre équipe de raid n'est plus enregistrée.
 RAID_SHOUTMESSAGE_X_JOINED: "{0} a rejoint l'équipe de raid."
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: L'équipe bleue a abandonné.
-RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} s''est déconnecté.'
+RAINBOW_BATTLE_CHARACTER_DISCONNECTED: "{0} s'est déconnecté."
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ce cristal est déjà capturé par votre équipe.
 RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Vous êtes banni de la Bataille Arc-en-ciel jusqu'au {0}.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Vous devez attendre {0} secondes pour capturer ce cristal.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Vous n'avez pas été assez actif pour recevoir la récompense.
 RAINBOW_BATTLE_EVENT_NAME: Bataille Arc-en-ciel
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Le joueur {0} a capturé le cristal : {1}'
-RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'L''équipe Bleue a capturé le cristal : {0}'
+RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: "L'équipe Bleue a capturé le cristal : {0}"
 RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Votre niveau est trop bas pour participer à la Bataille Arc-en-ciel.
 RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Pas assez de joueurs pour lancer la Bataille Arc-en-ciel.
 RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Le joueur {0} a quitté la Bataille Arc-en-ciel
-RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'L''équipe Rouge a capturé le cristal : {0}'
+RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: "L'équipe Rouge a capturé le cristal : {0}"
 RAINBOW_BATTLE_MESSAGE_YOU_LOSE: La Bataille Arc-en-ciel est terminée. Ton équipe a perdu.
 RAINBOW_BATTLE_MESSAGE_YOU_TIE: La Bataille Arc-en-ciel est terminée. C'est une égalité.
 RAINBOW_BATTLE_MESSAGE_YOU_WON: La Bataille Arc-en-ciel est terminée. Votre équipe a gagné.
@@ -946,7 +946,7 @@ SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Ta dignité est trop basse pour capturer
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Échec de la capture !
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Tu ne peux pas capturer ce monstre !
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Tu ne peux pas capturer ce monstre pendant le Raid !
-SKILL_SHOUTMESSAGE_CAUGHT_PET: 'Tu as capturé {0} avec succès !'
+SKILL_SHOUTMESSAGE_CAUGHT_PET: Tu as capturé {0} avec succès !
 SKILL_SHOUTMESSAGE_LEARNED: Tu as appris une nouvelle compétence !
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Le niveau du monstre doit être inférieur au tien.
 SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Le monstre doit avoir moins de 50 % de PV pour être capturé.
@@ -992,7 +992,7 @@ TALENT_ARENA_PLAYER_IN_GROUP: Tu ne peux pas rejoindre l'Arène des Talents en �
 TALENT_ARENA_PLAYER_NOT_FOUND: Joueur introuvable.
 TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Tu ne peux pas utiliser cette compétence avant d'entrer dans la zone de combat.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Arène des Talents ouverte sur le canal {0}.
-TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} a quitté l''Arène des Talents'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: "{0} a quitté l'Arène des Talents"
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: Tu seras invoqué dans {0} secondes.
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: Tu es temporairement banni de l'Arène des Talents.
 TALENT_ARENA_TOO_LOW_LEVEL: Ton niveau est trop bas pour entrer dans l'Arène des Talents.
@@ -1021,6 +1021,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: L'Espace-Temps est en mode facile. La durée a 
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: La porte est verrouillée.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mon niveau est trop élevé pour rejoindre cet Espace-Temps.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mon niveau est trop bas pour rejoindre cet Espace-Temps.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toutes les missions de l'Espace-Temps n'ont pas été complétées.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le chef de groupe peut démarrer l'Espace-Temps.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% de points réduits à cause de la pénalité de niveau.'
@@ -1054,10 +1055,10 @@ TITLE_INFO_UNLOCKED: Le titre a été débloqué.
 TITLE_INFO_VISIBLE_DISABLED: Visibilité du titre désactivée.
 TITLE_INFO_VISIBLE_ENABLED: Visibilité du titre activée.
 TRADE_CHATMESSAGE_BLOCKED: L'utilisateur a bloqué les échanges.
-TRADE_CHATMESSAGE_REFUSED: "Le joueur {0} a refusé ta demande d'échange."
+TRADE_CHATMESSAGE_REFUSED: Le joueur {0} a refusé ta demande d'échange.
 TRADE_CHATMESSAGE_YOU_REFUSED: Échange refusé.
 TRADE_DIALOG_ASK_FOR_TRADE: Tu as demandé un échange avec {0}.
-TRADE_DIALOG_INCOMING_EXCHANGE: 'Le joueur {0} [{1}(+{2})Lv.] souhaite échanger avec toi.'
+TRADE_DIALOG_INCOMING_EXCHANGE: Le joueur {0} [{1}(+{2})Lv.] souhaite échanger avec toi.
 TRADE_INFO_PLAYER_IN_BATTLE: Tu ne peux pas échanger pendant le combat.
 TRADE_INFO_WAITING_FOR_TARGET: En attente de {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Ce joueur est déjà en train d'échanger.
@@ -1085,9 +1086,9 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Tu as l'option 'Amélioration s�
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Utilise l'Énergie du Dragon Zombie capturée des monstres pour dissiper le brouillard de la peur.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Défais tous les monstres invoqués pour dissiper le bouclier de brouillard.
 VALENTINE_PROPOSE: Veux-tu accepter le Cadeau de la Saint-Valentin de {0} ?
-VALENTINE_PROPOSE_ACCEPTED: "{0} a accepté le Cadeau de la Saint-Valentin."
-VALENTINE_PROPOSE_REJECTED: "{0} a refusé le cadeau de la Saint-Valentin."
-VALENTINE_PROPOSE_SENT: 'On a demandé à {0} d''accepter le cadeau.'
+VALENTINE_PROPOSE_ACCEPTED: '{0} a accepté le Cadeau de la Saint-Valentin.'
+VALENTINE_PROPOSE_REJECTED: '{0} a refusé le cadeau de la Saint-Valentin.'
+VALENTINE_PROPOSE_SENT: On a demandé à {0} d'accepter le cadeau.
 WARDROBE_INFO_NEED_KEY: Tu as besoin d'une clé de garde-robe pour utiliser cette fonctionnalité.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Es-tu sûr de vouloir supprimer ton Warp à la carte {1} (emplacement {0}) ?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Tu ne peux pas rejoindre cette carte.
@@ -1095,7 +1096,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Ce point de retour est en temp
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Tu ne peux pas rejoindre cette carte pour le moment. Tu es soit en combat, soit en cooldown de changement de carte.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Tu ne peux pas placer un Warp sur cette carte.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Veux-tu divorcer ?
-WEDDING_DIALOG_REQUEST_RECEIVED: "Le joueur {0} t'a demandé en mariage. Acceptes-tu la proposition ?"
+WEDDING_DIALOG_REQUEST_RECEIVED: Le joueur {0} t'a demandé en mariage. Acceptes-tu la proposition ?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir épouser {0} ?
 WEDDING_INFO_DIVORCED: Le mariage a été annulé.
 WEDDING_SHOUTMESSAGE_BROADCAST: Les joueurs {0} et {1} viennent de se marier !
@@ -1103,3 +1104,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de 
 WEEKLY_ACHIEVEMENTS_REFRESHED: Les succès hebdomadaires répétables ont été actualisés.
 WINGS_SWAPPER_DELAY_SWAPPING: Tu dois attendre {0} entre les échanges pour changer tes ailes à nouveau.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Tu dois attendre {0} après avoir utilisé une compétence pour pouvoir échanger tes ailes.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

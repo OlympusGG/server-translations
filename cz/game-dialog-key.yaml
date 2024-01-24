@@ -65,7 +65,7 @@ BANK_DIALOG_ASK_DEPOSIT: Chceš vložit {0}000 zlatých na svůj bankovní úče
 BANK_DIALOG_ASK_WITHDRAW: Chceš vybrat {0}000 zlatých ze svého bankovního účtu?
 BANK_INFO_NOT_ENOUGH_FUNDS: Nedostatek prostředků.
 BANK_LOG_OPEN_BANK: Vítej v bance! S čím ti mohu pomoci?
-BANK_LOG_WITHDRAW_BANK: 'Vybráno {0}000 zlatých.'
+BANK_LOG_WITHDRAW_BANK: Vybráno {0}000 zlatých.
 BANK_MESSAGE_BALANCE: Na svém bankovním účtu máš {0} zlatých.
 BANK_MESSAGE_DEPOSIT: Vloženo {0}000 zlatých na tvůj bankovní účet.
 BANK_MESSAGE_MAINTENANCE: Banka je z důvodu údržby mimo provoz.
@@ -333,7 +333,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Skupina) [{0}x {1}] pro: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Skupina) [{0}x {1}] pro všechny
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} odmítl vaši žádost o skupinu.'
 GROUP_DIALOG_ASK_SHARE_POINT: Chcete nastavit místo návratu {0} jako vaše?
-GROUP_DIALOG_INVITED_YOU: 'Hráč {0} vám poslal žádost o skupinu.'
+GROUP_DIALOG_INVITED_YOU: Hráč {0} vám poslal žádost o skupinu.
 GROUP_INFO_ADMIN: Teď jsi vedoucí skupiny.
 GROUP_INFO_ALREADY_IN_GROUP: Už jsi ve skupině.
 GROUP_INFO_BLOCKED: Hráč blokuje pozvánky do skupiny.
@@ -553,10 +553,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Údržba byla zastavena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Údržba začne za {0} hodin(y).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Údržba začne za {0} minut(y).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Údržba začne za {0} sekund(y).
-MESSAGE_UNDER_CHAT_0: 'Reproduktory, mluvící bubliny a chat hrdiny jsou pouze v angličtině!'
+MESSAGE_UNDER_CHAT_0: Reproduktory, mluvící bubliny a chat hrdiny jsou pouze v angličtině!
 MESSAGE_UNDER_CHAT_1: 'Podívejte se na náš Discord server: discord.gg/olympusgg'
 MESSAGE_UNDER_CHAT_2: 'Našli jste chybu? Otevřete lístek s chybou na: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: 'Máte nápad? Vytvořte návrh na našem Discordu!'
+MESSAGE_UNDER_CHAT_3: Máte nápad? Vytvořte návrh na našem Discordu!
 MESSAGE_UNDER_CHAT_4: 'Dodržujte naše pravidla hry: dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: 'Problém s platbou nebo ve hře? Navštivte náš Discord server podpory: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Body produkce minihry byly obnoveny.
@@ -603,7 +603,7 @@ NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tvá úroveň je příliš vysoká na t
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tvá úroveň je příliš nízká na to, abys mohl dostat tento balíček bonusů.
 NPC_SHOP_LOG_PURCHASE: Koupil sis {1}x {0}.
 OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED'
-OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: 'Možnost skrýt cooldowny je nyní zapnutá!'
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: Možnost skrýt cooldowny je nyní zapnutá!
 OPTION_SHOUTMESSAGE_X_DISABLED: Možnost {0} je nyní vypnuta!
 OPTION_SHOUTMESSAGE_X_ENABLED: Možnost {0} je nyní zapnutá!
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Možnost Bezpečná sázka vypnuta
@@ -616,8 +616,8 @@ OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotikony vypnuty
 OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotikony zapnuty
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Žádosti o rodinu vypnuty
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Žádosti o rodinu zapnuty
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: 'Možnost odemknutí FPS je nyní vypnutá.'
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: 'Možnost odemknutí FPS je nyní zapnutá.'
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: Možnost odemknutí FPS je nyní vypnutá.
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: Možnost odemknutí FPS je nyní zapnutá.
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Žádosti o přátelství vypnuty
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Žádosti o přátelství zapnuty
 OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Žádosti o skupinu vypnuty
@@ -825,7 +825,7 @@ RAID_INFO_PLAYER_DEATH: Jsi mrtvý! Oživíš se za 20 sekund.
 RAID_MESSAGE_DISOLVED: Tým výpravy byl rozpuštěn.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Zpráva o výpravě je připravena'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě je připravena
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Už jsi v jiném týmu výpravy.
@@ -1021,6 +1021,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Časoprostor je v lehkém režimu. Doba trván�
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brána je zamčená.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Můj level je příliš vysoký na to, abych se mohl připojit do tohoto Času-prostoru.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký na to, abych se mohl připojit do tohoto Času-prostoru.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nebyly dokončeny všechny mise Časoprostoru.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může spustit Časoprostor.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% bodů sníženo kvůli penalizaci za úroveň.'
@@ -1085,8 +1086,8 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Máš zapnutou možnost 'Bezpeč
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Použij energii Zombie Draka získanou od monster k rozptýlení mlhy strachu.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Poraz všechna přivolána monstra, aby se rozptýlil štít mlhy.
 VALENTINE_PROPOSE: Chceš přijmout Valentýnský dárek od {0}?
-VALENTINE_PROPOSE_ACCEPTED: "{0} přijal Valentýnský dárek."
-VALENTINE_PROPOSE_REJECTED: "{0} odmítl Valentýnský dárek."
+VALENTINE_PROPOSE_ACCEPTED: '{0} přijal Valentýnský dárek.'
+VALENTINE_PROPOSE_REJECTED: '{0} odmítl Valentýnský dárek.'
 VALENTINE_PROPOSE_SENT: '{0} byl požádán, aby přijal dárek.'
 WARDROBE_INFO_NEED_KEY: K použití této funkce potřebuješ klíč od šatny.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Jsi si jistý, že chceš odstranit svůj Warp na mapě {1} (slot {0})?
@@ -1103,3 +1104,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odmítl/a nabídku k sňatku od {1}
 WEEKLY_ACHIEVEMENTS_REFRESHED: Týdenní opakovatelné úspěchy byly obnoveny.
 WINGS_SWAPPER_DELAY_SWAPPING: Musíš počkat {0}, než si zase změníš křídla.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musíš počkat {0} po použití schopnosti, než budeš moci vyměnit svá křídla.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

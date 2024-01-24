@@ -11,12 +11,12 @@ ACT4_CHANNEL_OFFLINE: Act4 kanalı şu anda çevrimdışı.
 ACT4_CHATMESSAGE_KILL_INFO: 'Öldürmeler: {0}, Ölümler: {1}'
 ACT4_CHATMESSAGE_LESS_REPUTATION: Bugün sen veya düşman çok kez öldüğü için itibar kaybı veya kazancı azaldı.
 ACT4_CHATMESSAGE_PVP_ANGELS: melekler
-ACT4_CHATMESSAGE_PVP_DEATH: '{1}, {0}''ın koruyucusu tarafından öldürüldü.'
+ACT4_CHATMESSAGE_PVP_DEATH: "{1}, {0}'ın koruyucusu tarafından öldürüldü."
 ACT4_CHATMESSAGE_PVP_DEMONS: şeytanlar
 ACT4_CHATMESSAGE_PVP_KILL: '{1}, {0} koruyucusunu yendi.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Bu zindanı hesabında zaten tamamladın.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Zindana katılmak için bir aileye ihtiyacın var.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: 'Dungeon {0}, senin fraksiyonun için başladı.'
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Dungeon {0}, senin fraksiyonun için başladı.
 ACT4_DUNGEON_NOTIFY_TITLE: Akt4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Zindana girmek {0} itibar puanına mal olacak. Girmek ister misin?
 ACT4_DUNGEON_REVIVAL_DIALOG: Burada canlanmak {0} itibar puanına mal olacak. İptal edersen, zindanın başına ışınlanacaksın. Burada yeniden doğmak istiyor musun?
@@ -45,7 +45,7 @@ AMMO_LOADED_ADVENTURER: Mermi yüklendi!
 AMMO_LOADED_ARCHER: Ok yüklendi!
 AMMO_LOADED_SWORDSMAN: Cıvatalar yüklendi!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
-ARENA_INFO_ASK_ENTER: 'Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.'
+ARENA_INFO_ASK_ENTER: Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0}, {1} tarafından öldürüldü.'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Aynı türden iki artefakt takamazsın.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Bu aşama için {0} savaş XP kazandın.
@@ -81,7 +81,7 @@ BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Patron odasına giden portal açıldı.
 BASE_WARS_FIGHTING_PHASE_START: Dövüş aşaması başladı.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0}, {1} konumunda belirdi.'
 BASE_WARS_MSG_BOSS_X_SPAWNING_IN_Y: '{0}, {1} konumunda {2} saniye içinde belirecek.'
-BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: 'Bu haritada kamp kuramazsın.'
+BASE_WARS_MSG_FLAG_FORBIDDEN_MAP: Bu haritada kamp kuramazsın.
 BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Bu haritada kamp kuramazsın.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Fraksiyonun için kurulmuş bir kamp yok.
 BASE_WARS_MSG_FLAG_PLACED: Bir kamp kuruldu.
@@ -89,7 +89,7 @@ BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Henüz yeni bir kamp kuramazsın.
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
 BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Teleport cihazı soğuma süresinde.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
-BASE_WARS_MSG_UPGRADE_X_BOUGHT: 'Takımınız {0} yükseltmesini satın aldı.'
+BASE_WARS_MSG_UPGRADE_X_BOUGHT: Takımınız {0} yükseltmesini satın aldı.
 BASE_WARS_PREPARATION_PHASE: Hazırlık aşaması başladı.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Önce bu zindanı tamamlaman gerekiyor.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Önce önceki yükseltmeyi satın almalısın.
@@ -131,7 +131,7 @@ BID_INFO_NOT_ENOUGH_BANK_GOLD: Bankada teklif vermek için yeterli altın yok.
 BID_INFO_SERVICE_MAINTENANCE: Teklif Sistemi şu anda bakım altında, daha sonra tekrar dene.
 BID_INFO_SERVICE_UNAVAILABLE: Teklif Sistemi kullanılamıyor, daha sonra tekrar dene.
 BID_INFO_UNEXPECTED_ERROR: Teklif Sistemi, isteğini gerçekleştirirken beklenmedik bir hata ile karşılaştı
-BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: 'Açık artırmadan elde edilen {0} altın banka hesabına yatırıldı.'
+BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Açık artırmadan elde edilen {0} altın banka hesabına yatırıldı.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri alındı.
 BID_MODAL_DISCLAIMER: >-
   Teklif Sistemi'ni kullanmadan önce, lütfen bu feragatnamenin okuyup anladığınızdan emin olun.
@@ -157,13 +157,13 @@ BID_NOTIFMESSAGE_NEW_BID: Birisi eşyan için yeni bir teklif verdi.
 BID_NOTIFMESSAGE_OVERBID: Üst teklifi bir başkası verdi.
 BID_NOTIFMESSAGE_SOLD_ITEM: Açık artırma bir teklif verenle sona erdi.
 BID_NOTIFMESSAGE_TITLE: Teklif Sistemi
-BLACKLIST_INFO_ADDED: 'Oyuncu {0} kara listeye eklendi.'
+BLACKLIST_INFO_ADDED: Oyuncu {0} kara listeye eklendi.
 BLACKLIST_INFO_BLOCKED: Engellendin.
 BLACKLIST_INFO_BLOCKING: Bu oyuncu senin kara listen de.
 BLACKLIST_INFO_DELETED: Oyuncu kara listeden çıkarıldı.
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Bağışıklık nedeniyle etki etmedi.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: '{0} etkisini kaybettin.'
-BUFF_CHATMESSAGE_SIDE_EFFECTS: "{0} yan etkileri başladı."
+BUFF_CHATMESSAGE_SIDE_EFFECTS: '{0} yan etkileri başladı.'
 BUFF_CHATMESSAGE_UNDER_EFFECT: '{0} etkisi altındasın.'
 CELESTIAL_TOWER_INFO_RESET_CONFIRM: Tüm Göksel Kule ilerlemenizi sıfırlamak ister misiniz? Sıralama sıfırlanmayacak.
 CELESTIAL_TOWER_MONTHLY_REFRESH: Göksel Kule sıfırlandı.
@@ -205,7 +205,7 @@ DROP_SHOUTMESSAGE_FULL: Bu haritada çok fazla eşya var, bu yüzden bu eşyayı
 DUEL_CHATMESSAGE_INVITATION_EXPIRED: Düello daveti süresi doldu.
 DUEL_CHATMESSAGE_LOST: 'Düelloyu kaybettin. Skor: {0}-{1}'
 DUEL_CHATMESSAGE_NOT_SAME_MAP: Rakip başka bir haritada.
-DUEL_CHATMESSAGE_REQUEST_REFUSED: 'Oyuncu {0} düello isteğini reddetti.'
+DUEL_CHATMESSAGE_REQUEST_REFUSED: Oyuncu {0} düello isteğini reddetti.
 DUEL_CHATMESSAGE_USER_OFFLINE: Rakip artık çevrimiçi değil.
 DUEL_CHATMESSAGE_WON: 'Düelloyu kazandın! Skor: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} seni meydan okudu! Kabul etmek ister misin?'
@@ -221,7 +221,7 @@ ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: Birini cesaretlendirebilmek için {0} daki
 ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Birini cesaretlendirebilmek için {0} seviyeye ulaşmış olman gerekiyor.
 ENCOURAGE_CHATMESSAGE_RECEIVED: Oyuncu {0} seni cesaretlendirdi.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Bu eşya dönüştürülemez.
-EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: 'Eşya başarıyla dönüştürüldü {0}.'
+EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Eşya başarıyla dönüştürüldü {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarımı açıldı: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile yükseltmesi satın alındı.
@@ -268,13 +268,13 @@ FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Aile fraksiyon değişikliği
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Aileye tekrar katılmak için 24 saat beklemelisin.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Aile reisi değişti.
 FAMILY_SHOUTMESSAGE_DISBANDED: Aile dağıtıldı.
-FAMILY_SHOUTMESSAGE_FAMILY_CREATED: '''{0}'' ailesi kuruldu.'
+FAMILY_SHOUTMESSAGE_FAMILY_CREATED: "'{0}' ailesi kuruldu."
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: Aile reisi cinsiyet değiştirdi.
-FAMILY_SHOUTMESSAGE_LEVEL_UP: 'Aile {0} seviyeye ulaştı.'
-FAMILY_SHOUTMESSAGE_MEMBER_JOINED: 'Oyuncu {0} ailemize katıldı!'
+FAMILY_SHOUTMESSAGE_LEVEL_UP: Aile {0} seviyeye ulaştı.
+FAMILY_SHOUTMESSAGE_MEMBER_JOINED: Oyuncu {0} ailemize katıldı!
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} ailenizden ayrıldı.'
-FAMILYARENA_INFO_ASK_ENTER: 'Aile arenasına girmek istiyor musun? Bu senin {0} altınını alacak.'
+FAMILYARENA_INFO_ASK_ENTER: Aile arenasına girmek istiyor musun? Bu senin {0} altınını alacak.
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Raporu Aç
 FARMING_REPORT_NOTIFY_DESC: Çiftçilik raporunu kontrol et.
 FARMING_REPORT_NOTIFY_TITLE: Çiftçilik Raporu
@@ -300,7 +300,7 @@ FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} çıkış yaptı.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: '{0} ile arkadaş olmak ister misin?'
 FRIEND_INFO_ADDED: Arkadaşlık isteği kabul edildi!
-FRIEND_INFO_ALREADY_FRIEND: 'Oyuncu {0} zaten senin arkadaşın.'
+FRIEND_INFO_ALREADY_FRIEND: Oyuncu {0} zaten senin arkadaşın.
 FRIEND_INFO_DELETED: Arkadaş silindi.
 FRIEND_INFO_FRIENDLIST_FULL: Arkadaş listesi dolu.
 FRIEND_INFO_REFUSED: Arkadaşlık isteği reddedildi.
@@ -332,17 +332,17 @@ GENERAL_SHOUTMESSAGE_TOO_FAR_TO_UNFREEZE: Çözülmen için çok uzaktasın.
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Grup) [{0}x {1}] için: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grup) [{0}x {1}] herkese
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} grup isteğini reddetti.'
-GROUP_DIALOG_ASK_SHARE_POINT: '{0}''ın dönüş noktasını senin olarak belirlemek ister misin?'
-GROUP_DIALOG_INVITED_YOU: 'Oyuncu {0} sana grup daveti gönderdi.'
+GROUP_DIALOG_ASK_SHARE_POINT: "{0}'ın dönüş noktasını senin olarak belirlemek ister misin?"
+GROUP_DIALOG_INVITED_YOU: Oyuncu {0} sana grup daveti gönderdi.
 GROUP_INFO_ADMIN: Artık grup liderisin.
 GROUP_INFO_ALREADY_IN_GROUP: Zaten bir gruptasın.
 GROUP_INFO_BLOCKED: Oyuncu grup davetlerini engelliyor.
 GROUP_INFO_DISABLED: Bu haritada gruplar devre dışı.
 GROUP_INFO_FULL: Grup dolu.
-GROUP_INFO_JOIN: "Oyuncu {0}'ın grubuna katıldın."
+GROUP_INFO_JOIN: Oyuncu {0}'ın grubuna katıldın.
 GROUP_INFO_LEFT: Gruptan ayrıldın.
 GROUP_INFO_NEW_LEADER: Yeni grup lideri sensin.
-GROUP_INFO_REQUEST: 'Oyuncu {0}’a grup isteği gönderildi.'
+GROUP_INFO_REQUEST: Oyuncu {0}’a grup isteği gönderildi.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: Dönüş noktanı parti üyelerinle paylaşmayı talep ettin.
 GROUP_SHOUTMESSAGE_CLOSED: Grup dağıldı.
 GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0}, dönüş noktasını değiştirdi.'
@@ -367,7 +367,7 @@ ICEBREAKER_SHOUTMESSAGE_END: Buz Kırıcı sona erdi.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: Buz Kırıcı {0}:{1} içinde sona erecek.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP, {0} saniye içinde etkinleştirilecek.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Buz Kırıcı kayıtları {0} saniye içinde sona erecek.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "Buz Kırıcıya katılmak için yeterli altının yok (gereken: {0} altın)"
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Buz Kırıcıya katılmak için yeterli altının yok (gereken: {0} altın)'
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Buz Kırıcıyı başlatmak için yeterli oyuncu yok.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Buz Kırıcıya katılmak için bir Ana Harita'da olmanız gerekiyor.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Oyuncu '{0}' donduruldu.
@@ -394,7 +394,7 @@ INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Kullanıcı özel mesajları engel
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: "'{0}' adlı kullanıcıya {1} kanalından gönderildi."
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP puanı: +{0}'
 INFORMATION_HERO_LEVELUP: Kahraman seviyen arttı.
-INFORMATION_INFO_PLAYER_IN_BATTLE: 'Oyuncu {0} savaşta.'
+INFORMATION_INFO_PLAYER_IN_BATTLE: Oyuncu {0} savaşta.
 INFORMATION_INFO_PLAYER_OFFLINE: Oyuncu çevrimiçi değil.
 INFORMATION_MESSAGE_LOW_JOB: Meslek seviyen çok düşük.
 INFORMATION_MESSAGE_MAX_GOLD: Altın miktarı maksimuma ulaştı.
@@ -553,10 +553,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Bakım durduruldu.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Bakım {0} saat içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
-MESSAGE_UNDER_CHAT_0: 'Hoparlörler, Konuşma Balonları ve Kahraman Sohbeti sadece İngilizce!'
+MESSAGE_UNDER_CHAT_0: Hoparlörler, Konuşma Balonları ve Kahraman Sohbeti sadece İngilizce!
 MESSAGE_UNDER_CHAT_1: 'Discord sunucumuzu kontrol et: discord.gg/olympusgg'
-MESSAGE_UNDER_CHAT_2: "Bir hata mı buldun? Bir hata bileti aç: dashboard.olympusgg.com/support"
-MESSAGE_UNDER_CHAT_3: 'Bir fikrin mi var? Discord''umuzda bir öneri oluştur!'
+MESSAGE_UNDER_CHAT_2: 'Bir hata mı buldun? Bir hata bileti aç: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_3: Bir fikrin mi var? Discord'umuzda bir öneri oluştur!
 MESSAGE_UNDER_CHAT_4: 'Oyun kurallarımıza saygı göster: dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: 'Ödeme veya oyun içi sorun mu yaşıyorsun? Destek Discord sunucumuzu ziyaret et: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigame üretim puanları yenilendi.
@@ -591,7 +591,7 @@ MUTE_MESSAGE_MALE: Çok yaramaz bir erkektim, o yüzden ceza aldım!
 MUTE_SHOUTMESSAGE_PLAYER_IS_MUTED: Bu oyuncu susturulmuş.
 MUTE_SHOUTMESSAGE_YOU_ARE_MUTED: Susturuldun.
 MYSTERY_BOX_NO_REWARD: Hiç ödül alamadın.
-MYSTERY_BOX_SUPER_REWARD: '{0}, Tanrı''nın Sunağı''nda büyük ödülü kazandı!'
+MYSTERY_BOX_SUPER_REWARD: "{0}, Tanrı'nın Sunağı'nda büyük ödülü kazandı!"
 NOTE_CHATMESSAGE_NEW_NOTE: Yeni bir not geldi.
 NOTE_INFO_CANT_SEND_TO_SELF: Kendine not gönderemezsin.
 NOTE_INFO_SEND_FAILED: Not gönderilemedi.
@@ -715,7 +715,7 @@ PET_SHOUTMESSAGE_DIGNITY_LOW: Onur puanın çok düşük olduğu için hiçbir N
 PET_SHOUTMESSAGE_EVOLUTION_FAILED: Evcil hayvan evrimi başarısız oldu.
 PET_SHOUTMESSAGE_EVOLUTION_SUCCESS: Evcil hayvan evrimi başarılı oldu.
 PET_SHOUTMESSAGE_HIGHER_LEVEL: NosMate'in seviyesi seninkinden yüksek.
-PET_SHOUTMESSAGE_LEVEL_UP: 'NosMate {0} seviye atladı.'
+PET_SHOUTMESSAGE_LEVEL_UP: NosMate {0} seviye atladı.
 PET_SHOUTMESSAGE_UPGRADE_MAX_LEVEL: NosMate'in bu yükseltmenin maksimum seviyesine zaten ulaşmış.
 PET_SHOUTMESSAGE_UPGRADE_PET_NOT_SELECTED: Bunu yapabilmek için bir evcil hayvan seçmelisin.
 PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate Miniland'a geri döndü.
@@ -818,14 +818,14 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir baskın takımının par�
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu baskın burada başlamıyor.
 RAID_CHATMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} baskınını başlatmak ister misin?'
-RAID_DIALOG_INVITED_YOU: "{0} seni bir baskın takımına davet etti. Kabul ediyor musun?"
+RAID_DIALOG_INVITED_YOU: '{0} seni bir baskın takımına davet etti. Kabul ediyor musun?'
 RAID_INFO_NO_EXIST: Baskın mevcut değil!
 RAID_INFO_NO_LIVES_LEFT: Bütün canların bitti.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye sonra yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Akın takımı dağıtıldı.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Akın Raporunu Aç
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: '{0} için takım istatistiklerine göz at.'
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Akın Raporu Hazır'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Akın Raporu Hazır
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten başka bir akın takımındasın.
@@ -889,9 +889,9 @@ RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Şu anda oylama kullanılamıyor
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Şu anda teslim olmak için {0} oy var.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Doğma yerini değiştirmek ister misin?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Dirilme yeri değiştirildi.
-REVIVE_DIALOG_ARENA: 'Dirilmek ister misin? Bu senin {0} altınını mâl olacak.'
+REVIVE_DIALOG_ARENA: Dirilmek ister misin? Bu senin {0} altınını mâl olacak.
 REVIVE_DIALOG_FREE: Canını yeniden doldurmak ister misin? {0} seviyesine kadar ücretsiz olacak.
-REVIVE_DIALOG_SEEDS_OF_POWER: 'Canını yeniden doldurmak ister misin? Bu işlem için {0} Güç Tohumu ödemen gerekecek.'
+REVIVE_DIALOG_SEEDS_OF_POWER: Canını yeniden doldurmak ister misin? Bu işlem için {0} Güç Tohumu ödemen gerekecek.
 RUNE_MSG_EQUIPMENT_IS_RUINED: Hasar görmüş bir silahı yükseltemezsin.
 RUNE_MSG_MAX_UPGRADE: Daha fazla run ekleyemezsin çünkü zaten en yüksek seviyede.
 RUNE_MSG_NO_RUNE: Bu silahın üzerinde hiç run yok.
@@ -907,7 +907,7 @@ SHEEP_GAME_SHOUT_END_PREPARATION: '{0} saniye içinde geri ışınlanacaksın'
 SHEEP_GAME_SHOUT_START_PREPARATION: Oyun {0} saniye içinde başlayacak.
 SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Kabuğu değiştirmek için önce ekipmana parfüm uygulaman gerekiyor.
 SHELLS_DIALOG_ADD_OPTIONS: Bu eşyaya bir seçenek eklemek ister misin? Kabul edersen, bu eşya sadece sana özel olacak.
-SHELLS_DIALOG_REPLACE_OPTIONS: 'Seçenekler değiştirilecek ve bu eşya sadece sana özel olacak.'
+SHELLS_DIALOG_REPLACE_OPTIONS: Seçenekler değiştirilecek ve bu eşya sadece sana özel olacak.
 SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Bu kabuk tanımlanamadı.
 SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Bu kabuğun seçenekleri zaten tanımlı.
 SHELLS_SHOUTMESSAGE_ERASED: Seçenek silindi.
@@ -966,8 +966,8 @@ SPECIALIST_PERFECTION_RESET: Mükemmellik puanları sıfırlandı.
 SPECIALIST_QNA_REMOVE: Gerçekten uzmanını kaldırmak istiyor musun?
 SPECIALIST_SHOUTMESSAGE_CANNOT_REMOVE_TALENT_ARENA: Yetenek Arenası'nda Uzmanını kaldıramazsın.
 SPECIALIST_SHOUTMESSAGE_CANT_ATTACK_YET: Şu anda saldıramazsın.
-SPECIALIST_SHOUTMESSAGE_ENCHANTED: 'Uzman kartı {0} ile büyülendi.'
-SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: 'Uzman Kartı beklemede - {0} saniye.'
+SPECIALIST_SHOUTMESSAGE_ENCHANTED: Uzman kartı {0} ile büyülendi.
+SPECIALIST_SHOUTMESSAGE_IN_COOLDOWN: Uzman Kartı beklemede - {0} saniye.
 SPECIALIST_SHOUTMESSAGE_LEVELUP: Uzman seviyesi arttı.
 SPECIALIST_SHOUTMESSAGE_NO_POINTS: SP puanın kalmadı. Şu anda dönüşemezsin.
 SPECIALIST_SHOUTMESSAGE_NO_REMOVE_DEBUFFS: Olumsuz bir etki yüzünden Uzman Kartını kaldıramazsın.
@@ -992,11 +992,11 @@ TALENT_ARENA_PLAYER_IN_GROUP: Grup halindeyken Yetenek Arenası'na katılamazsı
 TALENT_ARENA_PLAYER_NOT_FOUND: Oyuncu bulunamadı.
 TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Dövüş alanına girmeden bu yeteneği kullanamazsın.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Yetenek Arenası {0} kanalında açıldı.
-TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0}, Yetenek Arenası''ndan ayrıldı'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: "{0}, Yetenek Arenası'ndan ayrıldı"
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: '{0} saniye içinde çağrılacaksın.'
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: Geçici olarak Yetenek Arenası'ndan men edildin.
 TALENT_ARENA_TOO_LOW_LEVEL: Yetenek Arenası'na girmek için seviyen çok düşük.
-TAMING_CHATMESSAGE_PLAYER_X_UPGRADED_TO_6_STARS: '{0}, {1}''in yıldız seviyesini başarıyla {2} yıldıza çıkardı.'
+TAMING_CHATMESSAGE_PLAYER_X_UPGRADED_TO_6_STARS: "{0}, {1}'in yıldız seviyesini başarıyla {2} yıldıza çıkardı."
 TAMING_CHATMSG_CANNOT_ATTACK_TRAINER: Evcil hayvanını daha fazla eğitemezsin çünkü maksimum eğitim seviyesine zaten ulaştı.
 TAMING_SHOUTMESSAGE_EVOLVE_FAILED_REQUIRED_LEVEL: Yalnızca maksimum eğitim seviyesine ulaşıldığında yükseltme yapılabilir.
 TAMING_SHOUTMESSAGE_EVOLVE_ONLY_MINILAND: Yalnızca miniland'inde yükseltme yapabilirsin.
@@ -1021,6 +1021,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Süre uzatıldı ve se�
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok yüksek.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok düşük.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Sadece grup lideri Uzay-Zaman'ı başlatabilir.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Seviye cezası nedeniyle puanların %{0} kadarı azaltıldı.
@@ -1054,10 +1055,10 @@ TITLE_INFO_UNLOCKED: Unvanın kilidi açıldı.
 TITLE_INFO_VISIBLE_DISABLED: Unvan görünürlüğü devre dışı bırakıldı.
 TITLE_INFO_VISIBLE_ENABLED: Unvan görünürlüğü etkinleştirildi.
 TRADE_CHATMESSAGE_BLOCKED: Kullanıcı ticareti engelledi.
-TRADE_CHATMESSAGE_REFUSED: 'Oyuncu {0} ticaret teklifini reddetti.'
+TRADE_CHATMESSAGE_REFUSED: Oyuncu {0} ticaret teklifini reddetti.
 TRADE_CHATMESSAGE_YOU_REFUSED: Ticaret reddedildi.
 TRADE_DIALOG_ASK_FOR_TRADE: '{0} ile ticaret yapmak istedin.'
-TRADE_DIALOG_INCOMING_EXCHANGE: 'Oyuncu {0} [{1}(+{2})Lv.] seninle ticaret yapmak istiyor.'
+TRADE_DIALOG_INCOMING_EXCHANGE: Oyuncu {0} [{1}(+{2})Lv.] seninle ticaret yapmak istiyor.
 TRADE_INFO_PLAYER_IN_BATTLE: Savaş sırasında ticaret yapamazsın.
 TRADE_INFO_WAITING_FOR_TARGET: '{0} bekleniyor...'
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Bu oyuncu zaten ticaret yapıyor.
@@ -1085,9 +1086,9 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: "'Güvenli Yükseltme' seçeneğ
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Canavarlardan yakalanan Zombi Ejderha'nın Enerjisini kullanarak korku sisini dağıt.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Tüm çağrılan canavarları yenerek sis kalkanını kaldır.
 VALENTINE_PROPOSE: "{0}'nin Sevgililer Günü Hediyesini kabul etmek istiyor musun?"
-VALENTINE_PROPOSE_ACCEPTED: "{0} Sevgililer Günü Hediyesini kabul etti."
-VALENTINE_PROPOSE_REJECTED: "{0} Sevgililer Günü hediyesini reddetti."
-VALENTINE_PROPOSE_SENT: '{0}''den hediye kabul etmesi istendi.'
+VALENTINE_PROPOSE_ACCEPTED: '{0} Sevgililer Günü Hediyesini kabul etti.'
+VALENTINE_PROPOSE_REJECTED: '{0} Sevgililer Günü hediyesini reddetti.'
+VALENTINE_PROPOSE_SENT: "{0}'den hediye kabul etmesi istendi."
 WARDROBE_INFO_NEED_KEY: Bu özelliği kullanmak için bir gardırop anahtarına ihtiyacın var.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: "{1} haritasındaki (slot {0}) Warp'ını kaldırmak istediğine emin misin?"
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Bu haritaya katılamazsın.
@@ -1095,11 +1096,14 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Bu dönüş noktası beklemede
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Bu haritaya henüz katılamazsın. Ya savaş içindesin ya da harita değiştirme bekleme süresindesin.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Bu haritada Warp ayarlayamazsın.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Boşanmak istiyor musun?
-WEDDING_DIALOG_REQUEST_RECEIVED: 'Oyuncu {0} sana evlenme teklif etti. Evlenme teklifini kabul ediyor musun?'
+WEDDING_DIALOG_REQUEST_RECEIVED: Oyuncu {0} sana evlenme teklif etti. Evlenme teklifini kabul ediyor musun?
 WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
 WEDDING_INFO_DIVORCED: Evlilik sona erdi.
-WEDDING_SHOUTMESSAGE_BROADCAST: 'Oyuncular {0} ve {1} az önce evlendi!'
+WEDDING_SHOUTMESSAGE_BROADCAST: Oyuncular {0} ve {1} az önce evlendi!
 WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenme teklifini reddetti."
 WEEKLY_ACHIEVEMENTS_REFRESHED: Haftalık tekrarlanabilir başarılar yenilendi.
 WINGS_SWAPPER_DELAY_SWAPPING: Kanatlarını tekrar değiştirebilmek için {0} beklemen gerekiyor.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Bir yetenek kullandıktan sonra kanatlarını değiştirebilmek için {0} beklemen gerekiyor.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

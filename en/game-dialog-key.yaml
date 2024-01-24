@@ -1018,6 +1018,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: The Time-Space is in easy mode. The duration ha
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: The gate is locked.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: My level is too high to join this Time-Space.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: My level is too low to join this Time-Space.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Not all Time-Space missions have been completed.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Only the party leader can start the Time-Space.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% of points reduced because of level penalty.'
@@ -1100,3 +1101,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal o
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
 WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {0}

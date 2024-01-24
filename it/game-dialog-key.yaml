@@ -223,7 +223,7 @@ ENCOURAGE_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha incoraggiato.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Questo oggetto non può essere convertito.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'oggetto è stato convertito con successo {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Sbloccato traguardo di famiglia: {0}'
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) si è connesso!"
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) si è connesso!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Acquistato l'aggiornamento della famiglia.
 FAMILY_CHATMESSAGE_XP_GAINED: 'Ricompensa di Famiglia: {0} FXP'
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Vuoi sciogliere la tua famiglia? Non potrà essere annullato.
@@ -296,7 +296,7 @@ FISHING_SAY_OVER_JOB_LEVEL: Il tuo livello di pesca è troppo alto per pescare q
 FISHING_SAY_PERSONAL_RECORD: Questo è il pesce più grande di questa specie che tu abbia mai pescato.
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Qualcosa è andato storto nell'aggiungere un giro al tuo account. Se il problema persiste, per favore contatta l'assistenza.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: È stato aggiunto un giro al tuo account. Puoi riscattarlo nella dashboard.
-FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} si è collegato."
+FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} si è collegato.'
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} si è disconnesso.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Vuoi diventare amico di {0}?
 FRIEND_INFO_ADDED: Richiesta di amicizia accettata!
@@ -333,7 +333,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Gruppo) [{0}x {1}] per: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Gruppo) [{0}x {1}] per tutti
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} ha rifiutato la tua richiesta di gruppo.'
 GROUP_DIALOG_ASK_SHARE_POINT: Vuoi impostare il punto di ritorno di {0} come il tuo?
-GROUP_DIALOG_INVITED_YOU: 'Il giocatore {0} ti ha inviato una richiesta di gruppo.'
+GROUP_DIALOG_INVITED_YOU: Il giocatore {0} ti ha inviato una richiesta di gruppo.
 GROUP_INFO_ADMIN: Ora sei il capogruppo.
 GROUP_INFO_ALREADY_IN_GROUP: Sei già in un gruppo.
 GROUP_INFO_BLOCKED: Il giocatore blocca gli inviti al gruppo.
@@ -536,7 +536,7 @@ LOTTERY_CHATMESSAGE_TOTAL_TICKETS: 'Totale Partecipanti: {0}'
 LOTTERY_SHOUTMESSAGE_FAIL: Si è verificato un errore nell'acquisto del biglietto. Si prega di contattare l'assistenza.
 LOTTERY_SHOUTMESSAGE_WINNER_PICKED: '{0} ha vinto la lotteria!'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: Non puoi ricevere più Monete Fedeltà da questa attività per oggi.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Hai ricevuto {0} monete completando un''attività del Sistema di Fedeltà. Completamenti giornalieri rimanenti: {1}'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: "Hai ricevuto {0} monete completando un'attività del Sistema di Fedeltà. Completamenti giornalieri rimanenti: {1}"
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: Non puoi ricevere più Monete Fedeltà oggi.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Hai ricevuto un pacco ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} email nella tua casella di posta.
@@ -553,10 +553,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La manutenzione è stata interrotta.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0} ora/e.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0} minuto/i.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0} secondo/i.
-MESSAGE_UNDER_CHAT_0: 'Altoparlanti, fumetti e la chat dell''eroe sono solo in inglese!'
-MESSAGE_UNDER_CHAT_1: 'Dai un''occhiata al nostro server Discord: discord.gg/olympusgg'
+MESSAGE_UNDER_CHAT_0: Altoparlanti, fumetti e la chat dell'eroe sono solo in inglese!
+MESSAGE_UNDER_CHAT_1: "Dai un'occhiata al nostro server Discord: discord.gg/olympusgg"
 MESSAGE_UNDER_CHAT_2: 'Hai trovato un bug? Apri un ticket di segnalazione su: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: 'Hai un''idea? Crea un suggerimento sul nostro Discord!'
+MESSAGE_UNDER_CHAT_3: Hai un'idea? Crea un suggerimento sul nostro Discord!
 MESSAGE_UNDER_CHAT_4: 'Rispetta le regole del nostro gioco: dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: 'Problemi di pagamento o nel gioco? Visita il nostro server di Supporto Discord: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: I punti produzione dei minigiochi sono stati aggiornati.
@@ -825,7 +825,7 @@ RAID_INFO_PLAYER_DEATH: Sei morto! Sarai rianimato tra 20 secondi.
 RAID_MESSAGE_DISOLVED: La squadra di raid è stata sciolta.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Apri Rapporto Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Controlla le statistiche del tuo team per {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Rapporto Raid Pronto'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Rapporto Raid Pronto
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tutti i giocatori sono congelati.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Sei già in un'altra squadra di raid.
@@ -992,7 +992,7 @@ TALENT_ARENA_PLAYER_IN_GROUP: Non puoi unirti all'Arena del Talento mentre sei i
 TALENT_ARENA_PLAYER_NOT_FOUND: Giocatore non trovato.
 TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Non puoi usare questa abilità prima di entrare nell'area di combattimento.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Arena del Talento aperta sul canale {0}.
-TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} ha lasciato l''Arena del Talento'
+TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: "{0} ha lasciato l'Arena del Talento"
 TALENT_ARENA_SHOUTMESSAGE_SUMMONED_IN_X_SECONDS: Sarai evocato tra {0} secondi.
 TALENT_ARENA_SHOUTMESSAGE_TEMPORARILY_BANNED: Sei temporaneamente bandito dall'Arena del Talento.
 TALENT_ARENA_TOO_LOW_LEVEL: Il tuo livello è troppo basso per entrare nell'Arena del Talento.
@@ -1021,6 +1021,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Lo Spazio-Tempo è in modalità facile. La dura
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Il cancello è chiuso.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Il mio livello è troppo alto per partecipare a questo Spazio-Tempo.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Il mio livello è troppo basso per partecipare a questo Spazio-Tempo.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Non tutte le missioni dello Spazio-Tempo sono state completate.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo il capogruppo può avviare lo Spazio-Tempo.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% dei punti ridotti a causa della penalità di livello.'
@@ -1054,7 +1055,7 @@ TITLE_INFO_UNLOCKED: Hai sbloccato il titolo.
 TITLE_INFO_VISIBLE_DISABLED: Visibilità del titolo disattivata.
 TITLE_INFO_VISIBLE_ENABLED: Visibilità del titolo attivata.
 TRADE_CHATMESSAGE_BLOCKED: L'utente ha bloccato gli scambi.
-TRADE_CHATMESSAGE_REFUSED: 'Il giocatore {0} ha rifiutato la tua richiesta di scambio.'
+TRADE_CHATMESSAGE_REFUSED: Il giocatore {0} ha rifiutato la tua richiesta di scambio.
 TRADE_CHATMESSAGE_YOU_REFUSED: Scambio rifiutato.
 TRADE_DIALOG_ASK_FOR_TRADE: Hai chiesto di scambiare con {0}.
 TRADE_DIALOG_INCOMING_EXCHANGE: Il giocatore {0} [{1}(+{2})Lv.] vuole scambiare con te.
@@ -1085,9 +1086,9 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Hai l'opzione 'Aggiornamento Sic
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Usa l'Energia del Drago Zombie catturata dai mostri per rimuovere la nebbia della paura.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Sconfiggi tutti i mostri evocati per rimuovere lo scudo di nebbia.
 VALENTINE_PROPOSE: Vuoi accettare il Regalo di San Valentino di {0}?
-VALENTINE_PROPOSE_ACCEPTED: "{0} ha accettato il Regalo di San Valentino."
-VALENTINE_PROPOSE_REJECTED: "{0} ha rifiutato il regalo di San Valentino."
-VALENTINE_PROPOSE_SENT: 'Si è chiesto a {0} di accettare il regalo.'
+VALENTINE_PROPOSE_ACCEPTED: '{0} ha accettato il Regalo di San Valentino.'
+VALENTINE_PROPOSE_REJECTED: '{0} ha rifiutato il regalo di San Valentino.'
+VALENTINE_PROPOSE_SENT: Si è chiesto a {0} di accettare il regalo.
 WARDROBE_INFO_NEED_KEY: Ti serve una chiave per l'armadio per usare questa funzione.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Sei sicuro di voler rimuovere il tuo Warp nella mappa {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Non puoi entrare in questa mappa.
@@ -1103,3 +1104,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rifiutato la proposta di matrimo
 WEEKLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi settimanali ripetibili sono stati aggiornati.
 WINGS_SWAPPER_DELAY_SWAPPING: Devi aspettare {0} tra uno scambio e l'altro per cambiare di nuovo le tue ali.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Devi aspettare {0} dopo aver usato un'abilità per poter scambiare le tue ali.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

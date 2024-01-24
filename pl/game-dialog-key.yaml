@@ -66,8 +66,8 @@ BANK_DIALOG_ASK_WITHDRAW: Czy chcesz wypłacić {0}000 złota ze swojego konta b
 BANK_INFO_NOT_ENOUGH_FUNDS: Za mało środków.
 BANK_LOG_OPEN_BANK: Witaj w banku! W czym mogę pomóc?
 BANK_LOG_WITHDRAW_BANK: '{0}000 złota wypłacone.'
-BANK_MESSAGE_BALANCE: 'Masz {0} złota w swoim banku.'
-BANK_MESSAGE_DEPOSIT: 'Wpłaciłeś {0}000 złota do swojego banku.'
+BANK_MESSAGE_BALANCE: Masz {0} złota w swoim banku.
+BANK_MESSAGE_DEPOSIT: Wpłaciłeś {0}000 złota do swojego banku.
 BANK_MESSAGE_MAINTENANCE: Bank jest w trakcie konserwacji.
 BANK_MESSAGE_MAX_GOLD_REACHED: Osiągnięto maksymalną ilość złota w banku!
 BANK_MESSAGE_UNEXPECTED_ISSUE: Wystąpił nieoczekiwany błąd podczas próby realizacji twojego żądania przez bank.
@@ -165,7 +165,7 @@ BLACKLIST_INFO_BLOCKED: Zostałeś zablokowany.
 BLACKLIST_INFO_BLOCKING: Ten gracz jest na twojej czarnej liście.
 BLACKLIST_INFO_DELETED: Usunięto gracza z czarnej listy.
 BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Brak efektu z powodu odporności.
-BUFF_CHATMESSAGE_EFFECT_TERMINATED: 'Straciłeś efekt {0}.'
+BUFF_CHATMESSAGE_EFFECT_TERMINATED: Straciłeś efekt {0}.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Skutki uboczne {0} się rozpoczęły.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Jesteś pod wpływem {0}.
 CELESTIAL_TOWER_INFO_RESET_CONFIRM: Czy chcesz zresetować cały postęp w Wieży Niebiańskiej? Ranking nie zostanie zresetowany.
@@ -556,10 +556,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Przerwa techniczna została zatrzymana.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Przerwa techniczna rozpocznie się za {0} godz.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Przerwa techniczna rozpocznie się za {0} min.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Przerwa techniczna rozpocznie się za {0} sek.
-MESSAGE_UNDER_CHAT_0: 'Głośniki, dymki dialogowe i czat bohatera są tylko po angielsku!'
+MESSAGE_UNDER_CHAT_0: Głośniki, dymki dialogowe i czat bohatera są tylko po angielsku!
 MESSAGE_UNDER_CHAT_1: 'Sprawdź nasz serwer Discord: noswings.com/discord'
 MESSAGE_UNDER_CHAT_2: 'Znalazłeś/aś błąd? Zgłoś go na: noswings.com/bug-report'
-MESSAGE_UNDER_CHAT_3: 'Masz pomysł? Zaproponuj go na naszym Discordzie!'
+MESSAGE_UNDER_CHAT_3: Masz pomysł? Zaproponuj go na naszym Discordzie!
 MESSAGE_UNDER_CHAT_4: 'Przestrzegaj naszych zasad gry: noswings.com/game-rules'
 MESSAGE_UNDER_CHAT_5: 'Problem z płatnością lub z grą? Odwiedź Supportowy serwer Discord: noswings.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Punkty produkcji minigier zostały odświeżone.
@@ -1024,6 +1024,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Przestrzeń-Czas jest w trybie łatwym. Czas tr
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brama jest zamknięta.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mój poziom jest zbyt wysoki aby dołączyć do tej czasoprzestrzeni.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mój poziom jest zbyt niski aby dołączyć do tej czasoprzestrzeni.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nie wszystkie misje czasoprzestrzeni zostały ukończone.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Tylko lider czasoprzestrzeni może wystartować.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% pkt. zostało odciągniętych w ramach kary poziomu.'
@@ -1060,7 +1061,7 @@ TRADE_CHATMESSAGE_BLOCKED: Użytkownik zablokował wymiany.
 TRADE_CHATMESSAGE_REFUSED: Gracz {0} odrzucił twoją prośbę o wymianę.
 TRADE_CHATMESSAGE_YOU_REFUSED: Odrzucono prośbę o wymianę.
 TRADE_DIALOG_ASK_FOR_TRADE: Poprosiłeś gracza {0} o wymianę.
-TRADE_DIALOG_INCOMING_EXCHANGE: 'Gracz {0} [{1}(+{2})Lv.] chce się z tobą wymienić.'
+TRADE_DIALOG_INCOMING_EXCHANGE: Gracz {0} [{1}(+{2})Lv.] chce się z tobą wymienić.
 TRADE_INFO_PLAYER_IN_BATTLE: Nie możesz wymieniać się w trakcie walki.
 TRADE_INFO_WAITING_FOR_TARGET: Czekam na {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Gracz aktualnie wymienia się z kimś...
@@ -1088,8 +1089,8 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Masz włączoną opcję 'Bezpiec
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Użyj Energii Zombie Smoka zdobytej od potworów, aby usunąć mgłę strachu.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Pokonaj wszystkie przywołane potwory, aby usunąć mglistą tarczę.
 VALENTINE_PROPOSE: Czy chcesz przyjąć Walentynkowy Prezent od {0}?
-VALENTINE_PROPOSE_ACCEPTED: "{0} przyjął prezent na Walentynki."
-VALENTINE_PROPOSE_REJECTED: "{0} odrzucił prezent na Walentynki."
+VALENTINE_PROPOSE_ACCEPTED: '{0} przyjął prezent na Walentynki.'
+VALENTINE_PROPOSE_REJECTED: '{0} odrzucił prezent na Walentynki.'
 VALENTINE_PROPOSE_SENT: '{0} został poproszony o przyjęcie prezentu.'
 WARDROBE_INFO_NEED_KEY: Potrzebujesz klucza do szafy, żeby użyć tej funkcji.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Czy na pewno chcesz usunąć swój Warp na mapie {1} (slot {0})?
@@ -1106,3 +1107,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odrzucił zaręczyny gracza {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Odnowiono cotygodniowe osiągnięcia do zdobycia ponownie.
 WINGS_SWAPPER_DELAY_SWAPPING: Musisz poczekać {0}, zanim będziesz mógł zmienić swoje skrzydła ponownie.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musisz poczekać {0} po użyciu umiejętności, aby móc zmienić skrzydła.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}

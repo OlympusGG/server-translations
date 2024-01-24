@@ -65,7 +65,7 @@ BANK_DIALOG_ASK_DEPOSIT: ¿Quieres depositar {0}000 de oro en tu banco?
 BANK_DIALOG_ASK_WITHDRAW: ¿Quieres retirar {0}000 de oro de tu cuenta bancaria?
 BANK_INFO_NOT_ENOUGH_FUNDS: Fondos insuficientes.
 BANK_LOG_OPEN_BANK: ¡Bienvenido al banco! ¿En qué puedo ayudarte?
-BANK_LOG_WITHDRAW_BANK: 'Retirados {0}000 de oro.'
+BANK_LOG_WITHDRAW_BANK: Retirados {0}000 de oro.
 BANK_MESSAGE_BALANCE: Tienes {0} de oro en tu banco.
 BANK_MESSAGE_DEPOSIT: Depositados {0}000 de oro en tu banco.
 BANK_MESSAGE_MAINTENANCE: El banco está en mantenimiento.
@@ -208,7 +208,7 @@ DUEL_CHATMESSAGE_NOT_SAME_MAP: El retador está en otro mapa.
 DUEL_CHATMESSAGE_REQUEST_REFUSED: El jugador {0} ha rechazado tu solicitud de duelo.
 DUEL_CHATMESSAGE_USER_OFFLINE: El retador ya no está en línea.
 DUEL_CHATMESSAGE_WON: '¡Has ganado el duelo! Puntuación: {0}-{1}'
-DUEL_DIALOG_REQUEST_INVITE: '¡{0} te ha desafiado! ¿Quieres aceptar?'
+DUEL_DIALOG_REQUEST_INVITE: ¡{0} te ha desafiado! ¿Quieres aceptar?
 DUEL_DIALOG_REVIVAL: ¿Continuar?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Este jugador está bloqueando las solicitudes de duelo.
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
@@ -223,7 +223,7 @@ ENCOURAGE_CHATMESSAGE_RECEIVED: El jugador {0} te ha animado.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Este artículo no se puede convertir.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: El objeto fue convertido exitosamente {0}.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
-FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '¡{0}({1}) ha iniciado sesión!'
+FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: ¡{0}({1}) ha iniciado sesión!
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada.
 FAMILY_CHATMESSAGE_XP_GAINED: 'Recompensa Familiar: {0} FXP'
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: ¿Quieres disolver tu familia? No se puede deshacer.
@@ -333,7 +333,7 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Grupo) [{0}x {1}] para: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Grupo) [{0}x {1}] para todos
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} rechazó tu solicitud de grupo.'
 GROUP_DIALOG_ASK_SHARE_POINT: ¿Quieres establecer el punto de retorno de {0} como el tuyo?
-GROUP_DIALOG_INVITED_YOU: 'El jugador {0} te ha enviado una solicitud de grupo.'
+GROUP_DIALOG_INVITED_YOU: El jugador {0} te ha enviado una solicitud de grupo.
 GROUP_INFO_ADMIN: Ahora eres el líder del grupo.
 GROUP_INFO_ALREADY_IN_GROUP: Ya estás en un grupo.
 GROUP_INFO_BLOCKED: El jugador bloquea las invitaciones de grupo.
@@ -514,7 +514,7 @@ LAND_OF_LIFE_RECONNECT_QUESTION_MSG: ¿Quieres volver a unirte a la Tierra de la
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_DESPAWN: El altar ha desaparecido.
 LAND_OF_LIFE_SHOUTMESSAGE_ALTAR_SPAWN: Un altar ha aparecido en algún lugar.
 LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} ha desaparecido.'
-LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '¡{0} ha comenzado a cazar!'
+LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: ¡{0} ha comenzado a cazar!
 LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: No puedes entrar ahora.
 LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Solo los miembros de la familia pueden entrar a la Tierra de la Vida.
 LAND_OF_LIFE_SHOUTMESSAGE_KICKED: La Tierra de la Vida está cerrada ahora.
@@ -534,7 +534,7 @@ LOTTERY_CHATMESSAGE_MY_TICKETS: 'Mis Entradas: {0}'
 LOTTERY_CHATMESSAGE_REMAINING_TIME: 'Tiempo Restante: {0} días, {1} horas, {2} minutos'
 LOTTERY_CHATMESSAGE_TOTAL_TICKETS: 'Total de Participantes: {0}'
 LOTTERY_SHOUTMESSAGE_FAIL: Ocurrió un error al comprar una entrada. Por favor, contacta al soporte.
-LOTTERY_SHOUTMESSAGE_WINNER_PICKED: '¡{0} ha ganado la lotería!'
+LOTTERY_SHOUTMESSAGE_WINNER_PICKED: ¡{0} ha ganado la lotería!
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: No puedes recibir más Monedas de Lealtad de esta actividad por hoy.
 LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Has recibido {0} monedas completando una actividad del Sistema de Lealtad. Completaciones de actividad diaria restantes: {1}'
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: No puedes recibir más Monedas de Lealtad hoy.
@@ -553,10 +553,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: El mantenimiento ha sido detenido.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: El mantenimiento comenzará en {0} hora(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: El mantenimiento comenzará en {0} minuto(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: El mantenimiento comenzará en {0} segundo(s).
-MESSAGE_UNDER_CHAT_0: '¡Los altavoces, globos de diálogo y el chat del héroe son solo en inglés!'
+MESSAGE_UNDER_CHAT_0: ¡Los altavoces, globos de diálogo y el chat del héroe son solo en inglés!
 MESSAGE_UNDER_CHAT_1: 'Visita nuestro servidor de Discord: discord.gg/olympusgg'
 MESSAGE_UNDER_CHAT_2: '¿Encontraste un error? Abre un ticket de error en: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: '¿Tienes una idea? ¡Crea una sugerencia en nuestro Discord!'
+MESSAGE_UNDER_CHAT_3: ¿Tienes una idea? ¡Crea una sugerencia en nuestro Discord!
 MESSAGE_UNDER_CHAT_4: 'Respeta nuestras reglas del juego: dashboard.olympusgg.com/rules'
 MESSAGE_UNDER_CHAT_5: '¿Problemas de pago o en el juego? Visita nuestro servidor de soporte en Discord: dashboard.olympusgg.com/support'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Los puntos de producción de los minijuegos han sido actualizados.
@@ -603,7 +603,7 @@ NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tu nivel es demasiado alto para recibir
 NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tu nivel es demasiado bajo para recibir este paquete de potenciadores.
 NPC_SHOP_LOG_PURCHASE: Compraste {1}x {0}.
 OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED'
-OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: 'Opción de ocultar enfriamientos activada'
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: Opción de ocultar enfriamientos activada
 OPTION_SHOUTMESSAGE_X_DISABLED: ¡La opción {0} ahora está desactivada!
 OPTION_SHOUTMESSAGE_X_ENABLED: ¡La opción {0} ahora está activada!
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Opción de Apuesta Segura desactivada
@@ -825,7 +825,7 @@ RAID_INFO_PLAYER_DEATH: ¡Estás muerto! Revivirás en 20 segundos.
 RAID_MESSAGE_DISOLVED: El equipo de la incursión se disolvió.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Abrir Informe de Incursión
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Revisa las estadísticas de tu equipo para {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: 'Informe de Incursión Listo'
+RAID_NOTIFMESSAGE_REPORT_TITLE: Informe de Incursión Listo
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Todos los jugadores están congelados.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de incursión.
@@ -1021,9 +1021,10 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: El Espacio-Tiempo está en modo fácil. La dura
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: La puerta está cerrada.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mi nivel es demasiado alto para unirme a este Espacio-Tiempo.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mi nivel es demasiado bajo para unirme a este Espacio-Tiempo.
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: No se han completado todas las misiones del Espacio-Tiempo.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo el líder del grupo puede iniciar el Espacio-Tiempo.
-TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: 'Se redujo el {0}% de los puntos debido a la penalización por nivel.'
+TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Se redujo el {0}% de los puntos debido a la penalización por nivel.
 TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: ¿Quieres unirte al Espacio-Tiempo de un miembro del grupo?
 TIMESPACE_DIALOG_ASK_REVIVAL: ¿Quieres resucitarte?
 TIMESPACE_DIALOG_ASK_START: ¿Quieres entrar a la primera sala?
@@ -1085,9 +1086,9 @@ UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Tienes la opción 'Mejora Segura
 VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Usa la Energía del Dragón Zombi capturada de los monstruos para eliminar la niebla del miedo.
 VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Derrota a todos los monstruos invocados para eliminar el escudo de niebla.
 VALENTINE_PROPOSE: ¿Quieres aceptar el Regalo de San Valentín de {0}?
-VALENTINE_PROPOSE_ACCEPTED: "{0} ha aceptado el Regalo de San Valentín."
-VALENTINE_PROPOSE_REJECTED: "{0} ha rechazado el regalo de San Valentín."
-VALENTINE_PROPOSE_SENT: 'Se le ha pedido a {0} que acepte el regalo.'
+VALENTINE_PROPOSE_ACCEPTED: '{0} ha aceptado el Regalo de San Valentín.'
+VALENTINE_PROPOSE_REJECTED: '{0} ha rechazado el regalo de San Valentín.'
+VALENTINE_PROPOSE_SENT: Se le ha pedido a {0} que acepte el regalo.
 WARDROBE_INFO_NEED_KEY: Necesitas una llave de armario para usar esta función.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: ¿Estás seguro de que quieres eliminar tu Punto de Teletransporte en el mapa {1} (ranura {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: No puedes unirte a este mapa.
@@ -1103,3 +1104,6 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrim
 WEEKLY_ACHIEVEMENTS_REFRESHED: Se han actualizado los logros semanales repetibles.
 WINGS_SWAPPER_DELAY_SWAPPING: Necesitas esperar {0} entre cambios para cambiar tus alas de nuevo.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Necesitas esperar {0} después de usar una habilidad para poder cambiar tus alas.
+WORLD_BOSS_EVENT_NAME: World Boss Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
