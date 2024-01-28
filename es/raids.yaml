@@ -17,38 +17,38 @@ RAID_NAME_ERENIA: Goddess Erenia
 RAID_NAME_FERNON: Incomplete Fernon
 RAID_NAME_CHICKENQUEEN: Chicken Queen
 RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
-RAID_NAME_CARNO: Twisted Beast King Carno
-RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon
-RAID_NAME_PIRATE: Captain Pete O'Peng
+RAID_NAME_KIROLLAS: Rey Espíritu retorcido Kirollas
+RAID_NAME_CARNO: Rey Bestia retorcido Carno
+RAID_NAME_BELIAL: Dios Demonio Belial
+RAID_NAME_PAIMON: Señor malvado supremo Paimon
+RAID_NAME_PIRATE: Capitán Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
 RAID_NAME_FOXY: Foxy
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Huge Snowman Head
-RAID_NAME_ALZANOR: Ice Dragon Alzanor
-RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_SNOWMAN: Gran Cabeza de muñeco de nieve
+RAID_NAME_ALZANOR: Dragón de hielo Alzanor
+RAID_NAME_VALEHIR: Dragón Zombie Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
-KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Grail the Tremendous Phoenix has transformed into an egg."
-GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, arise!"
-GRENIGAS_CHATMESSAGE_GATHER_POWER: "The power of the fire god will destroy everything!"
-GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "The power of fire is gathering around Grenigas!"
-GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas has absorbed the Crystal of Life and earned new vitality."
-RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
-ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start shortly."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
-PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
+KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos ha comenzado a reunir fuerza."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "El enorme Fénix Grail ha renacido del huevo."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "El enorme Fénix Grail se ha transformado en un huevo."
+GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "¡Álzate, Fénix!"
+GRENIGAS_CHATMESSAGE_GATHER_POWER: "¡El poder el Dios de fuego destruirá todo!"
+GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "¡El poder del fuego se está acumulando alrededor de Grenigas!"
+GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas ha absorbido el Cristal de la Vida y ha ganado nueva vitalidad."
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Todos los jugadores han sucumbido al hielo eterno de Glacerus."
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: ¡Salvaros entrando en un área de protección!"
+ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "La primera prueba de Erenia comenzará pronto."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Habéis completado la primera prueba de Erenia. La segunda comenzará pronto."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Habéis completado la segunda prueba de Erenia. La prueba final comenzará pronto."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Erenia. Está montando un alboroto."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "La primera prueba de Zenas comenzará pronto."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Habéis completado la primera prueba de Zenas. La segunda comenzará pronto."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Habéis completado la segunda prueba de Zenas. La prueba final comenzará pronto."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Zenas. Está montando un alboroto."
+ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "La decimotercera ala de Zenas, Arcángel Lucifer, ha aparecido."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Han aparecido los seguidores de Fernon."
+PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: El malvado señor supremo está invocando a sus unidades más fuertes.
 RAID_NAME_FAFNIR: Fafnir el Codicioso
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: ¡Os fundiré a todos!
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: ¡Pete O'Peng ha invocado a los Dragones del Mar!
