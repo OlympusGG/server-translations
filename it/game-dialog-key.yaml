@@ -139,15 +139,21 @@ BID_MODAL_DISCLAIMER: >-
 
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
 
-  	- Rimuovere un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+
+
+  	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+
+
 
   	- Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
 
 
-  Il pulsante per fare un'offerta su un oggetto non ti chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
 
 
-  Il pulsante per mettere un oggetto all'asta ti chiederà una conferma prima di procedere. Questo è fatto per assicurare la decisione di un giocatore.
+  Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
+
+
+  Il pulsante per mettere un oggetto all'asta chiederà una conferma prima di procedere. Questo è fatto per assicurare la decisione del player.
 
 
   Buone aste!
@@ -1114,6 +1120,6 @@ WEEKLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi settimanali ripetibili sono stati a
 WINGS_SWAPPER_DELAY_SWAPPING: Devi aspettare {0} tra uno scambio e l'altro per cambiare di nuovo le tue ali.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Devi aspettare {0} dopo aver usato un'abilità per poter scambiare le tue ali.
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
-WORLD_BOSS_EVENT_NAME: World Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_EVENT_NAME: Evento World Boss
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
