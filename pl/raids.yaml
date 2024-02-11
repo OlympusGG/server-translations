@@ -1,4 +1,4 @@
-RAID_NAME_CASTRA: Mroczny Castra
+RAID_NAME_CASTRA: Mroczna Castra
 RAID_NAME_CHICKENKING: Król Kurczaków
 RAID_NAME_CUBY: Matka Kostek
 RAID_NAME_GIANTBLACKSPIDER: Gigantyczny Czarny Pająk
@@ -11,44 +11,44 @@ RAID_NAME_VALAKUS: Król Ognia Valakus
 RAID_NAME_GRENIGAS: Bóg Ognia Grenigas
 RAID_NAME_LORDDRACO: Lord Draco
 RAID_NAME_GLACERUS: Glacerus Lodowaty
-RAID_NAME_LAURENA: Witch Laurena
-RAID_NAME_ZENAS: Goddess Zenas
-RAID_NAME_ERENIA: Goddess Erenia
-RAID_NAME_FERNON: Incomplete Fernon
-RAID_NAME_CHICKENQUEEN: Chicken Queen
-RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
-RAID_NAME_CARNO: Twisted Beast King Carno
-RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon
-RAID_NAME_PIRATE: Captain Pete O'Peng
+RAID_NAME_LAURENA: Wiedźma Laurena
+RAID_NAME_ZENAS: Bogini Zenas
+RAID_NAME_ERENIA: Bogini Erenia
+RAID_NAME_FERNON: Niekompletna Fernon
+RAID_NAME_CHICKENQUEEN: Królowa Kurczaków
+RAID_NAME_MADMARCHHARE: Szalony Zając Wielkanocny
+RAID_NAME_KIROLLAS: Spaczony Król Duchów Kirollas
+RAID_NAME_CARNO: Spaczony Król Bestii Karno
+RAID_NAME_BELIAL: Bóg Demonów Belial
+RAID_NAME_PAIMON: Zły Władca Paimon
+RAID_NAME_PIRATE: Kapitan Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
 RAID_NAME_FOXY: Foxy
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Huge Snowman Head
-RAID_NAME_ALZANOR: Ice Dragon Alzanor
-RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_SNOWMAN: Wielka Głowa Bałwana
+RAID_NAME_ALZANOR: Lodowy Smok Alzanor
+RAID_NAME_VALEHIR: Smok Zombie Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos zaczyna koncentrować swoje siły."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Z jaja tego narodzi się Gral, ogromny Feniks."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Z tego jaja narodzi się Gral, ogromny Feniks."
 GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Olbrzymi Feniks Gral zamienił się w jajo."
-GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Feniksie, obudź się!"
+GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Feniksie, powstań!"
 GRENIGAS_CHATMESSAGE_GATHER_POWER: "Moc boga ognia zniszczy wszystko!"
 GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "Wokół Grenigasa koncentruje się moc ognia!"
 GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas wchłonął kryształ życia i w ten sposób zyskał nową energię."
-RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
-ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start shortly."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
-PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Wieczny lód Glacerusa pokrył wszystkich graczy."
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Ochrońcie się poprzez wejście w ochronne kwadraty!"
+ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Pierwsza próba Erenii zaraz się rozpocznie."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Udało Ci się przetrwać pierwszą próbę Erenii. Zaraz rozpocznie się drugi."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Udało Ci się przetrwać drugą próbę Erenii. Zaraz rozpocznie się ostateczny sprawdzian umiejętności."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Poległeś podczas ostatecznego sprawdzianu Erenii. Erenia wpada w szał."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Pierwsza próba Zenas zaraz się rozpocznie."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Udało Ci się przetrwać pierwszą próbę Zenas. Zaraz rozpocznie się druga."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Udało Ci się przetrwać drugą próbę Zenas. Zaraz rozpocznie się ostateczny sprawdzian umiejętności."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Poległeś podczas ostatecznego sprawdzianu Zenas. Zenas wpada w szał"
+ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archanioł Lucyfer, Trzynaste skrzydło Zenas, się pojawił."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Wyznawcy Fernon przybyli."
+PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: Zły Władca przyzywa swoich najpotężniejszych służących.
 RAID_NAME_FAFNIR: Chciwy Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Roztopię was wszystkich!
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Pete O'Peng przywołał Morskie Smoki!
