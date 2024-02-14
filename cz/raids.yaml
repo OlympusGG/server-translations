@@ -1,54 +1,54 @@
 RAID_NAME_CASTRA: Temný Castra
 RAID_NAME_CHICKENKING: Kuřecí král
-RAID_NAME_CUBY: Matka Kuby
+RAID_NAME_CUBY: Matka Cuby
 RAID_NAME_GIANTBLACKSPIDER: Obrovský černý pavouk
 RAID_NAME_GINSENG: Ženšen
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
+RAID_NAME_ROBBERGANG: Ibrahim
 RAID_NAME_SLADE: Obrovský Slade
-RAID_NAME_KERTOS: Kertos the Demon Dog
-RAID_NAME_VALAKUS: Valakus King of Fire
-RAID_NAME_GRENIGAS: Fire God Grenigas
+RAID_NAME_KERTOS: Démonický pes Kertos
+RAID_NAME_VALAKUS: Král ohně Valakus
+RAID_NAME_GRENIGAS: Bůh ohně Grenigas
 RAID_NAME_LORDDRACO: Lord Draco
-RAID_NAME_GLACERUS: Glacerus the Ice Cold
-RAID_NAME_LAURENA: Witch Laurena
-RAID_NAME_ZENAS: Goddess Zenas
-RAID_NAME_ERENIA: Goddess Erenia
-RAID_NAME_FERNON: Incomplete Fernon
-RAID_NAME_CHICKENQUEEN: Chicken Queen
-RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
-RAID_NAME_CARNO: Twisted Beast King Carno
-RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon
-RAID_NAME_PIRATE: Captain Pete O'Peng
+RAID_NAME_GLACERUS: Glacerus ledový
+RAID_NAME_LAURENA: Čarodejnice Laurena
+RAID_NAME_ZENAS: Zenas
+RAID_NAME_ERENIA: Erenia
+RAID_NAME_FERNON: Neúplná Fernon
+RAID_NAME_CHICKENQUEEN: Kuřecí královna
+RAID_NAME_MADMARCHHARE: Šílený zajíc Březňák
+RAID_NAME_KIROLLAS: Zvrácený Král duchů Kirollas
+RAID_NAME_CARNO: Zvrácený Král bestií Carno
+RAID_NAME_BELIAL: Král démonů Belial
+RAID_NAME_PAIMON: Vládce Zla Paimon
+RAID_NAME_PIRATE: Kapitán Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
 RAID_NAME_FOXY: Foxy
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Huge Snowman Head
-RAID_NAME_ALZANOR: Ice Dragon Alzanor
-RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_SNOWMAN: Velká sněhuláková hlava
+RAID_NAME_ALZANOR: Ledový drak Alzanor
+RAID_NAME_VALEHIR: Zombie drak Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
-KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Grail the Tremendous Phoenix has transformed into an egg."
-GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, arise!"
-GRENIGAS_CHATMESSAGE_GATHER_POWER: "The power of the fire god will destroy everything!"
-GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "The power of fire is gathering around Grenigas!"
-GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas has absorbed the Crystal of Life and earned new vitality."
-RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
-ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start shortly."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
-PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
-RAID_NAME_FAFNIR: Lakomý Fafnir
+KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos začal shromažďovat svou sílu."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Obrovský fénix Grail se znovuzrodí z vejce."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Obrovský fénix Grail se proměnil v vejce."
+GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Fénixi, povstaň!"
+GRENIGAS_CHATMESSAGE_GATHER_POWER: "Síla boha ohně zničí vše!"
+GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "Síla ohně se shromažďuje okolo Grenigase!"
+GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas absorboval krystal života a získal novou vitalitu."
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Všichni hráči podlehli věčnému ledu Glacera."
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Zachraňte se tím, že se dostanete do ochranného čtverce!"
+ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "První test Erenie brzy začne."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Úspěšně jste zvládnuli první test Erenie. Druhý test brzy začne."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Úspěšně jste zvládnuli druhý test Erenie. Poslední test brzy začne."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neuspěli jste v Ereniině posledním testu. Začíná vše ničit."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "První test Zenas brzy začne."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Úspěšně jste zvládnuli první test Zenas. Druhý test brzy začne."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Úspěšně jste zvládnuli druhý test Zenas. Poslední test brzy začne."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neuspěli jste v posledním testu Zenas. Začíná vše ničit."
+ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archanděl Lucifer, 13. křídlo Zenas, se objevil."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Následovníci Fernon se objevili."
+PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: Vládce zla přivolává své nejsilnější jednotky.
+RAID_NAME_FAFNIR: Chamtivý Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Rozpustím vás všechny!
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Pete O'Peng přivolal Mořské Draky!
