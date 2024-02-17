@@ -4,37 +4,37 @@ RAID_NAME_CUBY: Mère Cuby
 RAID_NAME_GIANTBLACKSPIDER: Araignée Noire Géante
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
+RAID_NAME_ROBBERGANG: Ibrahim
 RAID_NAME_SLADE: Slade Géant
-RAID_NAME_KERTOS: Kertos the Demon Dog
-RAID_NAME_VALAKUS: Valakus King of Fire
-RAID_NAME_GRENIGAS: Fire God Grenigas
-RAID_NAME_LORDDRACO: Lord Draco
-RAID_NAME_GLACERUS: Glacerus the Ice Cold
-RAID_NAME_LAURENA: Witch Laurena
-RAID_NAME_ZENAS: Goddess Zenas
-RAID_NAME_ERENIA: Goddess Erenia
-RAID_NAME_FERNON: Incomplete Fernon
-RAID_NAME_CHICKENQUEEN: Chicken Queen
-RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
-RAID_NAME_CARNO: Twisted Beast King Carno
-RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon
-RAID_NAME_PIRATE: Captain Pete O'Peng
+RAID_NAME_KERTOS: Kertos, le chien-démon
+RAID_NAME_VALAKUS: Valakus, roi des flammes
+RAID_NAME_GRENIGAS: Grenigas, le dieu du Feu
+RAID_NAME_LORDDRACO: Sire Draco
+RAID_NAME_GLACERUS: Glacerus le Rude
+RAID_NAME_LAURENA: Sorcière Laurena
+RAID_NAME_ZENAS: Zénas
+RAID_NAME_ERENIA: Erenia
+RAID_NAME_FERNON: Fernon incomplète
+RAID_NAME_CHICKENQUEEN: Reine poule
+RAID_NAME_MADMARCHHARE: Lapin de Pâques fou
+RAID_NAME_KIROLLAS: Kirollas, roi des esprits corrumpu
+RAID_NAME_CARNO: Carno, roi des bêtes corrompu
+RAID_NAME_BELIAL: Dieu-démon Bélial
+RAID_NAME_PAIMON: Paimon, le seigneur maléfique
+RAID_NAME_PIRATE: Capitaine Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
 RAID_NAME_FOXY: Foxy
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Huge Snowman Head
-RAID_NAME_ALZANOR: Ice Dragon Alzanor
-RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_SNOWMAN: Tête de bonhomme de neige géante
+RAID_NAME_ALZANOR: Alzanor, dragon givré
+RAID_NAME_VALEHIR: Valehir, dragon zombie
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
-KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
+KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos commence à rassembler ses forces"
 GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Grail the Tremendous Phoenix has transformed into an egg."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Graal, le grand phénix s'est transformé en un œuf."
 GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, arise!"
 GRENIGAS_CHATMESSAGE_GATHER_POWER: "The power of the fire god will destroy everything!"
-GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "The power of fire is gathering around Grenigas!"
+GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "La puissance du Feu s'accumule autour de Grenigas !"
 GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas has absorbed the Crystal of Life and earned new vitality."
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
@@ -49,6 +49,6 @@ ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She'
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
 FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
 PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
-RAID_NAME_FAFNIR: Fafnir l'Avaricieux
+RAID_NAME_FAFNIR: Terrible Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Je vais tous vous fondre !
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Pete O'Peng a invoqué les Dragons des Mers !
