@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} ha sconfitto Lord Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} non è riuscito a sconfiggere Lord Mukraju in tempo.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} ha evocato Lord Mukraju!'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Devi essere in una famiglia per costruire un accampamento.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Sei troppo vicino ad un portale.
 ACT5_CHATMESSAGE_NO_RECIPE: Non è stata trovata nessuna ricetta per questo tipo di scambio.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Sei stato avvolto dal calore della Spada Ardente.
 ACT5_MESSAGE_RETURN_DISABLED: Non puoi tornare al punto di non ritorno.
@@ -141,11 +141,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
 
+
   	- Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
+
 
 
 
