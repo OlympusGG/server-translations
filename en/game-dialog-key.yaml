@@ -822,6 +822,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Due to repeated AFK raids, you can't receive rew
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Only the raid leader can start the raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: You're not a part of any raid team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: This raid doesn't start here.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
@@ -833,6 +834,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Check out your team stats for {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid Report Ready
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
@@ -853,6 +855,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: The enemies are getting reinforcements!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} is the new raid team leader.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Not enough players to start the raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid member {0} died.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Raid team is full.
 RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets have been completed!

@@ -828,6 +828,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Aufgrund wiederholter AFK-Raids kannst du die n�
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Anführer des Raids kann den Raid starten.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist in keinem Raid-Team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Dieser Raid startet nicht hier.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Raid-Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Möchtest du den {0} Raid starten?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich zu einem Raid-Team eingeladen. Annehmen?'
@@ -839,6 +840,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Raid-Bericht öffnen
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Schau dir die Team-Statistiken für {0} an.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid-Bericht fertig
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
@@ -859,6 +861,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde bekommen Verstärkung!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Anführer des Raid-Teams.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Nicht genug Spieler, um den Raid zu starten.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid-Mitglied {0} ist gestorben.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Raid-Team ist voll.
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid wurde registriert.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele wurden erreicht!

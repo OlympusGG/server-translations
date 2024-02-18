@@ -825,6 +825,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Tekrarlanan AFK baskınları yüzünden, bir son
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece baskın lideri baskını başlatabilir.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir baskın takımının parçası değilsin.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu baskın burada başlamıyor.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} baskınını başlatmak ister misin?'
 RAID_DIALOG_INVITED_YOU: '{0} seni bir baskın takımına davet etti. Kabul ediyor musun?'
@@ -836,6 +837,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Akın Raporunu Aç
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: '{0} için takım istatistiklerine göz at.'
 RAID_NOTIFMESSAGE_REPORT_TITLE: Akın Raporu Hazır
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten başka bir akın takımındasın.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Bu nesne zaten hareket ettirildi.
@@ -856,6 +858,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Düşmanlar takviye alıyor!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0}, yeni baskın takım lideri oldu.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Baskını başlatmak için yeterli oyuncu yok.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Baskın üyesi {0} öldü.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Baskın takımı dolu.
 RAID_SHOUTMESSAGE_REGISTERED: Baskınınız kaydedildi.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!

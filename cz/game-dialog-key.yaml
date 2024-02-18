@@ -825,6 +825,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Kvůli opakovanému AFK raidování nemůžeš p
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Pouze vedoucí výpravy může výpravu spustit.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi součástí žádného týmu výpravy.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} se připojil k týmu výpravy.'
 RAID_DIALOG_ASK_START_RAID: Chceš spustit výpravu {0}?
 RAID_DIALOG_INVITED_YOU: '{0} tě pozval do týmu výpravy. Přijmeš?'
@@ -836,6 +837,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě je připravena
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Už jsi v jiném týmu výpravy.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt byl již přesunut.
@@ -856,6 +858,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Nepřátelé dostávají posily!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} je novým vedoucím raidového týmu.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Není dostatek hráčů pro spuštění výpravy.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Člen výpravy {0} zemřel.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Raidový tým je plný.
 RAID_SHOUTMESSAGE_REGISTERED: Tvůj raid byl zaregistrován.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Všechny cíle byly splněny!

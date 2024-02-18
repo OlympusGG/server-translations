@@ -837,6 +837,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Z powodu powtarzających się rajdów AFK, nie m
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Tylko lider rajdu może rozpocząć rajd.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nie jesteś członkiem żadnej drużyny rajdowej.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten rajd nie zaczyna się tutaj.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wystartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
@@ -848,6 +849,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otwórz Raport z Rajdu
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Sprawdź statystyki swojego zespołu dla {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Wszyscy gracze są zamrożeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.
@@ -868,6 +870,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Wrogowie otrzymują posiłki!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny rajdowej.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Za mało graczy, aby rozpocząć rajd.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Członek rajdu {0} zginął.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna rajdowa jest pełna.
 RAID_SHOUTMESSAGE_REGISTERED: Twój rajd został zarejestrowany.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone!

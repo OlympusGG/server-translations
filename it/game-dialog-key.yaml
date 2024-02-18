@@ -834,6 +834,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: A causa di ripetute incursioni AFK, non potrai r
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo il caposquadra può avviare il raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Non fai parte di nessuna squadra di raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Questa incursione non inizia qui.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} si è unito al team di incursione.'
 RAID_DIALOG_ASK_START_RAID: Vuoi avviare il raid {0}?
 RAID_DIALOG_INVITED_YOU: '{0} ti ha invitato in una squadra di raid. Accetti?'
@@ -845,6 +846,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Apri Rapporto Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Controlla le statistiche del tuo team per {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Rapporto Raid Pronto
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tutti i giocatori sono congelati.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Sei già in un'altra squadra di raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Questo oggetto è già stato spostato.
@@ -865,6 +867,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: I nemici stanno ricevendo rinforzi!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} è il nuovo leader del team di incursione.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Non ci sono abbastanza giocatori per iniziare l'incursione.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Il membro del raid {0} è morto.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: La squadra del raid è al completo.
 RAID_SHOUTMESSAGE_REGISTERED: Il tuo raid è stato registrato.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tutti gli obiettivi sono stati completati!
