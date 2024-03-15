@@ -2,14 +2,14 @@ ACCOUNT_INFO_BAD_ID: Špatné uživatelské jméno.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Skladiště je kvůli údržbě mimo provoz.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Došlo k neočekávané chybě. Zkus to prosím později.
 ACHIEVEMENT_COMPLETED: Úspěch dosažen.
-ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Musíš být alespoň na úrovni {0}, abys mohl přeskočit tuto část.
-ACT4_ASK_DIALOG_DUNGEON_EXIT: Chceš opustit dungeon?
-ACT4_CALIGOR_MAP_FULL: Oblast Caligor Realm je plná.
-ACT4_CALIGOR_REVIVAL_DIALOG: Chceš oživit u vchodu do Caligor Realm?
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tvá úroveň musí být alespoň {0}, abys mohl přeskočit tuto část.
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Opravdu chceš opustit místnost?
+ACT4_CALIGOR_MAP_FULL: Oblast Caligora je plná.
+ACT4_CALIGOR_REVIVAL_DIALOG: Chceš oživit u vchodu do Říše Caligora?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor začal.
 ACT4_CHANNEL_OFFLINE: Kanál Act4 je momentálně offline.
-ACT4_CHATMESSAGE_KILL_INFO: 'Zabití: {0}, Smrti: {1}'
-ACT4_CHATMESSAGE_LESS_REPUTATION: Ztráta nebo zisk reputace je snížen, protože ty nebo nepřítel jste dnes zemřeli už hodněkrát.
+ACT4_CHATMESSAGE_KILL_INFO: 'Zabití: {0}, Úmrtí: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Ztráta a nebo zisk reputace je snížen, protože ty a nebo nepřítel jste dnes zemřeli už hodněkrát.
 ACT4_CHATMESSAGE_PVP_ANGELS: andělé
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} byl zabit strážcem {0}.'
 ACT4_CHATMESSAGE_PVP_DEMONS: démoni
@@ -17,37 +17,37 @@ ACT4_CHATMESSAGE_PVP_KILL: '{1} porazil strážce {0}.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Tento dungeon jsi na svém účtu už dokončil.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Potřebuješ rodinu, abys se mohl připojit do dungeonu.
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: Pro tvou frakci začal dungeon {0}.
-ACT4_DUNGEON_NOTIFY_TITLE: Act4
+ACT4_DUNGEON_NOTIFY_TITLE: Akt4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Vstup do dungeonu tě bude stát {0} bodů reputace. Chceš vstoupit?
-ACT4_DUNGEON_REVIVAL_DIALOG: Oživení tady tě bude stát {0} bodů reputace. Pokud to zrušíš, budeš teleportován na začátek dungeonu. Chceš se tady znovu objevit?
+ACT4_DUNGEON_REVIVAL_DIALOG: Oživení na tomto místě tě bude stát {0} bodů reputace. Pokud to zrušíš, budeš teleportován na začátek dungeonu. Chceš se tady znovu objevit?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Místnost s bossem byla uzavřena.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Boss dungeonu byl poražen.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Místnost s bossem je nyní otevřená.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Brána do dungeonu je nyní otevřená u centrální pohraniční věže v Bitoren Tundře.
-ACT4_FERNON_SHOUTMESSAGE_CLOSED: Vstup do Fernonu je nyní uzavřen.
-ACT4_FERNON_SHOUTMESSAGE_OPEN: Vstup do Fernonu je nyní otevřen. Kapitán vzducholodi bude čekat 1 hodinu.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Brána do dungeonu je nyní otevřená u centrální pohraniční věže v Tundře Bitoren .
+ACT4_FERNON_SHOUTMESSAGE_CLOSED: Vstup na Fernon je nyní uzavřen.
+ACT4_FERNON_SHOUTMESSAGE_OPEN: Vstup na Fernon je nyní otevřen. Kapitán vzducholodi bude čekat 1 hodinu.
 ACT4_NEED_FACTION: Do Zmrzlé koruny se mohou přidat jen ti, kteří mají ochrannou sílu.
 ACT4_SHOUTMESSAGE_CAMP_ANGELS: Tábor Andělů
 ACT4_SHOUTMESSAGE_CAMP_DEMONS: Tábor Démonů
 ACT4_SHOUTMESSAGE_FLAG_NOT_PLACED: Tvá rodina nemá postavený tábor.
 ACT4_SHOUTMESSAGE_FLAG_PLACED: Tábor tvé rodiny byl postaven.
-ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} porazil Lorda Mukraju!'
-ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nedokázal včas porazit Lorda Mukraju.'
+ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} porazili Lorda Mukraju!'
+ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nedokázali včas porazit Lorda Mukraju.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} přivolal Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Abys mohl postavit tábor, musíš být v rodině.
 ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Jsi příliš blízko portálu.
 ACT5_CHATMESSAGE_NO_RECIPE: Pro tento typ výměny nebyl nalezen žádný recept.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Jsi obklopen teplem Hořícího meče.
-ACT5_MESSAGE_RETURN_DISABLED: Nemůžeš se vrátit na bod návratu.
+ACT5_MESSAGE_RETURN_DISABLED: Nemůžeš se vrátit na tento bod návratu.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Administrátor
 ALL_ACHIEVEMENTS_REFRESHED: Všechny opakovatelné úspěchy byly obnoveny.
-ALZANOR_SHOUTMESSAGE_DEFLECTOR: Alzanor se chystá na silný ledový útok. Přiblíž se k nejbližšímu odraziči mrazu, abys se vyhnul jakémukoli poškození.
-AMMO_LOADED_ADVENTURER: Munice nabitá!
-AMMO_LOADED_ARCHER: Šíp nabit!
-AMMO_LOADED_SWORDSMAN: Šipky nabitý!
+ALZANOR_SHOUTMESSAGE_DEFLECTOR: Alzanor se chystá na silný ledový útok. Přibliž se k nejbližšímu deflektoru mrazu, abys se vyhnul jakémukoli poškození.
+AMMO_LOADED_ADVENTURER: Munice je nabitá!
+AMMO_LOADED_ARCHER: Šípy jsou doplněny!
+AMMO_LOADED_SWORDSMAN: Šipky jsou doplněny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Chceš vstoupit do individuální arény? Bude tě to stát {0} zlatých.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit {1}.'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem {1}.'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nemůžeš nosit dva artefakty stejného typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} bojových XP.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} XP šampiona.
@@ -55,29 +55,29 @@ ASGOBAS_CHATMESSAGE_JXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} prac
 ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Kvůli nedostatku bodů příspěvku jsi nedostal žádné odměny.
 ASGOBAS_EVENT_NAME: Asgobasův Okamžitý Boj
 ASGOBAS_INFO_PLAYER_DEATH: Oživíš se za 20 sekund. Poté můžeš pokračovat v boji proti Asgobasovi.
-ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas vzlétá výš do vzduchu, aby se zotavil.
+ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas vzlétá do vzduchu, aby se zotavil.
 ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: Zraněný Asgobas ustupuje.
 ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobasův Okamžitý Boj začne na kanálu {0} za 5 minut.
 ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas se blíží.
 ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Útok Asgobase právě začíná.
 ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobasova magie ho dělá silnějším.
-BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Už máš v inventáři debetní kartu Cuarry Bank.
-BANK_DIALOG_ASK_DEPOSIT: Chceš vložit {0}000 zlatých na svůj bankovní účet?
-BANK_DIALOG_ASK_WITHDRAW: Chceš vybrat {0}000 zlatých ze svého bankovního účtu?
+BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Už máš v inventáři debetní kartu Cuarry Banky.
+BANK_DIALOG_ASK_DEPOSIT: Chceš vložit {0}000 zlata na svůj bankovní účet?
+BANK_DIALOG_ASK_WITHDRAW: Chceš vybrat {0}000 zlata ze svého bankovního účtu?
 BANK_INFO_NOT_ENOUGH_FUNDS: Nedostatek prostředků.
 BANK_LOG_OPEN_BANK: Vítej v bance! S čím ti mohu pomoci?
-BANK_LOG_WITHDRAW_BANK: Vybráno {0}000 zlatých.
-BANK_MESSAGE_BALANCE: Na svém bankovním účtu máš {0} zlatých.
-BANK_MESSAGE_DEPOSIT: Vloženo {0}000 zlatých na tvůj bankovní účet.
+BANK_LOG_WITHDRAW_BANK: Vybráno {0}000 zlata.
+BANK_MESSAGE_BALANCE: Na svém bankovním účtu máš {0} zlata.
+BANK_MESSAGE_DEPOSIT: Vloženo {0}000 zlata na tvůj bankovní účet.
 BANK_MESSAGE_MAINTENANCE: Banka je z důvodu údržby mimo provoz.
-BANK_MESSAGE_MAX_GOLD_REACHED: Dosáhl/a jsi maximálního množství zlatých na bankovním účtu!
+BANK_MESSAGE_MAX_GOLD_REACHED: Dosáhl/a jsi maximálního množství zlata na bankovním účtu!
 BANK_MESSAGE_UNEXPECTED_ISSUE: Při pokusu o provedení vašeho požadavku došlo k neočekávané chybě banky.
 BANK_SHOUTMESSAGE_EXCEED_GOLD_SENT_TO_BANK: Odesláno příliš mnoho peněz do banky.
 BASE_WARS_CHATMSG_NOT_ENOUGH_CURRENCY: Nemáš dostatek Ledových střepů.
 BASE_WARS_CHATMSG_ROLE_DOES_NOT_EXIST: Tato role neexistuje.
 BASE_WARS_CHATMSG_ROLE_MAXIMUM_PLAYERS_REACHED: Maximální počet hráčů pro tuto roli byl dosažen.
 BASE_WARS_CHATMSG_ROLE_X_SELECTED: Vybral sis roli {0}.
-BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: Tento upgrade je již aktivní.
+BASE_WARS_CHATMSG_UPGRADE_ALREADY_BOUGHT: Toto vylepšení je již aktivní.
 BASE_WARS_DUNGEON_BOSS_ROOM_OPEN: Portál do místnosti s bossem byl otevřen.
 BASE_WARS_FIGHTING_PHASE_START: Fáze boje začala.
 BASE_WARS_MSG_BOSS_X_SPAWNED: '{0} se objevil v {1}.'
@@ -88,7 +88,7 @@ BASE_WARS_MSG_FLAG_NOT_PLACED: Pro tvou frakci není postaven žádný tábor.
 BASE_WARS_MSG_FLAG_PLACED: Tábor byl postaven.
 BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Nový tábor ještě nemůžeš postavit.
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
-BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Teleportér se ochlazuje.
+BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Teleport je v útlumu.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
 BASE_WARS_MSG_UPGRADE_X_BOUGHT: Vylepšení {0} bylo zakoupeno tvým týmem.
 BASE_WARS_PREPARATION_PHASE: Začala přípravná fáze.
@@ -99,13 +99,13 @@ BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
 BATTLE_ROYALE_NOTIFY_ACTION_OPEN: '#BATTLE_ROYALE_NOTIFY_ACTION_OPEN'
 BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_NOTIFY_DESC'
 BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_NOTIFY_TITLE'
-BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - přidáno do NosBazaru.'
-BAZAAR_CHATMESSAGE_ITEM_SOLD: Tvůj předmět {0}x {1} byl prodán v NosBazaru.
+BAZAAR_CHATMESSAGE_ITEM_ADDED: 'Tvé zboží {0} {1}x bylo přidáno do NosBazaru.'
+BAZAAR_CHATMESSAGE_ITEM_SOLD: Tvoje zboží {0}x {1} bylo prodáno v NosBazaru.
 BAZAAR_INFO_ALREADY_USED_ITEM: Tato položka je již použita.
-BAZAAR_INFO_ITEM_CHANGED: Nákup neplatný, položka prodána nebo cena změněna.
+BAZAAR_INFO_ITEM_CHANGED: Nákup je neplatný, protože položka byla prodána a nebo cena změněna.
 BAZAAR_INFO_MAINTENANCE_MODE: NosBazar je v údržbě.
-BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Nemůžeš vypsat více předmětů.
-BAZAAR_INFO_NEEDS_MEDAL: Nemáte NosMerchant Medaili.
+BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Nemůžeš přidat více předmětů.
+BAZAAR_INFO_NEEDS_MEDAL: Nemáte Medaili NosKupce.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Cena předmětu překračuje limit.
 BAZAAR_INFO_RESYNC: Změna ceny předmětu se nezdařila. Zkuste to znovu.
 BAZAAR_NOTIFY_ACTION_OPEN: Otevřít Bazar
@@ -114,26 +114,26 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Chcete změnit cenu předmětu? Bude to stát {0} z
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Předmět byl přidán do NosBazaru.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena předmětu byla úspěšně změněna.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[UPOZORNĚNÍ] Při používání Bazaru na tebe mohou zaútočit monstra.'
-BELIAL_QNA_ENTER: Chceš vstoupit do Nebeského špice?
+BELIAL_QNA_ENTER: Chceš vstoupit do Nebeského Věže?
 BETTING_DIALOG_ASK_CONFIRMATION: Chcete pokračovat v sázení?
 BID_DIALOG_AUCTIONLIST_FEE_WARNING: Vystavení tohoto předmětu v aukci bude stát {0} zlata. Chcete pokračovat?
 BID_INFO_AUCTION_ALREADY_ENDED: Tato aukce již skončila.
 BID_INFO_AUCTION_BID_TOO_LOW: Tvá nabídka je příliš nízká, zkus vyšší částku.
 BID_INFO_AUCTIONLIST_MIN_BID_INCREMENT_TOO_HIGH: Zadané "Min. navýšení nabídky" je vyšší než "Okamžitá cena", prosím zadej nižší hodnotu.
 BID_INFO_AUCTIONLIST_SUCCESS: Předmět byl vystaven v aukci!
-BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: Nemůžeš dát tuto věc do aukce. Už aukčníš příliš mnoho předmětů.
-BID_INFO_CANT_BID_OWN_AUCTION: Nemůžete nabízet na vlastní předměty.
+BID_INFO_AUCTIONLIST_TOO_MANY_AUCTIONS: Nemůžeš dát tuto věc do aukce. Již nabízíš příliš mnoho předmětů.
+BID_INFO_CANT_BID_OWN_AUCTION: Nemůžete přihazovat na vlastní předměty.
 BID_INFO_DETAIL_TOO_MANY_WINDOWS: Snažíš se otevřít příliš mnoho detailních oken najednou, zavři některá z nich.
 BID_INFO_INSTANT_PRICE_WARNING: '[UPOZORNĚNÍ] Chystáš se koupit {0} za {1} zlata.'
-BID_INFO_ITEM_NOT_ALLOWED: Tento předmět nelze aukčnit.
+BID_INFO_ITEM_NOT_ALLOWED: Tuto položku nelze dražit.
 BID_INFO_MAX_DURATION_EXCEEDED_DURATION: '#BID_INFO_MAX_DURATION_EXCEEDED_DURATION'
 BID_INFO_NO_SPEAKER: Nemáš v inventáři žádný reproduktor.
-BID_INFO_NOT_ENOUGH_BANK_GOLD: Nemáš v bance dostatek zlata na nabídnutí.
-BID_INFO_SERVICE_MAINTENANCE: Systém nabídek je momentálně v údržbě, zkuste to později.
-BID_INFO_SERVICE_UNAVAILABLE: Systém nabídek není dostupný, zkuste to později.
-BID_INFO_UNEXPECTED_ERROR: Systém nabídek narazil na neočekávanou chybu při pokusu o zpracování vašeho požadavku.
-BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Z aukce bylo získáno {0} zlata, které bylo odesláno na váš bankovní účet.
-BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Aukční předmět byl úspěšně získán.
+BID_INFO_NOT_ENOUGH_BANK_GOLD: V bance nemáte dostatek zlata na přihazování.
+BID_INFO_SERVICE_MAINTENANCE: Aukční systém v současné době prochází údržbou, zkuste to později.
+BID_INFO_SERVICE_UNAVAILABLE: Aukční Systém není dostupný, zkuste to později.
+BID_INFO_UNEXPECTED_ERROR: Aukční Systém narazil na neočekávanou chybu při pokusu o zpracování vašeho požadavku
+BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Z aukce bylo získáno {0} zlata, které bylo odesláno na Váš bankovní účet.
+BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Dražený předmět byl úspěšně získán.
 BID_MODAL_DISCLAIMER: >-
   Před použitím Aukčního systému si prosím přečti a pochop následující upozornění.
 
@@ -153,7 +153,7 @@ BID_MODAL_DISCLAIMER: >-
   Tlačítko pro vložení předmětu do aukce tě o potvrzení požádá předtím, než se pokračuje. To je uděláno, aby bylo zajištěno rozhodnutí hráče.
 
 
-  Přejeme šťastné aukčnění!
+  Přejeme šťastné přihazování!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Otevřít aukci
 BID_NOTIFMESSAGE_BOUGHT_ITEM: Vyhrál jsi aukci.
 BID_NOTIFMESSAGE_EXPIRED_ITEM: Aukce skončila bez jediného zájemce.
@@ -876,7 +876,7 @@ RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Tento křišťál už tvůj tým ov
 RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Do {0} máš zákaz účasti v Rainbow Battle.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musíš počkat {0} sekund, než můžeš tento křišťál ovládnout.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Nebyl jsi dost aktivní na to, abys dostal odměnu.
-RAINBOW_BATTLE_EVENT_NAME: Duha Bitva
+RAINBOW_BATTLE_EVENT_NAME: Duhová Bitva
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Hráč {0} ovládl křišťál: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Modrý tým ovládl křišťál: {0}'
 RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Tvá úroveň je příliš nízká na to, abys se mohl zúčastnit Rainbow Battle.
