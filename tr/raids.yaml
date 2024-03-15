@@ -1,54 +1,54 @@
-RAID_NAME_CASTRA: Karanlık Castra
+RAID_NAME_CASTRA: Kara Castra
 RAID_NAME_CHICKENKING: Tavuk Kral
 RAID_NAME_CUBY: Anne Cuby
 RAID_NAME_GIANTBLACKSPIDER: Dev Siyah Örümcek
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
+RAID_NAME_ROBBERGANG: Çöl Haydutları Çetesi
 RAID_NAME_SLADE: Dev Slade
-RAID_NAME_KERTOS: Kertos the Demon Dog
-RAID_NAME_VALAKUS: Valakus King of Fire
-RAID_NAME_GRENIGAS: Fire God Grenigas
-RAID_NAME_LORDDRACO: Lord Draco
-RAID_NAME_GLACERUS: Glacerus the Ice Cold
-RAID_NAME_LAURENA: Witch Laurena
-RAID_NAME_ZENAS: Goddess Zenas
-RAID_NAME_ERENIA: Goddess Erenia
-RAID_NAME_FERNON: Incomplete Fernon
-RAID_NAME_CHICKENQUEEN: Chicken Queen
-RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Twisted Spirit King Kirollas
-RAID_NAME_CARNO: Twisted Beast King Carno
-RAID_NAME_BELIAL: Demon God Belial
-RAID_NAME_PAIMON: Evil Overlord Paimon
-RAID_NAME_PIRATE: Captain Pete O'Peng
+RAID_NAME_KERTOS: Şeytan Köpeği Kertos
+RAID_NAME_VALAKUS: Ateşin Kralı Valakus
+RAID_NAME_GRENIGAS: Ateş Tanrısı Grenigas
+RAID_NAME_LORDDRACO: Lord Drako
+RAID_NAME_GLACERUS: Soğuk Glacerus
+RAID_NAME_LAURENA: Cadı Laurena
+RAID_NAME_ZENAS: Tanrıça Zenas
+RAID_NAME_ERENIA: Tanrıça Erenia
+RAID_NAME_FERNON: Tamamlanmamış Fernon
+RAID_NAME_CHICKENQUEEN: Tavuk Kraliçe
+RAID_NAME_MADMARCHHARE: Çılgın Paskalya Tavşanı
+RAID_NAME_KIROLLAS: Ahlaksız Hayaletler Kral Kirollas
+RAID_NAME_CARNO: Ahlaksız Canavarlar Kralı Carno
+RAID_NAME_BELIAL: İblislerin Tanrısı Belial
+RAID_NAME_PAIMON: Kötülüğün Efendisi Paimon
+RAID_NAME_PIRATE: Kaptan Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
-RAID_NAME_FOXY: Foxy
+RAID_NAME_FOXY: Tilkicik
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Huge Snowman Head
-RAID_NAME_ALZANOR: Ice Dragon Alzanor
-RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_SNOWMAN: Büyük Kardan Adam Kafası
+RAID_NAME_ALZANOR: Buz Ejderhası Alzanor
+RAID_NAME_VALEHIR: Zombi Ejderha Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
-KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Grail the Tremendous Phoenix has transformed into an egg."
-GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, arise!"
-GRENIGAS_CHATMESSAGE_GATHER_POWER: "The power of the fire god will destroy everything!"
-GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "The power of fire is gathering around Grenigas!"
-GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas has absorbed the Crystal of Life and earned new vitality."
-RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
-ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start shortly."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
-PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
+KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos gücünü toplamaya başladı."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Dev Feniks Gral yumurtadan yeniden doğuyor."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Dev Feniks Gral bir yumurtaya dönüştü."
+GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, kalk!"
+GRENIGAS_CHATMESSAGE_GATHER_POWER: "Ateş tanrısının gücü her şeyi yok edecek!"
+GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "Ateşin gücü Grenigas'ın etrafında toplanıyor!"
+GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas Yaşam Kristalini emdi ve yeni bir canlılık kazandı."
+RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Tüm oyuncular Glacerus'un sonsuz buzuna yenik düştü."
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Koruyucu bir kareye girerek kendinizi kurtarın!"
+ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia'nın ilk testi kısa süre içinde başlayacak."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Erenia'nın ilk sınavını geçtin. İkincisi yakında başlayacak."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Erenia'nın ikinci sınavını geçtiniz. Son test yakında başlayacak."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Erenia'nın son testinde başarısız oldun. Saldırıya geçiyor."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas'ın ilk testi kısa süre içinde başlayacak."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Zenas'ın ilk testini geçtin. İkincisi yakında başlayacak."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Zenas'ın ikinci testini geçtin. Son test yakında başlayacak."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Zenas'ın son testinde başarısız oldun. Saldırıya geçiyor."
+ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Zenas'ın 13. kanadı Başmelek Lucifer ortaya çıktı."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon'un takipçileri ortaya çıktı."
+PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: Kötü efendi en güçlü birimlerini çağırıyor.
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Pete O'Peng Deniz Ejderhalarını çağırdı!
 RAID_NAME_FAFNIR: Açgözlü Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Hepinizi eriteceğim!
