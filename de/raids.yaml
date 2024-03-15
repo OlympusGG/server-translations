@@ -4,7 +4,7 @@ RAID_NAME_CUBY: Cuby Mutter
 RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
 RAID_NAME_GINSENG: Xysenstrauch
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Desert Robber Band
+RAID_NAME_ROBBERGANG: Ibrahim
 RAID_NAME_SLADE: Riesenslade
 RAID_NAME_KERTOS: Kertos, der Dämonenhund
 RAID_NAME_VALAKUS: Feuerkönig Valakus
@@ -30,24 +30,24 @@ RAID_NAME_ALZANOR: Eisdrache Alzanor
 RAID_NAME_VALEHIR: Zombiedrache Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Grail the Tremendous Phoenix has transformed into an egg."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Aus dem Ei wird Gral, der riesige Phönix, wiedergeboren."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Gral, der riesige Phönix, hat sich in ein Ei verwandelt."
 GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, arise!"
 GRENIGAS_CHATMESSAGE_GATHER_POWER: "The power of the fire god will destroy everything!"
-GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "The power of fire is gathering around Grenigas!"
-GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas has absorbed the Crystal of Life and earned new vitality."
+GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "Die Kraft des Feuers sammelt sich um Grenigas!"
+GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas hat den Kristall des Lebens aufgenommen und somit neue Lebensenergie gewonnen."
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "All players have succumbed to the eternal ice of Glacerus."
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Save yourselves by getting into a protective square!"
-ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Erenia's first test will start shortly."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Erenia's first test. The second will soon begin."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Erenia's second test. The final test will soon begin."
+ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Der erste Test von Erenia beginnt bald."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Du hast den ersten Test von Erenia bestanden. Der zweite beginnt bald."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Du hast den zweiten Test von Erenia bestanden. Der letzte beginnt bald."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Erenia's final test. She's going on a rampage."
-ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Zenas' first test will start shortly."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "You've passed Zenas' first test. The second will soon begin."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "You have passed Zenas' second test. The final test will soon begin."
+ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "Der erste Test von Zenas beginnt bald."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Du hast den ersten Test von Zenas bestanden. Der zweite beginnt bald."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Du hast den zweiten Test von Erenia bestanden. Der letzte beginnt bald."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "You failed Zenas' final test. She's going on a rampage."
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archangel Lucifer, Zenas' 13th wing, has appeared."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's followers have appeared."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Das Gefolge Fernons ist erschienen."
 PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: The evil overlord is summoning his strongest units.
 RAID_NAME_FAFNIR: Gieriger Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Ich werde euch alle schmelzen!
