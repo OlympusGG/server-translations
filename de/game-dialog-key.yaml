@@ -3,13 +3,13 @@ ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus ist zur Wartung geschlossen
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
-ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du das Verlies verlassen?
+ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du diesen Dungeon verlassen?
 ACT4_CALIGOR_MAP_FULL: Das Caligor-Reich ist voll.
 ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor-Reichs wiederbelebt werden?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor hat begonnen.
 ACT4_CHANNEL_OFFLINE: Akt4-Kanal ist derzeit offline.
-ACT4_CHATMESSAGE_KILL_INFO: 'Tötungen: {0}, Tode: {1}'
-ACT4_CHATMESSAGE_LESS_REPUTATION: Reputationsverlust oder -gewinn ist reduziert, weil du oder der Feind heute schon viele Male gestorben sind.
+ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Tode: {1}'
+ACT4_CHATMESSAGE_LESS_REPUTATION: Ruhm-Verlust oder -Gewinn ist reduziert, weil du oder der Feind heute schon viele Male gestorben sind.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Wächter von {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
@@ -18,10 +18,10 @@ ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Du hast diesen Dungeon bereits auf de
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du brauchst eine Familie, um den Dungeon zu betreten.
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: Dungeon {0} hat für deine Fraktion begonnen.
 ACT4_DUNGEON_NOTIFY_TITLE: Akt4
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Betreten des Dungeons kostet dich {0} Reputationspunkte. Möchtest du eintreten?
-ACT4_DUNGEON_REVIVAL_DIALOG: Hier wiederzubeleben kostet dich {0} Reputationspunkte. Wenn du abbrichst, wirst du zum Start des Dungeons teleportiert. Möchtest du hier respawnen?
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Betreten des Dungeons kostet dich {0} Ruhmpunkte. Möchtest du eintreten?
+ACT4_DUNGEON_REVIVAL_DIALOG: Hier wiederzubeleben kostet dich {0} Ruhmpunkte. Wenn du abbrichst, wirst du zum Start des Dungeons teleportiert. Möchtest du hier wieder belebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
-ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Verlies-Boss wurde besiegt.
+ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon-Boss wurde besiegt.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Bossraum ist jetzt geöffnet.
 ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Dungeon-Tor ist jetzt in der Nähe des zentralen Grenzturms in der Bitoren Tundra geöffnet.
 ACT4_FERNON_SHOUTMESSAGE_CLOSED: Der Fernon-Eingang ist jetzt geschlossen.
@@ -53,11 +53,11 @@ ASGOBAS_CHATMESSAGE_EXP_REWARD: Du hast {0} Kampf-XP als Belohnung für diese Ph
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Du hast {0} Champion-XP als Belohnung für diese Phase erhalten.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: Du hast {0} Berufs-XP als Belohnung für diese Phase erhalten.
 ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Du hast keine Belohnungen erhalten, weil du nicht genug Beitragpunkte hast.
-ASGOBAS_EVENT_NAME: Asgobas' Sofortkampf
+ASGOBAS_EVENT_NAME: Asgobas' Instant Combat
 ASGOBAS_INFO_PLAYER_DEATH: Du wirst in 20 Sekunden wiederbelebt. Danach kannst du weiter gegen Asgobas kämpfen.
 ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas fliegt höher in die Luft, um sich zu erholen.
 ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: Der verletzte Asgobas zieht sich zurück.
-ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobas Sofortkampf beginnt in 5 Minuten auf Kanal {0}.
+ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobas Instant Combat beginnt in 5 Minuten auf Kanal {0}.
 ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas nähert sich.
 ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Asgobas' Angriff steht kurz bevor.
 ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobas' Magie macht ihn stärker.
@@ -87,15 +87,15 @@ BASE_WARS_MSG_FLAG_NOT_IN_DUNGEON: Du kannst auf dieser Karte kein Lager bauen.
 BASE_WARS_MSG_FLAG_NOT_PLACED: Für deine Fraktion wurde kein Lager gebaut.
 BASE_WARS_MSG_FLAG_PLACED: Ein Lager wurde gebaut.
 BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Du kannst noch kein neues Lager bauen.
-BASE_WARS_MSG_ITEM_COOLDOWN: Gegenstand ist noch im Abkühlen.
-BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Der Teleporter ist gerade in Abkühlung.
-BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: Teleporter kann nicht in Dungeons benutzt werden.
+BASE_WARS_MSG_ITEM_COOLDOWN: Während der Abklingzeit kann kein Item benutzt werden
+BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Die Abklingzeit des Teleporters ist noch nicht abgelaufen.
+BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: Teleporter kann nicht in Dungeons benutzt werden
 BASE_WARS_MSG_UPGRADE_X_BOUGHT: Upgrade {0} wurde von deinem Team gekauft.
 BASE_WARS_PREPARATION_PHASE: Die Vorbereitungsphase hat begonnen.
 BASE_WARS_UPGRADE_DUNGEON_NOT_COMPLETED: Du musst zuerst diesen Dungeon abschließen.
 BASE_WARS_UPGRADE_REQUIREMENT_NOT_BOUGHT: Du musst zuerst das vorherige Upgrade kaufen.
-BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: Kampfpass ist nicht aktiv.
-BATTLE_PASS_INFO_ALREADY_PREMIUM: Kampfpass ist bereits Premium.
+BATTLE_PASS_CHATMESSAGE_NOT_ACTIVE: Kampfpass ist nicht aktiv
+BATTLE_PASS_INFO_ALREADY_PREMIUM: Kampfpass ist bereits Premium
 BATTLE_ROYALE_NOTIFY_ACTION_OPEN: Battle Royale Aktion öffnen
 BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_BENACHRICHTIGUNG_BESCHREIBUNG'
 BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_BENACHRICHTIGUNG_TITEL'
@@ -105,16 +105,16 @@ BAZAAR_INFO_ALREADY_USED_ITEM: Dieser Gegenstand wurde bereits verwendet.
 BAZAAR_INFO_ITEM_CHANGED: Kauf ungültig, Gegenstand verkauft oder Preis geändert.
 BAZAAR_INFO_MAINTENANCE_MODE: Der NosBasar wird gerade gewartet.
 BAZAAR_INFO_MAXIMUM_ITEMS_REACHED: Du kannst nicht mehr Gegenstände einstellen.
-BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosMerchant-Medaille.
+BAZAAR_INFO_NEEDS_MEDAL: Du hast keine NosBasar-Medaille.
 BAZAAR_INFO_PRICE_EXCEEDS_LIMITS: Der Preis des Gegenstands überschreitet das Limit.
 BAZAAR_INFO_RESYNC: Änderung des Gegenstandspreises fehlgeschlagen. Versuche es nochmal.
-BAZAAR_NOTIFY_ACTION_OPEN: Bazaar öffnen
+BAZAAR_NOTIFY_ACTION_OPEN: Basar öffnen
 BAZAAR_NOTIFY_TITLE: Basar
 BAZAAR_QNA_CHANGE_PRICE_FEE: Möchtest du den Preis des Gegenstands ändern? Das kostet {0} Gold.
-BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand zum NosBazaar hinzugefügt.
+BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Gegenstand zum NosBasar hinzugefügt.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Gegenstandspreis erfolgreich geändert.
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[WARNUNG] Du kannst von Monstern angegriffen werden, wenn du den Bazaar benutzt.'
-BELIAL_QNA_ENTER: Möchtest du den Himmelspfeiler betreten?
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[WARNUNG] Du kannst von Monstern angegriffen werden, wenn du den Basar benutzt.'
+BELIAL_QNA_ENTER: Willst du den Himmelsturm betreten?
 BETTING_DIALOG_ASK_CONFIRMATION: Möchtest du mit dem Wetten fortfahren?
 BID_DIALOG_AUCTIONLIST_FEE_WARNING: Diesen Gegenstand zur Auktion anzubieten kostet {0} Gold. Möchtest du fortfahren?
 BID_INFO_AUCTION_ALREADY_ENDED: Diese Auktion ist bereits beendet.
@@ -135,19 +135,25 @@ BID_INFO_UNEXPECTED_ERROR: Das Biet-System ist auf einen unerwarteten Fehler ges
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} Gold wurde vom versteigerten Gegenstand abgezogen und auf dein Bankkonto überwiesen.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Der versteigerte Gegenstand wurde erfolgreich abgeholt.
 BID_MODAL_DISCLAIMER: >-
-  Bitte lies und verstehe diesen Haftungsausschluss, bevor du das Biet-System verwendest.
+  Bevor Sie das Biet-System nutzen, sollten Sie diesen Haftungsausschluss lesen und verstehen.
 
-  Um ein faires und reaktionsschnelles Biet-System für unsere Spieler zu gewährleisten, kannst du nicht:
-
-  	- Einen versteigerten Gegenstand vor seinem Enddatum entfernen, wenn bereits jemand geboten hat.
-
-  	- Ein Gebot für einen versteigerten Gegenstand zurückziehen.
+  Um ein faires und reaktionsschnelles Biet-System für unsere Spieler zu gewährleisten, ist es Ihnen nicht möglich:
 
 
-  Der Button, um auf einen Gegenstand zu bieten, wird keine Bestätigung verlangen, um sicherzustellen, dass seine Reaktion für schnelle Auktionen erstklassig ist, also sei bitte vorsichtig.
+
+  	- Einen versteigerten Gegenstand vor seinem Enddatum zu entfernen, wenn jemand bereits geboten hat.
 
 
-  Der Button, um einen Gegenstand zu versteigern, wird vor dem Fortfahren um Bestätigung bitten. Dies wird gemacht, um die Entscheidung eines Spielers zu gewährleisten.
+
+  	- Von einem Gebot auf einen versteigerten Gegenstand zurücktreten.
+
+
+
+
+  Die Schaltfläche zum Bieten auf einen Gegenstand wird Sie nicht um eine Bestätigung bitten, um sicherzustellen, dass das System bei schnellen Auktionen optimal reagiert, also seien Sie bitte vorsichtig.
+
+
+  Die Schaltfläche zum Einstellen eines Gegenstands in die Auktion wird Sie um eine Bestätigung bitten, bevor Sie fortfahren. Dies geschieht, um die Entscheidung des Spieler's sicherzustellen.
 
 
   Viel Spaß beim Bieten!
@@ -158,7 +164,7 @@ BID_NOTIFMESSAGE_NEW_BID: Jemand hat ein neues Gebot auf deinen Gegenstand abgeg
 BID_NOTIFMESSAGE_OVERBID: Du wurdest überboten.
 BID_NOTIFMESSAGE_SOLD_ITEM: Die Auktion ist mit einem Bieter zu Ende gegangen.
 BID_NOTIFMESSAGE_TITLE: Biet-System
-BLACKLIST_INFO_ADDED: Spieler {0} wurde zur Schwarzen Liste hinzugefügt.
+BLACKLIST_INFO_ADDED: Spieler{0} wurde zur Schwarzen Liste hinzugefügt.
 BLACKLIST_INFO_BLOCKED: Du wurdest blockiert.
 BLACKLIST_INFO_BLOCKING: Dieser Spieler steht auf deiner Schwarzen Liste.
 BLACKLIST_INFO_DELETED: Spieler von der Schwarzen Liste entfernt.
@@ -167,7 +173,7 @@ BUFF_CHATMESSAGE_EFFECT_TERMINATED: Du hast den {0}-Effekt verloren.
 BUFF_CHATMESSAGE_SIDE_EFFECTS: Die Nebenwirkungen von {0} haben begonnen.
 BUFF_CHATMESSAGE_UNDER_EFFECT: Du stehst unter dem Einfluss von {0}.
 CELESTIAL_TOWER_INFO_RESET_CONFIRM: Möchtest du deinen gesamten Fortschritt im Himmelsturm zurücksetzen? Die Rangliste wird nicht zurückgesetzt.
-CELESTIAL_TOWER_MONTHLY_REFRESH: Der Celestial Tower wurde zurückgesetzt.
+CELESTIAL_TOWER_MONTHLY_REFRESH: Der Himmelsturm wurde zurückgesetzt.
 CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: Der NosMate wurde deinem Team hinzugefügt.
 CELESTIAL_TOWER_SHOUTMESSAGE_START: Die Herausforderung im Himmelsturm beginnt!
 CELLON_SHOUTMESSAGE_FAIL: Der Cellon ist verschwunden, weil es nicht gelungen ist, Optionen hinzuzufügen.
@@ -184,7 +190,7 @@ CHARACTER_DELETION_INFO_FAILED: Dein Charakter konnte nicht erfolgreich gelösch
 CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Dein Charakter konnte nicht erfolgreich gelöscht werden. Bitte versuche es später noch einmal.
 CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: Du hast bereits eine Umbenennungskarte verwendet, ohne deinen Namen zu ändern. Ändere deinen Namen, bevor du eine neue Umbenennungskarte verwendest.
 CHARACTER_RENAMING_INFO_NEXT_LOGIN: Du wirst deinen Charakter im Charakterauswahlbildschirm umbenennen können.
-CHARACTER_RENAMING_INFO_NOT_ALLOWED: Du kannst diesen Charakter nicht umbenennen, du musst dazu das Item Umbenennungskarte verwenden.
+CHARACTER_RENAMING_INFO_NOT_ALLOWED: Du kannst diesen Charakter nicht umbenennen, du musst dazu das Item Namensänderungskarte verwenden.
 CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Beim Umbenennen deines Charakters ist ein Fehler aufgetreten, bitte kontaktiere den Support.
 CLASS_NAME_ADVENTURER: Abenteurer
 CLASS_NAME_ARCHER: Bogenschütze
@@ -215,12 +221,12 @@ DUEL_INFO_TARGET_REQUESTS_BLOCKED: Dieser Spieler blockiert Duellanfragen.
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Du hast dieses Emote bereits.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Du hast das Emote {0} freigeschaltet.
-ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: Der Spieler wurde bereits von jemandem ermutigt.
-ENCOURAGE_CHATMESSAGE_COOLDOWN: Du kannst nur einen Spieler pro Tag ermutigen.
-ENCOURAGE_CHATMESSAGE_GIVEN: Spieler {0} wurde ermutigt.
-ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden ermutigen kannst.
-ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Du kannst jemanden nur ermutigen, wenn du Level {0} erreicht hast.
-ENCOURAGE_CHATMESSAGE_RECEIVED: Spieler {0} hat dich ermutigt.
+ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: Der Spieler wurde bereits von jemandem angehimmelt.
+ENCOURAGE_CHATMESSAGE_COOLDOWN: Du kannst nur einen Spieler pro Tag anhimmeln.
+ENCOURAGE_CHATMESSAGE_GIVEN: Spieler {0} wurde angehimmelt.
+ENCOURAGE_CHATMESSAGE_LOGIN_COOLDOWN: Du musst {0} Minuten warten, bevor du jemanden anhimmeln kannst.
+ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Du kannst jemanden nur anhimmeln, wenn du Level {0} erreicht hast.
+ENCOURAGE_CHATMESSAGE_RECEIVED: Spieler {0} hat dich angehimmelt.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Dieser Gegenstand kann nicht umgewandelt werden.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Der Gegenstand wurde erfolgreich umgewandelt {0}.
 FAIRY_MODAL_OPTIONS_CHANGED: '#FEEN_MODAL_OPTIONEN_GEÄNDERT'
@@ -252,7 +258,7 @@ FAMILY_INFO_GROUP_NOT_FULL: Du kannst keine Familie gründen, ohne eine vollstä
 FAMILY_INFO_INVITATION_NOT_ALLOWED: Der Spieler blockiert Familieneinladungen.
 FAMILY_INFO_INVITATION_REFUSED: Der Spieler hat die Familieneinladung abgelehnt.
 FAMILY_INFO_JOIN_INVITATION_TARGET_COOLDOWN: Dieser Spieler kann noch keiner Familie beitreten.
-FAMILY_INFO_KICK_SUCCESSFULL: Benutzer rausgeworfen.
+FAMILY_INFO_KICK_SUCCESSFULL: Spieler rausgeworfen.
 FAMILY_INFO_LEAVE: Du hast die Familie verlassen.
 FAMILY_INFO_NAME_ALREADY_USED: Dieser Familienname ist bereits vergeben.
 FAMILY_INFO_NO_FAMILY: Du hast keine Familie.
@@ -268,12 +274,12 @@ FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Du kannst diesen Gegenstand nicht zum Famili
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Du hast nicht genügend Berechtigungen, um das zu tun.
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Du benötigst das vorherige Upgrade, um das zu kaufen.
-FAMILY_RANK_DEPUTY: Stellvertreter
-FAMILY_RANK_HEAD: Anführer
-FAMILY_RANK_KEEPER: Hüter
+FAMILY_RANK_DEPUTY: Vertreter
+FAMILY_RANK_HEAD: Oberhaupt
+FAMILY_RANK_KEEPER: Verwalter
 FAMILY_RANK_MEMBER: Mitglied
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: Die Familie ist bereits in dieser Fraktion!
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Der Fraktionswechsel der Familie ist gerade in der Abkühlphase.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Solange die Abklingzeit nicht abgelaufen ist, können Sie ihre Fraktion nicht wechseln.
 FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Du musst 24 Stunden warten, um der Familie wieder beizutreten.
 FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Familienoberhaupt gewechselt.
 FAMILY_SHOUTMESSAGE_DISBANDED: Familie wurde aufgelöst.
@@ -285,8 +291,8 @@ FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
 FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} hat deine Familie verlassen.'
 FAMILYARENA_INFO_ASK_ENTER: Möchtest du die Familienarena betreten? Das kostet dich {0} Gold.
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Bericht öffnen
-FARMING_REPORT_NOTIFY_DESC: Überprüfe deinen Landwirtschaftsbericht.
-FARMING_REPORT_NOTIFY_TITLE: Landwirtschaftsbericht
+FARMING_REPORT_NOTIFY_DESC: Überprüfe deinen Farm-Bericht.
+FARMING_REPORT_NOTIFY_TITLE: Farm-Bericht
 FERNON_NOTIFY_RAID_STARTED: Fernon-Raid hat begonnen.
 FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Dein Fisch-Enzyklopädie ist vollständig.
@@ -317,16 +323,16 @@ FRIEND_INFO_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FRIEND_MESSAGE_NOT_FRIEND: Ihr müsst Freunde sein, um das zu tun.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Dieser Spieler ist nicht in deiner Freundesliste.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Dein Freund ist in der feindlichen Fraktion.
-GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst keine Items mit festem Level verspielen.
-GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Du kannst damit keine nicht-heroischen Items verspielen.
+GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst nicht mit Gegenständen fester Stufe wetten.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Du kannst damit keine nicht-helden Items wetten.
 GAMBLING_INFO_AMULET_DESTROYED: '[WARNUNG] Das Schutzamulett ist abgelaufen, weil alle Benutzungen aufgebraucht wurden.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Du hast bereits die höchste Seltenheit.
-GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Das Item wurde nicht zerstört, dank des Amuletts.
-GAMBLING_MESSAGE_FAILED: Verspielen fehlgeschlagen! Das Item wurde zerstört.
-GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Verspielen fehlgeschlagen, aber das Item wurde vor Zerstörung gerettet.
+GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Das Item wurde nicht zerstört, da Sie ein Amulett verwenden.
+GAMBLING_MESSAGE_FAILED: Das Glücksspiel ist gescheitert! Der Gegenstand wurde zerstört.
+GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Das Glücksspiel scheiterte, aber der Gegenstand wurde vor der Zerstörung geschützt.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: Du hast die Option 'Sicheres Verspielen' aktiviert, deaktiviere sie, wenn du ohne Amulett verspielen möchtest.
-GAMBLING_MESSAGE_ITEM_IS_HEROIC: Du kannst keinen heroischen Gegenstand verspielen.
-GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Dieses Item ist nicht heroisch.
+GAMBLING_MESSAGE_ITEM_IS_HEROIC: Du kannst keinen Helden Gegenstand verspielen.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Dieses Item ist nicht heldenhaft.
 GAMBLING_MESSAGE_SUCCESS: 'Glücksspiel erfolgreich! Neues Seltenheitslevel: {0}'
 GAME_FEATURE_DISABLED: Diese Spielfunktion ist derzeit deaktiviert.
 GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: Du erfüllst nicht die notwendigen Voraussetzungen, um diesen Modus zu betreten.
@@ -342,15 +348,15 @@ GROUP_CHATMESSAGE_DROP_ORDERED: '(Gruppe) [{0}x {1}] für: {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Gruppe) [{0}x {1}] für alle
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} hat deine Gruppenanfrage abgelehnt.'
 GROUP_DIALOG_ASK_SHARE_POINT: Möchtest du den Rückkehrpunkt von {0} als deinen festlegen?
-GROUP_DIALOG_INVITED_YOU: Spieler {0} hat dir eine Gruppenanfrage gesendet.
-GROUP_INFO_ADMIN: Du bist jetzt der Gruppenführer.
+GROUP_DIALOG_INVITED_YOU: Spieler {0} hat dich in eine Gruppe eingeladen.
+GROUP_INFO_ADMIN: Du bist jetzt der Gruppenleiter.
 GROUP_INFO_ALREADY_IN_GROUP: Du bist bereits in einer Gruppe.
 GROUP_INFO_BLOCKED: Der Spieler blockiert Gruppeneinladungen.
 GROUP_INFO_DISABLED: Gruppen sind auf dieser Karte deaktiviert.
 GROUP_INFO_FULL: Gruppe ist voll.
 GROUP_INFO_JOIN: Du bist der Gruppe von Spieler {0} beigetreten.
 GROUP_INFO_LEFT: Du hast die Gruppe verlassen.
-GROUP_INFO_NEW_LEADER: Du bist der neue Gruppenführer.
+GROUP_INFO_NEW_LEADER: Du bist der neue Gruppenleiter.
 GROUP_INFO_REQUEST: Gruppenanfrage an Spieler {0} gesendet.
 GROUP_INFO_SHARE_POINT_TO_MEMBERS: Du hast angefragt, deinen Rückkehrpunkt mit deinen Gruppenmitgliedern zu teilen.
 GROUP_SHOUTMESSAGE_CLOSED: Gruppe aufgelöst.
@@ -370,13 +376,13 @@ ICE_DUST_SHOUTMESSAGE_WRONG_SP: '#ICE_DUST_SHOUTMESSAGE_WRONG_SP'
 ICEBREAKER_INFO_REGISTRATION_CLOSED: Die Anmeldung ist bereits geschlossen.
 ICEBREAKER_INFO_REGISTRATION_DIALOG: Willst du am Ice Breaker teilnehmen? Das kostet dich {1} Gold.
 ICEBREAKER_INFO_REGISTRATION_SUCCEEDED: Du hast dich erfolgreich registriert. Bitte warte geduldig, während die anderen Spieler beitreten.
-ICEBREAKER_NAME: Eisbrecher
+ICEBREAKER_NAME: Ice Breaker
 ICEBREAKER_SHOUTMESSAGE_CANT_UNFREEZE_KILL: Du kannst die Person, die du getötet hast, nicht auftauen.
 ICEBREAKER_SHOUTMESSAGE_END: Der Ice Breaker ist zu Ende.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: Der Ice Breaker endet in {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: PvP wird in {0} Sekunden aktiviert.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Anmeldung zum Ice Breaker endet in {0} Sekunden.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Du hast nicht genug Gold, um am Ice Breaker teilzunehmen (erforderlich: {0} Gold).'
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'Du hast nicht genug Gold, um am Ice Breaker teilzunehmen (erforderlich: {0} Gold)'
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Es sind nicht genug Spieler vorhanden, um den Ice Breaker zu starten.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Du musst dich auf einer Basis-Karte befinden, um am Ice Breaker teilnehmen zu können.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Spieler '{0}' wurde eingefroren.
@@ -388,22 +394,22 @@ INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Das kannst du gerade nicht benutzen.
 INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Dein Level ist nicht hoch genug, um dorthin zu reisen.
 INFORMATION_CHATMESSAGE_NO_WINGS: Du hast keine Flügel der Freundschaft.
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nicht genug Mana-Punkte.
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht genug Ansehen.
-INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Du trägst keine Perücke.
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht genug Ruhm.
+INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht.
-INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosMerchant-Medaille ist gerade aktiv.
-INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner-Spezialisten-Transformation im Cooldown: {0} Sekunden'
+INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosBasar-Medaille ist gerade aktiv.
+INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partner Spezialist Transformation in Abklingzeit: {0} Sekunden'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ansehen: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ansehen: +{0}'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: '{1}x {0} verwendet.'
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Schutzrolle wurde verwendet.
-INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialisten-Transformation im Cooldown: {0} Sekunden'
+INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialisten Transformation in Abklingzeit: {0} Sekunden'
 INFORMATION_CHATMESSAGE_USER_NOT_HERO: Du bist nicht berechtigt, dies zu verwenden.
 INFORMATION_CHATMESSAGE_USER_WHISPER_BLOCKED: Benutzer hat private Nachrichten blockiert.
 INFORMATION_CHATMESSAGE_USER_WHISPER_SENT: An '{0}' auf Kanal {1} gesendet.
 INFORMATION_CHATMESSAGE_WIN_SP_POINT: 'SP-Punkte: +{0}'
 INFORMATION_HERO_LEVELUP: Dein Heldenlevel wurde erhöht.
-INFORMATION_INFO_PLAYER_IN_BATTLE: Spieler {0} ist im Kampf.
+INFORMATION_INFO_PLAYER_IN_BATTLE: Spieler {0} ist in einem Kampf.
 INFORMATION_INFO_PLAYER_OFFLINE: Spieler ist nicht online.
 INFORMATION_MESSAGE_LOW_JOB: Dein Joblevel ist zu niedrig.
 INFORMATION_MESSAGE_MAX_GOLD: Maximale Goldmenge erreicht.
@@ -442,14 +448,14 @@ INFORMATION_SHOUTMESSAGE_SHUTDOWN_SEC: Server wird in {0} Sekunden heruntergefah
 INFORMATION_SHOUTMESSAGE_SP_LVL_LOW: Spezialist muss mindestens Level {0} sein, um aufzurüsten!
 INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Punkte gesetzt.
 INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Dein Level ist zu hoch.
-INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Du trägst keine Perücke.
-INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Der Spieler befindet sich nicht auf einer allgemeinen Karte.
-INSTANT_COMBAT_NAME: Sofortkampf
-INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Der Sofortkampf endet in {0} Minuten.
+INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Dein Level ist zu niedrig.
+INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Der Spieler befindet sich nicht auf einer generellen Karte.
+INSTANT_COMBAT_NAME: Instant Combat
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Der Instant Combat endet in {0} Minuten.
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Monster im Anmarsch...
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Verbleibende Monster: {0}'
-INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Der Sofortkampf endet in {0} Sekunden.
-INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Glückwunsch! Du hast den Sofortkampf gewonnen.
+INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Der Instant Combat endet in {0} Sekunden.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Glückwunsch! Du hast den Instant Combat gewonnen.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Leider konntest du die Welle nicht besiegen und erhältst keine Beute.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Die nächste Welle beginnt in {0} Sekunden.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Einführung festgelegt.
@@ -467,9 +473,9 @@ INTERACTION_VESSEL_LIMIT_REACHED: Die Anzahl der Gefäßmonster hat das Limit f�
 INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Erhalten: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Erhalten: {1} x{0}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} hat einen Gegenstand erhalten: {1}'
-INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat eine Abkühlzeit von einer Minute.
+INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat eine Abklingzeit von einer Minute.
 INVENTORY_DIALOG_ASK_TO_DELETE: Möchtest du diesen Gegenstand löschen?
-INVENTORY_DIALOG_SURE_TO_DELETE: Bist du sicher, dass du diesen Gegenstand löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden und der Gegenstand geht für immer verloren.
+INVENTORY_DIALOG_SURE_TO_DELETE: Sind Sie sicher, dass Sie diesen Gegenstand löschen wollen? Diese Aktion kann nicht rückgängig gemacht werden und der Gegenstand ist für immer verloren.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht genügend Gegenstände - {0} x{1}
 ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Ausrüstung mit Muschel-Optionen kann nicht umgewandelt werden. Du solltest zuerst einen Magischen Radierer verwenden.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
@@ -508,13 +514,13 @@ ITEM_SHOUTMESSAGE_IS_LIMITED: Das geht nicht, weil NosMate begrenzt ist.
 ITEM_SHOUTMESSAGE_MIMIC_FAKE_POTION: Hoppla!! Das ist ein falscher Trank von einem Mimic.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE: Dieser Gegenstand kann nicht fallen gelassen werden.
 ITEM_SHOUTMESSAGE_NOT_DROPPABLE_HERE: Du kannst diesen Gegenstand hier nicht fallen lassen.
-ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Das geht nur in Miniland.
+ITEM_SHOUTMESSAGE_ONLY_IN_MINILAND: Das geht nur im Miniland.
 ITEM_SHOUTMESSAGE_RELICT_LOW_LEVEL: Dein Level ist zu niedrig, um Relikte zu untersuchen.
 ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in dieselbe Fraktion wechseln.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die gleichen Flügel benutzen.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Du kannst dich wegen eines negativen Effekts nicht in ein Reittier verwandeln.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Gegenstandsverwendung im Multiversum deaktiviert.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Gegenstandsverwendung im Multiversum deaktiviert
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Verbleibende Lebensland-Zeit: {0} Minuten.'
 LAND_OF_LIFE_QNA_ENTER: Möchtest du dem Lebensland beitreten?
@@ -526,14 +532,14 @@ LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_DESPAWN: '{0} ist verschwunden.'
 LAND_OF_LIFE_SHOUTMESSAGE_ASGOBAS_SPAWN: '{0} hat die Jagd begonnen!'
 LAND_OF_LIFE_SHOUTMESSAGE_CLOSED: Du kannst jetzt nicht eintreten.
 LAND_OF_LIFE_SHOUTMESSAGE_FAMILY_REQUIRED: Nur Familienmitglieder können das Lebensland betreten.
-LAND_OF_LIFE_SHOUTMESSAGE_KICKED: Das Lebensland ist jetzt geschlossen.
+LAND_OF_LIFE_SHOUTMESSAGE_KICKED: Das Land des Lebens ist jetzt geschlossen.
 LAND_OF_LIFE_SHOUTMESSAGE_LEVEL_MISMATCH: Level passt nicht zu diesem Land des Lebens.
-LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: Du wirst bald zum Eingang des Lebenslands zurückkehren.
-LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: Du kannst das Lebensland nicht betreten, da du deine tägliche Zeit aufgebraucht hast.
+LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: Du wirst bald zum Eingang vom Land des Lebens zurückkehren.
+LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: Du kannst dem Land des Lebens nicht betreten, da du deine tägliche Zeit aufgebraucht hast.
 LOD_DIALOG_ASK_REVIVE: Möchtest du {0} verwenden, um wiederzubeleben?
-LOD_SHOUTMESSAGE_HORN_DESPAWN: Der fliegende Feuer-Teufel ist verschwunden.
-LOD_SHOUTMESSAGE_HORN_SPAWN: Die Jagd auf den Fliegenden Feuerteufel hat begonnen.
-LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Du trägst keine Perücke.
+LOD_SHOUTMESSAGE_HORN_DESPAWN: Der fliegende Feuerteufel ist verschwunden.
+LOD_SHOUTMESSAGE_HORN_SPAWN: Die Jagd auf den fliegenden Feuerteufel hat begonnen.
+LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Dein Level ist zu niedrig.
 LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Das Land des Todes ist geschlossen.
 LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Das Land des Todes wird gerade gewartet.
 LOD_SHOUTMESSAGE_NEED_FAMILY_TO_ENTER: Nur Familienmitglieder können das Land des Todes betreten.
@@ -562,7 +568,7 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: Die Wartung wurde gestoppt.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartung beginnt in {0} Stunde(n).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartung beginnt in {0} Minute(n).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartung beginnt in {0} Sekunde(n).
-MESSAGE_UNDER_CHAT_0: Lautsprecher, Sprechblasen und der Hero Chat sind nur auf Englisch!
+MESSAGE_UNDER_CHAT_0: Lautsprecher, Sprechblasen und der Helden Chat sind nur auf Englisch!
 MESSAGE_UNDER_CHAT_1: 'Besuche unseren Discord-Server: discord.gg/olympusgg'
 MESSAGE_UNDER_CHAT_2: 'Hast du einen Fehler gefunden? Eröffne ein Bug-Ticket auf: dashboard.olympusgg.com/support'
 MESSAGE_UNDER_CHAT_3: Hast du eine Idee? Erstelle einen Vorschlag auf unserem Discord!
@@ -577,7 +583,7 @@ MINILAND_DIALOG_ASK_INVITE: Möchtest du das Miniland von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du erhältst keine Belohnungen, weil du nicht genug Produktionspunkte hast. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Miniland-Begrüßungsnachricht wurde geändert!
 MINILAND_INFO_DURABILITY_MAXIMUM: Maximale Haltbarkeit des Minispiels erreicht.
-MINILAND_INFO_INVITE_LOCK: Das Miniland dieses Spielers ist gesperrt.
+MINILAND_INFO_INVITE_LOCK: Das Miniland dieses Spielers ist geschlossen.
 MINILAND_INFO_MUST_BE_IN_MINILAND: Du musst im Miniland sein, um diese Aktion auszuführen.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Nicht genug Belohnungsgutscheine.
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Nicht genug Haltbarkeitspunkte.
@@ -587,7 +593,7 @@ MINILAND_MESSAGE_VISITOR: 'Gesamtbesuche: {0}, Tagesbesuche: {1}'
 MINILAND_SHOUTMESSAGE_CLOSED: Miniland ist geschlossen.
 MINILAND_SHOUTMESSAGE_FULL: Miniland ist voll.
 MINILAND_SHOUTMESSAGE_LOCK: Miniland ist jetzt gesperrt.
-MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Miniland muss gesperrt sein, um das zu tun.
+MINILAND_SHOUTMESSAGE_NEED_BE_LOCKED: Miniland muss Privat sein, um das zu tun.
 MINILAND_SHOUTMESSAGE_PRIVATE: Miniland ist jetzt privat.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland ist jetzt öffentlich.
 MINILAND_WELCOME_MESSAGE: Willkommen!
@@ -640,9 +646,9 @@ OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Einladungen ins Miniland aktivier
 OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Maus-Sperre deaktiviert
 OPTIONS_SHOUTMESSAGE_MOUSE_ENABLED: Maus-Sperre aktiviert
 OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_DISABLED: Nach dem Tod kehrt dein Partner ins Miniland zurück.
-OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Nach dem Tod wird dein Partner durch Kraftsamen wiederbelebt.
+OPTIONS_SHOUTMESSAGE_PARTNER_AUTO_RELIVE_ENABLED: Nach dem Tod wird dein Partner durch Saat der Macht wiederbelebt.
 OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_DISABLED: Nach dem Tod kehrt dein NosMate ins Miniland zurück.
-OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Nach dem Tod wird dein NosMate durch Kraftsamen wiederbelebt.
+OPTIONS_SHOUTMESSAGE_PET_AUTO_RELIVE_ENABLED: Nach dem Tod wird dein NosMate durch Saat der Macht wiederbelebt.
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_DISABLED: Schnelles Aufstehen deaktiviert
 OPTIONS_SHOUTMESSAGE_QUICK_GET_UP_ENABLED: Schnelles Aufstehen aktiviert
 OPTIONS_SHOUTMESSAGE_SHOWHPMP_DISABLED: HP/MP-Anzeigen deaktiviert
@@ -664,7 +670,7 @@ PAIMON_RAID_SHOUTMESSAGE_RIFT_CLOSED: Der Riss am Himmel wurde versiegelt. Die M
 PAIMON_RAID_SHOUTMESSAGE_RIFT_OPENED: Der Riss am Himmel wurde wieder geöffnet. Die Monsterinvasion geht weiter.
 PARTNER_CANNOT_PUT_ITEM_IN_BACKPACK: Dieser Gegenstand kann nicht im Partner-Rucksack abgelegt werden.
 PARTNER_CHATMESSAGE_BEAD_EXTRACT: 'Du hast einen neuen Partner: {0}'
-PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partner ist voll.
+PARTNER_CHATMESSAGE_EAT_EVERYTHING: Dein Partnerrucksack ist voll.
 PARTNER_CHATMESSAGE_TRANSFORM_DISAPPEAR: Abklingzeit der Partner-Spezialistenkarte ist vorbei.
 PARTNER_DIALOG_ASK_SLOT_INCREASE: Möchtest du deine Partnerplätze erweitern?
 PARTNER_INFO_IS_WEARING_SP: Dein Partner trägt bereits eine Spezialistenkarte!
@@ -681,10 +687,10 @@ PARTNER_MESSAGE_KICKED: Dein Partner ist zum Miniland zurückgekehrt.
 PARTNER_MESSAGE_NO_SP_EQUIPPED: Dein Partner trägt keine Spezialistenkarte.
 PARTNER_SAY_IS_NOT_FOLLOWING: Partner muss dir folgen.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Du hast diesen Partner bereits.
-PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: Du kannst deinen Partner nicht nehmen oder zurückschicken, wenn seine Fähigkeiten sich im Abkühlen befinden.
+PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: Du kannst deinen Partner nicht mitnehmen oder zurückschicken, wenn er Fähigkeiten in Abklingzeit hat.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Dein Partner [X0X] hat ein Level aufgestiegen!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner durch Partner-Schutzengel wiederbelebt.
-PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Abkühlzeit der Spezialistenkarte des Partners: [X0X] Sekunden'
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Abklingzeit der Spezialistenkarte des Partners: [X0X] Sekunden'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner ist zum Miniland zurückgekehrt.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner wird in 3 Minuten zurück sein.
 PARTNER_WEARS_EQUIPMENT: Dein Partner muss alles ablegen, um das zu tun.
@@ -731,11 +737,11 @@ PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosMate ist zurück nach Miniland gegang
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosMate wird in 3 Minuten zurück sein.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosMate durch NosMate-Schutzengel wiederbelebt.
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Die Wasserdrachen nähern sich.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Mitleidssystem] {0} => [{1}/{2}], Chance auf den Preis: {3}%'
-PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Mitleidssystem] Du hast {0} als zusätzliche Belohnung erhalten.'
-PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX: '[Mitleidssystem] {0} => [{1}/{2}]'
-PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX: '[Mitleidssystem] {0} => [{1}/{2}]'
-PITY_CHATMESSAGE_TROPHY_COUNTER_TO_MAX: '[Mitleidssystem] {0} => [{1}/{2}]'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[Pity-System] {0} => [{1}/{2}], Chance auf den Preis: {3}%'
+PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[Pity-System] Du hast {0} als zusätzliche Belohnung erhalten.'
+PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX: '[Pity-System] {0} => [{1}/{2}]'
+PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX: '[Pity-System] {0} => [{1}/{2}]'
+PITY_CHATMESSAGE_TROPHY_COUNTER_TO_MAX: '[Pity-System] {0} => [{1}/{2}]'
 POCKET_DIMENSION_GROUP_MEMBER_NOT_IN_MAP: Um eine Taschendimension zu erstellen, müssen alle Gruppenmitglieder auf derselben Karte sein.
 POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Gruppenmitglied {0} hat gerade eine Abklingzeit, um eine neue Taschendimension zu erstellen.
 POCKET_DIMENSION_GROUP_REQUIRED: Um eine Gruppen-Taschendimension zu erstellen, benötigst du eine Gruppe
@@ -751,7 +757,7 @@ PSP_ARCHDAEMON_AMON: Erzdämon Amon
 PSP_BARNI: Barni der Schlaue
 PSP_CHEONGBI: Kobold Cheongbi
 PSP_CHLOE: Cowgirl Chloe
-PSP_DANIEL: Daniel Ducats
+PSP_DANIEL: Daniel Dukate
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Möchtest du alle Fähigkeiten deiner Partner-Spezialistenkarte zurücksetzen?
 PSP_DIALOG_ASK_RESET_SINGLE_SKILL: Möchtest du diese Fähigkeit zurücksetzen?
 PSP_DIALOG_ASK_UPGRADE_SINGLE_SKILL: Möchtest du den Rang dieser Fähigkeit erhöhen?
@@ -763,7 +769,7 @@ PSP_FOXY: Foxy
 PSP_FREYA: Freya die Schicksalhafte
 PSP_GUARDIAN_LUCIFER: Wächter Lucifer
 PSP_HARLEQUIN: Harlekin
-PSP_HONGBI: Imp Hongbi
+PSP_HONGBI: Teufelchen Hongbi
 PSP_JINN: Dschinn
 PSP_LAURENA: Hexe Laurena
 PSP_LOTUS: Lotus die Anmutige
@@ -814,7 +820,7 @@ RAID_CHATMESSAGE_GROUP_REQUEST: '{0} wurde in das Raid-Team eingeladen.'
 RAID_CHATMESSAGE_KICKED: Du wurdest aus dem Raid-Team geworfen.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} wurde aus dem Raid-Team geworfen.'
 RAID_CHATMESSAGE_LEFT: '{0} hat das Raid-Team verlassen.'
-RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Da dein Level nicht dem empfohlenen Level für den Raid entspricht, kann keine Raid-Box vergeben werden, selbst wenn die Raid-Aufgabe abgeschlossen ist.
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Da dein Level nicht dem empfohlenen Level für den Raid entspricht, kann keine Raidbox vergeben werden, selbst wenn die Raid-Aufgabe abgeschlossen ist.
 RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {0} Mal am Raid teilnehmen.
 RAID_CHATMESSAGE_LIMIT_REACHED: Du hast die maximale Anzahl an Teilnahmen im {0} Raid erreicht.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilzunehmen.
@@ -873,30 +879,30 @@ RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Dieser Kristall wurde bereits von d
 RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Du bist bis {0} vom Rainbow Battle ausgeschlossen.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Du musst {0} Sekunden warten, um diesen Kristall zu erobern.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Du warst nicht aktiv genug, um die Belohnung zu erhalten.
-RAINBOW_BATTLE_EVENT_NAME: Rainbow Battle
+RAINBOW_BATTLE_EVENT_NAME: Regenbogen Schlacht
 RAINBOW_BATTLE_MESSAGE_ALLY_CAPTURED: 'Spieler {0} hat den Kristall erobert: {1}'
 RAINBOW_BATTLE_MESSAGE_BLUE_TEAM_FLAG_CAPTURED: 'Blaues Team hat den Kristall erobert: {0}'
-RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Dein Level ist zu niedrig, um am Rainbow Battle teilzunehmen.
-RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Nicht genug Spieler, um das Rainbow Battle zu starten.
+RAINBOW_BATTLE_MESSAGE_LOW_LEVEL: Dein Level ist zu niedrig, um an der Regenbogenschlacht teilzunehmen.
+RAINBOW_BATTLE_MESSAGE_NOT_ENOUGH_PLAYERS: Nicht genug Spieler, um die Regenbogenschlacht zu starten.
 RAINBOW_BATTLE_MESSAGE_PLAYER_LEFT: Spieler {0} hat die Regenbogenschlacht verlassen
 RAINBOW_BATTLE_MESSAGE_RED_TEAM_FLAG_CAPTURED: 'Rotes Team hat den Kristall erobert: {0}'
-RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Das Rainbow Battle ist vorbei. Dein Team hat verloren.
-RAINBOW_BATTLE_MESSAGE_YOU_TIE: Das Rainbow Battle ist vorbei. Es steht unentschieden.
-RAINBOW_BATTLE_MESSAGE_YOU_WON: Das Rainbow Battle ist vorbei. Dein Team hat gewonnen.
+RAINBOW_BATTLE_MESSAGE_YOU_LOSE: Die Regenbogenschlacht ist vorbei. Dein Team hat verloren.
+RAINBOW_BATTLE_MESSAGE_YOU_TIE: Die Regenbogenschlacht ist vorbei. Es steht unentschieden.
+RAINBOW_BATTLE_MESSAGE_YOU_WON: Die Regenbogenschlacht ist vorbei. Dein Team hat gewonnen.
 RAINBOW_BATTLE_NEW_SURRENDER_VOTE_MESSAGE: Eine Abstimmung zur Aufgabe hat begonnen. Gib $ff ein, um abzustimmen.
-RAINBOW_BATTLE_RECONNECT_EXPIRED_MESSAGE: Tut mir leid, die Möglichkeit, dem Rainbow Battle wieder beizutreten, ist abgelaufen. Du musst das nächste Mal schneller klicken.
-RAINBOW_BATTLE_RECONNECT_MESSAGE_TOO_MUCH_DISCONNECTION: Du hast dich zu oft von diesem Rainbow Battle getrennt.
-RAINBOW_BATTLE_RECONNECT_PARTY_FINISHED_MESSAGE: Dieses Rainbow Battle ist bereits beendet.
-RAINBOW_BATTLE_RECONNECT_PARTY_NOT_FOUND_MESSAGE: Das Rainbow Battle, dem du beitreten wolltest, wurde nicht gefunden.
-RAINBOW_BATTLE_RECONNECT_PROMPT_EXPIRED_MESSAGE: Du kannst dem Regenbogenkampf nicht mehr beitreten.
-RAINBOW_BATTLE_RECONNECT_PROMPT_MESSAGE: Willst du dem Regenbogenkampf wieder beitreten?
+RAINBOW_BATTLE_RECONNECT_EXPIRED_MESSAGE: Tut mir leid, die Möglichkeit, der Regenbogenschlacht wieder beizutreten, ist abgelaufen. Du musst das nächste Mal schneller klicken.
+RAINBOW_BATTLE_RECONNECT_MESSAGE_TOO_MUCH_DISCONNECTION: Du hast dich zu oft von dieser Regenbogenschlacht getrennt.
+RAINBOW_BATTLE_RECONNECT_PARTY_FINISHED_MESSAGE: Dies Regenbogenschlacht ist bereits beendet.
+RAINBOW_BATTLE_RECONNECT_PARTY_NOT_FOUND_MESSAGE: Der Regenbogenschlacht, der du beitreten wolltest, wurde nicht gefunden.
+RAINBOW_BATTLE_RECONNECT_PROMPT_EXPIRED_MESSAGE: Du kannst der Regenbogenschlacht nicht mehr beitreten.
+RAINBOW_BATTLE_RECONNECT_PROMPT_MESSAGE: Willst du der Regenbogenschlacht wieder beitreten?
 RAINBOW_BATTLE_RED_SURREND_MESSAGE: Das rote Team hat aufgegeben.
-RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Der Regenbogenkampf beginnt in {0} Sekunden. Du bist im blauen Team.
+RAINBOW_BATTLE_SHOUTMESSAGE_BLUE_TEAM: Die Regenbogenschlacht beginnt in {0} Sekunden. Du bist im blauen Team.
 RAINBOW_BATTLE_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Du kannst diese Fähigkeit nicht vor Beginn des Kampfes verwenden.
 RAINBOW_BATTLE_SHOUTMESSAGE_FROZEN: Spieler {0} ist eingefroren.
-RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Der Regenbogenkampf beginnt in {0} Sekunden. Du bist im roten Team.
-RAINBOW_BATTLE_SHOUTMESSAGE_START: Der Regenbogenkampf hat begonnen. Kämpft!
-RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Spieler {0} wurde entfroren.
+RAINBOW_BATTLE_SHOUTMESSAGE_RED_TEAM: Die Regenbogenschlacht beginnt in {0} Sekunden. Du bist im roten Team.
+RAINBOW_BATTLE_SHOUTMESSAGE_START: Die Regenbogenschlacht hat begonnen. Kämpft!
+RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Spieler {0} ist nicht mehr eingefroren.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Du kannst nicht mehr abstimmen.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Abstimmung ist momentan nicht verfügbar.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Es gibt momentan {0} Stimmen für die Kapitulation.
@@ -914,7 +920,7 @@ RUNE_MSG_REPAIRED: Die beschädigte Waffe wurde repariert.
 RUNE_MSG_UPGRADE_FAILED: Runen-Upgrade fehlgeschlagen.
 RUNE_MSG_UPGRADE_RUINED: Die Ausrüstung wurde dabei beschädigt.
 RUNE_MSG_UPGRADE_SUCCESS: Glückwunsch, die Rune wurde hinzugefügt.
-RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur in deine eigenen Waffen Runen einritzen.
+RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur Runen in deine eigenen Waffen schnitzen.
 SHEEP_GAME_EVENT_NAME: Schafspiel
 SHEEP_GAME_SHOUT_END_PREPARATION: Du wirst in {0} Sekunden zurückteleportiert
 SHEEP_GAME_SHOUT_START_PREPARATION: Das Spiel beginnt in {0} Sekunden.
@@ -956,13 +962,13 @@ SKILL_SHOUTMESSAGE_CANT_LEARN: Du kannst diese Fähigkeit nicht erlernen.
 SKILL_SHOUTMESSAGE_CANT_LEARN_COOLDOWN: Du musst warten, bis die Abklingzeiten der Fähigkeiten vorbei sind, bevor du neue erlernst.
 SKILL_SHOUTMESSAGE_CANT_USE: Du kannst diese Fähigkeit auf dieser Karte nicht verwenden.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Deine Würde ist zu niedrig, um dieses Monster zu fangen.
-SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fang versagt!
+SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Fang fehlgeschlagen!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Du kannst dieses Monster nicht fangen!
 SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Du kannst dieses Monster während des Raids nicht fangen!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: Du hast {0} erfolgreich gefangen!
 SKILL_SHOUTMESSAGE_LEARNED: Du hast eine neue Fähigkeit erlernt!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Das Level des Monsters muss niedriger als deins sein.
-SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Monster müssen weniger als 50% HP haben, um gefangen zu werden.
+SKILL_SHOUTMESSAGE_MONSTER_MUST_BE_LOW_HP: Das Monster muss weniger als 50% der HP haben, um gefangen zu werden.
 SKILL_SHOUTMESSAGE_SKILLS_IN_LOADING: Du musst warten, bis alle Abklingzeiten vorbei sind.
 SKILL_SHOUTMESSAGE_TAMING_FAILED: Zähmen fehlgeschlagen.
 SKILL_SHOUTMESSAGE_TAMING_SUCCESS: Zähmen erfolgreich.
@@ -1002,7 +1008,7 @@ TALENT_ARENA_NO_ENTRIES: Du hast keinen Arena of Talent Eintritt mehr übrig.
 TALENT_ARENA_NOT_FOUND: Nicht gefunden.
 TALENT_ARENA_PENALTY_NOTICE: Das Verlassen der Arena of Talent führt zu einer Strafe.
 TALENT_ARENA_PLAYER_IN_GROUP: Du kannst nicht an der Arena der Talente teilnehmen, wenn du in einer Gruppe bist.
-TALENT_ARENA_PLAYER_NOT_FOUND: Spieler nicht gefunden.
+TALENT_ARENA_PLAYER_NOT_FOUND: Spieler wurde nicht gefunden.
 TALENT_ARENA_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Du kannst diese Fähigkeit nicht verwenden, bevor du das Kampfgebiet betreten hast.
 TALENT_ARENA_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Arena der Talente auf Kanal {0} eröffnet.
 TALENT_ARENA_SHOUTMESSAGE_PLAYER_LEFT: '{0} hat die Arena der Talente verlassen'
@@ -1028,7 +1034,7 @@ TATTOO_UPGRADE_DOWNGRADE: Tattoo-Level herabgestuft.
 TATTOO_UPGRADE_DOWNGRADE_PROTECTED: Tattoo-Upgrade fehlgeschlagen, aber vor Herabstufung geschützt.
 TATTOO_UPGRADE_FAIL: Tattoo-Upgrade fehlgeschlagen.
 TATTOO_UPGRADE_SUCCESS: Tattoo-Upgrade erfolgreich.
-TATTOO_UPGRADE_SUCCESS_PITY: '[Mitleidssystem] Tattoo-Upgrade erfolgreich!'
+TATTOO_UPGRADE_SUCCESS_PITY: '[Pity-System] Tattoo-Upgrade erfolgreich!'
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Du musst nach dem Angriff warten.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus. Die Dauer wurde verlängert und du wirst nicht alle ausgewählten Belohnungen erhalten.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Das Tor ist verschlossen.
@@ -1043,7 +1049,7 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Möchtest du dich wiederbeleben?
 TIMESPACE_DIALOG_ASK_START: Möchtest du den ersten Raum betreten?
 TIMESPACE_DIALOG_ASK_START_RECORD: Möchtest du einen Timespace im Rekordmodus starten? Das kostet {0} Gold.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Timespace hat bereits begonnen.
-TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: Du kannst nicht in einer Gruppe sein für diesen Timespace.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: Du kannst nicht in einer Gruppe sein für diesen Timespace
 TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: Du kannst kein Timespace-Portal in der Nähe eines anderen Portals erstellen.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür hat sich geöffnet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
@@ -1068,7 +1074,7 @@ TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet.
 TITLE_INFO_VISIBLE_DISABLED: Titel-Sichtbarkeit deaktiviert.
 TITLE_INFO_VISIBLE_ENABLED: Titel-Sichtbarkeit aktiviert.
 TRADE_CHATMESSAGE_BLOCKED: Benutzer hat Handel blockiert.
-TRADE_CHATMESSAGE_REFUSED: Spieler {0} hat deine Handelsanfrage abgelehnt.
+TRADE_CHATMESSAGE_REFUSED: Spieler {0} hat deine Tauschanfrage abgelehnt.
 TRADE_CHATMESSAGE_YOU_REFUSED: Handel abgelehnt.
 TRADE_DIALOG_ASK_FOR_TRADE: Du hast {0} um einen Handel gebeten.
 TRADE_DIALOG_INCOMING_EXCHANGE: Spieler {0} [{1}(+{2})Lv.] möchte mit dir handeln.
@@ -1092,7 +1098,7 @@ UPGRADE_MESSAGE_SP_DESTROYED: Die Seele der Spezialistenkarte wurde zerstört!
 UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Die Seele der Spezialistenkarte wurde durch die Schriftrolle gerettet.
 UPGRADE_MESSAGE_SP_FAILED: SP-Aufwertung fehlgeschlagen.
 UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte erfolgreich aufgewertet!
-UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Mitleidssystem] Deine Spezialistenkarte wurde aufgewertet.'
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity-System] Deine Spezialistenkarte wurde aufgewertet.'
 UPGRADE_MESSAGE_SUCCESS: Upgrade erfolgreich!
 UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Deine Ausrüstung wurde geupgradet.'
 UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Du hast die Option 'Sicheres Upgrade' aktiviert, deaktiviere sie, wenn du ohne Schriftrolle upgraden möchtest.
@@ -1105,11 +1111,11 @@ VALENTINE_PROPOSE_SENT: '{0} wurde gefragt, ob er das Geschenk annehmen möchte.
 WARDROBE_INFO_NEED_KEY: Du benötigst einen Garderobenschlüssel, um diese Funktion zu nutzen.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Bist du sicher, dass du deinen Warp auf der Karte {1} (Slot {0}) entfernen möchtest?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Du kannst dieser Karte nicht beitreten.
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Dieser Rückkehrpunkt ist gerade im Cooldown. Verbleibende Zeit: {0} Sekunden'
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Du kannst dieser Karte noch nicht beitreten. Du bist entweder im Kampf oder im Cooldown für Kartenwechsel.
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Dieser Rückkehrpunkt ist gerade in der Abklingzeit. Verbleibende Zeit: {0} Sekunden'
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Du kannst diese Karte noch nicht betreten. Du befindest dich entweder im Kampf oder unter der Abklingzeit für einen Kartenwechsel.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Du kannst auf dieser Karte keinen Warp setzen.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Möchtest du dich scheiden lassen?
-WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Heiratsantrag gemacht. Akzeptierst du den Heiratsantrag?
+WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Heiratsantrag gemacht. Nimmst du den Heiratsantrag an?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Bist du sicher, dass du {0} heiraten möchtest?
 WEDDING_INFO_DIVORCED: Die Ehe wurde aufgelöst.
 WEDDING_SHOUTMESSAGE_BROADCAST: Spieler {0} und {1} haben gerade geheiratet!
