@@ -23,7 +23,7 @@ ACT4_DUNGEON_REVIVAL_DIALOG: Ressusciter ici te coûtera {0} points de réputati
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: La salle du boss a été fermée.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Le Boss du donjon a été vaincu.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: La salle du boss est maintenant ouverte.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte près de la tour centrale de la Toundra de Bitoren.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: La porte du donjon est maintenant ouverte près de la tour centrale de la Toundra Bitoren.
 ACT4_FERNON_SHOUTMESSAGE_CLOSED: L'entrée de Fernon est maintenant fermée.
 ACT4_FERNON_SHOUTMESSAGE_OPEN: L'entrée de Fernon est maintenant ouverte. Le Capitaine de l'Aéronef attendra pendant 1 heure.
 ACT4_NEED_FACTION: Seuls ceux qui possèdent un pouvoir de protection peuvent rejoindre la Couronne Gelée.
@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} a vaincu le Seigneur Mukraju !'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0} n'a pas réussi à vaincre le Seigneur Mukraju à temps."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} a invoqué le Seigneur Mukraju !'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Tu dois faire partie d'une famille pour construire un camp.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Tu es trop près du portail.
 ACT5_CHATMESSAGE_NO_RECIPE: Aucune recette pour ce type d'échange n'a été trouvée.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Tu as été emprisonné dans la chaleur de l'Épée Ardente.
 ACT5_MESSAGE_RETURN_DISABLED: Tu ne peux pas retourner au point de retour.
@@ -142,12 +142,15 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà fait une offre.
 
 
 
 
+
   	- Se rétracter d'une offre faite sur un objet mis aux enchères.
+
 
 
 
