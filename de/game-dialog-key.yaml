@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} hat Lord Mukraju besiegt!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} konnte Lord Mukraju nicht rechtzeitig besiegen.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} hat Lord Mukraju beschworen!'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Du musst in einer Familie sein, um ein Lager zu bauen.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Du bist zu nah an einem Portal.
 ACT5_CHATMESSAGE_NO_RECIPE: Kein Rezept für diesen Typ des Austauschs gefunden.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Du wurdest in der Hitze des Brennenden Schwertes eingeschlossen.
 ACT5_MESSAGE_RETURN_DISABLED: Du kannst nicht zum Rückkehrpunkt zurückkehren.
@@ -135,28 +135,19 @@ BID_INFO_UNEXPECTED_ERROR: Das Biet-System ist auf einen unerwarteten Fehler ges
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} Gold wurde vom versteigerten Gegenstand abgezogen und auf dein Bankkonto überwiesen.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Der versteigerte Gegenstand wurde erfolgreich abgeholt.
 BID_MODAL_DISCLAIMER: >-
-  Bitte lies und verstehe diesen Haftungsausschluss, bevor du das Biet-System benutzt.
+  Bitte lies und verstehe diesen Haftungsausschluss, bevor du das Biet-System verwendest.
 
   Um ein faires und reaktionsschnelles Biet-System für unsere Spieler zu gewährleisten, kannst du nicht:
 
-
-
-
   	- Einen versteigerten Gegenstand vor seinem Enddatum entfernen, wenn bereits jemand geboten hat.
-
-
-
 
   	- Ein Gebot für einen versteigerten Gegenstand zurückziehen.
 
 
+  Der Button, um auf einen Gegenstand zu bieten, wird keine Bestätigung verlangen, um sicherzustellen, dass seine Reaktion für schnelle Auktionen erstklassig ist, also sei bitte vorsichtig.
 
 
-
-  Der Button, um auf einen Gegenstand zu bieten, wird dich nicht um eine Bestätigung bitten, um sicherzustellen, dass seine Reaktion für schnelle Auktionen erstklassig ist, also sei bitte vorsichtig.
-
-
-  Der Button, um einen Gegenstand zur Versteigerung anzubieten, wird dich um eine Bestätigung bitten, bevor du fortfährst. Dies wird gemacht, um die Entscheidung eines Spielers zu sichern.
+  Der Button, um einen Gegenstand zu versteigern, wird vor dem Fortfahren um Bestätigung bitten. Dies wird gemacht, um die Entscheidung eines Spielers zu gewährleisten.
 
 
   Viel Spaß beim Bieten!
@@ -232,14 +223,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Du kannst jemanden nur ermutigen, wenn du Leve
 ENCOURAGE_CHATMESSAGE_RECEIVED: Spieler {0} hat dich ermutigt.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Dieser Gegenstand kann nicht umgewandelt werden.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Der Gegenstand wurde erfolgreich umgewandelt {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_MODAL_OPTIONS_CHANGED: '#FEEN_MODAL_OPTIONEN_GEÄNDERT'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FEEN_RUFENACHRICHT_KANN_ÜBERLADEN_NICHT_VERBESSERN'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FEEN_RUFENACHRICHT_GOLDENES_WERKZEUG_VERWENDET'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FEEN_RUFENACHRICHT_HAMMER_VERWENDET'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FEEN_RUFSHOUT_NACHLADUNG_ZU_HOCH'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FEEN_RUFSHOUT_WIEDERHERSTELLUNGSSET_VERWENDET'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FEEN_RUFSHOUT_AUFSTUFUNG_FEHLGESCHLAGEN'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FEEN_RUFENACHRICHT_VERBESSERUNG_ERFOLGREICH'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Familien-Erfolg freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich eingeloggt!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Familien-Upgrade gekauft.
@@ -480,7 +471,7 @@ INVENTORY_DIALOG_ASK_SORT: Möchtest du deine Gegenstände sortieren? Es hat ein
 INVENTORY_DIALOG_ASK_TO_DELETE: Möchtest du diesen Gegenstand löschen?
 INVENTORY_DIALOG_SURE_TO_DELETE: Bist du sicher, dass du diesen Gegenstand löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden und der Gegenstand geht für immer verloren.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nicht genügend Gegenstände - {0} x{1}
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Ausrüstung mit Muscheloptionen kann nicht umgewandelt werden. Du solltest zuerst einen Magischen Radierer verwenden.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Ausrüstung mit Muschel-Optionen kann nicht umgewandelt werden. Du solltest zuerst einen Magischen Radierer verwenden.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Du kannst das nicht benutzen.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Du kannst diesen Gegenstand nicht benutzen, weil du bereits den {0} Buff hast.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Der {0} Effekt wurde aktiviert!
@@ -506,7 +497,7 @@ ITEM_INFO_PET_NAME_TOO_LONG: Der Name des NosMate ist zu lang!
 ITEM_MESSAGE_CANT_USE: Du kannst diesen Gegenstand nicht verwenden.
 ITEM_MESSAGE_CANT_WEAR: Du kannst diesen Gegenstand nicht tragen.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Dein Partner kann diesen Gegenstand nicht tragen.
-ITEM_MESSAGE_ERASER_NO_SHELL: Es gibt keine Muscheloptionen zum Löschen.
+ITEM_MESSAGE_ERASER_NO_SHELL: Es gibt keine Muschel-Optionen zum Entfernen.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Du kannst keine Spezialistenkarte mit einer toten Seele verbessern!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Du kannst keine zerstörte Spezialistenkarte tragen.
 ITEM_SHOUTMESSAGE_CHEST_EMPTY: Diese Truhe ist leer!
@@ -834,7 +825,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Aufgrund wiederholter AFK-Raids kannst du die n�
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Nur der Anführer des Raids kann den Raid starten.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist in keinem Raid-Team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Dieser Raid startet nicht hier.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} hat keinen Gegenstand {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Raid-Team beigetreten.'
 RAID_DIALOG_ASK_START_RAID: Möchtest du den {0} Raid starten?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich zu einem Raid-Team eingeladen. Annehmen?'
@@ -846,7 +837,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Raid-Bericht öffnen
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Schau dir die Team-Statistiken für {0} an.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid-Bericht fertig
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Einem Spieler fehlt das benötigte Siegel.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
@@ -867,8 +858,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Die Feinde bekommen Verstärkung!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} ist der neue Anführer des Raid-Teams.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Nicht genug Spieler, um den Raid zu starten.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Raid-Mitglied {0} ist gestorben.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Unmöglich, den aktuellen Raid-Typ zu wechseln.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid wurde zu {0} geändert
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Das Raid-Team ist voll.
 RAID_SHOUTMESSAGE_REGISTERED: Dein Raid wurde registriert.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele wurden erreicht!
@@ -927,19 +918,19 @@ RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunde
 SHEEP_GAME_EVENT_NAME: Schafspiel
 SHEEP_GAME_SHOUT_END_PREPARATION: Du wirst in {0} Sekunden zurückteleportiert
 SHEEP_GAME_SHOUT_START_PREPARATION: Das Spiel beginnt in {0} Sekunden.
-SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Hülle zu ersetzen, musst du zuerst Parfüm auf die Ausrüstung anwenden.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Um die Muschel zu ersetzen, musst du zuerst Parfüm auf die Ausrüstung verwenden.
 SHELLS_DIALOG_ADD_OPTIONS: Möchtest du dieser Gegenstand eine Option hinzufügen? Wenn du zustimmst, wird dieser Gegenstand nur an dich gebunden.
 SHELLS_DIALOG_REPLACE_OPTIONS: Die Optionen werden ersetzt und dieser Gegenstand wird nur an dich gebunden.
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Diese Hülle konnte nicht identifiziert werden.
-SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Optionen dieser Hülle sind bereits identifiziert.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Diese Muschel konnte nicht identifiziert werden.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Optionen dieser Muschel sind bereits identifiziert.
 SHELLS_SHOUTMESSAGE_ERASED: Die Option wurde gelöscht.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Du kannst diese Hülle nur bei Rüstungen verwenden.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Du kannst diese Hülle nur bei Waffen verwenden.
-SHELLS_SHOUTMESSAGE_IDENTIFIED: Hülle identifiziert!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Level der Hülle muss gleich oder niedriger als das Ausrüstungslevel sein.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Du kannst diese Muschel nur auf Rüstungen verwenden.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Du kannst diese Muschel nur auf Waffen verwenden.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Muschel identifiziert!
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Das Level der Muschel muss gleich oder niedriger als das Ausrüstungslevel sein.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Die Muschel muss identifiziert werden, bevor sie benutzt werden kann.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Hüllenoptionen wurden hinzugefügt.
-SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Hülle muss gleich oder niedriger als die der Ausrüstung sein.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Muschel-Optionen wurden hinzugefügt.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Die Seltenheit der Muschel muss gleich oder niedriger als die der Ausrüstung sein.
 SHIP_CHATMESSAGE_LEVEL_REQ: Du musst mindestens Level {0} sein, um dieses Schiff zu betreten.
 SHIP_SHOUTMESSAGE_COOLDOWN: Das Schiff ist noch nicht zurückgekehrt.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff legt in {0} Minuten ab.
@@ -1043,7 +1034,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Der Timespace ist im einfachen Modus. Die Dauer
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Das Tor ist verschlossen.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mein Level ist zu hoch, um diesen Timespace zu betreten.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mein Level ist zu niedrig, um diesen Timespace zu betreten.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#ZEITRAUM_CHATNACHRICHT_WELTBOSS_EVENT_ERFORDERLICH'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nicht alle Timespace-Missionen wurden abgeschlossen.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Nur der Gruppenanführer kann den Timespace starten.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% der Punkte wurden wegen des Levelabzugs reduziert.'
@@ -1126,7 +1117,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgel
 WEEKLY_ACHIEVEMENTS_REFRESHED: Wöchentlich wiederholbare Erfolge wurden zurückgesetzt.
 WINGS_SWAPPER_DELAY_SWAPPING: Du musst {0} warten, bevor du deine Flügel erneut wechseln kannst.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Du musst {0} warten, nachdem du eine Fähigkeit benutzt hast, um deine Flügel wechseln zu können.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
-WORLD_BOSS_EVENT_NAME: World Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WELTBOSS_CHATNACHRICHT_NICHT_GENUG_BEITRAG'
+WORLD_BOSS_EVENT_NAME: Weltboss-Event
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet

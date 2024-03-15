@@ -45,7 +45,7 @@ ALZANOR_SHOUTMESSAGE_DEFLECTOR: Alzanor prépare une puissante attaque de glace.
 AMMO_LOADED_ADVENTURER: Munitions chargées !
 AMMO_LOADED_ARCHER: Flèche chargée !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
-ARENA_CHATMESSAGE_PVP_ACTIVE: Le mode JcJ est actif.
+ARENA_CHATMESSAGE_PVP_ACTIVE: Le mode PvP est actif.
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle ? Ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été tué par {1}.'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Tu ne peux pas porter deux artefacts du même type.
@@ -135,34 +135,22 @@ BID_INFO_UNEXPECTED_ERROR: Le Système d'Enchères a rencontré une erreur inatt
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} pièces d'or ont été récupérées de l'objet mis aux enchères et envoyées à votre compte bancaire."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'objet mis aux enchères a été récupéré avec succès.
 BID_MODAL_DISCLAIMER: >-
-  Avant d'utiliser le Système d'Enchères, veuillez lire et comprendre cet avertissement.
+  Avant d'utiliser le Système d'Enchères, veuillez vous assurer de lire et comprendre cet avertissement.
 
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
 
+  	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
+
+  	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
 
 
-
-
-  	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà fait une offre.
-
-
-
-
-
-  	- Se rétracter d'une offre faite sur un objet mis aux enchères.
-
-
-
-
-
-
-  Le bouton pour enchérir sur un objet ne vous demandera pas de confirmation, cela pour garantir une réponse rapide pour les enchères rapides, alors soyez prudent.
+  Le bouton pour enchérir sur un objet ne demandera pas de confirmation, ceci pour garantir une réponse optimale pour les enchères rapides, alors soyez prudent.
 
 
   Le bouton pour mettre un objet aux enchères vous demandera une confirmation avant de procéder. Cela est fait pour assurer la décision d'un joueur.
 
 
-  Bonnes Enchères !
+  Bonnes enchères !
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Ouvrir une enchère
 BID_NOTIFMESSAGE_BOUGHT_ITEM: Vous avez remporté l'enchère.
 BID_NOTIFMESSAGE_EXPIRED_ITEM: L'enchère s'est terminée sans aucun enchérisseur.
@@ -236,13 +224,13 @@ ENCOURAGE_CHATMESSAGE_RECEIVED: Le joueur {0} t'a encouragé.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Cet objet ne peut pas être converti.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'objet a été converti avec succès {0}.
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Impossible d''améliorer, surcharge dépassée'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Outil doré utilisé.'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Marteau utilisé.'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Surcharge dépassée.'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Kit de restauration utilisé.'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Échec de l''amélioration.'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Amélioration réussie.'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Succès familial débloqué : {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté !"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Amélioration de la famille achetée.
@@ -386,14 +374,14 @@ ICEBREAKER_NAME: Brise-Glace
 ICEBREAKER_SHOUTMESSAGE_CANT_UNFREEZE_KILL: Tu ne peux pas dégeler la personne que tu as tuée.
 ICEBREAKER_SHOUTMESSAGE_END: L'Ice Breaker est terminé.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: L'Ice Breaker se terminera dans {0}:{1}.
-ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Le Brise-Glace se terminera dans {0}:{1}.
+ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: Le PvP sera activé dans {0} secondes.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: Fin des inscriptions à l'Ice Breaker dans {0} secondes.
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: "Tu n'as pas assez d'or pour participer à l'Ice Breaker (nécessaire : {0} pièces d'or)"
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Il n'y a pas assez de joueurs pour commencer l'Ice Breaker.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Tu dois être sur une Carte de Base pour participer à l'Ice Breaker.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: Le joueur '{0}' a été gelé.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_UNFROZEN: Le joueur '{0}' a été dégelé.
-ICEBREAKER_SHOUTMESSAGE_STARTED: Le JcJ a été activé.
+ICEBREAKER_SHOUTMESSAGE_STARTED: Le PvP est maintenant activé.
 ICEBREAKER_SHOUTMESSAGE_WIN: Ton équipe a gagné l'Ice Breaker.
 INFORMATION_CHANNEL: Canal
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Tu peux pas utiliser ça maintenant.
@@ -483,7 +471,7 @@ INVENTORY_DIALOG_ASK_SORT: Tu veux trier tes objets ? Il y a une minute de déla
 INVENTORY_DIALOG_ASK_TO_DELETE: Tu veux supprimer cet objet ?
 INVENTORY_DIALOG_SURE_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ? Cette action est irréversible et l'objet sera perdu à jamais.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Pas assez d'objets - {0} x{1}
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'équipement avec des options de coquille ne peut pas être converti. Tu devrais utiliser une Gomme Magique d'abord.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: L'équipement avec des options de rune ne peut pas être converti. Vous devriez utiliser une Gomme Magique d'abord.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tu ne peux pas utiliser ça.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Tu ne peux pas utiliser cet objet, car tu as déjà le buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: L'effet {0} a été activé !
@@ -509,7 +497,7 @@ ITEM_INFO_PET_NAME_TOO_LONG: Le nom du NosMate est trop long !
 ITEM_MESSAGE_CANT_USE: Tu ne peux pas utiliser cet objet.
 ITEM_MESSAGE_CANT_WEAR: Tu ne peux pas porter cet objet.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Ton partenaire ne peut pas porter cet objet.
-ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas d'options de coquille à effacer.
+ITEM_MESSAGE_ERASER_NO_SHELL: Il n'y a pas d'options de rune à effacer.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Tu ne peux pas améliorer la Carte de Spécialiste avec une âme morte !
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Tu ne peux pas porter une Carte Spécialiste détruite.
 ITEM_SHOUTMESSAGE_CHEST_EMPTY: Ce coffre est vide !
@@ -706,7 +694,7 @@ PERFECTSP_CRIT_DEFENSE: Réduction des Dégâts Critiques
 PERFECTSP_DEFENSE: Défense
 PERFECTSP_ELEMENT: Élément
 PERFECTSP_FIRE: Résistance au Feu
-PERFECTSP_HPMP: PV/PM
+PERFECTSP_HPMP: HP/MP
 PERFECTSP_LIGHT: Résistance Lumière
 PERFECTSP_MESSAGE_FAILURE: Perfection SP échouée !
 PERFECTSP_MESSAGE_SUCCESS: 'Perfection réussie : {0} +{1}'
@@ -837,7 +825,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: À cause de raids AFK répétés, tu ne peux pas
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Seul le chef de raid peut lancer le raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu ne fais partie d'aucune équipe de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne commence pas ici.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player : {0} n'a pas l'objet {1}"
 RAID_CHATMESSAGE_X_JOINED: "{0} a rejoint l'équipe de raid."
 RAID_DIALOG_ASK_START_RAID: Veux-tu lancer le raid {0} ?
 RAID_DIALOG_INVITED_YOU: "{0} t'a invité à rejoindre une équipe de raid. Acceptes-tu ?"
@@ -849,7 +837,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Ouvrir le Rapport de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Regarde les stats de ton équipe pour {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Rapport de Raid Prêt
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Il manque le sceau nécessaire au Player.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tous les joueurs sont gelés.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Cet objet a déjà été déplacé.
@@ -870,8 +858,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Les ennemis reçoivent des renforts !
 RAID_SHOUTMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe de raid."
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Pas assez de joueurs pour commencer le raid.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Le membre du raid {0} est mort.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible de changer le type de Raid actuel.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Le Raid a été changé en {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: L'équipe de raid est complète.
 RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été enregistré.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Toutes les cibles ont été complétées !
@@ -930,19 +918,19 @@ RUNE_SHOUTMESSAGE_NEED_PERFUME: Cette arme est liée à un autre joueur. Tu ne p
 SHEEP_GAME_EVENT_NAME: Jeu de Moutons
 SHEEP_GAME_SHOUT_END_PREPARATION: Tu seras téléporté(e) dans {0} secondes
 SHEEP_GAME_SHOUT_START_PREPARATION: Le jeu commencera dans {0} secondes.
-SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Pour remplacer la coquille, tu dois d'abord utiliser du parfum sur l'équipement.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Pour remplacer la Rune, tu dois d'abord utiliser du parfum sur l'équipement.
 SHELLS_DIALOG_ADD_OPTIONS: Veux-tu ajouter une option à cet objet ? Si tu acceptes, cet objet sera lié uniquement à toi.
 SHELLS_DIALOG_REPLACE_OPTIONS: Les options seront remplacées et cet objet sera lié uniquement à toi.
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Cette coquille n'a pas pu être identifiée.
-SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Les options de cette coquille sont déjà identifiées.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Cette Rune n'a pas pu être identifiée.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Les options de cette Rune sont déjà identifiées.
 SHELLS_SHOUTMESSAGE_ERASED: L'option a été effacée.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tu peux seulement utiliser cette coquille sur des armures.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Tu peux seulement utiliser cette coquille sur des armes.
-SHELLS_SHOUTMESSAGE_IDENTIFIED: Coquille identifiée !
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de la coquille doit être le même ou inférieur au niveau de l'équipement.
-SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La coquille doit être identifiée avant utilisation.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Des options de coquille ont été ajoutées.
-SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rareté de la coquille doit être la même ou inférieure à la rareté de l'équipement.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tu peux seulement utiliser cette Rune sur des armures.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Vous ne pouvez utiliser cette rune que sur des armes.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Rune identifiée !
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de la rune doit être le même ou inférieur au niveau de l'équipement.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La rune doit être identifiée avant utilisation.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Des options de rune ont été ajoutées.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rareté de la rune doit être la même ou inférieure à la rareté de l'équipement.
 SHIP_CHATMESSAGE_LEVEL_REQ: Vous devez être au moins niveau {0} pour embarquer sur ce navire.
 SHIP_SHOUTMESSAGE_COOLDOWN: Le vaisseau n'est pas encore revenu.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Le navire embarquera dans {0} minutes.
@@ -1046,7 +1034,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: L'Espace-Temps est en mode facile. La durée a 
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: La porte est verrouillée.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mon niveau est trop élevé pour rejoindre cet Espace-Temps.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mon niveau est trop bas pour rejoindre cet Espace-Temps.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: 'Il faut un événement de boss mondial pour ça.'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Toutes les missions de l'Espace-Temps n'ont pas été complétées.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Seul le chef de groupe peut démarrer l'Espace-Temps.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% de points réduits à cause de la pénalité de niveau.'
@@ -1129,7 +1117,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de 
 WEEKLY_ACHIEVEMENTS_REFRESHED: Les succès hebdomadaires répétables ont été actualisés.
 WINGS_SWAPPER_DELAY_SWAPPING: Tu dois attendre {0} entre les échanges pour changer tes ailes à nouveau.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Tu dois attendre {0} après avoir utilisé une compétence pour pouvoir échanger tes ailes.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
-WORLD_BOSS_EVENT_NAME: World Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Pas assez de contribution pour le boss mondial.'
+WORLD_BOSS_EVENT_NAME: Événement Boss Mondial
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portail temporaire s'est ouvert à {0}

@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: ¡{0} ha derrotado al Señor Mukraju!
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} no pudo derrotar al Señor Mukraju a tiempo.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: ¡{0} ha invocado al Señor Mukraju!
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Necesitas estar en una familia para construir un campamento.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Estás demasiado cerca de un portal.
 ACT5_CHATMESSAGE_NO_RECIPE: No se encontró receta para este tipo de intercambio.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Has sido envuelto en el calor de la Espada Ardiente.
 ACT5_MESSAGE_RETURN_DISABLED: No puedes volver al punto de retorno.
@@ -135,22 +135,13 @@ BID_INFO_UNEXPECTED_ERROR: El Sistema de Pujas ha encontrado un error inesperado
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Se han recuperado {0} oro del artículo subastado y enviado a tu cuenta bancaria.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: El artículo subastado ha sido recuperado con éxito.
 BID_MODAL_DISCLAIMER: >-
-  Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso legal.
+  Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.
 
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
-
-
-
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
-
-
-
   	- Retirarte de una puja hecha a un artículo subastado.
-
-
-
 
 
   El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea de primera para subastas rápidas, así que por favor ten cuidado.
@@ -232,14 +223,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Solo puedes animar a alguien si has alcanzado 
 ENCOURAGE_CHATMESSAGE_RECEIVED: El jugador {0} te ha animado.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Este artículo no se puede convertir.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: El objeto fue convertido exitosamente {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_MODAL_OPTIONS_CHANGED: '#OPCIONES_DE_HADA_CAMBIADAS'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#HADA_MENSAJEGRITO_NO_SE_PUEDE_MEJORAR_SOBRECARGADA'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#HADA_MENSAJEGRITO_HERRAMIENTA_DORADA_USADA'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: '#HADA_MENSAJEGRITO_MARTILLO_USADO'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: '#HADA_MENSAJEGRITO_SOBRECARGADA'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#HADA_MENSAJEGRITO_CONJUNTO_DE_RESTAURACION_USADO'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#HADA_MENSAJEGRITO_MEJORA_FALLIDA'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#HADA_MENSAJEGRITO_MEJORA_EXITOSA'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: ¡{0}({1}) ha iniciado sesión!
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada.
@@ -296,7 +287,7 @@ FAMILYARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena familiar? Te costará {0
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Abrir el Informe
 FARMING_REPORT_NOTIFY_DESC: Revisa tu informe de agricultura.
 FARMING_REPORT_NOTIFY_TITLE: Informe de Agricultura
-FERNON_NOTIFY_RAID_STARTED: La incursión de Fernon ha comenzado.
+FERNON_NOTIFY_RAID_STARTED: El raid de Fernon ha comenzado.
 FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tu Enciclopedia de Peces está completa.
 FISHING_MSG_ONLY_ON_FISHING: Esto solo está disponible cuando lanzas tu caña de pescar.
@@ -480,7 +471,7 @@ INVENTORY_DIALOG_ASK_SORT: ¿Quieres ordenar tus artículos? Tiene un minuto de 
 INVENTORY_DIALOG_ASK_TO_DELETE: ¿Quieres eliminar este artículo?
 INVENTORY_DIALOG_SURE_TO_DELETE: ¿Estás seguro de que quieres eliminar este objeto? Esta acción no se puede deshacer y el objeto se perderá para siempre.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: No hay suficientes objetos - {0} x{1}
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: El equipo con opciones de carcasa no se puede convertir. Deberías usar primero un Borrador Mágico.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: El equipo con opciones de concha no se puede convertir. Deberías usar un Borrador Mágico primero.
 ITEM_CHATMESSAGE_CANT_USE_THAT: No puedes usar esto.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: No puedes usar este objeto, porque ya tienes el beneficio de {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: ¡El efecto de {0} ha sido activado!
@@ -816,66 +807,66 @@ QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: Necesitas tener una misión principal para
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tienes algunas misiones incompletas.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Tu nivel es demasiado bajo para esta misión.
 QUEST_SHOUTMESSAGE_SLOT_FULL: No puedes aceptar más misiones.
-RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} está buscando miembros para la incursión {1}.'
-RAID_CHATMESSAGE_AMULET_NEEDED: Necesitas {0} para unirte a esta incursión.
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0} está buscando miembros para el Raid de {1}.'
+RAID_CHATMESSAGE_AMULET_NEEDED: Necesitas {0} para unirte a este Raid.
 RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: ¡Tuviste suerte y recibiste una segunda caja!
-RAID_CHATMESSAGE_GROUP_REQUEST: '{0} fue invitado al equipo de la incursión.'
-RAID_CHATMESSAGE_KICKED: Fuiste expulsado del equipo de la incursión.
-RAID_CHATMESSAGE_KICKED_OTHER: '{0} fue expulsado del equipo de la incursión.'
-RAID_CHATMESSAGE_LEFT: '{0} dejó el equipo de la incursión.'
-RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Como el nivel recomendado de la incursión no corresponde a tu nivel, no se puede otorgar una caja de incursión incluso si se completa la tarea de la incursión.
-RAID_CHATMESSAGE_LIMIT_LEFT: Hoy puedes participar en la incursión {0} {1} veces.
-RAID_CHATMESSAGE_LIMIT_REACHED: Se alcanzó el número máximo de entradas en la incursión {0}.
-RAID_CHATMESSAGE_LOW_LEVEL: Debes ser al menos nivel {0} para unirte a la incursión.
-RAID_CHATMESSAGE_NEW_LEADER: '{0} es el nuevo líder del equipo de la incursión.'
-RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: La incursión no existe o ya ha comenzado.
-RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: La incursión se completó en {0}.
+RAID_CHATMESSAGE_GROUP_REQUEST: '{0} fue invitado al equipo de raid.'
+RAID_CHATMESSAGE_KICKED: Fuiste expulsado del equipo de raid.
+RAID_CHATMESSAGE_KICKED_OTHER: '{0} fue expulsado del equipo de raid.'
+RAID_CHATMESSAGE_LEFT: '{0} dejó el equipo de raid.'
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Como el nivel recomendado del Raid no corresponde a tu nivel, no se puede otorgar una caja de Raid incluso si se completa la tarea del Raid.
+RAID_CHATMESSAGE_LIMIT_LEFT: Puedes participar en el raid de {0} {1} veces hoy.
+RAID_CHATMESSAGE_LIMIT_REACHED: Se alcanzó el número máximo de entradas en el raid de {0}.
+RAID_CHATMESSAGE_LOW_LEVEL: Debes ser al menos nivel {0} para unirte al raid.
+RAID_CHATMESSAGE_NEW_LEADER: '{0} es el nuevo líder del equipo de raid.'
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: El Raid no existe o ya ha comenzado.
+RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: El Raid se completó en {0}.
 RAID_CHATMESSAGE_REWARD_BANNED: Debido a incursiones AFK repetidas, no puedes recibir recompensas durante la próxima hora.
-RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo el líder de la incursión puede iniciarla.
-RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de incursión.
-RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Esta incursión no comienza aquí.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
-RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de la incursión.'
-RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar la incursión de {0}?
-RAID_DIALOG_INVITED_YOU: '{0} te invitó a un equipo de incursión. ¿Aceptas?'
-RAID_INFO_NO_EXIST: ¡La incursión no existe!
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo el líder del raid puede iniciar el raid.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de raid.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este Raid no comienza aquí.
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} no tiene el ítem {1}"
+RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de raid.'
+RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar el raid de {0}?
+RAID_DIALOG_INVITED_YOU: '{0} te invitó a un equipo de raid. ¿Aceptar?'
+RAID_INFO_NO_EXIST: ¡El Raid no existe!
 RAID_INFO_NO_LIVES_LEFT: Has gastado todas tus vidas.
 RAID_INFO_PLAYER_DEATH: ¡Estás muerto! Revivirás en 20 segundos.
-RAID_MESSAGE_DISOLVED: El equipo de la incursión se disolvió.
-RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Abrir Informe de Incursión
+RAID_MESSAGE_DISOLVED: El equipo de raid fue disuelto.
+RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Abrir Informe de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Revisa las estadísticas de tu equipo para {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: Informe de Incursión Listo
+RAID_NOTIFMESSAGE_REPORT_TITLE: Informe de Raid listo
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A un jugador le falta el sello necesario.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Todos los jugadores están congelados.
-RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de incursión.
+RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Este objeto ya ha sido movido.
-RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear una incursión mientras estás en un grupo.
-RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros del grupo a un equipo de incursión.
-RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: No puedes unirte a una incursión mientras estás en la arena.
-RAID_SHOUTMESSAGE_COMPLETED: ¡El equipo del jugador {0} ha completado {1} incursión!
-RAID_SHOUTMESSAGE_FERNON_1_MINUTE: ¡La incursión de Fernon cerrará en 1 minuto!
-RAID_SHOUTMESSAGE_FERNON_5_MINUTES: ¡La incursión de Fernon cerrará en 5 minutos!
+RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un raid mientras estás en un grupo.
+RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros del grupo a un equipo de raid.
+RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: No puedes unirte a un Raid mientras estás en la arena.
+RAID_SHOUTMESSAGE_COMPLETED: ¡El equipo del jugador {0} ha completado el raid de {1}!
+RAID_SHOUTMESSAGE_FERNON_1_MINUTE: ¡El raid de Fernon cerrará en 1 minuto!
+RAID_SHOUTMESSAGE_FERNON_5_MINUTES: ¡El raid de Fernon cerrará en 5 minutos!
 RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: ¡La entrada a Fernon se abrirá en Cylloan en {0} minutos!
 RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: '#RAID_SHOUTMESSAGE_GLACERUS_TEMPEST'
-RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de incursión si estás en un grupo.
-RAID_SHOUTMESSAGE_KICKED: Has sido expulsado del equipo de incursión.
-RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} fue expulsado del equipo de incursión.'
+RAID_SHOUTMESSAGE_IN_GROUP: No puedes unirte a un equipo de raid mientras estás en un grupo.
+RAID_SHOUTMESSAGE_KICKED: Fuiste expulsado del equipo de raid.
+RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} fue expulsado del equipo de raid.'
 RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: Estás demasiado lejos para quitar la maldición.
-RAID_SHOUTMESSAGE_LEFT: '{0} ha dejado el equipo de incursión'
+RAID_SHOUTMESSAGE_LEFT: '{0} dejó el equipo de raid'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: ¡Los enemigos están recibiendo refuerzos!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0} es el nuevo líder del equipo de incursión.'
-RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficientes jugadores para comenzar la incursión.
-RAID_SHOUTMESSAGE_PLAYER_DEATH: El miembro de la incursión {0} ha muerto.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: El equipo de incursión está completo.
-RAID_SHOUTMESSAGE_REGISTERED: Tu incursión ha sido registrada.
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0} es el nuevo líder del equipo de raid.'
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficientes jugadores para iniciar el raid.
+RAID_SHOUTMESSAGE_PLAYER_DEATH: El miembro del raid {0} ha muerto.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Imposible cambiar el tipo de Raid actual.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: El raid ha cambiado a {0}
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: El equipo de raid está completo.
+RAID_SHOUTMESSAGE_REGISTERED: Tu raid ha sido registrado.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: ¡Todos los objetivos han sido completados!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Objetivos actualizados.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Se ha eliminado el Arbusto Espinoso.
-RAID_SHOUTMESSAGE_UNREGISTERED: Tu equipo de incursión ya no está registrado.
-RAID_SHOUTMESSAGE_X_JOINED: '{0} se unió al equipo de la incursión.'
+RAID_SHOUTMESSAGE_UNREGISTERED: Tu equipo de raid ya no está registrado.
+RAID_SHOUTMESSAGE_X_JOINED: '{0} se ha unido al equipo de raid.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: El equipo azul se ha rendido.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} se ha desconectado.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Este cristal ya está capturado por tu equipo.
@@ -927,19 +918,19 @@ RUNE_SHOUTMESSAGE_NEED_PERFUME: Esta arma está vinculada a otro jugador. Solo p
 SHEEP_GAME_EVENT_NAME: Juego de Ovejas
 SHEEP_GAME_SHOUT_END_PREPARATION: Serás teletransportado de vuelta en {0} segundos
 SHEEP_GAME_SHOUT_START_PREPARATION: El juego comenzará en {0} segundos.
-SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Para reemplazar la carcasa primero necesitas usar perfume en el equipo.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Para reemplazar la concha necesitas usar perfume en el equipo primero.
 SHELLS_DIALOG_ADD_OPTIONS: ¿Quieres añadir una opción a este objeto? Si aceptas, este objeto quedará vinculado solo a ti.
 SHELLS_DIALOG_REPLACE_OPTIONS: Las opciones serán reemplazadas y este objeto quedará vinculado solo a ti.
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Esta carcasa no pudo ser identificada.
-SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Las opciones de esta carcasa ya están identificadas.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Esta concha no pudo ser identificada.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Las opciones de esta concha ya están identificadas.
 SHELLS_SHOUTMESSAGE_ERASED: La opción ha sido borrada.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Solo puedes usar esta carcasa en armaduras.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Solo puedes usar esta carcasa en armas.
-SHELLS_SHOUTMESSAGE_IDENTIFIED: ¡Carcasa identificada!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la carcasa debe ser igual o inferior al nivel del equipo.
-SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La carcasa debe ser identificada antes de usar.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Las opciones de la carcasa han sido añadidas.
-SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rareza de la carcasa debe ser igual o inferior a la rareza del equipo.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Solo puedes usar esta concha en armaduras.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Solo puedes usar esta concha en armas.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: ¡Concha identificada!
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: El nivel de la concha debe ser igual o inferior al nivel del equipo.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: La concha debe ser identificada antes de usarla.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Se han añadido opciones a la concha.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: La rareza de la concha debe ser igual o menor que la rareza del equipo.
 SHIP_CHATMESSAGE_LEVEL_REQ: Necesitas al menos nivel {0} para abordar este barco.
 SHIP_SHOUTMESSAGE_COOLDOWN: El barco aún no ha regresado.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: El barco zarpará en {0} minutos.
@@ -951,7 +942,7 @@ SHOP_INFO_ALREADY_OPEN: Ya tienes una tienda abierta.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Necesitas desactivar la opción "Venta Segura de Equipamiento" para vender este artículo.
 SHOP_INFO_NEAR_PORTAL: No puedes crear una tienda tan cerca del portal.
 SHOP_INFO_NOT_ALLOWED: No puedes abrir tiendas en mapas generales.
-SHOP_INFO_NOT_ALLOWED_IN_RAID: No puedes abrir una tienda durante una incursión.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: No puedes abrir una tienda durante un raid.
 SHOP_INFO_OPEN: La tienda ha sido abierta.
 SHOP_INFO_TARGET_MAX_GOLD: El jugador ha alcanzado la cantidad máxima de oro.
 SHOP_LOG_SELL_ITEM_VALID: Transacción exitosa
@@ -967,7 +958,7 @@ SKILL_SHOUTMESSAGE_CANT_USE: No puedes usar esa habilidad en este mapa.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Tu dignidad es demasiado baja para capturar este monstruo.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: ¡Captura fallida!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: ¡No puedes capturar a este monstruo!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: ¡No puedes capturar a este monstruo durante la Incursión!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: ¡No puedes capturar a este monstruo durante el Raid!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: ¡Has capturado a {0} con éxito!
 SKILL_SHOUTMESSAGE_LEARNED: ¡Aprendiste una nueva habilidad!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: El nivel del monstruo debe ser menor que el tuyo.
@@ -1039,37 +1030,37 @@ TATTOO_UPGRADE_FAIL: La mejora del tatuaje falló.
 TATTOO_UPGRADE_SUCCESS: La mejora del tatuaje tuvo éxito.
 TATTOO_UPGRADE_SUCCESS_PITY: '[Sistema de Compasión] ¡Mejora de tatuaje exitosa!'
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Tienes que esperar después del ataque.
-TIMESPACE_CHATMESSAGE_EASY_MODE: El Espacio-Tiempo está en modo fácil. La duración se ha extendido y no recibirás las recompensas seleccionadas.
+TIMESPACE_CHATMESSAGE_EASY_MODE: El Time-Space está en modo fácil. La duración se ha extendido y no recibirás recompensas seleccionadas.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: La puerta está cerrada.
-TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mi nivel es demasiado alto para unirme a este Espacio-Tiempo.
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mi nivel es demasiado bajo para unirme a este Espacio-Tiempo.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Mi nivel es demasiado alto para unirme a este Time-Space.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Mi nivel es demasiado bajo para unirme a este Time-Space.
 TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
-TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: No se han completado todas las misiones del Espacio-Tiempo.
-TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo el líder del grupo puede iniciar el Espacio-Tiempo.
+TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: No se han completado todas las misiones del Time-Space.
+TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo el líder del grupo puede iniciar el Time-Space.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Se redujo el {0}% de los puntos debido a la penalización por nivel.
-TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: ¿Quieres unirte al Espacio-Tiempo de un miembro del grupo?
+TIMESPACE_DIALOG_ASK_JOIN_TO_PLAYER: ¿Quieres unirte al Time-Space de un miembro del grupo?
 TIMESPACE_DIALOG_ASK_REVIVAL: ¿Quieres resucitarte?
 TIMESPACE_DIALOG_ASK_START: ¿Quieres entrar a la primera sala?
-TIMESPACE_DIALOG_ASK_START_RECORD: ¿Quieres iniciar un Tiempo-Espacio en modo grabación? Te costará {0} oro.
-TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: El Tiempo-Espacio ya ha comenzado.
-TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: No puedes estar en grupo para este Tiempo-Espacio.
-TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: No puedes crear un portal de Tiempo-Espacio cerca de otro portal.
+TIMESPACE_DIALOG_ASK_START_RECORD: ¿Quieres iniciar un Time-Space en modo récord? Costará {0} de oro.
+TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: El Time-Space ya ha comenzado.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: No puedes estar en grupo para este Time-Space
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: No puedes crear un portal de Time-Space cerca de otro portal.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Se ha abierto una puerta.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Se ha abierto una puerta en algún lugar.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Los enemigos están recibiendo refuerzos.
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: La palanca ha sido accionada.
 TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Uno de los miembros del grupo no está en el mapa general.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: La misión ha sido actualizada.
-TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Necesitas tener un grupo para este Espacio-Tiempo.
-TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficientes miembros en el grupo para iniciar el Tiempo-Espacio.
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: No eres el dueño de este Tiempo-Espacio.
+TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Necesitas tener un grupo para este Time-Space.
+TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficientes miembros del grupo para iniciar el Time-Space.
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: No eres el dueño de este Time-Space.
 TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Uno de los miembros no está en el mismo mapa que tú.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Has completado exitosamente la Misión Rápida.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: La misión comienza en cuanto entres a la primera sala.
-TIMESPACE_SHOUTMESSAGE_TS_FULL: El Tiempo-Espacio está lleno.
+TIMESPACE_SHOUTMESSAGE_TS_FULL: El Time-Space está lleno.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Por favor, espera.
-TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Acto inválido para este Espacio-Tiempo.
-TIMESPACE_SHOUTMESSAGE_WRONG_MAP: No puedes crear Espacio-Tiempo en este mapa.
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Acto inválido para este Time-Space.
+TIMESPACE_SHOUTMESSAGE_WRONG_MAP: No puedes crear Time-Space en este mapa.
 TITLE_DIALOG_ASK_ADD: ¿Quieres añadir este título?
 TITLE_INFO_EFFECT_DISABLED: El efecto del título ha sido desactivado.
 TITLE_INFO_EFFECT_ENABLED: El efecto del título ha sido activado.
@@ -1086,8 +1077,8 @@ TRADE_INFO_WAITING_FOR_TARGET: Esperando a {0}...
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Este jugador ya está intercambiando.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: No puedes intercambiar con los tenderos.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: El artículo no se puede intercambiar.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: No puedes intercambiar en una incursión.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes comerciar con un miembro de la incursión.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: No puedes comerciar en un Raid.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: No puedes comerciar con un miembro del Raid.
 TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: Este trofeo ya está en el nivel máximo.
 TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: Este artículo no es un trofeo.
 TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: La mejora del trofeo ha fallado.
@@ -1127,6 +1118,6 @@ WEEKLY_ACHIEVEMENTS_REFRESHED: Se han actualizado los logros semanales repetible
 WINGS_SWAPPER_DELAY_SWAPPING: Necesitas esperar {0} entre cambios para cambiar tus alas de nuevo.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Necesitas esperar {0} después de usar una habilidad para poder cambiar tus alas.
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
-WORLD_BOSS_EVENT_NAME: World Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_EVENT_NAME: Evento de Jefe Mundial
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '¡{0} ha aparecido en {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
