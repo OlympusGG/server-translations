@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: "{0}, Lord Mukraju'yu yendi!"
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: "{0}, zamanında Lord Mukraju'yu yenemedi."
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0}, Lord Mukraju'yu çağırdı!"
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Kamp kurmak için bir ailede olman gerekiyor.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Bir portala çok yakınsın.
 ACT5_CHATMESSAGE_NO_RECIPE: Bu tür değişim için bir tarif bulunamadı.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Yanan Kılıcın sıcağında kapsuldun.
 ACT5_MESSAGE_RETURN_DISABLED: Dönüş noktasına geri gidemezsin.
@@ -139,9 +139,12 @@ BID_MODAL_DISCLAIMER: >-
 
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, şu durumlarda yapamayacaksınız:
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
 
+
   	- Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
+
 
 
   Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
@@ -223,14 +226,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Birini cesaretlendirebilmek için {0} seviyeye
 ENCOURAGE_CHATMESSAGE_RECEIVED: Oyuncu {0} seni cesaretlendirdi.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Bu eşya dönüştürülemez.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Eşya başarıyla dönüştürüldü {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_MODAL_OPTIONS_CHANGED: 'Peri ayarları değiştirildi.'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Aşırı şarjlı peri yükseltilmez.'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Altın alet kullanıldı.'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Çekiç kullanıldı.'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Peri aşırı şarj oldu.'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Restorasyon seti kullanıldı.'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Yükseltme başarısız oldu.'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Yükseltme başarılı oldu.'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarımı açıldı: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile yükseltmesi satın alındı.
@@ -825,7 +828,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Tekrarlanan AFK baskınları yüzünden, bir son
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece baskın lideri baskını başlatabilir.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir baskın takımının parçası değilsin.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu baskın burada başlamıyor.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} {1} itemine sahip değil."
 RAID_CHATMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} baskınını başlatmak ister misin?'
 RAID_DIALOG_INVITED_YOU: '{0} seni bir baskın takımına davet etti. Kabul ediyor musun?'
@@ -837,7 +840,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Akın Raporunu Aç
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: '{0} için takım istatistiklerine göz at.'
 RAID_NOTIFMESSAGE_REPORT_TITLE: Akın Raporu Hazır
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Bir oyuncunun gerekli mührü eksik.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten başka bir akın takımındasın.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Bu nesne zaten hareket ettirildi.
@@ -858,8 +861,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Düşmanlar takviye alıyor!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0}, yeni baskın takım lideri oldu.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Baskını başlatmak için yeterli oyuncu yok.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Baskın üyesi {0} öldü.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Mevcut Baskın Türü değiştirilemez.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Baskın {0} olarak değiştirildi.
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Baskın takımı dolu.
 RAID_SHOUTMESSAGE_REGISTERED: Baskınınız kaydedildi.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
@@ -1034,7 +1037,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Süre uzatıldı ve se�
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok yüksek.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok düşük.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: '#TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: 'Dünya Boss etkinliği için daha fazla güce ihtiyacın var.'
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Sadece grup lideri Uzay-Zaman'ı başlatabilir.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Seviye cezası nedeniyle puanların %{0} kadarı azaltıldı.
@@ -1117,7 +1120,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenme teklifini reddetti.
 WEEKLY_ACHIEVEMENTS_REFRESHED: Haftalık tekrarlanabilir başarılar yenilendi.
 WINGS_SWAPPER_DELAY_SWAPPING: Kanatlarını tekrar değiştirebilmek için {0} beklemen gerekiyor.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Bir yetenek kullandıktan sonra kanatlarını değiştirebilmek için {0} beklemen gerekiyor.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
-WORLD_BOSS_EVENT_NAME: World Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Dünya Boss etkinliğinde yeterli katkın yok.'
+WORLD_BOSS_EVENT_NAME: Dünya Boss Etkinliği
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'

@@ -35,7 +35,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_DEATH: '{0} pokonał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_MUKRAJU_DESPAWNED: '{0} nie pokonał Lorda Mukraju na czas.'
 ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: '{0} przywołał Lorda Mukraju!'
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Musisz być w rodzinie, żeby zbudować obóz.
-ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: You are too close to a portal.
+ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Jesteś zbyt blisko portalu.
 ACT5_CHATMESSAGE_NO_RECIPE: Nie znaleziono przepisu na tego typu wymianę.
 ACT5_MESSAGE_HEAT_BURNING_SWORD: Zostałeś otoczony żarem Płonącego Miecza.
 ACT5_MESSAGE_RETURN_DISABLED: Nie możesz wrócić do punktu powrotu.
@@ -56,7 +56,7 @@ ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nie otrzymałeś żadnych nagród z
 ASGOBAS_EVENT_NAME: Błyskawiczna Bitwa Asgobasa
 ASGOBAS_INFO_PLAYER_DEATH: Zostaniesz wskrzeszony za 20 sekund. Następnie będziesz mógł kontynuować walkę przeciwko Asgobasowi.
 ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas wzlatuje wyżej, aby się zregenerować.
-ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: Ranny Asgobas się wycofuje.
+ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: Zraniony Asgobas się wycofuje.
 ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Błyskawiczna Bitwa Asgobasa rozpocznie się na kanale {0} za 5 minut.
 ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas się zbliża.
 ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Asgobas zaraz zaatakuje.
@@ -113,9 +113,9 @@ BAZAAR_NOTIFY_TITLE: Bazar
 BAZAAR_QNA_CHANGE_PRICE_FEE: Chcesz zmienić cenę przedmiotu? Będzie to kosztować {0} złota.
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Przedmiot dodany do NosBaazaru.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Cena przedmiotu została pomyślnie zmieniona.
-BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[OSTRZEŻENIE] Podczas korzystania z Bazar możesz zostać zaatakowany przez potwory.'
+BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[OSTRZEŻENIE] Podczas korzystania z Bazaru możesz zostać zaatakowany przez potwory.'
 BELIAL_QNA_ENTER: Chcesz wejść do Wieży Nieba?
-BETTING_DIALOG_ASK_CONFIRMATION: Czy chcesz kontynuować zakład?
+BETTING_DIALOG_ASK_CONFIRMATION: Czy chcesz kontynuować hazardowanie?
 BID_DIALOG_AUCTIONLIST_FEE_WARNING: Wystawienie tego przedmiotu na aukcji będzie kosztować {0} złota. Czy chcesz kontynuować?
 BID_INFO_AUCTION_ALREADY_ENDED: Ta aukcja już się zakończyła.
 BID_INFO_AUCTION_BID_TOO_LOW: Twoja oferta jest za niska, spróbuj wyższej kwoty.
@@ -135,34 +135,24 @@ BID_INFO_UNEXPECTED_ERROR: W systemie licytacji wystąpił nieoczekiwany błąd 
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} złota zostało odzyskane z zlicytowanego przedmiotu i wysłane na twoje konto bankowe.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Zlicytowany przedmiot został przesłany pomyślnie.
 BID_MODAL_DISCLAIMER: >-
-  Przed użyciem systemu licytacji, upewnij się, że przeczytałeś i zrozumiałeś niniejsze zastrzeżenia.
+  Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
 
-  Aby zapewnić sprawiedliwy i responsywny system licytacji dla naszych graczy, nie będziesz mógł:
-
-
+  Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
 
 
+  	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
-  	- Usunąć zalicytowanego przedmiotu przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
-
+  	- Wycofać się z złożonej oferty licytowanego przedmiotu.
 
 
 
-  	- Wycofać się z złożonej oferty za licytowany przedmiot.
+  Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
 
+  Przycisk do wystawienia przedmiotu na aukcji poprosi o potwierdzenie przed kontynuacją.
 
-
-
-
-  Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
-
-
-  Przycisk do wystawienia przedmiotu na aukcję będzie prosił o potwierdzenie przed kontynuowaniem.
-
-
-  Szczęśliwego licytowania!
+  Szczęśliwego Licytowania!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Aukcja wystartowała
 BID_NOTIFMESSAGE_BOUGHT_ITEM: Wygrałeś aukcję.
 BID_NOTIFMESSAGE_EXPIRED_ITEM: Aukcja zakończyła się bez żadnego oferenta.
@@ -184,11 +174,11 @@ CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: NosKumpel został dodany do twojeg
 CELESTIAL_TOWER_SHOUTMESSAGE_START: Wyzwanie Wieży Nieba się rozpoczyna!
 CELLON_SHOUTMESSAGE_FAIL: Cellon zniknął, bo nie udało Ci się dodać opcji.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom Cellon jest zbyt wysoki dla tego akcesorium.
-CELLON_SHOUTMESSAGE_OPTIONS_FULL: Sloty na akcesoria są już pełne.
+CELLON_SHOUTMESSAGE_OPTIONS_FULL: Opcje biżturii są już zapełnione.
 CELLON_SHOUTMESSAGE_SUCCESS: Opcja dodana.
 CHARACTER_CREATION_INFO_ALREADY_HAVE_MARTIAL_ARTIST: Możesz mieć tylko jednego Mistrza Sztuk Walki.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ta nazwa jest już zajęta.
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Nazwa twojej postaci zawiera słowo "{0}", które jest zabronione. Jeśli uważasz, że to błąd, śmiało zgłoś się na naszym serwerze Discord wsparcia.
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Nazwa twojej postaci zawiera słowo "{0}", które jest zabronione. Jeśli uważasz, że to błąd, śmiało zgłoś się na naszym serwerze wsparcia Discord.
 CHARACTER_CREATION_INFO_CANNOT_CREATE_IT_YET: Nie możesz jeszcze stworzyć Mistrza Sztuk Walki.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Twój pseudonim zawiera niedozwolone znaki.
 CHARACTER_CREATION_INFO_NO_LEVEL_MINIMUM_CHARACTER: Musisz mieć postać co najmniej na poziomie {0}, aby stworzyć Mistrza Sztuk Walki.
@@ -209,7 +199,7 @@ COSTUME_FUSION_ALREADY_FUSED: Ten kostium został już wcześniej połączony z 
 COSTUME_FUSION_NOT_BOUND_TO_CHARACTER: Możesz używać tylko kostiumów przypisanych do twojej postaci.
 COSTUME_FUSION_NOT_PERMANENT: Możesz łączyć tylko kostiumy na stałe.
 COSTUME_FUSION_SUCCESS: Kostiumy zostały pomyślnie połączone.
-DAILY_ACHIEVEMENTS_REFRESHED: Powtarzalne codzienne osiągnięcia zostały odnowione.
+DAILY_ACHIEVEMENTS_REFRESHED: Dzienne osiągnięcia zostały odnowione.
 DIGNITY_CHATMESSAGE_LOSS: 'Godność: -{0}'
 DIGNITY_CHATMESSAGE_RESTORE: 'Godność: +{0}'
 DOLL_SHOUTMESSAGE_DOLLS_LIMIT: Nie możesz przywołać więcej lalek.
@@ -225,8 +215,8 @@ DUEL_DIALOG_REQUEST_INVITE: '{0} rzucił ci wyzwanie! Chcesz przyjąć?'
 DUEL_DIALOG_REVIVAL: Kontynuować?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Ten gracz blokuje zaproszenia do pojedynków.
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
-EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Masz już ten emotikon.
-EMOTES_SHOUTMESSAGE_UNLOCKED: Odblokowałeś emotikon {0}.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Masz już tę emotkę.
+EMOTES_SHOUTMESSAGE_UNLOCKED: Odblokowałeś emotkę {0}.
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: Gracz już został przez kogoś zachęcony.
 ENCOURAGE_CHATMESSAGE_COOLDOWN: Możesz zachęcić tylko jednego gracza dziennie.
 ENCOURAGE_CHATMESSAGE_GIVEN: Gracz {0} został zachęcony.
@@ -279,7 +269,7 @@ FAMILY_INFO_USED_DAILY_MESSAGE: Dzisiejsza sentencja dnia została już napisana
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Nie możesz dodać tego przedmiotu do magazynu rodzinnego.
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nie masz wystarczających uprawnień, aby to zrobić.
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Proszę spróbować ponownie później.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Posiadać poprzednie ulepszenie aby to zakupić.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Musisz posiadać poprzednie ulepszenie aby to zakupić.
 FAMILY_RANK_DEPUTY: Zastępca
 FAMILY_RANK_HEAD: Szef
 FAMILY_RANK_KEEPER: Zarządca
@@ -324,13 +314,13 @@ FRIEND_INFO_ADDED: Dodano gracza do listy przyjaciół!
 FRIEND_INFO_ALREADY_FRIEND: Gracz {0} jest już Twoim przyjacielem.
 FRIEND_INFO_DELETED: Przyjaciel usunięty.
 FRIEND_INFO_FRIENDLIST_FULL: Twoja lista przyjaciół jest pełna.
-FRIEND_INFO_REFUSED: Odrzucono zaproszenie bycia przyjacielem.
-FRIEND_INFO_REQUEST_BLOCKED: Gracz blokuje zaproszenia do zostania przyjacielem.
+FRIEND_INFO_REFUSED: Odrzucono zaproszenie do grona przyjaciół.
+FRIEND_INFO_REQUEST_BLOCKED: Gracz blokuje zaproszenia do grona przyjaciół.
 FRIEND_MESSAGE_NOT_FRIEND: Musicie być przyjaciółmi, żeby to zrobić.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Ten gracz nie jest na Twojej liście przyjaciół.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Przyjaciel znajduje się we wrogiej frakcji.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Nie możesz hazardować utrwalonych przedmiotów.
-GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Nie możesz hazardować przedmiotu nie bohaterskiego tym amuletem.
+GAMBLING_CHATMESSAGE_ITEM_IS_NOT_HEROIC: Nie możesz hazardować niebohaterskiego przedmiotu tym amuletem.
 GAMBLING_INFO_AMULET_DESTROYED: '[OSTRZEŻENIE] Amulet ochronny wygasł, ponieważ wszystkie jego użycia zostały wykorzystane.'
 GAMBLING_MESSAGE_ALREADY_MAX_RARE: Masz już przedmioty najwyższej rzadkości.
 GAMBLING_MESSAGE_AMULET_FAIL_SAVED: Przedmiot nie został zniszczony dzięki amuletowi.
@@ -399,7 +389,7 @@ INFORMATION_CHANNEL: Kanał
 INFORMATION_CHATMESSAGE_IMPOSSIBLE_TO_USE: Nie możesz tego teraz użyć.
 INFORMATION_CHATMESSAGE_LEVEL_TOO_LOW_TRAVEL: Twój poziom jest za niski, żeby się tam udać.
 INFORMATION_CHATMESSAGE_NO_WINGS: Nie masz żadnych Skrzydeł Przyjaźni.
-INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Za mało punktów many.
+INFORMATION_CHATMESSAGE_NOT_ENOUGH_MP: Nie wystarczająca ilość punktów many.
 INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Za mało reputacji.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Twój poziom jest zbyt niski.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Ten przedmiot nie należy do ciebie.
@@ -639,14 +629,14 @@ OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Wyłączono prośby do rodziny
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Włączono prośby do rodziny
 OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED'
 OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED'
-OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Wyłączono prośby zostania przyjacielem
-OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Włączono prośby zostania przyjacielem
-OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Wyłączono prośby do grupy
-OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_ENABLED: Włączono prośby do grupy
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Wyłączono zaproszenia do grona przyjaciół
+OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Włączono zaproszenia do grona przyjaciół
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Wyłączono zaproszenia do grupy
+OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_ENABLED: Włączono zaproszenia do grupy
 OPTIONS_SHOUTMESSAGE_HIDE_HAT_DISABLED: Czapka jest teraz widoczna
 OPTIONS_SHOUTMESSAGE_HIDE_HAT_ENABLED: Czapka nie jest teraz widoczna
-OPTIONS_SHOUTMESSAGE_HP_DISABLED: Wyłączono powiadomienia efektów leczenia
-OPTIONS_SHOUTMESSAGE_HP_ENABLED: Włączono powiadomienia efektów leczenia
+OPTIONS_SHOUTMESSAGE_HP_DISABLED: Informacje o regeneracji PŻ wyłączone
+OPTIONS_SHOUTMESSAGE_HP_ENABLED: Informacje o regeneracji PŻ włączone
 OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_DISABLED: Wyłączono zaproszenia do Mini-Landu
 OPTIONS_SHOUTMESSAGE_MINILAND_INVITES_ENABLED: Włączono zaproszenia do Mini-Landu
 OPTIONS_SHOUTMESSAGE_MOUSE_DISABLED: Wyłączono blokowanie myszy
@@ -705,13 +695,13 @@ PERFECTSP_ATTACK: Atak
 PERFECTSP_CRIT_DEFENSE: Zmniejszone obrażenia krytyczne
 PERFECTSP_DEFENSE: Obrona
 PERFECTSP_ELEMENT: Żywioł
-PERFECTSP_FIRE: Odporność na ogień
-PERFECTSP_HPMP: HP/MP
-PERFECTSP_LIGHT: Odporność na światło
+PERFECTSP_FIRE: Odporność na żywioł ognia
+PERFECTSP_HPMP: PŻ/PM
+PERFECTSP_LIGHT: Odporność na żywioł światła
 PERFECTSP_MESSAGE_FAILURE: Nie udało się zwiększyć perfekcji!
 PERFECTSP_MESSAGE_SUCCESS: 'Perfekcja udana: {0} +{1}'
-PERFECTSP_SHADOW: Odporność na mrok
-PERFECTSP_WATER: Odporność na wodę
+PERFECTSP_SHADOW: Odporność na żywioł mroku
+PERFECTSP_WATER: Odporność na żywioł wody
 PERSONAL_SHOP_LOG_PURCHASE_BUYER: Kupiłeś {1}x {0} od gracza {2}.
 PERSONAL_SHOP_LOG_PURCHASE_OWNER: Gracz {0} zakupił {2}x {1}.
 PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Twój NosKumpel już potrafi zbierać przedmioty.
@@ -727,10 +717,10 @@ PET_MESSAGE_ALREADY_IN_TEAM: NosKumpel jest już w drużynie.
 PET_MESSAGE_IS_ALREADY_SUMMONABLE: NosKumpel już może być przywoływany!
 PET_MESSAGE_KICKED: NosKumpel wrócił do Mini-Landu.
 PET_MESSAGE_SUMMONABLE: Możesz teraz przywołać swojego NosKumpla w dowolnym momencie.
-PET_SHOUTMESSAGE_ATTACK_FAIL: Ulepszenie poziomu ataku twojego NosKumpla nie powiodło się.
+PET_SHOUTMESSAGE_ATTACK_FAIL: Nie udało się podnieść poziom ataku twojego NosKumpla.
 PET_SHOUTMESSAGE_ATTACK_UPGRADED: 'Poziom ataku twojego NosKumpla wzrósł: +{0} -> +{1}'
 PET_SHOUTMESSAGE_CANNOT_EVOLVE: Ten NosKumpel nie może ewoluować.
-PET_SHOUTMESSAGE_DEFENSE_FAIL: Ulepszenie poziomu obrony twojego NosKumpla nie powiodło się.
+PET_SHOUTMESSAGE_DEFENSE_FAIL: Nie udało się podnieść poziom obrony twojego NosKumpla.
 PET_SHOUTMESSAGE_DEFENSE_UPGRADED: "Poziom obrony twojego NosMate'a wzrósł: +{0} -> +{1}"
 PET_SHOUTMESSAGE_DIGNITY_LOW: Twoja godność jest zbyt niska aby towarzyszył ci Noskumpel.
 PET_SHOUTMESSAGE_EVOLUTION_FAILED: Ewolucja NosKumpla nie powiodła się.
@@ -837,7 +827,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Z powodu powtarzających się rajdów AFK, nie m
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Tylko lider rajdu może rozpocząć rajd.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nie jesteś członkiem żadnej drużyny rajdowej.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten rajd nie zaczyna się tutaj.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Gracz: {0} nie posiada przedmiotu {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wystartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
@@ -849,7 +839,7 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otwórz Raport z Rajdu
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Sprawdź statystyki swojego zespołu dla {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Graczowi brakuje potrzebnej pieczęci.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Wszyscy gracze są zamrożeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.
@@ -870,8 +860,8 @@ RAID_SHOUTMESSAGE_MONSTERS_WAVE: Wrogowie otrzymują posiłki!
 RAID_SHOUTMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny rajdowej.'
 RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Za mało graczy, aby rozpocząć rajd.
 RAID_SHOUTMESSAGE_PLAYER_DEATH: Członek rajdu {0} zginął.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Impossible to swap the current Raid Type.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Raid has been changed to {0}
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Nie można zmienić aktualnego rodzaju Rajdu.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Rajd został zmieniony na {0}
 RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Drużyna rajdowa jest pełna.
 RAID_SHOUTMESSAGE_REGISTERED: Twój rajd został zarejestrowany.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Wszystkie cele misji zostały ukończone!
@@ -882,7 +872,7 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Niebieska drużyna się poddała.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} wylogował się.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Ten kryształ jest już przejęty przez twoją drużynę.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Zostałeś wykluczony z Bitwy Tęczowego kryształu do {0}.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Zostałeś zablokowany w udziale Bitwy Tęczowego kryształu do {0}.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Musisz odczekać {0} sekund aby przejąć ten kryształ.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Twoja aktywność nie była wystarczająca, aby otrzymać nagrodę.
 RAINBOW_BATTLE_EVENT_NAME: Bitwa Tęczowego Kryształu
@@ -939,9 +929,9 @@ SHELLS_SHOUTMESSAGE_ERASED: Opcja została usunięta.
 SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tej osłony możesz używać tylko na zbroi.
 SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Tej osłony możesz używać tylko na broni.
 SHELLS_SHOUTMESSAGE_IDENTIFIED: Zidentyfikowano osłonę!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom osłony musi być taki sami lub niższy niż ekwipunku.
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Poziom osłony musi być taki sam lub niższy niż poziom wyposażenia.
 SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Przed użyciem osłona musi zostać zidentyfikowana.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Dodano nową osłonę.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Dodano opcje osłony.
 SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Unikalność osłony musi być taka sama lub niższa niż ekwipunku.
 SHIP_CHATMESSAGE_LEVEL_REQ: Aby wejść na statek, musisz posiadać {0} poziom.
 SHIP_SHOUTMESSAGE_COOLDOWN: Statek jeszcze nie powrócił.
@@ -1056,22 +1046,22 @@ TIMESPACE_DIALOG_ASK_START: Czy chcesz wejść do pierwszego pokoju?
 TIMESPACE_DIALOG_ASK_START_RECORD: Czy chcesz rozpocząć czasoprzestrzeń w trybie rekordu? Będzie to kosztowało {0} szt. złota.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Czasoprzestrzeń już się rozpoczęła.
 TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: Nie możesz być w grupie dla tej czasoprzestrzeni
-TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: Nie możesz stworzyć Czasoprzestrzeni tak blisko innej Czasoprzestrzeni!
+TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: Nie możesz stworzyć Czasoprzestrzeni tak blisko innego portalu.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Portal został otwarty.
-TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Drzwi się gdzieś otwarły.
+TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Otwarły się gdzieś drzwi.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Wrogowie otrzymują posiłki.
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Przesunięto dźwignię.
 TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Jeden z członków grupy nie jest na ogólnej mapie.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Misja została zaktualizowana.
 TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Musisz być członkiem grupy aby wejść do tej Czasoprzestrzeni.
 TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Za mało członków grupy, aby rozpocząć Czasoprzestrzeń.
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Nie jesteś właścicielem tego Czasoprzestrzeni.
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Nie jesteś właścicielem tej Czasoprzestrzeni.
 TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Jeden z członków nie jest na tej samej mapie co ty.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Pomyślnie ukończono szybką misję.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Misja rozpocznie się, gdy wejdziesz do pierwszego pomieszczenia.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Czasoprzestrzeń jest pełna.
 TIMESPACE_SHOUTMESSAGE_WAIT_REWARD: Proszę czekać.
-TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Nieprawidłowa akcja dla tej Czasoprzestrzeni.
+TIMESPACE_SHOUTMESSAGE_WRONG_ACT: Nieprawidłowy Akt dla tej Czasoprzestrzeni.
 TIMESPACE_SHOUTMESSAGE_WRONG_MAP: Nie możesz stworzyć Czasoprzestrzeni na tej mapie.
 TITLE_DIALOG_ASK_ADD: Czy chcesz dodać ten tytuł?
 TITLE_INFO_EFFECT_DISABLED: Efekt tytułu został wyłączony.
@@ -1086,7 +1076,7 @@ TRADE_DIALOG_ASK_FOR_TRADE: Poprosiłeś gracza {0} o wymianę.
 TRADE_DIALOG_INCOMING_EXCHANGE: Gracz {0} [{1}(+{2})Lv.] chce się z tobą wymienić.
 TRADE_INFO_PLAYER_IN_BATTLE: Nie możesz wymieniać się w trakcie walki.
 TRADE_INFO_WAITING_FOR_TARGET: Czekam na {0}...
-TRADE_MODAL_ALREADY_IN_EXCHANGE: Gracz aktualnie wymienia się z kimś innym...
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Gracz aktualnie wymienia się z kimś innym.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Nie możesz handlować z osobami mającymi otwarty sklep.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Przedmiot niezdatny do handlu.
 TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Nie możesz handlować podczas rajdu.
@@ -1117,7 +1107,7 @@ VALENTINE_PROPOSE_SENT: '{0} został poproszony o przyjęcie prezentu.'
 WARDROBE_INFO_NEED_KEY: Potrzebujesz klucza do szafy, żeby użyć tej funkcji.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Czy na pewno chcesz usunąć swój personalny teleport na mapie {1} (slot {0})?
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Nie możesz wejść na tę mapę.
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Ten punkt powrotu jest w trakcie odnowy. Pozostały czas: {0} sekund'
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Punkt powrotu jest w trakcie odnowy. Pozostały czas: {0} sekund'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Nie możesz wejść na tę mapę. Jesteś albo w walce, albo musisz odczekać czas odnowienia zmiany mapy.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Nie możesz stworzyć osobistego teleportu na tej mapie.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
@@ -1131,5 +1121,5 @@ WINGS_SWAPPER_DELAY_SWAPPING: Musisz poczekać {0}, zanim będziesz mógł zmien
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musisz poczekać {0} po użyciu umiejętności, aby móc zmienić skrzydła.
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
-WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {1}
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
+WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
