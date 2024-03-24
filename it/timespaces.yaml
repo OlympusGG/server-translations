@@ -179,3 +179,10 @@ TS_1202_NAME: "Sentiero Profetizzato"
 TS_1202_DESCRIPTION: "Dacre Decatur ha letto di un segreto bivio a tre vie nella grotta dove era situato l'antico pergamena. Esploriamo tutti e tre i percorsi!"
 TS_1203_NAME: "Sentiero Profetizzato"
 TS_1203_DESCRIPTION: "Dacre Decatur ha letto di un segreto bivio a tre vie nella grotta dove era situato l'antico pergamena. Esploriamo tutti e tre i percorsi!"
+TS_MOLE_NAME: Grotta della Mamma Talpa
+TS_DESERT_NAME: La Camera del Tesoro di Ibrahim
+TS_MOLE_DESCRIPTION: Forma un gruppo per sconfiggere i mostri che proteggono la Mamma Talpa.
+TS_DESERT_DESCRIPTION: I ladri stanno difendendo la loro camera del tesoro, dà loro la caccia per raccogliere le loro chiavi e saccheggiare i tesori!
+TS_MOLE_TEXT_1: Il sentiero si divide! Raggruppatevi più avanti!
+TS_DESERT_TEXT_1: Caccia i ladri finché la camera del tesoro non si apre!
+TS_DESERT_TEXT_2: Usa le tue chiavi per aprire i bauli!
