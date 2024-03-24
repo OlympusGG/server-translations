@@ -140,10 +140,16 @@ BID_MODAL_DISCLAIMER: >-
   Abychom zajistili spravedlivý a rychlý Aukční systém pro naše hráče, nebudeš moci:
 
 
+
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
+
+
   	- Vzdát se nabídky na aukční předmět.
+
+
 
 
 
@@ -154,7 +160,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Přejeme šťastné přihazování!
-BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Otevřít aukci
+BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Zobrazit aukci
 BID_NOTIFMESSAGE_BOUGHT_ITEM: Vyhrál jsi aukci.
 BID_NOTIFMESSAGE_EXPIRED_ITEM: Aukce skončila bez jediného zájemce.
 BID_NOTIFMESSAGE_NEW_BID: Někdo přihodil na tvůj předmět.
@@ -289,7 +295,7 @@ FAMILY_SHOUTMESSAGE_X_LEFT_FAMILY: '{0} opustil tvou rodinu.'
 FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stát {0} zlata.
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Otevřít zprávu
 FARMING_REPORT_NOTIFY_DESC: Zkontroluj si zprávu o farmaření.
-FARMING_REPORT_NOTIFY_TITLE: Zpráva o farmění
+FARMING_REPORT_NOTIFY_TITLE: Zpráva o farmení
 FERNON_NOTIFY_RAID_STARTED: Začal útok Fernona.
 FERNON_NOTIFY_TITLE: Fernon
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tvůj Rybářský encyklopedický průvodce je kompletní.

@@ -179,3 +179,10 @@ TS_1202_NAME: "Camino Profetizado"
 TS_1202_DESCRIPTION: "Dacre Decatur ha leído sobre una bifurcación secreta de tres caminos en la cueva donde se encontraba el pergamino antiguo. ¡Investiguemos los tres caminos!"
 TS_1203_NAME: "Camino Profetizado"
 TS_1203_DESCRIPTION: "Dacre Decatur ha leído sobre una bifurcación secreta de tres caminos en la cueva donde se encontraba el pergamino antiguo. ¡Investiguemos los tres caminos!"
+TS_MOLE_NAME: Cueva de la Madre Topo
+TS_MOLE_DESCRIPTION: Forma un grupo para derrotar a los monstruos que protegen a la Madre Topo.
+TS_DESERT_NAME: Cámara del Tesoro de Ibrahim
+TS_DESERT_DESCRIPTION: ¡Los ladrones están defendiendo su cámara del tesoro, persíguelos para recolectar sus llaves y saquear los tesoros!
+TS_MOLE_TEXT_1: ¡El camino se bifurca! ¡Reagrupémonos más adelante!
+TS_DESERT_TEXT_1: ¡Caza a los ladrones hasta que se abra la cámara del tesoro!
+TS_DESERT_TEXT_2: ¡Usa tus llaves para abrir los cofres!
