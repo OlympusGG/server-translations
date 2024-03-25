@@ -255,6 +255,7 @@ EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
 EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
+EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Impossible d'améliorer, surcharge dépassée
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Outil doré utilisé.
