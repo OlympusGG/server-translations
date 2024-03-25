@@ -48,6 +48,13 @@ AMMO_LOADED_SWORDSMAN: Bełty załadowane!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nie możesz nosić dwóch artefaktów tego samego typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Otrzymałeś {0} punktów doświadczenia w walce jako nagrodę za tę rundę.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Otrzymałeś {0} punktów doświadczenia mistrza jako nagrodę za tę rundę.
@@ -228,6 +235,13 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Możesz kogoś zachęcić tylko jeśli osiągn
 ENCOURAGE_CHATMESSAGE_RECEIVED: Gracz {0} cię zachęcił.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tego przedmiotu nie można przekształcić.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Przedmiot został pomyślnie przekształcony {0}.
+EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
+EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
@@ -830,7 +844,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Z powodu powtarzających się rajdów AFK, nie m
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Tylko lider rajdu może rozpocząć rajd.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nie jesteś członkiem żadnej drużyny rajdowej.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten rajd nie zaczyna się tutaj.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Gracz: {0} nie posiada przedmiotu {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Gracz: {0} nie posiada przedmiotu {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wystartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
@@ -1122,7 +1136,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odrzucił zaręczyny gracza {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Cotygodniowe osiągnięcia zostały odnowione.
 WINGS_SWAPPER_DELAY_SWAPPING: Musisz poczekać {0}, zanim będziesz mógł zmienić swoje skrzydła ponownie.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musisz poczekać {0} po użyciu umiejętności, aby móc zmienić skrzydła.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough participation points to earn a reward.
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}

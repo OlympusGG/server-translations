@@ -48,6 +48,13 @@ AMMO_LOADED_SWORDSMAN: Cıvatalar yüklendi!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
 ARENA_INFO_ASK_ENTER: Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0}, {1} tarafından öldürüldü.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Aynı türden iki artefakt takamazsın.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Bu aşama için {0} savaş XP kazandın.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Bu aşama için {0} şampiyon XP kazandın.
@@ -229,14 +236,21 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Birini cesaretlendirebilmek için {0} seviyeye
 ENCOURAGE_CHATMESSAGE_RECEIVED: Oyuncu {0} seni cesaretlendirdi.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Bu eşya dönüştürülemez.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Eşya başarıyla dönüştürüldü {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: 'Peri ayarları değiştirildi.'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Aşırı şarjlı peri yükseltilmez.'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Altın alet kullanıldı.'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Çekiç kullanıldı.'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Peri aşırı şarj oldu.'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Restorasyon seti kullanıldı.'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Yükseltme başarısız oldu.'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Yükseltme başarılı oldu.'
+EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
+EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
+FAIRY_MODAL_OPTIONS_CHANGED: Peri ayarları değiştirildi.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Aşırı şarjlı peri yükseltilmez.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Altın alet kullanıldı.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Çekiç kullanıldı.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Peri aşırı şarj oldu.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Restorasyon seti kullanıldı.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Yükseltme başarısız oldu.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Yükseltme başarılı oldu.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarımı açıldı: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile yükseltmesi satın alındı.
@@ -831,7 +845,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Tekrarlanan AFK baskınları yüzünden, bir son
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece baskın lideri baskını başlatabilir.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir baskın takımının parçası değilsin.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu baskın burada başlamıyor.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} {1} itemine sahip değil."
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} {1} itemine sahip değil.'
 RAID_CHATMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
 RAID_DIALOG_ASK_START_RAID: '{0} baskınını başlatmak ister misin?'
 RAID_DIALOG_INVITED_YOU: '{0} seni bir baskın takımına davet etti. Kabul ediyor musun?'
@@ -1040,7 +1054,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Uzay-Zaman kolay modda. Süre uzatıldı ve se�
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Kapı kilitli.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok yüksek.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Bu Uzay-Zaman'a katılmak için seviyem çok düşük.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: 'Dünya Boss etkinliği için daha fazla güce ihtiyacın var.'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: Dünya Boss etkinliği için daha fazla güce ihtiyacın var.
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Tüm Uzay-Zaman görevleri tamamlanmadı.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Sadece grup lideri Uzay-Zaman'ı başlatabilir.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: Seviye cezası nedeniyle puanların %{0} kadarı azaltıldı.
@@ -1123,7 +1137,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenme teklifini reddetti.
 WEEKLY_ACHIEVEMENTS_REFRESHED: Haftalık tekrarlanabilir başarılar yenilendi.
 WINGS_SWAPPER_DELAY_SWAPPING: Kanatlarını tekrar değiştirebilmek için {0} beklemen gerekiyor.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Bir yetenek kullandıktan sonra kanatlarını değiştirebilmek için {0} beklemen gerekiyor.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Dünya Boss etkinliğinde yeterli katkın yok.'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Dünya Boss etkinliğinde yeterli katkın yok.
 WORLD_BOSS_EVENT_NAME: Dünya Boss Etkinliği
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'

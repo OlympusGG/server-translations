@@ -48,6 +48,13 @@ AMMO_LOADED_SWORDSMAN: ¡Virote cargado!
 ARENA_CHATMESSAGE_PVP_ACTIVE: El modo PvP está activo.
 ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} de oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido asesinado por {1}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: No puedes llevar dos artefactos del mismo tipo.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Recibiste {0} XP de batalla como recompensa por esta fase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Recibiste {0} XP de campeón como recompensa por esta fase.
@@ -226,6 +233,13 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Solo puedes animar a alguien si has alcanzado 
 ENCOURAGE_CHATMESSAGE_RECEIVED: El jugador {0} te ha animado.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Este artículo no se puede convertir.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: El objeto fue convertido exitosamente {0}.
+EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
+EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
 FAIRY_MODAL_OPTIONS_CHANGED: '#OPCIONES_DE_HADA_CAMBIADAS'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#HADA_MENSAJEGRITO_NO_SE_PUEDE_MEJORAR_SOBRECARGADA'
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#HADA_MENSAJEGRITO_HERRAMIENTA_DORADA_USADA'
@@ -828,7 +842,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Debido a incursiones AFK repetidas, no puedes re
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo el líder del raid puede iniciar el raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este Raid no comienza aquí.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} no tiene el ítem {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} no tiene el ítem {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de raid.'
 RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar el raid de {0}?
 RAID_DIALOG_INVITED_YOU: '{0} te invitó a un equipo de raid. ¿Aceptar?'
@@ -1120,7 +1134,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrim
 WEEKLY_ACHIEVEMENTS_REFRESHED: Se han actualizado los logros semanales repetibles.
 WINGS_SWAPPER_DELAY_SWAPPING: Necesitas esperar {0} entre cambios para cambiar tus alas de nuevo.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Necesitas esperar {0} después de usar una habilidad para poder cambiar tus alas.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough participation points to earn a reward.
 WORLD_BOSS_EVENT_NAME: Evento de Jefe Mundial
-WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '¡{0} ha aparecido en {1}!'
+WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}

@@ -48,6 +48,13 @@ AMMO_LOADED_SWORDSMAN: Šipky jsou doplněny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Chceš vstoupit do individuální arény? Bude tě to stát {0} zlatých.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem {1}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nemůžeš nosit dva artefakty stejného typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} bojových XP.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} XP šampiona.
@@ -99,7 +106,7 @@ BATTLE_PASS_INFO_ALREADY_PREMIUM: '#BATTLE_PASS_INFO_ALREADY_PREMIUM'
 BATTLE_ROYALE_NOTIFY_ACTION_OPEN: '#BATTLE_ROYALE_NOTIFY_ACTION_OPEN'
 BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_NOTIFY_DESC'
 BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_NOTIFY_TITLE'
-BAZAAR_CHATMESSAGE_ITEM_ADDED: 'Tvé zboží {0} {1}x bylo přidáno do NosBazaru.'
+BAZAAR_CHATMESSAGE_ITEM_ADDED: Tvé zboží {0} {1}x bylo přidáno do NosBazaru.
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Tvoje zboží {0}x {1} bylo prodáno v NosBazaru.
 BAZAAR_INFO_ALREADY_USED_ITEM: Tato položka je již použita.
 BAZAAR_INFO_ITEM_CHANGED: Nákup je neplatný, protože položka byla prodána a nebo cena změněna.
@@ -235,14 +242,21 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Můžeš někoho povzbudit, jen když dosáhne
 ENCOURAGE_CHATMESSAGE_RECEIVED: Hráč {0} tě povzbudil.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tento předmět nelze převést.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Předmět byl úspěšně převeden {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: 'Nastavení možností víly změněno'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Nemůžeš vylepšit vílu, když je přetížená'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Použil(a) jsi zlatý nástroj'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Použil(a) jsi kladivo'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Víla je přetížená'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Použil(a) jsi sadu na obnovu'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Vylepšení víly selhalo'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Vylepšení víly bylo úspěšné'
+EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
+EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
+FAIRY_MODAL_OPTIONS_CHANGED: Nastavení možností víly změněno
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nemůžeš vylepšit vílu, když je přetížená
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Použil(a) jsi zlatý nástroj
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Použil(a) jsi kladivo
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Víla je přetížená
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Použil(a) jsi sadu na obnovu
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Vylepšení víly selhalo
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Vylepšení víly bylo úspěšné
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odemčeno rodinné úspěchy: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakoupeno vylepšení rodiny.
@@ -837,7 +851,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Kvůli opakovanému AFK raidování nemůžeš p
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Pouze vedoucí výpravy může výpravu spustit.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi součástí žádného týmu výpravy.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} nemá předmět {1}"
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} nemá předmět {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se připojil k týmu výpravy.'
 RAID_DIALOG_ASK_START_RAID: Chceš spustit výpravu {0}?
 RAID_DIALOG_INVITED_YOU: '{0} tě pozval do týmu výpravy. Přijmeš?'
@@ -1046,7 +1060,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Časoprostor je v lehkém režimu. Doba trván�
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brána je zamčená.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Můj level je příliš vysoký na to, abych se mohl připojit do tohoto Času-prostoru.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký na to, abych se mohl připojit do tohoto Času-prostoru.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: 'Potřebuješ událost s World Bossem'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: Potřebuješ událost s World Bossem
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nebyly dokončeny všechny mise Časoprostoru.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může spustit Časoprostor.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% bodů sníženo kvůli penalizaci za úroveň.'
@@ -1129,7 +1143,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odmítl/a nabídku k sňatku od {1}
 WEEKLY_ACHIEVEMENTS_REFRESHED: Týdenní opakovatelné úspěchy byly obnoveny.
 WINGS_SWAPPER_DELAY_SWAPPING: Musíš počkat {0}, než si zase změníš křídla.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musíš počkat {0} po použití schopnosti, než budeš moci vyměnit svá křídla.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Nemáš dostatek příspěvků pro World Bossa'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nemáš dostatek příspěvků pro World Bossa
 WORLD_BOSS_EVENT_NAME: Událost s World Bossem
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál

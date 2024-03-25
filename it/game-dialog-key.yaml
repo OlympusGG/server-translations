@@ -48,6 +48,13 @@ AMMO_LOADED_SWORDSMAN: Dardi caricati!
 ARENA_CHATMESSAGE_PVP_ACTIVE: La modalità PvP è attiva.
 ARENA_INFO_ASK_ENTER: Vuoi entrare nell'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato ucciso da {1}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Non puoi indossare due artefatti dello stesso tipo.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Hai ricevuto {0} XP di battaglia come ricompensa per questa fase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Hai ricevuto {0} XP campione come ricompensa per questa fase.
@@ -238,14 +245,21 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Puoi incoraggiare qualcuno solo se hai raggiun
 ENCOURAGE_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha incoraggiato.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Questo oggetto non può essere convertito.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'oggetto è stato convertito con successo {0}.
-FAIRY_MODAL_OPTIONS_CHANGED: 'Opzioni della fata modificate'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Impossibile potenziare ulteriormente a causa della sovraccarica'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Strumento dorato utilizzato'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Martello utilizzato'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Sovraccaricato'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Set di ripristino utilizzato'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Potenziamento fallito'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Potenziamento riuscito'
+EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
+EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
+FAIRY_MODAL_OPTIONS_CHANGED: Opzioni della fata modificate
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Impossibile potenziare ulteriormente a causa della sovraccarica
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Strumento dorato utilizzato
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Martello utilizzato
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Sovraccaricato
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Set di ripristino utilizzato
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Potenziamento fallito
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Potenziamento riuscito
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Sbloccato traguardo di famiglia: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) si è connesso!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Acquistato l'aggiornamento della famiglia.
@@ -1049,7 +1063,7 @@ TIMESPACE_CHATMESSAGE_EASY_MODE: Lo Spazio-Tempo è in modalità facile. La dura
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Il cancello è chiuso.
 TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Il mio livello è troppo alto per partecipare a questo Spazio-Tempo.
 TIMESPACE_CHATMESSAGE_LOW_LEVEL: Il mio livello è troppo basso per partecipare a questo Spazio-Tempo.
-TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: 'Serve l''evento del boss mondiale per lo Spazio Temporale'
+TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: Serve l'evento del boss mondiale per lo Spazio Temporale
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Non tutte le missioni dello Spazio-Tempo sono state completate.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Solo il capogruppo può avviare lo Spazio-Tempo.
 TIMESPACE_CHATMESSAGE_TIME_SPACE_PENALTY: '{0}% dei punti ridotti a causa della penalità di livello.'
@@ -1132,7 +1146,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rifiutato la proposta di matrimo
 WEEKLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi settimanali ripetibili sono stati aggiornati.
 WINGS_SWAPPER_DELAY_SWAPPING: Devi aspettare {0} tra uno scambio e l'altro per cambiare di nuovo le tue ali.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Devi aspettare {0} dopo aver usato un'abilità per poter scambiare le tue ali.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Contributo insufficiente per il boss mondiale'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Contributo insufficiente per il boss mondiale
 WORLD_BOSS_EVENT_NAME: Evento World Boss
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
