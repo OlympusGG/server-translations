@@ -144,6 +144,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -151,7 +152,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
