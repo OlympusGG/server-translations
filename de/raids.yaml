@@ -2,9 +2,9 @@ RAID_NAME_CASTRA: Dark Castra
 RAID_NAME_CHICKENKING: Huhnkönig
 RAID_NAME_CUBY: Cuby Mutter
 RAID_NAME_GIANTBLACKSPIDER: Schwarze Riesenspinne
-RAID_NAME_GINSENG: Xysenstrauch
+RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
-RAID_NAME_ROBBERGANG: Ibrahim
+RAID_NAME_ROBBERGANG: Wüstenräuberbande
 RAID_NAME_SLADE: Riesenslade
 RAID_NAME_KERTOS: Kertos, der Dämonenhund
 RAID_NAME_VALAKUS: Valakus, König des Feuers
@@ -30,7 +30,7 @@ RAID_NAME_ALZANOR: Eisdrache Alzanor
 RAID_NAME_VALEHIR: Zombiedrache Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos hat begonnen, seine Kräfte zu sammeln."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Aus dem Ei wird Gral, der riesige Phönix, wiedergeboren."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "Der riesige Phönix Gral wird aus dem Ei wiedergeboren."
 GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "Gral, der riesige Phönix, hat sich in ein Ei verwandelt."
 GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "Phoenix, steh auf!"
 GRENIGAS_CHATMESSAGE_GATHER_POWER: "Die Macht des Feuergottes wird alles zerstören!"
@@ -47,7 +47,7 @@ ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Du hast den ersten Test von Zenas be
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Du hast den zweiten Test von Erenia bestanden. Der letzte beginnt bald."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Du hast Zenas' letzten Test nicht bestanden. Sie wird randalieren."
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Erzengel Luzifer, Zenas' 13. Flügel, ist erschienen."
-FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Das Gefolge Fernon's ist erschienen."
+FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Fernon's Anhänger sind erschienen."
 PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: Der böse Herrscher ruft seine stärksten Einheiten zusammen.
 RAID_NAME_FAFNIR: Gieriger Fafnir
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: Ich werde euch alle schmelzen!
