@@ -179,10 +179,10 @@ TS_1202_NAME: "Prophesied Path"
 TS_1202_DESCRIPTION: "Dacre Decatur has read about a secret three-way fork in the cave where the ancient parchment was located. Let's investigate all three paths!"
 TS_1203_NAME: "Prophesied Path"
 TS_1203_DESCRIPTION: "Dacre Decatur has read about a secret three-way fork in the cave where the ancient parchment was located. Let's investigate all three paths!"
-TS_MOLE_NAME: 'Mole Mothers Cave'
-TS_MOLE_DESCRIPTION: 'Form a group to defeat the monsters protecting the Mole Mother.'
+TS_MOLE_NAME: "Mole Mothers Cave"
+TS_MOLE_DESCRIPTION: "Form a group to defeat the monsters protecting the Mole Mother."
 TS_DESERT_NAME: "Ibrahim's Treasure Chamber"
-TS_DESERT_DESCRIPTION: 'The robbers are defending their treasure chamber, hunt them down to collect their keys and loot the treasures!'
-TS_MOLE_TEXT_1: 'The path splits! Regroup ahead!'
-TS_DESERT_TEXT_1: 'Hunt the robbers until the treasure chamber opens!'
-TS_DESERT_TEXT_2: 'Use your keys to open the chests!'
+TS_DESERT_DESCRIPTION: "The robbers are defending their treasure chamber, hunt them down to collect their keys and loot the treasures!"
+TS_MOLE_TEXT_1: "The path splits! Regroup ahead!"
+TS_DESERT_TEXT_1: "Hunt the robbers until the treasure chamber opens!"
+TS_DESERT_TEXT_2: "Use your keys to open the chests!"
