@@ -150,13 +150,16 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
 
 
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
 
@@ -862,7 +865,7 @@ RAID_INFO_PLAYER_DEATH: Jsi mrtvý! Oživíš se za 20 sekund.
 RAID_MESSAGE_DISOLVED: Tým výpravy byl rozpuštěn.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě je připravena
+RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná pečeť.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
