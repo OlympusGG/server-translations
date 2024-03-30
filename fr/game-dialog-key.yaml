@@ -152,6 +152,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -160,7 +161,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -248,22 +251,22 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Tu peux seulement encourager quelqu'un si tu a
 ENCOURAGE_CHATMESSAGE_RECEIVED: Le joueur {0} t'a encouragé.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Cet objet ne peut pas être converti.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'objet a été converti avec succès {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
-EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
-EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
-EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
+EQUIPMENT_SET_MSG_COOLDOWN: Vous devez attendre pour utiliser à nouveau le jeu d'équipement.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Vous devez être hors combat pour pouvoir utiliser l'échange de sets d'équipement.
+EQUIPMENT_SET_MSG_INVALID_NAME: Le nom de cet ensemble d'équipements n'est pas correct.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Vous avez débloqué un nouvel emplacement pour l'ensemble d'équipement !
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Vous n'avez pas d'emplacement d'ensemble d'équipement déblocable.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Vous devez être équipé d'un titre de propriété.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: L'emplacement de cet ensemble d'équipement n'est pas déverrouillé.
+EQUIPMENT_SET_SWAPPED_TO_X: "L'ensemble d'équipement a été remplacé par : '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Impossible d'améliorer, surcharge dépassée
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Outil doré utilisé.
-FAIRY_SHOUTMESSAGE_HAMMER_USED: Marteau utilisé.
-FAIRY_SHOUTMESSAGE_OVERCHARGED: Surcharge dépassée.
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Kit de restauration utilisé.
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Échec de l'amélioration.
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Amélioration réussie.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Succès familial débloqué : {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté !"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Amélioration de famille achetée.
