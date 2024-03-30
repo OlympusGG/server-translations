@@ -48,13 +48,13 @@ AMMO_LOADED_SWORDSMAN: Bełty załadowane!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: 'Artefakt posiada już najwyższy stopień ulepszenia'
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: 'Przedmiot nie jest artefaktem'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: 'Próba ulepszenia Tieru artefaktu nie powiodła się'
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: 'Sukces! Tier artefaktu został pomyślnie zwiększony'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: 'Próba ulepszenia artefaktu nie powiodła się'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: 'Artefakt posiada najwyższy stopień ulepszenia'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Sukces! Artefakt został pomyślnie ulepszony'
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nie możesz nosić dwóch artefaktów tego samego typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Otrzymałeś {0} punktów doświadczenia w walce jako nagrodę za tę rundę.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Otrzymałeś {0} punktów doświadczenia mistrza jako nagrodę za tę rundę.
@@ -148,11 +148,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -235,14 +238,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Możesz kogoś zachęcić tylko jeśli osiągn
 ENCOURAGE_CHATMESSAGE_RECEIVED: Gracz {0} cię zachęcił.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tego przedmiotu nie można przekształcić.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Przedmiot został pomyślnie przekształcony {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
-EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
-EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
-EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
+EQUIPMENT_SET_MSG_COOLDOWN: Musisz odczekać zanim użyjesz zmiany zestawu ekwipunku ponownie.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Musisz być po za walką aby użyć zmiany zestawu ekwipunku.
+EQUIPMENT_SET_MSG_INVALID_NAME: Nazwa tego zestawu ekwipunku jest niepoprawna.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Odblokowałeś nową zakładkę Zestawu Ekwipunku!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nie posiadasz żadnego Klucza Zakładki Zestawu Ekwipunku.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Musisz mieć wyekwipowany tytuł.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Ta zakładka zestawu ekwipunku nie jest odblokowana.
+EQUIPMENT_SET_SWAPPED_TO_X: "Zestaw ekwipunku zmieniony na: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
