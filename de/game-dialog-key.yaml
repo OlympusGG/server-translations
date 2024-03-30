@@ -4,12 +4,12 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du diesen Dungeon verlassen?
-ACT4_CALIGOR_MAP_FULL: Das Caligor-Reich ist voll.
-ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor-Reichs wiederbelebt werden?
+ACT4_CALIGOR_MAP_FULL: Das Caligors Reich ist voll.
+ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor Reichs wiederbelebt werden?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor hat begonnen.
-ACT4_CHANNEL_OFFLINE: Akt4-Kanal ist derzeit offline.
+ACT4_CHANNEL_OFFLINE: Akt4 Kanal ist derzeit offline.
 ACT4_CHATMESSAGE_KILL_INFO: 'Kills: {0}, Tode: {1}'
-ACT4_CHATMESSAGE_LESS_REPUTATION: Ruhm-Verlust oder -Gewinn ist reduziert, weil du oder der Feind heute schon viele Male gestorben sind.
+ACT4_CHATMESSAGE_LESS_REPUTATION: Rufverlust oder -Gewinn ist reduziert, weil du oder der Feind heute schon viele Male gestorben sind.
 ACT4_CHATMESSAGE_PVP_ANGELS: Engel
 ACT4_CHATMESSAGE_PVP_DEATH: '{1} wurde von einem Wächter von {0} getötet.'
 ACT4_CHATMESSAGE_PVP_DEMONS: Dämonen
@@ -18,7 +18,7 @@ ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Du hast diesen Dungeon bereits auf de
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Du brauchst eine Familie, um den Dungeon zu betreten.
 ACT4_DUNGEON_NOTIFY_DESC_STARTED: Dungeon {0} hat für deine Fraktion begonnen.
 ACT4_DUNGEON_NOTIFY_TITLE: Akt4
-ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Betreten des Dungeons kostet dich {0} Ruhmpunkte. Möchtest du eintreten?
+ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Das Betreten des Dungeons kostet dich {0} Rufpunkte. Möchtest du eintreten?
 ACT4_DUNGEON_REVIVAL_DIALOG: Hier wiederzubeleben kostet dich {0} Ruhmpunkte. Wenn du abbrichst, wirst du zum Start des Dungeons teleportiert. Möchtest du hier wieder belebt werden?
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Bossraum wurde geschlossen.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Dungeon-Boss wurde besiegt.
@@ -149,12 +149,15 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Einen versteigerten Gegenstand vor seinem Enddatum zu entfernen, wenn jemand bereits geboten hat.
 
 
 
 
+
   	- Von einem Gebot auf einen versteigerten Gegenstand zurücktreten.
+
 
 
 
