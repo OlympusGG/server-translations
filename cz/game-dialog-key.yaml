@@ -60,11 +60,11 @@ ASGOBAS_CHATMESSAGE_EXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} bojo
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} XP šampiona.
 ASGOBAS_CHATMESSAGE_JXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} pracovních XP.
 ASGOBAS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Kvůli nedostatku bodů příspěvku jsi nedostal žádné odměny.
-ASGOBAS_EVENT_NAME: Asgobasův Okamžitý Boj
+ASGOBAS_EVENT_NAME: Asgobasova Okamžitá bitva
 ASGOBAS_INFO_PLAYER_DEATH: Oživíš se za 20 sekund. Poté můžeš pokračovat v boji proti Asgobasovi.
 ASGOBAS_SHOUTMESSAGE_FLEE: Asgobas vzlétá do vzduchu, aby se zotavil.
 ASGOBAS_SHOUTMESSAGE_INJURED_RETREAT: Zraněný Asgobas ustupuje.
-ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobasův Okamžitý Boj začne na kanálu {0} za 5 minut.
+ASGOBAS_SHOUTMESSAGE_OPEN_ON_CHANNEL_X: Asgobasova okamžitá bitva začne na kanálu {0} za 5 minut.
 ASGOBAS_SHOUTMESSAGE_PREPARATION: Asgobas se blíží.
 ASGOBAS_SHOUTMESSAGE_PREPARATION_SOON: Útok Asgobase právě začíná.
 ASGOBAS_SHOUTMESSAGE_STRONG_MAGIC: Asgobasova magie ho dělá silnějším.
@@ -150,13 +150,22 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
 
 
 
+
+
+
   	- Vzdát se nabídky na aukční předmět.
+
+
+
 
 
 
@@ -471,8 +480,8 @@ INFORMATION_SHOUTMESSAGE_SP_POINTS_SET: Body nastaveny.
 INFORMATION_SHOUTMESSAGE_TOO_HIGH_LVL: Tvůj level je příliš vysoký.
 INFORMATION_SHOUTMESSAGE_TOO_LOW_LVL: Tvůj level je příliš nízký.
 INFORMATION_SHOUTMESSAGE_USER_NOT_BASEMAP: Hráč není na obecné mapě.
-INSTANT_COMBAT_NAME: Okamžitý boj
-INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitý boj skončí za {0} minut.
+INSTANT_COMBAT_NAME: Okamžitá bitva
+INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitá bitva skončí za {0} minut(y).
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Přicházejí monstra...
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Zbývající monstra: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitý boj skončí za {0} sekund.
@@ -862,7 +871,7 @@ RAID_INFO_PLAYER_DEATH: Jsi mrtvý! Oživíš se za 20 sekund.
 RAID_MESSAGE_DISOLVED: Tým výpravy byl rozpuštěn.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
-RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě je připravena
+RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná pečeť.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
