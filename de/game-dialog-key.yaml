@@ -23,7 +23,7 @@ ACT4_DUNGEON_REVIVAL_DIALOG: Hier wiederzubeleben kostet dich {0} Rufpunkte. Wen
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_CLOSED: Der Bossraum wurde geschlossen.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_COMPLETED: Der Dungeon-Boss wurde besiegt.
 ACT4_DUNGEON_SHOUTMESSAGE_BOSS_OPEN: Der Bossraum ist jetzt geöffnet.
-ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Das Dungeon-Tor ist jetzt in der Nähe des zentralen Grenzturms in der Bitoren Tundra geöffnet.
+ACT4_DUNGEON_SHOUTMESSAGE_STARTED: Der Dungeon Eingang ist jetzt in der Nähe des zentralen Grenzturms in der Bitoren Tundra geöffnet.
 ACT4_FERNON_SHOUTMESSAGE_CLOSED: Der Fernon-Eingang ist jetzt geschlossen.
 ACT4_FERNON_SHOUTMESSAGE_OPEN: Der Fernon-Eingang ist jetzt geöffnet. Der Luftschiffkapitän wird 1 Stunde warten.
 ACT4_NEED_FACTION: Nur diejenigen, die eine Schutzkraft besitzen, können der Gefrorenen Krone beitreten.
@@ -151,6 +151,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Einen versteigerten Gegenstand vor seinem Enddatum zu entfernen, wenn jemand bereits geboten hat.
 
 
@@ -158,7 +159,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Von einem Gebot auf einen versteigerten Gegenstand zurücktreten.
+
 
 
 
