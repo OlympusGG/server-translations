@@ -147,10 +147,13 @@ BID_MODAL_DISCLAIMER: >-
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
 
 
@@ -795,7 +798,7 @@ PSP_MESSAGE_ONE_SKILL_RESET: La habilidad de compañero ha sido reiniciada.
 PSP_MOTHER_MARU: Maru en el Pelaje de Mamá
 PSP_NELIA: Nelia Ninfa
 PSP_ORKANI: Orkani el Turbulento
-PSP_PALINA: Palina Maestra de Marionetas
+PSP_PALINA: Palina Titiritera
 PSP_PERTI: Ángel de un Ala Perti
 PSP_PHARAOH: Akhenaton el Faraón Maldito
 PSP_QNA_REMOVE: ¿Realmente quieres quitar al especialista de tu compañero?
