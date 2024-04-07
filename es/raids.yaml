@@ -1,54 +1,54 @@
-RAID_NAME_CASTRA: Castra Oscuro
+RAID_NAME_CASTRA: Dark Castra
 RAID_NAME_CHICKENKING: Rey Pollo
-RAID_NAME_CUBY: Mamá Cubi
-RAID_NAME_GIANTBLACKSPIDER: Araña negra gigante
+RAID_NAME_CUBY: Madre Cubi
+RAID_NAME_GIANTBLACKSPIDER: Araña Negra Gigante
 RAID_NAME_GINSENG: Ginseng
 RAID_NAME_NAMAJU: Namaju
 RAID_NAME_ROBBERGANG: Ibrahim
 RAID_NAME_SLADE: Slade Gigante
-RAID_NAME_KERTOS: Kertos the Demon Dog
-RAID_NAME_VALAKUS: Valakus King of Fire
-RAID_NAME_GRENIGAS: Fire God Grenigas
+RAID_NAME_KERTOS: Kertos, el Perro Demonio
+RAID_NAME_VALAKUS: Valakus, Rey del Fuego
+RAID_NAME_GRENIGAS: Grenigas, Dios del Fuego
 RAID_NAME_LORDDRACO: Lord Draco
-RAID_NAME_GLACERUS: Glacerus the Ice Cold
-RAID_NAME_LAURENA: Witch Laurena
-RAID_NAME_ZENAS: Goddess Zenas
-RAID_NAME_ERENIA: Goddess Erenia
-RAID_NAME_FERNON: Incomplete Fernon
-RAID_NAME_CHICKENQUEEN: Chicken Queen
-RAID_NAME_MADMARCHHARE: Mad March Hare
-RAID_NAME_KIROLLAS: Rey Espíritu retorcido Kirollas
-RAID_NAME_CARNO: Rey Bestia retorcido Carno
-RAID_NAME_BELIAL: Dios Demonio Belial
-RAID_NAME_PAIMON: Señor malvado supremo Paimon
+RAID_NAME_GLACERUS: Glacerus, el Frío
+RAID_NAME_LAURENA: Bruja Laurena
+RAID_NAME_ZENAS: Diosa Zenas
+RAID_NAME_ERENIA: Diosa Erenia
+RAID_NAME_FERNON: Fernon Incompleta
+RAID_NAME_CHICKENQUEEN: Reina Gallina
+RAID_NAME_MADMARCHHARE: Conejo de Pascua Enloquecido
+RAID_NAME_KIROLLAS: Kirollas, Rey de los Espíritus Corrupto
+RAID_NAME_CARNO: Carno, Rey de las Bestias Corrupto
+RAID_NAME_BELIAL: Belial, Dios Demoníaco
+RAID_NAME_PAIMON: Paimon, Soberano Maligno
 RAID_NAME_PIRATE: Capitán Pete O'Peng
 RAID_NAME_JACKOLANTERN: Jack O'Lantern
-RAID_NAME_FOXY: Foxy
+RAID_NAME_FOXY: Vulpina
 RAID_NAME_MARU: Maru
-RAID_NAME_SNOWMAN: Gran Cabeza de muñeco de nieve
-RAID_NAME_ALZANOR: Dragón de hielo Alzanor
+RAID_NAME_SNOWMAN: Cabeza Grande de Muñeco de Nieve
+RAID_NAME_ALZANOR: Dragón de Hielo Alzanor
 RAID_NAME_VALEHIR: Dragón Zombie Valehir
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos ha comenzado a reunir fuerza."
-GRENIGAS_SHOUTMESSAGE_EGG_DIE: "El enorme Fénix Grail ha renacido del huevo."
-GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "El enorme Fénix Grail se ha transformado en un huevo."
+GRENIGAS_SHOUTMESSAGE_EGG_DIE: "El enorme Fénix de Grial ha renacido del huevo."
+GRENIGAS_SHOUTMESSAGE_PHOENIX_DIE: "El enorme Fénix de Grial se ha transformado en un huevo."
 GRENIGAS_CHATMESSAGE_PHOENIX_RISE: "¡Álzate, Fénix!"
-GRENIGAS_CHATMESSAGE_GATHER_POWER: "¡El poder el Dios de fuego destruirá todo!"
+GRENIGAS_CHATMESSAGE_GATHER_POWER: "¡El poder del dios del fuego destruirá todo!"
 GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "¡El poder del fuego se está acumulando alrededor de Grenigas!"
 GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas ha absorbido el Cristal de la Vida y ha ganado nueva vitalidad."
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Todos los jugadores han sucumbido al hielo eterno de Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: ¡Salvaros entrando en un área de protección!"
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: ¡Salvaos entrando en un área de protección!"
 ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "La primera prueba de Erenia comenzará pronto."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Habéis completado la primera prueba de Erenia. La segunda comenzará pronto."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Habéis completado la segunda prueba de Erenia. La prueba final comenzará pronto."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Erenia. Está montando un alboroto."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Erenia. Está realmente furiosa."
 ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "La primera prueba de Zenas comenzará pronto."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Habéis completado la primera prueba de Zenas. La segunda comenzará pronto."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Habéis completado la segunda prueba de Zenas. La prueba final comenzará pronto."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Zenas. Está montando un alboroto."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Habéis fallado la prueba final de Zenas. Está teniendo un arrebato de furia."
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "La decimotercera ala de Zenas, Arcángel Lucifer, ha aparecido."
 FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Han aparecido los seguidores de Fernon."
-PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: El malvado señor supremo está invocando a sus unidades más fuertes.
-RAID_NAME_FAFNIR: Fafnir el Codicioso
+PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: El soberano maligno está invocando a sus unidades más fuertes.
+RAID_NAME_FAFNIR: Fafnir, el Codicioso
 FAFNIR_RAID_SHOUTMESSAGE_BLAZE_SKILL: ¡Os fundiré a todos!
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: ¡Pete O'Peng ha invocado a los Dragones del Mar!
