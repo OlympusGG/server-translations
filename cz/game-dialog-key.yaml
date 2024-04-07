@@ -153,6 +153,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
@@ -162,7 +163,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
 
@@ -485,7 +488,7 @@ INSTANT_COMBAT_SHOUTMESSAGE_MINUTES_REMAINING: Okamžitá bitva skončí za {0} 
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_INCOMING: Přicházejí monstra...
 INSTANT_COMBAT_SHOUTMESSAGE_MONSTERS_LEFT: 'Zbývající monstra: {0}'
 INSTANT_COMBAT_SHOUTMESSAGE_SECONDS_REMAINING: Okamžitý boj skončí za {0} sekund.
-INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulujeme! Vyhrál jsi Okamžitý boj.
+INSTANT_COMBAT_SHOUTMESSAGE_SUCCEEDED: Gratulujeme! Vyhrál jsi Okamžitou bitvu.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_FAILED: Bohužel se ti nepodařilo porazit vlnu a získat kořist.
 INSTANT_COMBAT_SHOUTMESSAGE_WAVE_SECONDS_REMAINING: Další vlna začne za {0} sekund.
 INTERACTION_CHATMESSAGE_INTRODUCTION_SET: Úvodní sada.
@@ -500,8 +503,8 @@ INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Aby bylo možné změnit kř
 INTERACTION_SPEAKER_UNDER_COOLDOWN: Můžeš použít jen jeden reproduktor každých 30 sekund.
 INTERACTION_SPEAKER_URLS_FORBIDDEN: Reproduktory nemohou obsahovat URL adresy.
 INTERACTION_VESSEL_LIMIT_REACHED: Počet příšer ve vesmírné lodi dosáhl limitu pro současnou mapu.
-INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Získáno: {1} x{0} + {2}'
-INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Získáno: {1} x{0}'
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Obdržel jsi: {1} x{0} + {2}'
+INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obdržel jsi: {1} x{0}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED_BY_PLAYER: '{0} dostal(a) předmět: {1}'
 INVENTORY_DIALOG_ASK_SORT: Chceš seřadit své předměty? Má to minutový cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Chceš smazat tento předmět?
@@ -826,7 +829,7 @@ PSP_YUNA: Kouzelnická studentka Yuna
 QUEST_CHATMESSAGE_ITEM_PICK_UP: '{0} sesbíráno: [{1}/{2}]'
 QUEST_CHATMESSAGE_KENKO_IS_TOO_STRONG: Tento voják Kenko je příliš silný.
 QUEST_CHATMESSAGE_NEW_MISSION_FROM_NPC: U NPC můžeš dostat nový úkol.
-QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] lovíš {1}/{2}'
+QUEST_CHATMESSAGE_X_HUNTING_Y_Z: '[{0}] Ulovil jsi {1}/{2}'
 QUEST_DIALOG_START_MAIN_QUEST: Nemůžeš opustit hlavní úkol, jakmile ho začneš. Přesto začít?
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Chceš se teleportovat?
 QUEST_DISABLED: Tento úkol je deaktivován.
