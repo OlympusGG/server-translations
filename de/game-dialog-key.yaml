@@ -1136,3 +1136,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Du hast nicht genug Aktivitäts
 WORLD_BOSS_EVENT_NAME: Weltboss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'

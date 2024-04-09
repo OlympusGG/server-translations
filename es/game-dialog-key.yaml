@@ -237,7 +237,7 @@ EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: ¡Has desbloqueado una nueva ranura del Int
 EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: No tienes ninguna ranura del Intercambiador de Equipos debloqueada.
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Necesitas tener un título equipado.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Este Conjunto de Equipo no está desbloqueado.
-EQUIPMENT_SET_SWAPPED_TO_X: "Conjunto de Equipo cambiado a: \"{0}\""
+EQUIPMENT_SET_SWAPPED_TO_X: 'Conjunto de Equipo cambiado a: "{0}"'
 FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
@@ -391,7 +391,7 @@ ICEBREAKER_SHOUTMESSAGE_END: La Arena de Hielo ha terminado.
 ICEBREAKER_SHOUTMESSAGE_END_WARNING: La Arena de Hielo terminará en {0}:{1}.
 ICEBREAKER_SHOUTMESSAGE_FIGHT_WARN: El PvP se activará en {0} segundos.
 ICEBREAKER_SHOUTMESSAGE_MATCHMAKING_WARNING: La inscripción a la Arena de Hielo termina en {0} segundos.
-ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: 'No tienes suficiente oro para participar en la Arena de Hielo (necesitas {0} monedas de oro)'
+ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_GOLD: No tienes suficiente oro para participar en la Arena de Hielo (necesitas {0} monedas de oro)
 ICEBREAKER_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: No hay suficientes jugadores para comenzar la Arena de Hielo.
 ICEBREAKER_SHOUTMESSAGE_NOT_IN_BASE_MAP: Necesitas estar en un Mapa Base para participar en la Arena de Hielo.
 ICEBREAKER_SHOUTMESSAGE_PLAYER_FROZEN: El jugador "{0}" ha sido congelado.
@@ -560,7 +560,7 @@ LOTTERY_CHATMESSAGE_TOTAL_TICKETS: 'Total de Participantes: {0}'
 LOTTERY_SHOUTMESSAGE_FAIL: Ocurrió un error al comprar un boleto. Por favor, contacta con el soporte.
 LOTTERY_SHOUTMESSAGE_WINNER_PICKED: ¡{0} ha ganado la lotería!
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: No puedes recibir más Monedas de Lealtad de esta actividad por hoy.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Has recibido {0} Monedas de Lealtad completando una actividad del Sistema de Lealtad. Puedes volver a hacerlo {1} veces hoy'
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: Has recibido {0} Monedas de Lealtad completando una actividad del Sistema de Lealtad. Puedes volver a hacerlo {1} veces hoy
 LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: No puedes recibir más Monedas de Lealtad hoy.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Has recibido un paquete ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} correo(s) en tu bandeja de entrada.
@@ -1136,3 +1136,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: No has recibido suficientes punt
 WORLD_BOSS_EVENT_NAME: Evento de Jefe de Mundo
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
