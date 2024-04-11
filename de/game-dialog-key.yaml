@@ -159,6 +159,8 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	–Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -174,7 +176,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	–Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
+
 
 
 
@@ -869,7 +875,7 @@ RAID_CHATMESSAGE_KICKED: Du wurdest aus dem Raid-Team geworfen.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} wurde aus dem Raid-Team geworfen.'
 RAID_CHATMESSAGE_LEFT: '{0} hat das Raid-Team verlassen.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Da dein Level nicht dem empfohlenen Level für den Raid entspricht, kann keine Raidbox vergeben werden, selbst wenn die Raid-Aufgabe abgeschlossen ist.
-RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {0} Mal am Raid teilnehmen.
+RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {1} Mal am {0} Raid teilnehmen.
 RAID_CHATMESSAGE_LIMIT_REACHED: Du hast die maximale Anzahl an Teilnahmen im {0} Raid erreicht.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilzunehmen.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist jetzt der neue Anführer des Raid-Teams.'
