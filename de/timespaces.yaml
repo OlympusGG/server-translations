@@ -100,7 +100,7 @@ TS_46_DESCRIPTION: "Willkommen am Westlichen Krem. Das ist die Heimat der Koaren
 TS_46_TEXT_0: "Pass auf, Feinde!"
 TS_46_TEXT_1: "Plötzlicher Angriff!"
 TS_48_NAME: "Die Prinzessin der Catsies"
-TS_48_DESCRIPTION: "Der Fernonbaum könnte zerstört worden sein, aber seine Wurzeln sind immer noch hier am Krem. Wir müssen die Wurzeln ausreißen und sicherstellen, dass er sich nicht erholen kann. Warte! Was ist das? Es sieht so aus, als wäre jemand vor uns hier gewesen. Aber war es ein Freund oder ein Feind?"
+TS_48_DESCRIPTION: "Der Fernonbaum könnte zerstört worden sein, aber seine Wurzeln sind immer noch hier am Krem. Wir müssen die Wurzeln ausreißen und sicherstellen, dass sie sich nicht erholen können. Warte! Was ist das? Es sieht so aus, als wäre jemand vor uns hier gewesen. Aber war es ein Freund oder ein Feind?"
 TS_48_TEXT_0: "Monster im Anmarsch!"
 TS_48_TEXT_1: "Es ist eine Falle! Feinde sind im Anmarsch!"
 TS_51_NAME: "Kenel vs Catlotte"
@@ -179,10 +179,10 @@ TS_1202_NAME: "Prophezeiter Pfad"
 TS_1202_DESCRIPTION: "Dacre Decatur hat gelesen, dass es eine dreifach Gabelung in der Höhle gibt, in der sich die Antiken Schriften befinden. Lass uns alle drei Wege erkunden!"
 TS_1203_NAME: "Prophezeiter Pfad"
 TS_1203_DESCRIPTION: "Dacre Decatur hat gelesen, dass es eine dreifach Gabelung in der Höhle gibt, in der sich die Antiken Schriften befinden. Lass uns alle drei Wege erkunden!"
-TS_MOLE_NAME: Maulwurfmutters Höhle
-TS_MOLE_DESCRIPTION: Bildet eine Gruppe, um die Monster zu besiegen, die die Maulwurfmutter beschützen.
+TS_MOLE_NAME: Höhle der Maulwurfsmutters
+TS_MOLE_DESCRIPTION: Bildet eine Gruppe, um die Monster zu besiegen, welche die Maulwurfmutter beschützen.
 TS_DESERT_NAME: Ibrahims Schatzkammer
-TS_DESERT_DESCRIPTION: Die Räuber verteidigen ihre Schatzkammer, jagt sie, um ihre Schlüssel zu sammeln und die Schätze zu plündern!
-TS_MOLE_TEXT_1: Der Weg teilt sich! Sammelt euch weiter vorne!
+TS_DESERT_DESCRIPTION: Die Räuber verteidigen ihre Schatzkammer. Jagt sie, um ihre Schlüssel zu sammeln und die Schätze zu plündern!
+TS_MOLE_TEXT_1: Der Weg teilt sich! Sammelt euch weiter vorne erneut!
 TS_DESERT_TEXT_1: Jagt die Räuber, bis die Schatzkammer sich öffnet!
 TS_DESERT_TEXT_2: Benutzt eure Schlüssel, um die Truhen zu öffnen!
