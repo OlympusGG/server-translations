@@ -146,36 +146,9 @@ BID_MODAL_DISCLAIMER: >-
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
 
-
-
-
-
-
-
-
-
-
   	–Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
-
-
-
-
-
-
-
-
-
   	–Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
-
-
-
-
-
-
-
-
-
 
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
@@ -587,8 +560,8 @@ LOTTERY_CHATMESSAGE_TOTAL_TICKETS: 'Gesamtteilnehmer: {0}'
 LOTTERY_SHOUTMESSAGE_FAIL: Beim Kauf eines Tickets ist ein Fehler aufgetreten. Bitte kontaktiere den Support.
 LOTTERY_SHOUTMESSAGE_WINNER_PICKED: '{0} hat die Lotterie gewonnen!'
 LOYALTY_SYSTEM_CHAT_MESSAGE_MAXIMUM_DAILY_COMPLETIONS: Du kannst heute keine Loyalitätsmünzen mehr durch diese Aktivität erhalten.
-LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Du hast {0} Münzen für das Abschließen einer Aktivität im Treuesystem erhalten. Verbleibende tägliche Aktivitätsabschlüsse: {1}'
-LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: Du kannst heute keine Treue-Münzen mehr erhalten.
+LOYALTY_SYSTEM_CHAT_MESSAGE_RECEIVED_COIN: 'Du hast {0} Münzen für das Abschließen einer Aktivität im Loyalitätssystem erhalten. Verbleibende tägliche Aktivitätsabschlüsse: {1}'
+LOYALTY_SYSTEM_SHOUT_CANNOT_RECEIVE_MORE_COINS: Du kannst heute keine Loyalitätsmünzen mehr erhalten.
 MAIL_CHATMESSAGE_NEW_MAIL_RECEIVE: Du hast ein Paket erhalten ({0}/{1}).
 MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachricht(en) in deinem Posteingang.
 MAIL_INFO_OPEN_FAILED: Fehler beim Öffnen der Mail.
@@ -614,7 +587,7 @@ MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Die Produktionspunkte der Minispiele 
 MINIGAME_INFO_NO_REWARD: In diesem Minispiel gibt es keine Belohnungen.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
 MINIGAME_INFO_REFILL: 'Punkte für Minispielbeiträge: {0}'
-MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Level {0} sein und {1} Ansehen haben, um dieses Minispiel zu spielen.
+MINILAND_CHATMESSAGE_NOT_FULLFILLING_MINIGAME_REQUIREMENTS: Du musst Level {0} sein und {1} Ruf haben, um dieses Minispiel zu spielen.
 MINILAND_DIALOG_ASK_INVITE: Möchtest du das Miniland von {0} betreten?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Du erhältst keine Belohnungen, weil du nicht genug Produktionspunkte hast. Trotzdem fortfahren?
 MINILAND_INFO_CHANGED: Deine Miniland-Begrüßungsnachricht wurde geändert!
@@ -857,7 +830,7 @@ RAID_CHATMESSAGE_KICKED: Du wurdest aus dem Raid-Team geworfen.
 RAID_CHATMESSAGE_KICKED_OTHER: '{0} wurde aus dem Raid-Team geworfen.'
 RAID_CHATMESSAGE_LEFT: '{0} hat das Raid-Team verlassen.'
 RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Da dein Level nicht dem empfohlenen Level für den Raid entspricht, kann keine Raidbox vergeben werden, selbst wenn die Raid-Aufgabe abgeschlossen ist.
-RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {0} Mal am Raid teilnehmen.
+RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {1} Mal am {0} Raid teilnehmen.
 RAID_CHATMESSAGE_LIMIT_REACHED: Du hast die maximale Anzahl an Teilnahmen im {0} Raid erreicht.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilzunehmen.
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist jetzt der neue Anführer des Raid-Teams.'
@@ -886,7 +859,7 @@ RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, wenn du in einer Gruppe bist.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannst keine Gruppenmitglieder zu einem Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du in der Arena bist.
-RAID_SHOUTMESSAGE_COMPLETED: Das Team von Spieler {0} hat {1} Raid abgeschlossen!
+RAID_SHOUTMESSAGE_COMPLETED: Das Team von Spieler {0} hat den {1} Raid abgeschlossen!
 RAID_SHOUTMESSAGE_FERNON_1_MINUTE: Der Fernon Raid wird in 1 Minute geschlossen!
 RAID_SHOUTMESSAGE_FERNON_5_MINUTES: Der Fernon Raid wird in 5 Minuten geschlossen!
 RAID_SHOUTMESSAGE_FERNON_OPEN_IN_X_MINUTES: Der Fernon Eingang wird in Cylloan in {0} Minuten geöffnet!
@@ -1091,12 +1064,12 @@ TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Eine Tür hat sich geöffnet.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Irgendwo hat sich eine Tür geöffnet.
 TIMESPACE_SHOUTMESSAGE_ENEMIES_REINFORCEMENTS: Die Feinde bekommen Verstärkung.
 TIMESPACE_SHOUTMESSAGE_LEVER_OPERATED: Der Hebel wurde umgelegt.
-TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Eines der Gruppenmitglieder ist nicht auf der allgemeinen Karte.
+TIMESPACE_SHOUTMESSAGE_MEMBER_NOT_IN_CLASSIC_MAP: Eines der Gruppenmitglieder ist nicht auf einer allgemeinen Karte.
 TIMESPACE_SHOUTMESSAGE_MISSION_UPDATED: Die Mission wurde aktualisiert.
 TIMESPACE_SHOUTMESSAGE_MUST_BE_IN_GROUP: Du musst eine Gruppe haben für diesen Timespace.
 TIMESPACE_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Nicht genug Gruppenmitglieder, um den Timespace zu starten.
-TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Du bist nicht der Besitzer dieses Timespace.
-TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Eines der Mitglieder ist nicht auf derselben Karte wie du.
+TIMESPACE_SHOUTMESSAGE_NOT_OWNER: Du bist nicht der Leiter dieses Timespace.
+TIMESPACE_SHOUTMESSAGE_NOT_THE_SAME_MAP: Eines der Mitglieder ist nicht auf der selben Karte wie du.
 TIMESPACE_SHOUTMESSAGE_QUICK_MISSION_DONE: Du hast die Schnellmission erfolgreich abgeschlossen.
 TIMESPACE_SHOUTMESSAGE_TIMESPACE_ENTER: Die Mission beginnt, sobald du den ersten Raum betrittst.
 TIMESPACE_SHOUTMESSAGE_TS_FULL: Der Timespace ist voll.
@@ -1109,46 +1082,46 @@ TITLE_INFO_EFFECT_ENABLED: Titel-Effekt wurde aktiviert.
 TITLE_INFO_UNLOCKED: Der Titel wurde freigeschaltet.
 TITLE_INFO_VISIBLE_DISABLED: Titel-Sichtbarkeit deaktiviert.
 TITLE_INFO_VISIBLE_ENABLED: Titel-Sichtbarkeit aktiviert.
-TRADE_CHATMESSAGE_BLOCKED: Benutzer hat Handel blockiert.
+TRADE_CHATMESSAGE_BLOCKED: Benutzer blockiert Tauschanfragen.
 TRADE_CHATMESSAGE_REFUSED: Spieler {0} hat deine Tauschanfrage abgelehnt.
-TRADE_CHATMESSAGE_YOU_REFUSED: Handel abgelehnt.
-TRADE_DIALOG_ASK_FOR_TRADE: Du hast {0} um einen Handel gebeten.
-TRADE_DIALOG_INCOMING_EXCHANGE: Spieler {0} [{1}(+{2})Lv.] möchte mit dir handeln.
-TRADE_INFO_PLAYER_IN_BATTLE: Du kannst im Kampf nicht handeln.
+TRADE_CHATMESSAGE_YOU_REFUSED: Tausch abgelehnt.
+TRADE_DIALOG_ASK_FOR_TRADE: Du hast {0} eine Tauschanfrage gesendet.
+TRADE_DIALOG_INCOMING_EXCHANGE: Spieler {0} [{1}(+{2})Lv.] möchte mit dir tauschen.
+TRADE_INFO_PLAYER_IN_BATTLE: Du kannst im Kampf nicht tauschen.
 TRADE_INFO_WAITING_FOR_TARGET: Warte auf {0}...
-TRADE_MODAL_ALREADY_IN_EXCHANGE: Dieser Spieler handelt bereits.
+TRADE_MODAL_ALREADY_IN_EXCHANGE: Dieser Spieler tauscht bereits mit einem anderen Spieler.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Du kannst nicht mit Ladenbesitzern handeln.
-TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Gegenstand kann nicht gehandelt werden.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Du kannst während eines Raids nicht handeln.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du kannst nicht mit einem Raid-Mitglied handeln.
-TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: Dieser Pokal hat bereits die höchste Stufe erreicht.
-TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: Dieser Gegenstand ist kein Pokal.
-TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: Das Upgrade des Pokals ist fehlgeschlagen.
-TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: Das Upgrade des Pokals war erfolgreich.
-TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} hat ihren Pokal erfolgreich auf die höchste Stufe geupgradet: {1}!'
+TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Gegenstand kann nicht getauscht werden.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Du kannst während eines Raids nicht tauschen.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Du kannst nicht mit einem Raid-Mitglied tauschen.
+TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: Diese Trophäe hat bereits die höchste Stufe erreicht.
+TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: Dieser Gegenstand ist keine Trophäe.
+TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: Das Upgrade der Trophäe ist fehlgeschlagen.
+TROPHIES_SHOUTMESSAGE_UPGRADE_SUCCESS: Das Upgrade der Trophäe war erfolgreich.
+TROPHIES_SHOUTMESSAGE_UPGRADE_TIER_3: '{0} hat eine Trophäe erfolgreich auf die höchste Stufe verbessert: {1}!'
 UPGRADE_DIALOG_ASK_CONFIRMATION: Willst du die Verstärkung so durchführen, wie du es eingestellt hast?
-UPGRADE_MESSAGE_FAILED: Aufwertung fehlgeschlagen.
-UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Aufwertung fehlgeschlagen, aber der Gegenstand wurde gerettet.
-UPGRADE_MESSAGE_FIXED: Level korrigiert.
+UPGRADE_MESSAGE_FAILED: Verbesserung fehlgeschlagen.
+UPGRADE_MESSAGE_FAILED_ITEM_SAVED: Verbesserung fehlgeschlagen, aber der Gegenstand wurde gerettet.
+UPGRADE_MESSAGE_FIXED: Level fixiert.
 UPGRADE_MESSAGE_SP_DESTROYED: Die Seele der Spezialistenkarte wurde zerstört!
 UPGRADE_MESSAGE_SP_DESTROYED_SAVED: Die Seele der Spezialistenkarte wurde durch die Schriftrolle gerettet.
-UPGRADE_MESSAGE_SP_FAILED: SP-Aufwertung fehlgeschlagen.
-UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte erfolgreich aufgewertet!
-UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity-System] Deine Spezialistenkarte wurde aufgewertet.'
-UPGRADE_MESSAGE_SUCCESS: Upgrade erfolgreich!
-UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Deine Ausrüstung wurde geupgradet.'
-UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Du hast die Option 'Sicheres Upgrade' aktiviert, deaktiviere sie, wenn du ohne Schriftrolle upgraden möchtest.
-VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Nutze die Energie des Zombie-Drachens, die du von Monstern gefangen hast, um den Nebel der Angst zu vertreiben.
-VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Besiege alle beschworenen Monster, um den Nebelschild zu entfernen.
+UPGRADE_MESSAGE_SP_FAILED: SP-Verbesserung fehlgeschlagen.
+UPGRADE_MESSAGE_SP_SUCCESS: Spezialistenkarte erfolgreich verbessert!
+UPGRADE_MESSAGE_SP_SUCCESS_PITY: '[Pity-System] Deine Spezialistenkarte wurde verbessert.'
+UPGRADE_MESSAGE_SUCCESS: Verbesserung erfolgreich!
+UPGRADE_MESSAGE_SUCCESS_PITY: '[Pity System] Deine Ausrüstung wurde verbessert.'
+UPGRADE_MESSAGE_UPGRADE_BLOCKED_WITHOUT_SCROLL: Du hast die Option 'Sicheres Verbessern' aktiviert, deaktiviere sie, wenn du ohne Schriftrolle verbessern möchtest.
+VALEHIR_SHOUTMESSAGE_FOG_OF_FEAR: Nutze die Energie des Zombiedrachens, die du von Monstern gefangen hast, um den Nebel der Angst zu vertreiben.
+VALEHIR_SHOUTMESSAGE_FOG_SHIELD: Besiege alle beschworenen Monster, um das Nebelschild zu entfernen.
 VALENTINE_PROPOSE: Möchtest du das Valentinstagsgeschenk von {0} annehmen?
 VALENTINE_PROPOSE_ACCEPTED: '{0} hat das Valentinstagsgeschenk angenommen.'
 VALENTINE_PROPOSE_REJECTED: '{0} hat das Valentinstagsgeschenk abgelehnt.'
 VALENTINE_PROPOSE_SENT: '{0} wurde gefragt, ob er das Geschenk annehmen möchte.'
 WARDROBE_INFO_NEED_KEY: Du benötigst einen Garderobenschlüssel, um diese Funktion zu nutzen.
 WARP_SYSTEM_QNA_REMOVE_HOME_X_IN_MAP_Y: Bist du sicher, dass du deinen Warp auf der Karte {1} (Slot {0}) entfernen möchtest?
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Du kannst dieser Karte nicht beitreten.
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Dieser Rückkehrpunkt ist gerade in der Abklingzeit. Verbleibende Zeit: {0} Sekunden'
-WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Du kannst diese Karte noch nicht betreten. Du befindest dich entweder im Kampf oder unter der Abklingzeit für einen Kartenwechsel.
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Du kannst diese Karte nicht betreten.
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Dieser Rückkehrort ist gerade in Abklingzeit. Verbleibende Zeit: {0} Sekunden'
+WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Du kannst diese Karte noch nicht betreten. Du befindest dich entweder im Kampf oder hast Abklingzeit durch einen Kartenwechsel.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Du kannst auf dieser Karte keinen Warp setzen.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Möchtest du dich scheiden lassen?
 WEDDING_DIALOG_REQUEST_RECEIVED: Spieler {0} hat dir einen Heiratsantrag gemacht. Nimmst du den Heiratsantrag an?
@@ -1159,7 +1132,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgel
 WEEKLY_ACHIEVEMENTS_REFRESHED: Wöchentlich wiederholbare Erfolge wurden zurückgesetzt.
 WINGS_SWAPPER_DELAY_SWAPPING: Du musst {0} warten, bevor du deine Flügel erneut wechseln kannst.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Du musst {0} warten, nachdem du eine Fähigkeit benutzt hast, um deine Flügel wechseln zu können.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: '#WELTBOSS_CHATNACHRICHT_NICHT_GENUG_BEITRAG'
-WORLD_BOSS_EVENT_NAME: Weltboss-Event
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Du hast nicht genug Aktivitätspunkte gesammelt, um eine Belohnung zu erhalten.'
+WORLD_BOSS_EVENT_NAME: Weltboss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet

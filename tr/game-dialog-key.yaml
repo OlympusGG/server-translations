@@ -146,15 +146,9 @@ BID_MODAL_DISCLAIMER: >-
 
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, şu durumlarda yapamayacaksınız:
 
-
-
   	- Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
 
-
-
   	- Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
-
-
 
 
   Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
@@ -236,14 +230,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Birini cesaretlendirebilmek için {0} seviyeye
 ENCOURAGE_CHATMESSAGE_RECEIVED: Oyuncu {0} seni cesaretlendirdi.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Bu eşya dönüştürülemez.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Eşya başarıyla dönüştürüldü {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
-EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
-EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
-EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
+EQUIPMENT_SET_MSG_COOLDOWN: Ekipman seti değişimini tekrar kullanmak için beklemeniz gerekir.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Ekipman seti değişimini kullanabilmek için savaşın dışında olmanız gerekir.
+EQUIPMENT_SET_MSG_INVALID_NAME: Bu Ekipman Seti adı doğru değil.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Yeni bir Ekipman Seti yuvasının kilidini açtınız!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Kilidini açabileceğiniz herhangi bir Ekipman Seti yuvanız yok.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Bir unvan kullanıyor olmanız gerekmektedir.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Bu Ekipman Seti yuvasının kilidi açık değil.
+EQUIPMENT_SET_SWAPPED_TO_X: "Ekipman Seti şu şekilde değiştirildi: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: Peri ayarları değiştirildi.
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Aşırı şarjlı peri yükseltilmez.
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Altın alet kullanıldı.

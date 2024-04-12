@@ -142,7 +142,22 @@ BID_INFO_UNEXPECTED_ERROR: El Sistema de Pujas ha encontrado un error inesperado
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Se ha recuperado {0} oro del artículo subastado y enviado a tu cuenta bancaria.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: El artículo subastado ha sido recuperado con éxito.
 BID_MODAL_DISCLAIMER: >-
-  Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.[n]Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:[n][n]- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.[n]- Retirarte de una puja hecha a un artículo subastado.[n]El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea de primera para subastas rápidas, así que por favor ten cuidado.[n]El botón para poner un artículo en subasta te pedirá confirmación antes de proceder. Esto se hace para asegurar la decisión de un jugador.[n]¡Felices Pujas!
+  Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.
+
+  Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
+
+
+  	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
+
+  	- Retirarte de una puja hecha a un artículo subastado.
+
+  El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea de primera para subastas rápidas, así que por favor ten cuidado.
+
+
+  El botón para poner un artículo en subasta te pedirá confirmación antes de proceder. Esto se hace para asegurar la decisión de un jugador.
+
+
+  ¡Felices Pujas!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Abrir subasta
 BID_NOTIFMESSAGE_BOUGHT_ITEM: Ganaste la subasta.
 BID_NOTIFMESSAGE_EXPIRED_ITEM: La subasta ha terminado sin ningún postor.
