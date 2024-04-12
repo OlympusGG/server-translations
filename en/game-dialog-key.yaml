@@ -1133,3 +1133,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough parti
 WORLD_BOSS_EVENT_NAME: World Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: A temporary portal opened in {0}
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'

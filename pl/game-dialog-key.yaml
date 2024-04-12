@@ -48,13 +48,13 @@ AMMO_LOADED_SWORDSMAN: Bełty załadowane!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: 'Artefakt posiada już najwyższy stopień ulepszenia'
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: 'Przedmiot nie jest artefaktem'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: 'Próba ulepszenia Tieru artefaktu nie powiodła się'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: 'Sukces! Tier artefaktu został pomyślnie zwiększony'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: 'Próba ulepszenia artefaktu nie powiodła się'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: 'Artefakt posiada najwyższy stopień ulepszenia'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Sukces! Artefakt został pomyślnie ulepszony'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Artefakt posiada już najwyższy stopień ulepszenia
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Przedmiot nie jest artefaktem
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Próba ulepszenia Tieru artefaktu nie powiodła się
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Sukces! Tier artefaktu został pomyślnie zwiększony
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Próba ulepszenia artefaktu nie powiodła się
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: Artefakt posiada najwyższy stopień ulepszenia
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Sukces! Artefakt został pomyślnie ulepszony
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nie możesz nosić dwóch artefaktów tego samego typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Otrzymałeś {0} punktów doświadczenia w walce jako nagrodę za tę rundę.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Otrzymałeś {0} punktów doświadczenia mistrza jako nagrodę za tę rundę.
@@ -1136,3 +1136,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough parti
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
