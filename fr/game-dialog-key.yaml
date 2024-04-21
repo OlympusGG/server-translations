@@ -145,10 +145,8 @@ BID_MODAL_DISCLAIMER: >-
   Avant d'utiliser le Système d'Enchères, veuillez vous assurer de lire et comprendre cet avertissement.
 
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
-
-  	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
-
-  	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+  	– Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
+  	– Se rétracter d'une enchère faite sur un objet mis aux enchères.
 
 
   Le bouton pour enchérir sur un objet ne demandera pas de confirmation, ceci pour garantir une réponse optimale pour les enchères rapides, alors soyez prudent.
@@ -1136,5 +1134,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Pas assez de contribution pour l
 WORLD_BOSS_EVENT_NAME: Événement Boss Mondial
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portail temporaire s'est ouvert à {0}
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} va apparaître dans {1} dans {2} minute(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} va apparaître dans {1} dans {2} seconde(s)!'
