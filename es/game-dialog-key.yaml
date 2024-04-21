@@ -147,9 +147,12 @@ BID_MODAL_DISCLAIMER: >-
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
   El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea de primera para subastas rápidas, así que por favor ten cuidado.
 
@@ -1136,5 +1139,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: No has recibido suficientes punt
 WORLD_BOSS_EVENT_NAME: Evento de Jefe de Mundo
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '¡{0} aparecerá en {1} en {2} minuto(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '¡{0} aparecerá en {1} en {2} segundos!'
