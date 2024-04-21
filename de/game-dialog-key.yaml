@@ -147,10 +147,13 @@ BID_MODAL_DISCLAIMER: >-
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
 
 
+
   	–Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
+
   	–Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
@@ -410,8 +413,8 @@ INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosBasar-Medaille ist gerade aktiv.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerspezialisten-Transformation Abklingzeit: {0} Sekunden'
-INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf: -{0}'
-INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf: +{0}'
+INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: -{0}'
+INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf erhöht: +{0}'
 INFORMATION_CHATMESSAGE_REQUIRED_ITEM_EXPENDED: '{1}x {0} verwendet.'
 INFORMATION_CHATMESSAGE_SCROLL_PROTECT_USED: Schutzrolle wurde verwendet.
 INFORMATION_CHATMESSAGE_SP_STAY_TIME: 'Spezialisten-Transformation Abklingzeit: {0} Sekunden'
