@@ -1141,3 +1141,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví za {1} za {2} minutu/minuty!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví za {1} za {2} sekund!'
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo štěstí pro {0}: {1}/{2}.'
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v mnohovesmíru.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt byl vylepšen díky štěstí.
