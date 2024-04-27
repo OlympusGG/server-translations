@@ -148,7 +148,6 @@ BID_MODAL_DISCLAIMER: >-
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
   	– Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
 
-
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
 
 
@@ -228,14 +227,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Puoi incoraggiare qualcuno solo se hai raggiun
 ENCOURAGE_CHATMESSAGE_RECEIVED: Il giocatore {0} ti ha incoraggiato.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Questo oggetto non può essere convertito.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: L'oggetto è stato convertito con successo {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
-EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
-EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
-EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
+EQUIPMENT_SET_MSG_COOLDOWN: Devi aspettare prima di poter cambiare di nuovo il set di equipaggiamento.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Devi essere fuori dal combattimento per poter cambiare il set di equipaggiamento.
+EQUIPMENT_SET_MSG_INVALID_NAME: Il nome di questo Set di Equipaggiamento non è corretto.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Hai sbloccato un nuovo slot per il Set di Equipaggiamento!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Non hai alcuno slot di Set di Equipaggiamento sbloccabile.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Devi avere un titolo equipaggiato.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Questo slot del Set di Equipaggiamento non è sbloccato.
+EQUIPMENT_SET_SWAPPED_TO_X: "Set di equipaggiamento cambiato in: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: Opzioni della fata modificate
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Impossibile potenziare ulteriormente a causa della sovraccarica
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Strumento dorato utilizzato
@@ -1130,9 +1129,9 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rifiutato la proposta di matrimo
 WEEKLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi settimanali ripetibili sono stati aggiornati.
 WINGS_SWAPPER_DELAY_SWAPPING: Devi aspettare {0} tra uno scambio e l'altro per cambiare di nuovo le tue ali.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Devi aspettare {0} dopo aver usato un'abilità per poter scambiare le tue ali.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Contributo insufficiente per il boss mondiale
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Non hai ricevuto abbastanza punti partecipazione per guadagnare una ricompensa.
 WORLD_BOSS_EVENT_NAME: Evento World Boss
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} apparirà in {1} tra {2} minuto(i)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} apparirà in {1} tra {2} secondo(i)!'

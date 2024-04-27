@@ -148,7 +148,6 @@ BID_MODAL_DISCLAIMER: >-
   	– Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
   	– Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
 
-
   Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 
 
@@ -1134,5 +1133,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Dünya Boss etkinliğinde yeterl
 WORLD_BOSS_EVENT_NAME: Dünya Boss Etkinliği
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'

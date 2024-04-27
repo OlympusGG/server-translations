@@ -148,6 +148,7 @@ BID_MODAL_DISCLAIMER: >-
   	– Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
   	– Vzdát se nabídky na aukční předmět.
 
+
   Tlačítko pro nabídnutí na předmět tě o potvrzení nepožádá, aby byla jeho reakce rychlá pro dynamické aukce, takže buď opatrný.
 
 
@@ -227,14 +228,14 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Můžeš někoho povzbudit, jen když dosáhne
 ENCOURAGE_CHATMESSAGE_RECEIVED: Hráč {0} tě povzbudil.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tento předmět nelze převést.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Předmět byl úspěšně převeden {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: You need to wait to use the equipment set swapping again.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: You need to be out of combat to be able to use equipment set swapping.
-EQUIPMENT_SET_MSG_INVALID_NAME: This Equipment Set name is not correct.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: You unlocked a new Equipment Set slot!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: You do not have any Equipment Set slot unlockable.
-EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: You need to have a title equipped.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: This Equipment Set slot is not unlocked.
-EQUIPMENT_SET_SWAPPED_TO_X: "Equipment Set swapped to: '{0}'"
+EQUIPMENT_SET_MSG_COOLDOWN: Musíš chvíli počkat, než zase budeš moci vyměnit sadu vybavení.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Musíš být mimo boj, abys mohl použít výměnu vybavení.
+EQUIPMENT_SET_MSG_INVALID_NAME: Název sady vybavení není správný.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Odemkl jsi nový slot pro sadu vybavení!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nemáš žádný slot na sady vybavení, který by šlo odemknout.
+EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Musíš mít nasazený titul.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Tento slot pro sadu vybavení není odemčen.
+EQUIPMENT_SET_SWAPPED_TO_X: "Sada vybavení změněna na: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: Nastavení možností víly změněno
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nemůžeš vylepšit vílu, když je přetížená
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Použil(a) jsi zlatý nástroj
@@ -1133,5 +1134,8 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nemáš dostatek příspěvků p
 WORLD_BOSS_EVENT_NAME: Událost s World Bossem
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} will spawn in {1} in {2} minute(s)!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} will spawn in {1} in {2} second(s)!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví za {1} za {2} minutu/minuty!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví za {1} za {2} sekund!'
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo štěstí pro {0}: {1}/{2}.'
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v mnohovesmíru.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt byl vylepšen díky štěstí.
