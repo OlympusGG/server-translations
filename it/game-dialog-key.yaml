@@ -146,9 +146,15 @@ BID_MODAL_DISCLAIMER: >-
 
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
 
+
+
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
+
+
   	– Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
+
+
 
 
 
@@ -1133,7 +1139,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rifiutato la proposta di matrimo
 WEEKLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi settimanali ripetibili sono stati aggiornati.
 WINGS_SWAPPER_DELAY_SWAPPING: Devi aspettare {0} tra uno scambio e l'altro per cambiare di nuovo le tue ali.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Devi aspettare {0} dopo aver usato un'abilità per poter scambiare le tue ali.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Contributo insufficiente per il boss mondiale
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Non hai ricevuto abbastanza punti partecipazione per guadagnare una ricompensa.
 WORLD_BOSS_EVENT_NAME: Evento World Boss
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
