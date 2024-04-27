@@ -146,9 +146,12 @@ BID_MODAL_DISCLAIMER: >-
 
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
 
+
   	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
+
   	– Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -1137,5 +1140,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough parti
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minutę/minuty!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minut(y)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} pojawi się w {1} za {2} sekund(y)!'
