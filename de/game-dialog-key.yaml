@@ -146,9 +146,15 @@ BID_MODAL_DISCLAIMER: >-
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
 
+
+
   	– Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
+
+
   	– Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
+
 
 
 
@@ -757,7 +763,7 @@ POCKET_DIMENSION_GROUP_MEMBER_X_UNDER_COOLDOWN: Gruppenmitglied {0} hat gerade e
 POCKET_DIMENSION_GROUP_REQUIRED: Um eine Gruppen-Taschendimension zu erstellen, benötigst du eine Gruppe
 POCKET_DIMENSION_MAP_NOT_AVAILABLE: Taschendimension auf dieser Karte ist nicht verfügbar.
 POCKET_DIMENSION_UNDER_COOLDOWN: Du musst {0} warten, um eine neue Taschendimension zu erstellen.
-PORTAL_ASK_DIALOG_EXIT: Möchtest du das Spiel verlassen?
+PORTAL_ASK_DIALOG_EXIT: Möchtest du die Taschendimension verlassen?
 PORTAL_CHATMESSAGE_BLOCKED: Dieses Portal ist verschlossen. Ich kann es nicht benutzen.
 PORTAL_CHATMESSAGE_TOO_EARLY: Du wirst dich in Kürze bewegen können.
 PSP_AEGIR: Aegir der Zornige
@@ -1137,5 +1143,5 @@ WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Du hast nicht genug Aktivitäts
 WORLD_BOSS_EVENT_NAME: Weltboss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) spawnen!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) spawnen!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
