@@ -48,6 +48,7 @@ AMMO_LOADED_SWORDSMAN: Bolts loaded!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: Do you want to enter the individual arena? It will cost you {0} gold.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}.'
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.

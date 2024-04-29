@@ -48,13 +48,16 @@ AMMO_LOADED_SWORDSMAN: Bolzen geladen!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Möchtest du die Individuelle Arena betreten? Es kostet dich {0} Gold.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER'
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: '#ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED'
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: '#ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS'
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Du kannst nicht zwei Artefakte desselben Typs tragen.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Du hast {0} Kampf-XP als Belohnung für diese Phase erhalten.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Du hast {0} Champion-XP als Belohnung für diese Phase erhalten.
@@ -528,6 +531,7 @@ ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Auf Grund eines negativen Effekts kannst du ni
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#GEGENSTAND_RUFNACHRICHT_WOA_NICHT_GENUG_LEVEL'
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: '#GEGENSTAND_VERWENDUNG_MSG_GEGENSTAND_AUSGESCHALTET_IM_MULTIVERSE'
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Verbleibende Zeit Land der Lebenden: {0} Minuten.'
 LAND_OF_LIFE_QNA_ENTER: Möchtest du das Land der Lebenden betreten?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Sorry, die Zeit für den Wiedereintritt ins Land der Lebenden ist abgelaufen. Du musst nächstes Mal schneller klicken.
@@ -1129,7 +1133,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgel
 WEEKLY_ACHIEVEMENTS_REFRESHED: Wöchentlich wiederholbare Erfolge wurden zurückgesetzt.
 WINGS_SWAPPER_DELAY_SWAPPING: Du musst {0} warten, bevor du deine Flügel erneut wechseln kannst.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Du musst {0} warten, nachdem du eine Fähigkeit benutzt hast, um deine Flügel wechseln zu können.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: 'Du hast nicht genug Aktivitätspunkte gesammelt, um eine Belohnung zu erhalten.'
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Du hast nicht genug Aktivitätspunkte gesammelt, um eine Belohnung zu erhalten.
 WORLD_BOSS_EVENT_NAME: Weltboss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet

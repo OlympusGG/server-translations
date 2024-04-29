@@ -48,6 +48,8 @@ AMMO_LOADED_SWORDSMAN: Bełty załadowane!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Artefakt posiada już najwyższy stopień ulepszenia
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Przedmiot nie jest artefaktem
 ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Próba ulepszenia Tieru artefaktu nie powiodła się
@@ -55,6 +57,7 @@ ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Sukces! Tier artefaktu został pomy�
 ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Próba ulepszenia artefaktu nie powiodła się
 ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: Artefakt posiada najwyższy stopień ulepszenia
 ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Sukces! Artefakt został pomyślnie ulepszony
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nie możesz nosić dwóch artefaktów tego samego typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Otrzymałeś {0} punktów doświadczenia w walce jako nagrodę za tę rundę.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Otrzymałeś {0} punktów doświadczenia mistrza jako nagrodę za tę rundę.
@@ -526,8 +529,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nie możesz zmienić na tę samą frakcję.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz użyć tych samych skrzydeł.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz zmienić się w wierzchowca z powodu negatywnego efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: '#ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE'
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Ten przedmiot został tymczasowo wyłączony.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Pozostały czas Krainy Życia: {0} minut.'
 LAND_OF_LIFE_QNA_ENTER: Czy chcesz wejść do Krainy Życia?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Przykro mi, czas na ponowne wejście do Krainy Życia minął. Następnym razem musisz kliknąć szybciej.
@@ -604,8 +608,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Witam!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Miesięczne osiągnięcia zostały odnowione.
-MULTIVERSE_INVASION_START_DESCRIPTION: '#MULTIVERSE_INVASION_START_DESCRIPTION'
-MULTIVERSE_INVASION_START_TITLE: '#MULTIVERSE_INVASION_START_TITLE'
+MULTIVERSE_INVASION_START_DESCRIPTION: A multiverse invasion has started on map {0}.
+MULTIVERSE_INVASION_START_TITLE: '{0} invasion has started!'
 MUTE_CHATMESSAGE_TIME_LEFT: 'Pozostały czas kary: {0}'
 MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
