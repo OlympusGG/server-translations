@@ -144,18 +144,12 @@ BID_INFO_SERVICE_UNAVAILABLE: Teklif Sistemi kullanılamıyor, daha sonra tekrar
 BID_INFO_UNEXPECTED_ERROR: Teklif Sistemi, isteğini gerçekleştirirken beklenmedik bir hata ile karşılaştı
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Açık artırmadan elde edilen {0} altın banka hesabına yatırıldı.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri alındı.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |
   Teklif Sistemi'ni kullanmadan önce, lütfen bu feragatnamenin okuyup anladığınızdan emin olun.
 
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, şu durumlarda yapamayacaksınız:
-
-
   	– Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
-
-
   	– Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
-
-
 
   Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 

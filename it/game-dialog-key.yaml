@@ -144,18 +144,12 @@ BID_INFO_SERVICE_UNAVAILABLE: Il Sistema di Offerte non è disponibile, prova pi
 BID_INFO_UNEXPECTED_ERROR: Il Sistema di Offerte ha riscontrato un errore imprevisto durante l'elaborazione della tua richiesta
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} oro è stato recuperato dall'oggetto messo all'asta ed inviato al tuo conto in banca."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperato con successo.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
 
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
-
-
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
-
-
   	– Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
-
-
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
 

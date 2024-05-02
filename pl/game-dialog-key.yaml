@@ -144,21 +144,12 @@ BID_INFO_SERVICE_UNAVAILABLE: System licytacji jest niedostępny, spróbuj ponow
 BID_INFO_UNEXPECTED_ERROR: W systemie licytacji wystąpił nieoczekiwany błąd podczas próby realizacji twojego żądania
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} złota zostało odzyskane z zlicytowanego przedmiotu i wysłane na twoje konto bankowe.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Zlicytowany przedmiot został przesłany pomyślnie.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |
   Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
 
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
-
-
-
   	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
-
-
-
   	– Wycofać się z złożonej oferty licytowanego przedmiotu.
-
-
-
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
