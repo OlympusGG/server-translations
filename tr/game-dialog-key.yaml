@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
 ARENA_INFO_ASK_ENTER: Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0}, {1} tarafından öldürüldü.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: '{0} için acıma sayacı: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Bu artefakt zaten maksimum seviyede.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Bu item bir artefakt değil.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefakt seviye yükseltmesi başarısız oldu.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefakt seviye yükseltmesi başarılı oldu.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefakt yükseltmesi başarısız oldu.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0}, artefaktını maksimum seviyeye başarıyla yükseltti: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefakt yükseltmesi başarılı oldu.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt acıma sayesinde yükseltildi.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Aynı türden iki artefakt takamazsın.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Bu aşama için {0} savaş XP kazandın.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Bu aşama için {0} şampiyon XP kazandın.
@@ -148,8 +148,14 @@ BID_MODAL_DISCLAIMER: >-
   Teklif Sistemi'ni kullanmadan önce, lütfen bu feragatnamenin okuyup anladığınızdan emin olun.
 
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, şu durumlarda yapamayacaksınız:
+
+
   	– Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
+
+
   	– Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
+
+
 
   Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 
@@ -529,9 +535,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Aynı fraksiyona geçemezsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Aynı kanatları kullanamazsın.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Olumsuz bir etki nedeniyle mount'a dönüşemezsin.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Bu item çoklu evrende devre dışı.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu eşya geçici olarak devre dışı bırakıldı.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Bu item sadece Çoklu Evrende kullanılabilir.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Kalan Yaşam Toprağı Süresi: {0} dakika.'
 LAND_OF_LIFE_QNA_ENTER: Yaşam Toprağı'na katılmak ister misin?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Üzgünüm, Yaşam Toprağı'na yeniden katılma süresi doldu. Bir dahaki sefere daha hızlı tıklaman gerekecek.
@@ -608,8 +614,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland artık özel.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland artık herkese açık.
 MINILAND_WELCOME_MESSAGE: Hoş geldin!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Aylık tekrarlanabilir başarılar yenilendi.
-MULTIVERSE_INVASION_START_DESCRIPTION: A multiverse invasion has started on map {0}.
-MULTIVERSE_INVASION_START_TITLE: '#ÇOKLU_EVREN_İSTİLASI_BAŞLANGIÇ_BAŞLIĞI'
+MULTIVERSE_INVASION_START_DESCRIPTION: Haritada {0} çoklu evren istilası başladı.
+MULTIVERSE_INVASION_START_TITLE: '{0} istilası başladı!'
 MUTE_CHATMESSAGE_TIME_LEFT: 'Kalan ceza süresi: {0}'
 MUTE_MESSAGE_FEMALE: Çok yaramaz bir kızdım, o yüzden ceza aldım!
 MUTE_MESSAGE_MALE: Çok yaramaz bir erkektim, o yüzden ceza aldım!
@@ -1133,7 +1139,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenme teklifini reddetti.
 WEEKLY_ACHIEVEMENTS_REFRESHED: Haftalık tekrarlanabilir başarılar yenilendi.
 WINGS_SWAPPER_DELAY_SWAPPING: Kanatlarını tekrar değiştirebilmek için {0} beklemen gerekiyor.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Bir yetenek kullandıktan sonra kanatlarını değiştirebilmek için {0} beklemen gerekiyor.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Dünya Boss etkinliğinde yeterli katkın yok.
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Ödül kazanmak için yeterli katılım puanı toplayamadınız.
 WORLD_BOSS_EVENT_NAME: Dünya Boss Etkinliği
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'

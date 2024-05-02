@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: La modalità PvP è attiva.
 ARENA_INFO_ASK_ENTER: Vuoi entrare nell'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato ucciso da {1}.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Contatore di consolazione per {0}: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Questo artefatto è già al livello massimo.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Questo oggetto non è un artefatto.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Aggiornamento livello artefatto fallito.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Aggiornamento livello artefatto riuscito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Aggiornamento artefatto fallito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} ha aggiornato con successo il proprio artefatto al livello massimo: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Aggiornamento artefatto riuscito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: L'artefatto è stato aggiornato grazie al contatore di consolazione.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Non puoi indossare due artefatti dello stesso tipo.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Hai ricevuto {0} XP di battaglia come ricompensa per questa fase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Hai ricevuto {0} XP campione come ricompensa per questa fase.
@@ -148,8 +148,14 @@ BID_MODAL_DISCLAIMER: >-
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
 
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
+
+
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+
+
   	– Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
+
+
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
 
@@ -529,9 +535,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare nella stessa fazione.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi usare le stesse ali.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi trasformarti in una cavalcatura a causa di un effetto negativo.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Questo oggetto è disabilitato nel Multiverso.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Questo oggetto è utilizzabile solo nel Multiverso.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Tempo rimanente Terra della Vita: {0} minuti.'
 LAND_OF_LIFE_QNA_ENTER: Vuoi unirti alla Terra della Vita?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Spiacente, il tempo per rientrare nella Terra della Vita è scaduto. Devi cliccare più velocemente la prossima volta.
@@ -608,8 +614,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland è ora privata.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland è ora pubblica.
 MINILAND_WELCOME_MESSAGE: Benvenuto!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Gli obiettivi mensili ripetibili sono stati aggiornati.
-MULTIVERSE_INVASION_START_DESCRIPTION: A multiverse invasion has started on map {0}.
-MULTIVERSE_INVASION_START_TITLE: '{0} invasion has started!'
+MULTIVERSE_INVASION_START_DESCRIPTION: Un'invasione del Multiverso è iniziata nella mappa {0}.
+MULTIVERSE_INVASION_START_TITLE: L'invasione di {0} è iniziata!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Durata rimanente della punizione: {0}'
 MUTE_MESSAGE_FEMALE: Sono stata una ragazza molto cattiva e sono stata punita!
 MUTE_MESSAGE_MALE: Sono stato un ragazzo molto cattivo e sono stato punito!

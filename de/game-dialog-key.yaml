@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: PvP Modus ist aktiv.
 ARENA_INFO_ASK_ENTER: Möchtest du die Individuelle Arena betreten? Es kostet dich {0} Gold.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} wurde von {1} getötet.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity Zähler für {0}: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Dieses Artefakt hat bereits die höchste Stufe.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Dieser Gegenstand ist kein Artefakt.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Die Artefakt-Verbesserung auf die nächste Stufe ist fehlgeschlagen.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Die Artefakt-Verbesserung auf die nächste Stufe war erfolgreich.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Verbesserung des Artefaktes ist fehlgeschlagen.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} hat sein Artefakt erfolgreich auf die maximale Stufe verbessert: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Verbesserung des Artefaktes war erfolgreich.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt wurde dank Pity aufgewertet.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Du kannst nicht zwei Artefakte desselben Typs tragen.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Du hast {0} Kampf-XP als Belohnung für diese Phase erhalten.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Du hast {0} Champion-XP als Belohnung für diese Phase erhalten.
@@ -148,8 +148,17 @@ BID_MODAL_DISCLAIMER: >-
   Bevor du das Biet-System nutzt, gehe sicher, dass du diese Ausschlussklausel ließt und verstehst.
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
+
+
+
   	– Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
+
+
+
   	– Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
+
+
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
 
@@ -529,9 +538,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in dieselbe Fraktion wechseln.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die gleichen Flügel benutzen.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Auf Grund eines negativen Effekts kannst du nicht auf dein Fortbewegungsmittel aufsteigen.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#GEGENSTAND_RUFNACHRICHT_WOA_NICHT_GENUG_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: '#GEGENSTAND_VERWENDUNG_MSG_GEGENSTAND_AUSGESCHALTET_IM_MULTIVERSE'
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Dieser Gegenstand ist im Multiverse deaktiviert.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Dieser Gegenstand ist nur im Multiverse verwendbar.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Verbleibende Zeit Land der Lebenden: {0} Minuten.'
 LAND_OF_LIFE_QNA_ENTER: Möchtest du das Land der Lebenden betreten?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Sorry, die Zeit für den Wiedereintritt ins Land der Lebenden ist abgelaufen. Du musst nächstes Mal schneller klicken.
@@ -608,8 +617,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland ist jetzt privat.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland ist jetzt öffentlich.
 MINILAND_WELCOME_MESSAGE: Willkommen!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Monatlich wiederholbare Erfolge wurden zurückgesetzt.
-MULTIVERSE_INVASION_START_DESCRIPTION: '#MULTIVERSE_INVASION_START_BESCHREIBUNG'
-MULTIVERSE_INVASION_START_TITLE: '#MULTIVERSE_INVASION_START_TITEL'
+MULTIVERSE_INVASION_START_DESCRIPTION: Eine Multiverse Invasion hat auf der Karte {0} gestartet.
+MULTIVERSE_INVASION_START_TITLE: '{0} Invasion hat gestartet!'
 MUTE_CHATMESSAGE_TIME_LEFT: 'Verbleibende Dauer der Bestrafung: {0}'
 MUTE_MESSAGE_FEMALE: Ich war ein sehr unartiges Mädchen, also wurde ich bestraft!
 MUTE_MESSAGE_MALE: Ich war ein sehr unartiger Junge, also wurde ich bestraft!
@@ -886,7 +895,7 @@ RAID_SHOUTMESSAGE_X_JOINED: '{0} ist dem Raid-Team beigetreten.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Das blaue Team hat aufgegeben.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} hat sich ausgeloggt.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Dieser Kristall wurde bereits von deinem Team erobert.
-RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Du bist bis {0} vom Rainbow Battle ausgeschlossen.
+RAINBOW_BATTLE_CHATMESSAGE_BAN_TIME_LEFT: Du bist bis {0} von der Regenbogenschlacht ausgeschlossen.
 RAINBOW_BATTLE_CHATMESSAGE_CAPTURE_COOLDOWN: Du musst {0} Sekunden warten, um diesen Kristall zu erobern.
 RAINBOW_BATTLE_CHATMESSAGE_NOT_ENOUGH_ACTIVITY_POINTS: Du warst nicht aktiv genug, um die Belohnung zu erhalten.
 RAINBOW_BATTLE_EVENT_NAME: Regenbogenschlacht

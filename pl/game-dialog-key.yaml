@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Artefakt posiada już najwyższy stopień ulepszenia
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Przedmiot nie jest artefaktem
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Próba ulepszenia Tieru artefaktu nie powiodła się
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Sukces! Tier artefaktu został pomyślnie zwiększony
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Próba ulepszenia artefaktu nie powiodła się
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: Artefakt posiada najwyższy stopień ulepszenia
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Sukces! Artefakt został pomyślnie ulepszony
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Wskaźnik Systemu Pocieszenia dla {0}: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Ten artefakt osiągnął już maksymalny poziom.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Ten przedmiot nie jest artefaktem.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Ulepszenie poziomu artefaktu nie powiodło się.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Ulepszenie poziomu artefaktu powiodło się.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Próba ulepszenia poziomu artefaktu się nie powiodła.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} pomyślnie ulepszył swój artefakt do maksymalnego poziomu: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Ulepszenie artefaktu powiodło się.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt został ulepszony dzięki systemowi pocieszenia.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nie możesz nosić dwóch artefaktów tego samego typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Otrzymałeś {0} punktów doświadczenia w walce jako nagrodę za tę rundę.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Otrzymałeś {0} punktów doświadczenia mistrza jako nagrodę za tę rundę.
@@ -148,8 +148,17 @@ BID_MODAL_DISCLAIMER: >-
   Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
 
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
+
+
+
   	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
+
+
+
   	– Wycofać się z złożonej oferty licytowanego przedmiotu.
+
+
+
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
@@ -529,9 +538,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nie możesz zmienić na tę samą frakcję.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz użyć tych samych skrzydeł.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz zmienić się w wierzchowca z powodu negatywnego efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Ten przedmiot jest wyłączony w Multiwersum.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Ten przedmiot został tymczasowo wyłączony.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Ten przedmiot można używać tylko w Multiwersum.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Pozostały czas Krainy Życia: {0} minut.'
 LAND_OF_LIFE_QNA_ENTER: Czy chcesz wejść do Krainy Życia?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Przykro mi, czas na ponowne wejście do Krainy Życia minął. Następnym razem musisz kliknąć szybciej.
@@ -608,8 +617,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Mini-Land jest prywatny.
 MINILAND_SHOUTMESSAGE_PUBLIC: Mini-Land jest publiczny.
 MINILAND_WELCOME_MESSAGE: Witam!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Miesięczne osiągnięcia zostały odnowione.
-MULTIVERSE_INVASION_START_DESCRIPTION: A multiverse invasion has started on map {0}.
-MULTIVERSE_INVASION_START_TITLE: '{0} invasion has started!'
+MULTIVERSE_INVASION_START_DESCRIPTION: Inwazja multiwersum rozpoczęła się na mapie {0}.
+MULTIVERSE_INVASION_START_TITLE: Inwazja {0} się rozpoczęła!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Pozostały czas kary: {0}'
 MUTE_MESSAGE_FEMALE: Byłam niegrzeczna więc dostałam karę!
 MUTE_MESSAGE_MALE: Byłem niegrzeczny więc dostałem karę!
@@ -747,7 +756,7 @@ PET_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: NosKumpel wrócił do Mini-Landu.
 PET_SHOUTMESSAGE_WILL_BE_BACK: NosKumpel wróci za 3 minuty.
 PET_SHOUTMESSGE_SAVED_BY_SAVER: NosKumpel został ożywiony za pomocą Anioła Stróża NosKumpla.
 PETE_O_PENG_RAID_SHOUTMESSAGE_DRAGONS: Nadciągają smoki wodne.
-PITY_CHATMESSAGE_COUNTER_TO_MAX: '[System Pity] {0} => [{1}/{2}], szansa na zdobycie nagrody: {3}%'
+PITY_CHATMESSAGE_COUNTER_TO_MAX: '[System Pocieszenia] {0} => [{1}/{2}], szansa na zdobycie nagrody: {3}%'
 PITY_CHATMESSAGE_EXTRA_REWARD_ACQUIRED: '[System Pocieszenia] Otrzymałeś {0} jako dodatkową nagrodę.'
 PITY_CHATMESSAGE_RUNE_COUNTER_TO_MAX: '[System Pocieszenia] {0} => [{1}/{2}]'
 PITY_CHATMESSAGE_TATTOO_COUNTER_TO_MAX: '[System Pocieszenia] {0} => [{1}/{2}]'
