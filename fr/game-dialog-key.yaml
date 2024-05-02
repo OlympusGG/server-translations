@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: Le mode PvP est actif.
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle ? Ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été tué par {1}.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Pity counter for {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefact has been upgraded thanks to pity.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Compteur de pitié pour {0} : {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Cet artefact est déjà au palier maximum.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Cet objet n'est pas un artefact.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Échec de l'amélioration du palier de l'artefact.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Amélioration du palier de l'artefact réussie.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Échec de l'amélioration de l'artefact.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} a réussi à améliorer son artefact au palier maximum : {1} !'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Amélioration de l'artefact réussie.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: L'artefact a été amélioré grâce à la pitié.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Tu ne peux pas porter deux artefacts du même type.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Tu as reçu {0} XP de combat en récompense pour cette phase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Vous avez reçu {0} XP Héroïque comme récompense pour cette phase.
@@ -144,7 +144,7 @@ BID_INFO_SERVICE_UNAVAILABLE: Le Système d'Enchères n'est pas disponible, rée
 BID_INFO_UNEXPECTED_ERROR: Le Système d'Enchères a rencontré une erreur inattendue en essayant de traiter votre demande
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} pièces d'or ont été récupérées de l'objet mis aux enchères et envoyées à votre compte bancaire."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'objet mis aux enchères a été récupéré avec succès.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |
   Avant d'utiliser le Système d'Enchères, veuillez vous assurer de lire et comprendre cet avertissement.
 
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
@@ -529,9 +529,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Tu ne peux pas changer pour la même faction.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu ne peux pas utiliser les mêmes ailes.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Tu ne peux pas te transformer en monture en raison d'un effet négatif.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Cet objet est désactivé dans le Multiverse.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Cet objet a été désactivé temporairement.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Cet objet est utilisable uniquement dans le Multiverse.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Temps restant pour en Terre des Vivants : {0} minutes.'
 LAND_OF_LIFE_QNA_ENTER: Tu veux rejoindre la Terre des Vivants ?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Désolé, le temps pour rejoindre la Terre des Vivants est expiré. Tu devras cliquer plus vite la prochaine fois.
@@ -608,8 +608,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Le Minipays est maintenant privé.
 MINILAND_SHOUTMESSAGE_PUBLIC: Le Minipays est maintenant public.
 MINILAND_WELCOME_MESSAGE: Bienvenue !
 MONTHLY_ACHIEVEMENTS_REFRESHED: Les succès mensuels répétables ont été réinitialisés.
-MULTIVERSE_INVASION_START_DESCRIPTION: '#DESCRIPTION_DEBUT_INVASION_MULTIVERS'
-MULTIVERSE_INVASION_START_TITLE: '{0} invasion has started!'
+MULTIVERSE_INVASION_START_DESCRIPTION: Une invasion du Multiverse a commencé sur la carte {0}.
+MULTIVERSE_INVASION_START_TITLE: L'invasion de {0} a commencé !
 MUTE_CHATMESSAGE_TIME_LEFT: 'Durée restante de la punition : {0}'
 MUTE_MESSAGE_FEMALE: J'ai été une très vilaine fille alors j'ai été punie !
 MUTE_MESSAGE_MALE: J'ai été un très vilain garçon alors j'ai été puni !

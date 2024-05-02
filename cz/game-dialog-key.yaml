@@ -49,15 +49,15 @@ ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Chceš vstoupit do individuální arény? Bude tě to stát {0} zlatých.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem {1}.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo štěstí pro {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: This artefact is already maximum tier.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: This item is not an artefact.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefact tier upgrade failed.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefact tier upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefact upgrade failed.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} successfully upgraded their artefact to the maximum tier: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefact upgrade succeeded.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt byl vylepšen díky štěstí.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo soucitu pro {0}: {1}/{2}.'
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Tento artefakt už je na maximální úrovni.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Tato položka není artefakt.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Vylepšení úrovně artefaktu se nezdařilo.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Vylepšení úrovně artefaktu bylo úspěšné.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Vylepšení artefaktu se nezdařilo.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} úspěšně vylepšil svůj artefakt na maximální úroveň: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Vylepšení artefaktu proběhlo úspěšně.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt byl vylepšen díky soucitu.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Nemůžeš nosit dva artefakty stejného typu.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} bojových XP.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Jako odměnu za tuto fázi jsi obdržel {0} XP šampiona.
@@ -144,13 +144,12 @@ BID_INFO_SERVICE_UNAVAILABLE: Aukční Systém není dostupný, zkuste to pozdě
 BID_INFO_UNEXPECTED_ERROR: Aukční Systém narazil na neočekávanou chybu při pokusu o zpracování vašeho požadavku
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Z aukce bylo získáno {0} zlata, které bylo odesláno na Váš bankovní účet.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Dražený předmět byl úspěšně získán.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |
   Před použitím Aukčního systému si prosím přečti a pochop následující upozornění.
 
   Abychom zajistili spravedlivý a rychlý Aukční systém pro naše hráče, nebudeš moci:
   	– Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
   	– Vzdát se nabídky na aukční předmět.
-
 
   Tlačítko pro nabídnutí na předmět tě o potvrzení nepožádá, aby byla jeho reakce rychlá pro dynamické aukce, takže buď opatrný.
 
@@ -231,13 +230,13 @@ ENCOURAGE_CHATMESSAGE_NOT_MINLVL: Můžeš někoho povzbudit, jen když dosáhne
 ENCOURAGE_CHATMESSAGE_RECEIVED: Hráč {0} tě povzbudil.
 EQCONVERT_SHOUTMESSAGE_ITEM_CANT_BE_CONVERTED: Tento předmět nelze převést.
 EQCONVERT_SHOUTMESSAGE_ITEM_CONVERTED_TO: Předmět byl úspěšně převeden {0}.
-EQUIPMENT_SET_MSG_COOLDOWN: Musíš chvíli počkat, než zase budeš moci vyměnit sadu vybavení.
-EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Musíš být mimo boj, abys mohl použít výměnu vybavení.
+EQUIPMENT_SET_MSG_COOLDOWN: Musíš počkat, než budeš moci znovu použít změnu sady vybavení.
+EQUIPMENT_SET_MSG_COOLDOWN_COMBAT: Aby bylo možné změnit sadu vybavení, musíš být mimo boj.
 EQUIPMENT_SET_MSG_INVALID_NAME: Název sady vybavení není správný.
-EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Odemkl jsi nový slot pro sadu vybavení!
-EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nemáš žádný slot na sady vybavení, který by šlo odemknout.
+EQUIPMENT_SET_MSG_NEW_SLOT_UNLOCKED: Odemkl(a) jsi nový slot pro sadu vybavení!
+EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nemáš žádný odemknutelný slot pro sadu vybavení.
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Musíš mít nasazený titul.
-EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Tento slot pro sadu vybavení není odemčen.
+EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Tento slot pro sadu vybavení není odemčený.
 EQUIPMENT_SET_SWAPPED_TO_X: "Sada vybavení změněna na: '{0}'"
 FAIRY_MODAL_OPTIONS_CHANGED: Nastavení možností víly změněno
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nemůžeš vylepšit vílu, když je přetížená
@@ -530,7 +529,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit frakci na stejnou.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se změnit na mounta kvůli negativnímu efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Tato položka je v mnohovesmíru zakázána.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně zablokován.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v mnohovesmíru.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Zbývající čas v Zemi Života: {0} minut.'
@@ -609,8 +608,8 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland je nyní soukromý.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland je nyní veřejný.
 MINILAND_WELCOME_MESSAGE: Vítej!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Měsíční opakovatelné úspěchy byly obnoveny.
-MULTIVERSE_INVASION_START_DESCRIPTION: A multiverse invasion has started on map {0}.
-MULTIVERSE_INVASION_START_TITLE: '{0} invasion has started!'
+MULTIVERSE_INVASION_START_DESCRIPTION: Na mapě {0} začala invaze mnohovesmíru.
+MULTIVERSE_INVASION_START_TITLE: Začala invaze {0}!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Zbývající doba trestu: {0}'
 MUTE_MESSAGE_FEMALE: Byla jsem velmi zlobivá holka, takže jsem dostala trest!
 MUTE_MESSAGE_MALE: Byl jsem velmi zlobivý kluk, takže jsem dostal trest!
@@ -1134,9 +1133,9 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odmítl/a nabídku k sňatku od {1}
 WEEKLY_ACHIEVEMENTS_REFRESHED: Týdenní opakovatelné úspěchy byly obnoveny.
 WINGS_SWAPPER_DELAY_SWAPPING: Musíš počkat {0}, než si zase změníš křídla.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musíš počkat {0} po použití schopnosti, než budeš moci vyměnit svá křídla.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nemáš dostatek příspěvků pro World Bossa
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nenasbíral(a) jsi dostatek bodů účasti na získání odměny.
 WORLD_BOSS_EVENT_NAME: Událost s World Bossem
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál
-WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví za {1} za {2} minutu/minuty!'
-WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví za {1} za {2} sekund!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví v {1} za {2} minutu/minuty!'
+WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví v {1} za {2} sekundu/sekundy!'
