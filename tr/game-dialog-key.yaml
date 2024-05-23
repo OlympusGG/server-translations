@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: Cıvatalar yüklendi!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
 ARENA_INFO_ASK_ENTER: Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0}, {1} tarafından öldürüldü.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Altın Parşömenler eser yükseltmek için kullanılamaz.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: '{0} için acıma sayacı: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Bu artefakt zaten maksimum seviyede.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Bu item bir artefakt değil.
