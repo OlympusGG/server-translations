@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: Bełty załadowane!
 ARENA_CHATMESSAGE_PVP_ACTIVE: Tryb PvP jest aktywny.
 ARENA_INFO_ASK_ENTER: Czy chcesz wejść na arenę indywidualną? Kosztuje to {0} złota.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} został zabity przez {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Złote Zwoje nie mogą być użyte do ulepszania artefaktów.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Złote Zwoje nie mogą zostać użyte do ulepszania artefaktów.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Wskaźnik Systemu Pocieszenia dla {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Ten artefakt osiągnął już maksymalny poziom.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Ten przedmiot nie jest artefaktem.
