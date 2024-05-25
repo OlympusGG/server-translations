@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: Šipky jsou doplněny!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mód je aktivní.
 ARENA_INFO_ASK_ENTER: Chceš vstoupit do individuální arény? Bude tě to stát {0} zlatých.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Zlaté svitky nelze použít na vylepšení artefaktů.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo soucitu pro {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Tento artefakt už je na maximální úrovni.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Tato položka není artefakt.

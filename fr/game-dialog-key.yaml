@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: Carreaux chargés !
 ARENA_CHATMESSAGE_PVP_ACTIVE: Le mode PvP est actif.
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle ? Ça te coûtera {0} pièces d'or.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été tué par {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Les parchemins dorés ne peuvent pas être utilisés pour améliorer des artéfacts.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Compteur de pitié pour {0} : {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Cet artefact est déjà au palier maximum.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Cet objet n'est pas un artefact.

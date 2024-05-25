@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: ¡Virote cargado!
 ARENA_CHATMESSAGE_PVP_ACTIVE: El modo PvP está activo.
 ARENA_INFO_ASK_ENTER: ¿Quieres entrar a la arena individual? Te costará {0} de oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} ha sido asesinado por {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Los Pergaminos Dorados no se pueden usar para mejorar artefactos.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Contador de compasión para {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Este artefacto ya está en el rango máximo.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Este objeto no es un artefacto.

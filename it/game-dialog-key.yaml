@@ -48,7 +48,7 @@ AMMO_LOADED_SWORDSMAN: Dardi caricati!
 ARENA_CHATMESSAGE_PVP_ACTIVE: La modalità PvP è attiva.
 ARENA_INFO_ASK_ENTER: Vuoi entrare nell'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato ucciso da {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Golden Scrolls cannot be used to upgrade artefacts.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: I Rotoli Dorati non possono essere utilizzati per potenziare gli Artefatti.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Contatore di consolazione per {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Questo artefatto è già al livello massimo.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Questo oggetto non è un artefatto.
