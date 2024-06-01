@@ -48,16 +48,16 @@ AMMO_LOADED_SWORDSMAN: Dardi caricati!
 ARENA_CHATMESSAGE_PVP_ACTIVE: La modalità PvP è attiva.
 ARENA_INFO_ASK_ENTER: Vuoi entrare nell'arena individuale? Ti costerà {0} oro.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} è stato ucciso da {1}.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: I Rotoli Dorati non possono essere utilizzati per potenziare gli Artefatti.
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Le Pergamente Dorate non possono essere utilizzate per potenziare gli Artefatti.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Contatore di consolazione per {0}: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Questo artefatto è già al livello massimo.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Questo oggetto non è un artefatto.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Aggiornamento livello artefatto fallito.
-ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Aggiornamento livello artefatto riuscito.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Aggiornamento artefatto fallito.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} ha aggiornato con successo il proprio artefatto al livello massimo: {1}!'
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Aggiornamento artefatto riuscito.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: L'artefatto è stato aggiornato grazie al contatore di consolazione.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Miglioramento grado artefatto fallito.
+ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Miglioramento grado artefatto riuscito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Miglioramento artefatto fallito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0} ha migliorato con successo il proprio artefatto al grado massimo: {1}!'
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Miglioramento artefatto riuscito.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: L'artefatto è stato migliorato grazie al contatore di consolazione.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Non puoi indossare due artefatti dello stesso tipo.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Hai ricevuto {0} XP di battaglia come ricompensa per questa fase.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Hai ricevuto {0} XP campione come ricompensa per questa fase.
