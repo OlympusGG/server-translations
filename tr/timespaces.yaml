@@ -15,7 +15,7 @@ TS_14_DESCRIPTION: "Madenci Krispo belki dışarıdan soğuk görünebilir ama i
 TS_14_TEXT_0: "Bu dövüşü kazanamazsın. Kolu bul ve kaç!"
 TS_14_TEXT_1: "Düşmanlar! Yok et onları!"
 TS_14_TEXT_2: "Kolu çek ve portalı aç."
-TS_14_TEXT_3: "İşte kol! Çek onu ve burayı terk et!"
+TS_14_TEXT_3: "İşte kol! Çek ve buradan çık!"
 TS_14_TEXT_4: "Çıkış yakın!"
 TS_15_NAME: "Cesur Savaşçı - Bölüm 3"
 TS_15_DESCRIPTION: "Madenci Krispo'yu kurtarmak Kovoltları daha da öfkelendirdi. NosVille Muhafızları artık onları kontrol edemiyor! Durumla ilgilenmek için Savaşçı Bob burada. Endişeli görünüyor."
@@ -30,7 +30,7 @@ TS_15_TEXT_7: "Grev yeri 8. kat"
 TS_15_TEXT_8: "Grev yeri 9. kat"
 TS_15_TEXT_9: "Grev başarısız oldu"
 TS_16_NAME: "Canavar Ordusu"
-TS_16_DESCRIPTION: "Dikkat et! Bir canavar ordusu Uzay-Zaman'dan kaçtı! Senden önce deneyen birçok maceracı onları durdurmaya çalıştı ve başarısız oldu. Bu görev çok tehlikeli ve hayatta kalamayabilirsin. Ancak cesur bir maceracı olarak denememek aptallık olurdu!"
+TS_16_DESCRIPTION: "Dikkat et! Bir canavar ordusu Uzay-Zaman'dan kaçtı! Senden önce pek çok maceracı onları durdurmaya çalıştı ve başarısız oldu. Bu görev çok tehlikeli ve hayatta kalamayabilirsin. Ancak cesur bir maceracı olarak denememek aptallık olurdu!"
 TS_16_TEXT_0: "Bu yerden çıkmak için kolu kullan!"
 TS_16_TEXT_1: "1 dakika hayatta kal ve canavar kaybolacak."
 TS_16_TEXT_2: "Mühürleme yeri"
@@ -93,7 +93,7 @@ TS_39_TEXT_5: "Şansını dene. Üç mühürlü anahtardan birini seç."
 TS_39_TEXT_6: "Şeytan pususu... 1 dakika hayatta kal!"
 TS_39_TEXT_7: "Sonsuza dek tuzağa mı düştün?"
 TS_45_NAME: "Son Karşılaşma"
-TS_45_DESCRIPTION: "Kaçmayı başardın ama Fernon'u yenemedin. İyi bir muhakeme yeteneğine ve eşsiz bir adalet tutkusuna sahipsin. Arkadaşlarınla ve ortaklarınla oraya geri dön ve aynı hatayı yapma. Bu sefer yalnız gitmeyeceksin!"
+TS_45_DESCRIPTION: "Kaçmayı başardın ama Fernon'u yenmeyi başaramadın. İyi bir muhakeme yeteneğine sahipsin ve adalet tutkun hiç kimseden az değil. Arkadaşların ve ortaklarınla geri dön ve aynı hatayı yapma. Bu sefer yalnız gitmeyeceksin!"
 TS_45_TEXT_0: "Final Karşılaşması!"
 TS_46_NAME: "Kedimsi İnsanlar"
 TS_46_DESCRIPTION: "Batı Krem Dağı'na hoş geldin. Bu, Koaren kabilelerinin evi. Lord Cuarry bu bölgeye ilgisini kaybetmiş gibi görünüyor ve Koarenler, şeytanlar ve Kenkolar tarafından rahat bırakılmış. Gördüğün gibi burada birçok Uzay-Zaman Taşı var. Tıpkı Kuzey NosVille'de olduğu gibi, canavarlar burada da bir sürü sorun çıkarıyor gibi görünüyor!"
@@ -128,7 +128,7 @@ TS_64_NAME: "Derin Çukur"
 TS_64_DESCRIPTION: "Şu anda gizli laboratuvarı araştırıyoruz. Raporlara göre çok tehlikeli bir yer. Kendini gereksiz yere tehlikeye atma. Haydi birlikte yerini araştıralım!"
 TS_66_NAME: "Radal'ın Yüzükleri"
 TS_66_DESCRIPTION: "Burada Radal'ın Yüzükleri var ama kimse bunlar hakkında bir şey bilmiyor. Umarım Catlotte bize yüzükler hakkında bir şeyler söyleyebilir. Şu anda Fir Ormanı'nda bulunuyor, gidip onu ara. Radal'ın Yüzükleri inanılmaz karanlık güçlerle dolu. Kötü yaratıkları kendine çekebilirler. Birdenbire vahşi canavarlarla karşılaşırsan şaşırma. Yüzüklerin sırrını çöz!"
-TS_68_NAME: "Meraklı Olaylar"
+TS_68_NAME: "Meraklı Talihsizlikler"
 TS_68_DESCRIPTION: "Mimi Mentor zamanla hipokondriyak oldu ve Eğitmen Calvin takıntılı hale geldi. Tüm bu meraklı olaylar, Nehir Madeni yakınlarında ortaya çıkan garip yaratıkların görünmesiyle ilgili gibi görünüyor. Acaba onlar ne? Mümkün olan en kısa sürede bulmalısın!"
 TS_69_NAME: "Treekun'la Dövüş"
 TS_69_DESCRIPTION: "Treekun bir zamanlar ormanların koruyucusuydu, ta ki karanlık bir sonla kötü bir canavara dönüşene kadar. Bu eski koruyucu kontrol altına alınmalı ki ormanlar normale dönsün. Bizi çaresiz bırakmayacaksın, değil mi?"
@@ -179,18 +179,18 @@ TS_1202_NAME: "Kehanet Yolu"
 TS_1202_DESCRIPTION: "Dacre Decatur, antik parşömenin bulunduğu mağarada gizli bir üç yollu çatal bulunduğunu okumuştu. Üç yolu da araştıralım!"
 TS_1203_NAME: "Kehanet Yolu"
 TS_1203_DESCRIPTION: "Dacre Decatur, antik parşömenin bulunduğu mağarada gizli bir üç yollu çatal bulunduğunu okumuştu. Üç yolu da araştıralım!"
-TS_MOLE_NAME: Köstebek Anası Mağarası
-TS_MOLE_DESCRIPTION: Köstebek Anası'nı koruyan canavarları yenmek için bir grup oluşturun.
+TS_MOLE_NAME: Köstebek Annesinin Mağarası
+TS_MOLE_DESCRIPTION: Köstebek Anne'yi koruyan canavarları yenmek için bir grup oluşturun.
 TS_DESERT_NAME: İbrahim'in Hazine Odası
 TS_DESERT_DESCRIPTION: Haydutlar hazine odalarını savunuyor, onları avlayarak anahtarlarını toplayın ve hazineleri yağmalayın!
 TS_MOLE_TEXT_1: Yol ayrılıyor! İleri de gruplanın!
 TS_DESERT_TEXT_1: Hazine odası açılana kadar haydutları avlayın!
 TS_DESERT_TEXT_2: Sandıkları açmak için anahtarlarınızı kullanın!
 TS_OLORUN_NAME: Olorun Üzerindeki Gölge
-TS_OLORUN_DESCRIPTION: Güçlerini yeniden kazanan Belial ve müttefiklerini yen ve bir kez daha Olorun orklarına tehdit oluşturmalarını engelle
+TS_OLORUN_DESCRIPTION: Belial'ı ve güçlerini yeniden kazanmış müttefiklerini yen ve bir kez daha Olorun orklarını tehdit edenleri durdur
 TS_OLORUN_TEXT_1: Kötü lanetlerini yapmalarını engellemek için tüm cadıları yok et.
 TS_OLORUN_TEXT_2: Ork Ruhlarını gölge lanetinden kurtar
 TS_OLORUN_TEXT_3: Güneydeki ritüel alanını temizleyerek Canavar Kralın acılarını sonlandır
 TS_OLORUN_TEXT_4: Belial, Orkları yok etmek için geldi. Onu durdurmalısın.
-TS_OLORUN_TEXT_5: Arkadaşın için yol açmak için kolu çek
+TS_OLORUN_TEXT_5: Arkadaşına yol açmak için kolu çek
 TS_OLORUN_TEXT_6: Güneydeki ritüel alanını temizleyerek Ruh Kralın acılarını sonlandır
