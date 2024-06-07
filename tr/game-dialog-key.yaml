@@ -2,7 +2,7 @@ ACCOUNT_INFO_BAD_ID: Yanlış kullanıcı adı.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakım altında.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 ACHIEVEMENT_COMPLETED: Başarı tamamlandı.
-ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu perdeyi atlamak için en az {0} seviyesinde olmalısın.
+ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu act'i atlamak için en az {0} seviyesinde olmalısın.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Zindandan ayrılmak istiyor musun?
 ACT4_CALIGOR_MAP_FULL: Caligor Diyarı dolu.
 ACT4_CALIGOR_REVIVAL_DIALOG: Caligor Diyarı'nın girişinde canlanmak ister misin?
@@ -16,7 +16,7 @@ ACT4_CHATMESSAGE_PVP_DEMONS: şeytanlar
 ACT4_CHATMESSAGE_PVP_KILL: '{1}, {0} koruyucusunu yendi.'
 ACT4_DUNGEON_ALREADY_COMPLETED_ON_ACCOUNT: Bu zindanı hesabında zaten tamamladın.
 ACT4_DUNGEON_CHATMESSAGE_FAMILY_NEEDED: Zindana katılmak için bir aileye ihtiyacın var.
-ACT4_DUNGEON_NOTIFY_DESC_STARTED: Dungeon {0}, senin fraksiyonun için başladı.
+ACT4_DUNGEON_NOTIFY_DESC_STARTED: Zindan {0}, senin fraksiyonun için başladı.
 ACT4_DUNGEON_NOTIFY_TITLE: Akt4
 ACT4_DUNGEON_QNAMESSAGE_ENTRY_COST: Zindana girmek {0} itibar puanına mal olacak. Girmek ister misin?
 ACT4_DUNGEON_REVIVAL_DIALOG: Burada canlanmak {0} itibar puanına mal olacak. İptal edersen, zindanın başına ışınlanacaksın. Burada yeniden doğmak istiyor musun?
@@ -37,7 +37,7 @@ ACT4_SHOUTMESSAGE_MUKRAJU_SPAWNED: "{0}, Lord Mukraju'yu çağırdı!"
 ACT4_SHOUTMESSAGE_NEED_FAMILY_FOR_FLAG: Kamp kurmak için bir ailede olman gerekiyor.
 ACT4_SHOUTMESSAGE_PORTAL_TOO_CLOSE: Bir portala çok yakınsın.
 ACT5_CHATMESSAGE_NO_RECIPE: Bu tür değişim için bir tarif bulunamadı.
-ACT5_MESSAGE_HEAT_BURNING_SWORD: Yanan Kılıcın sıcağında kapsuldun.
+ACT5_MESSAGE_HEAT_BURNING_SWORD: Yanan Kılıcın sıcağına hapsedildin.
 ACT5_MESSAGE_RETURN_DISABLED: Dönüş noktasına geri gidemezsin.
 ADMIN_BROADCAST_CHATMESSAGE_SENDER: Yönetici
 ALL_ACHIEVEMENTS_REFRESHED: Tüm tekrarlanabilir başarılar yenilendi.
@@ -48,8 +48,8 @@ AMMO_LOADED_SWORDSMAN: Cıvatalar yüklendi!
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP modu aktif.
 ARENA_INFO_ASK_ENTER: Bireysel arenaya girmek istiyor musun? Bu sana {0} altına mal olacak.
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0}, {1} tarafından öldürüldü.'
-ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Altın Parşömenler eser yükseltmek için kullanılamaz.
-ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: '{0} için acıma sayacı: {1}/{2}.'
+ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Altın Parşömenler artefact yükseltmek için kullanılamaz.
+ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: '{0} için Pity sayacı: {1}/{2}.'
 ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Bu artefakt zaten maksimum seviyede.
 ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Bu item bir artefakt değil.
 ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Artefakt seviye yükseltmesi başarısız oldu.
@@ -57,7 +57,7 @@ ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Artefakt seviye yükseltmesi başar�
 ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Artefakt yükseltmesi başarısız oldu.
 ARTEFACT_SHOUTMESSAGE_UPGRADE_MAX_TIER: '{0}, artefaktını maksimum seviyeye başarıyla yükseltti: {1}!'
 ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS: Artefakt yükseltmesi başarılı oldu.
-ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt acıma sayesinde yükseltildi.
+ARTEFACT_SHOUTMESSAGE_UPGRADE_SUCCESS_PITY: Artefakt pity sayesinde yükseltildi.
 ARTEFACTS_SHOUTMESSAGE_CANNOT_EQUIP_SAME_MULTIVERSE_TYPE: Aynı türden iki artefakt takamazsın.
 ASGOBAS_CHATMESSAGE_EXP_REWARD: Bu aşama için {0} savaş XP kazandın.
 ASGOBAS_CHATMESSAGE_HXP_REWARD: Bu aşama için {0} şampiyon XP kazandın.
@@ -98,7 +98,7 @@ BASE_WARS_MSG_FLAG_NOT_PLACED: Fraksiyonun için kurulmuş bir kamp yok.
 BASE_WARS_MSG_FLAG_PLACED: Bir kamp kuruldu.
 BASE_WARS_MSG_FLAG_UNDER_COOLDOWN: Henüz yeni bir kamp kuramazsın.
 BASE_WARS_MSG_ITEM_COOLDOWN: '#BASE_WARS_MSG_ITEM_COOLDOWN'
-BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Teleport cihazı soğuma süresinde.
+BASE_WARS_MSG_TELEPORT_UNDER_COOLDOWN: Işınlanma cihazı soğuma süresinde.
 BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON: '#BASE_WARS_MSG_TELEPORTER_NOT_IN_DUNGEON'
 BASE_WARS_MSG_UPGRADE_X_BOUGHT: Takımınız {0} yükseltmesini satın aldı.
 BASE_WARS_PREPARATION_PHASE: Hazırlık aşaması başladı.
@@ -124,8 +124,8 @@ BAZAAR_QNA_CHANGE_PRICE_FEE: Eşya fiyatını değiştirmek istiyor musun? Bu i�
 BAZAAR_SHOUTMESSAGE_ITEM_ADDED: Eşya NosBazaar'a eklendi.
 BAZAAR_SHOUTMESSAGE_ITEM_PRICE_CHANGED: Eşya fiyatı başarıyla değişti.
 BAZAAR_SHOUTMESSAGE_NOTICE_BAZAAR: '[UYARI] Bazaar kullanırken canavarlar tarafından saldırıya uğrayabilirsin.'
-BELIAL_QNA_ENTER: Göksel Kule'ye girmek istiyor musun?
-BETTING_DIALOG_ASK_CONFIRMATION: Bahse girmek istiyor musun?
+BELIAL_QNA_ENTER: Gök Kulesine girmek istiyor musun?
+BETTING_DIALOG_ASK_CONFIRMATION: Bahse devam etmek istiyor musun?
 BID_DIALOG_AUCTIONLIST_FEE_WARNING: Bu eşyayı açık artırmaya çıkarmak {0} altın tutacak. Devam etmek istiyor musun?
 BID_INFO_AUCTION_ALREADY_ENDED: Bu açık artırma zaten sona erdi.
 BID_INFO_AUCTION_BID_TOO_LOW: Verdiğin teklif çok düşük, daha yüksek bir miktar dene.
@@ -144,18 +144,15 @@ BID_INFO_SERVICE_UNAVAILABLE: Teklif Sistemi kullanılamıyor, daha sonra tekrar
 BID_INFO_UNEXPECTED_ERROR: Teklif Sistemi, isteğini gerçekleştirirken beklenmedik bir hata ile karşılaştı
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Açık artırmadan elde edilen {0} altın banka hesabına yatırıldı.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri alındı.
-BID_MODAL_DISCLAIMER: |
-  Teklif Sistemi'ni kullanmadan önce, lütfen bu feragatnamenin okuyup anladığınızdan emin olun.
+BID_MODAL_DISCLAIMER: |-
+  Teklif Sistemi'ni kullanmadan önce lütfen bu uyarıyı okuyup anladığınızdan emin olun.
+  Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, aşağıdaki durumlar gerçekleşemez:
+  	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
+  	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
 
-  Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, şu durumlarda yapamayacaksınız:
-  	– Eğer birisi zaten teklif vermişse, açık artırmalık eşyayı bitiş tarihinden önce kaldıramazsınız.
-  	– Açık artırmalık bir eşyaya verilen bir tekliften vazgeçemezsiniz.
+  Bir item için teklif verme butonu herhangi bir onay istemeyecek, bu da hızlı tempolu açık artırmalar için tepki süresinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 
-  Bir eşyaya teklif verme butonu herhangi bir onay istemeyecek, bu hızlı tempolu açık artırmalar için tepkisinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
-
-
-  Bir eşyayı açık artırmaya koyma butonu, işleme devam etmeden önce sizden onay isteyecektir. Bu, bir oyuncunun kararını sağlamak için yapılmıştır.
-
+  Bir item'i açık artırmaya koyma butonu, işleme devam etmeden önce sizden onay isteyecektir. Bu, bir oyuncunun kararını sağlamak içindir.
 
   Keyifli Teklifler!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Açık artırma aç
@@ -173,10 +170,10 @@ BUFF_CHATMESSAGE_EFFECT_RESISTANCE: Bağışıklık nedeniyle etki etmedi.
 BUFF_CHATMESSAGE_EFFECT_TERMINATED: '{0} etkisini kaybettin.'
 BUFF_CHATMESSAGE_SIDE_EFFECTS: '{0} yan etkileri başladı.'
 BUFF_CHATMESSAGE_UNDER_EFFECT: '{0} etkisi altındasın.'
-CELESTIAL_TOWER_INFO_RESET_CONFIRM: Tüm Göksel Kule ilerlemenizi sıfırlamak ister misiniz? Sıralama sıfırlanmayacak.
-CELESTIAL_TOWER_MONTHLY_REFRESH: Göksel Kule sıfırlandı.
+CELESTIAL_TOWER_INFO_RESET_CONFIRM: Tüm Gök Kulesi ilerlemenizi sıfırlamak ister misiniz? Sıralama sıfırlanmayacak.
+CELESTIAL_TOWER_MONTHLY_REFRESH: Gök Kulesi sıfırlandı.
 CELESTIAL_TOWER_SHOUTMESSAGE_MATE_REGISTERED: NosMate takımına eklendi.
-CELESTIAL_TOWER_SHOUTMESSAGE_START: Göksel Kule meydan okuması başlıyor!
+CELESTIAL_TOWER_SHOUTMESSAGE_START: Gök Kulesi meydan okuması başlıyor!
 CELLON_SHOUTMESSAGE_FAIL: Seçenek eklemeyi başaramadığın için Cellon kayboldu.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Bu aksesuar için Cellon seviyesi çok yüksek.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Aksesuar yuvaları zaten dolu.
@@ -193,7 +190,7 @@ CHARACTER_RENAMING_INFO_ALREADY_CONSUMED_TICKET: Adını değiştirmeden önce z
 CHARACTER_RENAMING_INFO_NEXT_LOGIN: Karakter seçim ekranında karakterinin adını değiştirebileceksin.
 CHARACTER_RENAMING_INFO_NOT_ALLOWED: Bu karakterin adını değiştiremezsin, İsim Değiştirme Kartı eşyasını kullanman gerekiyor.
 CHARACTER_RENAMING_INFO_UNEXPECTED_ERROR: Karakterinin adını değiştirirken bir sorun oluştu, lütfen destek ile iletişime geç.
-CLASS_NAME_ADVENTURER: Macera Peşinde
+CLASS_NAME_ADVENTURER: Maceracı
 CLASS_NAME_ARCHER: Okçu
 CLASS_NAME_MAGE: Büyücü
 CLASS_NAME_MARTIAL_ARTIST: Dövüş Sanatçısı
@@ -220,7 +217,7 @@ DUEL_DIALOG_REQUEST_INVITE: '{0} seni meydan okudu! Kabul etmek ister misin?'
 DUEL_DIALOG_REVIVAL: Devam et?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Bu oyuncu düello isteklerini engelliyor.
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
-EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Bu ifadeyi zaten sahipsin.
+EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Bu ifadeye zaten sahipsin.
 EMOTES_SHOUTMESSAGE_UNLOCKED: '{0} ifadesinin kilidini açtın.'
 ENCOURAGE_CHATMESSAGE_ALREADY_ENCOURAGED: Oyuncu zaten biri tarafından cesaretlendirilmiş.
 ENCOURAGE_CHATMESSAGE_COOLDOWN: Günde sadece bir oyuncuyu cesaretlendirebilirsin.
@@ -341,7 +338,7 @@ GAMBLING_MESSAGE_FAILED: Kumar başarısız oldu! Eşya yok oldu.
 GAMBLING_MESSAGE_FAILED_ITEM_SAVED: Kumar başarısız oldu, ama eşya yok olmaktan kurtarıldı.
 GAMBLING_MESSAGE_GAMBLE_BLOCKED_WITHOUT_AMULET: "'Güvenli Kumar' seçeneğini etkinleştirdin, muskasız kumar oynamak istiyorsan bunu devre dışı bırak."
 GAMBLING_MESSAGE_ITEM_IS_HEROIC: Kahraman bir eşya ile kumar oynayamazsın.
-GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Bu eşya kahramanca değil.
+GAMBLING_MESSAGE_ITEM_IS_NOT_HEROIC: Bu bir kahraman eşyası değil.
 GAMBLING_MESSAGE_SUCCESS: 'Kumar başarılı! Yeni nadirlik seviyesi: {0}'
 GAME_FEATURE_DISABLED: Bu oyun özelliği şu anda devre dışı.
 GAMEEVENT_CHATMESSAGE_NO_REQUIREMENT: Bu moda girmek için gerekli şartları sağlamıyorsun.
@@ -811,15 +808,15 @@ QUEST_DIALOG_START_MAIN_QUEST: Ana görevi başladıktan sonra bırakamazsın. Y
 QUEST_DIALOG_TELEPORT_TO_OBJECTIVE: Işınlanmak ister misin?
 QUEST_DISABLED: Bu görev devre dışı.
 QUEST_INFO_CANT_GIVE_UP: Bu görevi bırakamazsın.
-QUEST_INFO_SKIP_ACT_CONFIRM_1: Bu Perdeyi atlamak istiyor musun? Bunu yaparsan hiçbir ödül alamazsın.
-QUEST_INFO_SKIP_ACT_CONFIRM_2: Bu Perdeyi atlamak istediğinden gerçekten emin misin?
-QUEST_SHOUTMESSAGE_ACT_SKIPPED: Perde başarıyla atlandı.
+QUEST_INFO_SKIP_ACT_CONFIRM_1: Bu Act'i atlamak istiyor musun? Bunu yaparsan hiçbir ödül alamazsın.
+QUEST_INFO_SKIP_ACT_CONFIRM_2: Bu Act'i atlamak istediğinden gerçekten emin misin?
+QUEST_SHOUTMESSAGE_ACT_SKIPPED: Act başarıyla atlandı.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED: Bu görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_MAIN: Bu ana görevi zaten tamamladın.
 QUEST_SHOUTMESSAGE_ALREADY_COMPLETED_PERIODIC: Bu görev zaten tamamlandı ve henüz hazır değil.
 QUEST_SHOUTMESSAGE_ALREADY_HAVE_QUEST: Bu görevi zaten aldın.
 QUEST_SHOUTMESSAGE_ALREADY_MAIN_QUEST: Zaten bir ana görev yapıyorsun.
-QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: Perdeyi atlamak için bir ana göreve sahip olman gerekiyor.
+QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: Act'i atlamak için bir ana göreve sahip olman gerekiyor.
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış bazı görevlerin var.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için çok düşük.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
