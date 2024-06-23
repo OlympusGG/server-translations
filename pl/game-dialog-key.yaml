@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minut(y)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} pojawi się w {1} za {2} sekund(y)!'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nie możesz stworzyć wróżki z dwóch wróżek o tym samym poziomie ulepszenia.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Odblokowałeś nowy slot teleportacji.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Ta wróżka nie może być ulepszona.

@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: ¡{0} aparecerá en {1} en {2} minuto(s)!
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: ¡{0} aparecerá en {1} en {2} segundos!
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: No puedes crear una hada con 2 hadas del mismo nivel de mejora.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Esta hada no puede ser mejorada.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Has desbloqueado una nueva ranura de teletransporte.

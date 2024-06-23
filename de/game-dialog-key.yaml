@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Du kannst keine Fee herstellen, wenn beide Feen dasselbe Upgrade-Level haben.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Diese Fee kann nicht verbessert werden.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Du hast einen neuen Warp-Slot freigeschaltet.

@@ -1136,3 +1136,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Aynı yükseltme seviyesine sahip 2 periyle peri yapılamaz.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Bu peri yükseltilemez.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Yeni bir warp yuvası açtın.

@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portail temporaire s'est ouvert à {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} va apparaître dans {1} dans {2} minute(s)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} va apparaître dans {1} dans {2} seconde(s)!'
+FAIRY_INFO_CANNOT_BE_UPGRADED: Cette fée ne peut pas être améliorée.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Vous ne pouvez pas créer une fée avec 2 fées ayant le même niveau d'amélioration.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Vous avez débloqué un nouvel emplacement de téléportation.

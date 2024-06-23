@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} apparirà in {1} tra {2} minuto(i)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} apparirà in {1} tra {2} secondo(i)!'
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Hai sbloccato un nuovo slot di teletrasporto.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Non puoi creare una fata con 2 fate dello stesso livello di potenziamento.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Questa fata non può essere potenziata.
