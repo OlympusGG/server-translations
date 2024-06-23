@@ -144,15 +144,12 @@ BID_INFO_SERVICE_UNAVAILABLE: The Bidding System is unavailable, try again later
 BID_INFO_UNEXPECTED_ERROR: The Bidding System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully.
-BID_MODAL_DISCLAIMER: >-
+BID_MODAL_DISCLAIMER: |-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
 
   To ensure a fair and responsive Bidding System for our players, you will not be able to:
-
   	- Remove an auctioned item before its end date if someone has already bid.
-
   	- Back-down from a Bid done to an auctioned item.
-
 
   The button to bid on an item won't ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
 
