@@ -235,14 +235,14 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Kilidini açabileceğiniz herhangi bir Ekip
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Bir unvan kullanıyor olmanız gerekmektedir.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Bu Ekipman Seti yuvasının kilidi açık değil.
 EQUIPMENT_SET_SWAPPED_TO_X: "Ekipman Seti şu şekilde değiştirildi: '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: Peri ayarları değiştirildi.
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Aşırı şarjlı peri yükseltilmez.
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Altın alet kullanıldı.
-FAIRY_SHOUTMESSAGE_HAMMER_USED: Çekiç kullanıldı.
-FAIRY_SHOUTMESSAGE_OVERCHARGED: Peri aşırı şarj oldu.
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Restorasyon seti kullanıldı.
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Yükseltme başarısız oldu.
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Yükseltme başarılı oldu.
+FAIRY_MODAL_OPTIONS_CHANGED: Peri ayarları başarıyla değiştirildi.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Aşırı yüklenmiş bir peri yükseltemezsin.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Periniz artık aşırı şarjlı değil.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Tüm peri seçenekleri silindi.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Perin artık aşırı yüklendi. Daha fazla yükseltemezsin.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Son seçenek kaldırıldı.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Peri yükseltmesi başarısız oldu.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Tebrikler, bir peri seçeneği eklendi.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Aile başarımı açıldı: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) giriş yaptı!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Aile yükseltmesi satın alındı.
@@ -1136,6 +1136,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Aynı yükseltme seviyesine sahip 2 periyle peri yapılamaz.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Aynı yükseltme seviyesine sahip 2 periyle peri yapamazsın.
 FAIRY_INFO_CANNOT_BE_UPGRADED: Bu peri yükseltilemez.
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Yeni bir warp yuvası açtın.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Yeni bir ışınlanma yuvası açtın.
