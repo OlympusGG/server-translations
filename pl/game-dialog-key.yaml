@@ -144,18 +144,16 @@ BID_INFO_SERVICE_UNAVAILABLE: System licytacji jest niedostępny, spróbuj ponow
 BID_INFO_UNEXPECTED_ERROR: W systemie licytacji wystąpił nieoczekiwany błąd podczas próby realizacji twojego żądania
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} złota zostało odzyskane z zlicytowanego przedmiotu i wysłane na twoje konto bankowe.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Zlicytowany przedmiot został przesłany pomyślnie.
-BID_MODAL_DISCLAIMER: |
+BID_MODAL_DISCLAIMER: |-
   Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
-
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
+
   	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
   	– Wycofać się z złożonej oferty licytowanego przedmiotu.
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
-
   Przycisk do wystawienia przedmiotu na aukcji poprosi o potwierdzenie przed kontynuacją.
-
 
   Szczęśliwego Licytowania!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Aukcja wystartowała
@@ -238,14 +236,14 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nie posiadasz żadnego Klucza Zakładki Zes
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Musisz mieć wyekwipowany tytuł.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Ta zakładka zestawu ekwipunku nie jest odblokowana.
 EQUIPMENT_SET_SWAPPED_TO_X: "Zestaw ekwipunku zmieniony na: '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_MODAL_OPTIONS_CHANGED: 'Opcje wróżki zostały pomyślnie zmienione.'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Nie możesz ulepszyć przeładowanej wróżki.'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Twoja wróżka nie jest już przeładowana.'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Usunięto opcje wróżki.'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Twoja wróżka została przeładowana, Nie możesz jej już ulepszać.'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Ostatnia opcja została usunięta.'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Ulepszenie wróżki nie powiodło się.'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Gratulacje, opcje wróżki zostały dodane.'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodzinne: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono ulepszenie rodziny.
@@ -1141,4 +1139,4 @@ WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minut(y)!
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} pojawi się w {1} za {2} sekund(y)!'
 FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nie możesz stworzyć wróżki z dwóch wróżek o tym samym poziomie ulepszenia.
 WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Odblokowałeś nowy slot teleportacji.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Ta wróżka nie może być ulepszona.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Ta wróżka nie może zostać ulepszona.
