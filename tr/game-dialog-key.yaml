@@ -576,11 +576,11 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Bakım {0} saat içinde başlayac
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Bakım {0} dakika içinde başlayacak.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Bakım {0} saniye içinde başlayacak.
 MESSAGE_UNDER_CHAT_0: Hoparlörler, Konuşma Balonları ve Kahraman Sohbeti sadece İngilizce!
-MESSAGE_UNDER_CHAT_1: 'Discord sunucumuzu kontrol et: discord.gg/olympusgg'
-MESSAGE_UNDER_CHAT_2: 'Bir hata mı buldun? Bir hata bileti aç: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_1: 'Discord sunucumuza göz at: discord.olympusgg.com'
+MESSAGE_UNDER_CHAT_2: 'Destek mi gerekiyor ya da bir hata mı buldun? Bilet aç: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Bir fikrin mi var? Discord'umuzda bir öneri oluştur!
-MESSAGE_UNDER_CHAT_4: 'Oyun kurallarımıza saygı göster: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Ödeme veya oyun içi sorun mu yaşıyorsun? Destek Discord sunucumuzu ziyaret et: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_4: 'Oyun kurallarımıza saygı gösterin: wiki.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'Birden fazla hesap açmak yasaktır.'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigame üretim puanları yenilendi.
 MINIGAME_INFO_NO_REWARD: Bu minigamede ödül yok.
 MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
