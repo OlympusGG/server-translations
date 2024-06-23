@@ -144,18 +144,18 @@ BID_INFO_SERVICE_UNAVAILABLE: Il Sistema di Offerte non è disponibile, prova pi
 BID_INFO_UNEXPECTED_ERROR: Il Sistema di Offerte ha riscontrato un errore imprevisto durante l'elaborazione della tua richiesta
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} oro è stato recuperato dall'oggetto messo all'asta ed inviato al tuo conto in banca."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperato con successo.
-BID_MODAL_DISCLAIMER: |
+BID_MODAL_DISCLAIMER: |-
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
-
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
+
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
-  	– Ritirarsi da un'offerta fatta a un oggetto messo all'asta.
 
-  Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la sua risposta sia eccellente per aste veloci, quindi per favore fai attenzione.
+  	– Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
 
 
-  Il pulsante per mettere un oggetto all'asta chiederà una conferma prima di procedere. Questo è fatto per assicurare la decisione del player.
+  Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la risposta sia eccellente al fine di aste veloci, quindi si prega di fare attenzione.
 
+  Il pulsante per mettere un oggetto all'asta chiederà invece una conferma prima di procedere. Ciò è necessario per riaffermare la decisione del player.
 
   Buone aste!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Apri asta
@@ -238,14 +238,14 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Non hai alcuno slot di Set di Equipaggiamen
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Devi avere un titolo equipaggiato.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Questo slot del Set di Equipaggiamento non è sbloccato.
 EQUIPMENT_SET_SWAPPED_TO_X: "Set di equipaggiamento cambiato in: '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: Opzioni della fata modificate
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Impossibile potenziare ulteriormente a causa della sovraccarica
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Strumento dorato utilizzato
-FAIRY_SHOUTMESSAGE_HAMMER_USED: Martello utilizzato
-FAIRY_SHOUTMESSAGE_OVERCHARGED: Sovraccaricato
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Set di ripristino utilizzato
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Potenziamento fallito
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Potenziamento riuscito
+FAIRY_MODAL_OPTIONS_CHANGED: Opzioni della fata modificate con successo.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Non puoi potenziare una fata sovraccaricata.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: La tua fata non è più sovraccaricata.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Opzioni fata cancellate.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: La tua fata è sovraccaricata. Non puoi migliorarla ulteriormente.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: L'ultima opzione è stata rimossa.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Il miglioramento della fata è fallito.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Congratulazioni, è stata aggiunta un'opzione alla fata.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Sbloccato traguardo di famiglia: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) si è connesso!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Acquistato l'aggiornamento della famiglia.
@@ -578,12 +578,12 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_STOPPED: La manutenzione è stata interrotta.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: La manutenzione inizierà tra {0} ora/e.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La manutenzione inizierà tra {0} minuto/i.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La manutenzione inizierà tra {0} secondo/i.
-MESSAGE_UNDER_CHAT_0: Altoparlanti, fumetti e la chat dell'eroe sono solo in inglese!
+MESSAGE_UNDER_CHAT_0: Altoparlanti, fumetti e la chat dell'eroe sono esclusivamente in inglese!
 MESSAGE_UNDER_CHAT_1: "Dai un'occhiata al nostro server Discord: discord.gg/olympusgg"
 MESSAGE_UNDER_CHAT_2: 'Hai trovato un bug? Apri un ticket di segnalazione su: dashboard.olympusgg.com/support'
 MESSAGE_UNDER_CHAT_3: Hai un'idea? Crea un suggerimento sul nostro Discord!
 MESSAGE_UNDER_CHAT_4: 'Rispetta le regole del nostro gioco: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Problemi di pagamento o nel gioco? Visita il nostro server di Supporto Discord: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_5: 'Non è permesso avere molteplici accounts.'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: I punti produzione dei minigiochi sono stati aggiornati.
 MINIGAME_INFO_NO_REWARD: Non ci sono ricompense in questo minigioco.
 MINIGAME_INFO_POINTS_FULL: Raggiunti i punti produzione massimi.
@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} apparirà in {1} tra {2} minuto(i)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} apparirà in {1} tra {2} secondo(i)!'
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Hai sbloccato un nuovo slot di teletrasporto.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Non puoi creare una fata con 2 fate dello stesso livello di potenziamento.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Questa fata non può essere potenziata.

@@ -144,7 +144,7 @@ BID_INFO_SERVICE_UNAVAILABLE: Das Biet-System ist derzeit nicht verfügbar, vers
 BID_INFO_UNEXPECTED_ERROR: Das Biet-System ist auf einen unerwarteten Fehler gestoßen, während es versucht hat, deine Anfrage zu bearbeiten
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} Gold wurde vom versteigerten Gegenstand gewonnen und auf dein Bankkonto überwiesen.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Der ersteigerte Gegenstand wurde erfolgreich abgeholt.
-BID_MODAL_DISCLAIMER: |
+BID_MODAL_DISCLAIMER: |-
   Bevor du das Biet-System nutzt, gehe sicher, dass du diese Ausschlussklausel ließt und verstehst.
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
@@ -238,14 +238,14 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Du kannst keinen Equipment-Set-Slot freisch
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Du musst einen Titel ausgerüstet haben.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Dieser Equipment-Set-Slot ist nicht freigeschaltet.
 EQUIPMENT_SET_SWAPPED_TO_X: "Equipment-Set gewechselt zu: '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: '#FEEN_MODAL_OPTIONEN_GEÄNDERT'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FEEN_RUFNACHRICHT_KANN_ÜBERLADEN_NICHT_VERBESSERN'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FEEN_RUFNACHRICHT_GOLDENES_WERKZEUG_VERWENDET'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FEEN_RUFNACHRICHT_HAMMER_VERWENDET'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FEEN_RUFNACHRICHT_NACHLADUNG_ZU_HOCH'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FEEN_RUFNACHRICHT_WIEDERHERSTELLUNGSSET_VERWENDET'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FEEN_RUFNACHRICHT_AUFSTUFUNG_FEHLGESCHLAGEN'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FEEN_RUFNACHRICHT_VERBESSERUNG_ERFOLGREICH'
+FAIRY_MODAL_OPTIONS_CHANGED: 'Die Optionen deiner Fee wurden erfolgreich geändert.'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Du kannst keine überladene Fee verbessern.'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Deine Fee ist nicht mehr überladen.'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Alle Optionen der Fee wurden entfernt.'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Deine Fee ist nun überladen und kann nicht mehr verbessert werden.'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Die letzte Option wurde entfernt.'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Die Verbesserung deiner Fee ist fehlgeschlagen.'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Die Verbesserung deiner Fee war erfolgreich.'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Familien-Erfolg freigeschaltet: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) hat sich eingeloggt!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Familien-Upgrade gekauft.
@@ -579,11 +579,11 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Die Wartung beginnt in {0} Stunde
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Die Wartung beginnt in {0} Minute(n).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Die Wartung beginnt in {0} Sekunde(n).
 MESSAGE_UNDER_CHAT_0: Lautsprecher, Sprechblasen und der Helden Chat sind nur auf Englisch!
-MESSAGE_UNDER_CHAT_1: 'Besuche unseren Discord-Server: discord.gg/olympusgg'
-MESSAGE_UNDER_CHAT_2: 'Hast du einen Bug gefunden? Eröffne ein Bug-Ticket auf: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: Hast du eine Idee? Erstelle einen Vorschlag auf unserem Discord!
-MESSAGE_UNDER_CHAT_4: 'Beachte unsere Spielregeln: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Probleme mit Zahlungen oder im Spiel? Besuche unseren Support-Discord-Server: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_1: 'Besuche unseren Discord-Server: discord.olympusgg.com'
+MESSAGE_UNDER_CHAT_2: 'Benötigst du Hilfe oder hast du einen Bug gefunden? Eröffne ein Ticket auf: support.olympusgg.com'
+MESSAGE_UNDER_CHAT_3: Hast du Ideen? Erstelle einen Vorschlag auf unserem Discord!
+MESSAGE_UNDER_CHAT_4: 'Beachte unsere Spielregeln: wiki.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'Es ist verboten mehrere Accounts zu besitzen.'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Die Produktionspunkte der Minispiele wurden aufgefrischt.
 MINIGAME_INFO_NO_REWARD: In diesem Minispiel gibt es keine Belohnungen.
 MINIGAME_INFO_POINTS_FULL: Maximale Produktionspunkte erreicht.
@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Du kannst keine Fee herstellen, wenn beide Feen dasselbe Upgrade-Level haben.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Diese Fee kann nicht verbessert werden.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Du hast einen neuen Warp-Slot freigeschaltet.

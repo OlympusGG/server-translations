@@ -1139,3 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví v {1} za {2} minutu/minuty!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví v {1} za {2} sekundu/sekundy!'
+FAIRY_INFO_CANNOT_BE_UPGRADED: Tato víla nemůže být vylepšena.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nemůžeš vytvořit vílu ze dvou víl se stejnou úrovní vylepšení.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Odemkl jsi nový warp slot.
