@@ -579,11 +579,11 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: El mantenimiento comenzará en {0
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: El mantenimiento comenzará en {0} minuto(s).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: El mantenimiento comenzará en {0} segundo(s).
 MESSAGE_UNDER_CHAT_0: ¡Solo se permite hablar en inglés en los altavoces, globos de diálogo y chat del héroe!
-MESSAGE_UNDER_CHAT_1: 'Visita nuestro servidor de Discord: discord.gg/olympusgg'
-MESSAGE_UNDER_CHAT_2: '¿Encontraste un error? Abre un tique de error en: dashboard.olympusgg.com/support'
-MESSAGE_UNDER_CHAT_3: ¿Tienes una idea? ¡Crea una sugerencia en nuestro Discord!
-MESSAGE_UNDER_CHAT_4: 'Respeta nuestras reglas del juego: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: '¿Problemas de pago o en el juego? Visita nuestro servidor de soporte en Discord: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_1: 'Visita nuestro servidor de Discord: discord.olympusgg.com'
+MESSAGE_UNDER_CHAT_2: '¿Necesitas ayuda o encontraste un BuG? Abre un tique en: support.olympusgg.com'
+MESSAGE_UNDER_CHAT_3: ¿Tienes alguna idea? ¡Crea una sugerencia en nuestro Discord!
+MESSAGE_UNDER_CHAT_4: 'Respeta nuestras reglas del juego: wiki.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'No está permitido tener múltiples cuentas.'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Los puntos de producción de los minijuegos han sido actualizados.
 MINIGAME_INFO_NO_REWARD: No hay recompensas en este minijuego.
 MINIGAME_INFO_POINTS_FULL: Se han alcanzado los puntos de producción máximos.
