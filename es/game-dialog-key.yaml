@@ -144,18 +144,18 @@ BID_INFO_SERVICE_UNAVAILABLE: El Sistema de Pujas no está disponible, inténtal
 BID_INFO_UNEXPECTED_ERROR: El Sistema de Pujas ha encontrado un error inesperado al intentar procesar tu solicitud
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Se ha recuperado {0} oro del artículo subastado y enviado a tu cuenta bancaria.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: El artículo subastado ha sido recuperado con éxito.
-BID_MODAL_DISCLAIMER: |
+BID_MODAL_DISCLAIMER: |-
   Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.
-
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
+
   	– Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
+
   	– Retirarte de una puja hecha a un artículo subastado.
 
-  El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea de primera para subastas rápidas, así que por favor ten cuidado.
 
+  El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea óptima para subastas rápidas, así que por favor ten cuidado.
 
-  El botón para poner un artículo en subasta te pedirá confirmación antes de proceder. Esto se hace para asegurar la decisión de un jugador.
-
+  El botón para poner un artículo en subasta te pedirá confirmación antes de terminar. Esto se hace para asegurar la decisión de un jugador.
 
   ¡Felices Pujas!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Abrir subasta
@@ -238,14 +238,14 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: No tienes ninguna ranura del Intercambiador
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Necesitas tener un título equipado.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Este Conjunto de Equipo no está desbloqueado.
 EQUIPMENT_SET_SWAPPED_TO_X: 'Conjunto de Equipo cambiado a: "{0}"'
-FAIRY_MODAL_OPTIONS_CHANGED: '#FAIRY_MODAL_OPTIONS_CHANGED'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: '#FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: '#FAIRY_SHOUTMESSAGE_HAMMER_USED'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: '#FAIRY_SHOUTMESSAGE_OVERCHARGED'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: '#FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: '#FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: '#FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS'
+FAIRY_MODAL_OPTIONS_CHANGED: 'Las opciones del hada han cambiado con éxito.'
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'No puedes mejorar un hada sobrecargada.'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Tu hada ya no está sobrecargada.'
+FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Todas las opciones del hada han sido eliminadas.'
+FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Tu hada ahora está sobrecargada. No podrás mejorarla más.'
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'La última opción se ha eliminado.'
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'La mejora del hada ha fallado.'
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Enhorabuena, una opción de hada ha sido añadida.'
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: ¡{0}({1}) ha iniciado sesión!
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada.
@@ -1139,6 +1139,6 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: ¡{0} aparecerá en {1} en {2} minuto(s)!
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: ¡{0} aparecerá en {1} en {2} segundos!
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: No puedes crear una hada con 2 hadas del mismo nivel de mejora.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Esta hada no puede ser mejorada.
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: No puedes crear un hada con 2 hadas del mismo nivel de mejora.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Este hada no puede ser mejorada.
 WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Has desbloqueado una nueva ranura de teletransporte.
