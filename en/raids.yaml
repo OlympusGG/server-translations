@@ -29,6 +29,9 @@ RAID_NAME_MARU: Maru
 RAID_NAME_SNOWMAN: Huge Snowman Head
 RAID_NAME_ALZANOR: Ice Dragon Alzanor
 RAID_NAME_VALEHIR: Zombie Dragon Valehir
+RAID_NAME_POLLUTUS: Moss Giant Pollutus
+RAID_NAME_GIANTARMA: Giant Arma
+RAID_SAY_MOTION_DETECTION_BOMB: "A Motion Detection Bomb has been activated! If you're still attacking or moving in 3 sec., you'll be killed!"
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
 GRENIGAS_SHOUTMESSAGE_EGG_DIE: "The tremendous phoenix Grail is reborn from the egg."
