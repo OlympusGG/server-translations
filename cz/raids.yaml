@@ -62,3 +62,6 @@ MULTIVERSE_NAME_CHRONO: 'Chrono'
 MULTIVERSE_NAME_MIRROR: 'Mirror'
 MULTIVERSE_NAME_BERSERK: 'Berserk'
 MULTIVERSE_NAME_CHAOS: 'Chaos'
+RAID_NAME_POLLUTUS: Obr Moss Pollutus
+RAID_NAME_GIANTARMA: Obří Arma
+RAID_SAY_MOTION_DETECTION_BOMB: Aktivována bomba s detekcí pohybu! Pokud budete za 3 sekundy stále útočit nebo se pohybovat, zemřete!
