@@ -62,3 +62,6 @@ MULTIVERSE_NAME_CHRONO: 'Chrono'
 MULTIVERSE_NAME_MIRROR: 'Spiegel'
 MULTIVERSE_NAME_BERSERK: 'Berserk'
 MULTIVERSE_NAME_CHAOS: 'Chaos'
+RAID_NAME_POLLUTUS: Moosriese Pollutus
+RAID_NAME_GIANTARMA: Riesen-Arma
+RAID_SAY_MOTION_DETECTION_BOMB: Eine Bewegungsmelder-Bombe wurde aktiviert! Wenn du in 3 Sekunden immer noch angreifst oder dich bewegst, wirst du getötet!

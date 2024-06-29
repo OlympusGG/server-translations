@@ -62,3 +62,6 @@ MULTIVERSE_NAME_CHRONO: 'Tiempo'
 MULTIVERSE_NAME_MIRROR: 'Espejo'
 MULTIVERSE_NAME_BERSERK: 'Berserker'
 MULTIVERSE_NAME_CHAOS: 'Caos'
+RAID_NAME_POLLUTUS: Musgólem Poluto
+RAID_NAME_GIANTARMA: Mecacoloso
+RAID_SAY_MOTION_DETECTION_BOMB: ¡Se ha activado una Bomba de Detección de Movimiento! Si sigues atacando o moviéndote en 3 segundos, ¡morirás!
