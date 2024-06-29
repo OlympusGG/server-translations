@@ -62,6 +62,6 @@ MULTIVERSE_NAME_CHRONO: 'Chronos'
 MULTIVERSE_NAME_MIRROR: 'Miroir'
 MULTIVERSE_NAME_BERSERK: 'Berserk'
 MULTIVERSE_NAME_CHAOS: 'Chaos'
-RAID_NAME_POLLUTUS: Géant Moussu Pollutus
-RAID_NAME_GIANTARMA: Arma Géant
+RAID_NAME_POLLUTUS: Géant moussu Pollutus
+RAID_NAME_GIANTARMA: Arma géant
 RAID_SAY_MOTION_DETECTION_BOMB: Une bombe à détection de mouvement a été activée ! Si tu continues d'attaquer ou de bouger dans 3 sec., tu seras tué !
