@@ -109,7 +109,7 @@ BATTLE_PASS_INFO_ALREADY_PREMIUM: Kampfpass ist bereits Premium
 BATTLE_ROYALE_NOTIFY_ACTION_OPEN: Battle Royale Aktion öffnen
 BATTLE_ROYALE_NOTIFY_DESC: '#BATTLE_ROYALE_BENACHRICHTIGUNG_BESCHREIBUNG'
 BATTLE_ROYALE_NOTIFY_TITLE: '#BATTLE_ROYALE_BENACHRICHTIGUNG_TITEL'
-BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0}x {1} - zum NosBasar hinzugefügt.'
+BAZAAR_CHATMESSAGE_ITEM_ADDED: '{0} x{1} - zum NosBasar hinzugefügt.'
 BAZAAR_CHATMESSAGE_ITEM_SOLD: Dein Artikel {0}x {1} wurde im NosBasar verkauft.
 BAZAAR_INFO_ALREADY_USED_ITEM: Dieser Gegenstand wurde bereits verwendet.
 BAZAAR_INFO_ITEM_CHANGED: Kauf ungültig, Gegenstand verkauft oder Preis geändert.
