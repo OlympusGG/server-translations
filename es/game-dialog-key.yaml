@@ -144,8 +144,9 @@ BID_INFO_SERVICE_UNAVAILABLE: El Sistema de Pujas no está disponible, inténtal
 BID_INFO_UNEXPECTED_ERROR: El Sistema de Pujas ha encontrado un error inesperado al intentar procesar tu solicitud
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Se ha recuperado {0} oro del artículo subastado y enviado a tu cuenta bancaria.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: El artículo subastado ha sido recuperado con éxito.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.
+
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
   	– Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
@@ -155,7 +156,9 @@ BID_MODAL_DISCLAIMER: |-
 
   El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea óptima para subastas rápidas, así que por favor ten cuidado.
 
+
   El botón para poner un artículo en subasta te pedirá confirmación antes de terminar. Esto se hace para asegurar la decisión de un jugador.
+
 
   ¡Felices Pujas!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Abrir subasta
@@ -238,14 +241,16 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: No tienes ninguna ranura del Intercambiador
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Necesitas tener un título equipado.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Este Conjunto de Equipo no está desbloqueado.
 EQUIPMENT_SET_SWAPPED_TO_X: 'Conjunto de Equipo cambiado a: "{0}"'
-FAIRY_MODAL_OPTIONS_CHANGED: 'Las opciones del hada han cambiado con éxito.'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'No puedes mejorar un hada sobrecargada.'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Tu hada ya no está sobrecargada.'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Todas las opciones del hada han sido eliminadas.'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Tu hada ahora está sobrecargada. No podrás mejorarla más.'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'La última opción se ha eliminado.'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'La mejora del hada ha fallado.'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Enhorabuena, una opción de hada ha sido añadida.'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: No puedes crear un hada con 2 hadas del mismo nivel de mejora.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Este hada no puede ser mejorada.
+FAIRY_MODAL_OPTIONS_CHANGED: Las opciones del hada han cambiado con éxito.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: No puedes mejorar un hada sobrecargada.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Tu hada ya no está sobrecargada.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Todas las opciones del hada han sido eliminadas.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Tu hada ahora está sobrecargada. No podrás mejorarla más.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: La última opción se ha eliminado.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: La mejora del hada ha fallado.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Enhorabuena, una opción de hada ha sido añadida.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Logro familiar desbloqueado: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: ¡{0}({1}) ha iniciado sesión!
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Mejora de familia comprada.
@@ -583,7 +588,7 @@ MESSAGE_UNDER_CHAT_1: 'Visita nuestro servidor de Discord: discord.olympusgg.com
 MESSAGE_UNDER_CHAT_2: '¿Necesitas ayuda o encontraste un BuG? Abre un tique en: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: ¿Tienes alguna idea? ¡Crea una sugerencia en nuestro Discord!
 MESSAGE_UNDER_CHAT_4: 'Respeta nuestras reglas del juego: wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'No está permitido tener múltiples cuentas.'
+MESSAGE_UNDER_CHAT_5: No está permitido tener múltiples cuentas.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Los puntos de producción de los minijuegos han sido actualizados.
 MINIGAME_INFO_NO_REWARD: No hay recompensas en este minijuego.
 MINIGAME_INFO_POINTS_FULL: Se han alcanzado los puntos de producción máximos.
@@ -953,6 +958,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: El barco zarpará en {0} minutos.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: El barco zarpará en {0} segundos.
 SHOP_CHATMESSAGE_EMPTY: La tienda no puede estar vacía.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Solo puedes vender artículos comerciables en una tienda privada.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Tienda Privada
 SHOP_INFO_ALREADY_OPEN: Ya tienes una tienda abierta.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Necesitas desactivar la opción "Venta Segura de Equipamiento" para vender este artículo.
@@ -1124,6 +1132,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: No puedes unirte a este mapa.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Este punto de retorno está en enfriamiento. Tiempo restante: {0} segundos'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: No puedes unirte a este mapa todavía. Estás en combate o bajo enfriamiento de cambio de mapa.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: No puedes establecer un Punto de Teletransporte en este mapa.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Has desbloqueado una nueva ranura de teletransporte.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: ¿Quieres divorciarte?
 WEDDING_DIALOG_REQUEST_RECEIVED: El jugador {0} te ha propuesto matrimonio. ¿Aceptas la propuesta de matrimonio?
 WEDDING_DIALOG_REQUEST_VERIFICATION: ¿Estás seguro de que quieres casarte con {0}?
@@ -1139,6 +1148,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Se abrió un portal temporal en {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: ¡{0} aparecerá en {1} en {2} minuto(s)!
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: ¡{0} aparecerá en {1} en {2} segundos!
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: No puedes crear un hada con 2 hadas del mismo nivel de mejora.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Este hada no puede ser mejorada.
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Has desbloqueado una nueva ranura de teletransporte.

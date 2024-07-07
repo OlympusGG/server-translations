@@ -144,15 +144,18 @@ BID_INFO_SERVICE_UNAVAILABLE: Teklif Sistemi kullanılamıyor, daha sonra tekrar
 BID_INFO_UNEXPECTED_ERROR: Teklif Sistemi, isteğini gerçekleştirirken beklenmedik bir hata ile karşılaştı
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: Açık artırmadan elde edilen {0} altın banka hesabına yatırıldı.
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri alındı.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Teklif Sistemi'ni kullanmadan önce lütfen bu uyarıyı okuyup anladığınızdan emin olun.
+
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, aşağıdaki durumlar gerçekleşemez:
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
 
   Bir item için teklif verme butonu herhangi bir onay istemeyecek, bu da hızlı tempolu açık artırmalar için tepki süresinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 
+
   Bir item'i açık artırmaya koyma butonu, işleme devam etmeden önce sizden onay isteyecektir. Bu, bir oyuncunun kararını sağlamak içindir.
+
 
   Keyifli Teklifler!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Açık artırma aç
@@ -235,6 +238,8 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Kilidini açabileceğiniz herhangi bir Ekip
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Bir unvan kullanıyor olmanız gerekmektedir.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Bu Ekipman Seti yuvasının kilidi açık değil.
 EQUIPMENT_SET_SWAPPED_TO_X: "Ekipman Seti şu şekilde değiştirildi: '{0}'"
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Aynı yükseltme seviyesine sahip 2 periyle peri yapamazsın.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Bu peri yükseltilemez.
 FAIRY_MODAL_OPTIONS_CHANGED: Peri ayarları başarıyla değiştirildi.
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Aşırı yüklenmiş bir peri yükseltemezsin.
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Periniz artık aşırı şarjlı değil.
@@ -580,7 +585,7 @@ MESSAGE_UNDER_CHAT_1: 'Discord sunucumuza göz at: discord.olympusgg.com'
 MESSAGE_UNDER_CHAT_2: 'Destek mi gerekiyor ya da bir hata mı buldun? Bilet aç: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Bir fikrin mi var? Discord'umuzda bir öneri oluştur!
 MESSAGE_UNDER_CHAT_4: 'Oyun kurallarımıza saygı gösterin: wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Birden fazla hesap açmak yasaktır.'
+MESSAGE_UNDER_CHAT_5: Birden fazla hesap açmak yasaktır.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigame üretim puanları yenilendi.
 MINIGAME_INFO_NO_REWARD: Bu minigamede ödül yok.
 MINIGAME_INFO_POINTS_FULL: Maksimum üretim puanına ulaşıldı.
@@ -950,6 +955,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içinde kalkacak.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içinde kalkacak.
 SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Özel dükkanında sadece takas edilebilir eşyaları satabilirsin.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Özel Dükkan
 SHOP_INFO_ALREADY_OPEN: Zaten açık bir dükkanın var.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Bu eşyayı satmak için "Güvenli Ekipman Satışı" seçeneğini devre dışı bırakman gerekiyor.
@@ -1121,6 +1129,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Bu haritaya katılamazsın.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Bu dönüş noktası beklemede. Kalan süre: {0} saniye'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Bu haritaya henüz katılamazsın. Ya savaş içindesin ya da harita değiştirme bekleme süresindesin.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Bu haritada Warp ayarlayamazsın.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Yeni bir ışınlanma yuvası açtın.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Boşanmak istiyor musun?
 WEDDING_DIALOG_REQUEST_RECEIVED: Oyuncu {0} sana evlenme teklif etti. Evlenme teklifini kabul ediyor musun?
 WEDDING_DIALOG_REQUEST_VERIFICATION: '{0} ile evlenmek istediğine emin misin?'
@@ -1136,6 +1145,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Aynı yükseltme seviyesine sahip 2 periyle peri yapamazsın.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Bu peri yükseltilemez.
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Yeni bir ışınlanma yuvası açtın.

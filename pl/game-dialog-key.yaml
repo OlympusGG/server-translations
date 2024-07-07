@@ -144,8 +144,9 @@ BID_INFO_SERVICE_UNAVAILABLE: System licytacji jest niedostępny, spróbuj ponow
 BID_INFO_UNEXPECTED_ERROR: W systemie licytacji wystąpił nieoczekiwany błąd podczas próby realizacji twojego żądania
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} złota zostało odzyskane z zlicytowanego przedmiotu i wysłane na twoje konto bankowe.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Zlicytowany przedmiot został przesłany pomyślnie.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
+
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
 
   	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
@@ -153,7 +154,9 @@ BID_MODAL_DISCLAIMER: |-
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
+
   Przycisk do wystawienia przedmiotu na aukcji poprosi o potwierdzenie przed kontynuacją.
+
 
   Szczęśliwego Licytowania!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Aukcja wystartowała
@@ -236,14 +239,16 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Nie posiadasz żadnego Klucza Zakładki Zes
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Musisz mieć wyekwipowany tytuł.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Ta zakładka zestawu ekwipunku nie jest odblokowana.
 EQUIPMENT_SET_SWAPPED_TO_X: "Zestaw ekwipunku zmieniony na: '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: 'Opcje wróżki zostały pomyślnie zmienione.'
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: 'Nie możesz ulepszyć przeładowanej wróżki.'
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Twoja wróżka nie jest już przeładowana.'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Usunięto opcje wróżki.'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Twoja wróżka została przeładowana, Nie możesz jej już ulepszać.'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'Ostatnia opcja została usunięta.'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'Ulepszenie wróżki nie powiodło się.'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Gratulacje, opcje wróżki zostały dodane.'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nie możesz stworzyć wróżki z dwóch wróżek o tym samym poziomie ulepszenia.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Ta wróżka nie może zostać ulepszona.
+FAIRY_MODAL_OPTIONS_CHANGED: Opcje wróżki zostały pomyślnie zmienione.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nie możesz ulepszyć przeładowanej wróżki.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Twoja wróżka nie jest już przeładowana.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Usunięto opcje wróżki.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Twoja wróżka została przeładowana, Nie możesz jej już ulepszać.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Ostatnia opcja została usunięta.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Ulepszenie wróżki nie powiodło się.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Gratulacje, opcje wróżki zostały dodane.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odblokowano osiągnięcie rodzinne: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) zalogował się!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakupiono ulepszenie rodziny.
@@ -581,7 +586,7 @@ MESSAGE_UNDER_CHAT_1: 'Sprawdź nasz serwer Discord: discord.olympusgg.com'
 MESSAGE_UNDER_CHAT_2: 'Potrzebujesz pomocy lub znalazłeś/aś błąd? Otwórz zgłoszenie na: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Masz pomysł? Zaproponuj go na naszym Discordzie!
 MESSAGE_UNDER_CHAT_4: 'Przestrzegaj naszych zasad gry: wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Zabronione jest posiadanie kilku kont.'
+MESSAGE_UNDER_CHAT_5: Zabronione jest posiadanie kilku kont.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Punkty produkcji minigier zostały odświeżone.
 MINIGAME_INFO_NO_REWARD: Nie znaleziono żadnych nagród w danej minigrze.
 MINIGAME_INFO_POINTS_FULL: Osiągnięto maksymalną ilość punktów produkcji w minigrze.
@@ -951,6 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Statek odpływa za {0} minut.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Statek odpływa za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Sklep nie może być pusty.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko przedmioty zdatne do handlu.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Sklep Osobisty
 SHOP_INFO_ALREADY_OPEN: Masz już otwarty sklep.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Musisz wyłączyć opcję "Bezpieczna sprzedaż ekwipunku", żeby sprzedać ten przedmiot.
@@ -1122,6 +1130,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Nie możesz wejść na tę mapę.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Punkt powrotu jest w trakcie odnowy. Pozostały czas: {0} sekund'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Nie możesz wejść na tę mapę. Jesteś albo w walce, albo musisz odczekać czas odnowienia zmiany mapy.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Nie możesz stworzyć osobistego teleportu na tej mapie.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Odblokowałeś nowy slot teleportacji.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Czy na pewno chcesz się rozwieść?
 WEDDING_DIALOG_REQUEST_RECEIVED: Gracz {0} oświadczył ci się. Czy zaakceptować zaręczyny?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Czy na pewno chcesz poślubić gracza {0}?
@@ -1137,6 +1146,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minut(y)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} pojawi się w {1} za {2} sekund(y)!'
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nie możesz stworzyć wróżki z dwóch wróżek o tym samym poziomie ulepszenia.
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Odblokowałeś nowy slot teleportacji.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Ta wróżka nie może zostać ulepszona.

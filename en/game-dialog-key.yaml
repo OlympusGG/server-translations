@@ -144,8 +144,9 @@ BID_INFO_SERVICE_UNAVAILABLE: The Bidding System is unavailable, try again later
 BID_INFO_UNEXPECTED_ERROR: The Bidding System has ran into an unexpected error while trying to perform your request
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: '{0} gold has been retrieved from the auctioned item and sent to your bank account.'
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: The auctioned item has been retrieved successfully.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Before using the Bidding System, please make sure to read and understand this disclaimer.
+
 
   To ensure a fair and responsive Bidding System for our players, you will not be able to:
   	- Remove an auctioned item before its end date if someone has already bid.
@@ -154,7 +155,9 @@ BID_MODAL_DISCLAIMER: |-
   The button to bid on an item won't ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
 
 
+
   The button to put an item in auction will ask you for confirmation before proceeding. This is done to ensure a player's decision.
+
 
 
   Happy Bidding!
@@ -585,7 +588,7 @@ MESSAGE_UNDER_CHAT_1: 'Check out our Discord server: discord.olympusgg.com'
 MESSAGE_UNDER_CHAT_2: 'You need support or found a bug? Open a ticket on: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Do you have ideas? Create a suggestion on our Discord!
 MESSAGE_UNDER_CHAT_4: 'Respect our game rules: wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'It is not allowed to have multiple accounts.'
+MESSAGE_UNDER_CHAT_5: It is not allowed to have multiple accounts.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Minigames' production points have been refreshed.
 MINIGAME_INFO_NO_REWARD: There are no rewards in this minigame.
 MINIGAME_INFO_POINTS_FULL: Maximum production points reached.
@@ -955,6 +958,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} minutes.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} seconds.
 SHOP_CHATMESSAGE_EMPTY: Shop can't be empty.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Private Shop
 SHOP_INFO_ALREADY_OPEN: You have a shop open already.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: You need to disable "Safe Equipment Selling" Option to sell this item.

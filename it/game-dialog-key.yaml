@@ -144,8 +144,9 @@ BID_INFO_SERVICE_UNAVAILABLE: Il Sistema di Offerte non è disponibile, prova pi
 BID_INFO_UNEXPECTED_ERROR: Il Sistema di Offerte ha riscontrato un errore imprevisto durante l'elaborazione della tua richiesta
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} oro è stato recuperato dall'oggetto messo all'asta ed inviato al tuo conto in banca."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperato con successo.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
+
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
 
   	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
@@ -155,7 +156,9 @@ BID_MODAL_DISCLAIMER: |-
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la risposta sia eccellente al fine di aste veloci, quindi si prega di fare attenzione.
 
+
   Il pulsante per mettere un oggetto all'asta chiederà invece una conferma prima di procedere. Ciò è necessario per riaffermare la decisione del player.
+
 
   Buone aste!
 BID_NOTIFMESSAGE_ACTION_OPEN_AUCTION: Apri asta
@@ -238,6 +241,8 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Non hai alcuno slot di Set di Equipaggiamen
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Devi avere un titolo equipaggiato.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Questo slot del Set di Equipaggiamento non è sbloccato.
 EQUIPMENT_SET_SWAPPED_TO_X: "Set di equipaggiamento cambiato in: '{0}'"
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Non puoi creare una fata con 2 fate dello stesso livello di potenziamento.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Questa fata non può essere potenziata.
 FAIRY_MODAL_OPTIONS_CHANGED: Opzioni della fata modificate con successo.
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Non puoi potenziare una fata sovraccaricata.
 FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: La tua fata non è più sovraccaricata.
@@ -583,7 +588,7 @@ MESSAGE_UNDER_CHAT_1: "Dai un'occhiata al nostro server Discord: discord.gg/olym
 MESSAGE_UNDER_CHAT_2: 'Hai trovato un bug? Apri un ticket di segnalazione su: dashboard.olympusgg.com/support'
 MESSAGE_UNDER_CHAT_3: Hai un'idea? Crea un suggerimento sul nostro Discord!
 MESSAGE_UNDER_CHAT_4: 'Rispetta le regole del nostro gioco: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Non è permesso avere molteplici accounts.'
+MESSAGE_UNDER_CHAT_5: Non è permesso avere molteplici accounts.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: I punti produzione dei minigiochi sono stati aggiornati.
 MINIGAME_INFO_NO_REWARD: Non ci sono ricompense in questo minigioco.
 MINIGAME_INFO_POINTS_FULL: Raggiunti i punti produzione massimi.
@@ -953,6 +958,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partirà tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio non può essere vuoto.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Puoi vendere solo oggetti scambiabili in un negozio privato.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Negozio Privato
 SHOP_INFO_ALREADY_OPEN: Hai già un negozio aperto.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Devi disattivare l'opzione "Vendita Sicura Equipaggiamento" per vendere questo oggetto.
@@ -1124,6 +1132,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Non puoi entrare in questa mappa.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Questo punto di ritorno è in cooldown. Tempo rimanente: {0} secondi'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Non puoi entrare ancora in questa mappa. Sei o in combattimento o sotto il cooldown di cambio mappa.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Non puoi impostare un Warp in questa mappa.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Hai sbloccato un nuovo slot di teletrasporto.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Vuoi divorziare?
 WEDDING_DIALOG_REQUEST_RECEIVED: Il giocatore {0} ti ha fatto una proposta di matrimonio. Accetti?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Sei sicuro di voler sposare {0}?
@@ -1139,6 +1148,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} apparirà in {1} tra {2} minuto(i)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} apparirà in {1} tra {2} secondo(i)!'
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Hai sbloccato un nuovo slot di teletrasporto.
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Non puoi creare una fata con 2 fate dello stesso livello di potenziamento.
-FAIRY_INFO_CANNOT_BE_UPGRADED: Questa fata non può essere potenziata.

@@ -144,8 +144,9 @@ BID_INFO_SERVICE_UNAVAILABLE: Le Système d'Enchères n'est pas disponible, rée
 BID_INFO_UNEXPECTED_ERROR: Le Système d'Enchères a rencontré une erreur inattendue en essayant de traiter votre demande
 BID_INFO_WITHDREW_GOLD_SUCCESSFULLY: "{0} pièces d'or ont été récupérées de l'objet mis aux enchères et envoyées à votre compte bancaire."
 BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'objet mis aux enchères a été récupéré avec succès.
-BID_MODAL_DISCLAIMER: |-
+BID_MODAL_DISCLAIMER: >-
   Avant d'utiliser le Système d'Enchères, veuillez vous assurer de lire et comprendre cet avertissement.
+
 
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
   	– Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
@@ -154,7 +155,9 @@ BID_MODAL_DISCLAIMER: |-
   Le bouton pour enchérir sur un objet ne demandera pas de confirmation, ceci pour garantir une réponse optimale pour les enchères rapides, alors soyez prudent.
 
 
+
   Le bouton pour mettre un objet aux enchères vous demandera une confirmation avant de procéder. Cela est fait pour assurer la décision d'un joueur.
+
 
 
   Bonnes enchères !
@@ -238,14 +241,16 @@ EQUIPMENT_SET_MSG_NO_SLOT_AVAILABLE: Vous n'avez pas d'emplacement d'ensemble d'
 EQUIPMENT_SET_MSG_NO_TITLE_EQUIPPED: Vous devez être équipé d'un titre de propriété.
 EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: L'emplacement de cet ensemble d'équipement n'est pas déverrouillé.
 EQUIPMENT_SET_SWAPPED_TO_X: "L'ensemble d'équipement a été remplacé par : '{0}'"
-FAIRY_MODAL_OPTIONS_CHANGED: 'Les options de la Fée ont été modifiées avec succès.'
+FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Vous ne pouvez pas créer une fée avec 2 fées ayant le même niveau d'amélioration.
+FAIRY_INFO_CANNOT_BE_UPGRADED: Cette fée ne peut pas être améliorée.
+FAIRY_MODAL_OPTIONS_CHANGED: Les options de la Fée ont été modifiées avec succès.
 FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Vous ne pouvez pas améliorer une fée surchargée.
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: 'Votre fée n''est plus surchargée.'
-FAIRY_SHOUTMESSAGE_HAMMER_USED: 'Toutes les options de la Fée ont été effacées.'
-FAIRY_SHOUTMESSAGE_OVERCHARGED: 'Votre fée est maintenant surchargée. Vous ne pouvez plus l''améliorer.'
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: 'La dernière option a été supprimée.'
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: 'L''amélioration de la fée a échoué.'
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: 'Félicitations, une option de fée a été ajoutée.'
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Votre fée n'est plus surchargée.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Toutes les options de la Fée ont été effacées.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Votre fée est maintenant surchargée. Vous ne pouvez plus l'améliorer.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: La dernière option a été supprimée.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: L'amélioration de la fée a échoué.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Félicitations, une option de fée a été ajoutée.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Succès familial débloqué : {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté !"
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Amélioration de famille achetée.
@@ -580,10 +585,10 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: La maintenance commencera dans 
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: La maintenance commencera dans {0} seconde(s).
 MESSAGE_UNDER_CHAT_0: Les messages en haut-parleurs, bulles de dialogue et chat héroïque sont uniquement en anglais !
 MESSAGE_UNDER_CHAT_1: 'Découvre notre serveur Discord : discord.olympusgg.com'
-MESSAGE_UNDER_CHAT_2: 'Vous avez besoin d''aide ou avez trouvé un bug ? Ouvrez un ticket sur : support.olympusgg.com'
+MESSAGE_UNDER_CHAT_2: "Vous avez besoin d'aide ou avez trouvé un bug ? Ouvrez un ticket sur : support.olympusgg.com"
 MESSAGE_UNDER_CHAT_3: Tu as une idée ? Crée une suggestion sur notre Discord !
 MESSAGE_UNDER_CHAT_4: 'Respecte nos règles de jeu : wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Il est interdit d''avoir plusieurs comptes.'
+MESSAGE_UNDER_CHAT_5: Il est interdit d'avoir plusieurs comptes.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Les points de production des mini-jeux ont été actualisés.
 MINIGAME_INFO_NO_REWARD: Il n'y a pas de récompenses dans ce mini-jeu.
 MINIGAME_INFO_POINTS_FULL: Nombre maximum de points de production atteint.
@@ -953,6 +958,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Le navire embarquera dans {0} minutes.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Le navire embarquera dans {0} secondes.
 SHOP_CHATMESSAGE_EMPTY: Le magasin ne peut pas être vide.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Tu peux seulement vendre des objets échangeables dans une boutique privée.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Boutique Privée
 SHOP_INFO_ALREADY_OPEN: Tu as déjà un magasin ouvert.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Tu dois désactiver l'option "Vente Sécurisée d'Équipement" pour vendre cet objet.
@@ -1124,6 +1132,7 @@ WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP: Tu ne peux pas rejoindre cette carte.
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN: 'Ce point de retour est en temps de recharge. Temps restant : {0} secondes'
 WARP_SYSTEM_SHOUTMESSAGE_CANT_JOIN_MAP_COOLDOWN_FIGHT: Tu ne peux pas rejoindre cette carte pour le moment. Tu es soit en combat, soit en cooldown de changement de carte.
 WARP_SYSTEM_SHOUTMESSAGE_HOME_CANT_BE_ADDED_ON_MAP: Tu ne peux pas placer un Warp sur cette carte.
+WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Vous avez débloqué un nouvel emplacement de téléportation.
 WEDDING_DIALOG_ASK_DIVORCE_CONFIRM: Veux-tu divorcer ?
 WEDDING_DIALOG_REQUEST_RECEIVED: Le joueur {0} t'a demandé en mariage. Acceptes-tu la proposition ?
 WEDDING_DIALOG_REQUEST_VERIFICATION: Es-tu sûr de vouloir épouser {0} ?
@@ -1139,6 +1148,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portail temporaire s'est ouvert à {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} va apparaître dans {1} dans {2} minute(s)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} va apparaître dans {1} dans {2} seconde(s)!'
-FAIRY_INFO_CANNOT_BE_UPGRADED: Cette fée ne peut pas être améliorée.
-FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Vous ne pouvez pas créer une fée avec 2 fées ayant le même niveau d'amélioration.
-WARP_SYSTEM_SHOUTMESSAGE_UNLOCKED_NEW_SLOT: Vous avez débloqué un nouvel emplacement de téléportation.
