@@ -147,10 +147,10 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Zlicytowany przedmiot został przesłany po
 BID_MODAL_DISCLAIMER: >-
   Przed użyciem Systemu Licytacji, proszę upewnij się, że przeczytałeś i zrozumiałeś ten komunikat.
 
-  Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
 
-  	– Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
-  	– Wycofać się z złożonej oferty licytowanego przedmiotu.
+  Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
+  	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
+  	- Wycofać się z złożonej oferty licytowanego przedmiotu.
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
@@ -956,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Statek odpływa za {0} minut.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Statek odpływa za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Sklep nie może być pusty.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko przedmioty zdatne do handlu.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Coś poszło nie tak przy dodawaniu OC do twojego konta, proszę skontaktuj się z pomocą techniczną.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Na twoje konto dodano OC, masz teraz: {0} OC.'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Pomyślnie dodano OC do twojego konta!
 SHOP_DEFAULT_NAME: Sklep Osobisty
 SHOP_INFO_ALREADY_OPEN: Masz już otwarty sklep.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Musisz wyłączyć opcję "Bezpieczna sprzedaż ekwipunku", żeby sprzedać ten przedmiot.

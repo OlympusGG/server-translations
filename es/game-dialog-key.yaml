@@ -147,12 +147,10 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: El artículo subastado ha sido recuperado c
 BID_MODAL_DISCLAIMER: >-
   Antes de usar el Sistema de Pujas, por favor asegúrate de leer y entender este aviso.
 
+
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
-
-  	– Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
-
-  	– Retirarte de una puja hecha a un artículo subastado.
-
+  	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
+  	- Retirarte de una puja hecha a un artículo subastado.
 
   El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea óptima para subastas rápidas, así que por favor ten cuidado.
 
@@ -958,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: El barco zarpará en {0} minutos.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: El barco zarpará en {0} segundos.
 SHOP_CHATMESSAGE_EMPTY: La tienda no puede estar vacía.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Solo puedes vender artículos comerciables en una tienda privada.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Algo salió mal al añadir OCs a tu cuenta, por favor contacta con soporte.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Se han añadido OCs a tu cuenta, ahora tienes: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: ¡OCs añadidos a tu cuenta con éxito!
 SHOP_DEFAULT_NAME: Tienda Privada
 SHOP_INFO_ALREADY_OPEN: Ya tienes una tienda abierta.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Necesitas desactivar la opción "Venta Segura de Equipamiento" para vender este artículo.

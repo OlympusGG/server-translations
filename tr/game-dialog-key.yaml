@@ -147,6 +147,7 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri 
 BID_MODAL_DISCLAIMER: >-
   Teklif Sistemi'ni kullanmadan önce lütfen bu uyarıyı okuyup anladığınızdan emin olun.
 
+
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, aşağıdaki durumlar gerçekleşemez:
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
@@ -955,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içinde kalkacak.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içinde kalkacak.
 SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Özel dükkanında sadece takas edilebilir eşyaları satabilirsin.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Hesabına Orijinal Karakterler eklerken bir sorun oluştu, lütfen destekle iletişime geç.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Hesabına OC''ler eklendi, şimdi {0} OC''n var.'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Hesabına başarıyla OC'ler eklendi!
 SHOP_DEFAULT_NAME: Özel Dükkan
 SHOP_INFO_ALREADY_OPEN: Zaten açık bir dükkanın var.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Bu eşyayı satmak için "Güvenli Ekipman Satışı" seçeneğini devre dışı bırakman gerekiyor.

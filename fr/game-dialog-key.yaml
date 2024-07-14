@@ -149,15 +149,13 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
-  	– Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
-  	– Se rétracter d'une enchère faite sur un objet mis aux enchères.
+  	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
+  	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
 
   Le bouton pour enchérir sur un objet ne demandera pas de confirmation, ceci pour garantir une réponse optimale pour les enchères rapides, alors soyez prudent.
 
 
-
   Le bouton pour mettre un objet aux enchères vous demandera une confirmation avant de procéder. Cela est fait pour assurer la décision d'un joueur.
-
 
 
   Bonnes enchères !
@@ -958,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Le navire embarquera dans {0} minutes.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Le navire embarquera dans {0} secondes.
 SHOP_CHATMESSAGE_EMPTY: Le magasin ne peut pas être vide.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Tu peux seulement vendre des objets échangeables dans une boutique privée.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Un problème est survenu lors de l'ajout des personnages originaux à ton compte, merci de contacter le support.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Des OCs ont été ajoutés à ton compte, tu as maintenant : {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Tes OCs ont été ajoutés à ton compte avec succès !
 SHOP_DEFAULT_NAME: Boutique Privée
 SHOP_INFO_ALREADY_OPEN: Tu as déjà un magasin ouvert.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Tu dois désactiver l'option "Vente Sécurisée d'Équipement" pour vendre cet objet.

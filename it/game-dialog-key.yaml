@@ -147,12 +147,10 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperat
 BID_MODAL_DISCLAIMER: >-
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
 
+
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
-
-  	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
-
-  	– Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
-
+  	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+  	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la risposta sia eccellente al fine di aste veloci, quindi si prega di fare attenzione.
 
@@ -958,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: La nave partirà tra {0} minuti.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: La nave partirà tra {0} secondi.
 SHOP_CHATMESSAGE_EMPTY: Il negozio non può essere vuoto.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Puoi vendere solo oggetti scambiabili in un negozio privato.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Qualcosa è andato storto nell'aggiungere gli OC al tuo account, per favore contatta l'assistenza.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Sono stati aggiunti degli OC al tuo account, ora hai: {0} OC.'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: OC aggiunti con successo al tuo account!
 SHOP_DEFAULT_NAME: Negozio Privato
 SHOP_INFO_ALREADY_OPEN: Hai già un negozio aperto.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Devi disattivare l'opzione "Vendita Sicura Equipaggiamento" per vendere questo oggetto.

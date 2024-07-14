@@ -149,15 +149,13 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
-  	– Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
-  	– Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+  	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
+  	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
 
 
-
   Der Knopf, um einen Gegenstand in die Auktion einzustellen, hat eine Bestätigungsabfrage, um die Entscheidung der Spieler zu bestätigen.
-
 
 
   Frohes Bieten!
@@ -958,9 +956,9 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Das Schiff legt in {0} Minuten ab.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Das Schiff legt in {0} Sekunden ab.
 SHOP_CHATMESSAGE_EMPTY: Laden kann nicht leer sein.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Du kannst nur handelbare Gegenstände in einem privaten Shop verkaufen.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Beim Hinzufügen von OCs zu deinem Konto ist etwas schiefgelaufen, bitte kontaktiere den Support.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Dir wurden OCs hinzugefügt, du hast jetzt: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Erfolgreich OCs zu deinem Konto hinzugefügt!
 SHOP_DEFAULT_NAME: Privater Shop
 SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Shop geöffnet.
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Du musst die Option "Sicheres verkaufen der Ausrüstung" deaktivieren, um diesen Gegenstand zu verkaufen.
