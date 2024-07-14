@@ -147,15 +147,10 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: L'oggetto messo all'asta è stato recuperat
 BID_MODAL_DISCLAIMER: >-
   Prima di utilizzare il Sistema di Offerte, per favore assicurati di leggere e comprendere questo avviso.
 
+
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
-
-
-  	– Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
-
-
-  	– Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
-
-
+  	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+  	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la risposta sia eccellente al fine di aste veloci, quindi si prega di fare attenzione.
 

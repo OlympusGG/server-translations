@@ -147,12 +147,10 @@ BID_INFO_WITHDREW_ITEM_SUCCESSFULLY: Açık artırmalık eşya başarıyla geri 
 BID_MODAL_DISCLAIMER: >-
   Teklif Sistemi'ni kullanmadan önce lütfen bu uyarıyı okuyup anladığınızdan emin olun.
 
+
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, aşağıdaki durumlar gerçekleşemez:
-
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
-
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
-
 
   Bir item için teklif verme butonu herhangi bir onay istemeyecek, bu da hızlı tempolu açık artırmalar için tepki süresinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
 
