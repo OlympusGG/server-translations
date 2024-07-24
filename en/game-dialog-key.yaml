@@ -884,6 +884,7 @@ RAID_SHOUTMESSAGE_REGISTERED: Your raid has been registered.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: All targets have been completed!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Targets updated.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Thorn Bush has been removed.
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: You didn't succeed, Ultimate Giant Arma was healed.
 RAID_SHOUTMESSAGE_UNREGISTERED: Your raid team is no longer registered.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} joined the raid team.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Blue team has surrended.
@@ -961,6 +962,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Private Shop
 SHOP_INFO_ALREADY_OPEN: You have a shop open already.
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: You need to disable "Safe Equipment Selling" Option to sell this item.
 SHOP_INFO_NEAR_PORTAL: You can't create shop so close to the portal.
 SHOP_INFO_NOT_ALLOWED: You can't open shops on general maps.
