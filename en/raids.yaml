@@ -31,6 +31,7 @@ RAID_NAME_ALZANOR: Ice Dragon Alzanor
 RAID_NAME_VALEHIR: Zombie Dragon Valehir
 RAID_NAME_POLLUTUS: Moss Giant Pollutus
 RAID_NAME_GIANTARMA: Giant Arma
+RAID_NAME_ULTIMATEGIANTARMA: Ultimate Giant Arma
 RAID_SAY_MOTION_DETECTION_BOMB: "A Motion Detection Bomb has been activated! If you're still attacking or moving in 3 sec., you'll be killed!"
 KERTOS_CHATMESSAGE_GRR: "Ggggggggggrrrrrrrrrrrrrrrr!"
 KERTOS_CHATMESSAGE_GATHER_POWER: "Kertos has started to gather his strength."
@@ -65,3 +66,10 @@ MULTIVERSE_NAME_CHRONO: 'Chrono'
 MULTIVERSE_NAME_MIRROR: 'Mirror'
 MULTIVERSE_NAME_BERSERK: 'Berserk'
 MULTIVERSE_NAME_CHAOS: 'Chaos'
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: "The raid in area {0} starts soon. Defeat all the monsters there."
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: "Team A has secured area {0}."
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: "Team B has secured area {0}."
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: "Area {0} is secure. The portal to area {1} will open soon."
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: "The boss has appeared in area 3. Defeat him quickly."
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: The portal to the lab where Ultimate Giant Arma is located is now open.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: The portal to the boss will open soon. Get ready!
