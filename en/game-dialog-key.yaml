@@ -149,8 +149,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
   To ensure a fair and responsive Bidding System for our players, you will not be able to:
+
   	- Remove an auctioned item before its end date if someone has already bid.
+
   	- Back-down from a Bid done to an auctioned item.
+
 
   The button to bid on an item won't ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
 
@@ -957,7 +960,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: The ship will board in {0} minutes.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: The ship will board in {0} seconds.
 SHOP_CHATMESSAGE_EMPTY: Shop can't be empty.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: You can only sell tradable items in a private shop.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support.
 SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Private Shop

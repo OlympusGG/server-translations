@@ -150,9 +150,12 @@ BID_MODAL_DISCLAIMER: >-
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
@@ -704,7 +707,7 @@ PARTNER_MESSAGE_NO_SP_EQUIPPED: Dein Partner trägt keine Spezialistenkarte.
 PARTNER_SAY_IS_NOT_FOLLOWING: Partner muss dir folgen.
 PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Du hast diesen Partner bereits.
 PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: Du kannst deinen Partner nicht mitnehmen oder zurückschicken, wenn seine Fähigkeiten Abklingzeit haben.
-PARTNER_SHOUTMESSAGE_LEVEL_UP: Dein Partner [X0X] ist ein Level aufgestiegen!
+PARTNER_SHOUTMESSAGE_LEVEL_UP: Dein Partner {0} ist ein Level aufgestiegen!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner durch Partner-Schutzengel wiederbelebt.
 PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Abklingzeit der Spezialistenkarte des Partners: [X0X] Sekunden'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner ist ins Miniland zurückgekehrt.

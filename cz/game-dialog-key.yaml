@@ -150,9 +150,12 @@ BID_MODAL_DISCLAIMER: >-
 
   Abychom zajistili spravedlivý a rychlý Aukční systém pro naše hráče, nebudeš moci:
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
   Tlačítko pro nabídnutí na předmět tě o potvrzení nepožádá, aby byla jeho reakce rychlá pro dynamické aukce, takže buď opatrný.
@@ -959,7 +962,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Loď vypluje za {0} minut.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Loď vypluje za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Obchod nemůže být prázdný.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: V soukromém obchodě můžeš prodat jen předměty, které jdou obchodovat.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support.
 SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
 SHOP_DEFAULT_NAME: Soukromý obchod
