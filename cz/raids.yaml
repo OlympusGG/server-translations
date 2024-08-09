@@ -65,3 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Chaos'
 RAID_NAME_POLLUTUS: Obr Moss Pollutus
 RAID_NAME_GIANTARMA: Obří Arma
 RAID_SAY_MOTION_DETECTION_BOMB: Aktivována bomba s detekcí pohybu! Pokud budete za 3 sekundy stále útočit nebo se pohybovat, zemřete!
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Nájezd v oblasti {0} začne brzy. Porazte tam všechny příšery.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: Tým A zajistil oblast {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: Tým B zajistil oblast {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Oblast {0} je zajištěná. Brána do oblasti {1} se brzy otevře.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: V oblasti 3 se objevil boss. Porazte ho rychle.
+RAID_NAME_ULTIMATEGIANTARMA: Ultimátní Obří Arma
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Portál do laboratoře, kde se nachází Ultimátní Obří Arma, je nyní otevřen.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Brána k bossovi se brzy otevře. Připravte se!
+RAID_NAME_LOLALOPEARS: Lola Dlouhouška

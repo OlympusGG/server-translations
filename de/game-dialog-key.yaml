@@ -149,8 +149,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Um ein faires und verantwortungsvolles Biet-System für alle Spieler sicherzustellen, kannst du keine:
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
 
@@ -1146,3 +1149,5 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Du hast es nicht geschafft, Ultimate Giant Arma wurde geheilt.

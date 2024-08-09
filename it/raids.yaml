@@ -65,3 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Caos'
 RAID_NAME_POLLUTUS: Gigante muschioso Pollutus
 RAID_NAME_GIANTARMA: Giga-Arma
 RAID_SAY_MOTION_DETECTION_BOMB: Una bomba a rilevazione di movimento è stata attivata! Se continui ad attaccare o muoverti entro 3 secondi, sarai ucciso!
+RAID_NAME_ULTIMATEGIANTARMA: Giga-Arma definitivo
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Il raid nell'area {0} sta per iniziare. Sconfiggi tutti i mostri presenti.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: La squadra A ha assicurato l'area {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: La squadra B ha assicurato l'area {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: L'area {0} è sicura. Il portale per l'area {1} si aprirà a breve.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: Il boss è apparso nell'area 3. Sconfiggilo in fretta.
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Il portale per il laboratorio dove si trova il Giga-Arma definitivo è ora aperto.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Il portale per il boss si aprirà a breve. Preparati!
+RAID_NAME_LOLALOPEARS: Lola Orecchielunghe

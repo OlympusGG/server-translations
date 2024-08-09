@@ -149,8 +149,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Abychom zajistili spravedlivý a rychlý Aukční systém pro naše hráče, nebudeš moci:
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
+
   	- Vzdát se nabídky na aukční předmět.
+
 
   Tlačítko pro nabídnutí na předmět tě o potvrzení nepožádá, aby byla jeho reakce rychlá pro dynamické aukce, takže buď opatrný.
 
@@ -1146,3 +1149,5 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} se objevil(a) v {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: V {0} se otevřel dočasný portál
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} se objeví v {1} za {2} minutu/minuty!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} se objeví v {1} za {2} sekundu/sekundy!'
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Nepodařilo se ti to, Ultimate Giant Arma byl vyléčen.

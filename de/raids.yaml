@@ -65,3 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Chaos'
 RAID_NAME_POLLUTUS: Moosriese Pollutus
 RAID_NAME_GIANTARMA: Riesen-Arma
 RAID_SAY_MOTION_DETECTION_BOMB: Eine Bewegungsmelder-Bombe wurde aktiviert! Wenn du in 3 Sekunden immer noch angreifst oder dich bewegst, wirst du getötet!
+RAID_NAME_ULTIMATEGIANTARMA: Ultimativer Riesen-Arma
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Der Überfall im Gebiet {0} beginnt bald. Besiege alle Monster dort.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: Team A hat das Gebiet {0} gesichert.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: Team B hat das Gebiet {0} gesichert.
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Gebiet {0} ist gesichert. Das Portal zum Gebiet {1} wird bald geöffnet.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: Der Boss ist in Gebiet 3 erschienen. Besiege ihn schnell.
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Das Portal zum Labor, wo der Ultimative Riesen-Arma sich befindet, ist jetzt offen.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Das Portal zum Boss wird bald geöffnet. Mach dich bereit!
+RAID_NAME_LOLALOPEARS: Lola Löffelohren

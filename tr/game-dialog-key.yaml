@@ -150,9 +150,12 @@ BID_MODAL_DISCLAIMER: >-
 
   Oyuncularımız için adil ve hızlı bir Teklif Sistemi sağlamak adına, aşağıdaki durumlar gerçekleşemez:
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
   Bir item için teklif verme butonu herhangi bir onay istemeyecek, bu da hızlı tempolu açık artırmalar için tepki süresinin en üst düzeyde olmasını sağlamak içindir, bu yüzden lütfen dikkatli olun.
@@ -1149,3 +1152,5 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal açıldı.'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'
+SHOP_INFO_GENERIC_ERROR: '#MAĞAZA_BİLGİ_GENEL_HATA'
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Başaramadın, Ultimate Giant Arma iyileşti.
