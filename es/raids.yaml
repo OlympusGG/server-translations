@@ -37,7 +37,7 @@ GRENIGAS_CHATMESSAGE_GATHER_POWER: "¡El poder del dios del fuego destruirá tod
 GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "¡El poder del fuego se está acumulando alrededor de Grenigas!"
 GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas ha absorbido el Cristal de la Vida y ha ganado nueva vitalidad."
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Todos los jugadores han sucumbido al hielo eterno de Glacerus."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: ¡Salvaos entrando en un área de protección!"
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: ¡Salvaos entrando en una área de protección!"
 ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "La primera prueba de Erenia comenzará pronto."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Habéis completado la primera prueba de Erenia. La segunda comenzará pronto."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Habéis completado la segunda prueba de Erenia. La prueba final comenzará pronto."
@@ -65,12 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Caos'
 RAID_NAME_POLLUTUS: Musgólem Poluto
 RAID_NAME_GIANTARMA: Mecacoloso
 RAID_SAY_MOTION_DETECTION_BOMB: ¡Se ha activado una Bomba de Detección de Movimiento! Si sigues atacando o moviéndote en 3 segundos, ¡morirás!
-RAID_NAME_ULTIMATEGIANTARMA: Arma Gigante Definitivo
-ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: El raid en el área {0} comienza pronto. Derrota a todos los monstruos allí.
+RAID_NAME_ULTIMATEGIANTARMA: Mecacoloso completo
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: El raid en el área {0} comenzará pronto. Derrota a todos los monstruos allí.
 ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: El equipo A ha asegurado el área {0}.
 ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: El equipo B ha asegurado el área {0}.
 ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: El área {0} está segura. El portal al área {1} se abrirá pronto.
 ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: El jefe ha aparecido en el área 3. Derrotalo rápidamente.
-ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: El portal al laboratorio donde se encuentra el Arma Gigante Definitivo está ahora abierto.
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: El portal al laboratorio donde se encuentra el Mecacoloso completo ahora está abierto.
 ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: El portal al jefe se abrirá pronto. ¡Prepárate!
 RAID_NAME_LOLALOPEARS: Lola Orejaslargas
