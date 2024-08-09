@@ -65,12 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Kaos'
 RAID_NAME_POLLUTUS: Bataklık Devi Kirlitus
 RAID_NAME_GIANTARMA: Devasa Arma
 RAID_SAY_MOTION_DETECTION_BOMB: Hareket Algılama Bombası aktif oldu! Eğer 3 saniye içinde hala saldırıyor veya hareket ediyorsan öleceksin!
-RAID_NAME_ULTIMATEGIANTARMA: Son Dev Arma
+RAID_NAME_ULTIMATEGIANTARMA: Tam Devasa Arma
 ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Bölge {0}’deki akın yakında başlıyor. Oradaki tüm canavarları yen.
-ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: A Takımı bölge {0}’ı güvence altına aldı.
-ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: B Takımı bölge {0}’ı güvence altına aldı.
-ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Bölge {0} güvende. Bölge {1}’e giden portal yakında açılacak.
-ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: Bölge 3'te patron belirdi. Onu hızla yen.
-ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Son Dev Arma'nın bulunduğu laboratuvara giden portal şimdi açık.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: Takım A, {0} bölgesini güvence altına aldı.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: Takım B, {0} bölgesini güvence altına aldı.
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Bölge {0} güvende. Bölge {1}'e portal yakında açılacak.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: Patron 3. bölgede ortaya çıktı. Hemen yen onu.
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Tam Dev Arma'nın bulunduğu laboratuvara giden portal şimdi açık.
 ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Patrona giden portal yakında açılacak. Hazırlanın!
 RAID_NAME_LOLALOPEARS: Lola Uzunkulak

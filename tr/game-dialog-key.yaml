@@ -152,11 +152,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
 
@@ -965,7 +968,7 @@ SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Gemi {0} dakika içinde kalkacak.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Gemi {0} saniye içinde kalkacak.
 SHOP_CHATMESSAGE_EMPTY: Dükkan boş olamaz.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Özel dükkanında sadece takas edilebilir eşyaları satabilirsin.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Hesabına Olympus Parası eklerken bir sorun oluştu, lütfen destekle iletişime geç.
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Hesabına Olympus Paraları eklerken bir şeyler ters gitti, lütfen destekle iletişime geç.
 SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Hesabına Olympus Parası eklendi, şimdi {0} Olympus paran var.'
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Hesabına başarıyla Olympus Parası eklendi!
 SHOP_DEFAULT_NAME: Özel Dükkan
@@ -1156,4 +1159,4 @@ WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: '{0} konumunda geçici bir portal aç�
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0}, {1} içinde {2} dakika içinde belirecek!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0}, {1} içinde {2} saniye içinde belirecek!'
 SHOP_INFO_GENERIC_ERROR: '#MAĞAZA_BİLGİ_GENEL_HATA'
-RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Başaramadın, Ultimate Giant Arma iyileşti.
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Başaramadın, Tam Dev Arma iyileşti.
