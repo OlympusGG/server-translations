@@ -65,3 +65,12 @@ MULTIVERSE_NAME_CHAOS: 'Chaos'
 RAID_NAME_GIANTARMA: Olbrzym Arma
 RAID_NAME_POLLUTUS: Mechaty Olbrzym Pollutus
 RAID_SAY_MOTION_DETECTION_BOMB: Aktywowano bombę z detekcją ruchu! Jeśli przez kolejne 3 sekundy będziesz atakować lub się poruszysz, zostaniesz zabity!
+RAID_NAME_ULTIMATEGIANTARMA: Kompletny Olbrzym Arma
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Rajd w strefie {0} wkrótce się zaczynie . Pokonaj tam wszystkie potwory.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: Drużyna A zabezpieczyła strefę {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: Drużyna B zabezpieczyła strefę {0}.
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Strefa {0} jest bezpieczna. Portal do strefy {1} wkrótce się otworzy.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: W strefie 3 pojawił się Boss. Pokonaj go jak najprędzej!
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Portal do laboratorium, gdzie znajduje się Kompletny Olbrzym Arma, został otwarty.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Portal do bossa wkrótce się otworzy. Przygotujcie się!
+RAID_NAME_LOLALOPEARS: Lola Kłapouszek

@@ -149,8 +149,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
+
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
+
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
+
 
   Przycisk do licytowania przedmiotu nie będzie prosił o żadne potwierdzenie, aby zapewnić, jak najlepszą responsywność podczas szybkich aukcji, więc proszę bądź ostrożny.
 
@@ -1146,3 +1152,5 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} pojawi się w {1} za {2} minut(y)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} pojawi się w {1} za {2} sekund(y)!'
+SHOP_INFO_GENERIC_ERROR: '#BŁĄD_SKLEPU_INFORMACJE_OGÓLNE'
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Nie udało Ci się, Kompletny Olbrzym Arma został uleczony.

@@ -149,8 +149,17 @@ BID_MODAL_DISCLAIMER: >-
 
 
   Per garantire un Sistema di Offerte equo e reattivo per i nostri giocatori, non ti sarà possibile:
+
+
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
+
+
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
+
+
 
   Il pulsante per fare un'offerta su un oggetto non chiederà alcuna conferma, questo per garantire che la risposta sia eccellente al fine di aste veloci, quindi si prega di fare attenzione.
 
@@ -1146,3 +1155,5 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} È apparso in {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portale temporaneo è stato aperto in {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} apparirà in {1} tra {2} minuto(i)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} apparirà in {1} tra {2} secondo(i)!'
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Non hai avuto successo, Giga-Arma Completo è stato curato.
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
