@@ -1,5 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: '#ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS'
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: '#ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND'
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: '#ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT'
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: '#ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM'
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: '#ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM'
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus ist zur Wartung geschlossen.
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: '#ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY'
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
@@ -875,6 +881,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Einem Spieler fehlt das benötigte S
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, wenn du in einer Gruppe bist.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannst keine Gruppenmitglieder zu einem Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du in der Arena bist.
@@ -899,6 +906,7 @@ RAID_SHOUTMESSAGE_REGISTERED: Dein Raid wurde registriert.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Alle Ziele wurden erreicht!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Ziele aktualisiert.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Dornenbusch wurde entfernt.
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Du hast es nicht geschafft, der vollständige Riesen-Arma wurde geheilt.
 RAID_SHOUTMESSAGE_UNREGISTERED: Dein Raid-Team ist nicht mehr registriert.
 RAID_SHOUTMESSAGE_X_JOINED: '{0} ist dem Raid-Team beigetreten.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Das blaue Team hat aufgegeben.
@@ -976,6 +984,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Dir wurden OCs hinz
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Erfolgreich OCs zu deinem Konto hinzugefügt!
 SHOP_DEFAULT_NAME: Privater Shop
 SHOP_INFO_ALREADY_OPEN: Du hast bereits einen Shop geöffnet.
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Du musst die Option "Sicheres verkaufen der Ausrüstung" deaktivieren, um diesen Gegenstand zu verkaufen.
 SHOP_INFO_NEAR_PORTAL: Du kannst keinen Shop so nah am Portal erstellen.
 SHOP_INFO_NOT_ALLOWED: Du kannst auf allgemeinen Karten keine Shops öffnen.
@@ -1161,5 +1170,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
-SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
-RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Du hast es nicht geschafft, der vollständige Riesen-Arma wurde geheilt.

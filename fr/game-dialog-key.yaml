@@ -1,5 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Nom d'utilisateur incorrect.
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: '#ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS'
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: '#ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND'
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: '#ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT'
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: '#ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM'
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: '#ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM'
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: L'entrepôt est en maintenance.
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: '#ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY'
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur inattendue s'est produite. Veuillez réessayer plus tard.
 ACHIEVEMENT_COMPLETED: Succès accompli.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tu dois être au moins au niveau {0} pour passer cet acte.
@@ -866,6 +872,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Il manque le sceau nécessaire au Pl
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tous les joueurs sont gelés.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Tu es déjà dans une autre équipe de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Cet objet a déjà été déplacé.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Tu ne peux pas créer un raid en étant dans un groupe.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Tu ne peux pas inviter des membres du groupe dans une équipe de raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Tu ne peux pas rejoindre un raid en étant dans l'arène.
@@ -890,6 +897,7 @@ RAID_SHOUTMESSAGE_REGISTERED: Ton raid a été enregistré.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Toutes les cibles ont été complétées !
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Cibles mises à jour.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Le buisson épineux a été enlevé.
+RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Tu n'as pas réussi, l'Arma Géant Ultime a été soigné.
 RAID_SHOUTMESSAGE_UNREGISTERED: Votre équipe de raid n'est plus enregistrée.
 RAID_SHOUTMESSAGE_X_JOINED: "{0} a rejoint l'équipe de raid."
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: L'équipe bleue a abandonné.
@@ -967,6 +975,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Des OCs ont été a
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Tes OCs ont été ajoutés à ton compte avec succès !
 SHOP_DEFAULT_NAME: Boutique Privée
 SHOP_INFO_ALREADY_OPEN: Tu as déjà un magasin ouvert.
+SHOP_INFO_GENERIC_ERROR: '#ERREUR_GÉNÉRIQUE_BOUTIQUE'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Tu dois désactiver l'option "Vente Sécurisée d'Équipement" pour vendre cet objet.
 SHOP_INFO_NEAR_PORTAL: Tu ne peux pas créer de magasin si près du portail.
 SHOP_INFO_NOT_ALLOWED: Tu ne peux pas ouvrir de magasins sur les cartes générales.
@@ -1152,5 +1161,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Un portail temporaire s'est ouvert à {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} va apparaître dans {1} dans {2} minute(s)!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} va apparaître dans {1} dans {2} seconde(s)!'
-RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Tu n'as pas réussi, l'Arma Géant Ultime a été soigné.
-SHOP_INFO_GENERIC_ERROR: '#ERREUR_GÉNÉRIQUE_BOUTIQUE'
