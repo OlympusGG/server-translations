@@ -160,13 +160,16 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -724,7 +727,7 @@ PARTNER_SHOUTMESSAGE_ALREADY_HAVE_SAME_PARTNER: Du hast diesen Partner bereits.
 PARTNER_SHOUTMESSAGE_CANNOT_SEND_BACK_YET: Du kannst deinen Partner nicht mitnehmen oder zurückschicken, wenn seine Fähigkeiten Abklingzeit haben.
 PARTNER_SHOUTMESSAGE_LEVEL_UP: Dein Partner {0} ist ein Level aufgestiegen!
 PARTNER_SHOUTMESSAGE_SAVED_BY_SAVER: Partner durch Partner-Schutzengel wiederbelebt.
-PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Abklingzeit der Spezialistenkarte des Partners: [X0X] Sekunden'
+PARTNER_SHOUTMESSAGE_SP_IN_COOLDOWN: 'Abklingzeit der Spezialistenkarte des Partners: {0} Sekunden'
 PARTNER_SHOUTMESSAGE_WENT_BACK_TO_MINILAND: Partner ist ins Miniland zurückgekehrt.
 PARTNER_SHOUTMESSAGE_WILL_BE_BACK: Partner wird in 3 Minuten zurück sein.
 PARTNER_WEARS_EQUIPMENT: Dein Partner muss alles ablegen, um das zu tun.
