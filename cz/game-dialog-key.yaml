@@ -319,19 +319,16 @@ FARMING_REPORT_NOTIFY_DESC: Zkontroluj si zprávu o farmaření.
 FARMING_REPORT_NOTIFY_TITLE: Zpráva o farmení
 FERNON_NOTIFY_RAID_STARTED: Začal útok Fernona.
 FERNON_NOTIFY_TITLE: Fernon
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tvůj Rybářský encyklopedický průvodce je kompletní.
-FISHING_MSG_ONLY_ON_FISHING: Tohle je dostupné jen když hodíš rybářský prut.
 FISHING_MSG_REGION_COMPLETED: Chytil jsi všechny ryby v této oblasti.
 FISHING_SAY_ALREADY: Už rybařím.
 FISHING_SAY_CANNOT_USED_HERE: Na této mapě nemůžeš použít teleport.
 FISHING_SAY_CANT_FISH_HERE: Tady nemůžeš rybařit.
 FISHING_SAY_CATCH_NOTHING: Smůla... Bohužel jsi nic nezískal.
-FISHING_SAY_FIRST_FISH: Tohle je dostupné jen když hodíš rybářský prut.
-FISHING_SAY_LINE_BROKE: Ach, můj rybářský prut se zlomil!
 FISHING_SAY_LOW_JOB_LEVEL: Tvá úroveň rybaření je příliš nízká na to, abys mohl rybařit tady.
 FISHING_SAY_NO_BAIT: Nemáš žádnou návnadu, takže nemůžeš jít rybařit.
-FISHING_SAY_NO_LINE: Nemáš rybářský prut, takže nemůžeš rybařit.
-FISHING_SAY_OVER_JOB_LEVEL: Tvá úroveň rybaření je příliš vysoká na to, abys mohl rybařit tady.
 FISHING_SAY_PERSONAL_RECORD: Tohle je největší ryba tohoto druhu, kterou jsi chytil.
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Něco se pokazilo při přidávání točení na tvůj účet. Pokud problém přetrvává, prosím kontaktuj podporu.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Na tvůj účet bylo přidáno zatočení. Můžeš ho uplatnit na palubní desce.

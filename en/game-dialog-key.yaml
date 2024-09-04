@@ -316,20 +316,17 @@ FARMING_REPORT_NOTIFY_DESC: Check your farming report.
 FARMING_REPORT_NOTIFY_TITLE: Farming Report
 FERNON_NOTIFY_RAID_STARTED: Fernon raid has started.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Your Encyclopaedia of Fish is complete.
-FISHING_MSG_ONLY_ON_FISHING: This is only available to you when you cast your fishing line.
-FISHING_MSG_REGION_COMPLETED: You've caught all the fish in this region.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: My Encyclopaedia of Fish is complete.
+FISHING_MSG_REGION_COMPLETED: I've caught all the fish in this region.
 FISHING_SAY_ALREADY: I'm fishing already.
-FISHING_SAY_CANNOT_USED_HERE: You can't use teleport on this map.
-FISHING_SAY_CANT_FISH_HERE: You can't fish here.
-FISHING_SAY_CATCH_NOTHING: Bad luck... Unfortunately, you got nothing.
-FISHING_SAY_FIRST_FISH: This is the first time you caught this fish!
-FISHING_SAY_LINE_BROKE: Oh, my fishing line broke!
-FISHING_SAY_LOW_JOB_LEVEL: Your fishing level is too low to fish here.
-FISHING_SAY_NO_BAIT: You don't have any bait so you can't go fishing.
-FISHING_SAY_NO_LINE: You don't have a fishing line so you can't go fishing.
-FISHING_SAY_OVER_JOB_LEVEL: Your fishing level is too high to fish here.
-FISHING_SAY_PERSONAL_RECORD: This is the biggest fish of this species you have caught.
+FISHING_SAY_CANNOT_USED_HERE: I can't teleport on this map.
+FISHING_SAY_CANT_FISH_HERE: I can't fish here.
+FISHING_SAY_CATCH_NOTHING: Bad luck... I got nothing.
+FISHING_SAY_LOW_JOB_LEVEL: My fishing level is too low to fish here.
+FISHING_SAY_NO_BAIT: I don't have any bait so I can't fish.
+FISHING_SAY_PERSONAL_RECORD: I feel like this one is going to be my biggest!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Something went wrong when adding a spin to your account. If the problem persists, please contact the support.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: A spin has been added to your account. You can redeem it on the dashboard.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} has logged in.'

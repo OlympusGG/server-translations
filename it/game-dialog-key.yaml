@@ -322,19 +322,16 @@ FARMING_REPORT_NOTIFY_DESC: Controlla il tuo rapporto di coltivazione.
 FARMING_REPORT_NOTIFY_TITLE: Rapporto di Coltivazione
 FERNON_NOTIFY_RAID_STARTED: Il raid di Fernon è iniziato.
 FERNON_NOTIFY_TITLE: Fernon
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: La tua Enciclopedia dei Pesci è completa.
-FISHING_MSG_ONLY_ON_FISHING: Questo è disponibile solo quando lanci la tua lenza.
 FISHING_MSG_REGION_COMPLETED: Hai pescato tutti i pesci in questa regione.
 FISHING_SAY_ALREADY: Sto già pescando.
 FISHING_SAY_CANNOT_USED_HERE: Non puoi usare il teletrasporto su questa mappa.
 FISHING_SAY_CANT_FISH_HERE: Qui non puoi pescare.
 FISHING_SAY_CATCH_NOTHING: Che sfortuna... Purtroppo non hai ottenuto nulla.
-FISHING_SAY_FIRST_FISH: Questo è disponibile solo quando lanci la tua lenza.
-FISHING_SAY_LINE_BROKE: Oh, la mia lenza si è rotta!
 FISHING_SAY_LOW_JOB_LEVEL: Il tuo livello di pesca è troppo basso per pescare qui.
 FISHING_SAY_NO_BAIT: Non hai esche, quindi non puoi pescare.
-FISHING_SAY_NO_LINE: Non hai una lenza, quindi non puoi pescare.
-FISHING_SAY_OVER_JOB_LEVEL: Il tuo livello di pesca è troppo alto per pescare qui.
 FISHING_SAY_PERSONAL_RECORD: Questo è il pesce più grande di questa specie che tu abbia mai pescato.
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Qualcosa è andato storto nell'aggiungere un giro al tuo account. Se il problema persiste, per favore contatta l'assistenza.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: È stato aggiunto un giro al tuo account. Puoi riscattarlo nella dashboard.

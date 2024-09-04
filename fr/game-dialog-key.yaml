@@ -319,19 +319,16 @@ FARMING_REPORT_NOTIFY_DESC: Consulte ton rapport de chasse.
 FARMING_REPORT_NOTIFY_TITLE: Rapport de chasse
 FERNON_NOTIFY_RAID_STARTED: Le raid Fernon a commencé.
 FERNON_NOTIFY_TITLE: Fernon
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Ton Encyclopédie des Poissons est complète.
-FISHING_MSG_ONLY_ON_FISHING: Ce n'est disponible que lorsque que tu as lancé ta ligne de pêche.
 FISHING_MSG_REGION_COMPLETED: Tu as pêché tous les poissons de cette région.
 FISHING_SAY_ALREADY: Je suis déjà en train de pêcher.
 FISHING_SAY_CANNOT_USED_HERE: Tu ne peux pas utiliser de téléportation sur cette carte.
 FISHING_SAY_CANT_FISH_HERE: Tu ne peux pas pêcher ici.
 FISHING_SAY_CATCH_NOTHING: Pas de chance... Malheureusement, tu n'as rien obtenu.
-FISHING_SAY_FIRST_FISH: Ce n'est disponible que lorsque que tu as lancé ta ligne de pêche.
-FISHING_SAY_LINE_BROKE: Oh, ma ligne de pêche a cassé !
 FISHING_SAY_LOW_JOB_LEVEL: Ton niveau de pêche est trop bas pour pêcher ici.
 FISHING_SAY_NO_BAIT: Tu n'as pas d'appât donc tu ne peux pas pêcher.
-FISHING_SAY_NO_LINE: Tu n'as pas de ligne de pêche donc tu ne peux pas pêcher.
-FISHING_SAY_OVER_JOB_LEVEL: Ton niveau de pêche est trop élevé pour pêcher ici.
 FISHING_SAY_PERSONAL_RECORD: Nouveau record ! C'est le plus gros poisson de que tu as pêché pour cette espèce !
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Un problème est survenu lors de l'ajout d'un tour à ton compte. Si le problème persiste, veuillez contacter le support.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Un tour a été ajouté à ton compte. Tu peux le récupérer sur le tableau de bord.
