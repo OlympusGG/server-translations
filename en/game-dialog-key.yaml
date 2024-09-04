@@ -323,7 +323,7 @@ FISHING_SAY_ALREADY: I'm fishing already.
 FISHING_SAY_CANNOT_USED_HERE: You can't use teleport on this map.
 FISHING_SAY_CANT_FISH_HERE: You can't fish here.
 FISHING_SAY_CATCH_NOTHING: Bad luck... Unfortunately, you got nothing.
-FISHING_SAY_FIRST_FISH: This is only available to you when you cast your fishing line.
+FISHING_SAY_FIRST_FISH: This is the first time you caught this fish!
 FISHING_SAY_LINE_BROKE: Oh, my fishing line broke!
 FISHING_SAY_LOW_JOB_LEVEL: Your fishing level is too low to fish here.
 FISHING_SAY_NO_BAIT: You don't have any bait so you can't go fishing.
