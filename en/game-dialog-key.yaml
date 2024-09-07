@@ -321,6 +321,7 @@ FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: My Encyclopaedia of Fish is complete.
 FISHING_MSG_REGION_COMPLETED: I've caught all the fish in this region.
 FISHING_SAY_ALREADY: I'm fishing already.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
 FISHING_SAY_CANNOT_USED_HERE: I can't teleport on this map.
 FISHING_SAY_CANT_FISH_HERE: I can't fish here.
 FISHING_SAY_CATCH_NOTHING: Bad luck... I got nothing.
@@ -866,7 +867,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: You are already in another raid team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: This object has already been moved.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: You can't create a raid while being in a group.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: You can't invite group members to a raid team.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: You can't join a raid while in arena.

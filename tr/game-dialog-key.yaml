@@ -330,6 +330,7 @@ FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Balık Ansiklopedin tamamlandı.
 FISHING_MSG_REGION_COMPLETED: Bu bölgedeki tüm balıkları yakaladın.
 FISHING_SAY_ALREADY: Ben zaten balık tutuyorum.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
 FISHING_SAY_CANNOT_USED_HERE: Bu haritada ışınlanma kullanamazsın.
 FISHING_SAY_CANT_FISH_HERE: Burada balık tutamazsın.
 FISHING_SAY_CATCH_NOTHING: Kötü şans... Maalesef hiçbir şey kazanamadın.
@@ -875,7 +876,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Bir oyuncunun gerekli mührü eksik.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten başka bir akın takımındasın.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Bu nesne zaten hareket ettirildi.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Grup içindeyken akın oluşturamazsın.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Grup üyelerini bir akın takımına davet edemezsin.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Arenadayken akına katılamazsın.

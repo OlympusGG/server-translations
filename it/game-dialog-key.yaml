@@ -327,6 +327,7 @@ FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: La tua Enciclopedia dei Pesci è completa.
 FISHING_MSG_REGION_COMPLETED: Hai pescato tutti i pesci in questa regione.
 FISHING_SAY_ALREADY: Sto già pescando.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
 FISHING_SAY_CANNOT_USED_HERE: Non puoi usare il teletrasporto su questa mappa.
 FISHING_SAY_CANT_FISH_HERE: Qui non puoi pescare.
 FISHING_SAY_CATCH_NOTHING: Che sfortuna... Purtroppo non hai ottenuto nulla.
@@ -872,7 +873,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A un player manca il sigillo necessa
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tutti i giocatori sono congelati.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Sei già in un'altra squadra di raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Questo oggetto è già stato spostato.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Non puoi creare un raid mentre sei in un gruppo.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Non puoi invitare membri del gruppo a un team di incursione.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Non puoi unirti a un'incursione mentre sei nell'arena.

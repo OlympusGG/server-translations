@@ -324,6 +324,7 @@ FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
 FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tvůj Rybářský encyklopedický průvodce je kompletní.
 FISHING_MSG_REGION_COMPLETED: Chytil jsi všechny ryby v této oblasti.
 FISHING_SAY_ALREADY: Už rybařím.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
 FISHING_SAY_CANNOT_USED_HERE: Na této mapě nemůžeš použít teleport.
 FISHING_SAY_CANT_FISH_HERE: Tady nemůžeš rybařit.
 FISHING_SAY_CATCH_NOTHING: Smůla... Bohužel jsi nic nezískal.
@@ -869,7 +870,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná pečeť.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Už jsi v jiném týmu výpravy.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt byl již přesunut.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: '#RAID_SHOUTMESSAGE_CANNOT_USE_SKILL'
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nemůžeš vytvořit raid, když jsi ve skupině.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do týmu výpravy.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit k raidu, když jsi v aréně.
