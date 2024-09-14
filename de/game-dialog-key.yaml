@@ -162,6 +162,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -170,7 +171,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -334,17 +337,17 @@ FARMING_REPORT_NOTIFY_DESC: Überprüfe deinen Farm-Bericht.
 FARMING_REPORT_NOTIFY_TITLE: Farm-Bericht
 FERNON_NOTIFY_RAID_STARTED: Fernon Raid hat begonnen.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Deine Fisch-Enzyklopädie ist vollständig.
-FISHING_MSG_REGION_COMPLETED: Du hast alle Fische in dieser Region gefangen.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Du musst mindestens H60 sein, um den Angler Spezialisten zu kaufen.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Du hast deine täglichen Köder bereits abgeholt.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Meine Fisch-Enzyklopädie ist vollständig.
+FISHING_MSG_REGION_COMPLETED: Ich habe alle Fische in dieser Region gefangen.
 FISHING_SAY_ALREADY: Ich bin schon am Angeln.
 FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: Du kannst auf dieser Karte nicht teleportieren.
-FISHING_SAY_CANT_FISH_HERE: Hier kannst du nicht angeln.
-FISHING_SAY_CATCH_NOTHING: Pech gehabt... Leider hast du nichts bekommen.
-FISHING_SAY_LOW_JOB_LEVEL: Dein Angellevel ist zu niedrig, um hier zu angeln.
-FISHING_SAY_NO_BAIT: Du hast keinen Köder, also kannst du nicht angeln.
+FISHING_SAY_CANNOT_USED_HERE: Ich kann auf dieser Karte nicht teleportieren.
+FISHING_SAY_CANT_FISH_HERE: Ich kann hier nicht angeln.
+FISHING_SAY_CATCH_NOTHING: Pech gehabt... Leider hab ich nichts bekommen.
+FISHING_SAY_LOW_JOB_LEVEL: Mein Angellevel ist zu niedrig, um hier zu angeln.
+FISHING_SAY_NO_BAIT: Ich habe keinen Köder, also kannst ich nicht angeln.
 FISHING_SAY_PERSONAL_RECORD: Das ist der größte Fisch dieser Art, den du gefangen hast.
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Etwas ist schiefgelaufen beim Hinzufügen eines Drehs zu deinem Konto. Wenn das Problem weiterhin besteht, bitte kontaktiere den Support.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Ein Dreh wurde deinem Konto hinzugefügt. Du kannst ihn im Dashboard einlösen.
