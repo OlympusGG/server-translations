@@ -157,10 +157,13 @@ BID_MODAL_DISCLAIMER: >-
   Aby zapewnić sprawiedliwy i responsywny System Licytacji dla naszych graczy, nie będziesz mógł:
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -319,18 +322,18 @@ FARMING_REPORT_NOTIFY_DESC: Sprawdź swój raport polowania.
 FARMING_REPORT_NOTIFY_TITLE: Raport z polowania
 FERNON_NOTIFY_RAID_STARTED: Rajd Fernon się rozpoczął.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Twoja Encyklopedia Ryb jest kompletna.
-FISHING_MSG_REGION_COMPLETED: Złowiłeś wszystkie ryby w tym regionie.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Aby zakupić kartę specjalisty Wędkarza, musisz posiadać 60 poziom bohatera.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Już odebrałeś swoją dzienną przynętę.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Moja Encyklopedia Ryb jest kompletna.
+FISHING_MSG_REGION_COMPLETED: Złowiłem wszystkie ryby w tym regionie.
 FISHING_SAY_ALREADY: Już łowię.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: Nie możesz użyć teleportu na tej mapie.
-FISHING_SAY_CANT_FISH_HERE: Nie możesz tu łowić ryb.
-FISHING_SAY_CATCH_NOTHING: Pech... Niestety, nic nie złowiłeś.
-FISHING_SAY_LOW_JOB_LEVEL: Twój poziom wędkarstwa jest za niski, żeby tutaj łowić.
-FISHING_SAY_NO_BAIT: Nie masz żadnej przynęty, więc nie możesz iść na ryby.
-FISHING_SAY_PERSONAL_RECORD: To jest największa ryba tego gatunku jaką złapałeś.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: Nie możesz użyć umiejętności Wędkować w ukryciu w tym miejscu.
+FISHING_SAY_CANNOT_USED_HERE: Nie mogę użyć teleportu na tej mapie.
+FISHING_SAY_CANT_FISH_HERE: Nie mogę tu łowić ryb.
+FISHING_SAY_CATCH_NOTHING: Pech... Nic nie złowiłem.
+FISHING_SAY_LOW_JOB_LEVEL: Mój poziom wędkarstwa jest za niski, żeby tutaj łowić.
+FISHING_SAY_NO_BAIT: Nie mam żadnej przynęty, więc nie mogę iść na ryby.
+FISHING_SAY_PERSONAL_RECORD: Czuję, że ta będzie największa!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Coś poszło nie tak przy dodawaniu zakręcenia do twojego konta. Jeśli problem będzie się powtarzał, skontaktuj się z pomocą techniczną.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Dodano Ci zakręcenie. Możesz je wykorzystać na stronie serwera.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} zalogował się.'

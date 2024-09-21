@@ -159,12 +159,18 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
 
 
+
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
+
 
 
 
@@ -323,20 +329,20 @@ FAMILYARENA_INFO_ASK_ENTER: Aile arenasına girmek istiyor musun? Bu senin {0} a
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Raporu Aç
 FARMING_REPORT_NOTIFY_DESC: Çiftçilik raporunu kontrol et.
 FARMING_REPORT_NOTIFY_TITLE: Çiftçilik Raporu
-FERNON_NOTIFY_RAID_STARTED: Fernon baskını başladı.
+FERNON_NOTIFY_RAID_STARTED: Fernon Akını başladı.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Balık Ansiklopedin tamamlandı.
-FISHING_MSG_REGION_COMPLETED: Bu bölgedeki tüm balıkları yakaladın.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Balıkçı uzman kartını almak için en az Kahramanlık Seviyesi 60 olman gerekmektedir.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Bugünlük günlük yemini zaten aldın.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Balık Ansiklopedim tamamlandı.
+FISHING_MSG_REGION_COMPLETED: Bu bölgedeki tüm balıkları yakaladım.
 FISHING_SAY_ALREADY: Ben zaten balık tutuyorum.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: Bu haritada ışınlanma kullanamazsın.
-FISHING_SAY_CANT_FISH_HERE: Burada balık tutamazsın.
-FISHING_SAY_CATCH_NOTHING: Kötü şans... Maalesef hiçbir şey kazanamadın.
-FISHING_SAY_LOW_JOB_LEVEL: Burada balık tutmak için balıkçılık seviyen çok düşük.
-FISHING_SAY_NO_BAIT: Yem olmadığı için balık tutamazsın.
-FISHING_SAY_PERSONAL_RECORD: Bu türden yakaladığın en büyük balık bu.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: Burada Gizli yerde balık tutma yeteneğini kullanamazsın.
+FISHING_SAY_CANNOT_USED_HERE: Bu haritada ışınlanamam.
+FISHING_SAY_CANT_FISH_HERE: Burada balık tutamam.
+FISHING_SAY_CATCH_NOTHING: Kötü şans... Maalesef hiçbir şey kazanamadım.
+FISHING_SAY_LOW_JOB_LEVEL: Burada balık tutmak için balıkçılık seviyem çok düşük.
+FISHING_SAY_NO_BAIT: Yemim olmadığı için balık tutamam.
+FISHING_SAY_PERSONAL_RECORD: Bu en büyük olacakmış gibi hissediyorum!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Hesabına dönüş eklerken bir sorun oluştu. Sorun devam ederse, lütfen destek ile iletişime geç.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Hesabına bir çevirme eklendi. Bunu kontrol panelinde kullanabilirsin.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} giriş yaptı.'
@@ -842,29 +848,29 @@ QUEST_SHOUTMESSAGE_HAVENT_MAIN_QUEST: Act'i atlamak için bir ana göreve sahip 
 QUEST_SHOUTMESSAGE_INCOMPLETE_QUESTS: Tamamlanmamış bazı görevlerin var.
 QUEST_SHOUTMESSAGE_LOW_LEVEL: Seviyen bu görev için çok düşük.
 QUEST_SHOUTMESSAGE_SLOT_FULL: Daha fazla görev kabul edemezsin.
-RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0}, {1} baskını için üye arıyor.'
-RAID_CHATMESSAGE_AMULET_NEEDED: Bu baskına katılmak için {0} gerekiyor.
+RAID_BROADCAST_LOOKING_FOR_TEAM_MEMBERS: '{0}, {1} Akını için üye arıyor.'
+RAID_CHATMESSAGE_AMULET_NEEDED: Bu Akına katılmak için {0} gerekiyor.
 RAID_CHATMESSAGE_DOUBLEBOX_LUCKY: Şanslısın ve ikinci bir kutu daha aldın!
-RAID_CHATMESSAGE_GROUP_REQUEST: '{0}, baskın takımına davet edildi.'
-RAID_CHATMESSAGE_KICKED: Baskın takımından atıldın.
-RAID_CHATMESSAGE_KICKED_OTHER: '{0}, baskın takımından atıldı.'
-RAID_CHATMESSAGE_LEFT: '{0}, baskın takımından ayrıldı.'
-RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Baskın önerilen seviye senin seviyene uymadığı için, baskın görevi tamamlansa bile baskın kutusu verilemez.
-RAID_CHATMESSAGE_LIMIT_LEFT: Bugün {0} baskınına {1} kez katılabilirsin.
-RAID_CHATMESSAGE_LIMIT_REACHED: '{0} baskınında maksimum giriş sayısına ulaşıldı.'
-RAID_CHATMESSAGE_LOW_LEVEL: Baskına katılmak için en az {0} seviye olmalısın.
-RAID_CHATMESSAGE_NEW_LEADER: '{0}, yeni baskın takımı lideri oldu.'
-RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Baskın mevcut değil veya zaten başlamış.
-RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Baskın {0} içinde tamamlandı.
+RAID_CHATMESSAGE_GROUP_REQUEST: '{0}, Akın takımına davet edildi.'
+RAID_CHATMESSAGE_KICKED: Akın takımından atıldın.
+RAID_CHATMESSAGE_KICKED_OTHER: '{0}, Akın takımından atıldı.'
+RAID_CHATMESSAGE_LEFT: '{0}, Akın takımından ayrıldı.'
+RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Akın önerilen seviye senin seviyene uymadığı için, akın görevi tamamlansa bile akınkutusu verilemez.
+RAID_CHATMESSAGE_LIMIT_LEFT: Bugün {0} akınına {1} kez katılabilirsin.
+RAID_CHATMESSAGE_LIMIT_REACHED: '{0} akınında maksimum giriş sayısına ulaşıldı.'
+RAID_CHATMESSAGE_LOW_LEVEL: Akına katılmak için en az {0} seviye olmalısın.
+RAID_CHATMESSAGE_NEW_LEADER: '{0}, yeni akın takımı lideri oldu.'
+RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın mevcut değil veya zaten başlamış.
+RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Akın {0} içinde tamamlandı.
 RAID_CHATMESSAGE_REWARD_BANNED: Tekrarlanan AFK baskınları yüzünden, bir sonraki saat boyunca ödül alamayacaksın.
-RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece baskın lideri baskını başlatabilir.
-RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir baskın takımının parçası değilsin.
-RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu baskın burada başlamıyor.
+RAID_CHATMESSAGE_START_IS_NOT_LEADER: Sadece akın lideri akını başlatabilir.
+RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir akın takımının parçası değilsin.
+RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın burada başlamıyor.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} {1} itemine sahip değil.'
-RAID_CHATMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
-RAID_DIALOG_ASK_START_RAID: '{0} baskınını başlatmak ister misin?'
-RAID_DIALOG_INVITED_YOU: '{0} seni bir baskın takımına davet etti. Kabul ediyor musun?'
-RAID_INFO_NO_EXIST: Baskın mevcut değil!
+RAID_CHATMESSAGE_X_JOINED: '{0}, akın takımına katıldı.'
+RAID_DIALOG_ASK_START_RAID: '{0} akını başlatmak ister misin?'
+RAID_DIALOG_INVITED_YOU: '{0} seni bir akın takımına davet etti. Kabul ediyor musun?'
+RAID_INFO_NO_EXIST: Akın mevcut değil!
 RAID_INFO_NO_LIVES_LEFT: Bütün canların bitti.
 RAID_INFO_PLAYER_DEATH: Öldün! 20 saniye sonra yeniden canlanacaksın.
 RAID_MESSAGE_DISOLVED: Akın takımı dağıtıldı.
@@ -876,7 +882,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Bir oyuncunun gerekli mührü eksik.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Zaten başka bir akın takımındasın.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Bu nesne zaten hareket ettirildi.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: Bu yeteneği bu akında kullanamazsın.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Grup içindeyken akın oluşturamazsın.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Grup üyelerini bir akın takımına davet edemezsin.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Arenadayken akına katılamazsın.
@@ -889,21 +895,21 @@ RAID_SHOUTMESSAGE_IN_GROUP: Grup içindeyken bir akın takımına katılamazsın
 RAID_SHOUTMESSAGE_KICKED: Akın takımından atıldın.
 RAID_SHOUTMESSAGE_KICKED_OTHER: '{0} akın takımından atıldı.'
 RAID_SHOUTMESSAGE_LAURENA_TOO_FAR_TRANSFORM: Lanetlemeyi kaldırmak için çok uzaktasın.
-RAID_SHOUTMESSAGE_LEFT: '{0} baskın takımından ayrıldı'
+RAID_SHOUTMESSAGE_LEFT: '{0} akın takımından ayrıldı'
 RAID_SHOUTMESSAGE_MONSTERS_WAVE: Düşmanlar takviye alıyor!
-RAID_SHOUTMESSAGE_NEW_LEADER: '{0}, yeni baskın takım lideri oldu.'
-RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Baskını başlatmak için yeterli oyuncu yok.
-RAID_SHOUTMESSAGE_PLAYER_DEATH: Baskın üyesi {0} öldü.
-RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Mevcut Baskın Türü değiştirilemez.
-RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Baskın {0} olarak değiştirildi.
-RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Baskın takımı dolu.
-RAID_SHOUTMESSAGE_REGISTERED: Baskınınız kaydedildi.
+RAID_SHOUTMESSAGE_NEW_LEADER: '{0}, yeni akın takım lideri oldu.'
+RAID_SHOUTMESSAGE_NOT_ENOUGH_PLAYERS: Akını başlatmak için yeterli oyuncu yok.
+RAID_SHOUTMESSAGE_PLAYER_DEATH: Akın üyesi {0} öldü.
+RAID_SHOUTMESSAGE_RAID_SWAP_IMPOSSIBLE: Mevcut Akın Türü değiştirilemez.
+RAID_SHOUTMESSAGE_RAID_SWAP_TO_X: Akın {0} olarak değiştirildi
+RAID_SHOUTMESSAGE_RAID_TEAM_FULL: Akın takımı dolu.
+RAID_SHOUTMESSAGE_REGISTERED: Akınınız kaydedildi.
 RAID_SHOUTMESSAGE_TARGETS_COMPLETED: Tüm hedefler tamamlandı!
 RAID_SHOUTMESSAGE_TARGETS_UPDATED: Hedefler güncellendi.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Dikenli Çalı temizlendi.
 RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Başaramadın, Tam Dev Arma iyileşti.
-RAID_SHOUTMESSAGE_UNREGISTERED: Baskın takımınız artık kayıtlı değil.
-RAID_SHOUTMESSAGE_X_JOINED: '{0}, baskın takımına katıldı.'
+RAID_SHOUTMESSAGE_UNREGISTERED: Akın takımınız artık kayıtlı değil.
+RAID_SHOUTMESSAGE_X_JOINED: '{0}, akın takımına katıldı.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Mavi takım teslim oldu.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} çıkış yaptı.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Bu kristal zaten takımın tarafından ele geçirilmiş.
@@ -983,7 +989,7 @@ SHOP_INFO_GENERIC_ERROR: '#MAĞAZA_BİLGİ_GENEL_HATA'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Bu eşyayı satmak için "Güvenli Ekipman Satışı" seçeneğini devre dışı bırakman gerekiyor.
 SHOP_INFO_NEAR_PORTAL: Portalın bu kadar yakınında dükkan açamazsın.
 SHOP_INFO_NOT_ALLOWED: Genel haritalarda dükkan açamazsın.
-SHOP_INFO_NOT_ALLOWED_IN_RAID: Baskın sırasında dükkan açamazsın.
+SHOP_INFO_NOT_ALLOWED_IN_RAID: Akın sırasında dükkan açamazsın.
 SHOP_INFO_OPEN: Dükkan açıldı.
 SHOP_INFO_TARGET_MAX_GOLD: Oyuncu maksimum altın miktarına ulaştı.
 SHOP_LOG_SELL_ITEM_VALID: İşlem başarılı
@@ -999,7 +1005,7 @@ SKILL_SHOUTMESSAGE_CANT_USE: Bu haritada o yeteneği kullanamazsın.
 SKILL_SHOUTMESSAGE_CAPTURE_DIGNITY_LOW: Onuru düşük olduğu için bu canavarı yakalayamazsın.
 SKILL_SHOUTMESSAGE_CAPTURE_FAILED: Yakalama başarısız oldu!
 SKILL_SHOUTMESSAGE_CAPTURE_IMPOSSIBLE: Bu canavarı yakalayamazsın!
-SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Baskın sırasında bu canavarı yakalayamazsın!
+SKILL_SHOUTMESSAGE_CAPTURE_IN_RAID: Akın sırasında bu canavarı yakalayamazsın!
 SKILL_SHOUTMESSAGE_CAUGHT_PET: '{0} başarıyla yakaladın!'
 SKILL_SHOUTMESSAGE_LEARNED: Yeni bir yetenek öğrendin!
 SKILL_SHOUTMESSAGE_MONSTER_LEVEL_MUST_BE_LOWER_THAN_YOURS: Canavarın seviyesi seninkinden düşük olmalı.
@@ -1118,8 +1124,8 @@ TRADE_INFO_WAITING_FOR_TARGET: '{0} bekleniyor...'
 TRADE_MODAL_ALREADY_IN_EXCHANGE: Bu oyuncu zaten ticaret yapıyor.
 TRADE_SHOUTMESSAGE_HAS_SHOP_OPEN: Dükkan sahipleriyle ticaret yapamazsın.
 TRADE_SHOUTMESSAGE_ITEM_NOT_TRADABLE: Eşya takas edilemez.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Baskın sırasında takas yapamazsın.
-TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Baskın üyesiyle takas yapılamaz.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_IN_RAID: Akın sırasında takas yapamazsın.
+TRADE_SHOUTMESSAGE_NOT_ALLOWED_WITH_RAID_MEMBER: Akın üyesiyle takas yapılamaz.
 TROPHIES_SHOUTMESSAGE_ALREADY_MAX_TIER: Bu kupa zaten maksimum seviyede.
 TROPHIES_SHOUTMESSAGE_NOT_A_TROPHY: Bu eşya bir kupa değil.
 TROPHIES_SHOUTMESSAGE_UPGRADE_FAILED: Kupa yükseltme başarısız oldu.

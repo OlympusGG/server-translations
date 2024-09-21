@@ -157,10 +157,13 @@ BID_MODAL_DISCLAIMER: >-
   Pour garantir un Système d'Enchères juste et réactif pour nos joueurs, vous ne pourrez pas :
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -319,18 +322,18 @@ FARMING_REPORT_NOTIFY_DESC: Consulte ton rapport de chasse.
 FARMING_REPORT_NOTIFY_TITLE: Rapport de chasse
 FERNON_NOTIFY_RAID_STARTED: Le raid Fernon a commencé.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Ton Encyclopédie des Poissons est complète.
-FISHING_MSG_REGION_COMPLETED: Tu as pêché tous les poissons de cette région.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Vous devez être au moins H60 pour acquérir la carte spécialiste du Pêcheur.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Vous avez déjà réclamé vos appâts quotidiens.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Mon Encyclopédie des Poissons est complète.
+FISHING_MSG_REGION_COMPLETED: J'ai pêché tous les poissons de cette région.
 FISHING_SAY_ALREADY: Je suis déjà en train de pêcher.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: Tu ne peux pas utiliser de téléportation sur cette carte.
-FISHING_SAY_CANT_FISH_HERE: Tu ne peux pas pêcher ici.
-FISHING_SAY_CATCH_NOTHING: Pas de chance... Malheureusement, tu n'as rien obtenu.
-FISHING_SAY_LOW_JOB_LEVEL: Ton niveau de pêche est trop bas pour pêcher ici.
-FISHING_SAY_NO_BAIT: Tu n'as pas d'appât donc tu ne peux pas pêcher.
-FISHING_SAY_PERSONAL_RECORD: Nouveau record ! C'est le plus gros poisson de que tu as pêché pour cette espèce !
+FISHING_SAY_CANNOT_USE_COVERT_HERE: Vous ne pouvez pas utiliser la compétence Pêche secrète ici.
+FISHING_SAY_CANNOT_USED_HERE: Je ne peux pas utiliser de téléportation sur cette carte.
+FISHING_SAY_CANT_FISH_HERE: Je ne peux pas pêcher ici.
+FISHING_SAY_CATCH_NOTHING: Pas de chance... Je n'ai rien obtenu.
+FISHING_SAY_LOW_JOB_LEVEL: Mon niveau de pêche est trop bas pour pêcher ici.
+FISHING_SAY_NO_BAIT: Je n'ai pas d'appât donc je ne peux pas pêcher.
+FISHING_SAY_PERSONAL_RECORD: J'ai l'impression que c'est celui qui va être ma plus grosse prise !
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Un problème est survenu lors de l'ajout d'un tour à ton compte. Si le problème persiste, veuillez contacter le support.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Un tour a été ajouté à ton compte. Tu peux le récupérer sur le tableau de bord.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
