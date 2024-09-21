@@ -158,11 +158,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
 
 
@@ -322,18 +325,18 @@ FARMING_REPORT_NOTIFY_DESC: Revisa tu informe de la recolecta.
 FARMING_REPORT_NOTIFY_TITLE: Informe de Recolecta
 FERNON_NOTIFY_RAID_STARTED: El raid de Fernon ha comenzado.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tu Enciclopedia de Peces está completa.
-FISHING_MSG_REGION_COMPLETED: Has capturado todos los peces de esta región.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Debes ser al menos H.60 para comprar el especialista de Pescador.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Ya has reclamado tus cebos diarios.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Mi Enciclopedia de Peces está completa.
+FISHING_MSG_REGION_COMPLETED: He capturado todos los peces de esta región.
 FISHING_SAY_ALREADY: Ya estoy pescando.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: No puedes usar teletransporte en este mapa.
-FISHING_SAY_CANT_FISH_HERE: No puedes pescar aquí.
-FISHING_SAY_CATCH_NOTHING: Mala suerte... Desafortunadamente, no conseguiste nada.
-FISHING_SAY_LOW_JOB_LEVEL: Tu nivel de pesca es demasiado bajo para pescar aquí.
-FISHING_SAY_NO_BAIT: No tienes cebo, así que no puedes ir a pescar.
-FISHING_SAY_PERSONAL_RECORD: Este es el pez más grande de esta especie que has capturado.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: No puedes usar la habilidad Pescar en secreto aqui.
+FISHING_SAY_CANNOT_USED_HERE: No puedo teletransportarme en este mapa.
+FISHING_SAY_CANT_FISH_HERE: No puedo pescar aquí.
+FISHING_SAY_CATCH_NOTHING: Mala suerte... no consegui nada.
+FISHING_SAY_LOW_JOB_LEVEL: Mi nivel de pesca es demasiado bajo para pescar aquí.
+FISHING_SAY_NO_BAIT: No tengo cebo, así que no puedo pescar.
+FISHING_SAY_PERSONAL_RECORD: Siento que este va a ser mi mas grande!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Algo salió mal al añadir una tirada de ruleta a tu cuenta. Si el problema persiste, por favor contacta al soporte.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Se ha añadido una tirada de ruleta a tu cuenta. Puedes canjearla en el tablero de control.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se ha conectado.'
