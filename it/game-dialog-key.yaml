@@ -158,11 +158,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
 
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
 
 
 
@@ -322,18 +325,18 @@ FARMING_REPORT_NOTIFY_DESC: Controlla il tuo rapporto di coltivazione.
 FARMING_REPORT_NOTIFY_TITLE: Rapporto di Coltivazione
 FERNON_NOTIFY_RAID_STARTED: Il raid di Fernon è iniziato.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: La tua Enciclopedia dei Pesci è completa.
-FISHING_MSG_REGION_COMPLETED: Hai pescato tutti i pesci in questa regione.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Devi essere almeno livello eroe 60 per comprare lo Specialista Pescatore.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Hai già ricevuto le tue esce giornaliere.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: La mia Enciclopedia dei Pesci è completa.
+FISHING_MSG_REGION_COMPLETED: Ho pescato tutti i pesci in questa regione.
 FISHING_SAY_ALREADY: Sto già pescando.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
-FISHING_SAY_CANNOT_USED_HERE: Non puoi usare il teletrasporto su questa mappa.
-FISHING_SAY_CANT_FISH_HERE: Qui non puoi pescare.
-FISHING_SAY_CATCH_NOTHING: Che sfortuna... Purtroppo non hai ottenuto nulla.
-FISHING_SAY_LOW_JOB_LEVEL: Il tuo livello di pesca è troppo basso per pescare qui.
-FISHING_SAY_NO_BAIT: Non hai esche, quindi non puoi pescare.
-FISHING_SAY_PERSONAL_RECORD: Questo è il pesce più grande di questa specie che tu abbia mai pescato.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: Non puoi usare la skill Pesca di Nascosto qui.
+FISHING_SAY_CANNOT_USED_HERE: Non posso teletrasportarmi in questa mappa.
+FISHING_SAY_CANT_FISH_HERE: Qui non posso pescare.
+FISHING_SAY_CATCH_NOTHING: Che sfortuna... non ho preso nulla.
+FISHING_SAY_LOW_JOB_LEVEL: Il mio livello di pesca è troppo basso per pescare qui.
+FISHING_SAY_NO_BAIT: Non ho più esche, quindi non posso pescare.
+FISHING_SAY_PERSONAL_RECORD: Credo che questo sarà il più grande fin'ora!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Qualcosa è andato storto nell'aggiungere un giro al tuo account. Se il problema persiste, per favore contatta l'assistenza.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: È stato aggiunto un giro al tuo account. Puoi riscattarlo nella dashboard.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} si è collegato.'
