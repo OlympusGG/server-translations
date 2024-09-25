@@ -37,15 +37,15 @@ GRENIGAS_CHATMESSAGE_GATHER_POWER: "Síla boha ohně zničí vše!"
 GRENIGAS_SHOUTMESSAGE_GATHER_POWER: "Síla ohně se shromažďuje okolo Grenigase!"
 GRENIGAS_SHOUTMESSAGE_HEALED: "Grenigas absorboval krystal života a získal novou vitalitu."
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: "Všichni hráči podlehli věčnému ledu Glacera."
-RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Zachraňte se tím, že se dostanete do ochranného čtverce!"
+RAID_SHOUTMESSAGE_GLACERUS_TEMPEST: "Elisia: Zachraňte se, dostaňte se do ochranného čtverce!"
 ERENIA_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "První test Erenie brzy začne."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Úspěšně jste zvládnuli první test Erenie. Druhý test brzy začne."
 ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Úspěšně jste zvládnuli druhý test Erenie. Poslední test brzy začne."
-ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neprošel jsi Ereniin poslední test. Řádí jako zběsilá."
+ERENIA_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neprošel jsi finálním testem Erenie. Řádí jako zběsilá."
 ZENAS_RAID_SHOUTMESSAGE_FIRST_TEST_BEGIN: "První test Zenas brzy začne."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_BEGIN: "Úspěšně jste zvládnuli první test Zenas. Druhý test brzy začne."
 ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_SUCCESS: "Úspěšně jste zvládnuli druhý test Zenas. Poslední test brzy začne."
-ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neuspěli jste v posledním testu Zenas. Začíná vše ničit."
+ZENAS_RAID_SHOUTMESSAGE_SECOND_TEST_FAILURE: "Neprošel jsi finálním testem Zenas. Řádí jako zběsilá."
 ZENAS_RAID_SHOUTMESSAGE_LUCIFER_SPAWN: "Archanděl Lucifer, 13. křídlo Zenas, se objevil."
 FERNON_RAID_SHOUTMESSAGE_WAVE_MONSTERS: "Následovníci Fernon se objevili."
 PAIMON_RAID_SHOUTMESSAGE_STRONGEST_UNITS: Vládce zla přivolává své nejsilnější jednotky.
@@ -63,14 +63,14 @@ MULTIVERSE_NAME_MIRROR: 'Mirror'
 MULTIVERSE_NAME_BERSERK: 'Berserk'
 MULTIVERSE_NAME_CHAOS: 'Chaos'
 RAID_NAME_POLLUTUS: Obr Moss Pollutus
-RAID_NAME_GIANTARMA: Obří Arma
+RAID_NAME_GIANTARMA: Obr Arma
 RAID_SAY_MOTION_DETECTION_BOMB: Aktivována bomba s detekcí pohybu! Pokud budete za 3 sekundy stále útočit nebo se pohybovat, zemřete!
 ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MONSTERS: Nájezd v oblasti {0} začne brzy. Porazte tam všechny příšery.
 ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_A_SECURED: Tým A zajistil oblast {0}.
 ULTIMATE_ARMA_SHOUTMESSAGE_TEAM_B_SECURED: Tým B zajistil oblast {0}.
-ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Oblast {0} je zajištěná. Brána do oblasti {1} se brzy otevře.
-ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: V oblasti 3 se objevil boss. Porazte ho rychle.
-RAID_NAME_ULTIMATEGIANTARMA: Ultimátní Obří Arma
-ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Portál do laboratoře, kde se nachází Ultimátní Obří Arma, je nyní otevřen.
-ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Brána k bossovi se brzy otevře. Připravte se!
-RAID_NAME_LOLALOPEARS: Lola Dlouhouška
+ULTIMATE_ARMA_SHOUTMESSAGE_PORTAL_TO_AREA_SOON: Oblast {0} je zajištěná. Portál do oblasti {1} se brzy otevře.
+ULTIMATE_ARMA_SHOUTMESSAGE_DEFEAT_MINIBOSS: Boss se objevil v 3 oblasti. Porazte ho rychle.
+RAID_NAME_ULTIMATEGIANTARMA: Ultimátní Obr Arma
+ULTIMATE_ARMA_SHOUTMESSAGE_LOBBY_PORTAL_OPENED: Portál do laboratoře, kde se nachází Ultimátní Obr Arma, je nyní otevřen.
+ULTIMATE_ARMA_SHOUTMESSAGE_BOSS_PORTAL_OPENED: Portál k bossovi se brzy otevře. Připravte se!
+RAID_NAME_LOLALOPEARS: Lola Klapouška
