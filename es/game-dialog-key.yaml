@@ -157,23 +157,17 @@ BID_MODAL_DISCLAIMER: >-
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
 
-
-
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
-
-
 
 
   	- Retirarte de una puja hecha a un artículo subastado.
 
 
 
-
-
   El botón para pujar por un artículo no te pedirá ninguna confirmación, esto es para asegurar que su respuesta sea óptima para subastas rápidas, así que por favor ten cuidado.
 
 
-  El botón para poner un artículo en subasta te pedirá confirmación antes de terminar. Esto se hace para asegurar la decisión de un jugador.
+  El botón para poner un artículo en subasta te pedirá confirmación antes de terminar. Esto se hace para asegurar la decisión del jugador.
 
 
   ¡Felices Pujas!
@@ -876,7 +870,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A un jugador le falta el sello neces
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Todos los jugadores están congelados.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Ya estás en otro equipo de raid.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Este objeto ya ha sido movido.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: No puedes usar esta habilidad en este raid.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: No puedes crear un raid mientras estás en un grupo.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: No puedes invitar a miembros del grupo a un equipo de raid.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: No puedes unirte a un Raid mientras estás en la arena.

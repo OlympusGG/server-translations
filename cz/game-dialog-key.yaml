@@ -56,8 +56,8 @@ ARENA_INFO_ASK_ENTER: Chceš vstoupit do individuální arény? Bude tě to stá
 ARENA_SHOUTMESSAGE_PVP_KILL: '{0} byl zabit hráčem {1}.'
 ARTEFACT_CHATMESSAGE_GOLDEN_SCROLLS_DISABLED: Zlaté svitky nelze použít na vylepšení artefaktů.
 ARTEFACT_CHATMESSAGE_PITY_COUNTER_TO_MAX: 'Počítadlo soucitu pro {0}: {1}/{2}.'
-ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Tento artefakt už je na maximální úrovni.
-ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Tato položka není artefakt.
+ARTEFACT_SHOUTMESSAGE_ALREADY_MAX_TIER: Tento artefakt je už na maximální úrovni.
+ARTEFACT_SHOUTMESSAGE_NOT_AN_ARTEFACT: Tento předmět není artefakt.
 ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_FAILED: Vylepšení úrovně artefaktu se nezdařilo.
 ARTEFACT_SHOUTMESSAGE_TIER_UPGRADE_SUCCESS: Vylepšení úrovně artefaktu bylo úspěšné.
 ARTEFACT_SHOUTMESSAGE_UPGRADE_FAILED: Vylepšení artefaktu se nezdařilo.
@@ -253,14 +253,14 @@ EQUIPMENT_SET_MSG_SLOT_NOT_UNLOCKED: Tento slot pro sadu vybavení není odemče
 EQUIPMENT_SET_SWAPPED_TO_X: "Sada vybavení změněna na: '{0}'"
 FAIRY_CANNOT_CRAFT_WITH_SAME_FAIRY_UPGRADES: Nemůžeš vytvořit vílu ze dvou víl se stejnou úrovní vylepšení.
 FAIRY_INFO_CANNOT_BE_UPGRADED: Tato víla nemůže být vylepšena.
-FAIRY_MODAL_OPTIONS_CHANGED: Nastavení možností víly změněno
-FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nemůžeš vylepšit vílu, když je přetížená
-FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Použil(a) jsi zlatý nástroj
-FAIRY_SHOUTMESSAGE_HAMMER_USED: Použil(a) jsi kladivo
-FAIRY_SHOUTMESSAGE_OVERCHARGED: Víla je přetížená
-FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Použil(a) jsi sadu na obnovu
-FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Vylepšení víly selhalo
-FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Vylepšení víly bylo úspěšné
+FAIRY_MODAL_OPTIONS_CHANGED: Možnosti víly se úspěšně změnily.
+FAIRY_SHOUTMESSAGE_CANT_UPGRADE_OVERCHARGED: Nemůžeš vylepšit vílu, když je přebitá.
+FAIRY_SHOUTMESSAGE_GOLDEN_TOOL_USED: Tvá víla už není přebitá.
+FAIRY_SHOUTMESSAGE_HAMMER_USED: Všechny možnosti víly byly vymazány.
+FAIRY_SHOUTMESSAGE_OVERCHARGED: Tvá víla je nyní přebitá. Již vílu nelze vylepšovat.
+FAIRY_SHOUTMESSAGE_RESTORATION_SET_USED: Poslední přidaná možnost byla odebrána.
+FAIRY_SHOUTMESSAGE_UPGRADE_FAILURE: Vylepšení víly selhalo.
+FAIRY_SHOUTMESSAGE_UPGRADE_SUCCESS: Vylepšení víly bylo úspěšné, na vílu byla přidaná nová možnost.
 FAMILY_ACHIEVEMENT_UNLOCKED: 'Odemčeno rodinné úspěchy: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0}({1}) se přihlásil!'
 FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Zakoupeno vylepšení rodiny.
@@ -317,20 +317,20 @@ FAMILYARENA_INFO_ASK_ENTER: Chceš vstoupit do rodinné arény? Bude tě to stá
 FARMING_REPORT_NOTIFY_ACTION_OPEN: Otevřít zprávu
 FARMING_REPORT_NOTIFY_DESC: Zkontroluj si zprávu o farmaření.
 FARMING_REPORT_NOTIFY_TITLE: Zpráva o farmení
-FERNON_NOTIFY_RAID_STARTED: Začal útok Fernona.
+FERNON_NOTIFY_RAID_STARTED: Raid Fernona právě začal.
 FERNON_NOTIFY_TITLE: Fernon
-FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: You need to be at least C60 to purchcase the Angler specialist.
-FISHING_INFO_CANNOT_GET_FREE_BAITS: You have already claimed your daily baits.
-FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Tvůj Rybářský encyklopedický průvodce je kompletní.
+FISHING_INFO_CANNOT_BUY_LEVEL_TO_LOW: Aby sis mohl koupit specialistu Rybáře, musíš mít alespoň úroveň C60.
+FISHING_INFO_CANNOT_GET_FREE_BAITS: Svojí denní zásobu návnad sis už vyzvednul.
+FISHING_MSG_ENCYCLOPAEDIA_COMPLETED: Moje encyklopedie ryb je kompletní.
 FISHING_MSG_REGION_COMPLETED: Chytil jsi všechny ryby v této oblasti.
 FISHING_SAY_ALREADY: Už rybařím.
-FISHING_SAY_CANNOT_USE_COVERT_HERE: You cannot use Covert Fishing skill here.
+FISHING_SAY_CANNOT_USE_COVERT_HERE: Nemůžeš zde použit schopnost Rybaření ve skrytu.
 FISHING_SAY_CANNOT_USED_HERE: Na této mapě nemůžeš použít teleport.
 FISHING_SAY_CANT_FISH_HERE: Tady nemůžeš rybařit.
 FISHING_SAY_CATCH_NOTHING: Smůla... Bohužel jsi nic nezískal.
 FISHING_SAY_LOW_JOB_LEVEL: Tvá úroveň rybaření je příliš nízká na to, abys mohl rybařit tady.
 FISHING_SAY_NO_BAIT: Nemáš žádnou návnadu, takže nemůžeš jít rybařit.
-FISHING_SAY_PERSONAL_RECORD: Tohle je největší ryba tohoto druhu, kterou jsi chytil.
+FISHING_SAY_PERSONAL_RECORD: Citím, že toto bude můj největší úlovek!
 FORTUNE_WHEEL_CHATMESSAGE_FAIL: Něco se pokazilo při přidávání točení na tvůj účet. Pokud problém přetrvává, prosím kontaktuj podporu.
 FORTUNE_WHEEL_CHATMESSAGE_SUCCESS: Na tvůj účet bylo přidáno zatočení. Můžeš ho uplatnit na palubní desce.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: '{0} se přihlásil.'
@@ -499,7 +499,7 @@ INVENTORY_DIALOG_ASK_SORT: Chceš seřadit své předměty? Má to minutový coo
 INVENTORY_DIALOG_ASK_TO_DELETE: Chceš smazat tento předmět?
 INVENTORY_DIALOG_SURE_TO_DELETE: Jsi si jistý, že chceš smazat tento předmět? Tato akce je nevratná a předmět bude navždy ztracen.
 INVENTORY_SHOUTMESSAGE_NOT_ENOUGH_ITEMS: Nedostatek předmětů - {0} x{1}
-ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Vybavení s možnostmi skořápky nelze převést. Nejdřív bys měl použít Kouzelnou gumu.
+ITEM_CHATMESSAGE_CANNOT_BE_WITH_SHELL: Vybavení s možnostmi mušle nelze převést. Nejdřív bys měl použít Kouzelnou gumu.
 ITEM_CHATMESSAGE_CANT_USE_THAT: Tohle nemůžeš použít.
 ITEM_CHATMESSAGE_CANT_USE_TWICE: Nemůžeš použít tento předmět, protože už máš buff {0}.
 ITEM_CHATMESSAGE_EFFECT_ACTIVATED: Efekt {0} byl aktivován!
@@ -525,7 +525,7 @@ ITEM_INFO_PET_NAME_TOO_LONG: Jméno NosMate je příliš dlouhé!
 ITEM_MESSAGE_CANT_USE: Nemůžeš použít tento předmět.
 ITEM_MESSAGE_CANT_WEAR: Nemůžeš si tento předmět obléct.
 ITEM_MESSAGE_CANT_WEAR_PARTNER: Tvůj partner si nemůže tento předmět obléct.
-ITEM_MESSAGE_ERASER_NO_SHELL: Nejsou zde žádné možnosti skořápky k vymazání.
+ITEM_MESSAGE_ERASER_NO_SHELL: Nejsou zde žádné možnosti mušle k vymazání.
 ITEM_SHOUTMESSAGE_CANT_UPGRADE_DESTROYED_SP: Nemůžeš vylepšit Specialist Card mrtvou duší!
 ITEM_SHOUTMESSAGE_CANT_WEAR_SP_DESTROYED: Nemůžeš nosit zničenou Specialist Card.
 ITEM_SHOUTMESSAGE_CHEST_EMPTY: Tato truhla je prázdná!
@@ -542,9 +542,9 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit frakci na stejnou.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se změnit na mounta kvůli negativnímu efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Tato položka je v mnohovesmíru zakázána.
+ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Tento předmět nelze použít v Multiverse oblasti.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně zablokován.
-ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v mnohovesmíru.
+ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v Multiverse oblasti.
 LAND_OF_LIFE_CHATMESSAGE_REMAINING_TIME: 'Zbývající čas v Zemi Života: {0} minut.'
 LAND_OF_LIFE_QNA_ENTER: Chceš se připojit do Země Života?
 LAND_OF_LIFE_RECONNECT_EXPIRED: Promiň, možnost znovu se připojit do Země Života vypršela. Příště musíš kliknout rychleji.
@@ -561,7 +561,7 @@ LAND_OF_LIFE_SHOUTMESSAGE_RESPAWN_ENTRANCE: Brzy se vrátíš k vchodu do Země 
 LAND_OF_LIFE_SHOUTMESSAGE_TIME_FINISHED: Nemůžeš vstoupit do Země Života, protože jsi vyčerpal(a) všechny dnešní časy.
 LOD_DIALOG_ASK_REVIVE: Chceš použít {0} k oživení?
 LOD_SHOUTMESSAGE_HORN_DESPAWN: Létající Ohnivý Ďábel zmizel.
-LOD_SHOUTMESSAGE_HORN_SPAWN: Začalo honění na Létajícího Ohnivého Ďábla.
+LOD_SHOUTMESSAGE_HORN_SPAWN: Začal hon na Létajícího Ohnivého Ďábla.
 LOD_SHOUTMESSAGE_LEVEL_TOO_LOW: Tvá úroveň je příliš nízká.
 LOD_SHOUTMESSAGE_LOD_IS_CLOSED: Země Smrti je uzavřena.
 LOD_SHOUTMESSAGE_LOD_IS_IN_MAINTENANCE: Země Smrti je v údržbě.
@@ -592,11 +592,11 @@ MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_HOURS: Údržba začne za {0} hodin(y).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_MINUTES: Údržba začne za {0} minut(y).
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_WARNING_SECONDS: Údržba začne za {0} sekund(y).
 MESSAGE_UNDER_CHAT_0: Reproduktory, mluvící bubliny a chat hrdiny jsou pouze v angličtině!
-MESSAGE_UNDER_CHAT_1: 'Podívejte se na náš Discord server: discord.gg/olympusgg'
-MESSAGE_UNDER_CHAT_2: 'Našli jste chybu? Otevřete lístek s chybou na: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_1: 'Podívejte se na náš Discord server: discord.olympusgg.com'
+MESSAGE_UNDER_CHAT_2: 'Potřebuješ pomoc a našel jsi chybu? Otevři ticket na: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Máte nápad? Vytvořte návrh na našem Discordu!
-MESSAGE_UNDER_CHAT_4: 'Dodržujte naše pravidla hry: dashboard.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Problém s platbou nebo ve hře? Navštivte náš Discord server podpory: dashboard.olympusgg.com/support'
+MESSAGE_UNDER_CHAT_4: 'Dodržujte naše pravidla hry: wiki.olympusgg.com/rules'
+MESSAGE_UNDER_CHAT_5: 'Není povoleno vlastnit vícero účtů.'
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Body produkce minihry byly obnoveny.
 MINIGAME_INFO_NO_REWARD: V této minihře nejsou žádné odměny.
 MINIGAME_INFO_POINTS_FULL: Dosáhli jste maximálního počtu bodů produkce.
@@ -606,7 +606,7 @@ MINILAND_DIALOG_ASK_INVITE: Chcete se připojit do Minilandu {0}?
 MINILAND_DIALOG_ASK_MINIGAME_FOR_FUN: Nedostanete žádné odměny, protože nemáte dostatek bodů produkce. Přesto pokračovat?
 MINILAND_INFO_CHANGED: Zpráva přivítání ve tvém Minilandu byla změněna!
 MINILAND_INFO_DURABILITY_MAXIMUM: Dosáhl(a) jsi maximální odolnosti minihry.
-MINILAND_INFO_INVITE_LOCK: Miniland tohoto hráče je zamčený.
+MINILAND_INFO_INVITE_LOCK: Minizemě tohoto hráče je zamčená.
 MINILAND_INFO_MUST_BE_IN_MINILAND: Musíš být v Minilandu, abys mohl provést tuto akci.
 MINILAND_INFO_NO_ENOUGH_REWARD_COUPON: Nemáš dostatek kupónů na odměny.
 MINILAND_INFO_NOT_ENOUGH_DURABILITY_POINT: Nedostatek bodů odolnosti.
@@ -621,7 +621,7 @@ MINILAND_SHOUTMESSAGE_PRIVATE: Miniland je nyní soukromý.
 MINILAND_SHOUTMESSAGE_PUBLIC: Miniland je nyní veřejný.
 MINILAND_WELCOME_MESSAGE: Vítej!
 MONTHLY_ACHIEVEMENTS_REFRESHED: Měsíční opakovatelné úspěchy byly obnoveny.
-MULTIVERSE_INVASION_START_DESCRIPTION: Na mapě {0} začala invaze mnohovesmíru.
+MULTIVERSE_INVASION_START_DESCRIPTION: Na mapě {0} začala invaze Multiverzu.
 MULTIVERSE_INVASION_START_TITLE: Začala invaze {0}!
 MUTE_CHATMESSAGE_TIME_LEFT: 'Zbývající doba trestu: {0}'
 MUTE_MESSAGE_FEMALE: Byla jsem velmi zlobivá holka, takže jsem dostala trest!
@@ -634,14 +634,14 @@ NOTE_CHATMESSAGE_NEW_NOTE: Přišla nová poznámka.
 NOTE_INFO_CANT_SEND_TO_SELF: Nemůžeš poslat poznámku sám sobě.
 NOTE_INFO_SEND_FAILED: Nepodařilo se poslat poznámku.
 NOTE_INFO_SENDING_TOO_MANY: Posíláš příliš mnoho poznámek.
-NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Obdržel jsi balíček posil.
-NPC_BUFFER_SHOUT_BUFF_ON_CD: Balíček posil má prodlevu.
-NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Dosáhl jsi denního limitu tohoto balíčku bonusů.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tvá úroveň je příliš vysoká na to, abys mohl dostat tento balíček bonusů.
-NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tvá úroveň je příliš nízká na to, abys mohl dostat tento balíček bonusů.
+NPC_BUFFER_SAY_NPC_YOU_RECEIVED_BUFFPACK: Obdržel jsi balíček pozitivních efektů.
+NPC_BUFFER_SHOUT_BUFF_ON_CD: Balíček pozitivních efektů má cooldown.
+NPC_BUFFER_SHOUT_DAILY_LIMIT_REACHED: Dosáhl jsi denního limitu tohoto balíčku pozitivních efektů.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_HIGH_LEVEL: Tvá úroveň je příliš vysoká na to, abys mohl dostat tento balíček pozitivních efektů.
+NPC_BUFFER_SHOUT_YOU_ARE_TOO_LOW_LEVEL: Tvá úroveň je příliš nízká na to, abys mohl dostat tento balíček pozitivních efektů.
 NPC_SHOP_LOG_PURCHASE: Koupil sis {1}x {0}.
 OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_DISABLED'
-OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: Možnost skrýt cooldowny je nyní zapnutá!
+OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED: '#OPTION_SHOUTMESSAGE_HIDE_COOLDOWNS_ENABLED'
 OPTION_SHOUTMESSAGE_X_DISABLED: Možnost {0} je nyní vypnuta!
 OPTION_SHOUTMESSAGE_X_ENABLED: Možnost {0} je nyní zapnutá!
 OPTIONS_SHOUTMESSAGE_BETTING_BLOCK_DISABLED: Možnost Bezpečná sázka vypnuta
@@ -654,8 +654,8 @@ OPTIONS_SHOUTMESSAGE_EMOTE_DISABLED: Emotikony vypnuty
 OPTIONS_SHOUTMESSAGE_EMOTE_ENABLED: Emotikony zapnuty
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_DISABLED: Žádosti o rodinu vypnuty
 OPTIONS_SHOUTMESSAGE_FAMILY_REQUESTS_ENABLED: Žádosti o rodinu zapnuty
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: Možnost odemknutí FPS je nyní vypnutá.
-OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: Možnost odemknutí FPS je nyní zapnutá.
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_DISABLED'
+OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED: '#OPTIONS_SHOUTMESSAGE_FPS_UNLOCKED_ENABLED'
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_DISABLED: Žádosti o přátelství vypnuty
 OPTIONS_SHOUTMESSAGE_FRIEND_REQUESTS_ENABLED: Žádosti o přátelství zapnuty
 OPTIONS_SHOUTMESSAGE_GROUP_REQUESTS_DISABLED: Žádosti o skupinu vypnuty
@@ -778,7 +778,7 @@ PSP_AMON: Dozorce Amon
 PSP_AMORA: Amora
 PSP_ARCHDAEMON_AMON: Arcidémon Amon
 PSP_BARNI: Barni Chytrý
-PSP_CHEONGBI: Imp Cheongbi
+PSP_CHEONGBI: Ďáblík Cheongbi
 PSP_CHLOE: Kovbojka Chloe
 PSP_DANIEL: Daniel Ducats
 PSP_DIALOG_ASK_RESET_ALL_SKILLS: Chcete resetovat všechny dovednosti vaší Partner Specialist Card?
@@ -792,7 +792,7 @@ PSP_FOXY: Foxy
 PSP_FREYA: Freya Osudová
 PSP_GUARDIAN_LUCIFER: Strážce Lucifer
 PSP_HARLEQUIN: Harlekýn
-PSP_HONGBI: Imp Hongbi
+PSP_HONGBI: Ďáblík Hongbi
 PSP_JINN: Džin
 PSP_LAURENA: Čarodějka Laurena
 PSP_LOTUS: Lotus Půvabná
@@ -854,7 +854,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Kvůli opakovanému AFK raidování nemůžeš p
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Pouze vedoucí výpravy může výpravu spustit.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi součástí žádného týmu výpravy.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} nemá předmět {1}'
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Hráč: {0} nemá předmět {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se připojil k týmu výpravy.'
 RAID_DIALOG_ASK_START_RAID: Chceš spustit výpravu {0}?
 RAID_DIALOG_INVITED_YOU: '{0} tě pozval do týmu výpravy. Přijmeš?'
@@ -866,11 +866,11 @@ RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
-RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná pečeť.
+RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná raidová pečeť.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Už jsi v jiném týmu výpravy.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Tento objekt byl již přesunut.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: Tuto schopnost zde nelze použit.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nemůžeš vytvořit raid, když jsi ve skupině.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nemůžeš pozvat členy skupiny do týmu výpravy.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nemůžeš se připojit k raidu, když jsi v aréně.
@@ -947,30 +947,30 @@ RUNE_MSG_UPGRADE_RUINED: Vybavení bylo během procesu poškozeno.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulace, runa byla přidána.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Tato zbraň je vázána na jiného hráče. Runy můžeš vyryt pouze do svých vlastních zbraní.
 SHEEP_GAME_EVENT_NAME: Hra s ovečkami
-SHEEP_GAME_SHOUT_END_PREPARATION: Za {0} sekund budeš teleportován zpět.
+SHEEP_GAME_SHOUT_END_PREPARATION: Za {0} sekund budeš teleportován zpět
 SHEEP_GAME_SHOUT_START_PREPARATION: Hra začne za {0} sekund.
-SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Abys vyměnil schránku, musíš nejdřív použít parfém na vybavení.
+SHELL_SHOUTMESSAGE_NEED_PERFUM_TO_CHANGE_SHELL: Abys vyměnil mušli, musíš nejdřív použít parfém na vybavení.
 SHELLS_DIALOG_ADD_OPTIONS: Chceš k této položce přidat možnost? Pokud souhlasíš, tato položka bude vázána jen na tebe.
 SHELLS_DIALOG_REPLACE_OPTIONS: Možnosti budou nahrazeny a tato položka bude vázána jen na tebe.
-SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Tuto schránku se nepodařilo identifikovat.
-SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Možnosti této schránky jsou již identifikovány.
+SHELLS_INFO_SHELL_CANT_BE_IDENTIFIED: Tuto mušli se nepodařilo identifikovat.
+SHELLS_SHOUTMESSAGE_ALREADY_IDENTIFIED: Tato mušle už byla indentifikovaná.
 SHELLS_SHOUTMESSAGE_ERASED: Možnost byla vymazána.
-SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tuto schránku můžeš použít jen na brnění.
-SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Tuto schránku můžeš použít jen na zbraně.
-SHELLS_SHOUTMESSAGE_IDENTIFIED: Schánka identifikována!
-SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň schránky musí být stejná nebo nižší než úroveň vybavení.
-SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Před použitím musí být schránka identifikována.
-SHELLS_SHOUTMESSAGE_OPTION_SET: Možnosti schránky byly přidány.
-SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Rarita schánky musí být stejná nebo nižší než rarita vybavení.
+SHELLS_SHOUTMESSAGE_FOR_ARMOR_ONLY: Tuto mušli můžeš použít jen na brnění.
+SHELLS_SHOUTMESSAGE_FOR_WEAPON_ONLY: Tuto mušli můžeš použít jen na zbraně.
+SHELLS_SHOUTMESSAGE_IDENTIFIED: Mušle identifikována!
+SHELLS_SHOUTMESSAGE_LEVEL_TOO_HIGH: Úroveň mušle musí být stejná nebo nižší než úroveň vybavení.
+SHELLS_SHOUTMESSAGE_MUST_BE_IDENTIFIED: Před použitím musí být mušle identifikována.
+SHELLS_SHOUTMESSAGE_OPTION_SET: Možnosti mušle byly přidány.
+SHELLS_SHOUTMESSAGE_RARITY_TOO_HIGH: Rarita mušle musí být stejná nebo nižší než rarita vybavení.
 SHIP_CHATMESSAGE_LEVEL_REQ: Musíš mít alespoň úroveň {0}, abys mohl nastoupit na tuto loď.
 SHIP_SHOUTMESSAGE_COOLDOWN: Loď se ještě nevrátila.
 SHIP_SHOUTMESSAGE_MINUTES_REMAINING: Loď vypluje za {0} minut.
 SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Loď vypluje za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Obchod nemůže být prázdný.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: V soukromém obchodě můžeš prodat jen předměty, které jdou obchodovat.
-SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Something went wrong when adding OCs to your account, please contact support.
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs have been added to your account, you now have: {0} OCs'
-SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Successfully added OCs to your account!
+SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Něco se pokazilo při přidávání OC na váš účet, kontaktujte prosím podporu.
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'OCs byly přidány na tvůj účet, aktuální zůstatek: {0} OCs'
+SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: OCs byly úspěšně přidány na tvůj účet!
 SHOP_DEFAULT_NAME: Soukromý obchod
 SHOP_INFO_ALREADY_OPEN: Už máš otevřený obchod.
 SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
@@ -1067,8 +1067,8 @@ TATTOO_UPGRADE_SUCCESS_PITY: '[Systém soucitu] Vylepšení tetování se podař
 TIMESPACE_CHATMESSAGE_ATTACK_COOLDOWN: Musíš počkat po útoku.
 TIMESPACE_CHATMESSAGE_EASY_MODE: Časoprostor je v lehkém režimu. Doba trvání byla prodloužena a neobdržíš vybrané odměny.
 TIMESPACE_CHATMESSAGE_GATE_LOCKED: Brána je zamčená.
-TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Můj level je příliš vysoký na to, abych se mohl připojit do tohoto Času-prostoru.
-TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký na to, abych se mohl připojit do tohoto Času-prostoru.
+TIMESPACE_CHATMESSAGE_HIGH_LEVEL: Můj level je příliš vysoký na to, abych se mohl připojit do tohoto časoprostoru.
+TIMESPACE_CHATMESSAGE_LOW_LEVEL: Můj level je příliš nízký na to, abych se mohl připojit do tohoto časoprostoru.
 TIMESPACE_CHATMESSAGE_NEED_WORLDBOSS_EVENT: Potřebuješ událost s World Bossem
 TIMESPACE_CHATMESSAGE_NOT_FINISHED_TASKS: Nebyly dokončeny všechny mise Časoprostoru.
 TIMESPACE_CHATMESSAGE_ONLY_TEAM_LEADER_START: Pouze vedoucí skupiny může spustit Časoprostor.
@@ -1078,7 +1078,7 @@ TIMESPACE_DIALOG_ASK_REVIVAL: Chceš se oživit?
 TIMESPACE_DIALOG_ASK_START: Chceš vstoupit do první místnosti?
 TIMESPACE_DIALOG_ASK_START_RECORD: Chceš spustit Časoprostor v režimu záznamu? Bude tě to stát {0} zlata.
 TIMESPACE_SHOUTMESSAGE_ALREADY_STARTED: Časoprostor už byl zahájen.
-TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: V tomto Časoprostoru nemůžeš být ve skupině.
+TIMESPACE_SHOUTMESSAGE_CANT_BE_IN_GROUP: V tomto Časoprostoru nemůžeš být ve skupině
 TIMESPACE_SHOUTMESSAGE_CLOSE_PORTAL: Nemůžeš vytvořit portál Časoprostoru blízko jiného portálu.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED: Otevřely se dveře.
 TIMESPACE_SHOUTMESSAGE_DOOR_OPENED_SOMEWHERE: Někde se otevřely dveře.
