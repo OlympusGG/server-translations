@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Špatné uživatelské jméno.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: '#ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS'
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: '#ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND'
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: '#ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT'
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: '#ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM'
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: '#ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM'
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: This exceeds the limit quantity of items in one stack
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item not found
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of items in one stack
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Skladiště je kvůli údržbě mimo provoz.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: '#ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY'
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Došlo k neočekávané chybě. Zkus to prosím později.
 ACHIEVEMENT_COMPLETED: Úspěch dosažen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tvá úroveň musí být alespoň {0}, abys mohl přeskočit tuto část.
@@ -596,7 +596,7 @@ MESSAGE_UNDER_CHAT_1: 'Podívejte se na náš Discord server: discord.olympusgg.
 MESSAGE_UNDER_CHAT_2: 'Potřebuješ pomoc a našel jsi chybu? Otevři ticket na: support.olympusgg.com'
 MESSAGE_UNDER_CHAT_3: Máte nápad? Vytvořte návrh na našem Discordu!
 MESSAGE_UNDER_CHAT_4: 'Dodržujte naše pravidla hry: wiki.olympusgg.com/rules'
-MESSAGE_UNDER_CHAT_5: 'Není povoleno vlastnit vícero účtů.'
+MESSAGE_UNDER_CHAT_5: Není povoleno vlastnit vícero účtů.
 MINIGAME_CHATMESSAGE_PRODUCTION_REFRESHED: Body produkce minihry byly obnoveny.
 MINIGAME_INFO_NO_REWARD: V této minihře nejsou žádné odměny.
 MINIGAME_INFO_POINTS_FULL: Dosáhli jste maximálního počtu bodů produkce.
