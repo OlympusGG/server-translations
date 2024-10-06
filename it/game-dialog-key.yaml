@@ -159,12 +159,15 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
 
 
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
 
 
 
