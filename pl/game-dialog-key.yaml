@@ -158,11 +158,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -976,7 +979,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Na twoje konto doda
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Pomyślnie dodano OC do twojego konta!
 SHOP_DEFAULT_NAME: Sklep Osobisty
 SHOP_INFO_ALREADY_OPEN: Masz już otwarty sklep.
-SHOP_INFO_GENERIC_ERROR: '#BŁĄD_SKLEPU_INFORMACJE_OGÓLNE'
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Musisz wyłączyć opcję "Bezpieczna sprzedaż ekwipunku", żeby sprzedać ten przedmiot.
 SHOP_INFO_NEAR_PORTAL: Nie możesz stworzyć sklepu tak blisko portalu.
 SHOP_INFO_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu.

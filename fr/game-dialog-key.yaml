@@ -158,11 +158,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -976,7 +979,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Des OCs ont été a
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Tes OCs ont été ajoutés à ton compte avec succès !
 SHOP_DEFAULT_NAME: Boutique Privée
 SHOP_INFO_ALREADY_OPEN: Tu as déjà un magasin ouvert.
-SHOP_INFO_GENERIC_ERROR: '#ERREUR_GÉNÉRIQUE_BOUTIQUE'
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Tu dois désactiver l'option "Vente Sécurisée d'Équipement" pour vendre cet objet.
 SHOP_INFO_NEAR_PORTAL: Tu ne peux pas créer de magasin si près du portail.
 SHOP_INFO_NOT_ALLOWED: Tu ne peux pas ouvrir de magasins sur les cartes générales.
