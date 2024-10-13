@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Nieprawidłowa nazwa użytkownika.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item not found
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Przekroczono limit ilości przedmiotów w jednym stosie
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Nie znaleziono przedmiotu
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Przekroczono limit ilości przedmiotów w jednym stosie
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: To miejsce jest już zajęte przez inny przedmiot
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Ten przedmiot nie może być przechowywany w stosie i na miejscu docelowym jest już inny przedmiot
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Na wybranym miejscu nie ma wystarczającej ilości przedmiotów do wypłacenia
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Proszę spróbować ponownie później.
 ACHIEVEMENT_COMPLETED: Osiągnięcie zdobyte.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Musisz być przynajmniej na poziomie {0}, aby pominąć ten akt.
@@ -158,11 +158,26 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
+
+
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
 
+
+
+
+
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
+
+
+
+
 
 
 
@@ -873,7 +888,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Graczowi brakuje potrzebnej pieczęc
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Wszyscy gracze są zamrożeni.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Już jesteś członkiem innego rajdu.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Ten obiekt został już poruszony.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: Nie możesz użyć tej umiejętności w tym rajdzie.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Nie możesz utworzyć rajdu gdy znajdujesz się w grupie.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Nie możesz zapraszać członków grupy do rajdu.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Nie możesz dołączyć do rajdu będąc na arenie.
@@ -976,7 +991,7 @@ SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Na twoje konto doda
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Pomyślnie dodano OC do twojego konta!
 SHOP_DEFAULT_NAME: Sklep Osobisty
 SHOP_INFO_ALREADY_OPEN: Masz już otwarty sklep.
-SHOP_INFO_GENERIC_ERROR: '#BŁĄD_SKLEPU_INFORMACJE_OGÓLNE'
+SHOP_INFO_GENERIC_ERROR: '#SHOP_INFO_GENERIC_ERROR'
 SHOP_INFO_ITEM_SAFE_SELL_DISABLE_OPTION: Musisz wyłączyć opcję "Bezpieczna sprzedaż ekwipunku", żeby sprzedać ten przedmiot.
 SHOP_INFO_NEAR_PORTAL: Nie możesz stworzyć sklepu tak blisko portalu.
 SHOP_INFO_NOT_ALLOWED: Nie możesz tutaj otworzyć sklepu.
@@ -1055,7 +1070,7 @@ TAMING_SHOUTMESSAGE_EVOLVED_FAILED_ALREADY_6_STARS: Ten zwierzak osiągnął ju�
 TAMING_SHOUTMESSAGE_EXTRACT_ONLY_MINILAND: Esencję można wydobywać tylko w swoim Minilandzie.
 TAMING_SHOUTMESSAGE_IMMUNE_TO_EXTRACTION: Ten zwierzak jest odporny na ekstrakcję esencji.
 TAMING_SHOUTMESSAGE_STAR_UPGRADE_SUCCESS: Stopień wytresowania zwiększony do {0}.
-TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Training level reset to {0}.
+TAMING_SHOUTMESSAGE_TRAINING_RESET_SUCCESS: Poziom treningu zresetowany do {0}.
 TATTOO_ADDED: Tatuaż dodany!
 TATTOO_CHATMESSAGE_TAB_UNLOCKED: Odblokowano dodatkową zakładkę Tatuaży.
 TATTOO_INFO_ALREADY_MAX_TABS: Nie możesz mieć więcej zakładek tatuażu.
@@ -1156,7 +1171,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odrzucił zaręczyny gracza {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Cotygodniowe osiągnięcia zostały odnowione.
 WINGS_SWAPPER_DELAY_SWAPPING: Musisz poczekać {0}, zanim będziesz mógł zmienić swoje skrzydła ponownie.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musisz poczekać {0} po użyciu umiejętności, aby móc zmienić skrzydła.
-WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough participation points to earn a reward.
+WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nie uzbierałeś wystarczającej ilości punktów uczestnictwa, aby otrzymać nagrodę.
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Tymczasowy portal otworzył się w {0}

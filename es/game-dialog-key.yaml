@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Nombre de usuario incorrecto.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item not found
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Esto supera la cantidad límite de objetos en un montón
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Objeto no encontrado
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Esto supera la cantidad límite de objetos en un montón
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Esta casilla ya está ocupada por otro objeto, no se puede depositar, lo siento
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Este objeto no se puede amontonar y ya hay otro objeto en la casilla de destino
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: No hay suficientes objetos para retirar en la casilla indicada
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor, inténtalo de nuevo más tarde.
 ACHIEVEMENT_COMPLETED: Logro completado.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Debes ser al menos nivel {0} para saltarte este acto.
@@ -157,10 +157,19 @@ BID_MODAL_DISCLAIMER: >-
   Para asegurar un Sistema de Pujas justo y eficiente para nuestros jugadores, no podrás:
 
 
+
+
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
+
+
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
+
+
 
 
 
