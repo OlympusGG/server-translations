@@ -2,10 +2,10 @@ ACCOUNT_INFO_BAD_ID: Nieprawidłowa nazwa użytkownika.
 ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Przekroczono limit ilości przedmiotów w jednym stosie
 ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Nie znaleziono przedmiotu
 ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Przekroczono limit ilości przedmiotów w jednym stosie
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: To miejsce jest już zajęte przez inny przedmiot, nie mogę wpłacić, przepraszam
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Ten przedmiot nie jest składalny i na miejscu docelowym jest już inny przedmiot
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: To miejsce jest już zajęte przez inny przedmiot
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Ten przedmiot nie może być przechowywany w stosie i na miejscu docelowym jest już inny przedmiot
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Magazyn jest w trakcie konserwacji.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Na danym miejscu nie ma wystarczającej ilości przedmiotów do wypłacenia
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Na wybranym miejscu nie ma wystarczającej ilości przedmiotów do wypłacenia
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Proszę spróbować ponownie później.
 ACHIEVEMENT_COMPLETED: Osiągnięcie zdobyte.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Musisz być przynajmniej na poziomie {0}, aby pominąć ten akt.
@@ -160,13 +160,22 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
 
 
 
+
+
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
+
+
 
 
 
