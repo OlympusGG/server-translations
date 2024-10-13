@@ -2,15 +2,15 @@ ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
 ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
 ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Gegenstand nicht gefunden
 ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Dieser Slot wird bereits von einem anderen Gegenstand verwendet, kann leider nicht eingelagert werden
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Dieser Platz wird bereits von einem anderen Gegenstand besetzt und kann daher leider nicht eingelagert werden
 ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Dieser Gegenstand ist nicht stapelbar und es befindet sich bereits ein anderer Gegenstand im Ziel-Slot
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus ist zur Wartung geschlossen.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Es sind nicht genug Gegenstände vorhanden, um sie aus dem angegebenen Slot zu entnehmen
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus wird gerade gewartet.
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Es gibt nicht genügend Gegenstände für die Entnahme auf dem angegebenen Slot
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du diesen Dungeon verlassen?
-ACT4_CALIGOR_MAP_FULL: Das Caligors Reich ist voll.
+ACT4_CALIGOR_MAP_FULL: Das Caligor Reich ist voll.
 ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor Reichs wiederbelebt werden?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor hat begonnen.
 ACT4_CHANNEL_OFFLINE: Akt4 Kanal ist derzeit offline.
@@ -166,6 +166,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -178,7 +181,13 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
+
+
 
 
 
