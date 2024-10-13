@@ -2,8 +2,8 @@ ACCOUNT_INFO_BAD_ID: Špatné uživatelské jméno.
 ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Překročen limit počtu předmětů v jednom balíku
 ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Předmět nenalezen
 ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Překročen limit počtu předmětů v jednom balíku
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Tento slot je již obsazen jiným předmětem, nelze uložit, promiň
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Tento předmět nelze skládat a v cílovém slotu je již jiný předmět
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Tento slot je již obsazen jiným předmětem, nelze vložit jiný předmět
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Tento předmět nelze stackovatelný a v cílovém slotu je již jiný předmět
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Skladiště je kvůli údržbě mimo provoz.
 ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: V daném slotu není dostatek předmětů k výběru
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Došlo k neočekávané chybě. Zkus to prosím později.
@@ -160,12 +160,15 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
 
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
 
