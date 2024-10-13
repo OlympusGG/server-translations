@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item not found
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Gegenstand nicht gefunden
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Dieser Slot wird bereits von einem anderen Gegenstand verwendet, kann leider nicht eingelagert werden
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Dieser Gegenstand ist nicht stapelbar und es befindet sich bereits ein anderer Gegenstand im Ziel-Slot
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus ist zur Wartung geschlossen.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Es sind nicht genug Gegenstände vorhanden, um sie aus dem angegebenen Slot zu entnehmen
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
@@ -165,6 +165,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -176,7 +177,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -894,7 +897,7 @@ RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Einem Spieler fehlt das benötigte S
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
 RAID_SHOUTMESSAGE_ALREADY_IN_RAID: Du bist bereits in einem anderen Raid-Team.
 RAID_SHOUTMESSAGE_BUTTON_ALREADY_USED: Dieses Objekt wurde bereits bewegt.
-RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: You cannot use this skill in this raid.
+RAID_SHOUTMESSAGE_CANNOT_USE_SKILL: Du kannst diese Fähigkeit in diesem Raid nicht verwenden.
 RAID_SHOUTMESSAGE_CANT_CREATE_RAID_GROUP: Du kannst keinen Raid erstellen, wenn du in einer Gruppe bist.
 RAID_SHOUTMESSAGE_CANT_INVITE_GROUP: Du kannst keine Gruppenmitglieder zu einem Raid-Team einladen.
 RAID_SHOUTMESSAGE_CANT_JOIN_FROM_ARENA: Du kannst keinem Raid beitreten, während du in der Arena bist.

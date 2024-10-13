@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Yanlış kullanıcı adı.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item not found
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of items in one stack
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Bu, bir yığındaki item limit miktarını aşıyor
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item bulunamadı
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Bu, bir yığındaki item limit miktarını aşıyor
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Bu yuva zaten başka bir item tarafından kullanılıyor, yatıramam üzgünüm
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Bu item yığınlamaz ve hedef yuvada başka bir item var
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakım altında.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Belirtilen yuvada yeterli item yok
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 ACHIEVEMENT_COMPLETED: Başarı tamamlandı.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu act'i atlamak için en az {0} seviyesinde olmalısın.
@@ -162,6 +162,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
@@ -170,7 +171,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
 
