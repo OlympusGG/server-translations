@@ -429,6 +429,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: No tienes suficiente reputación.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Tu nivel es demasiado bajo.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Este objeto no es tuyo.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: El Medallón del NosComerciante está actualmente activo.
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformación de Especialista de Compañero en enfriamiento: {0} segundos'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputación: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputación: +{0}'
