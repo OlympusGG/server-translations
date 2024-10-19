@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Nom d'utilisateur incorrect.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Cela dépasse la quantité limite d'articles dans une pile
-ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Article introuvable
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Cela dépasse la quantité limite d'articles dans une pile
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Cet emplacement est déjà utilisé par un autre article, désolé on ne peut pas déposer
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Cet article n'est pas empilable et il y a déjà un autre article dans l'emplacement de destination
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Cela dépasse la quantité limite d'objets dans une pile
+ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Objet introuvable
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Cela dépasse la quantité limite d'objets dans une pile
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Cet emplacement est déjà utilisé par un autre objet, impossible de le déposer
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Cet objet n'est pas empilable et il y a déjà un autre objet dans l'emplacement de destination
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: L'entrepôt est en maintenance.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Il n'y a pas assez d'articles à retirer dans l'emplacement donné
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Il n'y a pas assez d'objets à retirer dans l'emplacement donné
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur inattendue s'est produite. Veuillez réessayer plus tard.
 ACHIEVEMENT_COMPLETED: Succès accompli.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tu dois être au moins au niveau {0} pour passer cet acte.
@@ -160,13 +160,16 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
