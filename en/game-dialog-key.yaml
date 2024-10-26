@@ -5,7 +5,7 @@ ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: This exceeds the limit quantity of 
 ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: This slot is already used by another item, can't deposit sorry
 ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: This item is not stackable and there is another item on the destination slot
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There is not enough item to withdraw on the given slot
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: There are not enough items to withdraw on the given slot.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
 ACHIEVEMENT_COMPLETED: Achievement completed.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: You must be at least at level {0} to skip this act.
@@ -156,9 +156,12 @@ BID_MODAL_DISCLAIMER: >-
 
   To ensure a fair and responsive Bidding System for our players, you will not be able to:
 
+
   	- Remove an auctioned item before its end date if someone has already bid.
 
+
   	- Back-down from a Bid done to an auctioned item.
+
 
 
   The button to bid on an item won't ask you for any confirmation, this is to ensure that its response is top-notch for fast-paced auctions, so please be careful.
