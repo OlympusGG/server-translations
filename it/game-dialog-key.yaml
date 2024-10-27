@@ -5,7 +5,7 @@ ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Questo supera il limite massimo di 
 ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Questo slot è già occupato da un altro oggetto, mi dispiace ma non puoi depositarlo
 ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Questo oggetto non è impilabile e c'è già un altro oggetto nello slot di destinazione
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Il magazzino è in manutenzione.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Non ci sono abbastanza oggetti da prelevare nello slot indicato
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Non ci sono abbastanza oggetti da prelevare nello slot indicato.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore imprevisto. Per favore riprova più tardi.
 ACHIEVEMENT_COMPLETED: Obiettivo completato.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Devi essere almeno al livello {0} per saltare questo atto.
@@ -162,6 +162,8 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
@@ -170,7 +172,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
+
 
 
 

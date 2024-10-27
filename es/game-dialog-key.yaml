@@ -5,7 +5,7 @@ ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Esto supera la cantidad límite de 
 ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Esta casilla ya está ocupada por otro objeto, no se puede depositar, lo siento
 ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Este objeto no se puede amontonar y ya hay otro objeto en la casilla de destino
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: El almacén está en mantenimiento.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: No hay suficientes objetos para retirar en la casilla indicada
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: No hay suficientes objetos para retirar en la casilla indicada.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor, inténtalo de nuevo más tarde.
 ACHIEVEMENT_COMPLETED: Logro completado.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Debes ser al menos nivel {0} para saltarte este acto.
@@ -160,13 +160,19 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
 
 
 
+
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
+
 
 
 

@@ -1,16 +1,16 @@
 ACCOUNT_INFO_BAD_ID: Falscher Benutzername.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Dies überschreitet die maximale Anzahl an Gegenständen in einem Stapel
 ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Gegenstand nicht gefunden
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Das überschreitet die maximale Anzahl von Gegenständen in einem Stapel
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Dieser Platz wird bereits von einem anderen Gegenstand besetzt und kann daher leider nicht eingelagert werden
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Dies überschreitet die maximale Anzahl an Gegenständen in einem Stapel
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Der Platz wird bereits von einem anderen Gegenstand besetzt, dieser kann daher leider nicht eingelagert werden
 ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Dieser Gegenstand ist nicht stapelbar und es befindet sich bereits ein anderer Gegenstand im Ziel-Slot
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Lagerhaus wird gerade gewartet.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Es gibt nicht genügend Gegenstände für die Entnahme auf dem angegebenen Slot
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Das Warenhaus wird gerade gewartet.
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Es gibt nicht genügend Gegenstände, für die Entnahme auf den angegebenen Slot.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten. Bitte versuche es später noch einmal.
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du diesen Dungeon verlassen?
-ACT4_CALIGOR_MAP_FULL: Das Caligor Reich ist voll.
+ACT4_CALIGOR_MAP_FULL: Caligor`s Reich ist voll.
 ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor Reichs wiederbelebt werden?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor hat begonnen.
 ACT4_CHANNEL_OFFLINE: Akt4 Kanal ist derzeit offline.
@@ -169,6 +169,8 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -184,7 +186,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
+
 
 
 
@@ -456,8 +462,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nicht genug Ruf.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Dein Level ist zu niedrig.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Dieser Gegenstand gehört dir nicht.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Die NosBasar-Medaille ist gerade aktiv.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Deine Abenteurer-Medaille läuft aus am {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Deine Champion-Medaille läuft aus am {0}
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Partnerspezialisten-Transformation Abklingzeit: {0} Sekunden'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Ruf verringert: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Ruf erhöht: +{0}'
