@@ -1034,6 +1034,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Do you want to receive a temporary Pirate Specia
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: You have already received this item.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Player {0} received {1} from Jack Panon!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: You are banned to join Arena of Talent for {0}.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
 TALENT_ARENA_CLOSED: Arena of Talent is closed.
 TALENT_ARENA_NO_ENTRIES: You don't have any Arena of Talent entry left.
 TALENT_ARENA_NOT_FOUND: Not found.

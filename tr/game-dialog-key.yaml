@@ -1052,6 +1052,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Geçici bir Korsan Uzmanı almak ister misin? Bu
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Bu öğeyi zaten aldın.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Oyuncu {0}, Jack Panon'dan {1} aldı!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Yetenek Arenası'na katılmak için {0} süreyle yasaklandın.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
 TALENT_ARENA_CLOSED: Yetenek Arenası kapalı.
 TALENT_ARENA_NO_ENTRIES: Yetenek Arenası'na giriş hakkın kalmadı.
 TALENT_ARENA_NOT_FOUND: Bulunamadı.

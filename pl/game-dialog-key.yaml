@@ -1058,6 +1058,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Chcesz otrzymać tymczasowego Specjalistę Pirat
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Już otrzymałeś ten przedmiot.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Gracz {0} otrzymał {1} od Jacka Panona!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Masz zakaz wstępu do Areny Talentów przez {0}.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
 TALENT_ARENA_CLOSED: Arena Talentów jest zamknięta.
 TALENT_ARENA_NO_ENTRIES: Nie masz już żadnych wejść do Areny Talentów.
 TALENT_ARENA_NOT_FOUND: Nie znaleziono.

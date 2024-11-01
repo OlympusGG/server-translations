@@ -1050,6 +1050,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Chceš získat dočasného Pirátského speciali
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Tento předmět už jsi obdržel.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Hráč {0} obdržel {1} od Jacka Panona!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Máš zákaz účasti ve Stadiónu talentu na {0}.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
 TALENT_ARENA_CLOSED: Aréna talentu je zavřená.
 TALENT_ARENA_NO_ENTRIES: Nemáš žádný zbývající vstup do Arény talentu.
 TALENT_ARENA_NOT_FOUND: Nenalezeno.

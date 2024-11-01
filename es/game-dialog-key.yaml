@@ -1049,6 +1049,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: ¿Quieres recibir una Tarjeta de Especialista Pi
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Ya has recibido este objeto.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: ¡El jugador {0} recibió {1} de Jack Panon!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Estás vetado para unirte a la Arena del Talento por {0}.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
 TALENT_ARENA_CLOSED: La Arena del Talento está cerrada.
 TALENT_ARENA_NO_ENTRIES: No te quedan entradas para la Arena del Talento.
 TALENT_ARENA_NOT_FOUND: No encontrado.
