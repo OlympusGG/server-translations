@@ -972,6 +972,8 @@ RUNE_MSG_UPGRADE_FAILED: Ulepszenie runy nie powiodło się.
 RUNE_MSG_UPGRADE_RUINED: Przedmiot został uszkodzony w trakcie.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
 SHEEP_GAME_EVENT_NAME: Owcza Gra
 SHEEP_GAME_SHOUT_END_PREPARATION: Zostaniesz teleportowany z powrotem za {0} sekund
 SHEEP_GAME_SHOUT_START_PREPARATION: Gra rozpocznie się za {0} sekund.

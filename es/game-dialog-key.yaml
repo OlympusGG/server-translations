@@ -963,6 +963,8 @@ RUNE_MSG_UPGRADE_FAILED: La mejora de la runa falló.
 RUNE_MSG_UPGRADE_RUINED: El equipo se dañó en el proceso.
 RUNE_MSG_UPGRADE_SUCCESS: Felicidades, la runa ha sido añadida.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Este arma está vinculada a otro jugador. Solo puedes tallar runas en tus propias armas.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
 SHEEP_GAME_EVENT_NAME: Juego de Ovejas
 SHEEP_GAME_SHOUT_END_PREPARATION: Serás teletransportado de vuelta en {0} segundos
 SHEEP_GAME_SHOUT_START_PREPARATION: El juego comenzará en {0} segundos.

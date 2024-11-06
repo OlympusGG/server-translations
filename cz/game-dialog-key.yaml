@@ -964,6 +964,8 @@ RUNE_MSG_UPGRADE_FAILED: Vylepšení runy selhalo.
 RUNE_MSG_UPGRADE_RUINED: Vybavení bylo během procesu poškozeno.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulace, runa byla přidána.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Tato zbraň je vázána na jiného hráče. Runy můžeš vyryt pouze do svých vlastních zbraní.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
 SHEEP_GAME_EVENT_NAME: Hra s ovečkami
 SHEEP_GAME_SHOUT_END_PREPARATION: Za {0} sekund budeš teleportován zpět
 SHEEP_GAME_SHOUT_START_PREPARATION: Hra začne za {0} sekund.

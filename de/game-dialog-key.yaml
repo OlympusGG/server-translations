@@ -990,6 +990,8 @@ RUNE_MSG_UPGRADE_FAILED: Runen-Upgrade fehlgeschlagen.
 RUNE_MSG_UPGRADE_RUINED: Die Ausrüstung wurde dabei beschädigt.
 RUNE_MSG_UPGRADE_SUCCESS: Glückwunsch, die Rune wurde hinzugefügt.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur Runen in deine eigenen Waffen schnitzen.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
 SHEEP_GAME_EVENT_NAME: Schafspiel
 SHEEP_GAME_SHOUT_END_PREPARATION: Du wirst in {0} Sekunden zurück teleportiert
 SHEEP_GAME_SHOUT_START_PREPARATION: Das Spiel beginnt in {0} Sekunden.

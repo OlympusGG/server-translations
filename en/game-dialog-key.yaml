@@ -948,6 +948,8 @@ RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The equipment was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
 SHEEP_GAME_EVENT_NAME: Sheep Game
 SHEEP_GAME_SHOUT_END_PREPARATION: You will be teleported back in {0} seconds
 SHEEP_GAME_SHOUT_START_PREPARATION: The game will start in {0} seconds.
