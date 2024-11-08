@@ -971,6 +971,8 @@ RUNE_MSG_UPGRADE_SUCCESS: Congratulazioni, la runa è stata aggiunta.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Questa arma è legata a un altro giocatore. Puoi incidere rune solo sulle tue armi.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
 SHEEP_GAME_EVENT_NAME: Gioco delle Pecore
 SHEEP_GAME_SHOUT_END_PREPARATION: Sarai teletrasportato indietro tra {0} secondi
 SHEEP_GAME_SHOUT_START_PREPARATION: Il gioco inizierà tra {0} secondi.

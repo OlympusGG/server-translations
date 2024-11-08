@@ -968,6 +968,8 @@ RUNE_MSG_UPGRADE_SUCCESS: Félicitations, la rune a été ajoutée.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Cette arme est liée à un autre joueur. Tu ne peux graver des runes que sur tes propres armes.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
 SHEEP_GAME_EVENT_NAME: Jeu de Moutons
 SHEEP_GAME_SHOUT_END_PREPARATION: Tu seras téléporté(e) dans {0} secondes
 SHEEP_GAME_SHOUT_START_PREPARATION: Le jeu commencera dans {0} secondes.

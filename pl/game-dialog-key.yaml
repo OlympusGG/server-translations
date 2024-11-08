@@ -974,6 +974,8 @@ RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
 SHEEP_GAME_EVENT_NAME: Owcza Gra
 SHEEP_GAME_SHOUT_END_PREPARATION: Zostaniesz teleportowany z powrotem za {0} sekund
 SHEEP_GAME_SHOUT_START_PREPARATION: Gra rozpocznie się za {0} sekund.
