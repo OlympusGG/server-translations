@@ -163,6 +163,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
@@ -171,7 +172,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
 
@@ -436,8 +439,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Nedostatek reputace.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Tvá úroveň je příliš nízká.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Tato věc ti nepatří.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Medaile NosMerchant je nyní aktivní.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Tvá Medaile Dobrodruha vyprší za {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Tvá Medaile Šampiona vyprší za {0}
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformace na Partner Specialist je v cooldownu: {0} sekund'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputace: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputace: +{0}'
@@ -753,7 +756,7 @@ PET_CHATMESSAGE_ALREADY_CAN_PICK_UP: Tvůj NosMate už může sbírat předměty
 PET_CHATMESSAGE_BEAD_EXTRACT: 'Získal jsi nového NosMate: {0}'
 PET_CHATMESSAGE_CAN_PICK_UP: Tvůj NosMate teď může sbírat předměty.
 PET_CHATMESSAGE_EAT_EVERYTHING: Tvůj NosMate je plný.
-PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého NosMate zpátky do Minilandu?
+PET_DIALOG_ASK_SEND_BACK: Chceš poslat svého Nosmáta zpátky do Minizemě?
 PET_DIALOG_ASK_SLOT_INCREASE: Chceš rozšířit svá NosMate místa?
 PET_INFO_LEAVE_BEAD: NosMate je teď venku z korálku!
 PET_INFO_RELEASED: Tvůj NosMate je teď volný.
@@ -915,7 +918,7 @@ RAID_SHOUTMESSAGE_TARGETS_UPDATED: Cíle aktualizovány.
 RAID_SHOUTMESSAGE_THORN_BUSH_REMOVED: Trn z keře byl odstraněn.
 RAID_SHOUTMESSAGE_ULTIMATE_ARMA_BOX_FAILED: Nepodařilo se ti to, Ultimate Giant Arma byl vyléčen.
 RAID_SHOUTMESSAGE_UNREGISTERED: Tvůj tým na přepadení už není zaregistrován.
-RAID_SHOUTMESSAGE_X_JOINED: '{0} se přidal k týmu na přepadení.'
+RAID_SHOUTMESSAGE_X_JOINED: '{0} se přidal k raid týmu.'
 RAINBOW_BATTLE_BLUE_SURREND_MESSAGE: Modrý tým se vzdal.
 RAINBOW_BATTLE_CHARACTER_DISCONNECTED: '{0} se odhlásil.'
 RAINBOW_BATTLE_CHATMESSAGE_ALREADY_CAPTURED: Tento křišťál už tvůj tým ovládl.
@@ -1054,7 +1057,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Chceš získat dočasného Pirátského speciali
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Tento předmět už jsi obdržel.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Hráč {0} obdržel {1} od Jacka Panona!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Máš zákaz účasti ve Stadiónu talentu na {0}.
-TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: Ještě dnes se můžete zúčastnit {0}krát v Aréně talentů.
 TALENT_ARENA_CLOSED: Aréna talentu je zavřená.
 TALENT_ARENA_NO_ENTRIES: Nemáš žádný zbývající vstup do Arény talentu.
 TALENT_ARENA_NOT_FOUND: Nenalezeno.

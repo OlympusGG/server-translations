@@ -163,6 +163,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
@@ -172,7 +173,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
 
