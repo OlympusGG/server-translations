@@ -171,6 +171,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -188,7 +189,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -991,10 +994,10 @@ RUNE_MSG_UPGRADE_FAILED: Runen-Upgrade fehlgeschlagen.
 RUNE_MSG_UPGRADE_RUINED: Die Ausrüstung wurde dabei beschädigt.
 RUNE_MSG_UPGRADE_SUCCESS: Glückwunsch, die Rune wurde hinzugefügt.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur Runen in deine eigenen Waffen schnitzen.
-SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
-SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Du musst die vorherigen Hebel zuerst aktivieren.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} hat die Schnitzeljagt gewonnen!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: Die Schnitzeljagt startet in {0} Minute(n).
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: Die Schnitzeljagt startet in {0} Sekunde(n).
 SHEEP_GAME_EVENT_NAME: Schafspiel
 SHEEP_GAME_SHOUT_END_PREPARATION: Du wirst in {0} Sekunden zurück teleportiert
 SHEEP_GAME_SHOUT_START_PREPARATION: Das Spiel beginnt in {0} Sekunden.
@@ -1081,7 +1084,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Möchtest du eine temporäre Piraten-SP erhalten
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Du hast diesen Gegenstand bereits erhalten.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Spieler {0} hat {1} von Jack Panon erhalten!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Du bist für {0} von der Arena der Talente ausgeschlossen.
-TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: Du kannst heute noch {0} Mal an der Arena der Talente teilnehmen.
 TALENT_ARENA_CLOSED: Arena der Talente ist geschlossen.
 TALENT_ARENA_NO_ENTRIES: Du kannst die Arena der Talente heute nicht mehr betreten.
 TALENT_ARENA_NOT_FOUND: Nicht gefunden.
