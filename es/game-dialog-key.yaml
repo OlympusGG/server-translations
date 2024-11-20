@@ -193,6 +193,7 @@ BID_NOTIFMESSAGE_NEW_BID: Alguien ha hecho una nueva puja por tu artículo.
 BID_NOTIFMESSAGE_OVERBID: Has sido superado en la puja.
 BID_NOTIFMESSAGE_SOLD_ITEM: La subasta ha terminado con un postor.
 BID_NOTIFMESSAGE_TITLE: Sistema de Pujas
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: El jugador {0} ha sido añadido a la lista negra.
 BLACKLIST_INFO_BLOCKED: Has sido bloqueado.
 BLACKLIST_INFO_BLOCKING: Este jugador está en tu lista negra.

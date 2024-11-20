@@ -197,6 +197,7 @@ BID_NOTIFMESSAGE_NEW_BID: Někdo přihodil na tvůj předmět.
 BID_NOTIFMESSAGE_OVERBID: Byl jsi přeplacen.
 BID_NOTIFMESSAGE_SOLD_ITEM: Aukce skončila s alespoň jedním zájemcem.
 BID_NOTIFMESSAGE_TITLE: Systém aukcí
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: Hráč {0} byl přidán na černou listinu.
 BLACKLIST_INFO_BLOCKED: Byli jste zablokováni.
 BLACKLIST_INFO_BLOCKING: Tento hráč je na vašem blacklistu.

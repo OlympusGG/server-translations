@@ -178,6 +178,7 @@ BID_NOTIFMESSAGE_NEW_BID: Someone placed a new bid on your item.
 BID_NOTIFMESSAGE_OVERBID: You have been outbid.
 BID_NOTIFMESSAGE_SOLD_ITEM: The auction has ended with a bidder.
 BID_NOTIFMESSAGE_TITLE: Bidding System
+BID_QNA_HIGH_PRICE_WARNING: 'Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)'
 BLACKLIST_INFO_ADDED: Player {0} is added to blacklist.
 BLACKLIST_INFO_BLOCKED: You have been blocked.
 BLACKLIST_INFO_BLOCKING: This player is on your blacklist.

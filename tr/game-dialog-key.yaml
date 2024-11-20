@@ -199,6 +199,7 @@ BID_NOTIFMESSAGE_NEW_BID: Birisi eşyan için yeni bir teklif verdi.
 BID_NOTIFMESSAGE_OVERBID: Üst teklifi bir başkası verdi.
 BID_NOTIFMESSAGE_SOLD_ITEM: Açık artırma bir teklif verenle sona erdi.
 BID_NOTIFMESSAGE_TITLE: Teklif Sistemi
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: Oyuncu {0} kara listeye eklendi.
 BLACKLIST_INFO_BLOCKED: Engellendin.
 BLACKLIST_INFO_BLOCKING: Bu oyuncu senin kara listen de.

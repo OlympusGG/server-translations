@@ -202,6 +202,7 @@ BID_NOTIFMESSAGE_NEW_BID: Ktoś złożył nową ofertę na twój przedmiot.
 BID_NOTIFMESSAGE_OVERBID: Twoja oferta została przebita.
 BID_NOTIFMESSAGE_SOLD_ITEM: Aukcja zakończyła poprzez licytację.
 BID_NOTIFMESSAGE_TITLE: System Licytacji
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: Gracz {0} został dodany do czarnej listy.
 BLACKLIST_INFO_BLOCKED: Zostałeś zablokowany.
 BLACKLIST_INFO_BLOCKING: Ten gracz jest na twojej czarnej liście.

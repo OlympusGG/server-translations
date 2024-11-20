@@ -196,6 +196,7 @@ BID_NOTIFMESSAGE_NEW_BID: Quelqu'un a fait une nouvelle offre sur votre objet.
 BID_NOTIFMESSAGE_OVERBID: Vous avez été surenchéri.
 BID_NOTIFMESSAGE_SOLD_ITEM: L'enchère s'est terminée avec un enchérisseur.
 BID_NOTIFMESSAGE_TITLE: Système d'enchères
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: Le joueur {0} a été ajouté à la liste noire.
 BLACKLIST_INFO_BLOCKED: Tu as été bloqué.
 BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
