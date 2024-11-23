@@ -165,6 +165,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
@@ -176,7 +177,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -202,7 +205,7 @@ BID_NOTIFMESSAGE_NEW_BID: Ktoś złożył nową ofertę na twój przedmiot.
 BID_NOTIFMESSAGE_OVERBID: Twoja oferta została przebita.
 BID_NOTIFMESSAGE_SOLD_ITEM: Aukcja zakończyła poprzez licytację.
 BID_NOTIFMESSAGE_TITLE: System Licytacji
-BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
+BID_QNA_HIGH_PRICE_WARNING: Czy jesteś pewny swojej oferty {0} złota za {1} ? ({2}% więcej niż aktualna oferta)
 BLACKLIST_INFO_ADDED: Gracz {0} został dodany do czarnej listy.
 BLACKLIST_INFO_BLOCKED: Zostałeś zablokowany.
 BLACKLIST_INFO_BLOCKING: Ten gracz jest na twojej czarnej liście.
@@ -445,8 +448,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Za mało reputacji.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Twój poziom jest zbyt niski.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Ten przedmiot nie należy do ciebie.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: Medal NosHandlarza jest aktywny.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: 'Twój Medal Poszukiwacza Przygód zniknie: {0}'
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: 'Twój Medal Mistrza zniknie: {0}'
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformacja Partnera Specjalisty w odnowieniu: {0} sekund'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Reputacja: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Reputacja: +{0}'
@@ -973,10 +976,10 @@ RUNE_MSG_UPGRADE_FAILED: Ulepszenie runy nie powiodło się.
 RUNE_MSG_UPGRADE_RUINED: Przedmiot został uszkodzony w trakcie.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
-SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
-SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Najpierw musisz użyć poprzednich dźwigni.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} wygrał/a zabawę w podchody!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: Zabawa w podchody rozpocznie się za {0} minut.
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: Zabawa w podchody rozpocznie się za {0} sekund(y).
 SHEEP_GAME_EVENT_NAME: Owcza Gra
 SHEEP_GAME_SHOUT_END_PREPARATION: Zostaniesz teleportowany z powrotem za {0} sekund
 SHEEP_GAME_SHOUT_START_PREPARATION: Gra rozpocznie się za {0} sekund.
@@ -1063,7 +1066,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Chcesz otrzymać tymczasowego Specjalistę Pirat
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Już otrzymałeś ten przedmiot.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Gracz {0} otrzymał {1} od Jacka Panona!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Masz zakaz wstępu do Areny Talentów przez {0}.
-TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: W dzisiejszym dniu możesz wziąć udział jeszcze {0} razy w Arenie Talentów.
 TALENT_ARENA_CLOSED: Arena Talentów jest zamknięta.
 TALENT_ARENA_NO_ENTRIES: Nie masz już żadnych wejść do Areny Talentów.
 TALENT_ARENA_NOT_FOUND: Nie znaleziono.
