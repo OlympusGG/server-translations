@@ -172,7 +172,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
+
 
 
 
@@ -209,6 +211,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   Es gibt keine Bestätigungsabfrage für den Biet-Knopf, um ein schnelles bieten zu gewährleisten, also sei vorsichtig.
 
 
@@ -223,7 +226,7 @@ BID_NOTIFMESSAGE_NEW_BID: Jemand hat ein neues Gebot auf deinen Gegenstand abgeg
 BID_NOTIFMESSAGE_OVERBID: Du wurdest überboten.
 BID_NOTIFMESSAGE_SOLD_ITEM: Die Auktion ist mit einem Bieter zu Ende gegangen.
 BID_NOTIFMESSAGE_TITLE: Biet-System
-BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
+BID_QNA_HIGH_PRICE_WARNING: Bist du dir sicher, dass du {0} Gold auf {1} bieten willst ? ({2}% höher als das momentan höchste Gebot)
 BLACKLIST_INFO_ADDED: Spieler{0} wurde zur Schwarzen Liste hinzugefügt.
 BLACKLIST_INFO_BLOCKED: Du wurdest blockiert.
 BLACKLIST_INFO_BLOCKING: Dieser Spieler steht auf deiner Schwarzen Liste.
