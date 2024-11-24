@@ -1,11 +1,11 @@
 ACCOUNT_INFO_BAD_ID: Yanlış kullanıcı adı.
-ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Bu, bir yığındaki item limit miktarını aşıyor
+ACCOUNT_INFO_DEPOSIT_INPUT_QUANTITY_OUT_OF_BOUNDS: Bir yığında olabilecek eşya sayısını aşıyor
 ACCOUNT_INFO_DEPOSIT_ITEM_NOT_FOUND: Item bulunamadı
-ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Bu, bir yığındaki item limit miktarını aşıyor
-ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Bu yuva zaten başka bir item tarafından kullanılıyor, yatıramam üzgünüm
-ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Bu item yığınlamaz ve hedef yuvada başka bir item var
+ACCOUNT_INFO_DEPOSIT_ITEM_STACK_ABOVE_LIMIT: Bir yığında olabilecek eşya sayısını aşıyor.
+ACCOUNT_INFO_DEPOSIT_SLOT_ALREADY_USED_DIFFERENT_ITEM: Bu yuva zaten başka bir item tarafından kullanılıyor, üzgünüm koyamam.
+ACCOUNT_INFO_SERVICE_DEPOSIT_SLOT_ALREADY_USED_UNSTACKABLE_ITEM: Bu item biriktirilemez ve hedef slotun üzerinde başka bir item var.
 ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Depo bakım altında.
-ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Belirtilen yuvada yeterli item yok
+ACCOUNT_INFO_SERVICE_WITHDRAW_ITEM_NOT_ENOUGH_QUANTITY: Belirtilen yuvada alınabilicek kadar yeterli bir item yok.
 ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 ACHIEVEMENT_COMPLETED: Başarı tamamlandı.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu act'i atlamak için en az {0} seviyesinde olmalısın.
@@ -164,6 +164,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
@@ -174,7 +175,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
 
@@ -199,7 +202,7 @@ BID_NOTIFMESSAGE_NEW_BID: Birisi eşyan için yeni bir teklif verdi.
 BID_NOTIFMESSAGE_OVERBID: Üst teklifi bir başkası verdi.
 BID_NOTIFMESSAGE_SOLD_ITEM: Açık artırma bir teklif verenle sona erdi.
 BID_NOTIFMESSAGE_TITLE: Teklif Sistemi
-BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
+BID_QNA_HIGH_PRICE_WARNING: '{0} altın vererek {1} için teklif vermek istediğine emin misin? (Şu anki en yüksek tekliften %{2} daha yüksek)'
 BLACKLIST_INFO_ADDED: Oyuncu {0} kara listeye eklendi.
 BLACKLIST_INFO_BLOCKED: Engellendin.
 BLACKLIST_INFO_BLOCKING: Bu oyuncu senin kara listen de.
@@ -442,8 +445,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Yeterli itibarın yok.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Seviyen çok düşük.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Bu eşya senin değil.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: NosTüccar Madalyası şu anda aktif.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Maceracı Madalyan {0} tarihinde süresi dolacak.
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Şampiyonlar Madalyan {0} tarihinde süresi dolacak.
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Ortak Uzman dönüşümü beklemede: {0} saniye'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'İtibar: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'İtibar: +{0}'
@@ -970,10 +973,10 @@ RUNE_MSG_UPGRADE_FAILED: Run yükseltme başarısız oldu.
 RUNE_MSG_UPGRADE_RUINED: İşlem sırasında ekipman hasar gördü.
 RUNE_MSG_UPGRADE_SUCCESS: Tebrikler, run eklendi.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Bu silah başka bir oyuncuya ait. Sadece kendi silahlarına run ekleyebilirsin.
-SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
-SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Önceki kolları aktifleştirmen gerekiyor.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} define avını kazandı!'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: Define Avı {0} dakika içinde başlayacak.
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: Define Avı {0} saniye içinde başlayacak.
 SHEEP_GAME_EVENT_NAME: Koyun Oyunu
 SHEEP_GAME_SHOUT_END_PREPARATION: '{0} saniye içinde geri ışınlanacaksın'
 SHEEP_GAME_SHOUT_START_PREPARATION: Oyun {0} saniye içinde başlayacak.
@@ -1060,7 +1063,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Geçici bir Korsan Uzmanı almak ister misin? Bu
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Bu öğeyi zaten aldın.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Oyuncu {0}, Jack Panon'dan {1} aldı!
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Yetenek Arenası'na katılmak için {0} süreyle yasaklandın.
-TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: Bugün Yetenekler Arenası'na {0} kez daha katılabilirsin.
 TALENT_ARENA_CLOSED: Yetenek Arenası kapalı.
 TALENT_ARENA_NO_ENTRIES: Yetenek Arenası'na giriş hakkın kalmadı.
 TALENT_ARENA_NOT_FOUND: Bulunamadı.
