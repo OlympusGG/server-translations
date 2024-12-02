@@ -194,3 +194,15 @@ TS_OLORUN_TEXT_3: Reinige die Ritualstätte im Süden, um das Leiden des Bestien
 TS_OLORUN_TEXT_4: Belial ist gekommen, um die Orks auszulöschen. Du musst ihn aufhalten.
 TS_OLORUN_TEXT_5: Ziehe den Hebel, um den Weg für deinen Freund zu öffnen
 TS_OLORUN_TEXT_6: Reinige die Ritualstätte im Süden, um das Leiden des Geisterkönigs zu beenden
+TS_A4_NAME: Elementarer Amoklauf
+TS_A4_DESCRIPTION: Die Elementarherren sind auf einem Amoklauf, du musst sie stoppen
+TS_A4_TEXT_1: Schnell, du musst einen Weg in ihren Thronsaal finden
+TS_A4_TEXT_2: Wähle einen von vier Pfaden und finde und besiege den Herrscher
+TS_A4_TEXT_LIGHT_1: Sie versuchen dich daran zu hindern, Berios zu erreichen, überwältige sie alle
+TS_A4_TEXT_2_LIGHT_2: Schnell! Töte Berios und dann flieh, du kannst sie nicht alle besiegen
+TS_A4_TEXT_SHADOW_1: Sie versuchen dich daran zu hindern, Hatus zu erreichen, überwältige sie alle
+TS_A4_TEXT_SHADOW_2: Schnell! Töte Hatus und dann flieh, du kannst sie nicht alle besiegen
+TS_A4_TEXT_FIRE_1: Sie versuchen dich daran zu hindern, Morcos zu erreichen, überwältige sie alle
+TS_A4_TEXT_FIRE_2: Schnell! Töte Morcos und dann flieh, du kannst sie nicht alle besiegen
+TS_A4_TEXT_WATER_1: Sie versuchen dich daran zu hindern, Calvinas zu erreichen, überwältige sie alle
+TS_A4_TEXT_WATER_2: Schnell! Töte Calvinas und dann flieh, du kannst sie nicht alle besiegen
