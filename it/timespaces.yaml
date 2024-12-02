@@ -194,3 +194,15 @@ TS_OLORUN_TEXT_3: Purifica il sito rituale a sud per porre fine alle sofferenze 
 TS_OLORUN_TEXT_4: Belial è arrivato per sterminare gli Orchi. Devi fermarlo.
 TS_OLORUN_TEXT_5: Aziona la leva per aprire il passaggio per il tuo amico
 TS_OLORUN_TEXT_6: Purifica il sito rituale a sud per porre fine alle sofferenze del Re Spettro
+TS_A4_NAME: Furia Elementale
+TS_A4_DESCRIPTION: I Signori Elementali sono impazziti, devi fermarli
+TS_A4_TEXT_1: Presto, devi trovare un modo per entrare nella loro sala del trono
+TS_A4_TEXT_2: Scegli uno dei quattro percorsi e trova e sconfiggi il Signore
+TS_A4_TEXT_LIGHT_1: Stanno cercando di fermarti dal raggiungere Berios, catturali tutti
+TS_A4_TEXT_2_LIGHT_2: Presto! Uccidi Berios e poi fuggi, non puoi sconfiggerli tutti
+TS_A4_TEXT_SHADOW_1: Stanno cercando di fermarti dal raggiungere Hatus, catturali tutti
+TS_A4_TEXT_SHADOW_2: Presto! Uccidi Hatus e poi fuggi, non puoi sconfiggerli tutti
+TS_A4_TEXT_FIRE_1: Stanno cercando di fermarti dal raggiungere Morcos, catturali tutti
+TS_A4_TEXT_FIRE_2: Presto! Uccidi Morcos e poi fuggi, non puoi sconfiggerli tutti
+TS_A4_TEXT_WATER_1: Stanno cercando di fermarti dal raggiungere Calvinas, catturali tutti
+TS_A4_TEXT_WATER_2: Presto! Uccidi Calvinas e poi fuggi, non puoi sconfiggerli tutti
