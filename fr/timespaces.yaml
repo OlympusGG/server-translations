@@ -194,3 +194,15 @@ TS_OLORUN_TEXT_5: Actionne le levier pour ouvrir le chemin pour ton ami
 TS_OLORUN_TEXT_6: Purifie le site rituel au sud pour mettre fin aux souffrances du Roi des Esprits
 TS_OLORUN_NAME: Ombre sur Olorun
 TS_OLORUN_DESCRIPTION: Vaincs Belial et ses alliés qui ont retrouvé leur force et menacent à nouveau les orcs d'Olorun
+TS_A4_NAME: Déchaînement Élémentaire
+TS_A4_DESCRIPTION: Les Seigneurs Élémentaires sont en déchaînement, tu dois les arrêter
+TS_A4_TEXT_1: Dépêche-toi de trouver un moyen d'entrer dans leur salle du trône
+TS_A4_TEXT_2: Choisis l'un des quatre chemins, trouve et vaincs le Seigneur
+TS_A4_TEXT_LIGHT_1: Ils essaient de t'empêcher d'atteindre Berios, neutralise-les tous
+TS_A4_TEXT_2_LIGHT_2: Vite ! Tue Berios puis fuis, tu ne peux pas tous les vaincre
+TS_A4_TEXT_SHADOW_1: Ils essaient de t'empêcher d'atteindre Hatus, neutralise-les tous
+TS_A4_TEXT_SHADOW_2: Vite ! Tue Hatus puis fuis, tu ne peux pas tous les vaincre
+TS_A4_TEXT_FIRE_1: Ils essaient de t'empêcher d'atteindre Morcos, neutralise-les tous
+TS_A4_TEXT_FIRE_2: Vite ! Tue Morcos puis fuis, tu ne peux pas tous les vaincre
+TS_A4_TEXT_WATER_1: Ils essaient de t'empêcher d'atteindre Calvinas, neutralise-les tous
+TS_A4_TEXT_WATER_2: Vite ! Tue Calvinas puis fuis, tu ne peux pas tous les vaincre

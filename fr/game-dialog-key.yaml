@@ -163,6 +163,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -172,7 +173,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -196,7 +199,7 @@ BID_NOTIFMESSAGE_NEW_BID: Quelqu'un a fait une nouvelle offre sur votre objet.
 BID_NOTIFMESSAGE_OVERBID: Vous avez été surenchéri.
 BID_NOTIFMESSAGE_SOLD_ITEM: L'enchère s'est terminée avec un enchérisseur.
 BID_NOTIFMESSAGE_TITLE: Système d'enchères
-BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
+BID_QNA_HIGH_PRICE_WARNING: Êtes-vous sûr de vouloir enchérir {0} d'or sur {1} ? ? ({2}% de plus que l'enchère la plus élevée)
 BLACKLIST_INFO_ADDED: Le joueur {0} a été ajouté à la liste noire.
 BLACKLIST_INFO_BLOCKED: Tu as été bloqué.
 BLACKLIST_INFO_BLOCKING: Ce joueur est sur ta liste noire.
@@ -439,8 +442,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Pas assez de réputation.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Ton niveau est trop bas.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Cet objet n'est pas à toi.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: La Médaille de NosMarchand est actuellement active.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Your Medal of Adventurers will expire on {0}
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Your Medal of Champions will expire on {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Votre médaille des aventuriers expirera le {0}
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Votre médaille des champions expirera le {0}
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Transformation en Spécialiste Partenaire en cours de recharge : {0} secondes'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'Réputation : -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'Réputation : +{0}'
@@ -967,10 +970,10 @@ RUNE_MSG_UPGRADE_FAILED: Amélioration de rune échouée.
 RUNE_MSG_UPGRADE_RUINED: L'équipement a été endommagé dans le processus.
 RUNE_MSG_UPGRADE_SUCCESS: Félicitations, la rune a été ajoutée.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Cette arme est liée à un autre joueur. Tu ne peux graver des runes que sur tes propres armes.
-SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
-SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: The Scavenger Hunt will start in {0} minute(s).
-SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: The Scavenger Hunt will start in {0} seconds.
+SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Vous devez d'abord activer les leviers précédents.
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} a gagné la chasse au trésor !'
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: La chasse au trésor commencera dans {0} minute(s).
+SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: La chasse au trésor commencera dans {0} secondes.
 SHEEP_GAME_EVENT_NAME: Jeu de Moutons
 SHEEP_GAME_SHOUT_END_PREPARATION: Tu seras téléporté(e) dans {0} secondes
 SHEEP_GAME_SHOUT_START_PREPARATION: Le jeu commencera dans {0} secondes.
@@ -1057,7 +1060,7 @@ SUMMER_EVENT_INFO_TEMPORARY_SP: Veux-tu recevoir un Spécialiste Pirate temporai
 SUMMER_EVENT_MSG_ALREADY_RECEIVED_SP: Tu as déjà reçu cet objet.
 SUMMER_EVENT_SHOUT_JACKPOT_GAMBLE: Le joueur {0} a reçu {1} de la part de Jack Panon !
 TALENT_ARENA_CHATMESSAGE_BANNED_FOR_X_TIME: Tu es banni de l'Arène des Talents pour {0}.
-TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: You can still participate {0} times in the Arena of Talents today.
+TALENT_ARENA_CHATMESSAGE_REMAINING_ENTRIES: Vous pouvez encore participer {0} fois à l'Arène des talents aujourd'hui.
 TALENT_ARENA_CLOSED: L'Arène des Talents est fermée.
 TALENT_ARENA_NO_ENTRIES: Tu n'as plus d'entrée pour l'Arène des Talents.
 TALENT_ARENA_NOT_FOUND: Introuvable.

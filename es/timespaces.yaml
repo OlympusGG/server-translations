@@ -194,3 +194,15 @@ TS_OLORUN_TEXT_3: Purifica el lugar del ritual en el sur para acabar con el sufr
 TS_OLORUN_TEXT_4: Belial ha llegado para erradicar a los Orcos. Debes detenerlo.
 TS_OLORUN_TEXT_5: Acciona la palanca para abrir el camino para tu amigo
 TS_OLORUN_TEXT_6: Purifica el lugar del ritual en el sur para acabar con el sufrimiento del Rey Espíritu
+TS_A4_NAME: Furia Elemental
+TS_A4_DESCRIPTION: Los Señores Elementales están desatados, necesitas detenerlos
+TS_A4_TEXT_1: Rápido, necesitas encontrar una manera de entrar a su sala del trono
+TS_A4_TEXT_2: Elige uno de los cuatro caminos y encuentra y derrota al Señor
+TS_A4_TEXT_LIGHT_1: Están intentando detenerte para que no llegues a Berios, captúralos a todos
+TS_A4_TEXT_2_LIGHT_2: ¡Rápido! Mata a Berios y luego huye, no puedes derrotarlos a todos
+TS_A4_TEXT_SHADOW_1: Están intentando detenerte para que no llegues a Hatus, captúralos a todos
+TS_A4_TEXT_SHADOW_2: ¡Rápido! Mata a Hatus y luego huye, no puedes derrotarlos a todos
+TS_A4_TEXT_FIRE_1: Están intentando detenerte para que no llegues a Morcos, captúralos a todos
+TS_A4_TEXT_FIRE_2: ¡Rápido! Mata a Morcos y luego huye, no puedes derrotarlos a todos
+TS_A4_TEXT_WATER_1: Están intentando detenerte para que no llegues a Calvinas, captúralos a todos
+TS_A4_TEXT_WATER_2: ¡Rápido! Mata a Calvinas y luego huye, no puedes derrotarlos a todos
