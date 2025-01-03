@@ -10,6 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please tr
 ACHIEVEMENT_COMPLETED: Achievement completed.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: You must be at least at level {0} to skip this act.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Do you want to leave the dungeon?
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
 ACT4_CALIGOR_MAP_FULL: Caligor Realm is full.
 ACT4_CALIGOR_REVIVAL_DIALOG: Do you want to revive at Caligor Realm's entrance?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor started.
@@ -178,7 +179,7 @@ BID_NOTIFMESSAGE_NEW_BID: Someone placed a new bid on your item.
 BID_NOTIFMESSAGE_OVERBID: You have been outbid.
 BID_NOTIFMESSAGE_SOLD_ITEM: The auction has ended with a bidder.
 BID_NOTIFMESSAGE_TITLE: Bidding System
-BID_QNA_HIGH_PRICE_WARNING: 'Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)'
+BID_QNA_HIGH_PRICE_WARNING: Are you sure you want to bid {0} gold on {1} ? ({2}% higher than current highest bid)
 BLACKLIST_INFO_ADDED: Player {0} is added to blacklist.
 BLACKLIST_INFO_BLOCKED: You have been blocked.
 BLACKLIST_INFO_BLOCKING: This player is on your blacklist.
@@ -344,6 +345,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Your friend list is full.
 FRIEND_INFO_REFUSED: Friend request refused.
 FRIEND_INFO_REQUEST_BLOCKED: The player is blocking friend requests.
 FRIEND_MESSAGE_NOT_FRIEND: You need to be friends to do that.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: This player isn't in your friendlist.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Your friend is in the enemy faction.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: You can't gamble with fixed level items.
@@ -545,6 +547,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: You can't change into the same faction.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: You can't use the same wings.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: You can't change into mount because of a negative effect.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: This item is disabled in Multiverse.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: This item has been disabled temporarily.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: This item is only usable in Multiverse.
@@ -948,6 +951,8 @@ RUNE_MSG_REPAIRED: Repaired the damaged weapon.
 RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The equipment was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added.
+RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} won the scavenger hunt!'
@@ -988,6 +993,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: You can't open a shop during raid.
 SHOP_INFO_OPEN: Shop has been opened.
 SHOP_INFO_TARGET_MAX_GOLD: The player has reached maximum gold amount.
 SHOP_LOG_SELL_ITEM_VALID: Transaction successful
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: You have already learnt this skill.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: You can't learn skills while transformed.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: You need to learn the basic skill first.

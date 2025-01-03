@@ -10,6 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Wystąpił nieoczekiwany błąd. Prosz�
 ACHIEVEMENT_COMPLETED: Osiągnięcie zdobyte.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Musisz być przynajmniej na poziomie {0}, aby pominąć ten akt.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Czy chcesz opuścić loch?
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
 ACT4_CALIGOR_MAP_FULL: Królestwo Caligora jest pełne.
 ACT4_CALIGOR_REVIVAL_DIALOG: Czy chcesz odrodzić się przy wejściu do Królestwa Caligora?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor się rozpoczął.
@@ -371,6 +372,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Twoja lista przyjaciół jest pełna.
 FRIEND_INFO_REFUSED: Odrzucono zaproszenie do grona przyjaciół.
 FRIEND_INFO_REQUEST_BLOCKED: Gracz blokuje zaproszenia do grona przyjaciół.
 FRIEND_MESSAGE_NOT_FRIEND: Musicie być przyjaciółmi, żeby to zrobić.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Ten gracz nie jest na Twojej liście przyjaciół.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Przyjaciel znajduje się we wrogiej frakcji.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Nie możesz hazardować utrwalonych przedmiotów.
@@ -572,6 +574,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nie możesz zmienić na tę samą frakcję.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nie możesz użyć tych samych skrzydeł.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nie możesz zmienić się w wierzchowca z powodu negatywnego efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Ten przedmiot jest wyłączony w Multiwersum.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Ten przedmiot został tymczasowo wyłączony.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Ten przedmiot można używać tylko w Multiwersum.
@@ -975,6 +978,8 @@ RUNE_MSG_REPAIRED: Naprawiono uszkodzoną broń.
 RUNE_MSG_UPGRADE_FAILED: Ulepszenie runy nie powiodło się.
 RUNE_MSG_UPGRADE_RUINED: Przedmiot został uszkodzony w trakcie.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
+RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Najpierw musisz użyć poprzednich dźwigni.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} wygrał/a zabawę w podchody!'
@@ -1015,6 +1020,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Nie możesz otworzyć sklepu podczas rajdu.
 SHOP_INFO_OPEN: Sklep został otwarty.
 SHOP_INFO_TARGET_MAX_GOLD: Gracz posiada maksymalną ilość złota.
 SHOP_LOG_SELL_ITEM_VALID: Handel zakończony pomyślnie
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Nauczyłeś się już tej umiejętności.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Nie możesz nauczyć się umiejętności, gdy jesteś w trakcie transformacji.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Musisz zakupić podstawową umiejętność dla tego ulepszenia.

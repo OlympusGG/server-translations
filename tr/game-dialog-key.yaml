@@ -10,6 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir hata oluştu. Lütfen d
 ACHIEVEMENT_COMPLETED: Başarı tamamlandı.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu act'i atlamak için en az {0} seviyesinde olmalısın.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Zindandan ayrılmak istiyor musun?
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
 ACT4_CALIGOR_MAP_FULL: Caligor Diyarı dolu.
 ACT4_CALIGOR_REVIVAL_DIALOG: Caligor Diyarı'nın girişinde canlanmak ister misin?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor başladı.
@@ -368,6 +369,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Arkadaş listesi dolu.
 FRIEND_INFO_REFUSED: Arkadaşlık isteği reddedildi.
 FRIEND_INFO_REQUEST_BLOCKED: Oyuncu arkadaşlık isteklerini engelliyor.
 FRIEND_MESSAGE_NOT_FRIEND: Bunu yapabilmek için arkadaş olmanız gerekiyor.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Bu oyuncu arkadaş listende değil.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Arkadaşın düşman fraksiyonda.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Sabit seviyeli eşyalarla kumar oynayamazsın.
@@ -569,6 +571,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Aynı fraksiyona geçemezsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Aynı kanatları kullanamazsın.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Olumsuz bir etki nedeniyle mount'a dönüşemezsin.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Bu item çoklu evrende devre dışı.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu eşya geçici olarak devre dışı bırakıldı.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Bu item sadece Çoklu Evrende kullanılabilir.
@@ -972,6 +975,8 @@ RUNE_MSG_REPAIRED: Hasar görmüş silah tamir edildi.
 RUNE_MSG_UPGRADE_FAILED: Run yükseltme başarısız oldu.
 RUNE_MSG_UPGRADE_RUINED: İşlem sırasında ekipman hasar gördü.
 RUNE_MSG_UPGRADE_SUCCESS: Tebrikler, run eklendi.
+RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Bu silah başka bir oyuncuya ait. Sadece kendi silahlarına run ekleyebilirsin.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Önceki kolları aktifleştirmen gerekiyor.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} define avını kazandı!'
@@ -1012,6 +1017,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Akın sırasında dükkan açamazsın.
 SHOP_INFO_OPEN: Dükkan açıldı.
 SHOP_INFO_TARGET_MAX_GOLD: Oyuncu maksimum altın miktarına ulaştı.
 SHOP_LOG_SELL_ITEM_VALID: İşlem başarılı
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Bu yeteneği zaten öğrendin.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Dönüşmüşken yetenek öğrenemezsin.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Önce temel yeteneği öğrenmelisin.

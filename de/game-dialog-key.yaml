@@ -10,6 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ein unerwarteter Fehler ist aufgetreten
 ACHIEVEMENT_COMPLETED: Erfolg abgeschlossen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Du musst mindestens Level {0} sein, um diesen Akt zu überspringen.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Möchtest du diesen Dungeon verlassen?
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
 ACT4_CALIGOR_MAP_FULL: Caligor`s Reich ist voll.
 ACT4_CALIGOR_REVIVAL_DIALOG: Möchtest du am Eingang des Caligor Reichs wiederbelebt werden?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor hat begonnen.
@@ -392,6 +393,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Deine Freundesliste ist voll.
 FRIEND_INFO_REFUSED: Freundschaftsanfrage abgelehnt.
 FRIEND_INFO_REQUEST_BLOCKED: Der Spieler blockiert Freundschaftsanfragen.
 FRIEND_MESSAGE_NOT_FRIEND: Ihr müsst Freunde sein, um das zu tun.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Dieser Spieler ist nicht in deiner Freundesliste.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Dein Freund ist in der feindlichen Fraktion.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Du kannst Gegenstände mit fixiertem Level nicht wetten.
@@ -593,6 +595,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Du kannst nicht in dieselbe Fraktion wechseln.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Du kannst nicht die gleichen Flügel benutzen.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Auf Grund eines negativen Effekts kannst du nicht auf dein Fortbewegungsmittel aufsteigen.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#GEGENSTAND_RUFNACHRICHT_WOA_NICHT_GENUG_LEVEL'
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Dieser Gegenstand ist im Multiverse deaktiviert.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Dieser Gegenstand wurde vorübergehend deaktiviert.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Dieser Gegenstand ist nur im Multiverse verwendbar.
@@ -996,6 +999,8 @@ RUNE_MSG_REPAIRED: Die beschädigte Waffe wurde repariert.
 RUNE_MSG_UPGRADE_FAILED: Runen-Upgrade fehlgeschlagen.
 RUNE_MSG_UPGRADE_RUINED: Die Ausrüstung wurde dabei beschädigt.
 RUNE_MSG_UPGRADE_SUCCESS: Glückwunsch, die Rune wurde hinzugefügt.
+RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur Runen in deine eigenen Waffen schnitzen.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Du musst die vorherigen Hebel zuerst aktivieren.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} hat die Schnitzeljagt gewonnen!'
@@ -1036,6 +1041,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Du kannst während eines Raids keinen Shop eröff
 SHOP_INFO_OPEN: Shop wurde eröffnet.
 SHOP_INFO_TARGET_MAX_GOLD: Der Spieler hat die maximale Goldmenge erreicht.
 SHOP_LOG_SELL_ITEM_VALID: Transaktion erfolgreich
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Du hast diese Fähigkeit bereits erlernt.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Du kannst keine Fähigkeiten erlernen, während du verwandelt bist.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Du musst zuerst die Grundfähigkeit erlernen.

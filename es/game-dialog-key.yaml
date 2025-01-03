@@ -10,6 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor
 ACHIEVEMENT_COMPLETED: Logro completado.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Debes ser al menos nivel {0} para saltarte este acto.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: ¿Quieres salir de la mazmorra?
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
 ACT4_CALIGOR_MAP_FULL: El Reino de Caligor está lleno.
 ACT4_CALIGOR_REVIVAL_DIALOG: ¿Quieres revivir en la entrada del Reino de Caligor?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor ha comenzado.
@@ -362,6 +363,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Tu lista de amigos está llena.
 FRIEND_INFO_REFUSED: Solicitud de amistad rechazada.
 FRIEND_INFO_REQUEST_BLOCKED: El jugador está bloqueando las solicitudes de amistad.
 FRIEND_MESSAGE_NOT_FRIEND: Necesitáis ser amigos para hacer eso.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Este jugador no está en tu lista de amigos.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tu amigo está en la facción enemiga.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: No puedes apostar con objetos de nivel fijo.
@@ -563,6 +565,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: No puedes cambiar a la misma facción.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: No puedes usar las mismas alas.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: No puedes subirte a la montura debido a un efecto negativo.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Este objeto está deshabilitado en el multiverso.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Este objeto ha sido desactivado temporalmente.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Este ítem solo se puede usar en el Multiverso.
@@ -966,9 +969,11 @@ RUNE_MSG_REPAIRED: Arma dañada reparada.
 RUNE_MSG_UPGRADE_FAILED: La mejora de la runa falló.
 RUNE_MSG_UPGRADE_RUINED: El equipo se dañó en el proceso.
 RUNE_MSG_UPGRADE_SUCCESS: Felicidades, la runa ha sido añadida.
+RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Este arma está vinculada a otro jugador. Solo puedes tallar runas en tus propias armas.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Necesitas activar las palancas previas primero.
-SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '¡{0} ha ganado la Caza del Tesoro!'
+SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: ¡{0} ha ganado la Caza del Tesoro!
 SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_MINUTES: La Caza del Tesoro empezará en {0} minuto(s).
 SCAVENGER_HUNT_SHOUTMESSAGE_WARNING_SECONDS: La Caza del Tesoro empezará en {0} segundos.
 SHEEP_GAME_EVENT_NAME: Juego de Ovejas
@@ -1006,6 +1011,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: No puedes abrir una tienda durante un raid.
 SHOP_INFO_OPEN: La tienda ha sido abierta.
 SHOP_INFO_TARGET_MAX_GOLD: El jugador ha alcanzado la cantidad máxima de oro.
 SHOP_LOG_SELL_ITEM_VALID: Transacción exitosa
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Ya has aprendido esta habilidad.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: No puedes aprender habilidades mientras estás transformado.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Necesitas aprender la habilidad básica primero.
