@@ -10,7 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Došlo k neočekávané chybě. Zkus to
 ACHIEVEMENT_COMPLETED: Úspěch dosažen.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tvá úroveň musí být alespoň {0}, abys mohl přeskočit tuto část.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Opravdu chceš opustit místnost?
-ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: Neobdržel si žádnou odměnu, jelikož si nesplnil hranici požadovaný kontribučních bodů.
 ACT4_CALIGOR_MAP_FULL: Oblast Caligora je plná.
 ACT4_CALIGOR_REVIVAL_DIALOG: Chceš oživit u vchodu do Říše Caligora?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor začal.
@@ -167,6 +167,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
@@ -178,7 +179,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Vzdát se nabídky na aukční předmět.
+
 
 
 
@@ -370,7 +373,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Tvůj seznam přátel je plný.
 FRIEND_INFO_REFUSED: Žádost o přátelství odmítnuta.
 FRIEND_INFO_REQUEST_BLOCKED: Hráč blokuje žádosti o přátelství.
 FRIEND_MESSAGE_NOT_FRIEND: Musíš být přátelé, abys to mohl udělat.
-FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: Nemůžeš použit křídla přátelství během účasti na lovu odměn.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Tento hráč není ve tvém seznamu přátel.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Tvůj přítel je ve frakci nepřátel.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Nemůžeš hazardovat s předměty s pevnou úrovní.
@@ -572,7 +575,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Nemůžeš změnit frakci na stejnou.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Nemůžeš použít stejná křídla.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Nemůžeš se změnit na mounta kvůli negativnímu efektu.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: Tento předmět nelze použít během boje.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Tento předmět nelze použít v Multiverse oblasti.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Tento předmět byl dočasně zablokován.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Tento předmět lze použít pouze v Multiverse oblasti.
@@ -976,8 +979,8 @@ RUNE_MSG_REPAIRED: Poškozená zbraň opravena.
 RUNE_MSG_UPGRADE_FAILED: Vylepšení runy selhalo.
 RUNE_MSG_UPGRADE_RUINED: Vybavení bylo během procesu poškozeno.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulace, runa byla přidána.
-RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
-RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
+RUNE_POWER_SWITCH_QNA: Jste si jistý, že chceš změnit síly těchto run?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Síly run úspěšně změněny!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Tato zbraň je vázána na jiného hráče. Runy můžeš vyryt pouze do svých vlastních zbraní.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Nejprve musíte aktivovat předchozí páky.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} vyhrál scavenger lov!'
@@ -1018,7 +1021,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Během nájezdu nemůžeš otevřít obchod.
 SHOP_INFO_OPEN: Obchod byl otevřen.
 SHOP_INFO_TARGET_MAX_GOLD: Hráč dosáhl maximálního množství zlata.
 SHOP_LOG_SELL_ITEM_VALID: Transakce proběhla úspěšně
-SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Během boje nelze otevřít obchody.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Tuto dovednost už znáš.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Ve změněné podobě se nedají učit dovednosti.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Nejdřív se musíš naučit základní dovednost.
