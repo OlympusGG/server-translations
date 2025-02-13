@@ -10,7 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore imprevisto. 
 ACHIEVEMENT_COMPLETED: Obiettivo completato.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Devi essere almeno al livello {0} per saltare questo atto.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Vuoi uscire dal dungeon?
-ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: Non hai ottenuto ricompense perché non hai ottenuto abbastanza punti contribuzione.
 ACT4_CALIGOR_MAP_FULL: Il Regno di Caligor è pieno.
 ACT4_CALIGOR_REVIVAL_DIALOG: Vuoi rinascere all'entrata del Regno di Caligor?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor è iniziato.
@@ -166,6 +166,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
@@ -177,7 +178,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
 
 
 
@@ -369,7 +372,7 @@ FRIEND_INFO_FRIENDLIST_FULL: La tua lista amici è piena.
 FRIEND_INFO_REFUSED: Richiesta di amicizia rifiutata.
 FRIEND_INFO_REQUEST_BLOCKED: Il giocatore sta bloccando le richieste di amicizia.
 FRIEND_MESSAGE_NOT_FRIEND: Devi essere amici per fare questo.
-FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: Non puoi usare le ali dell'amicizia mentre partecipi ad una Caccia al Tesoro.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Questo giocatore non è nella tua lista amici.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Il tuo amico è nella fazione nemica.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Non puoi scommettere oggetti di livello fisso.
@@ -571,7 +574,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Non puoi cambiare nella stessa fazione.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Non puoi usare le stesse ali.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Non puoi trasformarti in una cavalcatura a causa di un effetto negativo.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: Questo oggetto non può essere usato durante il combattimento.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Questo oggetto è disabilitato nel Multiverso.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Questo oggetto è stato disabilitato temporaneamente.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Questo oggetto è utilizzabile solo nel Multiverso.
@@ -975,8 +978,8 @@ RUNE_MSG_REPAIRED: Arma danneggiata riparata.
 RUNE_MSG_UPGRADE_FAILED: Potenziamento della runa fallito.
 RUNE_MSG_UPGRADE_RUINED: L'equipaggiamento si è danneggiato nel processo.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulazioni, la runa è stata aggiunta.
-RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
-RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
+RUNE_POWER_SWITCH_QNA: Sei sicuro di voler scambiare questi poteri runici?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Poteri runici scambiati con successo!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Questa arma è legata a un altro giocatore. Puoi incidere rune solo sulle tue armi.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Devi prima attivare il livello precedente.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} ha vinto la caccia al tesoro!'
@@ -1017,7 +1020,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Non puoi aprire un negozio durante un raid.
 SHOP_INFO_OPEN: Il negozio è stato aperto.
 SHOP_INFO_TARGET_MAX_GOLD: Il giocatore ha raggiunto la quantità massima di oro.
 SHOP_LOG_SELL_ITEM_VALID: Transazione riuscita
-SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: I negozi non possono essere aperti durante i combattimenti.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Hai già imparato questa abilità.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Non puoi imparare abilità mentre sei trasformato.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Devi prima imparare l'abilità di base.
