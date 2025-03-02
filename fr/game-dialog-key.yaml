@@ -10,7 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur inattendue s'est produite. V
 ACHIEVEMENT_COMPLETED: Succès accompli.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Tu dois être au moins au niveau {0} pour passer cet acte.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Veux-tu quitter le donjon ?
-ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: Vous n'avez pas reçu de récompenses parce que vous n'avez pas obtenu suffisamment de points de contribution.
 ACT4_CALIGOR_MAP_FULL: Le Royaume de Caligor est plein.
 ACT4_CALIGOR_REVIVAL_DIALOG: Veux-tu ressusciter à l'entrée du Royaume de Caligor ?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor a commencé.
@@ -165,6 +165,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -175,7 +176,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -366,7 +369,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Ta liste d'amis est pleine.
 FRIEND_INFO_REFUSED: Demande d'ami refusée.
 FRIEND_INFO_REQUEST_BLOCKED: Le joueur bloque les demandes d'ami.
 FRIEND_MESSAGE_NOT_FRIEND: Il faut être amis pour faire ça.
-FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: Vous ne pouvez pas utiliser les ailes de l'amitié lorsque vous participez à une chasse au trésor.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Ce joueur n'est pas dans ta liste d'amis.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Ton ami est dans la faction ennemie.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Tu ne peux pas parier avec des objets de niveau fixe.
@@ -568,7 +571,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Tu ne peux pas changer pour la même faction.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Tu ne peux pas utiliser les mêmes ailes.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Tu ne peux pas te transformer en monture en raison d'un effet négatif.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: Cet objet ne peut pas être utilisé pendant un combat.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Cet objet est désactivé dans le Multiverse.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Cet objet a été désactivé temporairement.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Cet objet est utilisable uniquement dans le Multiverse.
@@ -972,8 +975,8 @@ RUNE_MSG_REPAIRED: Arme endommagée réparée.
 RUNE_MSG_UPGRADE_FAILED: Amélioration de rune échouée.
 RUNE_MSG_UPGRADE_RUINED: L'équipement a été endommagé dans le processus.
 RUNE_MSG_UPGRADE_SUCCESS: Félicitations, la rune a été ajoutée.
-RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
-RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
+RUNE_POWER_SWITCH_QNA: Êtes-vous sûr de vouloir échanger ces pouvoirs runiques ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Les pouvoirs runiques ont été échangés avec succès !
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Cette arme est liée à un autre joueur. Tu ne peux graver des runes que sur tes propres armes.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Vous devez d'abord activer les leviers précédents.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} a gagné la chasse au trésor !'
@@ -1014,7 +1017,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Tu ne peux pas ouvrir de magasin pendant un raid.
 SHOP_INFO_OPEN: La boutique est ouverte.
 SHOP_INFO_TARGET_MAX_GOLD: Le joueur a atteint le montant maximum d'or.
 SHOP_LOG_SELL_ITEM_VALID: Transaction réussie
-SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Les boutiques ne peuvent pas être ouvertes pendant les combats.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Tu as déjà appris cette compétence.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Tu ne peux pas apprendre de compétences en étant transformé.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Tu dois d'abord apprendre la compétence de base.
