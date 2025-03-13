@@ -886,6 +886,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir akın takımının parça
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın burada başlamıyor.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} {1} itemine sahip değil.'
 RAID_CHATMESSAGE_X_JOINED: '{0}, akın takımına katıldı.'
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: '{0} akını başlatmak ister misin?'
 RAID_DIALOG_INVITED_YOU: '{0} seni bir akın takımına davet etti. Kabul ediyor musun?'
 RAID_INFO_NO_EXIST: Akın mevcut değil!
@@ -895,6 +896,7 @@ RAID_MESSAGE_DISOLVED: Akın takımı dağıtıldı.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Akın Raporunu Aç
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: '{0} için takım istatistiklerine göz at.'
 RAID_NOTIFMESSAGE_REPORT_TITLE: Akın Raporu Hazır
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Bir oyuncunun gerekli mührü eksik.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
@@ -976,6 +978,7 @@ RUNE_MSG_UPGRADE_FAILED: Run yükseltme başarısız oldu.
 RUNE_MSG_UPGRADE_RUINED: İşlem sırasında ekipman hasar gördü.
 RUNE_MSG_UPGRADE_SUCCESS: Tebrikler, run eklendi.
 RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Bu silah başka bir oyuncuya ait. Sadece kendi silahlarına run ekleyebilirsin.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Önceki kolları aktifleştirmen gerekiyor.
@@ -1191,6 +1194,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: "{0}, {1}'in evlenme teklifini reddetti.
 WEEKLY_ACHIEVEMENTS_REFRESHED: Haftalık tekrarlanabilir başarılar yenilendi.
 WINGS_SWAPPER_DELAY_SWAPPING: Kanatlarını tekrar değiştirebilmek için {0} beklemen gerekiyor.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Bir yetenek kullandıktan sonra kanatlarını değiştirebilmek için {0} beklemen gerekiyor.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Ödül kazanmak için yeterli katılım puanı toplayamadınız.
 WORLD_BOSS_EVENT_NAME: Dünya Boss Etkinliği
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0}, {1} konumunda belirdi!'

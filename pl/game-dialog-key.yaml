@@ -892,6 +892,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nie jesteś członkiem żadnej drużyn
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ten rajd nie zaczyna się tutaj.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Gracz: {0} nie posiada przedmiotu {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} dołączył do drużyny.'
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: 'Czy chcesz wystartować rajd: {0}?'
 RAID_DIALOG_INVITED_YOU: Gracz {0} zaprosił cię do drużyny rajdu. Czy chcesz dołączyć?
 RAID_INFO_NO_EXIST: Rajd nie istnieje!
@@ -901,6 +902,7 @@ RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otwórz Raport z Rajdu
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Sprawdź statystyki swojego zespołu dla {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Graczowi brakuje potrzebnej pieczęci.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Wszyscy gracze są zamrożeni.
@@ -982,6 +984,7 @@ RUNE_MSG_UPGRADE_FAILED: Ulepszenie runy nie powiodło się.
 RUNE_MSG_UPGRADE_RUINED: Przedmiot został uszkodzony w trakcie.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
 RUNE_POWER_SWITCH_QNA: Czy jesteś pewny zmiany mocy runy?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Zmiana mocy runy zakończyła się powodzeniem.
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Najpierw musisz użyć poprzednich dźwigni.
@@ -1197,6 +1200,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} odrzucił zaręczyny gracza {1}.'
 WEEKLY_ACHIEVEMENTS_REFRESHED: Cotygodniowe osiągnięcia zostały odnowione.
 WINGS_SWAPPER_DELAY_SWAPPING: Musisz poczekać {0}, zanim będziesz mógł zmienić swoje skrzydła ponownie.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Musisz poczekać {0} po użyciu umiejętności, aby móc zmienić skrzydła.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Nie uzbierałeś wystarczającej ilości punktów uczestnictwa, aby otrzymać nagrodę.
 WORLD_BOSS_EVENT_NAME: Ogólnoświatowy Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} pojawił się w {1}!'

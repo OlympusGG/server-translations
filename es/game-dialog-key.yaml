@@ -865,6 +865,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de r
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este Raid no comienza aquí.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} no tiene el ítem {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de raid.'
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar el raid de {0}?
 RAID_DIALOG_INVITED_YOU: '{0} te invitó a un equipo de raid. ¿Aceptas?'
 RAID_INFO_NO_EXIST: ¡El Raid no existe!
@@ -874,6 +875,7 @@ RAID_MESSAGE_DISOLVED: El equipo de raid fue disuelto.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Abrir Informe de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Revisa las estadísticas de tu equipo para {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Informe de Raid listo
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A un jugador le falta el sello necesario.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Todos los jugadores están congelados.
@@ -955,6 +957,7 @@ RUNE_MSG_UPGRADE_FAILED: La mejora de la runa falló.
 RUNE_MSG_UPGRADE_RUINED: El equipo se dañó en el proceso.
 RUNE_MSG_UPGRADE_SUCCESS: Felicidades, la runa ha sido añadida.
 RUNE_POWER_SWITCH_QNA: Estás seguro de que quieres cambiar estos poderes de la runa ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: ¡Los poderes rúnicos cambiaron con éxito!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Este arma está vinculada a otro jugador. Solo puedes tallar runas en tus propias armas.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Necesitas activar las palancas previas primero.
@@ -1170,6 +1173,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} ha rechazado la propuesta de matrim
 WEEKLY_ACHIEVEMENTS_REFRESHED: Se han actualizado los logros semanales repetibles.
 WINGS_SWAPPER_DELAY_SWAPPING: Necesitas esperar {0} entre cambios para cambiar tus alas de nuevo.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Necesitas esperar {0} después de usar una habilidad para poder cambiar tus alas.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: No has recibido suficientes puntos de participación para ganar una recompensa.
 WORLD_BOSS_EVENT_NAME: Evento de Jefe de Mundo
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: ¡{0} ha aparecido en {1}!

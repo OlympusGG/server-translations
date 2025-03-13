@@ -913,6 +913,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Du bist in keinem Raid-Team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Dieser Raid startet nicht hier.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Spieler: {0} hat keinen Gegenstand {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} ist dem Raid-Team beigetreten.'
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: Möchtest du den {0} Raid starten?
 RAID_DIALOG_INVITED_YOU: '{0} hat dich zu einem Raid-Team eingeladen. Annehmen?'
 RAID_INFO_NO_EXIST: Raid existiert nicht!
@@ -922,6 +923,7 @@ RAID_MESSAGE_DISOLVED: Das Raid-Team wurde aufgelöst.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Raid-Bericht öffnen
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Schau dir die Team-Statistiken für {0} an.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid-Bericht fertig
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Einem Spieler fehlt das benötigte Siegel.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Alle Spieler sind eingefroren.
@@ -1003,6 +1005,7 @@ RUNE_MSG_UPGRADE_FAILED: Runen-Upgrade fehlgeschlagen.
 RUNE_MSG_UPGRADE_RUINED: Die Ausrüstung wurde dabei beschädigt.
 RUNE_MSG_UPGRADE_SUCCESS: Glückwunsch, die Rune wurde hinzugefügt.
 RUNE_POWER_SWITCH_QNA: Bist du dir sicher, dass du diese Runenkraft ändern möchtest?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Runenkräfte wurden erfolgreich geändert!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Diese Waffe ist an einen anderen Spieler gebunden. Du kannst nur Runen in deine eigenen Waffen schnitzen.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Du musst die vorherigen Hebel zuerst aktivieren.
@@ -1218,6 +1221,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} hat den Heiratsantrag von {1} abgel
 WEEKLY_ACHIEVEMENTS_REFRESHED: Wöchentlich wiederholbare Erfolge wurden zurückgesetzt.
 WINGS_SWAPPER_DELAY_SWAPPING: Du musst {0} warten, bevor du deine Flügel erneut wechseln kannst.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Du musst {0} warten, nachdem du eine Fähigkeit benutzt hast, um deine Flügel wechseln zu können.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Du hast nicht genug Aktivitätspunkte gesammelt, um eine Belohnung zu erhalten.
 WORLD_BOSS_EVENT_NAME: Weltboss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'

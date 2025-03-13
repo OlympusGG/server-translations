@@ -862,6 +862,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: You're not a part of any raid team.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: This raid doesn't start here.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player: {0} doesn't have item {1}"
 RAID_CHATMESSAGE_X_JOINED: '{0} joined the raid team.'
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: Do you want to start {0} raid?
 RAID_DIALOG_INVITED_YOU: '{0} invited you to a raid team. Accept?'
 RAID_INFO_NO_EXIST: Raid doesn't exist!
@@ -871,6 +872,7 @@ RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Check out your team stats for {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid Report Ready
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
@@ -952,6 +954,7 @@ RUNE_MSG_UPGRADE_FAILED: Rune upgrade failed.
 RUNE_MSG_UPGRADE_RUINED: The equipment was damaged in the process.
 RUNE_MSG_UPGRADE_SUCCESS: Congratulations, the rune has been added.
 RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: This weapon is bound to another player. You can only carve runes into your own weapons.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: You need to activate the previous levers first.
@@ -1167,6 +1170,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} has refused the marriage proposal o
 WEEKLY_ACHIEVEMENTS_REFRESHED: Weekly repeatable achievements have been refreshed.
 WINGS_SWAPPER_DELAY_SWAPPING: You need to wait {0} between swaps to change your wings again.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: You need to wait {0} after using a skill to be able to swap your wings.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: You did not collect enough participation points to earn a reward.
 WORLD_BOSS_EVENT_NAME: World Boss Event
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} Has appeared in {1}!'

@@ -886,6 +886,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu ne fais partie d'aucune équipe de 
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne commence pas ici.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player : {0} n'a pas l'objet {1}"
 RAID_CHATMESSAGE_X_JOINED: "{0} a rejoint l'équipe de raid."
+RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
 RAID_DIALOG_ASK_START_RAID: Veux-tu lancer le raid {0} ?
 RAID_DIALOG_INVITED_YOU: "{0} t'a invité à rejoindre une équipe de raid. Acceptes-tu ?"
 RAID_INFO_NO_EXIST: Le raid n'existe pas !
@@ -895,6 +896,7 @@ RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Ouvrir le Rapport de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Regarde les stats de ton équipe pour {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Rapport de Raid Prêt
+RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Il manque le sceau nécessaire au Player.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tous les joueurs sont gelés.
@@ -976,6 +978,7 @@ RUNE_MSG_UPGRADE_FAILED: Amélioration de rune échouée.
 RUNE_MSG_UPGRADE_RUINED: L'équipement a été endommagé dans le processus.
 RUNE_MSG_UPGRADE_SUCCESS: Félicitations, la rune a été ajoutée.
 RUNE_POWER_SWITCH_QNA: Êtes-vous sûr de vouloir échanger ces pouvoirs runiques ?
+RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
 RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Les pouvoirs runiques ont été échangés avec succès !
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Cette arme est liée à un autre joueur. Tu ne peux graver des runes que sur tes propres armes.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Vous devez d'abord activer les leviers précédents.
@@ -1191,6 +1194,7 @@ WEDDING_SHOUTMESSAGE_REFUSED_BROADCAST: '{0} a refusé la demande en mariage de 
 WEEKLY_ACHIEVEMENTS_REFRESHED: Les succès hebdomadaires répétables ont été actualisés.
 WINGS_SWAPPER_DELAY_SWAPPING: Tu dois attendre {0} entre les échanges pour changer tes ailes à nouveau.
 WINGS_SWAPPER_LAST_SKILL_SWAPPING: Tu dois attendre {0} après avoir utilisé une compétence pour pouvoir échanger tes ailes.
+WINGS_SWAPPER_QNA_ADD_MINIPET: '#WINGS_SWAPPER_QNA_ADD_MINIPET'
 WORLD_BOSS_CHATMESSAGE_NOT_ENOUGH_CONTRIBUTION: Pas assez de contribution pour le boss mondial.
 WORLD_BOSS_EVENT_NAME: Événement Boss Mondial
 WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} est apparu à {1} !'
