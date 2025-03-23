@@ -166,6 +166,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -177,7 +178,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -886,7 +889,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Tu ne fais partie d'aucune équipe de 
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Ce raid ne commence pas ici.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: "Player : {0} n'a pas l'objet {1}"
 RAID_CHATMESSAGE_X_JOINED: "{0} a rejoint l'équipe de raid."
-RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
+RAID_CHATMSG_RELOG_JOIN_ISSUE: Une erreur s'est produite lors de la tentative pour rejoindre ce raid.
 RAID_DIALOG_ASK_START_RAID: Veux-tu lancer le raid {0} ?
 RAID_DIALOG_INVITED_YOU: "{0} t'a invité à rejoindre une équipe de raid. Acceptes-tu ?"
 RAID_INFO_NO_EXIST: Le raid n'existe pas !
@@ -896,7 +899,7 @@ RAID_MESSAGE_DISOLVED: L'équipe de raid a été dissoute.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Ouvrir le Rapport de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Regarde les stats de ton équipe pour {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Rapport de Raid Prêt
-RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: Voulez-vous rejoindre à nouveau le groupe de raid {0} ?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Il manque le sceau nécessaire au Player.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Tous les joueurs sont gelés.
