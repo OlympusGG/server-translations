@@ -168,6 +168,8 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Odstranit aukční předmět před jeho koncem, pokud na něj někdo již nabídl.
 
 
@@ -180,7 +182,11 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
+
   	- Vzdát se nabídky na aukční předmět.
+
+
 
 
 
@@ -890,7 +896,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Nejsi součástí žádného týmu vý
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Tento raid tady nezačíná.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Hráč: {0} nemá předmět {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se připojil k týmu výpravy.'
-RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
+RAID_CHATMSG_RELOG_JOIN_ISSUE: Při pokusu o připojení k tomuto raidu došlo k chybě.
 RAID_DIALOG_ASK_START_RAID: Chceš spustit výpravu {0}?
 RAID_DIALOG_INVITED_YOU: '{0} tě pozval do týmu výpravy. Přijmeš?'
 RAID_INFO_NO_EXIST: Raid neexistuje!
@@ -900,7 +906,7 @@ RAID_MESSAGE_DISOLVED: Tým výpravy byl rozpuštěn.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otevřít zprávu o výpravě
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Podívej se na statistiky svého týmu pro {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Zpráva o výpravě
-RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: Chcete se znovu připojit k raidu {0}?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Hráči chybí potřebná raidová pečeť.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Všichni hráči jsou zmrazeni.

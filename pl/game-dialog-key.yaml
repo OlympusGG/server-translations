@@ -168,6 +168,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
@@ -181,7 +182,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -902,7 +905,7 @@ RAID_MESSAGE_DISOLVED: Drużyna rajdu została rozwiązana.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Otwórz Raport z Rajdu
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Sprawdź statystyki swojego zespołu dla {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: '{0} Raid - Report Ready'
-RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: Do you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Graczowi brakuje potrzebnej pieczęci.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Wszyscy gracze są zamrożeni.
