@@ -158,10 +158,13 @@ BID_MODAL_DISCLAIMER: >-
   To ensure a fair and responsive Bidding System for our players, you will not be able to:
 
 
+
   	- Remove an auctioned item before its end date if someone has already bid.
 
 
+
   	- Back-down from a Bid done to an auctioned item.
+
 
 
 
@@ -872,7 +875,7 @@ RAID_MESSAGE_DISOLVED: The raid team was disbanded.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Open Raid Report
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Check out your team stats for {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Raid Report Ready
-RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: Do you want to rejoin the {0} raid party?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A player is missing the needed seal.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: All players are frozen.
