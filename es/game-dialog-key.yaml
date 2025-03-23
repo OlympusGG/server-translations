@@ -159,11 +159,14 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
 
 
@@ -865,7 +868,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de r
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este Raid no comienza aquí.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} no tiene el ítem {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de raid.'
-RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
+RAID_CHATMSG_RELOG_JOIN_ISSUE: Se produjo un error al intentar unirse a este Raid.
 RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar el raid de {0}?
 RAID_DIALOG_INVITED_YOU: '{0} te invitó a un equipo de raid. ¿Aceptas?'
 RAID_INFO_NO_EXIST: ¡El Raid no existe!
@@ -875,7 +878,7 @@ RAID_MESSAGE_DISOLVED: El equipo de raid fue disuelto.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Abrir Informe de Raid
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: Revisa las estadísticas de tu equipo para {0}.
 RAID_NOTIFMESSAGE_REPORT_TITLE: Informe de Raid listo
-RAID_QNA_RELOG: To you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: ¿Quieres volver a unirte al grupo del Raid {0}?
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: A un jugador le falta el sello necesario.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Todos los jugadores están congelados.
