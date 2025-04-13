@@ -862,6 +862,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Como el nivel recomendado del Raid no correspon
 RAID_CHATMESSAGE_LIMIT_LEFT: Puedes participar en el raid de {0} {1} veces hoy.
 RAID_CHATMESSAGE_LIMIT_REACHED: Se alcanzó el número máximo de entradas en el raid de {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Debes ser al menos nivel {0} para unirte al raid.
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} es el nuevo líder del equipo de raid.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: El Raid no existe o ya ha comenzado.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: El Raid se completó en {0}.

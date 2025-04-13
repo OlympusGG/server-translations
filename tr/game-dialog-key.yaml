@@ -880,6 +880,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Akın önerilen seviye senin seviyene uymadığ
 RAID_CHATMESSAGE_LIMIT_LEFT: Bugün {0} akınına {1} kez katılabilirsin.
 RAID_CHATMESSAGE_LIMIT_REACHED: '{0} akınında maksimum giriş sayısına ulaşıldı.'
 RAID_CHATMESSAGE_LOW_LEVEL: Akına katılmak için en az {0} seviye olmalısın.
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
 RAID_CHATMESSAGE_NEW_LEADER: '{0}, yeni akın takımı lideri oldu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın mevcut değil veya zaten başlamış.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Akın {0} içinde tamamlandı.

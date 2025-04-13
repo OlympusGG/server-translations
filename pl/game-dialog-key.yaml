@@ -889,6 +889,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Ponieważ zalecany poziom dla tego rajdu nie od
 RAID_CHATMESSAGE_LIMIT_LEFT: Dzisiaj możesz wziąć udział w rajdzie {0} {1} razy.
 RAID_CHATMESSAGE_LIMIT_REACHED: Osiągnięto maksymalną liczbę wejść do rajdu {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Rajd nie istnieje lub już się rozpoczął.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Rajd został ukończony w {0}.

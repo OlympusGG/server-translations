@@ -887,6 +887,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Jelikož doporučená úroveň raidu neodpovíd
 RAID_CHATMESSAGE_LIMIT_LEFT: Dnes můžeš podniknout raid {0} ještě {1}krát.
 RAID_CHATMESSAGE_LIMIT_REACHED: Dosáhl jsi maximálního počtu vstupů do raidu {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Musíš mít alespoň úroveň {0}, abys se mohl připojit k výpravě.
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} je novým vedoucím raidového týmu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Raid neexistuje nebo už začal.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Raid byl dokončen za {0}.
