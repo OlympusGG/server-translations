@@ -170,6 +170,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Usunąć przedmiotu z aukcji przed datą zakończenia, jeśli ktoś już złożył ofertę.
 
 
@@ -185,7 +186,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Wycofać się z złożonej oferty licytowanego przedmiotu.
+
 
 
 
@@ -889,7 +892,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Ponieważ zalecany poziom dla tego rajdu nie od
 RAID_CHATMESSAGE_LIMIT_LEFT: Dzisiaj możesz wziąć udział w rajdzie {0} {1} razy.
 RAID_CHATMESSAGE_LIMIT_REACHED: Osiągnięto maksymalną liczbę wejść do rajdu {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Musisz mieć przynajmniej {0} poziom, aby dołączyć do rajdu.
-RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Gracz {0} nie mógł zostać przeteleportowany...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} jest nowym liderem drużyny.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Rajd nie istnieje lub już się rozpoczął.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Rajd został ukończony w {0}.
@@ -992,7 +995,7 @@ RUNE_MSG_UPGRADE_RUINED: Przedmiot został uszkodzony w trakcie.
 RUNE_MSG_UPGRADE_SUCCESS: Gratulacje, runa została dodana.
 RUNE_POWER_SWITCH_QNA: Czy jesteś pewny zmiany mocy runy?
 RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
-RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Zmiana mocy runy zakończyła się powodzeniem.
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Zmiana mocy runy zakończyła się powodzeniem!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Ta broń jest przypisana do innego gracza. Możesz rytować runy tylko na swojej broni.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Najpierw musisz użyć poprzednich dźwigni.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} wygrał/a polowanie na skarby!'
@@ -1021,7 +1024,7 @@ SHIP_SHOUTMESSAGE_SECONDS_REMAINING: Statek odpływa za {0} sekund.
 SHOP_CHATMESSAGE_EMPTY: Sklep nie może być pusty.
 SHOP_CHATMESSAGE_ONLY_TRADABLE_ITEMS: Możesz sprzedawać tylko przedmioty zdatne do handlu.
 SHOP_COINS_CHATMESSAGE_SOMETHING_WENT_WRONG_PLEASE_CONTACT_SUPPORT: Coś poszło nie tak przy dodawaniu OC do twojego konta, proszę skontaktuj się z pomocą techniczną.
-SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Na twoje konto dodano OC, masz teraz: {0} OC.'
+SHOP_COINS_CHATMESSAGE_SUCCESSFULLY_ADDED_FINAL_QUANTITY_X: 'Na twoje konto dodano OC, masz teraz: {0} OC'
 SHOP_COINS_SHOUTMESSAGE_SUCCESSFUL: Pomyślnie dodano OC do twojego konta!
 SHOP_DEFAULT_NAME: Sklep Osobisty
 SHOP_INFO_ALREADY_OPEN: Masz już otwarty sklep.

@@ -169,6 +169,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Rimuove un oggetto messo all'asta prima della sua data di fine se qualcuno ha già fatto un'offerta.
 
 
@@ -183,7 +184,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Ritirarsi da un'offerta fatta ad un oggetto messo all'asta.
+
 
 
 
@@ -886,7 +889,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Poiché il livello consigliato per l'incursione
 RAID_CHATMESSAGE_LIMIT_LEFT: Puoi partecipare alla raid {0} altre {1} volte oggi.
 RAID_CHATMESSAGE_LIMIT_REACHED: Raggiunto il numero massimo di ingressi nell'incursione {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Devi essere almeno di livello {0} per partecipare alla raid.
-RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} non si è potuto teletrasportare...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} è il nuovo caposquadra del raid.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: L'incursione non esiste o è già iniziata.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: L'incursione è stata completata in {0}.
