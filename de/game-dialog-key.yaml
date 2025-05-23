@@ -177,6 +177,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -199,7 +200,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -910,7 +913,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Da dein Level nicht dem empfohlenen Level für 
 RAID_CHATMESSAGE_LIMIT_LEFT: Du kannst heute noch {1} Mal am {0} Raid teilnehmen.
 RAID_CHATMESSAGE_LIMIT_REACHED: Du hast die maximale Anzahl an Teilnahmen im {0} Raid erreicht.
 RAID_CHATMESSAGE_LOW_LEVEL: Du musst mindestens Level {0} sein, um am Raid teilzunehmen.
-RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} konnte nicht teleportiert werden...
 RAID_CHATMESSAGE_NEW_LEADER: '{0} ist jetzt der neue Anführer des Raid-Teams.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Der Raid existiert nicht oder hat bereits begonnen.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Der Raid wurde in {0} abgeschlossen.
