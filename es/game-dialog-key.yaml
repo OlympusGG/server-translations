@@ -162,6 +162,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
@@ -169,7 +170,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
 
 
@@ -873,7 +876,7 @@ RAID_CHATMESSAGE_REWARD_BANNED: Debido a haber participado en varios raids sin d
 RAID_CHATMESSAGE_START_IS_NOT_LEADER: Solo el líder del raid puede iniciar el raid.
 RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: No formas parte de ningún equipo de raid.
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Este Raid no comienza aquí.
-RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} no tiene el ítem {1}'
+RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Jugador: {0} no tiene el ítem {1}'
 RAID_CHATMESSAGE_X_JOINED: '{0} se unió al equipo de raid.'
 RAID_CHATMSG_RELOG_JOIN_ISSUE: Se produjo un error al intentar unirse a este Raid.
 RAID_DIALOG_ASK_START_RAID: ¿Quieres iniciar el raid de {0}?
