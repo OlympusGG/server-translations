@@ -168,6 +168,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirer un objet mis aux enchères avant sa date de fin si quelqu'un a déjà enchéri.
 
 
@@ -181,7 +182,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Se rétracter d'une enchère faite sur un objet mis aux enchères.
+
 
 
 
@@ -883,7 +886,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Comme le niveau recommandé pour le raid ne cor
 RAID_CHATMESSAGE_LIMIT_LEFT: Tu peux participer au raid {0} {1} fois aujourd'hui.
 RAID_CHATMESSAGE_LIMIT_REACHED: Nombre maximum de participations atteint pour le raid {0}.
 RAID_CHATMESSAGE_LOW_LEVEL: Tu dois être au moins niveau {0} pour rejoindre le raid.
-RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Le joueur {0} n'a pas pu être téléporté...
 RAID_CHATMESSAGE_NEW_LEADER: "{0} est le nouveau chef de l'équipe de raid."
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Le raid n'existe pas ou a déjà commencé.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Le raid a été complété en {0}.
