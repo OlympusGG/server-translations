@@ -180,6 +180,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Auktionsgegenstände vor Ablauf der Frist entfernen, sobald jemand darauf geboten hat.
 
 
@@ -205,7 +206,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Gebote zurückziehen, sobald du auf einen Gegenstand geboten hast.
+
 
 
 
@@ -1245,3 +1248,4 @@ WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0}
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
 MAIL_QNA_ACCEPT_FEE: Du musst eine Gebühr von {0} Gold zahlen, um diese Sendung anzunehmen.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_FRAGE_MINIPET_HINZUFÜGEN'
