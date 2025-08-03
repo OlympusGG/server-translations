@@ -580,6 +580,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Du kannst diesen Gegenstand nicht benutzen, weil 
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Du hast bereits ein Wegweiser aufgestellt. Verbleibende Zeit: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Laufzeit des Gegenstands ({0}) ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstand ist nicht mehr fixiert.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
 ITEM_DIALOG_ASK_BIND: Möchtest du diesen Gegenstand ausrüsten? Er wird an deinen Charakter gebunden und du kannst ihn nicht mehr handeln.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Möchtest du deine Fraktion wechseln?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Möchtest du die Fraktion deiner Familie wechseln?
@@ -653,6 +654,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Du hast {0} Nachricht(en) in deinem Posteinga
 MAIL_INFO_OPEN_FAILED: Fehler beim Öffnen der Mail.
 MAIL_INFO_TOO_MANY_MAILS: Du hast neue Nachricht(en) erhalten, aber dein Postfach war voll, daher wurde die Mail verworfen. Kontaktiere den Support, um sie wiederherzustellen.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Du musst {0} Sekunden warten, bevor du alle Pakete erneut beanspruchen kannst.
+MAIL_QNA_ACCEPT_FEE: Du musst eine Gebühr von {0} Gold zahlen, um diese Sendung anzunehmen.
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Eine Wartung ist für {0} geplant. (Noch {1})
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Die Wartung wurde durchgeführt.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Die Wartung wurde aufgehoben.
@@ -1244,4 +1246,3 @@ WORLD_BOSS_SHOUTMESSAGE_BOSS_SPAWNED: '{0} ist in {1} erschienen!'
 WORLD_BOSS_SHOUTMESSAGE_TMESPACE_SPAWNED: Ein temporäres Portal hat sich in {0} geöffnet
 WORLD_BOSS_SHOUTMESSAGE_WARNING_MINUTES: '{0} wird in {1} in {2} Minute(n) erscheinen!'
 WORLD_BOSS_SHOUTMESSAGE_WARNING_SECONDS: '{0} wird in {1} in {2} Sekunde(n) erscheinen!'
-MAIL_QNA_ACCEPT_FEE: Du musst eine Gebühr von {0} Gold zahlen, um diese Sendung anzunehmen.

@@ -529,6 +529,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: No puedes usar este objeto porque recientemente p
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Ya has colocado un cartel indicador. Tiempo restante: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La duración del artículo ({0}) ha expirado.
 ITEM_CHATMESSAGE_UNFIXED: El nivel de tu objeto ya no está fijado.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
 ITEM_DIALOG_ASK_BIND: ¿Quieres equipar este objeto? Se vinculará a tu personaje y no podrás comerciarlo.
 ITEM_DIALOG_ASK_CHANGE_FACTION: ¿Quieres cambiar de facción?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: ¿Quieres cambiar la facción de tu familia?
@@ -602,6 +603,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tienes {0} correo(s) en tu bandeja de entrada
 MAIL_INFO_OPEN_FAILED: Error al abrir el correo.
 MAIL_INFO_TOO_MANY_MAILS: Has recibido correo(s) nuevo(s) pero tu buzón estaba lleno, así que el correo ha sido descartado. Contacta con el Soporte para recuperarlo.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Debes esperar {0} segundos antes de reclamar todos los paquetes de nuevo.
+MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Un mantenimiento está programado para el {0}. (Quedan {1})
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: El mantenimiento se ha ejecutado.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: El mantenimiento ha terminado.

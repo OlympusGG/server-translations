@@ -553,6 +553,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ nie
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
 ITEM_CHATMESSAGE_UNFIXED: Twój przedmiot nie jest już uszkodzony.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
 ITEM_DIALOG_ASK_BIND: Czy chcesz założyć ten przedmiot? Spowoduje to przypisanie przedmiotu do twojej postaci i nie będziesz mógł nim handlować.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Czy chcesz zmienić frakcję?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Czy chcesz zmienić frakcję rodziny?
@@ -626,6 +627,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
 MAIL_INFO_OPEN_FAILED: Nie udało się otworzyć wiadomości.
 MAIL_INFO_TOO_MANY_MAILS: Dostałeś nowe wiadomości, ale twoja skrzynka była pełna, więc wiadomości zostały odrzucone. Skontaktuj się z pomocą techniczną, aby je odzyskać.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Musisz poczekać {0} sekund, zanim znów będziesz mógł odebrać wszystkie paczki.
+MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Zaplanowano konserwację na {0}. (Pozostało {1})
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Przerwa techniczna została zakończona.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Przerwa techniczna została odwołana.

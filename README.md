@@ -1,20 +1,20 @@
 
-# NosWings.Server.Translation
+# Olympus
 
-<!-- NosWings Header ><-->
+<!-- Header ><-->
 <div align="center">
   <br/>
-  <a href="https://noswings.com">
-    <img height="300px" src="https://avatars0.githubusercontent.com/u/40839221?s=300&v=4">
+  <a href="https://olympusgg.com">
+    <img height="300px" src="https://avatars0.githubusercontent.com/u/40839221?s=300&v=4" alt="Logo">
   </a>
 </div>
 <br/><br/>
-<!-- NosWings Header ><-->
+<!-- Header ><-->
 
 
 [![Discord](https://discordapp.com/api/guilds/468831707877867530/widget.png?style=banner2)](https://discord.gg/rRS52ed)
 
-Our server supports multilanguages, but since we don't have native speakers of each country playing our server, we will need your help to get the most accurate translations !
+Our server supports multiple languages, but since we don't have native speakers of each country playing our server, we will need your help to get the most accurate translations !
 
 ## How to
 
@@ -35,5 +35,6 @@ We are working with Pull Requests. If you want to participate and you don't know
 + Only **values** of keys must be modified.
 + I'll change the keys if needed.
 
+
 Thanks in advance, \
-NosWings Team.
+Olympus Team.

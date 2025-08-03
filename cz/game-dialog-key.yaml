@@ -551,6 +551,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Nemůžeš použít tento předmět, protože jsi
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Už jsi umístil(a) ukazatel. Zbývající čas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Platnost předmětu ({0}) vypršela.
 ITEM_CHATMESSAGE_UNFIXED: Tvůj předmět už není opravený.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
 ITEM_DIALOG_ASK_BIND: Chceš si tento předmět vybavit? Předmět bude vázán na tvou postavu a nebudeš ho moci obchodovat.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Chceš změnit svou frakci?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Chceš změnit frakci své rodiny?
@@ -624,6 +625,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Máš {0} zpráv v doručené poště.
 MAIL_INFO_OPEN_FAILED: Otevření pošty se nezdařilo.
 MAIL_INFO_TOO_MANY_MAILS: Dostal(a) jsi nové zprávy, ale tvá schránka byla plná, takže zprávy byly zahozeny. Kontaktuj podporu pro jejich obnovu.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Musíš počkat {0} sekund, než znovu nárokuješ všechny balíčky.
+MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Údržba je naplánovaná na {0}. (zbývá {1})
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Údržba byla provedena.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Údržba byla ukončena.

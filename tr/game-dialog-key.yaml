@@ -541,6 +541,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Bir oyuncu ile dövüştükten sonra bu eşyayı 
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir yön tabelası kurmuşsun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) süresi doldu.
 ITEM_CHATMESSAGE_UNFIXED: Eşyan artık sabitlenmiş değil.
+ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
 ITEM_DIALOG_ASK_BIND: Bu eşyayı donatmak istiyor musun? Bu eşya karakterine bağlanacak ve ticaretini yapamayacaksın.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Tarafını değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin tarafını değiştirmek istiyor musun?
@@ -614,6 +615,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Gelen kutunda {0} adet mailin var.
 MAIL_INFO_OPEN_FAILED: Maili açma başarısız oldu.
 MAIL_INFO_TOO_MANY_MAILS: Yeni maillerin vardı ama posta kutun doluydu, bu yüzden mailler silindi. Kurtarmak için Destek ile iletişime geç.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Tüm paketleri tekrar talep etmeden önce {0} saniye beklemelisin.
+MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: 'Bakım {0} tarihinde planlandı. (Kalan süre: {1})'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Bakım gerçekleştirildi.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
