@@ -300,6 +300,7 @@ DUEL_CHATMESSAGE_WON: 'Du hast das Duell gewonnen! Punktestand: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} hat dich herausgefordert! Willst du annehmen?'
 DUEL_DIALOG_REVIVAL: Weiter?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Dieser Spieler blockiert Duellanfragen.
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: '#DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE'
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Du hast dieses Emote bereits.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Du hast das Emote {0} freigeschaltet.
@@ -580,7 +581,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Du kannst diesen Gegenstand nicht benutzen, weil 
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Du hast bereits ein Wegweiser aufgestellt. Verbleibende Zeit: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Die Laufzeit des Gegenstands ({0}) ist abgelaufen.
 ITEM_CHATMESSAGE_UNFIXED: Dein Gegenstand ist nicht mehr fixiert.
-ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
+ITEM_DIALOG_ASK_ADD_MINIPET: Do you want to bind this MiniPet to your currently worn Specialist Card? Note that Minipets are SP bound.
 ITEM_DIALOG_ASK_BIND: Möchtest du diesen Gegenstand ausrüsten? Er wird an deinen Charakter gebunden und du kannst ihn nicht mehr handeln.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Möchtest du deine Fraktion wechseln?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Möchtest du die Fraktion deiner Familie wechseln?

@@ -237,6 +237,7 @@ DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
 DUEL_DIALOG_REVIVAL: Continue?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: 'You can equip arena wings on your specialist cards until: {0}'
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: You already have this emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: You have unlocked the {0} emote.

@@ -270,6 +270,7 @@ DUEL_CHATMESSAGE_WON: 'Hai vinto il duello! Punteggio: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} ti ha sfidato! Vuoi accettare?'
 DUEL_DIALOG_REVIVAL: Continuare?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Questo giocatore sta bloccando le richieste di duello.
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: '#DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE'
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Hai già questa emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Hai sbloccato l'emote {0}.
@@ -550,7 +551,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Non puoi usare questo oggetto perché hai parteci
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Hai già piazzato un cartello. Tempo rimanente: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durata dell'oggetto ({0}) è scaduta.
 ITEM_CHATMESSAGE_UNFIXED: Il tuo oggetto non è più fissato.
-ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
+ITEM_DIALOG_ASK_ADD_MINIPET: Do you want to bind this MiniPet to your currently worn Specialist Card? Note that Minipets are SP bound.
 ITEM_DIALOG_ASK_BIND: Vuoi equipaggiare questo oggetto? Si legherà al tuo personaggio e non potrai scambiarlo.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Vuoi cambiare la tua fazione?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Vuoi cambiare la fazione della tua famiglia?
@@ -624,7 +625,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Hai {0} email nella tua casella di posta.
 MAIL_INFO_OPEN_FAILED: Impossibile aprire l'email.
 MAIL_INFO_TOO_MANY_MAILS: Hai ricevuto nuove mail ma la tua casella era piena quindi la posta è stata scartata. Contatta l'Assistenza per recuperarla.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Devi aspettare {0} secondi prima di poter richiedere nuovamente tutti i pacchi.
-MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
+MAIL_QNA_ACCEPT_FEE: You must accept a {0} gold fee to claim this parcel.
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Una manutenzione è programmata per il {0}. ({1} rimanenti)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La manutenzione è stata eseguita.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La manutenzione è stata revocata.

@@ -267,6 +267,7 @@ DUEL_CHATMESSAGE_WON: 'Vous avez gagné le duel ! Score : {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} vous a défié ! Vous voulez accepter ?'
 DUEL_DIALOG_REVIVAL: Continuer ?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Ce joueur bloque les demandes de duel.
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: '#DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE'
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Vous possédez déjà cet emote.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Vous avez débloqué l'emote {0}.
@@ -547,7 +548,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Tu ne peux pas utiliser cet objet parce que tu as
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Tu as déjà placé un panneau indicateur. Temps restant : {0}'
 ITEM_CHATMESSAGE_TIMEOUT: La durée de l'objet ({0}) est expirée.
 ITEM_CHATMESSAGE_UNFIXED: Ton objet n'est plus fixé.
-ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
+ITEM_DIALOG_ASK_ADD_MINIPET: Do you want to bind this MiniPet to your currently worn Specialist Card? Note that Minipets are SP bound.
 ITEM_DIALOG_ASK_BIND: Veux-tu équiper cet objet ? Il sera lié à ton personnage et tu ne pourras plus l'échanger.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Veux-tu changer de faction ?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Veux-tu changer la faction de ta famille ?
@@ -621,7 +622,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Tu as {0} mail(s) dans ta boîte de réceptio
 MAIL_INFO_OPEN_FAILED: Échec de l'ouverture du mail.
 MAIL_INFO_TOO_MANY_MAILS: Tu as reçu de nouveaux mails mais ta boîte aux lettres était pleine donc le mail a été supprimé. Contacte le Support pour le récupérer.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Tu dois attendre {0} secondes avant de pouvoir réclamer tous les colis à nouveau.
-MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
+MAIL_QNA_ACCEPT_FEE: You must accept a {0} gold fee to claim this parcel.
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Une maintenance est prévue le {0}. ({1} restant)
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: La maintenance a été effectuée.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: La maintenance a été levée.

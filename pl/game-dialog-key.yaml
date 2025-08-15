@@ -273,6 +273,7 @@ DUEL_CHATMESSAGE_WON: 'Wygrałeś pojedynek! Wynik: {0}-{1}'
 DUEL_DIALOG_REQUEST_INVITE: '{0} rzucił ci wyzwanie! Chcesz przyjąć?'
 DUEL_DIALOG_REVIVAL: Kontynuować?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Ten gracz blokuje zaproszenia do pojedynków.
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: '#DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE'
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Masz już tę emotkę.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Odblokowałeś emotkę {0}.
@@ -553,7 +554,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Nie możesz użyć tego przedmiotu, ponieważ nie
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Już posiadasz ustawiony drogowskaz. Pozostały czas: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Czas trwania przedmiotu ({0}) wygasł.
 ITEM_CHATMESSAGE_UNFIXED: Twój przedmiot nie jest już uszkodzony.
-ITEM_DIALOG_ASK_ADD_MINIPET: '#ITEM_DIALOG_ASK_ADD_MINIPET'
+ITEM_DIALOG_ASK_ADD_MINIPET: Do you want to bind this MiniPet to your currently worn Specialist Card? Note that Minipets are SP bound.
 ITEM_DIALOG_ASK_BIND: Czy chcesz założyć ten przedmiot? Spowoduje to przypisanie przedmiotu do twojej postaci i nie będziesz mógł nim handlować.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Czy chcesz zmienić frakcję?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Czy chcesz zmienić frakcję rodziny?
@@ -627,7 +628,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Masz {0} paczek w skrzynce.
 MAIL_INFO_OPEN_FAILED: Nie udało się otworzyć wiadomości.
 MAIL_INFO_TOO_MANY_MAILS: Dostałeś nowe wiadomości, ale twoja skrzynka była pełna, więc wiadomości zostały odrzucone. Skontaktuj się z pomocą techniczną, aby je odzyskać.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Musisz poczekać {0} sekund, zanim znów będziesz mógł odebrać wszystkie paczki.
-MAIL_QNA_ACCEPT_FEE: '#MAIL_QNA_ACCEPT_FEE'
+MAIL_QNA_ACCEPT_FEE: You must accept a {0} gold fee to claim this parcel.
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: Zaplanowano konserwację na {0}. (Pozostało {1})
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Przerwa techniczna została zakończona.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Przerwa techniczna została odwołana.
