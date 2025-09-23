@@ -234,6 +234,9 @@ DUEL_CHATMESSAGE_NOT_SAME_MAP: The challenger is on another map.
 DUEL_CHATMESSAGE_REQUEST_REFUSED: Player {0} has refused your duel request.
 DUEL_CHATMESSAGE_USER_OFFLINE: The challenger is no longer online.
 DUEL_CHATMESSAGE_WON: 'You have won the duel! Score: {0}-{1}'
+DUEL_CHATMSG_CANNOT_REGISTER: You are already registered.
+DUEL_CHATMSG_LEVEL_REQUIREMENTS: 'You need to be at least hero level {0} to register in ranked duels.'
+DUEL_CHATMSG_REGISTRATION_ERROR: 'An error occured. Please contact the support.'
 DUEL_DIALOG_REQUEST_INVITE: '{0} challenged you! Want to accept?'
 DUEL_DIALOG_REVIVAL: Continue?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: This player is blocking duel requests.
@@ -946,6 +949,13 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Player {0} has been unfrozen.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: You can't vote anymore.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Voting is not available currently.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: There are currently {0} votes to surrender.
+RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
+RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
+RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'You can only receive rewards between 12:00 & 22:00'
+RANKED_DUEL_FORFEIT_NEED_TO_LOSE: 'Only the losing player can forfeit.'
+RANKED_DUEL_FORFEIT_UNDER_DELAY: 'You can only forfait after 5 minutes.'
+RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: 'No suitable opponent was found.'
+RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: 'You are banned from ranked duels until {0}'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn location?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed.
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} gold.
