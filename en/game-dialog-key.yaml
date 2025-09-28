@@ -953,7 +953,7 @@ RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'You can only receive rewards between 12:00 & 22:00'
 RANKED_DUEL_FORFEIT_NEED_TO_LOSE: 'Only the losing player can forfeit.'
-RANKED_DUEL_FORFEIT_UNDER_DELAY: 'You can only forfait after 5 minutes.'
+RANKED_DUEL_FORFEIT_UNDER_DELAY: 'You can only forfeit after 5 minutes.'
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: 'No suitable opponent was found.'
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: 'You are banned from ranked duels until {0}'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn location?
