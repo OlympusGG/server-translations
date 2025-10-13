@@ -971,6 +971,7 @@ RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: 'Your elo has decayed by {0} points since you did not play any ranked duel match today.'
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Do you want to change the respawn location?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: The revive location has been changed.
 REVIVE_DIALOG_ARENA: Do you want to revive? It will cost you {0} gold.
