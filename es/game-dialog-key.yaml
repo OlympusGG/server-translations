@@ -331,7 +331,9 @@ FAMILY_INFO_SUCCESSFULLY_JOINED: Te has unido a la familia.
 FAMILY_INFO_TODAY_LOW_LEVEL: Debes ser al menos nivel 30 para usar la frase diaria.
 FAMILY_INFO_USED_DAILY_MESSAGE: Ya has escrito una frase diaria hoy.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: No puedes añadir este artículo al almacén de la familia.
+FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT: '#FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT'
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: No tienes suficientes permisos para hacer eso.
+FAMILY_INFO_WAREHOUSE_TOO_FAST: '#FAMILY_INFO_WAREHOUSE_TOO_FAST'
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Ocurrió un error inesperado. Por favor, inténtalo de nuevo más tarde.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Necesitas la mejora anterior para comprar eso.
 FAMILY_RANK_DEPUTY: Representante
@@ -976,6 +978,7 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: El jugador {0} ha sido descongelado.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Ya no puedes votar.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: La votación no está disponible actualmente.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Actualmente hay {0} votos para rendirse.
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
 RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: You can only receive rewards between 12:00 & 22:00
@@ -983,6 +986,7 @@ RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
+RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You can't use this skill before the fight starts.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: ¿Quieres cambiar el lugar de reaparición?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: La ubicación de resurrección ha sido cambiada.
 REVIVE_DIALOG_ARENA: ¿Quieres revivir? Te costará {0} de oro.

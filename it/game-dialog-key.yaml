@@ -352,7 +352,9 @@ FAMILY_INFO_SUCCESSFULLY_JOINED: Ti sei unito alla famiglia.
 FAMILY_INFO_TODAY_LOW_LEVEL: Devi essere almeno di livello 30 per usare la frase del giorno.
 FAMILY_INFO_USED_DAILY_MESSAGE: La frase giornaliera è già stata scritta oggi.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Non puoi aggiungere questo oggetto al magazzino della famiglia.
+FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT: '#FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT'
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Non hai abbastanza permessi per fare ciò.
+FAMILY_INFO_WAREHOUSE_TOO_FAST: '#FAMILY_INFO_WAREHOUSE_TOO_FAST'
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Si è verificato un errore imprevisto. Per favore, riprova più tardi.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Hai bisogno dell'aggiornamento precedente per acquistare quello.
 FAMILY_RANK_DEPUTY: Vice
@@ -997,6 +999,7 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Il giocatore {0} è stato scongelato.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Non puoi più votare.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Il voto non è attualmente disponibile.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Ci sono attualmente {0} voti per arrendersi.
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
 RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: You can only receive rewards between 12:00 & 22:00
@@ -1004,6 +1007,7 @@ RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
+RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You can't use this skill before the fight starts.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Vuoi cambiare il punto di respawn?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Il punto di rianimazione è stato cambiato.
 REVIVE_DIALOG_ARENA: Vuoi rianimarti? Ti costerà {0} oro.

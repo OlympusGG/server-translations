@@ -353,7 +353,9 @@ FAMILY_INFO_SUCCESSFULLY_JOINED: Přidal jsi se do rodiny.
 FAMILY_INFO_TODAY_LOW_LEVEL: Musíš být alespoň úrovně 30, abys mohl/a použít denní větu.
 FAMILY_INFO_USED_DAILY_MESSAGE: Dnešní věta už byla napsána.
 FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Tento předmět nemůžeš přidat do skladu rodiny.
+FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT: '#FAMILY_INFO_WAREHOUSE_INVALID_MOVEMENT'
 FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Nemáš dostatečná oprávnění pro tuto akci.
+FAMILY_INFO_WAREHOUSE_TOO_FAST: '#FAMILY_INFO_WAREHOUSE_TOO_FAST'
 FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Došlo k neočekávané chybě. Zkuste to prosím později.
 FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Pro nákup tohoto je potřeba předchozí vylepšení.
 FAMILY_RANK_DEPUTY: Zástupce
@@ -998,6 +1000,7 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Hráč {0} byl odblokován.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Už nemůžeš hlasovat.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Hlasování momentálně není dostupné.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Momentálně je {0} hlasů pro kapitulaci.
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
 RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: You can only receive rewards between 12:00 & 22:00
@@ -1005,6 +1008,7 @@ RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
+RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You can't use this skill before the fight starts.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Chceš změnit místo respawnu?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Místo pro oživení bylo změněno.
 REVIVE_DIALOG_ARENA: Chceš se oživit? Bude tě to stát {0} zlatých.
