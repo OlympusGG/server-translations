@@ -959,7 +959,7 @@ RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: There are currently {0
 RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
 RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
-RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: You can only receive rewards between 12:00 & 22:00
+RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'You can only receive rewards between {0} & {1}'
 RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
