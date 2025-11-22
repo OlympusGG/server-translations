@@ -163,6 +163,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirar un artículo subastado antes de su fecha de finalización si alguien ya ha pujado.
 
 
@@ -171,7 +172,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Retirarte de una puja hecha a un artículo subastado.
+
 
 
 
@@ -253,11 +256,11 @@ DUEL_DIALOG_REQUEST_INVITE: ¡{0} te ha desafiado! ¿Quieres aceptar?
 DUEL_DIALOG_REVIVAL: ¿Continuar?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Este jugador está bloqueando las solicitudes de duelo.
 DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: 'You can equip arena wings on your specialist cards until: {0}'
-DUEL_RANK_NAME_BRONZE: Bronze
-DUEL_RANK_NAME_DIAMOND: Diamond
-DUEL_RANK_NAME_GOLD: Gold
-DUEL_RANK_NAME_PLATINUM: Platinum
-DUEL_RANK_NAME_SILVER: Silver
+DUEL_RANK_NAME_BRONZE: Bronce
+DUEL_RANK_NAME_DIAMOND: Diamante
+DUEL_RANK_NAME_GOLD: Oro
+DUEL_RANK_NAME_PLATINUM: Platino
+DUEL_RANK_NAME_SILVER: Plata
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Ya tienes este emoticono.
 EMOTES_SHOUTMESSAGE_UNLOCKED: Has desbloqueado el emoticono {0}.
@@ -968,7 +971,7 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: El jugador {0} ha sido descongelado.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Ya no puedes votar.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: La votación no está disponible actualmente.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Actualmente hay {0} votos para rendirse.
-RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Tu ELO ha disminuido en {0} puntos porque no has participado en ningún combate clasificatorio hoy.
 RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
 RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'You can only receive rewards between {0} & {1}'
@@ -976,7 +979,7 @@ RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
 RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
 RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
 RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
-RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You can't use this skill before the fight starts.
+RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: No puedes usar esta habilidad antes de que el combate haya comenzado.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: ¿Quieres cambiar el lugar de reaparición?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: La ubicación de resurrección ha sido cambiada.
 REVIVE_DIALOG_ARENA: ¿Quieres revivir? Te costará {0} de oro.
