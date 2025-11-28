@@ -10,7 +10,7 @@ ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Beklenmedik bir hata oluştu. Lütfen d
 ACHIEVEMENT_COMPLETED: Başarı tamamlandı.
 ACT_SKIP_CHATMESSAGE_NOT_MINLVL: Bu act'i atlamak için en az {0} seviyesinde olmalısın.
 ACT4_ASK_DIALOG_DUNGEON_EXIT: Zindandan ayrılmak istiyor musun?
-ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: You didn't get any rewards because you didn't get enough contribution points.
+ACT4_CALIGOR_CHATMSG_NOT_ENOUGH_CONTRIBUTION: Yeterince katkı puanı kazanmadığın için hiç bir ödül alamadın.
 ACT4_CALIGOR_MAP_FULL: Caligor Diyarı dolu.
 ACT4_CALIGOR_REVIVAL_DIALOG: Caligor Diyarı'nın girişinde canlanmak ister misin?
 ACT4_CALIGOR_SHOUTMESSAGE_STARTED: Caligor başladı.
@@ -167,6 +167,7 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Eğer birisi zaten teklif vermişse, açık artırmadaki bir item'i bitiş tarihinden önce kaldıramazsınız.
 
 
@@ -179,7 +180,9 @@ BID_MODAL_DISCLAIMER: >-
 
 
 
+
   	- Açık artırmadaki bir item için yapılan bir tekliften vazgeçemezsiniz.
+
 
 
 
@@ -258,18 +261,18 @@ DUEL_CHATMESSAGE_NOT_SAME_MAP: Rakip başka bir haritada.
 DUEL_CHATMESSAGE_REQUEST_REFUSED: Oyuncu {0} düello isteğini reddetti.
 DUEL_CHATMESSAGE_USER_OFFLINE: Rakip artık çevrimiçi değil.
 DUEL_CHATMESSAGE_WON: 'Düelloyu kazandın! Skor: {0}-{1}'
-DUEL_CHATMSG_CANNOT_REGISTER: You are already registered.
-DUEL_CHATMSG_LEVEL_REQUIREMENTS: You need to be at least hero level {0} to register in ranked duels.
-DUEL_CHATMSG_REGISTRATION_ERROR: An error occured. Please contact the support.
+DUEL_CHATMSG_CANNOT_REGISTER: Kayıt işlemin daha önce yapılmış.
+DUEL_CHATMSG_LEVEL_REQUIREMENTS: Rank düellolara girebilmek için kahraman seviyenin en az {0} olması lazım.
+DUEL_CHATMSG_REGISTRATION_ERROR: Hata oluştu. Destekle iletişim kurunuz.
 DUEL_DIALOG_REQUEST_INVITE: '{0} seni meydan okudu! Kabul etmek ister misin?'
 DUEL_DIALOG_REVIVAL: Devam et?
 DUEL_INFO_TARGET_REQUESTS_BLOCKED: Bu oyuncu düello isteklerini engelliyor.
-DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: 'You can equip arena wings on your specialist cards until: {0}'
-DUEL_RANK_NAME_BRONZE: Bronze
-DUEL_RANK_NAME_DIAMOND: Diamond
-DUEL_RANK_NAME_GOLD: Gold
-DUEL_RANK_NAME_PLATINUM: Platinum
-DUEL_RANK_NAME_SILVER: Silver
+DUEL_MODE_CHATMESSAGE_ARENA_WINGS_AVAILABLE: '{0} tarihine kadar özel kartlarınızla arena kanatlarını kullanabilirsiniz'
+DUEL_RANK_NAME_BRONZE: Bronz
+DUEL_RANK_NAME_DIAMOND: Elmas
+DUEL_RANK_NAME_GOLD: Altın
+DUEL_RANK_NAME_PLATINUM: Platin
+DUEL_RANK_NAME_SILVER: Gümüş
 DUEL_SHOUTMESSAGE_SCORE: '{0} {1}-{2} {3}'
 EMOTES_SHOUTMESSAGE_ALREADY_HAVE: Bu ifadeye zaten sahipsin.
 EMOTES_SHOUTMESSAGE_UNLOCKED: '{0} ifadesinin kilidini açtın.'
@@ -383,7 +386,7 @@ FRIEND_INFO_FRIENDLIST_FULL: Arkadaş listesi dolu.
 FRIEND_INFO_REFUSED: Arkadaşlık isteği reddedildi.
 FRIEND_INFO_REQUEST_BLOCKED: Oyuncu arkadaşlık isteklerini engelliyor.
 FRIEND_MESSAGE_NOT_FRIEND: Bunu yapabilmek için arkadaş olmanız gerekiyor.
-FRIEND_MSG_CANNOT_USE_DURING_HUNT: You cannot use wings of friendship when participating in a scavenger hunt.
+FRIEND_MSG_CANNOT_USE_DURING_HUNT: Arkadaşlık kanatlarını bir hazine avına dahilken kullanamazsın.
 FRIEND_SHOUTMESSAGE_CHARACTER_NOT_FRIEND: Bu oyuncu arkadaş listende değil.
 FRIEND_TALKMESSAGE_DIFFRENT_FACTION: Arkadaşın düşman fraksiyonda.
 GAMBLING_CHATMESSAGE_ITEM_IS_FIXED: Sabit seviyeli eşyalarla kumar oynayamazsın.
@@ -461,8 +464,8 @@ INFORMATION_CHATMESSAGE_NOT_ENOUGH_REPUT: Yeterli itibarın yok.
 INFORMATION_CHATMESSAGE_NOT_REQUIERED_LEVEL: Seviyen çok düşük.
 INFORMATION_CHATMESSAGE_NOT_YOUR_ITEM: Bu eşya senin değil.
 INFORMATION_CHATMESSAGE_ON_LOGIN_BAZAAR_MEDAL: NosTüccar Madalyası şu anda aktif.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Maceracı Madalyan {0} tarihinde süresi dolacak.
-INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Şampiyonlar Madalyan {0} tarihinde süresi dolacak.
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_ADVENTURERS: Maceracı Madalyan {0} tarihinde süresi dolacak
+INFORMATION_CHATMESSAGE_ON_LOGIN_MEDAL_OF_CHAMPIONS: Şampiyonlar Madalyan {0} tarihinde süresi dolacak
 INFORMATION_CHATMESSAGE_PSP_STAY_TIME: 'Ortak Uzman dönüşümü beklemede: {0} saniye'
 INFORMATION_CHATMESSAGE_REPUT_DECREASE: 'İtibar: -{0}'
 INFORMATION_CHATMESSAGE_REPUT_INCREASE: 'İtibar: +{0}'
@@ -552,7 +555,7 @@ ITEM_CHATMESSAGE_PVP_COOLDOWN: Bir oyuncu ile dövüştükten sonra bu eşyayı 
 ITEM_CHATMESSAGE_SIGNPOST_ALREADY_IN: 'Zaten bir yön tabelası kurmuşsun. Kalan süre: {0}'
 ITEM_CHATMESSAGE_TIMEOUT: Eşyanın ({0}) süresi doldu.
 ITEM_CHATMESSAGE_UNFIXED: Eşyan artık sabitlenmiş değil.
-ITEM_DIALOG_ASK_ADD_MINIPET: Do you want to bind this MiniPet to your currently worn Specialist Card? Note that Minipets are SP bound.
+ITEM_DIALOG_ASK_ADD_MINIPET: Bu MiniPet'i, giydiğin Uzman Kartı ile ilişkilendirmek istediğinden emin misin? MiniPet'ler sadece SP ile bağlantılıdır.
 ITEM_DIALOG_ASK_BIND: Bu eşyayı donatmak istiyor musun? Bu eşya karakterine bağlanacak ve ticaretini yapamayacaksın.
 ITEM_DIALOG_ASK_CHANGE_FACTION: Tarafını değiştirmek istiyor musun?
 ITEM_DIALOG_ASK_CHANGE_FAMILY_FACTION: Ailenin tarafını değiştirmek istiyor musun?
@@ -586,7 +589,7 @@ ITEM_SHOUTMESSAGE_SAME_FACTION: Aynı fraksiyona geçemezsin.
 ITEM_SHOUTMESSAGE_SAME_SP_WINGS_ALREADY_SET: Aynı kanatları kullanamazsın.
 ITEM_SHOUTMESSAGE_VEHICLE_DEBUFF: Olumsuz bir etki nedeniyle mount'a dönüşemezsin.
 ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL: '#ITEM_SHOUTMESSAGE_WOA_NOT_ENOUGH_LEVEL'
-ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: This item cannot be used during a fight.
+ITEM_USAGE_MSG_ITEM_DISABLED_FIGHT: Bu item savaş esnasında kullanılamaz.
 ITEM_USAGE_MSG_ITEM_DISABLED_IN_MULTIVERSE: Bu item çoklu evrende devre dışı.
 ITEM_USAGE_MSG_ITEM_DISABLED_TEMPORARILY: Bu eşya geçici olarak devre dışı bırakıldı.
 ITEM_USAGE_MSG_ITEM_ONLY_USABLE_IN_MULTIVERSE: Bu item sadece Çoklu Evrende kullanılabilir.
@@ -626,7 +629,7 @@ MAIL_CHATMESSAGE_YOU_HAVE_X_MAILS: Gelen kutunda {0} adet mailin var.
 MAIL_INFO_OPEN_FAILED: Maili açma başarısız oldu.
 MAIL_INFO_TOO_MANY_MAILS: Yeni maillerin vardı ama posta kutun doluydu, bu yüzden mailler silindi. Kurtarmak için Destek ile iletişime geç.
 MAIL_INFO_WAIT_CLAIM_ALL_PARCELS: Tüm paketleri tekrar talep etmeden önce {0} saniye beklemelisin.
-MAIL_QNA_ACCEPT_FEE: You must accept a {0} gold fee to claim this parcel.
+MAIL_QNA_ACCEPT_FEE: Bu paketi istiyorsan {0} altın ücretini onaylaman lazım.
 MAINTENANCE_CHATMESSAGE_LOGIN_NOTIFY: 'Bakım {0} tarihinde planlandı. (Kalan süre: {1})'
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_EXECUTED: Bakım gerçekleştirildi.
 MAINTENANCE_SHOUTMESSAGE_NOTIFY_LIFTED: Bakım kaldırıldı.
@@ -893,7 +896,7 @@ RAID_CHATMESSAGE_LEVEL_TOO_HIGH: Akın önerilen seviye senin seviyene uymadığ
 RAID_CHATMESSAGE_LIMIT_LEFT: Bugün {0} akınına {1} kez katılabilirsin.
 RAID_CHATMESSAGE_LIMIT_REACHED: '{0} akınında maksimum giriş sayısına ulaşıldı.'
 RAID_CHATMESSAGE_LOW_LEVEL: Akına katılmak için en az {0} seviye olmalısın.
-RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Player {0} could not be teleported...
+RAID_CHATMESSAGE_MEMBER_NOT_PRESENT: Oyuncu {0} ışınlanamadı...
 RAID_CHATMESSAGE_NEW_LEADER: '{0}, yeni akın takımı lideri oldu.'
 RAID_CHATMESSAGE_NO_EXIST_OR_ALREADY_STARTED: Akın mevcut değil veya zaten başlamış.
 RAID_CHATMESSAGE_RAID_COMPLETED_IN_X_TIME: Akın {0} içinde tamamlandı.
@@ -903,7 +906,7 @@ RAID_CHATMESSAGE_START_NOT_IN_RAID_PARTY: Herhangi bir akın takımının parça
 RAID_CHATMESSAGE_START_RAID_TYPE_IS_WRONG: Bu akın burada başlamıyor.
 RAID_CHATMESSAGE_X_IS_MISSING_ITEM_Y: 'Player: {0} {1} itemine sahip değil.'
 RAID_CHATMESSAGE_X_JOINED: '{0}, akın takımına katıldı.'
-RAID_CHATMSG_RELOG_JOIN_ISSUE: An error occured when trying to join this raid.
+RAID_CHATMSG_RELOG_JOIN_ISSUE: Bu akına katılmaya çalışırken bir hata oluştu.
 RAID_DIALOG_ASK_START_RAID: '{0} akını başlatmak ister misin?'
 RAID_DIALOG_INVITED_YOU: '{0} seni bir akın takımına davet etti. Kabul ediyor musun?'
 RAID_INFO_NO_EXIST: Akın mevcut değil!
@@ -913,7 +916,7 @@ RAID_MESSAGE_DISOLVED: Akın takımı dağıtıldı.
 RAID_NOTIFMESSAGE_ACTION_OPEN_REPORT: Akın Raporunu Aç
 RAID_NOTIFMESSAGE_REPORT_DESCRIPTION: '{0} için takım istatistiklerine göz at.'
 RAID_NOTIFMESSAGE_REPORT_TITLE: Akın Raporu Hazır
-RAID_QNA_RELOG: Do you want to rejoin the {0} raid party?
+RAID_QNA_RELOG: '{0} akın partisine tekrar katılmak ister misin?'
 RAID_SAY_MOTION_DETECTION_BOMB: '#RAID_SAY_MOTION_DETECTION_BOMB'
 RAID_SHOUTMESSAGE_A_PLAYER_IS_MISSING_SEAL: Bir oyuncunun gerekli mührü eksik.
 RAID_SHOUTMESSAGE_ALL_PLAYERS_ARE_FROZEN: Bütün oyuncular donduruldu.
@@ -980,15 +983,15 @@ RAINBOW_BATTLE_SHOUTMESSAGE_UNFROZEN: Oyuncu {0} çözüldü.
 RAINBOW_BATTLE_SURRENDER_ALREADY_VOTED_CHATMESSAGE: Artık oy veremezsiniz.
 RAINBOW_BATTLE_SURRENDER_NOT_AVAILABLE_MESSAGE: Şu anda oylama kullanılamıyor.
 RAINBOW_BATTLE_SURRENDER_POSITIVE_VOTE_COUNT_CHATMESSAGE: Şu anda teslim olmak için {0} oy var.
-RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Your elo has decayed by {0} points since you did not play any ranked duel match today.
-RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'You have gained +{0} elo. New elo: {1}'
-RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'You have lost -{0} elo. New elo: {1}'
-RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'You can only receive rewards between {0} & {1}'
-RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Only the losing player can forfeit.
-RANKED_DUEL_FORFEIT_UNDER_DELAY: You can only forfeit after 5 minutes.
-RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: No suitable opponent was found.
-RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: You are banned from ranked duels until {0}
-RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: You can't use this skill before the fight starts.
+RANKED_DUEL_CHATMESSAGE_ELO_DECAYED: Bugün herhangi bir dereceli düello maçı oynamadığın için puanın {0} kadar düştü.
+RANKED_DUEL_CHATMESSAGE_ELO_GAINED: 'Elo skorun +{0} yükseldi. Şimdi ki elo: {1}'
+RANKED_DUEL_CHATMESSAGE_ELO_LOST: 'Elo puanınız {0} azaldı. Yeni elo puanınız: {1}'
+RANKED_DUEL_CHATMESSAGE_NOT_ELIGIBLE_FOR_REWARDS: 'Sadece {0} ve {1} saatleri arasında ödül kazanabilirsin'
+RANKED_DUEL_FORFEIT_NEED_TO_LOSE: Sadece kaybeden player teslim olabilir.
+RANKED_DUEL_FORFEIT_UNDER_DELAY: 5 dakikanın dolmasını beklemeden pes edemezsin.
+RANKED_DUEL_MATCHMAKING_OPPONENT_NOT_FOUND: Müsait bir rakip çıkmadı.
+RANKED_DUEL_MATCHMAKING_YOU_ARE_BANNED_UNTIL_X: '{0} zamanına kadar sıralı düellolardan yasaklandın'
+RANKED_DUEL_SHOUTMESSAGE_CANT_USE_SKILL_PREPARATION: Bu yeteneği dövüş başlamadan kullanamazsın.
 RESPAWN_DIALOG_ASK_CHANGE_SPAWN_LOCATION: Doğma yerini değiştirmek ister misin?
 RESPAWNLOCATION_SHOUTMESSAGE_CHANGED: Dirilme yeri değiştirildi.
 REVIVE_DIALOG_ARENA: Dirilmek ister misin? Bu senin {0} altınını mâl olacak.
@@ -1003,9 +1006,9 @@ RUNE_MSG_REPAIRED: Hasar görmüş silah tamir edildi.
 RUNE_MSG_UPGRADE_FAILED: Run yükseltme başarısız oldu.
 RUNE_MSG_UPGRADE_RUINED: İşlem sırasında ekipman hasar gördü.
 RUNE_MSG_UPGRADE_SUCCESS: Tebrikler, run eklendi.
-RUNE_POWER_SWITCH_QNA: Are you sure you want to switch these rune powers ?
+RUNE_POWER_SWITCH_QNA: Bu rün güçlerini değiştirmek istediğine emin misin?
 RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH: '#RUNE_POWER_SWITCH_SHOUTMESSAGE_NOT_HIGH_ENOUGH'
-RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rune powers switched successfully!
+RUNE_POWER_SWITCH_SHOUTMESSAGE_SUCCESS: Rün güçleri başarıyla değiştirildi!
 RUNE_SHOUTMESSAGE_NEED_PERFUME: Bu silah başka bir oyuncuya ait. Sadece kendi silahlarına run ekleyebilirsin.
 SCAVENGER_HUNT_SHOUTMESSAGE_CANNOT_USE_LEVER: Önceki kolları aktifleştirmen gerekiyor.
 SCAVENGER_HUNT_SHOUTMESSAGE_PLAYER_WON: '{0} define avını kazandı!'
@@ -1046,7 +1049,7 @@ SHOP_INFO_NOT_ALLOWED_IN_RAID: Akın sırasında dükkan açamazsın.
 SHOP_INFO_OPEN: Dükkan açıldı.
 SHOP_INFO_TARGET_MAX_GOLD: Oyuncu maksimum altın miktarına ulaştı.
 SHOP_LOG_SELL_ITEM_VALID: İşlem başarılı
-SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Shops cannot be opened during fights.
+SHOP_MSG_SHOP_DISABLED_IN_FIGHT: Dükkan, savaş sırasında açılamaz.
 SKILL_CHATMESSAGE_ALREADY_LEARNT: Bu yeteneği zaten öğrendin.
 SKILL_CHATMESSAGE_CANT_LEARN_MORPHED: Dönüşmüşken yetenek öğrenemezsin.
 SKILL_CHATMESSAGE_CANT_LEARN_NEED_BASE: Önce temel yeteneği öğrenmelisin.
