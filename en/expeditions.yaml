@@ -1,0 +1,5 @@
+EXPEDITION_ENTERED_NODE: Entered {0} node.
+EXPEDITION_TASK: New task(s).
+EXPEDITION_ROOM_TASKS_FINISHED: All the current room tasks have been accomplished.
+EXPEDITION_END_NODE_UNLOCKED: End node portal unlocked.
+EXPEDITION_NODE_REWARD_OBTAINED: x{1} {0} put in expedition rewards bag.
